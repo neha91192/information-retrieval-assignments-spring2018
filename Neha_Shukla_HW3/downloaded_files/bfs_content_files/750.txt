@@ -1,0 +1,4285 @@
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Tidal force - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Tidal_force","wgTitle":"Tidal force","wgCurRevisionId":821688133,"wgRevisionId":821688133,"wgArticleId":30719,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Tidal forces","Tides","Gravitation","Force","Effects of gravitation"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Tidal_force","wgRelevantArticleId":30719,"wgRequestId":"WrPMUgpAADoAAALP-iQAAACV","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q223325","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","ext.tmh.thumbnail.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","ext.math.scripts","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.25" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Supermassive_black_hole_rips_star_apart_%28simulation%29.webm/1200px--Supermassive_black_hole_rips_star_apart_%28simulation%29.webm.jpg" property="og:image"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Tidal_force" rel="alternate"/>
+  <link href="/w/index.php?title=Tidal_force&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Tidal_force&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Tidal_force" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Tidal_force rootpage-Tidal_force skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Tidal force
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:302px;">
+        <a class="image" href="/wiki/File:Shoemaker-levy-tidal-forces.jpg">
+         <img alt="" class="thumbimage" data-file-height="600" data-file-width="1548" height="116" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Shoemaker-levy-tidal-forces.jpg/300px-Shoemaker-levy-tidal-forces.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Shoemaker-levy-tidal-forces.jpg/450px-Shoemaker-levy-tidal-forces.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/71/Shoemaker-levy-tidal-forces.jpg/600px-Shoemaker-levy-tidal-forces.jpg 2x" width="300"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Shoemaker-levy-tidal-forces.jpg" title="Enlarge">
+          </a>
+         </div>
+         Figure 1:
+         <a class="mw-redirect" href="/wiki/Comet_Shoemaker-Levy_9" title="Comet Shoemaker-Levy 9">
+          Comet Shoemaker-Levy 9
+         </a>
+         in 1994 after breaking up under the influence of
+         <a href="/wiki/Jupiter" title="Jupiter">
+          Jupiter
+         </a>
+         's tidal forces during a previous pass in 1992.
+        </div>
+       </div>
+      </div>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <div class="PopUpMediaTransform" id="mwe_player_0" style="width:220px;" videopayload='&lt;div class="mediaContainer" style="width:854px"&gt;&lt;video id="mwe_player_1" poster="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Supermassive_black_hole_rips_star_apart_%28simulation%29.webm/854px--Supermassive_black_hole_rips_star_apart_%28simulation%29.webm.jpg" controls="" preload="none" autoplay="" style="width:854px;height:480px" class="kskin" data-durationhint="50.461" data-startoffset="0" data-mwtitle="Supermassive_black_hole_rips_star_apart_(simulation).webm" data-mwprovider="wikimediacommons"&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/7/7f/Supermassive_black_hole_rips_star_apart_%28simulation%29.webm/Supermassive_black_hole_rips_star_apart_%28simulation%29.webm.480p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="SD WebM (480P)" data-shorttitle="WebM 480P" data-transcodekey="480p.webm" data-width="854" data-height="480" data-bandwidth="1026408" data-framerate="25"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/7/7f/Supermassive_black_hole_rips_star_apart_%28simulation%29.webm" type="video/webm; codecs=&amp;quot;vp8, opus&amp;quot;" data-title="Original WebM file, 1,920 × 1,080 (1.35 Mbps)" data-shorttitle="WebM source" data-width="1920" data-height="1080" data-bandwidth="1350643" data-framerate="25"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/7/7f/Supermassive_black_hole_rips_star_apart_%28simulation%29.webm/Supermassive_black_hole_rips_star_apart_%28simulation%29.webm.720p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="HD WebM (720P)" data-shorttitle="WebM 720P" data-transcodekey="720p.webm" data-width="1280" data-height="720" data-bandwidth="2127160" data-framerate="25"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/7/7f/Supermassive_black_hole_rips_star_apart_%28simulation%29.webm/Supermassive_black_hole_rips_star_apart_%28simulation%29.webm.1080p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="Full HD WebM (1080P)" data-shorttitle="WebM 1080P" data-transcodekey="1080p.webm" data-width="1920" data-height="1080" data-bandwidth="4252776" data-framerate="25"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/7/7f/Supermassive_black_hole_rips_star_apart_%28simulation%29.webm/Supermassive_black_hole_rips_star_apart_%28simulation%29.webm.160p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="Low bandwidth WebM (160P)" data-shorttitle="WebM 160P" data-transcodekey="160p.webm" data-width="284" data-height="160" data-bandwidth="132784" data-framerate="25"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/7/7f/Supermassive_black_hole_rips_star_apart_%28simulation%29.webm/Supermassive_black_hole_rips_star_apart_%28simulation%29.webm.240p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="Small WebM (240P)" data-shorttitle="WebM 240P" data-transcodekey="240p.webm" data-width="426" data-height="240" data-bandwidth="260648" data-framerate="25"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/7/7f/Supermassive_black_hole_rips_star_apart_%28simulation%29.webm/Supermassive_black_hole_rips_star_apart_%28simulation%29.webm.360p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="WebM (360P)" data-shorttitle="WebM 360P" data-transcodekey="360p.webm" data-width="640" data-height="360" data-bandwidth="516280" data-framerate="25"/&gt;&lt;/video&gt;&lt;/div&gt;'>
+         <img alt="File:Supermassive black hole rips star apart (simulation).webm" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Supermassive_black_hole_rips_star_apart_%28simulation%29.webm/220px--Supermassive_black_hole_rips_star_apart_%28simulation%29.webm.jpg" style="width:220px;height:124px"/>
+         <a href="//upload.wikimedia.org/wikipedia/commons/7/7f/Supermassive_black_hole_rips_star_apart_%28simulation%29.webm" target="new" title="Play media">
+          <span class="play-btn-large">
+           <span class="mw-tmh-playtext">
+            Play media
+           </span>
+          </span>
+         </a>
+        </div>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Supermassive_black_hole_rips_star_apart_(simulation).webm" title="Enlarge">
+          </a>
+         </div>
+         This simulation shows a
+         <a href="/wiki/Star" title="Star">
+          star
+         </a>
+         getting torn apart by the gravitational tides of a
+         <a href="/wiki/Supermassive_black_hole" title="Supermassive black hole">
+          supermassive black hole
+         </a>
+         .
+        </div>
+       </div>
+      </div>
+      <p>
+       The
+       <b>
+        tidal force
+       </b>
+       is an
+       <a href="/wiki/Fictitious_force" title="Fictitious force">
+        apparent force
+       </a>
+       that stretches a body towards the center of mass of another body due to a
+       <a href="/wiki/Gradient" title="Gradient">
+        gradient
+       </a>
+       (difference in strength) in
+       <a href="/wiki/Gravitational_field" title="Gravitational field">
+        gravitational field
+       </a>
+       from the other body; it is responsible for the diverse phenomena, including
+       <a href="/wiki/Tide" title="Tide">
+        tides
+       </a>
+       ,
+       <a href="/wiki/Tidal_locking" title="Tidal locking">
+        tidal locking
+       </a>
+       , breaking apart of celestial bodies and formation of
+       <a href="/wiki/Ring_system" title="Ring system">
+        ring systems
+       </a>
+       within
+       <a href="/wiki/Roche_limit" title="Roche limit">
+        Roche limit
+       </a>
+       , and in extreme cases,
+       <a href="/wiki/Spaghettification" title="Spaghettification">
+        spaghettification
+       </a>
+       of objects. It arises because the gravitational force exerted on one body by another is not constant across its parts: the nearest side is attracted more strongly than the farthest side. It is this difference that causes a body to get stretched. Thus, the tidal force is also known as the differential force, as well as a secondary effect of the gravitational force.
+      </p>
+      <p>
+       In
+       <a href="/wiki/Celestial_mechanics" title="Celestial mechanics">
+        celestial mechanics
+       </a>
+       , the expression "tidal force" can refer to a situation in which a body or material (for example, tidal water) is mainly under the gravitational influence of a second body (for example, the Earth), but is also perturbed by the gravitational effects of a third body (for example, the Moon). The perturbing force is sometimes in such cases called a tidal force
+       <sup class="reference" id="cite_ref-1">
+        <a href="#cite_note-1">
+         [1]
+        </a>
+       </sup>
+       (for example, the
+       <a href="/wiki/Lunar_theory#Newton" title="Lunar theory">
+        perturbing force on the Moon
+       </a>
+       ): it is the difference between the force exerted by the third body on the second and the force exerted by the third body on the first.
+       <sup class="reference" id="cite_ref-2">
+        <a href="#cite_note-2">
+         [2]
+        </a>
+       </sup>
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Explanation">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Explanation
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#Effects_of_tidal_forces">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Effects of tidal forces
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-3">
+         <a href="#Mathematical_treatment">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           Mathematical treatment
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-4">
+         <a href="#See_also">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-5">
+         <a href="#References">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-6">
+         <a href="#External_links">
+          <span class="tocnumber">
+           6
+          </span>
+          <span class="toctext">
+           External links
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Explanation">
+        Explanation
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Tidal_force&amp;action=edit&amp;section=1" title="Edit section: Explanation">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:302px;">
+        <a class="image" href="/wiki/File:Field_tidal.svg">
+         <img alt="" class="thumbimage" data-file-height="608" data-file-width="1123" height="162" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Field_tidal.svg/300px-Field_tidal.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Field_tidal.svg/450px-Field_tidal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/08/Field_tidal.svg/600px-Field_tidal.svg.png 2x" width="300"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Field_tidal.svg" title="Enlarge">
+          </a>
+         </div>
+         Figure 2: The Moon's gravity
+         <i>
+          differential
+         </i>
+         field at the surface of the Earth is known (along with another and weaker differential effect due to the Sun) as the Tide Generating Force. This is the primary mechanism driving tidal action, explaining two tidal
+         <a href="/wiki/Equipotential" title="Equipotential">
+          equipotential
+         </a>
+         bulges, and accounting for two high tides per day. In this figure, the Earth is the central blue circle while the Moon is far off to the right. The
+         <b>
+          outward
+         </b>
+         direction of the arrows on the right and left indicates that where the Moon is overhead (or at the
+         <a href="/wiki/Nadir" title="Nadir">
+          nadir
+         </a>
+         ) its perturbing force opposes that between the earth and ocean.
+        </div>
+       </div>
+      </div>
+      <p>
+       When a body (body 1) is acted on by the gravity of another body (body 2), the field can vary significantly on body 1 between the side of the body facing body 2 and the side facing away from body 2. Figure 2 shows the differential force of gravity on a spherical body (body 1) exerted by another body (body 2). These so-called
+       <i>
+        tidal forces
+       </i>
+       cause strains on both bodies and may distort them or even, in extreme cases, break one or the other apart.
+       <sup class="reference" id="cite_ref-Penrose_3-0">
+        <a href="#cite_note-Penrose-3">
+         [3]
+        </a>
+       </sup>
+       The
+       <a href="/wiki/Roche_limit" title="Roche limit">
+        Roche limit
+       </a>
+       is the distance from a planet at which tidal effects would cause an object to disintegrate because the differential force of gravity from the planet overcomes the attraction of the parts of the object for one another.
+       <sup class="reference" id="cite_ref-Blanc_4-0">
+        <a href="#cite_note-Blanc-4">
+         [4]
+        </a>
+       </sup>
+       These strains would not occur if the gravitational field were uniform, because a uniform
+       <a href="/wiki/Field_(physics)" title="Field (physics)">
+        field
+       </a>
+       only causes the entire body to accelerate together in the same direction and at the same rate.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Effects_of_tidal_forces">
+        Effects of tidal forces
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Tidal_force&amp;action=edit&amp;section=2" title="Edit section: Effects of tidal forces">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="thumb tleft">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Saturn-cassini-March-27-2004.jpg">
+         <img alt="" class="thumbimage" data-file-height="764" data-file-width="1024" height="164" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Saturn-cassini-March-27-2004.jpg/220px-Saturn-cassini-March-27-2004.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Saturn-cassini-March-27-2004.jpg/330px-Saturn-cassini-March-27-2004.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/09/Saturn-cassini-March-27-2004.jpg/440px-Saturn-cassini-March-27-2004.jpg 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Saturn-cassini-March-27-2004.jpg" title="Enlarge">
+          </a>
+         </div>
+         Figure 3:
+         <a href="/wiki/Saturn" title="Saturn">
+          Saturn
+         </a>
+         's rings are inside the orbits of its principal moons. Tidal forces oppose gravitational coalescence of the material in the rings to form moons.
+         <sup class="reference" id="cite_ref-MacKay_5-0">
+          <a href="#cite_note-MacKay-5">
+           [5]
+          </a>
+         </sup>
+        </div>
+       </div>
+      </div>
+      <p>
+       In the case of an infinitesimally small elastic sphere, the effect of a tidal force is to distort the shape of the body without any change in volume. The sphere becomes an
+       <a href="/wiki/Ellipsoid" title="Ellipsoid">
+        ellipsoid
+       </a>
+       with two bulges, pointing towards and away from the other body. Larger objects distort into an
+       <a class="mw-redirect" href="/wiki/Ovoid" title="Ovoid">
+        ovoid
+       </a>
+       , and are slightly compressed, which is what happens to the Earth's oceans under the action of the Moon. The Earth and Moon rotate about their common center of mass or
+       <a href="/wiki/Barycenter" title="Barycenter">
+        barycenter
+       </a>
+       , and their gravitational attraction provides the
+       <a href="/wiki/Centripetal_force" title="Centripetal force">
+        centripetal force
+       </a>
+       necessary to maintain this motion. To an observer on the Earth, very close to this barycenter, the situation is one of the Earth as body 1 acted upon by the gravity of the Moon as body 2. All parts of the Earth are subject to the Moon's gravitational forces, causing the water in the oceans to redistribute, forming bulges on the sides near the Moon and far from the Moon.
+       <sup class="reference" id="cite_ref-Americana_6-0">
+        <a href="#cite_note-Americana-6">
+         [6]
+        </a>
+       </sup>
+      </p>
+      <p>
+       When a body rotates while subject to tidal forces, internal friction results in the gradual dissipation of its rotational kinetic energy as heat. In the case for the Earth, and Earth's Moon, the loss of rotational kinetic energy results in a gain of about 2 milliseconds per century. If the body is close enough to its primary, this can result in a rotation which is
+       <a href="/wiki/Tidal_locking" title="Tidal locking">
+        tidally locked
+       </a>
+       to the orbital motion, as in the case of the Earth's moon.
+       <a href="/wiki/Tidal_heating" title="Tidal heating">
+        Tidal heating
+       </a>
+       produces dramatic volcanic effects on Jupiter's moon
+       <a href="/wiki/Io_(moon)" title="Io (moon)">
+        Io
+       </a>
+       .
+       <span id="Stress">
+       </span>
+       <a href="/wiki/Stress_(mechanics)" title="Stress (mechanics)">
+        Stresses
+       </a>
+       caused by tidal forces also cause a regular monthly pattern of
+       <a class="mw-redirect" href="/wiki/Moonquake" title="Moonquake">
+        moonquakes
+       </a>
+       on Earth's Moon.
+       <sup class="reference" id="cite_ref-7">
+        <a href="#cite_note-7">
+         [7]
+        </a>
+       </sup>
+      </p>
+      <p>
+       Tidal forces contribute to ocean currents, which moderate global temperatures by transporting heat energy toward the poles. It has been suggested that in addition to other factors,
+       <a href="/wiki/Beat_(acoustics)" title="Beat (acoustics)">
+        harmonic beat
+       </a>
+       variations in tidal forcing may contribute to climate changes. However, no strong link has been found to date.
+       <sup class="reference" id="cite_ref-8">
+        <a href="#cite_note-8">
+         [8]
+        </a>
+       </sup>
+      </p>
+      <p>
+       Tidal effects become particularly pronounced near small bodies of high mass, such as
+       <a href="/wiki/Neutron_star" title="Neutron star">
+        neutron stars
+       </a>
+       or
+       <a href="/wiki/Black_hole" title="Black hole">
+        black holes
+       </a>
+       , where they are responsible for the "
+       <a href="/wiki/Spaghettification" title="Spaghettification">
+        spaghettification
+       </a>
+       " of infalling matter. Tidal forces create the oceanic
+       <a href="/wiki/Tide" title="Tide">
+        tide
+       </a>
+       of
+       <a href="/wiki/Earth" title="Earth">
+        Earth
+       </a>
+       's oceans, where the attracting bodies are the
+       <a href="/wiki/Moon" title="Moon">
+        Moon
+       </a>
+       and, to a lesser extent, the
+       <a href="/wiki/Sun" title="Sun">
+        Sun
+       </a>
+       . Tidal forces are also responsible for
+       <a href="/wiki/Tidal_locking" title="Tidal locking">
+        tidal locking
+       </a>
+       ,
+       <a href="/wiki/Tidal_acceleration" title="Tidal acceleration">
+        tidal acceleration
+       </a>
+       , and tidal heating.
+       <a href="/wiki/Tidal_triggering_of_earthquakes" title="Tidal triggering of earthquakes">
+        Tides may also induce seismicity
+       </a>
+       .
+      </p>
+      <p>
+       By generating conducting fluids within the interior of the Earth, tidal forces also affect the
+       <a href="/wiki/Earth%27s_magnetic_field" title="Earth's magnetic field">
+        Earth's magnetic field
+       </a>
+       .
+       <sup class="reference" id="cite_ref-9">
+        <a href="#cite_note-9">
+         [9]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Mathematical_treatment">
+        Mathematical treatment
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Tidal_force&amp;action=edit&amp;section=3" title="Edit section: Mathematical treatment">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Inseparable_galactic_twins.jpg">
+         <img alt="" class="thumbimage" data-file-height="2797" data-file-width="2797" height="220" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Inseparable_galactic_twins.jpg/220px-Inseparable_galactic_twins.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Inseparable_galactic_twins.jpg/330px-Inseparable_galactic_twins.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/19/Inseparable_galactic_twins.jpg/440px-Inseparable_galactic_twins.jpg 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Inseparable_galactic_twins.jpg" title="Enlarge">
+          </a>
+         </div>
+         Tidal force is responsible for the merge of galactic pair
+         <a class="new" href="/w/index.php?title=MRK_1034&amp;action=edit&amp;redlink=1" title="MRK 1034 (page does not exist)">
+          MRK 1034
+         </a>
+         .
+         <sup class="reference" id="cite_ref-10">
+          <a href="#cite_note-10">
+           [10]
+          </a>
+         </sup>
+        </div>
+       </div>
+      </div>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Tidal-forces.svg">
+         <img alt="" class="thumbimage" data-file-height="500" data-file-width="500" height="220" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tidal-forces.svg/220px-Tidal-forces.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tidal-forces.svg/330px-Tidal-forces.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tidal-forces.svg/440px-Tidal-forces.svg.png 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Tidal-forces.svg" title="Enlarge">
+          </a>
+         </div>
+         Figure 4: Graphic of tidal forces. The top picture shows the gravity field of a body to the right, the lower shows their residual once the field at the centre of the sphere is subtracted; this is the tidal force. See Figure 2 for a more detailed version
+        </div>
+       </div>
+      </div>
+      <p>
+       For a given (externally generated) gravitational field, the
+       <b>
+        tidal acceleration
+       </b>
+       at a point with respect to a body is obtained by
+       <a href="/wiki/Euclidean_vector#Addition_and_subtraction" title="Euclidean vector">
+        vectorially subtracting
+       </a>
+       the gravitational acceleration at the center of the body (due to the given externally generated field) from the gravitational acceleration (due to the same field) at the given point. Correspondingly, the term
+       <i>
+        <b>
+         tidal force
+        </b>
+       </i>
+       is used to describe the forces due to tidal acceleration. Note that for these purposes the only gravitational field considered is the external one; the gravitational field of the body (as shown in the graphic) is not relevant. (In other words, the comparison is with the conditions at the given point as they would be if there were no externally generated field acting unequally at the given point and at the center of the reference body. The externally generated field is usually that produced by a perturbing third body, often the Sun or the Moon in the frequent example-cases of points on or above the Earth's surface in a geocentric reference frame.)
+      </p>
+      <p>
+       Tidal acceleration does not require rotation or orbiting bodies; for example, the body may be
+       <a class="mw-redirect" href="/wiki/Freefall" title="Freefall">
+        freefalling
+       </a>
+       in a straight line under the influence of a gravitational field while still being influenced by (changing) tidal acceleration.
+      </p>
+      <p>
+       By
+       <a href="/wiki/Newton%27s_law_of_universal_gravitation" title="Newton's law of universal gravitation">
+        Newton's law of universal gravitation
+       </a>
+       and laws of motion, a body of mass
+       <i>
+        m
+       </i>
+       at distance
+       <i>
+        R
+       </i>
+       from the center of a sphere of mass
+       <i>
+        M
+       </i>
+       feels a force
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle {\vec {F}}_{g}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mrow class="MJX-TeXAtom-ORD">
+                <mover>
+                 <mi>
+                  F
+                 </mi>
+                 <mo stretchy="false">
+                  →
+                  <!-- → -->
+                 </mo>
+                </mover>
+               </mrow>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                g
+               </mi>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle {\vec {F}}_{g}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\vec F_g" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0bc28ca0912bb273b4b3cc527f0ecd5989c64b6f" style="vertical-align: -1.005ex; width:2.792ex; height:3.509ex;"/>
+       </span>
+       ,
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle {\vec {F}}_{g}=-{\hat {r}}~G~{\frac {Mm}{R^{2}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msub>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mrow class="MJX-TeXAtom-ORD">
+                 <mover>
+                  <mi>
+                   F
+                  </mi>
+                  <mo stretchy="false">
+                   →
+                   <!-- → -->
+                  </mo>
+                 </mover>
+                </mrow>
+               </mrow>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 g
+                </mi>
+               </mrow>
+              </msub>
+              <mo>
+               =
+              </mo>
+              <mo>
+               −
+               <!-- − -->
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mrow class="MJX-TeXAtom-ORD">
+                <mover>
+                 <mi>
+                  r
+                 </mi>
+                 <mo stretchy="false">
+                  ^
+                  <!-- ^ -->
+                 </mo>
+                </mover>
+               </mrow>
+              </mrow>
+              <mtext>
+              </mtext>
+              <mi>
+               G
+              </mi>
+              <mtext>
+              </mtext>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mrow>
+                 <mi>
+                  M
+                 </mi>
+                 <mi>
+                  m
+                 </mi>
+                </mrow>
+                <msup>
+                 <mi>
+                  R
+                 </mi>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mn>
+                   2
+                  </mn>
+                 </mrow>
+                </msup>
+               </mfrac>
+              </mrow>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle {\vec {F}}_{g}=-{\hat {r}}~G~{\frac {Mm}{R^{2}}}}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="\vec F_g = - \hat r ~ G ~ \frac{M m}{R^2}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2eef05cce2be6d8cceb9e7d3882e53305eb11320" style="vertical-align: -2.171ex; width:17.297ex; height:5.509ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       equivalent to an acceleration
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle {\vec {a}}_{g}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mrow class="MJX-TeXAtom-ORD">
+                <mover>
+                 <mi>
+                  a
+                 </mi>
+                 <mo stretchy="false">
+                  →
+                  <!-- → -->
+                 </mo>
+                </mover>
+               </mrow>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                g
+               </mi>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle {\vec {a}}_{g}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\vec a_g" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3375926289f9003ab56dd9da049f42b1a2af31c2" style="vertical-align: -1.005ex; width:2.251ex; height:3.009ex;"/>
+       </span>
+       ,
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle {\vec {a}}_{g}=-{\hat {r}}~G~{\frac {M}{R^{2}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msub>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mrow class="MJX-TeXAtom-ORD">
+                 <mover>
+                  <mi>
+                   a
+                  </mi>
+                  <mo stretchy="false">
+                   →
+                   <!-- → -->
+                  </mo>
+                 </mover>
+                </mrow>
+               </mrow>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 g
+                </mi>
+               </mrow>
+              </msub>
+              <mo>
+               =
+              </mo>
+              <mo>
+               −
+               <!-- − -->
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mrow class="MJX-TeXAtom-ORD">
+                <mover>
+                 <mi>
+                  r
+                 </mi>
+                 <mo stretchy="false">
+                  ^
+                  <!-- ^ -->
+                 </mo>
+                </mover>
+               </mrow>
+              </mrow>
+              <mtext>
+              </mtext>
+              <mi>
+               G
+              </mi>
+              <mtext>
+              </mtext>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mi>
+                 M
+                </mi>
+                <msup>
+                 <mi>
+                  R
+                 </mi>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mn>
+                   2
+                  </mn>
+                 </mrow>
+                </msup>
+               </mfrac>
+              </mrow>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle {\vec {a}}_{g}=-{\hat {r}}~G~{\frac {M}{R^{2}}}}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="\vec a_g = - \hat r ~ G ~ \frac{M}{R^2}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/390b9b018d48e1129f78f7588bebad6fda59cd20" style="vertical-align: -2.171ex; width:15.092ex; height:5.509ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       where
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle {\hat {r}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mrow class="MJX-TeXAtom-ORD">
+              <mrow class="MJX-TeXAtom-ORD">
+               <mover>
+                <mi>
+                 r
+                </mi>
+                <mo stretchy="false">
+                 ^
+                 <!-- ^ -->
+                </mo>
+               </mover>
+              </mrow>
+             </mrow>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle {\hat {r}}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\hat r" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1009619964ce33a4a02aaa7cf82adc0fb0a50f23" style="vertical-align: -0.338ex; width:1.292ex; height:2.176ex;"/>
+       </span>
+       is a
+       <a href="/wiki/Unit_vector" title="Unit vector">
+        unit vector
+       </a>
+       pointing from the body
+       <i>
+        M
+       </i>
+       to the body
+       <i>
+        m
+       </i>
+       (here, acceleration from
+       <i>
+        m
+       </i>
+       towards
+       <i>
+        M
+       </i>
+       has negative sign).
+      </p>
+      <p>
+       Consider now the acceleration due to the sphere of mass
+       <i>
+        M
+       </i>
+       experienced by a particle in the vicinity of the body of mass
+       <i>
+        m
+       </i>
+       . With
+       <i>
+        R
+       </i>
+       as the distance from the center of
+       <i>
+        M
+       </i>
+       to the center of
+       <i>
+        m
+       </i>
+       , let ∆
+       <i>
+        r
+       </i>
+       be the (relatively small) distance of the particle from the center of the body of mass
+       <i>
+        m
+       </i>
+       . For simplicity, distances are first considered only in the direction pointing towards or away from the sphere of mass
+       <i>
+        M
+       </i>
+       . If the body of mass
+       <i>
+        m
+       </i>
+       is itself a sphere of radius ∆
+       <i>
+        r
+       </i>
+       , then the new particle considered may be located on its surface, at a distance (
+       <i>
+        R
+       </i>
+       ±
+       <i>
+        ∆r
+       </i>
+       ) from the centre of the sphere of mass
+       <i>
+        M
+       </i>
+       , and
+       <i>
+        ∆r
+       </i>
+       may be taken as positive where the particle's distance from
+       <i>
+        M
+       </i>
+       is greater than
+       <i>
+        R
+       </i>
+       . Leaving aside whatever gravitational acceleration may be experienced by the particle towards
+       <i>
+        m
+       </i>
+       on account of
+       <i>
+        m'
+       </i>
+       s own mass, we have the acceleration on the particle due to gravitational force towards
+       <i>
+        M
+       </i>
+       as:
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle {\vec {a}}_{g}=-{\hat {r}}~G~{\frac {M}{(R\pm \Delta r)^{2}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msub>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mrow class="MJX-TeXAtom-ORD">
+                 <mover>
+                  <mi>
+                   a
+                  </mi>
+                  <mo stretchy="false">
+                   →
+                   <!-- → -->
+                  </mo>
+                 </mover>
+                </mrow>
+               </mrow>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 g
+                </mi>
+               </mrow>
+              </msub>
+              <mo>
+               =
+              </mo>
+              <mo>
+               −
+               <!-- − -->
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mrow class="MJX-TeXAtom-ORD">
+                <mover>
+                 <mi>
+                  r
+                 </mi>
+                 <mo stretchy="false">
+                  ^
+                  <!-- ^ -->
+                 </mo>
+                </mover>
+               </mrow>
+              </mrow>
+              <mtext>
+              </mtext>
+              <mi>
+               G
+              </mi>
+              <mtext>
+              </mtext>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mi>
+                 M
+                </mi>
+                <mrow>
+                 <mo stretchy="false">
+                  (
+                 </mo>
+                 <mi>
+                  R
+                 </mi>
+                 <mo>
+                  ±
+                  <!-- ± -->
+                 </mo>
+                 <mi mathvariant="normal">
+                  Δ
+                  <!-- Δ -->
+                 </mi>
+                 <mi>
+                  r
+                 </mi>
+                 <msup>
+                  <mo stretchy="false">
+                   )
+                  </mo>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mn>
+                    2
+                   </mn>
+                  </mrow>
+                 </msup>
+                </mrow>
+               </mfrac>
+              </mrow>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle {\vec {a}}_{g}=-{\hat {r}}~G~{\frac {M}{(R\pm \Delta r)^{2}}}}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="\vec a_g = - \hat r ~ G ~ \frac{M}{(R \pm \Delta r)^2}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/47c4be3f43a3f5760dba9f5a641c20b97d634376" style="vertical-align: -2.671ex; width:22.726ex; height:6.009ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       Pulling out the
+       <i>
+        R
+       </i>
+       <sup>
+        2
+       </sup>
+       term from the denominator gives:
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle {\vec {a}}_{g}=-{\hat {r}}~G~{\frac {M}{R^{2}}}~{\frac {1}{(1\pm \Delta r/R)^{2}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msub>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mrow class="MJX-TeXAtom-ORD">
+                 <mover>
+                  <mi>
+                   a
+                  </mi>
+                  <mo stretchy="false">
+                   →
+                   <!-- → -->
+                  </mo>
+                 </mover>
+                </mrow>
+               </mrow>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 g
+                </mi>
+               </mrow>
+              </msub>
+              <mo>
+               =
+              </mo>
+              <mo>
+               −
+               <!-- − -->
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mrow class="MJX-TeXAtom-ORD">
+                <mover>
+                 <mi>
+                  r
+                 </mi>
+                 <mo stretchy="false">
+                  ^
+                  <!-- ^ -->
+                 </mo>
+                </mover>
+               </mrow>
+              </mrow>
+              <mtext>
+              </mtext>
+              <mi>
+               G
+              </mi>
+              <mtext>
+              </mtext>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mi>
+                 M
+                </mi>
+                <msup>
+                 <mi>
+                  R
+                 </mi>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mn>
+                   2
+                  </mn>
+                 </mrow>
+                </msup>
+               </mfrac>
+              </mrow>
+              <mtext>
+              </mtext>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mn>
+                 1
+                </mn>
+                <mrow>
+                 <mo stretchy="false">
+                  (
+                 </mo>
+                 <mn>
+                  1
+                 </mn>
+                 <mo>
+                  ±
+                  <!-- ± -->
+                 </mo>
+                 <mi mathvariant="normal">
+                  Δ
+                  <!-- Δ -->
+                 </mi>
+                 <mi>
+                  r
+                 </mi>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mo>
+                   /
+                  </mo>
+                 </mrow>
+                 <mi>
+                  R
+                 </mi>
+                 <msup>
+                  <mo stretchy="false">
+                   )
+                  </mo>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mn>
+                    2
+                   </mn>
+                  </mrow>
+                 </msup>
+                </mrow>
+               </mfrac>
+              </mrow>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle {\vec {a}}_{g}=-{\hat {r}}~G~{\frac {M}{R^{2}}}~{\frac {1}{(1\pm \Delta r/R)^{2}}}}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="\vec a_g = - \hat r ~ G ~ \frac{M}{R^2} ~ \frac{1}{(1 \pm \Delta r / R)^2}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c8939ee464ed639eed693a7581728ccbcbcfc1a5" style="vertical-align: -2.671ex; width:29.286ex; height:6.009ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       The
+       <a class="mw-redirect" href="/wiki/Maclaurin_series" title="Maclaurin series">
+        Maclaurin series
+       </a>
+       of
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle 1/(1\pm x)^{2}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mn>
+              1
+             </mn>
+             <mrow class="MJX-TeXAtom-ORD">
+              <mo>
+               /
+              </mo>
+             </mrow>
+             <mo stretchy="false">
+              (
+             </mo>
+             <mn>
+              1
+             </mn>
+             <mo>
+              ±
+              <!-- ± -->
+             </mo>
+             <mi>
+              x
+             </mi>
+             <msup>
+              <mo stretchy="false">
+               )
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mn>
+                2
+               </mn>
+              </mrow>
+             </msup>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle 1/(1\pm x)^{2}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="1/(1\pm x)^{2}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e9cf3fed770ac2b49b1956f74dae63664920a26d" style="vertical-align: -0.838ex; width:10.521ex; height:3.176ex;"/>
+       </span>
+       is
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle 1\mp 2x+3x^{2}\mp \cdots }" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mn>
+              1
+             </mn>
+             <mo>
+              ∓
+              <!-- ∓ -->
+             </mo>
+             <mn>
+              2
+             </mn>
+             <mi>
+              x
+             </mi>
+             <mo>
+              +
+             </mo>
+             <mn>
+              3
+             </mn>
+             <msup>
+              <mi>
+               x
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mn>
+                2
+               </mn>
+              </mrow>
+             </msup>
+             <mo>
+              ∓
+              <!-- ∓ -->
+             </mo>
+             <mo>
+              ⋯
+              <!-- ⋯ -->
+             </mo>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle 1\mp 2x+3x^{2}\mp \cdots }
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="1\mp 2x+3x^{2}\mp \cdots " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/db4a6e82e81069695666a62a5aa0dfe70f78cb0f" style="vertical-align: -0.671ex; width:18.445ex; height:3.009ex;"/>
+       </span>
+       which gives a series expansion of:
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle {\vec {a}}_{g}=-{\hat {r}}~G~{\frac {M}{R^{2}}}\pm {\hat {r}}~G~{\frac {2M}{R^{2}}}~{\frac {\Delta r}{R}}+\cdots }" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msub>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mrow class="MJX-TeXAtom-ORD">
+                 <mover>
+                  <mi>
+                   a
+                  </mi>
+                  <mo stretchy="false">
+                   →
+                   <!-- → -->
+                  </mo>
+                 </mover>
+                </mrow>
+               </mrow>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 g
+                </mi>
+               </mrow>
+              </msub>
+              <mo>
+               =
+              </mo>
+              <mo>
+               −
+               <!-- − -->
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mrow class="MJX-TeXAtom-ORD">
+                <mover>
+                 <mi>
+                  r
+                 </mi>
+                 <mo stretchy="false">
+                  ^
+                  <!-- ^ -->
+                 </mo>
+                </mover>
+               </mrow>
+              </mrow>
+              <mtext>
+              </mtext>
+              <mi>
+               G
+              </mi>
+              <mtext>
+              </mtext>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mi>
+                 M
+                </mi>
+                <msup>
+                 <mi>
+                  R
+                 </mi>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mn>
+                   2
+                  </mn>
+                 </mrow>
+                </msup>
+               </mfrac>
+              </mrow>
+              <mo>
+               ±
+               <!-- ± -->
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mrow class="MJX-TeXAtom-ORD">
+                <mover>
+                 <mi>
+                  r
+                 </mi>
+                 <mo stretchy="false">
+                  ^
+                  <!-- ^ -->
+                 </mo>
+                </mover>
+               </mrow>
+              </mrow>
+              <mtext>
+              </mtext>
+              <mi>
+               G
+              </mi>
+              <mtext>
+              </mtext>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mrow>
+                 <mn>
+                  2
+                 </mn>
+                 <mi>
+                  M
+                 </mi>
+                </mrow>
+                <msup>
+                 <mi>
+                  R
+                 </mi>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mn>
+                   2
+                  </mn>
+                 </mrow>
+                </msup>
+               </mfrac>
+              </mrow>
+              <mtext>
+              </mtext>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mrow>
+                 <mi mathvariant="normal">
+                  Δ
+                  <!-- Δ -->
+                 </mi>
+                 <mi>
+                  r
+                 </mi>
+                </mrow>
+                <mi>
+                 R
+                </mi>
+               </mfrac>
+              </mrow>
+              <mo>
+               +
+              </mo>
+              <mo>
+               ⋯
+               <!-- ⋯ -->
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle {\vec {a}}_{g}=-{\hat {r}}~G~{\frac {M}{R^{2}}}\pm {\hat {r}}~G~{\frac {2M}{R^{2}}}~{\frac {\Delta r}{R}}+\cdots }
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\vec  a}_{g}=-{\hat  r}~G~{\frac  {M}{R^{2}}}\pm {\hat  r}~G~{\frac  {2M}{R^{2}}}~{\frac  {\Delta r}{R}}+\cdots " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7bc66029667404fa2ed864117f28de9f2e56bee7" style="vertical-align: -2.171ex; width:36.618ex; height:5.676ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       The first term is the gravitational acceleration due to
+       <i>
+        M
+       </i>
+       at the center of the reference body
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle m}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              m
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle m}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="m" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0a07d98bb302f3856cbabc47b2b9016692e3f7bc" style="vertical-align: -0.338ex; width:2.04ex; height:1.676ex;"/>
+       </span>
+       , i.e., at the point where
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \Delta r}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi mathvariant="normal">
+              Δ
+              <!-- Δ -->
+             </mi>
+             <mi>
+              r
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \Delta r}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\Delta r" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/cc4f36cb1759b5dbc5003f91e305d51f58205200" style="vertical-align: -0.338ex; width:2.985ex; height:2.176ex;"/>
+       </span>
+       is zero. This term does not affect the observed acceleration of particles on the surface of
+       <i>
+        m
+       </i>
+       because with respect to
+       <i>
+        M
+       </i>
+       ,
+       <i>
+        m
+       </i>
+       (and everything on its surface) is in free fall. When the force on the far particle is subtracted from the force on the near particle, this first term cancels, as do all other even-order terms. The remaining (residual) terms represent the difference mentioned above and are tidal force (acceleration) terms. When ∆
+       <i>
+        r
+       </i>
+       is small compared to
+       <i>
+        R
+       </i>
+       , the terms after the first residual term are very small and can be neglected, giving the approximate tidal acceleration
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle {\vec {a}}_{t}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mrow class="MJX-TeXAtom-ORD">
+                <mover>
+                 <mi>
+                  a
+                 </mi>
+                 <mo stretchy="false">
+                  →
+                  <!-- → -->
+                 </mo>
+                </mover>
+               </mrow>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                t
+               </mi>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle {\vec {a}}_{t}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\vec a_t" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3ee300b5066a01bd0a37a25563cdbf83f4736e8c" style="vertical-align: -0.671ex; width:2.056ex; height:2.676ex;"/>
+       </span>
+       (axial) for the distances ∆
+       <i>
+        r
+       </i>
+       considered, along the axis joining the centers of
+       <i>
+        m
+       </i>
+       and
+       <i>
+        M
+       </i>
+       :
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle {\vec {a}}_{t}}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msub>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mrow class="MJX-TeXAtom-ORD">
+                 <mover>
+                  <mi>
+                   a
+                  </mi>
+                  <mo stretchy="false">
+                   →
+                   <!-- → -->
+                  </mo>
+                 </mover>
+                </mrow>
+               </mrow>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 t
+                </mi>
+               </mrow>
+              </msub>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle {\vec {a}}_{t}}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="\vec a_t" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3ee300b5066a01bd0a37a25563cdbf83f4736e8c" style="vertical-align: -0.671ex; width:2.056ex; height:2.676ex;"/>
+        </span>
+        (axial)
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle ~\approx ~\pm ~{\hat {r}}~2\Delta r~G~{\frac {M}{R^{3}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mtext>
+              </mtext>
+              <mo>
+               ≈
+               <!-- ≈ -->
+              </mo>
+              <mtext>
+              </mtext>
+              <mo>
+               ±
+               <!-- ± -->
+              </mo>
+              <mtext>
+              </mtext>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mrow class="MJX-TeXAtom-ORD">
+                <mover>
+                 <mi>
+                  r
+                 </mi>
+                 <mo stretchy="false">
+                  ^
+                  <!-- ^ -->
+                 </mo>
+                </mover>
+               </mrow>
+              </mrow>
+              <mtext>
+              </mtext>
+              <mn>
+               2
+              </mn>
+              <mi mathvariant="normal">
+               Δ
+               <!-- Δ -->
+              </mi>
+              <mi>
+               r
+              </mi>
+              <mtext>
+              </mtext>
+              <mi>
+               G
+              </mi>
+              <mtext>
+              </mtext>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mi>
+                 M
+                </mi>
+                <msup>
+                 <mi>
+                  R
+                 </mi>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mn>
+                   3
+                  </mn>
+                 </mrow>
+                </msup>
+               </mfrac>
+              </mrow>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle ~\approx ~\pm ~{\hat {r}}~2\Delta r~G~{\frac {M}{R^{3}}}}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt=" ~ \approx ~ \pm ~ \hat r ~ 2 \Delta r ~ G ~ \frac{M}{R^3} " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/56e8f03d2f70e8e505b398d85dea9aef5ff9e235" style="vertical-align: -2.171ex; width:20.342ex; height:5.509ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       When calculated in this way for the case where ∆
+       <i>
+        r
+       </i>
+       is a distance along the axis joining the centers of
+       <i>
+        m
+       </i>
+       and
+       <i>
+        M
+       </i>
+       ,
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle {\vec {a}}_{t}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mrow class="MJX-TeXAtom-ORD">
+                <mover>
+                 <mi>
+                  a
+                 </mi>
+                 <mo stretchy="false">
+                  →
+                  <!-- → -->
+                 </mo>
+                </mover>
+               </mrow>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                t
+               </mi>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle {\vec {a}}_{t}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\vec a_t" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3ee300b5066a01bd0a37a25563cdbf83f4736e8c" style="vertical-align: -0.671ex; width:2.056ex; height:2.676ex;"/>
+       </span>
+       is directed outwards from to the center of
+       <i>
+        m
+       </i>
+       (where ∆
+       <i>
+        r
+       </i>
+       is zero).
+      </p>
+      <p>
+       Tidal accelerations can also be calculated away from the axis connecting the bodies
+       <i>
+        m
+       </i>
+       and
+       <i>
+        M
+       </i>
+       , requiring a
+       <a href="/wiki/Euclidean_vector" title="Euclidean vector">
+        vector
+       </a>
+       calculation. In the plane perpendicular to that axis, the tidal acceleration is directed inwards (towards the center where ∆
+       <i>
+        r
+       </i>
+       is zero), and its magnitude is
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle |{\vec {a}}_{t}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mrow class="MJX-TeXAtom-ORD">
+              <mo stretchy="false">
+               |
+              </mo>
+             </mrow>
+             <msub>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mrow class="MJX-TeXAtom-ORD">
+                <mover>
+                 <mi>
+                  a
+                 </mi>
+                 <mo stretchy="false">
+                  →
+                  <!-- → -->
+                 </mo>
+                </mover>
+               </mrow>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                t
+               </mi>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle |{\vec {a}}_{t}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt=" | \vec a_t" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/99c7048aef208d5dfa1aff9f90c2597bc1223692" style="vertical-align: -0.838ex; width:2.703ex; height:2.843ex;"/>
+       </span>
+       (axial)
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle |/2}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mrow class="MJX-TeXAtom-ORD">
+              <mo stretchy="false">
+               |
+              </mo>
+             </mrow>
+             <mrow class="MJX-TeXAtom-ORD">
+              <mo>
+               /
+              </mo>
+             </mrow>
+             <mn>
+              2
+             </mn>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle |/2}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt=" | /2 " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/57d9fe6b3ea27ad2ac089fa3e45036b30e25c27f" style="vertical-align: -0.838ex; width:2.972ex; height:2.843ex;"/>
+       </span>
+       in linear approximation as in Figure 2.
+      </p>
+      <p>
+       The tidal accelerations at the surfaces of planets in the Solar System are generally very small. For example, the lunar tidal acceleration at the Earth's surface along the Moon-Earth axis is about 1.1 × 10
+       <sup>
+        −7
+       </sup>
+       g, while the solar tidal acceleration at the Earth's surface along the Sun-Earth axis is about 0.52 × 10
+       <sup>
+        −7
+       </sup>
+       g, where g is the
+       <a href="/wiki/Standard_gravity" title="Standard gravity">
+        gravitational acceleration
+       </a>
+       at the Earth's surface. Hence the tide-raising force (acceleration) due to the Sun is about 45% of that due to the Moon.
+       <sup class="reference" id="cite_ref-11">
+        <a href="#cite_note-11">
+         [11]
+        </a>
+       </sup>
+       The solar tidal acceleration at the Earth's surface was first given by Newton in the
+       <i>
+        <a href="/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica" title="Philosophiæ Naturalis Principia Mathematica">
+         Principia
+        </a>
+       </i>
+       .
+       <sup class="reference" id="cite_ref-12">
+        <a href="#cite_note-12">
+         [12]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Tidal_force&amp;action=edit&amp;section=4" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a href="/wiki/Tidal_tensor" title="Tidal tensor">
+         Tidal tensor
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Amphidromic_point" title="Amphidromic point">
+         Amphidromic point
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Disrupted_planet" title="Disrupted planet">
+         Disrupted planet
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Galactic_tide" title="Galactic tide">
+         Galactic tide
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Tidal_resonance" title="Tidal resonance">
+         Tidal resonance
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Spacetime_curvature" title="Spacetime curvature">
+         Spacetime curvature
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Tidal_force&amp;action=edit&amp;section=5" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+       <ol class="references">
+        <li id="cite_note-1">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-1">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <a class="external text" href="http://adsabs.harvard.edu/full/1977SvAL....3...96A" rel="nofollow">
+           "On the tidal force"
+          </a>
+          , I. N. Avsiuk, in "Soviet Astronomy Letters", vol. 3 (1977), pp. 96–99.
+         </span>
+        </li>
+        <li id="cite_note-2">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-2">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          See p. 509 in
+          <a class="external text" href="https://books.google.com/books?id=2QVmiMW0O0MC&amp;pg=PA509&amp;lpg=PA509&amp;dq=%22tidal+force%22+perturb&amp;source=bl&amp;ots=46yDoQd9k7&amp;sig=bep2Wi1UfMQhsfmHAd1N2VfWTso&amp;hl=en&amp;ei=J1GYSvTeDIKNjAe8lvm_BQ&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=10#v=onepage&amp;q=%22tidal%20force%22%20perturb&amp;f=false" rel="nofollow">
+           "Astronomy: a physical perspective"
+          </a>
+          , M. L. Kutner (2003).
+         </span>
+        </li>
+        <li id="cite_note-Penrose-3">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-Penrose_3-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation book">
+           R Penrose (1999).
+           <a class="external text" href="https://books.google.com/books?id=oI0grArWHUMC&amp;pg=PA264&amp;vq=tidal&amp;dq=tidal+force" rel="nofollow">
+            <i>
+             The Emperor's New Mind: Concerning Computers, Minds, and the Laws of Physics
+            </i>
+           </a>
+           .
+           <a href="/wiki/Oxford_University_Press" title="Oxford University Press">
+            Oxford University Press
+           </a>
+           . p. 264.
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/0-19-286198-0" title="Special:BookSources/0-19-286198-0">
+            0-19-286198-0
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Emperor%27s+New+Mind%3A+Concerning+Computers%2C+Minds%2C+and+the+Laws+of+Physics&amp;rft.pages=264&amp;rft.pub=Oxford+University+Press&amp;rft.date=1999&amp;rft.isbn=0-19-286198-0&amp;rft.au=R+Penrose&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DoI0grArWHUMC%26pg%3DPA264%26vq%3Dtidal%26dq%3Dtidal%2Bforce&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATidal+force">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-Blanc-4">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-Blanc_4-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation book">
+           Thérèse Encrenaz; J -P Bibring; M Blanc (2003).
+           <a class="external text" href="https://books.google.com/books?id=Je61Y7UbqWgC&amp;pg=PA16&amp;vq=tide&amp;dq=tidal+force#PPA16,M1" rel="nofollow">
+            <i>
+             The Solar System
+            </i>
+           </a>
+           . Springer. p. 16.
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/3-540-00241-3" title="Special:BookSources/3-540-00241-3">
+            3-540-00241-3
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Solar+System&amp;rft.pages=16&amp;rft.pub=Springer&amp;rft.date=2003&amp;rft.isbn=3-540-00241-3&amp;rft.au=Th%C3%A9r%C3%A8se+Encrenaz&amp;rft.au=J+-P+Bibring&amp;rft.au=M+Blanc&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DJe61Y7UbqWgC%26pg%3DPA16%26vq%3Dtide%26dq%3Dtidal%2Bforce%23PPA16%2CM1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATidal+force">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-MacKay-5">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-MacKay_5-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation book">
+           R. S. MacKay; J. D. Meiss (1987).
+           <a class="external text" href="https://books.google.com/books?id=uTeqNsyj86QC&amp;pg=PA36&amp;dq=tidal+force" rel="nofollow">
+            <i>
+             Hamiltonian Dynamical Systems: A Reprint Selection
+            </i>
+           </a>
+           .
+           <a href="/wiki/CRC_Press" title="CRC Press">
+            CRC Press
+           </a>
+           . p. 36.
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/0-85274-205-3" title="Special:BookSources/0-85274-205-3">
+            0-85274-205-3
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Hamiltonian+Dynamical+Systems%3A+A+Reprint+Selection&amp;rft.pages=36&amp;rft.pub=CRC+Press&amp;rft.date=1987&amp;rft.isbn=0-85274-205-3&amp;rft.au=R.+S.+MacKay&amp;rft.au=J.+D.+Meiss&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DuTeqNsyj86QC%26pg%3DPA36%26dq%3Dtidal%2Bforce&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATidal+force">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-Americana-6">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-Americana_6-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation book">
+           Rollin A Harris (1920).
+           <a class="external text" href="https://books.google.com/books?id=r8BPAAAAMAAJ&amp;pg=PA612&amp;dq=tidal+force#PPA612,M1" rel="nofollow">
+            <i>
+             The Encyclopedia Americana: A Library of Universal Knowledge
+            </i>
+           </a>
+           .
+           <b>
+            26
+           </b>
+           . Encyclopedia Americana Corp. pp. 611–617.
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Encyclopedia+Americana%3A+A+Library+of+Universal+Knowledge&amp;rft.pages=611-617&amp;rft.pub=Encyclopedia+Americana+Corp.&amp;rft.date=1920&amp;rft.au=Rollin+A+Harris&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Dr8BPAAAAMAAJ%26pg%3DPA612%26dq%3Dtidal%2Bforce%23PPA612%2CM1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATidal+force">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-7">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-7">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           <a class="external text" href="http://www.haydenplanetarium.org/tyson/read/1995/11/01/the-tidal-force" rel="nofollow">
+            "The Tidal Force | Neil deGrasse Tyson"
+           </a>
+           .
+           <i>
+            www.haydenplanetarium.org
+           </i>
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             2016-10-10
+            </span>
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.haydenplanetarium.org&amp;rft.atitle=The+Tidal+Force+%7C+Neil+deGrasse+Tyson&amp;rft_id=http%3A%2F%2Fwww.haydenplanetarium.org%2Ftyson%2Fread%2F1995%2F11%2F01%2Fthe-tidal-force&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATidal+force">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-8">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-8">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           <a class="external text" href="https://dx.doi.org/10.1175/1520-0442(2002)015%3C0370%3AMCVITA%3E2.0.CO%3B2" rel="nofollow">
+            "Millennial Climate Variability: Is There a Tidal Connection?"
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Millennial+Climate+Variability%3A+Is+There+a+Tidal+Connection%3F&amp;rft_id=https%3A%2F%2Fdx.doi.org%2F10.1175%2F1520-0442%282002%29015%253C0370%253AMCVITA%253E2.0.CO%253B2&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATidal+force">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-9">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-9">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation journal">
+           <a class="external text" href="https://books.google.be/books?id=FPEUAQAAMAAJ" rel="nofollow">
+            "Hungry for Power in Space"
+           </a>
+           .
+           <i>
+            New Scienctist
+           </i>
+           . New Science Pub.
+           <b>
+            123
+           </b>
+           : 52. 23 September 1989
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             14 March
+            </span>
+            2016
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=New+Scienctist&amp;rft.atitle=Hungry+for+Power+in+Space&amp;rft.volume=123&amp;rft.pages=52&amp;rft.date=1989-09-23&amp;rft_id=https%3A%2F%2Fbooks.google.be%2Fbooks%3Fid%3DFPEUAQAAMAAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATidal+force">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-10">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-10">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation news">
+           <a class="external text" href="http://www.spacetelescope.org/images/potw1325a/" rel="nofollow">
+            "Inseparable galactic twins"
+           </a>
+           .
+           <i>
+            ESA/Hubble Picture of the Week
+           </i>
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             12 July
+            </span>
+            2013
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=ESA%2FHubble+Picture+of+the+Week&amp;rft.atitle=Inseparable+galactic+twins&amp;rft_id=http%3A%2F%2Fwww.spacetelescope.org%2Fimages%2Fpotw1325a%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATidal+force">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-11">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-11">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation book">
+           The Admiralty (1987).
+           <a class="external text" href="https://books.google.com/books?id=GCgXCxG4VLcC" rel="nofollow">
+            <i>
+             Admiralty manual of navigation
+            </i>
+           </a>
+           .
+           <b>
+            1
+           </b>
+           .
+           <a href="/wiki/The_Stationery_Office" title="The Stationery Office">
+            The Stationery Office
+           </a>
+           . p. 277.
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/0-11-772880-2" title="Special:BookSources/0-11-772880-2">
+            0-11-772880-2
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Admiralty+manual+of+navigation&amp;rft.pages=277&amp;rft.pub=The+Stationery+Office&amp;rft.date=1987&amp;rft.isbn=0-11-772880-2&amp;rft.au=The+Admiralty&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DGCgXCxG4VLcC&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATidal+force">
+           <span style="display:none;">
+           </span>
+          </span>
+          ,
+          <a class="external text" href="https://books.google.com/books?id=GCgXCxG4VLcC&amp;pg=PA277" rel="nofollow">
+           Chapter 11, p. 277
+          </a>
+         </span>
+        </li>
+        <li id="cite_note-12">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-12">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation book">
+           Newton, Isaac (1729).
+           <a class="external text" href="https://books.google.com/books?id=6EqxPav3vIsC" rel="nofollow">
+            <i>
+             The mathematical principles of natural philosophy
+            </i>
+           </a>
+           .
+           <b>
+            2
+           </b>
+           . p. 307.
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/0-11-772880-2" title="Special:BookSources/0-11-772880-2">
+            0-11-772880-2
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+mathematical+principles+of+natural+philosophy&amp;rft.pages=307&amp;rft.date=1729&amp;rft.isbn=0-11-772880-2&amp;rft.aulast=Newton&amp;rft.aufirst=Isaac&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D6EqxPav3vIsC&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATidal+force">
+           <span style="display:none;">
+           </span>
+          </span>
+          ,
+          <a class="external text" href="https://books.google.com/books?id=6EqxPav3vIsC&amp;pg=PA307" rel="nofollow">
+           Book 3, Proposition 36, Page 307
+          </a>
+          Newton put the force to depress the sea at places 90 degrees distant from the Sun at "1 to 38604600" (in terms of
+          <i>
+           g
+          </i>
+          ), and wrote that the force to raise the sea along the Sun-Earth axis is "twice as great", i.e. 2 to 38604600, which comes to about 0.52 × 10
+          <sup>
+           −7
+          </sup>
+          <i>
+           g
+          </i>
+          as expressed in the text.
+         </span>
+        </li>
+       </ol>
+      </div>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Tidal_force&amp;action=edit&amp;section=6" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a class="external text" href="http://burro.astr.cwru.edu/Academics/Astr221/Gravity/tides.html" rel="nofollow">
+         Gravitational Tides
+        </a>
+        by J. Christopher Mihos of
+        <a href="/wiki/Case_Western_Reserve_University" title="Case Western Reserve University">
+         Case Western Reserve University
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://www.astronomycast.com/solar-system/episode-47-tidal-forces/" rel="nofollow">
+         Audio: Cain/Gay – Astronomy Cast
+        </a>
+        Tidal Forces – July 2007.
+       </li>
+       <li>
+        <cite class="citation web">
+         Gray, Meghan; Merrifield, Michael.
+         <a class="external text" href="http://www.sixtysymbols.com/videos/tides.htm" rel="nofollow">
+          "Tidal Forces"
+         </a>
+         .
+         <i>
+          Sixty Symbols
+         </i>
+         .
+         <a href="/wiki/Brady_Haran" title="Brady Haran">
+          Brady Haran
+         </a>
+         for the
+         <a href="/wiki/University_of_Nottingham" title="University of Nottingham">
+          University of Nottingham
+         </a>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Sixty+Symbols&amp;rft.atitle=Tidal+Forces&amp;rft.aulast=Gray&amp;rft.aufirst=Meghan&amp;rft.au=Merrifield%2C+Michael&amp;rft_id=http%3A%2F%2Fwww.sixtysymbols.com%2Fvideos%2Ftides.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATidal+force">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+       <li>
+        <cite class="citation web">
+         <a class="external text" href="http://members.aei.mpg.de/amaro-seoane/stellar-collisions/stellar-collisions-tidal-disruption-of-a-star-by-a-massive-black-hole/" rel="nofollow">
+          "Pau Amaro Seoane MODEST working group 4 "Tidal disruption of a star by a massive black hole
+          <span style="padding-right:0.2em;">
+           "
+          </span>
+          "
+         </a>
+         <span class="reference-accessdate">
+          . Retrieved
+          <span class="nowrap">
+           2013-05-30
+          </span>
+         </span>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Pau+Amaro+Seoane+MODEST+working+group+4+%22Tidal+disruption+of+a+star+by+a+massive+black+hole%22&amp;rft_id=http%3A%2F%2Fmembers.aei.mpg.de%2Famaro-seoane%2Fstellar-collisions%2Fstellar-collisions-tidal-disruption-of-a-star-by-a-massive-black-hole%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATidal+force">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+       <li>
+        <a class="external text" href="http://www.jalc.edu/~mikolajsawicki/tides_new2.pdf" rel="nofollow">
+         Myths about Gravity and Tides
+        </a>
+        by Mikolaj Sawicki of John A. Logan College and the University of Colorado.
+       </li>
+       <li>
+        <a class="external text" href="https://web.archive.org/web/20160508041318/http://www.lhup.edu/~dsimanek/scenario/tides.htm" rel="nofollow">
+         Tidal Misconceptions
+        </a>
+        by Donald E. Simanek
+       </li>
+      </ul>
+      <div aria-labelledby="Physical_oceanography" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="3" scope="col">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:Physical_oceanography" title="Template:Physical oceanography">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a href="/wiki/Template_talk:Physical_oceanography" title="Template talk:Physical oceanography">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Physical_oceanography&amp;action=edit">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="Physical_oceanography" style="font-size:114%;margin:0 4em">
+           <a href="/wiki/Physical_oceanography" title="Physical oceanography">
+            Physical oceanography
+           </a>
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <a href="/wiki/Wind_wave" title="Wind wave">
+           Waves
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Airy_wave_theory" title="Airy wave theory">
+              Airy wave theory
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Ballantine_scale" title="Ballantine scale">
+              Ballantine scale
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Modulational_instability" title="Modulational instability">
+              Benjamin–Feir instability
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Boussinesq_approximation_(water_waves)" title="Boussinesq approximation (water waves)">
+              Boussinesq approximation
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Breaking_wave" title="Breaking wave">
+              Breaking wave
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Clapotis" title="Clapotis">
+              Clapotis
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Cnoidal_wave" title="Cnoidal wave">
+              Cnoidal wave
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Cross_sea" title="Cross sea">
+              Cross sea
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Dispersion_(water_waves)" title="Dispersion (water waves)">
+              Dispersion
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Edge_wave" title="Edge wave">
+              Edge wave
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Equatorial_wave" title="Equatorial wave">
+              Equatorial waves
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Fetch_(geography)" title="Fetch (geography)">
+              Fetch
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Gravity_wave" title="Gravity wave">
+              Gravity wave
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Green%27s_law" title="Green's law">
+              Green's law
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Infragravity_wave" title="Infragravity wave">
+              Infragravity wave
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Internal_wave" title="Internal wave">
+              Internal wave
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Iribarren_number" title="Iribarren number">
+              Iribarren number
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Kelvin_wave" title="Kelvin wave">
+              Kelvin wave
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Kinematic_wave" title="Kinematic wave">
+              Kinematic wave
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Longshore_drift" title="Longshore drift">
+              Longshore drift
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Luke%27s_variational_principle" title="Luke's variational principle">
+              Luke's variational principle
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Mild-slope_equation" title="Mild-slope equation">
+              Mild-slope equation
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Radiation_stress" title="Radiation stress">
+              Radiation stress
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Rogue_wave" title="Rogue wave">
+              Rogue wave
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Rossby_wave" title="Rossby wave">
+              Rossby wave
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Rossby-gravity_waves" title="Rossby-gravity waves">
+              Rossby-gravity waves
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Sea_state" title="Sea state">
+              Sea state
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Seiche" title="Seiche">
+              Seiche
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Significant_wave_height" title="Significant wave height">
+              Significant wave height
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Soliton" title="Soliton">
+              Soliton
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Stokes_boundary_layer" title="Stokes boundary layer">
+              Stokes boundary layer
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Stokes_drift" title="Stokes drift">
+              Stokes drift
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Stokes_wave" title="Stokes wave">
+              Stokes wave
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Swell_(ocean)" title="Swell (ocean)">
+              Swell
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Trochoidal_wave" title="Trochoidal wave">
+              Trochoidal wave
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tsunami" title="Tsunami">
+              Tsunami
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Megatsunami" title="Megatsunami">
+                megatsunami
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Undertow_(water_waves)" title="Undertow (water waves)">
+              Undertow
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Ursell_number" title="Ursell number">
+              Ursell number
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Wave_action_(continuum_mechanics)" title="Wave action (continuum mechanics)">
+              Wave action
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Wave_base" title="Wave base">
+              Wave base
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Wave_height" title="Wave height">
+              Wave height
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Wave_power" title="Wave power">
+              Wave power
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Wave_radar" title="Wave radar">
+              Wave radar
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Wave_setup" title="Wave setup">
+              Wave setup
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Wave_shoaling" title="Wave shoaling">
+              Wave shoaling
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Wave_turbulence" title="Wave turbulence">
+              Wave turbulence
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Wave%E2%80%93current_interaction" title="Wave–current interaction">
+              Wave–current interaction
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Waves_and_shallow_water" title="Waves and shallow water">
+              Waves and shallow water
+             </a>
+             <ul>
+              <li>
+               <a class="mw-redirect" href="/wiki/One-dimensional_Saint-Venant_equations" title="One-dimensional Saint-Venant equations">
+                one-dimensional Saint-Venant equations
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Shallow_water_equations" title="Shallow water equations">
+                shallow water equations
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Wind_wave" title="Wind wave">
+              Wind wave
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Wind_wave_model" title="Wind wave model">
+                model
+               </a>
+              </li>
+             </ul>
+            </li>
+           </ul>
+          </div>
+         </td>
+         <td class="navbox-image" rowspan="10" style="width:1px;padding:0px 0px 0px 2px">
+          <div>
+           <a class="image" href="/wiki/File:Upwelling.svg" title="Upwelling">
+            <img alt="Upwelling" data-file-height="242" data-file-width="365" height="93" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Upwelling.svg/140px-Upwelling.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Upwelling.svg/210px-Upwelling.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Upwelling.svg/280px-Upwelling.svg.png 2x" width="140"/>
+           </a>
+           <br/>
+           <br/>
+           <br/>
+           <br/>
+           <br/>
+           <br/>
+           <a class="image" href="/wiki/File:Antarctic_bottom_water.svg" title="Antarctic bottom water">
+            <img alt="Antarctic bottom water" data-file-height="470" data-file-width="745" height="88" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Antarctic_bottom_water.svg/140px-Antarctic_bottom_water.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Antarctic_bottom_water.svg/210px-Antarctic_bottom_water.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Antarctic_bottom_water.svg/280px-Antarctic_bottom_water.svg.png 2x" width="140"/>
+           </a>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <a href="/wiki/Ocean_current" title="Ocean current">
+           Circulation
+          </a>
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Atmospheric_circulation" title="Atmospheric circulation">
+              Atmospheric circulation
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Baroclinity" title="Baroclinity">
+              Baroclinity
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Boundary_current" title="Boundary current">
+              Boundary current
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Coriolis_force" title="Coriolis force">
+              Coriolis force
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Coriolis%E2%80%93Stokes_force" title="Coriolis–Stokes force">
+              Coriolis–Stokes force
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Craik%E2%80%93Leibovich_vortex_force" title="Craik–Leibovich vortex force">
+              Craik–Leibovich vortex force
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Downwelling" title="Downwelling">
+              Downwelling
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Eddy_(fluid_dynamics)" title="Eddy (fluid dynamics)">
+              Eddy
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Ekman_layer" title="Ekman layer">
+              Ekman layer
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Ekman_spiral" title="Ekman spiral">
+              Ekman spiral
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Ekman_transport" title="Ekman transport">
+              Ekman transport
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/El_Ni%C3%B1o%E2%80%93Southern_Oscillation" title="El Niño–Southern Oscillation">
+              El Niño–Southern Oscillation
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/General_circulation_model" title="General circulation model">
+              General circulation model
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Geostrophic_current" title="Geostrophic current">
+              Geostrophic current
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Global_Ocean_Data_Analysis_Project" title="Global Ocean Data Analysis Project">
+              Global Ocean Data Analysis Project
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Gulf_Stream" title="Gulf Stream">
+              Gulf Stream
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Halothermal_circulation" title="Halothermal circulation">
+              Halothermal circulation
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Humboldt_Current" title="Humboldt Current">
+              Humboldt Current
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Hydrothermal_circulation" title="Hydrothermal circulation">
+              Hydrothermal circulation
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Langmuir_circulation" title="Langmuir circulation">
+              Langmuir circulation
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Longshore_drift" title="Longshore drift">
+              Longshore drift
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Loop_Current" title="Loop Current">
+              Loop Current
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Modular_Ocean_Model" title="Modular Ocean Model">
+              Modular Ocean Model
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Ocean_dynamics" title="Ocean dynamics">
+              Ocean dynamics
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Ocean_gyre" title="Ocean gyre">
+              Ocean gyre
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Princeton_ocean_model" title="Princeton ocean model">
+              Princeton ocean model
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Rip_current" title="Rip current">
+              Rip current
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Subsurface_currents" title="Subsurface currents">
+              Subsurface currents
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Sverdrup_balance" title="Sverdrup balance">
+              Sverdrup balance
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Thermohaline_circulation" title="Thermohaline circulation">
+              Thermohaline circulation
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Shutdown_of_thermohaline_circulation" title="Shutdown of thermohaline circulation">
+                shutdown
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Upwelling" title="Upwelling">
+              Upwelling
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Whirlpool" title="Whirlpool">
+              Whirlpool
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/World_Ocean_Circulation_Experiment" title="World Ocean Circulation Experiment">
+              World Ocean Circulation Experiment
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <a href="/wiki/Tide" title="Tide">
+           Tides
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Amphidromic_point" title="Amphidromic point">
+              Amphidromic point
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Earth_tide" title="Earth tide">
+              Earth tide
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Head_of_tide" title="Head of tide">
+              Head of tide
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Internal_tide" title="Internal tide">
+              Internal tide
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Lunitidal_interval" title="Lunitidal interval">
+              Lunitidal interval
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Perigean_spring_tide" title="Perigean spring tide">
+              Perigean spring tide
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Rip_tide" title="Rip tide">
+              Rip tide
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Rule_of_twelfths" title="Rule of twelfths">
+              Rule of twelfths
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Slack_water" title="Slack water">
+              Slack water
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tidal_bore" title="Tidal bore">
+              Tidal bore
+             </a>
+            </li>
+            <li>
+             <a class="mw-selflink selflink">
+              Tidal force
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tidal_power" title="Tidal power">
+              Tidal power
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tidal_race" title="Tidal race">
+              Tidal race
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tidal_range" title="Tidal range">
+              Tidal range
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tidal_resonance" title="Tidal resonance">
+              Tidal resonance
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tide_gauge" title="Tide gauge">
+              Tide gauge
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tideline" title="Tideline">
+              Tideline
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <a href="/wiki/Landform" title="Landform">
+           Landforms
+          </a>
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Abyssal_fan" title="Abyssal fan">
+              Abyssal fan
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Abyssal_plain" title="Abyssal plain">
+              Abyssal plain
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Atoll" title="Atoll">
+              Atoll
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Bathymetric_chart" title="Bathymetric chart">
+              Bathymetric chart
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Coastal_geography" title="Coastal geography">
+              Coastal geography
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Cold_seep" title="Cold seep">
+              Cold seep
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Continental_margin" title="Continental margin">
+              Continental margin
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Continental_rise" title="Continental rise">
+              Continental rise
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Continental_shelf" title="Continental shelf">
+              Continental shelf
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Contourite" title="Contourite">
+              Contourite
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Guyot" title="Guyot">
+              Guyot
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Hydrography" title="Hydrography">
+              Hydrography
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Oceanic_basin" title="Oceanic basin">
+              Oceanic basin
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Oceanic_plateau" title="Oceanic plateau">
+              Oceanic plateau
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Oceanic_trench" title="Oceanic trench">
+              Oceanic trench
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Passive_margin" title="Passive margin">
+              Passive margin
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Seabed" title="Seabed">
+              Seabed
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Seamount" title="Seamount">
+              Seamount
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Submarine_canyon" title="Submarine canyon">
+              Submarine canyon
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Submarine_volcano" title="Submarine volcano">
+              Submarine volcano
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <a href="/wiki/Plate_tectonics" title="Plate tectonics">
+           Plate
+           <br/>
+           tectonics
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Convergent_boundary" title="Convergent boundary">
+              Convergent boundary
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Divergent_boundary" title="Divergent boundary">
+              Divergent boundary
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Fracture_zone" title="Fracture zone">
+              Fracture zone
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Hydrothermal_vent" title="Hydrothermal vent">
+              Hydrothermal vent
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Marine_geology" title="Marine geology">
+              Marine geology
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Mid-ocean_ridge" title="Mid-ocean ridge">
+              Mid-ocean ridge
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Mohorovi%C4%8Di%C4%87_discontinuity" title="Mohorovičić discontinuity">
+              Mohorovičić discontinuity
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Vine%E2%80%93Matthews%E2%80%93Morley_hypothesis" title="Vine–Matthews–Morley hypothesis">
+              Vine–Matthews–Morley hypothesis
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Oceanic_crust" title="Oceanic crust">
+              Oceanic crust
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Outer_trench_swell" title="Outer trench swell">
+              Outer trench swell
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Ridge_push" title="Ridge push">
+              Ridge push
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Seafloor_spreading" title="Seafloor spreading">
+              Seafloor spreading
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Slab_pull" title="Slab pull">
+              Slab pull
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Slab_suction" title="Slab suction">
+              Slab suction
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Slab_window" title="Slab window">
+              Slab window
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Subduction" title="Subduction">
+              Subduction
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Transform_fault" title="Transform fault">
+              Transform fault
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Volcanic_arc" title="Volcanic arc">
+              Volcanic arc
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Ocean zones
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Benthic_zone" title="Benthic zone">
+              Benthic
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Deep_ocean_water" title="Deep ocean water">
+              Deep ocean water
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Deep_sea" title="Deep sea">
+              Deep sea
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Littoral_zone" title="Littoral zone">
+              Littoral
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Mesopelagic_zone" title="Mesopelagic zone">
+              Mesopelagic
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Oceanic_zone" title="Oceanic zone">
+              Oceanic
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Pelagic_zone" title="Pelagic zone">
+              Pelagic
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Photic_zone" title="Photic zone">
+              Photic
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Surf_zone" title="Surf zone">
+              Surf
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Swash" title="Swash">
+              Swash
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <a href="/wiki/Sea_level" title="Sea level">
+           Sea level
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Deep-ocean_Assessment_and_Reporting_of_Tsunamis" title="Deep-ocean Assessment and Reporting of Tsunamis">
+              Deep-ocean Assessment and Reporting of Tsunamis
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Future_sea_level" title="Future sea level">
+              Future sea level
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Global_Sea_Level_Observing_System" title="Global Sea Level Observing System">
+              Global Sea Level Observing System
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/North_West_Shelf_Operational_Oceanographic_System" title="North West Shelf Operational Oceanographic System">
+              North West Shelf Operational Oceanographic System
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Sea-level_curve" title="Sea-level curve">
+              Sea-level curve
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Sea_level_rise" title="Sea level rise">
+              Sea level rise
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/World_Geodetic_System" title="World Geodetic System">
+              World Geodetic System
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <a href="/wiki/Acoustical_oceanography" title="Acoustical oceanography">
+           Acoustics
+          </a>
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Deep_scattering_layer" title="Deep scattering layer">
+              Deep scattering layer
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Hydroacoustics" title="Hydroacoustics">
+              Hydroacoustics
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Ocean_acoustic_tomography" title="Ocean acoustic tomography">
+              Ocean acoustic tomography
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Sofar_bomb" title="Sofar bomb">
+              Sofar bomb
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/SOFAR_channel" title="SOFAR channel">
+              SOFAR channel
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Underwater_acoustics" title="Underwater acoustics">
+              Underwater acoustics
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Satellites
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Jason-1" title="Jason-1">
+              Jason-1
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Ocean_Surface_Topography_Mission" title="Ocean Surface Topography Mission">
+              Jason-2 (Ocean Surface Topography Mission)
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Jason-3" title="Jason-3">
+              Jason-3
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Related
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Argo_(oceanography)" title="Argo (oceanography)">
+              Argo
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Benthic_lander" title="Benthic lander">
+              Benthic lander
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Color_of_water" title="Color of water">
+              Color of water
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/DSV_Alvin" title="DSV Alvin">
+              DSV
+              <i>
+               Alvin
+              </i>
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Marginal_sea" title="Marginal sea">
+              Marginal sea
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Marine_energy" title="Marine energy">
+              Marine energy
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Marine_pollution" title="Marine pollution">
+              Marine pollution
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Mooring_(oceanography)" title="Mooring (oceanography)">
+              Mooring
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/National_Oceanographic_Data_Center" title="National Oceanographic Data Center">
+              National Oceanographic Data Center
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Ocean" title="Ocean">
+              Ocean
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Ocean_exploration" title="Ocean exploration">
+              Ocean exploration
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Ocean_observations" title="Ocean observations">
+              Ocean observations
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Ocean_reanalysis" title="Ocean reanalysis">
+              Ocean reanalysis
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Ocean_surface_topography" title="Ocean surface topography">
+              Ocean surface topography
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Ocean_thermal_energy_conversion" title="Ocean thermal energy conversion">
+              Ocean thermal energy conversion
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Oceanography" title="Oceanography">
+              Oceanography
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Pelagic_sediment" title="Pelagic sediment">
+              Pelagic sediment
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Sea_surface_microlayer" title="Sea surface microlayer">
+              Sea surface microlayer
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Sea_surface_temperature" title="Sea surface temperature">
+              Sea surface temperature
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Seawater" title="Seawater">
+              Seawater
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Science_On_a_Sphere" title="Science On a Sphere">
+              Science On a Sphere
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Thermocline" title="Thermocline">
+              Thermocline
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Underwater_glider" title="Underwater glider">
+              Underwater glider
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Water_column" title="Water column">
+              Water column
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/World_Ocean_Atlas" title="World Ocean Atlas">
+              World Ocean Atlas
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <td class="navbox-abovebelow" colspan="3" style="font-weight:bold;">
+          <div>
+           <ul>
+            <li>
+             <img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/>
+             <a href="/wiki/Category:Physical_oceanography" title="Category:Physical oceanography">
+              Category
+             </a>
+            </li>
+            <li>
+             <img alt="Commons page" data-file-height="1376" data-file-width="1024" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" title="Commons page" width="12"/>
+             <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Physical_oceanography" title="commons:Category:Physical oceanography">
+              Commons
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1330
+Cached time: 20180303193935
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.204 seconds
+Real time usage: 0.299 seconds
+Preprocessor visited node count: 760/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 45323/2097152 bytes
+Template argument size: 107/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
+Lua time usage: 0.081/10.000 seconds
+Lua memory usage: 3.05 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  166.925      1 -total
+ 60.85%  101.574      1 Template:Reflist
+ 35.87%   59.877      6 Template:Cite_book
+ 18.66%   31.146      1 Template:Physical_oceanography
+ 16.45%   27.458      1 Template:Navbox
+ 12.41%   20.712      1 Template:Anchor
+  9.53%   15.902      4 Template:Cite_web
+  5.68%    9.484      2 Template:Icon
+  3.30%    5.514      1 Template:Cite_journal
+  3.16%    5.273      1 Template:Cite_news
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:30719-0!canonical!math=5 and timestamp 20180303193934 and revision id 821688133
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Tidal_force&amp;oldid=821688133">
+      https://en.wikipedia.org/w/index.php?title=Tidal_force&amp;oldid=821688133
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Tidal_forces" title="Category:Tidal forces">
+         Tidal forces
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Tides" title="Category:Tides">
+         Tides
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Gravitation" title="Category:Gravitation">
+         Gravitation
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Force" title="Category:Force">
+         Force
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Effects_of_gravitation" title="Category:Effects of gravitation">
+         Effects of gravitation
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Tidal+force" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Tidal+force" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Tidal_force" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Tidal_force" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Tidal_force">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Tidal_force&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Tidal_force&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Tidal_force" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Tidal_force" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Tidal_force&amp;oldid=821688133" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Tidal_force&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q223325" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Tidal_force&amp;id=821688133" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Tidal+force">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Tidal+force&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Tidal_force&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Category:Tidal_forces" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-als">
+        <a class="interlanguage-link-target" href="https://als.wikipedia.org/wiki/Gezeitenkraft" hreflang="als" lang="als" title="Gezeitenkraft – Alemannisch">
+         Alemannisch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%82%D9%88%D8%A9_%D8%A7%D9%84%D9%85%D8%AF_%D9%88%D8%A7%D9%84%D8%AC%D8%B2%D8%B1" hreflang="ar" lang="ar" title="قوة المد والجزر – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bg">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D0%BB%D0%B8%D0%B2%D0%BD%D0%B0_%D1%81%D0%B8%D0%BB%D0%B0" hreflang="bg" lang="bg" title="Приливна сила – Bulgarian">
+         Български
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/For%C3%A7a_de_marea" hreflang="ca" lang="ca" title="Força de marea – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Slapov%C3%A1_s%C3%ADla" hreflang="cs" lang="cs" title="Slapová síla – Czech">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Tidevandskraft" hreflang="da" lang="da" title="Tidevandskraft – Danish">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Gezeitenkraft" hreflang="de" lang="de" title="Gezeitenkraft – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-el">
+        <a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%A0%CE%B1%CE%BB%CE%B9%CF%81%CF%81%CE%BF%CF%8A%CE%BA%CE%AD%CF%82_%CE%B4%CF%85%CE%BD%CE%AC%CE%BC%CE%B5%CE%B9%CF%82" hreflang="el" lang="el" title="Παλιρροϊκές δυνάμεις – Greek">
+         Ελληνικά
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Fuerza_de_marea" hreflang="es" lang="es" title="Fuerza de marea – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eo">
+        <a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Tajda_forto" hreflang="eo" lang="eo" title="Tajda forto – Esperanto">
+         Esperanto
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eu">
+        <a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Itsasaldiaren_indar" hreflang="eu" lang="eu" title="Itsasaldiaren indar – Basque">
+         Euskara
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%86%DB%8C%D8%B1%D9%88%DB%8C_%DA%A9%D8%B4%D9%86%D8%AF%DB%8C" hreflang="fa" lang="fa" title="نیروی کشندی – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Force_de_mar%C3%A9e" hreflang="fr" lang="fr" title="Force de marée – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%9D%EB%A0%A5" hreflang="ko" lang="ko" title="조석력 – Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hi">
+        <a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%9C%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A4%AD%E0%A4%BE%E0%A4%9F%E0%A4%BE_%E0%A4%AC%E0%A4%B2" hreflang="hi" lang="hi" title="ज्वारभाटा बल – Hindi">
+         हिन्दी
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hr">
+        <a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Plimna_sila" hreflang="hr" lang="hr" title="Plimna sila – Croatian">
+         Hrvatski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Forza_di_marea" hreflang="it" lang="it" title="Forza di marea – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he">
+        <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%9B%D7%95%D7%97_%D7%92%D7%90%D7%95%D7%AA" hreflang="he" lang="he" title="כוח גאות – Hebrew">
+         עברית
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lt">
+        <a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Potvynin%C4%97s_j%C4%97gos" hreflang="lt" lang="lt" title="Potvyninės jėgos – Lithuanian">
+         Lietuvių
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mk">
+        <a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%9F%D0%BB%D0%B8%D0%BC%D0%BD%D0%B0_%D1%81%D0%B8%D0%BB%D0%B0" hreflang="mk" lang="mk" title="Плимна сила – Macedonian">
+         Македонски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ms">
+        <a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Daya_pasang_surut" hreflang="ms" lang="ms" title="Daya pasang surut – Malay">
+         Bahasa Melayu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Getijdenveld" hreflang="nl" lang="nl" title="Getijdenveld – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E6%BD%AE%E6%B1%90%E5%8A%9B" hreflang="ja" lang="ja" title="潮汐力 – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Tidevannskrefter" hreflang="no" lang="no" title="Tidevannskrefter – Norwegian">
+         Norsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nn">
+        <a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Tidvasskraft" hreflang="nn" lang="nn" title="Tidvasskraft – Norwegian Nynorsk">
+         Norsk nynorsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Si%C5%82a_p%C5%82ywowa" hreflang="pl" lang="pl" title="Siła pływowa – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/For%C3%A7a_de_mar%C3%A9" hreflang="pt" lang="pt" title="Força de maré – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ro">
+        <a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/For%C8%9B%C4%83_mareic%C4%83" hreflang="ro" lang="ro" title="Forță mareică – Romanian">
+         Română
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D0%BB%D0%B8%D0%B2%D0%BD%D1%8B%D0%B5_%D1%81%D0%B8%D0%BB%D1%8B" hreflang="ru" lang="ru" title="Приливные силы – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-simple">
+        <a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Tidal_force" hreflang="simple" lang="simple" title="Tidal force – Simple English">
+         Simple English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sk">
+        <a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Slapy_(astrofyzika)" hreflang="sk" lang="sk" title="Slapy (astrofyzika) – Slovak">
+         Slovenčina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sl">
+        <a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Plimska_sila" hreflang="sl" lang="sl" title="Plimska sila – Slovenian">
+         Slovenščina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sr">
+        <a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/Plimska_sila" hreflang="sr" lang="sr" title="Plimska sila – Serbian">
+         Српски / srpski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sh">
+        <a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Plimna_sila" hreflang="sh" lang="sh" title="Plimna sila – Serbo-Croatian">
+         Srpskohrvatski / српскохрватски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Vuorovesivoima" hreflang="fi" lang="fi" title="Vuorovesivoima – Finnish">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Tidvattenkrafter" hreflang="sv" lang="sv" title="Tidvattenkrafter – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-th">
+        <a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B9%84%E0%B8%97%E0%B8%94%E0%B8%B1%E0%B8%A5" hreflang="th" lang="th" title="แรงไทดัล – Thai">
+         ไทย
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E6%BD%AE%E6%B1%90%E5%8A%9B" hreflang="zh" lang="zh" title="潮汐力 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q223325#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 22 January 2018, at 01:11.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Tidal_force&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.204","walltime":"0.299","ppvisitednodes":{"value":760,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":45323,"limit":2097152},"templateargumentsize":{"value":107,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  166.925      1 -total"," 60.85%  101.574      1 Template:Reflist"," 35.87%   59.877      6 Template:Cite_book"," 18.66%   31.146      1 Template:Physical_oceanography"," 16.45%   27.458      1 Template:Navbox"," 12.41%   20.712      1 Template:Anchor","  9.53%   15.902      4 Template:Cite_web","  5.68%    9.484      2 Template:Icon","  3.30%    5.514      1 Template:Cite_journal","  3.16%    5.273      1 Template:Cite_news"]},"scribunto":{"limitreport-timeusage":{"value":"0.081","limit":"10.000"},"limitreport-memusage":{"value":3198982,"limit":52428800}},"cachereport":{"origin":"mw1330","timestamp":"20180303193935","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":85,"wgHostname":"mw1263"});});
+  </script>
+ </body>
+</html>

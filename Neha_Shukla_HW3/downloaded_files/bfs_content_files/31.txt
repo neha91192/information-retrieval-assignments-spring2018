@@ -1,0 +1,2017 @@
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Diameter - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Diameter","wgTitle":"Diameter","wgCurRevisionId":824580872,"wgRevisionId":824580872,"wgArticleId":8007,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from August 2015","Pages using div col without cols and colwidth parameters","Wikipedia articles with GND identifiers","Elementary geometry","Length","Circles"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Diameter","wgRelevantArticleId":8007,"wgRequestId":"WrE@JQpAICoAAGGNOOQAAADL","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q37221","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.math.scripts","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.25" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Circle-withsegments.svg/1200px-Circle-withsegments.svg.png" property="og:image"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Diameter" rel="alternate"/>
+  <link href="/w/index.php?title=Diameter&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Diameter&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Diameter" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Diameter rootpage-Diameter skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Diameter
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <div class="hatnote navigation-not-searchable" role="note">
+       For other uses, see
+       <a class="mw-disambig" href="/wiki/Diameter_(disambiguation)" title="Diameter (disambiguation)">
+        Diameter (disambiguation)
+       </a>
+       .
+      </div>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Not to be confused with
+       <a href="/wiki/Demeter" title="Demeter">
+        Demeter
+       </a>
+       .
+      </div>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:202px;">
+        <a class="image" href="/wiki/File:Circle-withsegments.svg">
+         <img alt="" class="thumbimage" data-file-height="618" data-file-width="612" height="202" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Circle-withsegments.svg/200px-Circle-withsegments.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Circle-withsegments.svg/300px-Circle-withsegments.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Circle-withsegments.svg/400px-Circle-withsegments.svg.png 2x" width="200"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Circle-withsegments.svg" title="Enlarge">
+          </a>
+         </div>
+         Circle with
+         <a href="/wiki/Circumference" title="Circumference">
+          circumference
+         </a>
+         (C) in black, diameter (D) in cyan, radius (R) in red, and centre or origin (O) in magenta.
+        </div>
+       </div>
+      </div>
+      <p>
+       In
+       <a href="/wiki/Geometry" title="Geometry">
+        geometry
+       </a>
+       , a
+       <b>
+        diameter
+       </b>
+       of a
+       <a href="/wiki/Circle" title="Circle">
+        circle
+       </a>
+       is any straight
+       <a href="/wiki/Line_segment" title="Line segment">
+        line segment
+       </a>
+       that passes through the center of the circle and whose endpoints lie on the circle. It can also be defined as the longest
+       <a href="/wiki/Chord_(geometry)" title="Chord (geometry)">
+        chord
+       </a>
+       of the circle. Both definitions are also valid for the diameter of a
+       <a href="/wiki/Sphere" title="Sphere">
+        sphere
+       </a>
+       .
+      </p>
+      <p>
+       In more modern usage, the length of a diameter is also called the diameter. In this sense one speaks of
+       <i>
+        the
+       </i>
+       diameter rather than
+       <i>
+        a
+       </i>
+       diameter (which refers to the line itself), because all diameters of a circle or sphere have the same length, this being twice the
+       <a href="/wiki/Radius" title="Radius">
+        radius
+       </a>
+       <b>
+        r
+       </b>
+       .
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle d=2r\quad \Rightarrow \quad r={\frac {d}{2}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               d
+              </mi>
+              <mo>
+               =
+              </mo>
+              <mn>
+               2
+              </mn>
+              <mi>
+               r
+              </mi>
+              <mspace width="1em">
+              </mspace>
+              <mo stretchy="false">
+               ⇒
+               <!-- ⇒ -->
+              </mo>
+              <mspace width="1em">
+              </mspace>
+              <mi>
+               r
+              </mi>
+              <mo>
+               =
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mi>
+                 d
+                </mi>
+                <mn>
+                 2
+                </mn>
+               </mfrac>
+              </mrow>
+              <mo>
+               .
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle d=2r\quad \Rightarrow \quad r={\frac {d}{2}}.}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="d = 2r \quad \Rightarrow \quad r = \frac{d}{2}." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5caf206ac522afad4b92d8278fc56dec5a8a60e5" style="vertical-align: -1.838ex; width:21.631ex; height:5.343ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       For a
+       <a href="/wiki/Convex_set" title="Convex set">
+        convex shape
+       </a>
+       in the plane, the diameter is defined to be the largest distance that can be formed between two opposite
+       <a class="mw-redirect" href="/wiki/Parallel_lines" title="Parallel lines">
+        parallel lines
+       </a>
+       tangent to its boundary, and the
+       <i>
+        width
+       </i>
+       is often defined to be the smallest such distance. Both quantities can be calculated efficiently using
+       <a href="/wiki/Rotating_calipers" title="Rotating calipers">
+        rotating calipers
+       </a>
+       .
+       <sup class="reference" id="cite_ref-1">
+        <a href="#cite_note-1">
+         [1]
+        </a>
+       </sup>
+       For a
+       <a href="/wiki/Curve_of_constant_width" title="Curve of constant width">
+        curve of constant width
+       </a>
+       such as the
+       <a href="/wiki/Reuleaux_triangle" title="Reuleaux triangle">
+        Reuleaux triangle
+       </a>
+       , the width and diameter are the same because all such pairs of parallel tangent lines have the same distance.
+      </p>
+      <p>
+       <span id="Ellipse">
+       </span>
+      </p>
+      <p>
+       For an
+       <a href="/wiki/Ellipse" title="Ellipse">
+        ellipse
+       </a>
+       , the standard terminology is different. A diameter of an ellipse is any
+       <a href="/wiki/Chord_(geometry)" title="Chord (geometry)">
+        chord
+       </a>
+       passing through the center of the ellipse.
+       <sup class="reference" id="cite_ref-2">
+        <a href="#cite_note-2">
+         [2]
+        </a>
+       </sup>
+       For example,
+       <a href="/wiki/Conjugate_diameters" title="Conjugate diameters">
+        conjugate diameters
+       </a>
+       have the property that a tangent line to the ellipse at the endpoint of one of them is parallel to the other one. The longest diameter is called the
+       <a class="mw-redirect" href="/wiki/Major_axis" title="Major axis">
+        major axis
+       </a>
+       .
+      </p>
+      <p>
+       The word "diameter" is derived from
+       <a href="/wiki/Ancient_Greek" title="Ancient Greek">
+        Greek
+       </a>
+       διάμετρος (
+       <i>
+        diametros
+       </i>
+       ), "diameter of a circle", from διά (
+       <i>
+        dia
+       </i>
+       ), "across, through" and μέτρον (
+       <i>
+        metron
+       </i>
+       ), "measure".
+       <sup class="reference" id="cite_ref-3">
+        <a href="#cite_note-3">
+         [3]
+        </a>
+       </sup>
+       It is often abbreviated
+       <b>
+        DIA
+       </b>
+       ,
+       <b>
+        dia
+       </b>
+       ,
+       <b>
+        d
+       </b>
+       , or
+       <b>
+        ⌀
+       </b>
+       .
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Generalizations">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Generalizations
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#Diameter_symbol">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Diameter symbol
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-3">
+         <a href="#See_also">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-4">
+         <a href="#Notes">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           Notes
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Generalizations">
+        Generalizations
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Diameter&amp;action=edit&amp;section=1" title="Edit section: Generalizations">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       The definitions given above are only valid for circles, spheres and convex shapes. However, they are special cases of a more general definition that is valid for any kind of
+       <i>
+        n
+       </i>
+       -dimensional convex or non-convex object, such as a
+       <a href="/wiki/Hypercube" title="Hypercube">
+        hypercube
+       </a>
+       or a set of scattered points. The
+       <b>
+        diameter
+       </b>
+       of a
+       <a href="/wiki/Subset" title="Subset">
+        subset
+       </a>
+       of a
+       <a href="/wiki/Metric_space" title="Metric space">
+        metric space
+       </a>
+       is the
+       <a class="mw-redirect" href="/wiki/Supremum" title="Supremum">
+        least upper bound
+       </a>
+       of the set of all distances between pairs of points in the subset. So, if
+       <i>
+        A
+       </i>
+       is the subset, the diameter is
+      </p>
+      <dl>
+       <dd>
+        <a class="mw-redirect" href="/wiki/Supremum" title="Supremum">
+         sup
+        </a>
+        { d(
+        <i>
+         x
+        </i>
+        ,
+        <i>
+         y
+        </i>
+        ) |
+        <i>
+         x
+        </i>
+        ,
+        <i>
+         y
+        </i>
+        ∈
+        <i>
+         A
+        </i>
+        } .
+       </dd>
+      </dl>
+      <p>
+       If the
+       <a class="mw-redirect" href="/wiki/Distance_function" title="Distance function">
+        distance function
+       </a>
+       d is viewed here as having
+       <a href="/wiki/Codomain" title="Codomain">
+        codomain
+       </a>
+       <b>
+        R
+       </b>
+       (the set of all
+       <a href="/wiki/Real_number" title="Real number">
+        real numbers
+       </a>
+       ), this implies that the diameter of the
+       <a href="/wiki/Empty_set" title="Empty set">
+        empty set
+       </a>
+       (the case
+       <span class="nowrap">
+        <i>
+         A
+        </i>
+        = ∅
+       </span>
+       ) equals −∞ (
+       <a class="mw-redirect" href="/wiki/Negative_infinity" title="Negative infinity">
+        negative infinity
+       </a>
+       ). Some authors prefer to treat the empty set as a special case, assigning it a diameter equal to 0,
+       <sup class="reference" id="cite_ref-4">
+        <a href="#cite_note-4">
+         [4]
+        </a>
+       </sup>
+       which corresponds to taking the codomain of d to be the set of nonnegative reals.
+      </p>
+      <p>
+       For any solid object or set of scattered points in n-dimensional
+       <a href="/wiki/Euclidean_space" title="Euclidean space">
+        Euclidean space
+       </a>
+       , the diameter of the object or set is the same as the diameter of its
+       <a href="/wiki/Convex_hull" title="Convex hull">
+        convex hull
+       </a>
+       . In medical
+       <a href="/wiki/Idiom#Parlance" title="Idiom">
+        parlance
+       </a>
+       concerning a lesion or in geology concerning a rock, the diameter of an object is the supremum of the set of all distances between pairs of points in the object.
+      </p>
+      <p>
+       In
+       <a href="/wiki/Differential_geometry" title="Differential geometry">
+        differential geometry
+       </a>
+       , the diameter is an important global
+       <a href="/wiki/Riemannian_geometry" title="Riemannian geometry">
+        Riemannian
+       </a>
+       <a href="/wiki/Invariant_(mathematics)" title="Invariant (mathematics)">
+        invariant
+       </a>
+       .
+      </p>
+      <p>
+       In plane geometry, a diameter of a
+       <a href="/wiki/Conic_section" title="Conic section">
+        conic section
+       </a>
+       is typically defined as any chord which passes through the conic's centre; such diameters are not necessarily of uniform length, except in the case of the circle, which has
+       <a href="/wiki/Eccentricity_(mathematics)" title="Eccentricity (mathematics)">
+        eccentricity
+       </a>
+       <i>
+        e
+       </i>
+       = 0.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Diameter_symbol">
+        Diameter symbol
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Diameter&amp;action=edit&amp;section=2" title="Edit section: Diameter symbol">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:124px;">
+        <a class="image" href="/wiki/File:Technical_Drawing_Hole_01.svg">
+         <img alt="" class="thumbimage" data-file-height="666" data-file-width="512" height="159" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Technical_Drawing_Hole_01.svg/122px-Technical_Drawing_Hole_01.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Technical_Drawing_Hole_01.svg/183px-Technical_Drawing_Hole_01.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/67/Technical_Drawing_Hole_01.svg/244px-Technical_Drawing_Hole_01.svg.png 2x" width="122"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Technical_Drawing_Hole_01.svg" title="Enlarge">
+          </a>
+         </div>
+         Sign ⌀ in a technical drawing
+        </div>
+       </div>
+      </div>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:152px;">
+        <a class="image" href="/wiki/File:Sign_diameter.png">
+         <img alt="" class="thumbimage" data-file-height="111" data-file-width="183" height="91" src="//upload.wikimedia.org/wikipedia/en/thumb/2/29/Sign_diameter.png/150px-Sign_diameter.png" srcset="//upload.wikimedia.org/wikipedia/en/2/29/Sign_diameter.png 1.5x" width="150"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Sign_diameter.png" title="Enlarge">
+          </a>
+         </div>
+         Sign ⌀ from an
+         <a href="/wiki/AutoCAD" title="AutoCAD">
+          AutoCAD
+         </a>
+         drawing
+        </div>
+       </div>
+      </div>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Not to be confused with the Scandinavian letter "
+       <a href="/wiki/%C3%98" title="Ø">
+        Ø
+       </a>
+       ", the
+       <a href="/wiki/Empty_set" title="Empty set">
+        empty set
+       </a>
+       symbol
+       <span style="padding-right:0.1em;">
+        "
+       </span>
+       <i>
+        ∅
+       </i>
+       " or the greek letter
+       <a href="/wiki/Phi" title="Phi">
+        phi
+       </a>
+       (Φ).
+      </div>
+      <p>
+       The
+       <a href="/wiki/Symbol" title="Symbol">
+        symbol
+       </a>
+       or
+       <a href="/wiki/Variable_(mathematics)" title="Variable (mathematics)">
+        variable
+       </a>
+       for diameter, ⌀, is
+       <a href="/wiki/Homoglyph" title="Homoglyph">
+        similar in size and design
+       </a>
+       to
+       <a href="/wiki/%C3%98" title="Ø">
+        ø
+       </a>
+       , the Latin small letter o with stroke. In
+       <a href="/wiki/Unicode" title="Unicode">
+        Unicode
+       </a>
+       it is defined as
+       <span class="nowrap">
+        <span class="monospaced" style="font-family: monospace, monospace;">
+         U+2300
+        </span>
+       </span>
+       <span style="font-size:125%">
+        ⌀
+       </span>
+       <a href="/wiki/Miscellaneous_Technical" title="Miscellaneous Technical">
+        <span class="smallcaps" style="font-variant: small-caps; font-size: smaller;">
+         Diameter sign
+        </span>
+       </a>
+       (HTML
+       <code>
+        &amp;#8960;
+       </code>
+       ). On an
+       <a class="mw-redirect" href="/wiki/Apple,_Inc." title="Apple, Inc.">
+        Apple
+       </a>
+       <a href="/wiki/Macintosh" title="Macintosh">
+        Macintosh
+       </a>
+       , the diameter symbol can be entered via the character palette (this is opened by pressing
+       <kbd class="keyboard-key nowrap" style="border: 1px solid #aaa; -moz-border-radius: 0.2em; -webkit-border-radius: 0.2em; border-radius: 0.2em; -moz-box-shadow: 0.1em 0.1em 0.2em rgba(0,0,0,0.1); -webkit-box-shadow: 0.1em 0.1em 0.2em rgba(0,0,0,0.1); box-shadow: 0.1em 0.1em 0.2em rgba(0,0,0,0.1); background-color: #f9f9f9; background-image: -moz-linear-gradient(top, #eee, #f9f9f9, #eee); background-image: -o-linear-gradient(top, #eee, #f9f9f9, #eee); background-image: -webkit-linear-gradient(top, #eee, #f9f9f9, #eee); background-image: linear-gradient(to bottom, #eee, #f9f9f9, #eee); padding: 0.1em 0.3em; font-family: inherit; font-size: 0.85em;">
+        ⌥ Opt
+       </kbd>
+       <kbd class="keyboard-key nowrap" style="border: 1px solid #aaa; -moz-border-radius: 0.2em; -webkit-border-radius: 0.2em; border-radius: 0.2em; -moz-box-shadow: 0.1em 0.1em 0.2em rgba(0,0,0,0.1); -webkit-box-shadow: 0.1em 0.1em 0.2em rgba(0,0,0,0.1); box-shadow: 0.1em 0.1em 0.2em rgba(0,0,0,0.1); background-color: #f9f9f9; background-image: -moz-linear-gradient(top, #eee, #f9f9f9, #eee); background-image: -o-linear-gradient(top, #eee, #f9f9f9, #eee); background-image: -webkit-linear-gradient(top, #eee, #f9f9f9, #eee); background-image: linear-gradient(to bottom, #eee, #f9f9f9, #eee); padding: 0.1em 0.3em; font-family: inherit; font-size: 0.85em;">
+        ⌘ Cmd
+       </kbd>
+       <kbd class="keyboard-key nowrap" style="border: 1px solid #aaa; -moz-border-radius: 0.2em; -webkit-border-radius: 0.2em; border-radius: 0.2em; -moz-box-shadow: 0.1em 0.1em 0.2em rgba(0,0,0,0.1); -webkit-box-shadow: 0.1em 0.1em 0.2em rgba(0,0,0,0.1); box-shadow: 0.1em 0.1em 0.2em rgba(0,0,0,0.1); background-color: #f9f9f9; background-image: -moz-linear-gradient(top, #eee, #f9f9f9, #eee); background-image: -o-linear-gradient(top, #eee, #f9f9f9, #eee); background-image: -webkit-linear-gradient(top, #eee, #f9f9f9, #eee); background-image: linear-gradient(to bottom, #eee, #f9f9f9, #eee); padding: 0.1em 0.3em; font-family: inherit; font-size: 0.85em;">
+        T
+       </kbd>
+       in most applications), where it can be found in the Technical Symbols category.
+      </p>
+      <p>
+       The character will sometimes not display correctly, however, since many
+       <a href="/wiki/Typeface" title="Typeface">
+        fonts
+       </a>
+       do not include it. In many situations the letter ø (the Latin small letter o with stroke) is an
+       <a href="/wiki/Typographic_approximation" title="Typographic approximation">
+        acceptable substitute
+       </a>
+       , which in Unicode is
+       <span class="nowrap">
+        <span class="monospaced" style="font-family: monospace, monospace;">
+         U+00F8
+        </span>
+       </span>
+       <span style="font-size:125%">
+        ø
+       </span>
+       (HTML
+       <code>
+        &amp;#248;
+       </code>
+       <b>
+        ·
+       </b>
+       <code>
+        &amp;oslash;
+       </code>
+       ). It can be obtained in UNIX-like operating systems using a
+       <a href="/wiki/Compose_key" title="Compose key">
+        Compose key
+       </a>
+       by pressing, in sequence,
+       <kbd class="keyboard-key nowrap" style="border: 1px solid #aaa; -moz-border-radius: 0.2em; -webkit-border-radius: 0.2em; border-radius: 0.2em; -moz-box-shadow: 0.1em 0.1em 0.2em rgba(0,0,0,0.1); -webkit-box-shadow: 0.1em 0.1em 0.2em rgba(0,0,0,0.1); box-shadow: 0.1em 0.1em 0.2em rgba(0,0,0,0.1); background-color: #f9f9f9; background-image: -moz-linear-gradient(top, #eee, #f9f9f9, #eee); background-image: -o-linear-gradient(top, #eee, #f9f9f9, #eee); background-image: -webkit-linear-gradient(top, #eee, #f9f9f9, #eee); background-image: linear-gradient(to bottom, #eee, #f9f9f9, #eee); padding: 0.1em 0.3em; font-family: inherit; font-size: 0.85em;">
+        <a href="/wiki/Compose_key" title="Compose key">
+         Compose
+        </a>
+       </kbd>
+       <kbd class="keyboard-key nowrap" style="border: 1px solid #aaa; -moz-border-radius: 0.2em; -webkit-border-radius: 0.2em; border-radius: 0.2em; -moz-box-shadow: 0.1em 0.1em 0.2em rgba(0,0,0,0.1); -webkit-box-shadow: 0.1em 0.1em 0.2em rgba(0,0,0,0.1); box-shadow: 0.1em 0.1em 0.2em rgba(0,0,0,0.1); background-color: #f9f9f9; background-image: -moz-linear-gradient(top, #eee, #f9f9f9, #eee); background-image: -o-linear-gradient(top, #eee, #f9f9f9, #eee); background-image: -webkit-linear-gradient(top, #eee, #f9f9f9, #eee); background-image: linear-gradient(to bottom, #eee, #f9f9f9, #eee); padding: 0.1em 0.3em; font-family: inherit; font-size: 0.85em;">
+        d
+       </kbd>
+       <kbd class="keyboard-key nowrap" style="border: 1px solid #aaa; -moz-border-radius: 0.2em; -webkit-border-radius: 0.2em; border-radius: 0.2em; -moz-box-shadow: 0.1em 0.1em 0.2em rgba(0,0,0,0.1); -webkit-box-shadow: 0.1em 0.1em 0.2em rgba(0,0,0,0.1); box-shadow: 0.1em 0.1em 0.2em rgba(0,0,0,0.1); background-color: #f9f9f9; background-image: -moz-linear-gradient(top, #eee, #f9f9f9, #eee); background-image: -o-linear-gradient(top, #eee, #f9f9f9, #eee); background-image: -webkit-linear-gradient(top, #eee, #f9f9f9, #eee); background-image: linear-gradient(to bottom, #eee, #f9f9f9, #eee); padding: 0.1em 0.3em; font-family: inherit; font-size: 0.85em;">
+        i
+       </kbd>
+       <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+        [
+        <i>
+         <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+          <span title="This claim needs references to reliable sources. (August 2015)">
+           citation needed
+          </span>
+         </a>
+        </i>
+        ]
+       </sup>
+       and on a Macintosh by pressing
+       <kbd class="keyboard-key nowrap" style="border: 1px solid #aaa; -moz-border-radius: 0.2em; -webkit-border-radius: 0.2em; border-radius: 0.2em; -moz-box-shadow: 0.1em 0.1em 0.2em rgba(0,0,0,0.1); -webkit-box-shadow: 0.1em 0.1em 0.2em rgba(0,0,0,0.1); box-shadow: 0.1em 0.1em 0.2em rgba(0,0,0,0.1); background-color: #f9f9f9; background-image: -moz-linear-gradient(top, #eee, #f9f9f9, #eee); background-image: -o-linear-gradient(top, #eee, #f9f9f9, #eee); background-image: -webkit-linear-gradient(top, #eee, #f9f9f9, #eee); background-image: linear-gradient(to bottom, #eee, #f9f9f9, #eee); padding: 0.1em 0.3em; font-family: inherit; font-size: 0.85em;">
+        ⌥ Opt
+       </kbd>
+       <kbd class="keyboard-key nowrap" style="border: 1px solid #aaa; -moz-border-radius: 0.2em; -webkit-border-radius: 0.2em; border-radius: 0.2em; -moz-box-shadow: 0.1em 0.1em 0.2em rgba(0,0,0,0.1); -webkit-box-shadow: 0.1em 0.1em 0.2em rgba(0,0,0,0.1); box-shadow: 0.1em 0.1em 0.2em rgba(0,0,0,0.1); background-color: #f9f9f9; background-image: -moz-linear-gradient(top, #eee, #f9f9f9, #eee); background-image: -o-linear-gradient(top, #eee, #f9f9f9, #eee); background-image: -webkit-linear-gradient(top, #eee, #f9f9f9, #eee); background-image: linear-gradient(to bottom, #eee, #f9f9f9, #eee); padding: 0.1em 0.3em; font-family: inherit; font-size: 0.85em;">
+        O
+       </kbd>
+       (the letter
+       <a href="/wiki/O" title="O">
+        o
+       </a>
+       , not the number
+       <a class="mw-redirect" href="/wiki/0_(number)" title="0 (number)">
+        0
+       </a>
+       ).
+      </p>
+      <p>
+       In
+       <a href="/wiki/Microsoft_Word" title="Microsoft Word">
+        Microsoft Word
+       </a>
+       the diameter symbol can be acquired by typing 2300 and then pressing Alt+X.
+      </p>
+      <p>
+       In
+       <a href="/wiki/LaTeX" title="LaTeX">
+        LaTeX
+       </a>
+       the diameter symbol can be obtained with the command
+       <code>
+        \diameter
+       </code>
+       from the wasysym package.
+      </p>
+      <p>
+       The diameter symbol ⌀ is distinct from the
+       <a href="/wiki/Empty_set" title="Empty set">
+        empty set
+       </a>
+       symbol ∅, from an (
+       <a href="/wiki/Italic_script" title="Italic script">
+        italic
+       </a>
+       ) uppercase
+       <a class="mw-redirect" href="/wiki/Phi_(letter)" title="Phi (letter)">
+        phi
+       </a>
+       <i>
+        Φ
+       </i>
+       , and from the Nordic vowel
+       <a href="/wiki/%C3%98" title="Ø">
+        Ø
+       </a>
+       .
+       <sup class="reference" id="cite_ref-5">
+        <a href="#cite_note-5">
+         [5]
+        </a>
+       </sup>
+       See also
+       <a href="/wiki/Slashed_zero" title="Slashed zero">
+        slashed zero
+       </a>
+       .
+      </p>
+      <p>
+       In
+       <a class="mw-redirect" href="/wiki/German_(language)" title="German (language)">
+        German
+       </a>
+       , the diameter symbol (German
+       <i>
+        <a class="extiw" href="https://de.wikipedia.org/wiki/Durchmesserzeichen" title="de:Durchmesserzeichen">
+         Durchmesserzeichen
+        </a>
+       </i>
+       ) is also used as an
+       <a href="/wiki/Average" title="Average">
+        average
+       </a>
+       symbol (
+       <i>
+        Durchschnittszeichen
+       </i>
+       ).
+      </p>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Diameter&amp;action=edit&amp;section=3" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+       <tr>
+        <td class="mbox-image">
+         <img alt="" class="noviewer" data-file-height="391" data-file-width="391" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" width="40"/>
+        </td>
+        <td class="mbox-text plainlist">
+         Look up
+         <i>
+          <b>
+           <a class="extiw" href="https://en.wiktionary.org/wiki/diameter" title="wiktionary:diameter">
+            diameter
+           </a>
+          </b>
+         </i>
+         in Wiktionary, the free dictionary.
+        </td>
+       </tr>
+      </table>
+      <div class="div-col columns column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+       <ul>
+        <li>
+         <a href="/wiki/Angular_diameter" title="Angular diameter">
+          Angular diameter
+         </a>
+        </li>
+        <li>
+         <a class="mw-redirect" href="/wiki/Caliper" title="Caliper">
+          Caliper
+         </a>
+         ,
+         <a href="/wiki/Micrometer" title="Micrometer">
+          micrometer
+         </a>
+         , tools for measuring diameters
+        </li>
+        <li>
+         <a href="/wiki/Conjugate_diameters" title="Conjugate diameters">
+          Conjugate diameters
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Diameter_(group_theory)" title="Diameter (group theory)">
+          Diameter (group theory)
+         </a>
+         , a concept in
+         <a href="/wiki/Group_theory" title="Group theory">
+          group theory
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Eratosthenes" title="Eratosthenes">
+          Eratosthenes
+         </a>
+         , who calculated the diameter of the
+         <a href="/wiki/Earth" title="Earth">
+          Earth
+         </a>
+         around 240 BC.
+        </li>
+        <li>
+         <a href="/wiki/Distance_(graph_theory)" title="Distance (graph theory)">
+          Graph or network diameter
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Hydraulic_diameter" title="Hydraulic diameter">
+          Hydraulic diameter
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/List_of_gear_nomenclature#Inside_diameter" title="List of gear nomenclature">
+          Inside diameter
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Jung%27s_theorem" title="Jung's theorem">
+          Jung's theorem
+         </a>
+         , an inequality relating the diameter to the radius of the
+         <a class="mw-redirect" href="/wiki/Circumradius" title="Circumradius">
+          smallest enclosing ball
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Sauter_mean_diameter" title="Sauter mean diameter">
+          Sauter mean diameter
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Tangent_lines_to_circles" title="Tangent lines to circles">
+          Tangent lines to circles
+         </a>
+        </li>
+        <li>
+         <a class="mw-disambig" href="/wiki/%C3%98_(disambiguation)" title="Ø (disambiguation)">
+          Ø (disambiguation)
+         </a>
+        </li>
+       </ul>
+      </div>
+      <h2>
+       <span class="mw-headline" id="Notes">
+        Notes
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Diameter&amp;action=edit&amp;section=4" title="Edit section: Notes">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist" style="list-style-type: decimal;">
+       <div class="mw-references-wrap">
+        <ol class="references">
+         <li id="cite_note-1">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-1">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Toussaint, Godfried T. (1983).
+            <a class="external text" href="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.155.5671" rel="nofollow">
+             "Solving geometric problems with the rotating calipers"
+            </a>
+            . Proc. MELECON '83, Athens.
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Solving+geometric+problems+with+the+rotating+calipers&amp;rft.date=1983&amp;rft.au=Toussaint%2C+Godfried+T.&amp;rft_id=http%3A%2F%2Fciteseerx.ist.psu.edu%2Fviewdoc%2Fsummary%3Fdoi%3D10.1.1.155.5671&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADiameter">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-2">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-2">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <a class="external text" href="http://www.cut-the-knot.org/Curriculum/Geometry/ConjugateDiameters.shtml" rel="nofollow">
+            Cut-the-Knot
+           </a>
+          </span>
+         </li>
+         <li id="cite_note-3">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-3">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <a class="external text" href="http://www.etymonline.com/index.php?term=diameter" rel="nofollow">
+            Online Etymology Dictionary
+           </a>
+          </span>
+         </li>
+         <li id="cite_note-4">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-4">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <a class="external text" href="http://at.yorku.ca/cgi-bin/bbqa?forum=ask_a_topologist_2004;task=show_msg;msg=0860.0002" rel="nofollow">
+            Re: diameter of an empty set
+           </a>
+          </span>
+         </li>
+         <li id="cite_note-5">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-5">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation" id="CITEREFKorpela2006">
+            Korpela, Jukka K. (2006),
+            <a class="external text" href="https://books.google.com/books?id=lxndiWaFMvMC&amp;pg=PA23" rel="nofollow">
+             <i>
+              Unicode Explained
+             </i>
+            </a>
+            ,
+            <a class="mw-redirect" href="/wiki/O%27Reilly_Media,_Inc." title="O'Reilly Media, Inc.">
+             O'Reilly Media, Inc.
+            </a>
+            , pp. 23–24,
+            <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+             ISBN
+            </a>
+            <a href="/wiki/Special:BookSources/978-0-596-10121-3" title="Special:BookSources/978-0-596-10121-3">
+             978-0-596-10121-3
+            </a>
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Unicode+Explained&amp;rft.pages=23-24&amp;rft.pub=O%27Reilly+Media%2C+Inc.&amp;rft.date=2006&amp;rft.isbn=978-0-596-10121-3&amp;rft.aulast=Korpela&amp;rft.aufirst=Jukka+K.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DlxndiWaFMvMC%26pg%3DPA23&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADiameter">
+            <span style="display:none;">
+            </span>
+           </span>
+           .
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <div aria-label="Navbox" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <a href="/wiki/Help:Authority_control" title="Help:Authority control">
+           Authority control
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <span class="nowrap">
+              <a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">
+               GND
+              </a>
+              :
+              <span class="uid">
+               <a class="external text" href="https://d-nb.info/gnd/4273067-3" rel="nofollow">
+                4273067-3
+               </a>
+              </span>
+             </span>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1240
+Cached time: 20180316141241
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.308 seconds
+Real time usage: 0.417 seconds
+Preprocessor visited node count: 1807/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 25438/2097152 bytes
+Template argument size: 2033/2097152 bytes
+Highest expansion depth: 22/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 3226/5000000 bytes
+Lua time usage: 0.128/10.000 seconds
+Lua memory usage: 2.79 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  340.580      1 -total
+ 21.92%   74.656      1 Template:Reflist
+ 17.85%   60.779      2 Template:Unichar
+ 16.91%   57.582      2 Template:Unichar/main
+ 16.88%   57.484      1 Template:Citation_needed
+ 15.09%   51.395      1 Template:Fix
+ 14.44%   49.188      1 Template:Authority_control
+ 12.80%   43.580      1 Template:Cite_journal
+  8.69%   29.580      1 Template:Other_uses
+  8.37%   28.494      2 Template:Category_handler
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:8007-0!canonical!math=5 and timestamp 20180316141241 and revision id 824580872
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Diameter&amp;oldid=824580872">
+      https://en.wikipedia.org/w/index.php?title=Diameter&amp;oldid=824580872
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Elementary_geometry" title="Category:Elementary geometry">
+         Elementary geometry
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Length" title="Category:Length">
+         Length
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Circles" title="Category:Circles">
+         Circles
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">
+         All articles with unsourced statements
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_unsourced_statements_from_August_2015" title="Category:Articles with unsourced statements from August 2015">
+         Articles with unsourced statements from August 2015
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Pages_using_div_col_without_cols_and_colwidth_parameters" title="Category:Pages using div col without cols and colwidth parameters">
+         Pages using div col without cols and colwidth parameters
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">
+         Wikipedia articles with GND identifiers
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Diameter" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Diameter" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Diameter" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Diameter" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Diameter">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Diameter&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Diameter&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Diameter" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Diameter" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Diameter&amp;oldid=824580872" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Diameter&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q37221" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Diameter&amp;id=824580872" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Diameter">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Diameter&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Diameter&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Diameter" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-af">
+        <a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Deursnee" hreflang="af" lang="af" title="Deursnee – Afrikaans">
+         Afrikaans
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-als">
+        <a class="interlanguage-link-target" href="https://als.wikipedia.org/wiki/Durchmesser" hreflang="als" lang="als" title="Durchmesser – Alemannisch">
+         Alemannisch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%82%D8%B7%D8%B1_(%D9%87%D9%86%D8%AF%D8%B3%D8%A9)" hreflang="ar" lang="ar" title="قطر (هندسة) – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-as">
+        <a class="interlanguage-link-target" href="https://as.wikipedia.org/wiki/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8_(%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A7%B0%E0%A7%8D%E0%A6%A5%E0%A6%A4%E0%A6%BE_%E0%A6%A6%E0%A7%82%E0%A7%B0%E0%A7%80%E0%A6%95%E0%A7%B0%E0%A6%A3_%E0%A6%AA%E0%A7%83%E0%A6%B7%E0%A7%8D%E0%A6%A0%E0%A6%BE)" hreflang="as" lang="as" title="ব্যাস (দ্ব্যৰ্থতা দূৰীকৰণ পৃষ্ঠা) – Assamese">
+         অসমীয়া
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ast">
+        <a class="interlanguage-link-target" href="https://ast.wikipedia.org/wiki/Di%C3%A1metru" hreflang="ast" lang="ast" title="Diámetru – Asturian">
+         Asturianu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-az">
+        <a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/Diametr" hreflang="az" lang="az" title="Diametr – Azerbaijani">
+         Azərbaycanca
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bn">
+        <a class="interlanguage-link-target" href="https://bn.wikipedia.org/wiki/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8" hreflang="bn" lang="bn" title="ব্যাস – Bangla">
+         বাংলা
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh-min-nan">
+        <a class="interlanguage-link-target" href="https://zh-min-nan.wikipedia.org/wiki/Ti%CC%8Dt-k%C3%A8ng" hreflang="zh-min-nan" lang="zh-min-nan" title="Ti̍t-kèng – Chinese (Min Nan)">
+         Bân-lâm-gú
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be">
+        <a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%94%D1%8B%D1%8F%D0%BC%D0%B5%D1%82%D1%80" hreflang="be" lang="be" title="Дыяметр – Belarusian">
+         Беларуская
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be-x-old">
+        <a class="interlanguage-link-target" href="https://be-x-old.wikipedia.org/wiki/%D0%94%D1%8B%D1%8F%D0%BC%D1%8D%D1%82%D0%B0%D1%80" hreflang="be-x-old" lang="be-x-old" title="Дыямэтар – Belarusian (Taraškievica orthography)">
+         Беларуская (тарашкевіца)‎
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bg">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%94%D0%B8%D0%B0%D0%BC%D0%B5%D1%82%D1%8A%D1%80" hreflang="bg" lang="bg" title="Диаметър – Bulgarian">
+         Български
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bs">
+        <a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Pre%C4%8Dnik" hreflang="bs" lang="bs" title="Prečnik – Bosnian">
+         Bosanski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Di%C3%A0metre" hreflang="ca" lang="ca" title="Diàmetre – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cv">
+        <a class="interlanguage-link-target" href="https://cv.wikipedia.org/wiki/%D0%94%D0%B8%D0%B0%D0%BC%D0%B5%D1%82%D1%80" hreflang="cv" lang="cv" title="Диаметр – Chuvash">
+         Чӑвашла
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Pr%C5%AFm%C4%9Br_(geometrie)" hreflang="cs" lang="cs" title="Průměr (geometrie) – Czech">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sn">
+        <a class="interlanguage-link-target" href="https://sn.wikipedia.org/wiki/Gurapakati" hreflang="sn" lang="sn" title="Gurapakati – Shona">
+         ChiShona
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cy">
+        <a class="interlanguage-link-target" href="https://cy.wikipedia.org/wiki/Diamedr" hreflang="cy" lang="cy" title="Diamedr – Welsh">
+         Cymraeg
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Diameter" hreflang="da" lang="da" title="Diameter – Danish">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Durchmesser" hreflang="de" lang="de" title="Durchmesser – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-et">
+        <a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Diameeter" hreflang="et" lang="et" title="Diameeter – Estonian">
+         Eesti
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-el">
+        <a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%94%CE%B9%CE%AC%CE%BC%CE%B5%CF%84%CF%81%CE%BF%CF%82" hreflang="el" lang="el" title="Διάμετρος – Greek">
+         Ελληνικά
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Di%C3%A1metro" hreflang="es" lang="es" title="Diámetro – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eo">
+        <a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Diametro" hreflang="eo" lang="eo" title="Diametro – Esperanto">
+         Esperanto
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eu">
+        <a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Diametro" hreflang="eu" lang="eu" title="Diametro – Basque">
+         Euskara
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%82%D8%B7%D8%B1_(%D8%AF%D8%A7%DB%8C%D8%B1%D9%87)" hreflang="fa" lang="fa" title="قطر (دایره) – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Diam%C3%A8tre" hreflang="fr" lang="fr" title="Diamètre – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gl">
+        <a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Di%C3%A1metro" hreflang="gl" lang="gl" title="Diámetro – Galician">
+         Galego
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gu">
+        <a class="interlanguage-link-target" href="https://gu.wikipedia.org/wiki/%E0%AA%B5%E0%AA%B0%E0%AB%8D%E0%AA%A4%E0%AB%81%E0%AA%B3%E0%AA%A8%E0%AB%8B_%E0%AA%B5%E0%AB%8D%E0%AA%AF%E0%AA%BE%E0%AA%B8" hreflang="gu" lang="gu" title="વર્તુળનો વ્યાસ – Gujarati">
+         ગુજરાતી
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%A7%80%EB%A6%84" hreflang="ko" lang="ko" title="지름 – Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hy">
+        <a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D5%8F%D6%80%D5%A1%D5%B4%D5%A1%D5%A3%D5%AB%D5%AE" hreflang="hy" lang="hy" title="Տրամագիծ – Armenian">
+         Հայերեն
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hi">
+        <a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8_(%E0%A4%9C%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AE%E0%A4%BF%E0%A4%A4%E0%A4%BF)" hreflang="hi" lang="hi" title="व्यास (ज्यामिति) – Hindi">
+         हिन्दी
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hr">
+        <a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Promjer" hreflang="hr" lang="hr" title="Promjer – Croatian">
+         Hrvatski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-io">
+        <a class="interlanguage-link-target" href="https://io.wikipedia.org/wiki/Diametro" hreflang="io" lang="io" title="Diametro – Ido">
+         Ido
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Diameter" hreflang="id" lang="id" title="Diameter – Indonesian">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-is">
+        <a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/%C3%9Everm%C3%A1l" hreflang="is" lang="is" title="Þvermál – Icelandic">
+         Íslenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Diametro" hreflang="it" lang="it" title="Diametro – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he">
+        <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%A7%D7%95%D7%98%D7%A8" hreflang="he" lang="he" title="קוטר – Hebrew">
+         עברית
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-jv">
+        <a class="interlanguage-link-target" href="https://jv.wikipedia.org/wiki/Dhiam%C3%A8ter" hreflang="jv" lang="jv" title="Dhiamèter – Javanese">
+         Basa Jawa
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ka">
+        <a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%93%E1%83%98%E1%83%90%E1%83%9B%E1%83%94%E1%83%A2%E1%83%A0%E1%83%98" hreflang="ka" lang="ka" title="დიამეტრი – Georgian">
+         ქართული
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-kk">
+        <a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%94%D0%B8%D0%B0%D0%BC%D0%B5%D1%82%D1%80" hreflang="kk" lang="kk" title="Диаметр – Kazakh">
+         Қазақша
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sw">
+        <a class="interlanguage-link-target" href="https://sw.wikipedia.org/wiki/Kipenyo" hreflang="sw" lang="sw" title="Kipenyo – Swahili">
+         Kiswahili
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-la">
+        <a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/Diametros" hreflang="la" lang="la" title="Diametros – Latin">
+         Latina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lv">
+        <a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Diametrs" hreflang="lv" lang="lv" title="Diametrs – Latvian">
+         Latviešu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lb">
+        <a class="interlanguage-link-target" href="https://lb.wikipedia.org/wiki/Duerchmiesser" hreflang="lb" lang="lb" title="Duerchmiesser – Luxembourgish">
+         Lëtzebuergesch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lt">
+        <a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Skersmuo" hreflang="lt" lang="lt" title="Skersmuo – Lithuanian">
+         Lietuvių
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-li">
+        <a class="interlanguage-link-target" href="https://li.wikipedia.org/wiki/Diameter" hreflang="li" lang="li" title="Diameter – Limburgish">
+         Limburgs
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hu">
+        <a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/%C3%81tm%C3%A9r%C5%91_(geometria)" hreflang="hu" lang="hu" title="Átmérő (geometria) – Hungarian">
+         Magyar
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mk">
+        <a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D1%87%D0%BD%D0%B8%D0%BA" hreflang="mk" lang="mk" title="Пречник – Macedonian">
+         Македонски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ml">
+        <a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%B5%E0%B5%8D%E0%B4%AF%E0%B4%BE%E0%B4%B8%E0%B4%82" hreflang="ml" lang="ml" title="വ്യാസം – Malayalam">
+         മലയാളം
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mr">
+        <a class="interlanguage-link-target" href="https://mr.wikipedia.org/wiki/%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8_(%E0%A4%AD%E0%A5%82%E0%A4%AE%E0%A4%BF%E0%A4%A4%E0%A5%80)" hreflang="mr" lang="mr" title="व्यास (भूमिती) – Marathi">
+         मराठी
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ms">
+        <a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Diameter" hreflang="ms" lang="ms" title="Diameter – Malay">
+         Bahasa Melayu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Diameter" hreflang="nl" lang="nl" title="Diameter – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ne">
+        <a class="interlanguage-link-target" href="https://ne.wikipedia.org/wiki/%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8(%E0%A4%9C%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AE%E0%A4%BF%E0%A4%A4%E0%A5%80)" hreflang="ne" lang="ne" title="व्यास(ज्यामिती) – Nepali">
+         नेपाली
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%BE%84" hreflang="ja" lang="ja" title="径 – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-frr">
+        <a class="interlanguage-link-target" href="https://frr.wikipedia.org/wiki/Trochmeeder" hreflang="frr" lang="frr" title="Trochmeeder – Northern Frisian">
+         Nordfriisk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Diameter" hreflang="no" lang="no" title="Diameter – Norwegian">
+         Norsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nn">
+        <a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Diameter" hreflang="nn" lang="nn" title="Diameter – Norwegian Nynorsk">
+         Norsk nynorsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-oc">
+        <a class="interlanguage-link-target" href="https://oc.wikipedia.org/wiki/Diam%C3%A8tre" hreflang="oc" lang="oc" title="Diamètre – Occitan">
+         Occitan
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uz">
+        <a class="interlanguage-link-target" href="https://uz.wikipedia.org/wiki/Diametr" hreflang="uz" lang="uz" title="Diametr – Uzbek">
+         Oʻzbekcha/ўзбекча
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-km">
+        <a class="interlanguage-link-target" href="https://km.wikipedia.org/wiki/%E1%9E%A2%E1%9E%84%E1%9F%92%E1%9E%80%E1%9E%8F%E1%9F%8B%E1%9E%95%E1%9F%92%E1%9E%85%E1%9E%B7%E1%9E%8F" hreflang="km" lang="km" title="អង្កត់ផ្ចិត – Khmer">
+         ភាសាខ្មែរ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nds">
+        <a class="interlanguage-link-target" href="https://nds.wikipedia.org/wiki/D%C3%B6rmeter" hreflang="nds" lang="nds" title="Dörmeter – Low German">
+         Plattdüütsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/%C5%9Arednica" hreflang="pl" lang="pl" title="Średnica – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Di%C3%A2metro" hreflang="pt" lang="pt" title="Diâmetro – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ro">
+        <a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Diametru" hreflang="ro" lang="ro" title="Diametru – Romanian">
+         Română
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-qu">
+        <a class="interlanguage-link-target" href="https://qu.wikipedia.org/wiki/Raqta" hreflang="qu" lang="qu" title="Raqta – Quechua">
+         Runa Simi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D0%B0%D0%BC%D0%B5%D1%82%D1%80" hreflang="ru" lang="ru" title="Диаметр – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sco">
+        <a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Diameter" hreflang="sco" lang="sco" title="Diameter – Scots">
+         Scots
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-simple">
+        <a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Diameter" hreflang="simple" lang="simple" title="Diameter – Simple English">
+         Simple English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sk">
+        <a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Priemer_(geometria)" hreflang="sk" lang="sk" title="Priemer (geometria) – Slovak">
+         Slovenčina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sl">
+        <a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Premer" hreflang="sl" lang="sl" title="Premer – Slovenian">
+         Slovenščina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-szl">
+        <a class="interlanguage-link-target" href="https://szl.wikipedia.org/wiki/Szyrzka" hreflang="szl" lang="szl" title="Szyrzka – Silesian">
+         Ślůnski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-so">
+        <a class="interlanguage-link-target" href="https://so.wikipedia.org/wiki/Dhexroor" hreflang="so" lang="so" title="Dhexroor – Somali">
+         Soomaaliga
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ckb">
+        <a class="interlanguage-link-target" href="https://ckb.wikipedia.org/wiki/%D8%AA%DB%8C%D8%B1%DB%95_(%D8%A6%DB%95%D9%86%D8%AF%D8%A7%D8%B2%DB%95)" hreflang="ckb" lang="ckb" title="تیرە (ئەندازە) – Central Kurdish">
+         کوردی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sr">
+        <a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D1%87%D0%BD%D0%B8%D0%BA" hreflang="sr" lang="sr" title="Пречник – Serbian">
+         Српски / srpski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sh">
+        <a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Promjer" hreflang="sh" lang="sh" title="Promjer – Serbo-Croatian">
+         Srpskohrvatski / српскохрватски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Halkaisija" hreflang="fi" lang="fi" title="Halkaisija – Finnish">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Diameter" hreflang="sv" lang="sv" title="Diameter – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tl">
+        <a class="interlanguage-link-target" href="https://tl.wikipedia.org/wiki/Diyametro" hreflang="tl" lang="tl" title="Diyametro – Tagalog">
+         Tagalog
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ta">
+        <a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%B5%E0%AE%BF%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%AE%E0%AF%8D" hreflang="ta" lang="ta" title="விட்டம் – Tamil">
+         தமிழ்
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tt">
+        <a class="interlanguage-link-target" href="https://tt.wikipedia.org/wiki/%D0%94%D0%B8%D0%B0%D0%BC%D0%B5%D1%82%D1%80" hreflang="tt" lang="tt" title="Диаметр – Tatar">
+         Татарча/tatarça
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-te">
+        <a class="interlanguage-link-target" href="https://te.wikipedia.org/wiki/%E0%B0%B5%E0%B1%8D%E0%B0%AF%E0%B0%BE%E0%B0%B8%E0%B0%82_(%E0%B0%97%E0%B0%A3%E0%B0%BF%E0%B0%A4_%E0%B0%B6%E0%B0%BE%E0%B0%B8%E0%B1%8D%E0%B0%A4%E0%B1%8D%E0%B0%B0%E0%B0%AE%E0%B1%81)" hreflang="te" lang="te" title="వ్యాసం (గణిత శాస్త్రము) – Telugu">
+         తెలుగు
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-th">
+        <a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%AA%E0%B9%89%E0%B8%99%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%A8%E0%B8%B9%E0%B8%99%E0%B8%A2%E0%B9%8C%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87" hreflang="th" lang="th" title="เส้นผ่านศูนย์กลาง – Thai">
+         ไทย
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tg">
+        <a class="interlanguage-link-target" href="https://tg.wikipedia.org/wiki/%D0%94%D0%B8%D0%B0%D0%BC%D0%B5%D1%82%D1%80" hreflang="tg" lang="tg" title="Диаметр – Tajik">
+         Тоҷикӣ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tr">
+        <a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/%C3%87ap" hreflang="tr" lang="tr" title="Çap – Turkish">
+         Türkçe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%94%D1%96%D0%B0%D0%BC%D0%B5%D1%82%D1%80" hreflang="uk" lang="uk" title="Діаметр – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ur">
+        <a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%D9%82%D8%B7%D8%B1_(%DB%81%D9%86%D8%AF%D8%B3%DB%81)" hreflang="ur" lang="ur" title="قطر (ہندسہ) – Urdu">
+         اردو
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vi">
+        <a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/%C4%90%C6%B0%E1%BB%9Dng_k%C3%ADnh" hreflang="vi" lang="vi" title="Đường kính – Vietnamese">
+         Tiếng Việt
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-war">
+        <a class="interlanguage-link-target" href="https://war.wikipedia.org/wiki/Diametro" hreflang="war" lang="war" title="Diametro – Waray">
+         Winaray
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-yi">
+        <a class="interlanguage-link-target" href="https://yi.wikipedia.org/wiki/%D7%93%D7%99%D7%90%D7%9E%D7%A2%D7%98%D7%A2%D7%A8" hreflang="yi" lang="yi" title="דיאמעטער – Yiddish">
+         ייִדיש
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh-yue">
+        <a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E7%9B%B4%E5%BE%91" hreflang="zh-yue" lang="zh-yue" title="直徑 – Cantonese">
+         粵語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E7%9B%B4%E5%BE%84" hreflang="zh" lang="zh" title="直径 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q37221#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 8 February 2018, at 06:00.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Diameter&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.308","walltime":"0.417","ppvisitednodes":{"value":1807,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":25438,"limit":2097152},"templateargumentsize":{"value":2033,"limit":2097152},"expansiondepth":{"value":22,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":3226,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  340.580      1 -total"," 21.92%   74.656      1 Template:Reflist"," 17.85%   60.779      2 Template:Unichar"," 16.91%   57.582      2 Template:Unichar/main"," 16.88%   57.484      1 Template:Citation_needed"," 15.09%   51.395      1 Template:Fix"," 14.44%   49.188      1 Template:Authority_control"," 12.80%   43.580      1 Template:Cite_journal","  8.69%   29.580      1 Template:Other_uses","  8.37%   28.494      2 Template:Category_handler"]},"scribunto":{"limitreport-timeusage":{"value":"0.128","limit":"10.000"},"limitreport-memusage":{"value":2922528,"limit":52428800}},"cachereport":{"origin":"mw1240","timestamp":"20180316141241","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":81,"wgHostname":"mw1321"});});
+  </script>
+ </body>
+</html>

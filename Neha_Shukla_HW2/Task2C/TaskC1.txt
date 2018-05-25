@@ -1,0 +1,41 @@
+When damping factor(d) is decreased to 0.55, the PageRank values and so the perplexity values for each iteration changes.
+
+1.Changes in the perplexity values
+We can see from the results that, when d was taken as 0.55 vs d as 0.85, the perplexity values(measure of how skewed the Probability distribution is) increased for each iteration. Also, the PageRank converged in iteration 8 as compared to 12 (when d was taken as 0.85 for G1)
+
+Perplexity Values for d=0.55                     Perplexity Values for d=0.85
+Perplexity1: 999.9999999999519                   Perplexity1:  999.9999999999519
+Perplexity2: 899.2814879810697                   Perplexity2:  798.2662504515549
+Perplexity3: 891.6894271642523                   Perplexity3:  771.3194538995909
+Perplexity4: 885.5082930506629                   Perplexity4:  743.4927338318936
+Perplexity5: 883.5044085163499                   Perplexity5:  729.1738195727852
+Perplexity6: 882.7502826261762                   Perplexity6:  720.8176174344411
+Perplexity7: 882.4566609962656                   Perplexity7:  715.6905187078779
+Perplexity8: 882.3526689683281                   Perplexity8:  712.7680275971063
+                                                 Perplexity9:  711.100516190554
+                                                 Perplexity10: 710.2221171078902
+                                                 Perplexity11: 709.8146731764484
+                                                 Perplexity12: 709.689162753706
+
+So we can say that, lower the damping factor, the PageRank computation gets converged
+more quickly. Also, since the at each iteration, Perplexity Value for lower d > Perplexity Value for higher d, we can say that the PageRank values are more evenly distributed for the ones with lower d.
+
+2. Changes in the PageRank results:
+When the damping factor(d) is decreased, the PageRank values for lower d is less as compared to the ones with the higher d. This is because, by decreasing the damping factor, the page converges quickly before computing the desired number of PageRank iterations. If you consider a graph, lower damping factor will traverse lesser of the path before coming to the convergence.
+
+Page Rank results for d=0.55
+1.International_Standard_Book_Number:       0.014124974382817193
+2.Digital_object_identifier:                0.009993068101483812
+3.Virtual_International_Authority_File:     0.00830762658658184
+4.Integrated_Authority_File:                0.007821258335423091
+5.Wayback_Machine:                          0.006287684017425589
+6.Library_of_Congress_Control_Number:       0.005377032687538745
+
+
+Page rank results for d=0.85
+1.Virtual_International_Authority_File:      0.020338218996984046
+2.International_Standard_Book_Number :       0.020096583364654873
+3.Digital_object_identifier:                 0.017563883676440063
+4.Integrated_Authority_File:                 0.01560163467132466
+5.Wayback_Machine:                           0.01284234606624947
+6.Biblioth%C3%A8que_nationale_de_France:     0.011737036374080191

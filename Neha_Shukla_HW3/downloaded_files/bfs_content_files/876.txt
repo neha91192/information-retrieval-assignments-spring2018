@@ -1,0 +1,2834 @@
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Film budgeting - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Film_budgeting","wgTitle":"Film budgeting","wgCurRevisionId":831278958,"wgRevisionId":831278958,"wgArticleId":4446461,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from June 2014","Articles with unsourced statements from January 2016","Budgets","Film production"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Film_budgeting","wgRelevantArticleId":4446461,"wgRequestId":"WrAQOApAICIAAGrlHh0AAACG","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q505110","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.25" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Film_budgeting" rel="alternate"/>
+  <link href="/w/index.php?title=Film_budgeting&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Film_budgeting&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Film_budgeting" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Film_budgeting rootpage-Film_budgeting skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Film budgeting
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <p>
+       <b>
+        Film budgeting
+       </b>
+       refers to the process by which a line producer, unit production manager, or production accountant prepares a
+       <a href="/wiki/Budget" title="Budget">
+        budget
+       </a>
+       for a
+       <a class="mw-redirect" href="/wiki/Film_production" title="Film production">
+        film production
+       </a>
+       . This document, which could be over 134 pages long, is used to secure financing for and lead to pre-production and production of the film. Multiple drafts of the budget may be required to whittle down costs. A budget is typically divided into four sections:
+       <i>
+        <a class="mw-redirect" href="/wiki/Above_the_line_(filmmaking)" title="Above the line (filmmaking)">
+         above the line
+        </a>
+       </i>
+       (creative talent),
+       <i>
+        <a class="mw-redirect" href="/wiki/Below_the_line_(filmmaking)" title="Below the line (filmmaking)">
+         below the line
+        </a>
+       </i>
+       (direct production costs),
+       <i>
+        <a href="/wiki/Post-production" title="Post-production">
+         post-production
+        </a>
+       </i>
+       (editing, visual effects, etc.), and
+       <i>
+        other
+       </i>
+       (
+       <a href="/wiki/Insurance" title="Insurance">
+        insurance
+       </a>
+       , completion bond, etc.) The budget excludes
+       <a href="/wiki/Film_promotion" title="Film promotion">
+        film promotion
+       </a>
+       and marketing, which is the responsibility of the
+       <a href="/wiki/Film_distributor" title="Film distributor">
+        film distributor
+       </a>
+       . Film financing can be acquired from a private investor,
+       <a href="/wiki/Sponsor_(commercial)" title="Sponsor (commercial)">
+        sponsor
+       </a>
+       ,
+       <a href="/wiki/Product_placement" title="Product placement">
+        product placement
+       </a>
+       ,
+       <a href="/wiki/Film_studio" title="Film studio">
+        film studio
+       </a>
+       , entertainment company, and/or out-of-pocket funds.
+      </p>
+      <p>
+       When it comes to reporting the budget of a film, the amount of the budget represents the gross budget, which is the grand total of actual spending to produce the project and not to be confused with net budget, which represents the final out of pocket for the producer after government incentives or rebates ("If you pay $50 for something but have a mail-in coupon for a $10 rebate, your gross spending still amounts to $50.")
+       <sup class="reference" id="cite_ref-1">
+        <a href="#cite_note-1">
+         [1]
+        </a>
+       </sup>
+       One of the consequences of the Sony hack was the release of budget information of many films or TV shows, including the 2015 Adam Sandler film Pixels. The actual cost to produce Pixels, or the "grand total", was $129.6 million and the net budget for Sony came to $111 million after they received a government rebate in Canada that covered a portion of their gross spend (cost) in the amount of just over $18 million.
+       <sup class="reference" id="cite_ref-2">
+        <a href="#cite_note-2">
+         [2]
+        </a>
+       </sup>
+       Even though Sony's out of pocket for the film was reduced because of the incentive, it does not negate the fact that the actual cost (amount spent during production to make the film) was still $129 million.
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Elements">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Elements
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#Tactics_for_cutting_costs">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Tactics for cutting costs
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-3">
+         <a href="#Going_over_budget">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           Going over budget
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-4">
+         <a href="#Examples">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           Examples
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-5">
+           <a href="#Unbreakable">
+            <span class="tocnumber">
+             4.1
+            </span>
+            <span class="toctext">
+             <i>
+              Unbreakable
+             </i>
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-6">
+           <a href="#Lara_Croft:_Tomb_Raider_–_The_Cradle_of_Life">
+            <span class="tocnumber">
+             4.2
+            </span>
+            <span class="toctext">
+             <i>
+              Lara Croft: Tomb Raider – The Cradle of Life
+             </i>
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-7">
+           <a href="#Terminator_3:_Rise_of_the_Machines">
+            <span class="tocnumber">
+             4.3
+            </span>
+            <span class="toctext">
+             <i>
+              Terminator 3: Rise of the Machines
+             </i>
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-8">
+           <a href="#Spider-Man_2">
+            <span class="tocnumber">
+             4.4
+            </span>
+            <span class="toctext">
+             <i>
+              Spider-Man 2
+             </i>
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-9">
+           <a href="#Sahara">
+            <span class="tocnumber">
+             4.5
+            </span>
+            <span class="toctext">
+             <i>
+              Sahara
+             </i>
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-10">
+         <a href="#See_also">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-11">
+         <a href="#References">
+          <span class="tocnumber">
+           6
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-12">
+         <a href="#External_links">
+          <span class="tocnumber">
+           7
+          </span>
+          <span class="toctext">
+           External links
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Elements">
+        Elements
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Film_budgeting&amp;action=edit&amp;section=1" title="Edit section: Elements">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <b>
+         Story rights
+        </b>
+        : The right to produce a film based on a
+        <a href="/wiki/Play_(theatre)" title="Play (theatre)">
+         play
+        </a>
+        ,
+        <a href="/wiki/Novel" title="Novel">
+         novel
+        </a>
+        ,
+        <a href="/wiki/Musical_theatre" title="Musical theatre">
+         musical
+        </a>
+        or
+        <a href="/wiki/Video_game" title="Video game">
+         video game
+        </a>
+        , or as a
+        <a href="/wiki/Remake" title="Remake">
+         remake
+        </a>
+        or
+        <a href="/wiki/Sequel" title="Sequel">
+         sequel
+        </a>
+        can cost anything from a couple of thousand (e.g.,
+        <i>
+         <a href="/wiki/Leaving_Las_Vegas" title="Leaving Las Vegas">
+          Leaving Las Vegas
+         </a>
+        </i>
+        ) to over $10 million (e.g., the video game
+        <i>
+         <a class="mw-redirect" href="/wiki/Halo_(video_game_series)" title="Halo (video game series)">
+          Halo
+         </a>
+        </i>
+        ). An original screenplay by a
+        <a href="/wiki/Writers_Guild_of_America" title="Writers Guild of America">
+         Writers Guild of America
+        </a>
+        member can cost from its minimum, $69,499
+        <sup class="reference" id="cite_ref-3">
+         <a href="#cite_note-3">
+          [3]
+         </a>
+        </sup>
+        and upwards of $5 million (e.g.,
+        <a href="/wiki/M._Night_Shyamalan" title="M. Night Shyamalan">
+         M. Night Shyamalan
+        </a>
+        's
+        <i>
+         <a href="/wiki/Unbreakable_(film)" title="Unbreakable (film)">
+          Unbreakable
+         </a>
+        </i>
+        ).
+       </li>
+       <li>
+        <b>
+         <a href="/wiki/Screenplay" title="Screenplay">
+          Screenplay
+         </a>
+        </b>
+        : An A-list
+        <a href="/wiki/Screenwriter" title="Screenwriter">
+         screenwriter
+        </a>
+        may be paid between $100,000 to $2 million to write a script, including $400,000 a week for each rewrite of a film in trouble;
+        <sup class="reference" id="cite_ref-4">
+         <a href="#cite_note-4">
+          [4]
+         </a>
+        </sup>
+        <a href="/wiki/Script_doctor" title="Script doctor">
+         script doctors
+        </a>
+        may be called upon to revise the final draft at $100,000 to $200,000 a week. Recently,
+        <a href="/wiki/Columbia_Pictures" title="Columbia Pictures">
+         Columbia Pictures
+        </a>
+        has been offering the best screenwriters 2 percent of the gross profits (after the production and marketing budget has been deducted).
+       </li>
+       <li>
+        <b>
+         Producers
+        </b>
+        :
+        <a href="/wiki/Film_producer" title="Film producer">
+         Film producers
+        </a>
+        and
+        <a href="/wiki/Executive_producer" title="Executive producer">
+         executive producers
+        </a>
+        are often well-paid, with a top producer earning a seven-figure salary upfront as well as bonuses and a share of the profits. For
+        <i>
+         <a href="/wiki/Spider-Man_(2002_film)" title="Spider-Man (2002 film)">
+          Spider-Man
+         </a>
+        </i>
+        (2002), producer
+        <a href="/wiki/Laura_Ziskin" title="Laura Ziskin">
+         Laura Ziskin
+        </a>
+        is estimated to have been paid over $30 million.
+        <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+         [
+         <i>
+          <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+           <span title="This claim needs references to reliable sources. (June 2014)">
+            citation needed
+           </span>
+          </a>
+         </i>
+         ]
+        </sup>
+       </li>
+       <li>
+        <b>
+         Director
+        </b>
+        : The
+        <a href="/wiki/Directors_Guild_of_America" title="Directors Guild of America">
+         DGA
+        </a>
+        minimum is about $19,143 per week, for a minimum of ten weeks' work.
+        <sup class="reference" id="cite_ref-5">
+         <a href="#cite_note-5">
+          [5]
+         </a>
+        </sup>
+        An A-list
+        <a href="/wiki/Film_director" title="Film director">
+         film director
+        </a>
+        can command $5 to $10 million per film.
+       </li>
+       <li>
+        <b>
+         Cast
+        </b>
+        : While the bulk of the cast usually gets paid by the Actors Guild standard rate of about 2,300 US$ per week,
+        <sup class="reference" id="cite_ref-6">
+         <a href="#cite_note-6">
+          [6]
+         </a>
+        </sup>
+        famous and bankable film stars can demand fees up to $30 million per film, plus perks (trailer, entourage, etc.) and possible gross participation.
+        <sup class="reference" id="cite_ref-7">
+         <a href="#cite_note-7">
+          [7]
+         </a>
+        </sup>
+        Sometimes an actor will accept a minimal fee in exchange for a more lucrative share of the profits. Union extras are paid around $130 per day (plus extra for overtime or if they provide their own wardrobe), but on a low-budget film non-union extras are paid less, sometimes nothing at all.
+       </li>
+       <li>
+        <b>
+         Production costs
+        </b>
+        : The cost of producing the film includes crew wages, production design, live set and studio costs, costumes, catering, accommodation, transportation, travel, hotel stay, etc. The
+        <a href="/wiki/Cinematographer" title="Cinematographer">
+         director of photography
+        </a>
+        is usually the highest paid member of the crew.
+       </li>
+       <li>
+        <b>
+         Visual effects
+        </b>
+        : The cost of
+        <a href="/wiki/Computer-generated_imagery" title="Computer-generated imagery">
+         computer-generated imagery
+        </a>
+        effects and other visual effect work in
+        <a href="/wiki/Post-production" title="Post-production">
+         post-production
+        </a>
+        depends largely on the amount of work, the desired quality, and the effects company involved (
+        <a class="mw-redirect" href="/wiki/Industrial_Light_and_Magic" title="Industrial Light and Magic">
+         Industrial Light and Magic
+        </a>
+        is the most prestigious and expensive); extensive effect work, as in
+        <i>
+         <a href="/wiki/Avatar_(2009_film)" title="Avatar (2009 film)">
+          Avatar
+         </a>
+        </i>
+        or
+        <i>
+         <a href="/wiki/The_Lord_of_the_Rings_(film_series)" title="The Lord of the Rings (film series)">
+          The Lord of the Rings
+         </a>
+        </i>
+        , can easily cost up to $100,000,000.
+        <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+         [
+         <i>
+          <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+           <span title="This claim needs references to reliable sources. (June 2014)">
+            citation needed
+           </span>
+          </a>
+         </i>
+         ]
+        </sup>
+       </li>
+       <li>
+        <b>
+         Music
+        </b>
+        : Typically, the music budget of a major motion picture is about 2 percent of the final total. Some, such as
+        <i>
+         <a href="/wiki/Spider-Man_(2002_film)" title="Spider-Man (2002 film)">
+          Spider-Man
+         </a>
+        </i>
+        's music budget, have been as high as $4.5 million.
+        <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+         [
+         <i>
+          <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+           <span title="This claim needs references to reliable sources. (June 2014)">
+            citation needed
+           </span>
+          </a>
+         </i>
+         ]
+        </sup>
+        The top film composers can ask for a seven-figure salary to compose about an hour of original
+        <a href="/wiki/Film_score" title="Film score">
+         film score
+        </a>
+        . For well-known artists, like
+        <a href="/wiki/Christina_Aguilera" title="Christina Aguilera">
+         Christina Aguilera
+        </a>
+        (
+        <i>
+         <a href="/wiki/Shark_Tale" title="Shark Tale">
+          Shark Tale
+         </a>
+        </i>
+        ) or
+        <a href="/wiki/Kanye_West" title="Kanye West">
+         Kanye West
+        </a>
+        (
+        <i>
+         <a href="/wiki/Mission:_Impossible_III" title="Mission: Impossible III">
+          Mission: Impossible III
+         </a>
+        </i>
+        ), the cost may be around $1 million for an original song;
+        <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+         [
+         <i>
+          <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+           <span title="This claim needs references to reliable sources. (January 2016)">
+            citation needed
+           </span>
+          </a>
+         </i>
+         ]
+        </sup>
+        for existing works it may be around $300,000.
+        <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+         [
+         <i>
+          <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+           <span title="This claim needs references to reliable sources. (January 2016)">
+            citation needed
+           </span>
+          </a>
+         </i>
+         ]
+        </sup>
+        Sometimes a less-known artist will license the rights to their song for a small fee in exchange for the publicity.
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="Tactics_for_cutting_costs">
+        Tactics for cutting costs
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Film_budgeting&amp;action=edit&amp;section=2" title="Edit section: Tactics for cutting costs">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <b>
+         Eliminate night scenes.
+        </b>
+        Shooting at night requires powerful/expensive lighting and the payment of nighttime rates to the crew.
+        <i>
+         <a href="/wiki/Broken_Arrow_(1996_film)" title="Broken Arrow (1996 film)">
+          Broken Arrow
+         </a>
+        </i>
+        (1996) cut costs by millions of dollars by eliminating the night scenes from the script. Many directors choose to use the "
+        <a href="/wiki/Day_for_night" title="Day for night">
+         day for night
+        </a>
+        " technique.
+       </li>
+       <li>
+        <b>
+         Avoid location filming in famous or commercial areas.
+        </b>
+        Shooting a scene on, for example, the
+        <a href="/wiki/Golden_Gate_Bridge" title="Golden Gate Bridge">
+         Golden Gate Bridge
+        </a>
+        requires stopping traffic with a resultant drop in revenue to the city of
+        <a class="mw-redirect" href="/wiki/San_Francisco,_California" title="San Francisco, California">
+         San Francisco
+        </a>
+        . Filming such a scene for
+        <i>
+         <a href="/wiki/Interview_with_the_Vampire" title="Interview with the Vampire">
+          Interview with the Vampire
+         </a>
+        </i>
+        cost Warner Bros. $500,000. Shifting the location to the
+        <a class="mw-redirect" href="/wiki/San_Francisco-Oakland_Bay_Bridge" title="San Francisco-Oakland Bay Bridge">
+         San Francisco-Oakland Bay Bridge
+        </a>
+        for
+        <a href="/wiki/Close-up" title="Close-up">
+         close-ups
+        </a>
+        could save hundreds of thousands of dollars in location fees. Moreover, some locations (such as commercial enterprises like hotels and nightclubs) are more willing to allow filming than others. Some producers of low-budget features avoid paying location fees and seek to capture shots by subterfuge.
+        <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+         [
+         <i>
+          <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+           <span title="This claim needs references to reliable sources. (June 2014)">
+            citation needed
+           </span>
+          </a>
+         </i>
+         ]
+        </sup>
+       </li>
+       <li>
+        <b>
+         Film action scenes early on Sunday morning.
+        </b>
+        Stopping traffic for a
+        <a href="/wiki/Car_chase" title="Car chase">
+         car chase
+        </a>
+        scene is easier in the early hours of Sunday morning, when traffic is at its lightest.
+        <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+         [
+         <i>
+          <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+           <span title="This claim needs references to reliable sources. (June 2014)">
+            citation needed
+           </span>
+          </a>
+         </i>
+         ]
+        </sup>
+       </li>
+       <li>
+        <b>
+         Use unknown, non-famous actors instead of well-established movie stars.
+        </b>
+       </li>
+       <li>
+        <b>
+         Ask above-the-line talent to defer their salaries.
+        </b>
+        In exchange for dropping their large upfront salaries, actors, directors, and producers can receive a large share of the film's gross profits. This has the disadvantage of cutting the financier's eventual takings. It has the further disadvantage of ambiguity. In the case of net profit participation instead of gross profit participation, disagreements due to
+        <a href="/wiki/Hollywood_accounting" title="Hollywood accounting">
+         Hollywood accounting
+        </a>
+        methods can lead to
+        <a href="/wiki/Audit" title="Audit">
+         audits
+        </a>
+        and
+        <a class="mw-redirect" href="/wiki/Litigation" title="Litigation">
+         litigation
+        </a>
+        , as happened between
+        <a href="/wiki/Peter_Jackson" title="Peter Jackson">
+         Peter Jackson
+        </a>
+        and
+        <a href="/wiki/New_Line_Cinema" title="New Line Cinema">
+         New Line Cinema
+        </a>
+        , after New Line claimed
+        <a href="/wiki/The_Lord_of_the_Rings_(film_series)" title="The Lord of the Rings (film series)">
+         <i>
+          The Lord of the Rings
+         </i>
+         film trilogy
+        </a>
+        , which grossed over 2 billion
+        <a href="/wiki/United_States_dollar" title="United States dollar">
+         USD
+        </a>
+        , failed to make any profit and thus denied payments to actors, the Tolkien estate, and Jackson.
+        <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+         [
+         <i>
+          <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+           <span title="This claim needs references to reliable sources. (June 2014)">
+            citation needed
+           </span>
+          </a>
+         </i>
+         ]
+        </sup>
+       </li>
+       <li>
+        <b>
+         Use a non-union crew.
+        </b>
+        This is not an option for studios that have signed contracts with the unions—the
+        <a href="/wiki/Directors_Guild_of_America" title="Directors Guild of America">
+         Directors Guild of America
+        </a>
+        (DGA),
+        <a href="/wiki/Writers_Guild_of_America" title="Writers Guild of America">
+         Writers Guild of America
+        </a>
+        (WGA), and
+        <a href="/wiki/Screen_Actors_Guild" title="Screen Actors Guild">
+         Screen Actors Guild
+        </a>
+        (SAG). Director
+        <a href="/wiki/Robert_Rodriguez" title="Robert Rodriguez">
+         Robert Rodriguez
+        </a>
+        has been known to use the skills of experienced non-union crews for his films.
+        <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+         [
+         <i>
+          <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+           <span title="This claim needs references to reliable sources. (June 2014)">
+            citation needed
+           </span>
+          </a>
+         </i>
+         ]
+        </sup>
+       </li>
+       <li>
+        <b>
+         Film in another region.
+        </b>
+        For example, many Hollywood movies set in U.S. cities are
+        <a href="/wiki/Hollywood_North" title="Hollywood North">
+         shot in Canada
+        </a>
+        to take advantage of lower labour costs, subject to fluctuating
+        <a href="/wiki/Exchange_rate" title="Exchange rate">
+         exchange rates
+        </a>
+        . As well, they take advantage of federal and provincial
+        <a href="/wiki/Subsidy" title="Subsidy">
+         subsidies
+        </a>
+        designed to grow and sustain the film and
+        <a class="mw-redirect" href="/wiki/Television_production" title="Television production">
+         television production
+        </a>
+        industries in the area. Many
+        <a href="/wiki/U.S._state" title="U.S. state">
+         U.S. states
+        </a>
+        have responded with tax incentives of their own (see
+        <a href="/wiki/Movie_production_incentives_in_the_United_States" title="Movie production incentives in the United States">
+         Movie production incentives in the United States
+        </a>
+        ). Australia, the
+        <a href="/wiki/Czech_Republic" title="Czech Republic">
+         Czech Republic
+        </a>
+        , Germany,
+        <a href="/wiki/Malta" title="Malta">
+         Malta
+        </a>
+        , and
+        <a href="/wiki/New_Zealand" title="New Zealand">
+         New Zealand
+        </a>
+        are other countries in which Hollywood movies are often filmed.
+        <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+         [
+         <i>
+          <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+           <span title="This claim needs references to reliable sources. (June 2014)">
+            citation needed
+           </span>
+          </a>
+         </i>
+         ]
+        </sup>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="Going_over_budget">
+        Going over budget
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Film_budgeting&amp;action=edit&amp;section=3" title="Edit section: Going over budget">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       In the US film production system, producers are typically not allowed to exceed the initial budget. Exceptions have of course been made, one of the most notable examples being
+       <i>
+        <a href="/wiki/Titanic_(1997_film)" title="Titanic (1997 film)">
+         Titanic
+        </a>
+       </i>
+       (1997). Director
+       <a href="/wiki/James_Cameron" title="James Cameron">
+        James Cameron
+       </a>
+       ran aground with the budget and offered his fee back to the studio. In other countries, producers who exceed their budget tend to eat the cost by receiving less of their producer's fees. While the US system is profitable and can afford to go over budget, some other countries' film industries tend to be financed through government subsidies.
+       <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+        [
+        <i>
+         <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+          <span title="This claim needs references to reliable sources. (June 2014)">
+           citation needed
+          </span>
+         </a>
+        </i>
+        ]
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Examples">
+        Examples
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Film_budgeting&amp;action=edit&amp;section=4" title="Edit section: Examples">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Though movie studios are reluctant to release the precise details of their movies' budgets, it has occasionally been possible to obtain (clandestinely) details of the cost of films' breakdowns. For an example of a budget for a $2 million independent feature, see
+       <i>
+        <a href="/wiki/Planning_the_Low-Budget_Film" title="Planning the Low-Budget Film">
+         Planning the Low-Budget Film
+        </a>
+       </i>
+       by
+       <a href="/wiki/Robert_Latham_Brown" title="Robert Latham Brown">
+        Robert Latham Brown
+       </a>
+       .
+      </p>
+      <h3>
+       <span class="mw-headline" id="Unbreakable">
+        <i>
+         Unbreakable
+        </i>
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Film_budgeting&amp;action=edit&amp;section=5" title="Edit section: Unbreakable">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <ul>
+       <li>
+        <b>
+         Story rights and Screenplay
+        </b>
+        : $6,000,000
+       </li>
+       <li>
+        <b>
+         Producers
+        </b>
+        : $1,878,260
+       </li>
+       <li>
+        <b>
+         Director (
+         <a href="/wiki/M._Night_Shyamalan" title="M. Night Shyamalan">
+          M. Night Shyamalan
+         </a>
+         &amp; Assistant)
+        </b>
+        : $15,081,749
+       </li>
+       <li>
+        <b>
+         Cast
+        </b>
+        : $35,068,388
+        <ul>
+         <li>
+          <b>
+           <a href="/wiki/Bruce_Willis" title="Bruce Willis">
+            Bruce Willis
+           </a>
+          </b>
+          : $20,000,000
+         </li>
+         <li>
+          <b>
+           <a href="/wiki/Samuel_L._Jackson" title="Samuel L. Jackson">
+            Samuel L. Jackson
+           </a>
+          </b>
+          : $7,000,000
+         </li>
+         <li>
+          <b>
+           <a class="mw-redirect" href="/wiki/Robin_Wright_(actress)" title="Robin Wright (actress)">
+            Robin Wright Penn
+           </a>
+          </b>
+          : $2,500,000
+         </li>
+         <li>
+          <b>
+           Rest of Cast, Casting, Stunts, &amp; Travel:
+          </b>
+          $5,568,388
+         </li>
+        </ul>
+       </li>
+       <li>
+        <b>
+         Production costs
+        </b>
+        : $26,214,709
+        <ul>
+         <li>
+          <b>
+           Visual effects
+          </b>
+          : $1,000,000
+         </li>
+         <li>
+          <b>
+           Music
+          </b>
+          : $2,253,456
+         </li>
+        </ul>
+       </li>
+      </ul>
+      <p>
+       <b>
+        Total:
+       </b>
+       $74,243,106
+       <sup class="reference" id="cite_ref-8">
+        <a href="#cite_note-8">
+         [8]
+        </a>
+       </sup>
+      </p>
+      <h3>
+       <span id="Lara_Croft:_Tomb_Raider_.E2.80.93_The_Cradle_of_Life">
+       </span>
+       <span class="mw-headline" id="Lara_Croft:_Tomb_Raider_–_The_Cradle_of_Life">
+        <i>
+         Lara Croft: Tomb Raider – The Cradle of Life
+        </i>
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Film_budgeting&amp;action=edit&amp;section=6" title="Edit section: Lara Croft: Tomb Raider – The Cradle of Life">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <ul>
+       <li>
+        <b>
+         Story rights and screenplay
+        </b>
+        : $4 million
+       </li>
+       <li>
+        <b>
+         Producers
+        </b>
+        : $4 million
+       </li>
+       <li>
+        <b>
+         Director (
+         <a href="/wiki/Jan_de_Bont" title="Jan de Bont">
+          Jan de Bont
+         </a>
+         )
+        </b>
+        : $5 million
+       </li>
+       <li>
+        <b>
+         Cast
+        </b>
+        : $17.25 million
+        <ul>
+         <li>
+          <b>
+           Angelina Jolie
+          </b>
+          : $12 million
+         </li>
+         <li>
+          <b>
+           Extras
+          </b>
+          : $250,000
+         </li>
+         <li>
+          <b>
+           Other (inc. Angelina's perks)
+          </b>
+          : $5 million
+         </li>
+        </ul>
+       </li>
+       <li>
+        <b>
+         Production costs
+        </b>
+        : $67 million
+        <ul>
+         <li>
+          <b>
+           Set design and construction
+          </b>
+          : $17.8 million
+         </li>
+        </ul>
+       </li>
+       <li>
+        <b>
+         Visual Effects
+        </b>
+        : $13 million
+       </li>
+       <li>
+        <b>
+         Music
+        </b>
+        : $3.3 million
+       </li>
+       <li>
+        <b>
+         Editing
+        </b>
+        : $3 million
+       </li>
+       <li>
+        <b>
+         Post Production costs
+        </b>
+        : $1.6 million
+       </li>
+      </ul>
+      <p>
+       <b>
+        Total
+       </b>
+       : $118 million
+       <sup class="reference" id="cite_ref-9">
+        <a href="#cite_note-9">
+         [9]
+        </a>
+       </sup>
+      </p>
+      <h3>
+       <span class="mw-headline" id="Terminator_3:_Rise_of_the_Machines">
+        <i>
+         Terminator 3: Rise of the Machines
+        </i>
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Film_budgeting&amp;action=edit&amp;section=7" title="Edit section: Terminator 3: Rise of the Machines">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <ul>
+       <li>
+        <b>
+         Story rights (
+         <a href="/wiki/Carolco_Pictures" title="Carolco Pictures">
+          Carolco
+         </a>
+         and
+         <a href="/wiki/Gale_Anne_Hurd" title="Gale Anne Hurd">
+          Gale Anne Hurd
+         </a>
+         )
+        </b>
+        : $19.5 million
+       </li>
+       <li>
+        <b>
+         Screenplay
+        </b>
+        : $5.2 million
+        <ul>
+         <li>
+          <b>
+           John D. Brancato &amp; Michael Ferris
+          </b>
+          : $1 million
+         </li>
+        </ul>
+       </li>
+       <li>
+        <b>
+         Director (
+         <a href="/wiki/Jonathan_Mostow" title="Jonathan Mostow">
+          Jonathan Mostow
+         </a>
+         )
+        </b>
+        : $5 million
+       </li>
+       <li>
+        <b>
+         Producers
+        </b>
+        : $10 million
+       </li>
+       <li>
+        <b>
+         Cast
+        </b>
+        : $35 million
+        <ul>
+         <li>
+          <b>
+           <a href="/wiki/Arnold_Schwarzenegger" title="Arnold Schwarzenegger">
+            Arnold Schwarzenegger
+           </a>
+          </b>
+          : $29.25 million + 20% gross profits
+         </li>
+         <li>
+          <b>
+           Arnold's perks
+          </b>
+          : $1.5 million
+         </li>
+         <li>
+          <b>
+           Rest of principal cast
+          </b>
+          : $3.85 million
+         </li>
+         <li>
+          <b>
+           Extras
+          </b>
+          : $450,000
+         </li>
+        </ul>
+       </li>
+       <li>
+        <b>
+         Production costs
+        </b>
+        : $58 million
+       </li>
+       <li>
+        <b>
+         Post-production costs
+        </b>
+        : $4 million
+       </li>
+       <li>
+        <b>
+         Visual effects
+        </b>
+        : $20 million
+       </li>
+       <li>
+        <b>
+         Music
+        </b>
+        : $2 million
+       </li>
+       <li>
+        <b>
+         Other costs
+        </b>
+        : $33.6 million
+       </li>
+      </ul>
+      <p>
+       <b>
+        Total
+       </b>
+       : $187.3 million
+       <sup class="reference" id="cite_ref-10">
+        <a href="#cite_note-10">
+         [10]
+        </a>
+       </sup>
+      </p>
+      <h3>
+       <span class="mw-headline" id="Spider-Man_2">
+        <i>
+         Spider-Man 2
+        </i>
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Film_budgeting&amp;action=edit&amp;section=8" title="Edit section: Spider-Man 2">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <ul>
+       <li>
+        <b>
+         Story rights
+        </b>
+        : $20 million
+       </li>
+       <li>
+        <b>
+         Screenplay
+        </b>
+        : $10 million
+       </li>
+       <li>
+        <b>
+         Producers
+        </b>
+        : $15 million
+       </li>
+       <li>
+        <b>
+         Director (
+         <a href="/wiki/Sam_Raimi" title="Sam Raimi">
+          Sam Raimi
+         </a>
+         )
+        </b>
+        : $10 million
+       </li>
+       <li>
+        <b>
+         Cast
+        </b>
+        : $30 million
+        <ul>
+         <li>
+          <b>
+           <a href="/wiki/Tobey_Maguire" title="Tobey Maguire">
+            Tobey Maguire
+           </a>
+          </b>
+          : $17 million
+         </li>
+         <li>
+          <b>
+           <a href="/wiki/Kirsten_Dunst" title="Kirsten Dunst">
+            Kirsten Dunst
+           </a>
+          </b>
+          : $7 million
+         </li>
+         <li>
+          <b>
+           <a href="/wiki/Alfred_Molina" title="Alfred Molina">
+            Alfred Molina
+           </a>
+          </b>
+          : $3 million
+         </li>
+         <li>
+          <b>
+           Rest of cast
+          </b>
+          : $3 million
+         </li>
+        </ul>
+       </li>
+       <li>
+        <b>
+         Production costs
+        </b>
+        : $45 million
+       </li>
+       <li>
+        <b>
+         Visual effects
+        </b>
+        : $65 million
+       </li>
+       <li>
+        <b>
+         Music
+        </b>
+        : $5 million
+        <ul>
+         <li>
+          <b>
+           Composer (
+           <a href="/wiki/Danny_Elfman" title="Danny Elfman">
+            Danny Elfman
+           </a>
+           )
+          </b>
+          : $2 million.
+         </li>
+        </ul>
+       </li>
+      </ul>
+      <p>
+       <b>
+        Total
+       </b>
+       : $202 million
+       <sup class="reference" id="cite_ref-11">
+        <a href="#cite_note-11">
+         [11]
+        </a>
+       </sup>
+      </p>
+      <h3>
+       <span class="mw-headline" id="Sahara">
+        <i>
+         Sahara
+        </i>
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Film_budgeting&amp;action=edit&amp;section=9" title="Edit section: Sahara">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       The
+       <i>
+        <a href="/wiki/Los_Angeles_Times" title="Los Angeles Times">
+         Los Angeles Times
+        </a>
+       </i>
+       presented an extensive special report, dissecting the budget of the 2005 film
+       <i>
+        <a href="/wiki/Sahara_(2005_film)" title="Sahara (2005 film)">
+         Sahara
+        </a>
+       </i>
+       . The documents had become
+       <a href="/wiki/Public_domain" title="Public domain">
+        public domain
+       </a>
+       after a lawsuit involving the film.
+       <sup class="reference" id="cite_ref-12">
+        <a href="#cite_note-12">
+         [12]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Film_budgeting&amp;action=edit&amp;section=10" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a href="/wiki/List_of_highest-grossing_films" title="List of highest-grossing films">
+         List of highest-grossing films
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/List_of_most_expensive_films" title="List of most expensive films">
+         List of most expensive films
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Box_office_bomb" title="Box office bomb">
+         Box office bomb
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Hollywood_accounting" title="Hollywood accounting">
+         Hollywood accounting
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Film_finance" title="Film finance">
+         Film finance
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Film_budgeting&amp;action=edit&amp;section=11" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist" style="list-style-type: decimal;">
+       <div class="mw-references-wrap mw-references-columns">
+        <ol class="references">
+         <li id="cite_note-1">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-1">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <a class="external free" href="http://budgeting.thenest.com/gross-spending-33174.html" rel="nofollow">
+            http://budgeting.thenest.com/gross-spending-33174.html
+           </a>
+          </span>
+         </li>
+         <li id="cite_note-2">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-2">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <a class="external free" href="https://wikileaks.org/sony/docs/?q=pixels+topsheet+of+budget&amp;filter=0" rel="nofollow">
+            https://wikileaks.org/sony/docs/?q=pixels+topsheet+of+budget&amp;filter=0
+           </a>
+          </span>
+         </li>
+         <li id="cite_note-3">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-3">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.wga.org/uploadedFiles/writers_resources/contracts/min2014.pdf" rel="nofollow">
+             "Schedule of Minimums"
+            </a>
+            <span style="font-size:85%;">
+             (PDF)
+            </span>
+            .
+            <i>
+             Writer's Guild of America
+            </i>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              29 April
+             </span>
+             2015
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Writer%27s+Guild+of+America&amp;rft.atitle=Schedule+of+Minimums&amp;rft_id=http%3A%2F%2Fwww.wga.org%2FuploadedFiles%2Fwriters_resources%2Fcontracts%2Fmin2014.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFilm+budgeting">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-4">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-4">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation news">
+            Imber, Peter (2007-11-06).
+            <a class="external text" href="http://abcnews.go.com/Entertainment/story?id=3823975&amp;page=1#.UAMO1JH4JCx" rel="nofollow">
+             "Inside the WGA: Even at $400K a Week, a Million Insecurities"
+            </a>
+            . ABC.news
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              2012-07-15
+             </span>
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Inside+the+WGA%3A+Even+at+%24400K+a+Week%2C+a+Million+Insecurities&amp;rft.date=2007-11-06&amp;rft.aulast=Imber&amp;rft.aufirst=Peter&amp;rft_id=http%3A%2F%2Fabcnews.go.com%2FEntertainment%2Fstory%3Fid%3D3823975%26page%3D1%23.UAMO1JH4JCx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFilm+budgeting">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-5">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-5">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.dga.org/Contracts/Rates-2012-to-2013.aspx" rel="nofollow">
+             "DGA Rate Cards 2012 - 2013; Minimum Salary Schedule"
+            </a>
+            .
+            <a href="/wiki/Directors_Guild_of_America" title="Directors Guild of America">
+             Directors Guild of America
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              16 August
+             </span>
+             2012
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=DGA+Rate+Cards+2012+-+2013%3B+Minimum+Salary+Schedule&amp;rft.pub=Directors+Guild+of+America&amp;rft_id=http%3A%2F%2Fwww.dga.org%2FContracts%2FRates-2012-to-2013.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFilm+budgeting">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-6">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-6">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.actorpoint.com/acting-articles/actorpay.html" rel="nofollow">
+             "Pay Rates for Actors"
+            </a>
+            . Actorpoint.com
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              2014-02-10
+             </span>
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Pay+Rates+for+Actors&amp;rft.pub=Actorpoint.com&amp;rft_id=http%3A%2F%2Fwww.actorpoint.com%2Facting-articles%2Factorpay.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFilm+budgeting">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-7">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-7">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation news">
+            Weinraub, Jake (2011-08-02).
+            <a class="external text" href="https://www.reuters.com/article/2011/08/02/idUS20615222120110802" rel="nofollow">
+             "Forbes: DiCaprio Beats Depp for Title of Hollywood's Highest Paid Actor"
+            </a>
+            .
+            <i>
+             Reuters
+            </i>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              2012-01-29
+             </span>
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Reuters&amp;rft.atitle=Forbes%3A+DiCaprio+Beats+Depp+for+Title+of+Hollywood%27s+Highest+Paid+Actor&amp;rft.date=2011-08-02&amp;rft.aulast=Weinraub&amp;rft.aufirst=Jake&amp;rft_id=https%3A%2F%2Fwww.reuters.com%2Farticle%2F2011%2F08%2F02%2FidUS20615222120110802&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFilm+budgeting">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-8">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-8">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://web.archive.org/web/20060905202743/http://www.thesmokinggun.com/hollywood/hollywoodsides/willisunbreakable1.html" rel="nofollow">
+             "The Smoking Gun: Archive: The Sixth Sense"
+            </a>
+            .
+            <i>
+             <a href="/wiki/The_Smoking_Gun" title="The Smoking Gun">
+              The Smoking Gun
+             </a>
+            </i>
+            . p. 10. Archived from
+            <a class="external text" href="http://www.thesmokinggun.com/hollywood/hollywoodsides/willisunbreakable1.html" rel="nofollow">
+             the original
+            </a>
+            on 2006-09-05.
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Smoking+Gun&amp;rft.atitle=The+Smoking+Gun%3A+Archive%3A+The+Sixth+Sense&amp;rft.pages=10&amp;rft_id=http%3A%2F%2Fwww.thesmokinggun.com%2Fhollywood%2Fhollywoodsides%2Fwillisunbreakable1.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFilm+budgeting">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-9">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-9">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            Edward Jay Epstein.
+            <a class="external text" href="http://www.edwardjayepstein.com/laracroft1.htm" rel="nofollow">
+             "Budget for Tomb Raider-2 With Angelina Jolie"
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Budget+for+Tomb+Raider-2+With+Angelina+Jolie&amp;rft.au=Edward+Jay+Epstein&amp;rft_id=http%3A%2F%2Fwww.edwardjayepstein.com%2Flaracroft1.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFilm+budgeting">
+            <span style="display:none;">
+            </span>
+           </span>
+           (Requires Flash)
+          </span>
+         </li>
+         <li id="cite_note-10">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-10">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.edwardjayepstein.com/budget.htm" rel="nofollow">
+             "budget"
+            </a>
+            . Edwardjayepstein.com
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              2014-02-10
+             </span>
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=budget&amp;rft.pub=Edwardjayepstein.com&amp;rft_id=http%3A%2F%2Fwww.edwardjayepstein.com%2Fbudget.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFilm+budgeting">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-11">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-11">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <a class="external free" href="https://www.theguardian.com/arts/fridayreview/story/0,12102,1235533,00.html" rel="nofollow">
+            https://www.theguardian.com/arts/fridayreview/story/0,12102,1235533,00.html
+           </a>
+          </span>
+         </li>
+         <li id="cite_note-12">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-12">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation news">
+            unting, Glenn F. Bunting (April 15, 2007).
+            <a class="external text" href="http://www.latimes.com/business/la-fi-movie15apr15,0,6005119.story" rel="nofollow">
+             "$78 million of red ink?"
+            </a>
+            .
+            <i>
+             Los Angeles Times
+            </i>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Los+Angeles+Times&amp;rft.atitle=%2478+million+of+red+ink%3F&amp;rft.date=2007-04-15&amp;rft.au=unting%2C+Glenn+F.+Bunting&amp;rft_id=http%3A%2F%2Fwww.latimes.com%2Fbusiness%2Fla-fi-movie15apr15%2C0%2C6005119.story&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFilm+budgeting">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Film_budgeting&amp;action=edit&amp;section=12" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+       <tr>
+        <td class="mbox-image">
+         <img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/>
+        </td>
+        <td class="mbox-text plainlist">
+         Wikimedia Commons has media related to
+         <i>
+          <b>
+           <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Film_budgeting" title="commons:Category:Film budgeting">
+            Film budgeting
+           </a>
+          </b>
+         </i>
+         .
+        </td>
+       </tr>
+      </table>
+      <ul>
+       <li>
+        <a class="external text" href="http://www.bls.gov/oes/current/oes_nat.htm" rel="nofollow">
+         Occupational Employment Statistics
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://www.demetrimusic.com/pdf/filmbudget.pdf" rel="nofollow">
+         Film Budget Statistics as of 2011
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://www.demetrimusic.com/it/filmbudget.htm" rel="nofollow">
+         Film Budget Statistics Page
+        </a>
+       </li>
+      </ul>
+      <div aria-labelledby="Filmmaking" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="2" scope="col" style="text-align: center;">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:Filmmaking" title="Template:Filmmaking">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a href="/wiki/Template_talk:Filmmaking" title="Template talk:Filmmaking">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Filmmaking&amp;action=edit">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="Filmmaking" style="font-size:114%;margin:0 4em">
+           <a href="/wiki/Filmmaking" title="Filmmaking">
+            Filmmaking
+           </a>
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Filmmaking#Development" title="Filmmaking">
+           Development
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Film_treatment" title="Film treatment">
+              Film treatment
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Film_producer" title="Film producer">
+              Producer
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Scriptment" title="Scriptment">
+                scriptment
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Step_outline" title="Step outline">
+              Step outline
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Screenplay" title="Screenplay">
+              Screenplay
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Screenwriting" title="Screenwriting">
+                process
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Spec_script" title="Spec script">
+                spec script
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Film_adaptation" title="Film adaptation">
+                film adaptation
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Hook_(filmmaking)" title="Hook (filmmaking)">
+                Hook
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Option_(filmmaking)" title="Option (filmmaking)">
+                Option
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a class="mw-selflink selflink">
+              Film budgeting
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Film_finance" title="Film finance">
+              Film finance
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Pitch_(filmmaking)" title="Pitch (filmmaking)">
+                pitch
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Green-light" title="Green-light">
+              Green-light
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Pre-production" title="Pre-production">
+           Pre-production
+          </a>
+         </th>
+         <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Script_breakdown" title="Script breakdown">
+              Script breakdown
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Breaking_down_the_script" title="Breaking down the script">
+                process
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Shooting_script" title="Shooting script">
+              Shooting script
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Storyboard" title="Storyboard">
+              Storyboard
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Casting_(performing_arts)" title="Casting (performing arts)">
+              Casting
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Scenography" title="Scenography">
+                Scenography
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Rehearsal" title="Rehearsal">
+                Rehearsal
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Production_board" title="Production board">
+              Production board
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Day_Out_of_Days" title="Day Out of Days">
+              Day Out of Days
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Production_schedule" title="Production schedule">
+              Production schedule
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Shooting_schedule" title="Shooting schedule">
+              Shooting schedule
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/One_liner_schedule" title="One liner schedule">
+                one-liner
+               </a>
+              </li>
+             </ul>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Filmmaking" title="Filmmaking">
+           Production
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Film_crew" title="Film crew">
+              Film crew
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Cinematic_techniques" title="Cinematic techniques">
+              Cinematic techniques
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Principal_photography" title="Principal photography">
+              Principal photography
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Cinematography" title="Cinematography">
+                Cinematography
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Videography" title="Videography">
+                Videography
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Daily_call_sheet" title="Daily call sheet">
+              Daily call sheet
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Dailies" title="Dailies">
+              Dailies (rushes)
+             </a>
+            </li>
+           </ul>
+          </div>
+          <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%">
+             Daily reports
+            </th>
+            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Film_inventory_report" title="Film inventory report">
+                 Film inventory
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Production_report" title="Production report">
+                 Production
+                </a>
+               </li>
+               <li>
+                <a class="mw-redirect" href="/wiki/Daily_production_report" title="Daily production report">
+                 Daily Production
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Daily_progress_report" title="Daily progress report">
+                 Progress
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Sound_report" title="Sound report">
+                 Sound
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Cost_report" title="Cost report">
+                 Cost
+                </a>
+               </li>
+               <li>
+                <a class="mw-redirect" href="/wiki/Daily_editor_log" title="Daily editor log">
+                 Editor log
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Post-production" title="Post-production">
+           Post-production
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Film_editing" title="Film editing">
+              Film editing
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Re-recording_(filmmaking)" title="Re-recording (filmmaking)">
+              Re-recording
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Sync_sound" title="Sync sound">
+              Sync sound
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Soundtrack" title="Soundtrack">
+              Soundtrack
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Film_score" title="Film score">
+              Music
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Special_effect" title="Special effect">
+              Special effects
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Sound_effect" title="Sound effect">
+                sound
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Visual_effects" title="Visual effects">
+                visual
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Negative_cost" title="Negative cost">
+              Negative cost
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Film_distribution" title="Film distribution">
+           Distribution
+          </a>
+         </th>
+         <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Film_distributor" title="Film distributor">
+              Film distributor
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/List_of_film_distributors_by_country" title="List of film distributors by country">
+                list
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Art_release" title="Art release">
+              Film release
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Wide_release" title="Wide release">
+                wide
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Limited_release" title="Limited release">
+                limited
+               </a>
+              </li>
+              <li>
+               <a class="mw-redirect" href="/wiki/Delayed_release_(film)" title="Delayed release (film)">
+                delayed
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Roadshow_theatrical_release" title="Roadshow theatrical release">
+              Roadshow
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Streaming_media" title="Streaming media">
+              Streaming media
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          Related
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Box_office" title="Box office">
+              Box office
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Guerrilla_filmmaking" title="Guerrilla filmmaking">
+              Guerrilla filmmaking
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Development_hell" title="Development hell">
+              Development hell
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Film" title="Film">
+              Film
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Filmography" title="Filmography">
+              Filmography
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Film_industry" title="Film industry">
+              Film industry
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Film_rights" title="Film rights">
+              Film rights
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Turnaround_(filmmaking)" title="Turnaround (filmmaking)">
+              Turnaround
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1279
+Cached time: 20180319192804
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.288 seconds
+Real time usage: 0.348 seconds
+Preprocessor visited node count: 2069/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 50538/2097152 bytes
+Template argument size: 5352/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 9935/5000000 bytes
+Lua time usage: 0.149/10.000 seconds
+Lua memory usage: 3.36 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  298.022      1 -total
+ 51.96%  154.840     11 Template:Citation_needed
+ 41.00%  122.176     11 Template:Fix
+ 29.91%   89.143      1 Template:Reflist
+ 21.48%   64.006     22 Template:Category_handler
+ 18.63%   55.523      6 Template:Cite_web
+ 17.15%   51.109     11 Template:Delink
+ 10.84%   32.316      1 Template:Commons_category
+  9.43%   28.112      1 Template:Commons
+  8.83%   26.323      1 Template:Sister_project
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:4446461-0!canonical and timestamp 20180319192816 and revision id 831278958
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Film_budgeting&amp;oldid=831278958">
+      https://en.wikipedia.org/w/index.php?title=Film_budgeting&amp;oldid=831278958
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Budgets" title="Category:Budgets">
+         Budgets
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Film_production" title="Category:Film production">
+         Film production
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">
+         All articles with unsourced statements
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_unsourced_statements_from_June_2014" title="Category:Articles with unsourced statements from June 2014">
+         Articles with unsourced statements from June 2014
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_unsourced_statements_from_January_2016" title="Category:Articles with unsourced statements from January 2016">
+         Articles with unsourced statements from January 2016
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Film+budgeting" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Film+budgeting" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Film_budgeting" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Film_budgeting" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Film_budgeting">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Film_budgeting&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Film_budgeting&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Film_budgeting" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Film_budgeting" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Film_budgeting&amp;oldid=831278958" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Film_budgeting&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q505110" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Film_budgeting&amp;id=831278958" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Film+budgeting">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Film+budgeting&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Film_budgeting&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Category:Film_budgeting" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Filmbudget" hreflang="de" lang="de" title="Filmbudget – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Budg%C3%A9tisation_d%27un_film" hreflang="fr" lang="fr" title="Budgétisation d'un film – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Budgeting_(cinema)" hreflang="it" lang="it" title="Budgeting (cinema) – Italian">
+         Italiano
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q505110#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 19 March 2018, at 19:28.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Film_budgeting&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.288","walltime":"0.348","ppvisitednodes":{"value":2069,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":50538,"limit":2097152},"templateargumentsize":{"value":5352,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":9935,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  298.022      1 -total"," 51.96%  154.840     11 Template:Citation_needed"," 41.00%  122.176     11 Template:Fix"," 29.91%   89.143      1 Template:Reflist"," 21.48%   64.006     22 Template:Category_handler"," 18.63%   55.523      6 Template:Cite_web"," 17.15%   51.109     11 Template:Delink"," 10.84%   32.316      1 Template:Commons_category","  9.43%   28.112      1 Template:Commons","  8.83%   26.323      1 Template:Sister_project"]},"scribunto":{"limitreport-timeusage":{"value":"0.149","limit":"10.000"},"limitreport-memusage":{"value":3527566,"limit":52428800}},"cachereport":{"origin":"mw1279","timestamp":"20180319192804","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":318,"wgHostname":"mw1332"});});
+  </script>
+ </body>
+</html>

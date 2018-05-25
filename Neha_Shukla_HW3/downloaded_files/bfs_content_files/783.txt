@@ -1,0 +1,1760 @@
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Space weathering - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Space_weathering","wgTitle":"Space weathering","wgCurRevisionId":829572136,"wgRevisionId":829572136,"wgArticleId":4709501,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Planetary science","Space science","Lunar science"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Space_weathering","wgRelevantArticleId":4709501,"wgRequestId":"WrG4AQpAAD4AAEKWumwAAAAJ","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q1570174","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.25" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/d/dd/Weatheringcartoon.jpg" property="og:image"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Space_weathering" rel="alternate"/>
+  <link href="/w/index.php?title=Space_weathering&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Space_weathering&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Space_weathering" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Space_weathering rootpage-Space_weathering skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Space weathering
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <div class="hatnote navigation-not-searchable" role="note">
+       Not to be confused with
+       <a href="/wiki/Meteorite_weathering" title="Meteorite weathering">
+        Meteorite weathering
+       </a>
+       .
+      </div>
+      <p>
+       <b>
+        Space weathering
+       </b>
+       is the type of weathering that occurs to any object exposed to the harsh environment of
+       <a href="/wiki/Outer_space" title="Outer space">
+        outer space
+       </a>
+       . Bodies without atmospheres (including the
+       <a href="/wiki/Moon" title="Moon">
+        Moon
+       </a>
+       ,
+       <a href="/wiki/Mercury_(planet)" title="Mercury (planet)">
+        Mercury
+       </a>
+       , the
+       <a class="mw-redirect" href="/wiki/Asteroids" title="Asteroids">
+        asteroids
+       </a>
+       ,
+       <a class="mw-redirect" href="/wiki/Comets" title="Comets">
+        comets
+       </a>
+       , and most of the moons of other planets) take on many weathering processes:
+      </p>
+      <ul>
+       <li>
+        collisions of
+        <a class="mw-redirect" href="/wiki/Galactic_cosmic_ray" title="Galactic cosmic ray">
+         galactic cosmic rays
+        </a>
+        and
+        <a class="mw-redirect" href="/wiki/Solar_cosmic_ray" title="Solar cosmic ray">
+         solar cosmic rays
+        </a>
+        ,
+       </li>
+       <li>
+        <a href="/wiki/Irradiation" title="Irradiation">
+         irradiation
+        </a>
+        , implantation, and
+        <a href="/wiki/Sputtering" title="Sputtering">
+         sputtering
+        </a>
+        from
+        <a href="/wiki/Solar_wind" title="Solar wind">
+         solar wind
+        </a>
+        particles, and
+       </li>
+       <li>
+        bombardment by different sizes of
+        <a class="mw-redirect" href="/wiki/Meteorites" title="Meteorites">
+         meteorites
+        </a>
+        and
+        <a class="mw-redirect" href="/wiki/Micrometeorites" title="Micrometeorites">
+         micrometeorites
+        </a>
+        .
+       </li>
+      </ul>
+      <p>
+       Space weathering is important because these processes affect the physical and
+       <a href="/wiki/Optical_properties" title="Optical properties">
+        optical properties
+       </a>
+       of the surface of many planetary bodies. Therefore, it is critical to understand the effects of space weathering in order to properly interpret remotely sensed data.
+      </p>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:302px;">
+        <a class="image" href="/wiki/File:Weatheringcartoon.jpg">
+         <img alt="" class="thumbimage" data-file-height="377" data-file-width="600" height="189" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Weatheringcartoon.jpg/300px-Weatheringcartoon.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Weatheringcartoon.jpg/450px-Weatheringcartoon.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/d/dd/Weatheringcartoon.jpg 2x" width="300"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Weatheringcartoon.jpg" title="Enlarge">
+          </a>
+         </div>
+         An illustration of space weathering's different components.
+        </div>
+       </div>
+      </div>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#History">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           History
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#Effects_on_spectral_properties">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Effects on spectral properties
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-3">
+         <a href="#Space_weathering_on_asteroids">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           Space weathering on asteroids
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-4">
+         <a href="#Space_weathering_on_Mercury">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           Space weathering on Mercury
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-5">
+         <a href="#References">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="History">
+        History
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Space_weathering&amp;action=edit&amp;section=1" title="Edit section: History">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Much of our knowledge of the space weathering process comes from studies of the lunar samples returned by the
+       <a href="/wiki/Apollo_program" title="Apollo program">
+        Apollo program
+       </a>
+       , particularly the
+       <a href="/wiki/Lunar_soil" title="Lunar soil">
+        lunar soils
+       </a>
+       (or
+       <a href="/wiki/Regolith" title="Regolith">
+        regolith
+       </a>
+       ). The constant flux of
+       <a class="mw-redirect" href="/wiki/High_energy_particles" title="High energy particles">
+        high energy particles
+       </a>
+       and
+       <a class="mw-redirect" href="/wiki/Micrometeorites" title="Micrometeorites">
+        micrometeorites
+       </a>
+       , along with larger meteorites, act to
+       <a href="/wiki/Comminution" title="Comminution">
+        comminute
+       </a>
+       , melt,
+       <a class="mw-redirect" href="/wiki/Sputter" title="Sputter">
+        sputter
+       </a>
+       and
+       <a class="mw-redirect" href="/wiki/Vaporize" title="Vaporize">
+        vaporize
+       </a>
+       components of the lunar soil, as well as to garden (or overturn) it.
+      </p>
+      <p>
+       The first products of space weathering that were recognized in lunar soils were "agglutinates". These are created when micrometeorites melt a small amount of material, which incorporates surrounding glass and mineral fragments into a glass-welded aggregate ranging in size from a few micrometers to a few millimeters. Agglutinates are very common in lunar soil, accounting for as much as 60 to 70% of mature soils.
+       <sup class="reference" id="cite_ref-1">
+        <a href="#cite_note-1">
+         [1]
+        </a>
+       </sup>
+       These complex and irregularly-shaped particles appear black to the human eye, largely due to the presence of
+       <a href="/wiki/Nanophase_material" title="Nanophase material">
+        nanophase
+       </a>
+       <a href="/wiki/Iron" title="Iron">
+        iron
+       </a>
+       .
+      </p>
+      <p>
+       Space weathering also produces surface-correlated products on individual soil grains, such as glass splashes; implanted
+       <a href="/wiki/Hydrogen" title="Hydrogen">
+        hydrogen
+       </a>
+       ,
+       <a href="/wiki/Helium" title="Helium">
+        helium
+       </a>
+       and other gases;
+       <a href="/wiki/Solar_flare" title="Solar flare">
+        solar flare
+       </a>
+       tracks; and accreted components, including nanophase iron. It wasn't until the 1990s that improved instruments, in particular
+       <a class="mw-redirect" href="/wiki/Transmission_electron_microscope" title="Transmission electron microscope">
+        transmission electron microscopes
+       </a>
+       , and techniques allowed for the discovery of very thin (60-200 nm)
+       <a href="/wiki/Patina" title="Patina">
+        patinas
+       </a>
+       , or rims, which develop on individual lunar soil grains as a result of the redepositing of vapor from nearby micrometeorite impacts and the redeposition of material sputtered from nearby grains.
+       <sup class="reference" id="cite_ref-2">
+        <a href="#cite_note-2">
+         [2]
+        </a>
+       </sup>
+      </p>
+      <p>
+       These weathering processes have large effects on the spectral properties of lunar soil, particularly in the
+       <a href="/wiki/Ultraviolet" title="Ultraviolet">
+        ultraviolet
+       </a>
+       ,
+       <a class="mw-redirect" href="/wiki/Visible_wavelength" title="Visible wavelength">
+        visible
+       </a>
+       , and
+       <a class="mw-redirect" href="/wiki/Near_infrared" title="Near infrared">
+        near infrared
+       </a>
+       (UV/Vis/NIR)
+       <a class="mw-redirect" href="/wiki/Wavelengths" title="Wavelengths">
+        wavelengths
+       </a>
+       . These spectral changes have largely been attributed to the inclusions of "nanophase iron" which is a ubiquitous component of both agglutinates and soil rims.
+       <sup class="reference" id="cite_ref-3">
+        <a href="#cite_note-3">
+         [3]
+        </a>
+       </sup>
+       These very small (one to a few hundred nanometers in diameter) blebs of metallic iron are created when iron-bearing minerals (e.g.
+       <a href="/wiki/Olivine" title="Olivine">
+        olivine
+       </a>
+       and
+       <a href="/wiki/Pyroxene" title="Pyroxene">
+        pyroxene
+       </a>
+       ) are vaporized and the iron is liberated and redeposited in its native form.
+      </p>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:352px;">
+        <a class="image" href="/wiki/File:Weatheredrim.jpg">
+         <img alt="" class="thumbimage" data-file-height="377" data-file-width="600" height="220" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Weatheredrim.jpg/350px-Weatheredrim.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Weatheredrim.jpg/525px-Weatheredrim.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/e/e0/Weatheredrim.jpg 2x" width="350"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Weatheredrim.jpg" title="Enlarge">
+          </a>
+         </div>
+         TEM image of space weathered rim on a grain of lunar soil 10084
+        </div>
+       </div>
+      </div>
+      <h2>
+       <span class="mw-headline" id="Effects_on_spectral_properties">
+        Effects on spectral properties
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Space_weathering&amp;action=edit&amp;section=2" title="Edit section: Effects on spectral properties">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       On the Moon, the spectral effects of space weathering are threefold: as the lunar surface matures it becomes darker (the
+       <a href="/wiki/Albedo" title="Albedo">
+        albedo
+       </a>
+       is reduced), redder (reflectance increases with increasing wavelength), and the depth of its diagnostic
+       <a href="/wiki/Absorption_band" title="Absorption band">
+        absorption bands
+       </a>
+       are reduced
+       <sup class="reference" id="cite_ref-4">
+        <a href="#cite_note-4">
+         [4]
+        </a>
+       </sup>
+       These effects are largely due to the presence of
+       <a href="/wiki/Nanophase_material" title="Nanophase material">
+        nanophase
+       </a>
+       iron in both the agglutinates and in the accreted rims on individual grains. The darkening effects of space weathering are readily seen by studying lunar craters. Young, fresh craters have bright
+       <a href="/wiki/Ray_system" title="Ray system">
+        ray systems
+       </a>
+       , because they have exposed fresh, unweathered material, but over time those rays disappear as the weathering process darkens the material.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Space_weathering_on_asteroids">
+        Space weathering on asteroids
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Space_weathering&amp;action=edit&amp;section=3" title="Edit section: Space weathering on asteroids">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Space weathering is also thought to occur on asteroids,
+       <sup class="reference" id="cite_ref-5">
+        <a href="#cite_note-5">
+         [5]
+        </a>
+       </sup>
+       though the environment is quite different from the Moon. Impacts in the asteroid belt are slower, and therefore create less melt and vapor. Also, fewer solar wind particles reach the asteroid belt. And finally, the higher rate of impactors and lower gravity of the smaller bodies means that there is more overturn and the surface exposure ages should be younger than the
+       <a class="mw-redirect" href="/wiki/Lunar_surface" title="Lunar surface">
+        lunar surface
+       </a>
+       . Therefore, space weathering should occur more slowly and to a lesser degree on the surfaces of asteroids.
+      </p>
+      <p>
+       However, we do see evidence for asteroidal space weathering. For years there had been a so-called "conundrum" in the planetary science community because, in general, the spectra of asteroids do not match the spectra of our collection of meteorites. Particularly, the spectra of
+       <a href="/wiki/S-type_asteroid" title="S-type asteroid">
+        S-type asteroids
+       </a>
+       , did not match the spectra of the most abundant type of meteorites,
+       <a href="/wiki/Ordinary_chondrite" title="Ordinary chondrite">
+        ordinary chondrites
+       </a>
+       (OCs). The asteroid spectra tended to be redder with a steep curvature in the visible wavelengths. However, Binzel et al.
+       <sup class="reference" id="cite_ref-6">
+        <a href="#cite_note-6">
+         [6]
+        </a>
+       </sup>
+       have identified near Earth asteroids with spectral properties covering the range from S-type to spectra similar to those of OC meteorites, suggesting an ongoing process is occurring that can alter the spectra of OC material to look like S-type asteroids. There is also evidence of regolith alteration from
+       <a class="mw-redirect" href="/wiki/Galileo" title="Galileo">
+        Galileo
+       </a>
+       's flybys of
+       <a href="/wiki/951_Gaspra" title="951 Gaspra">
+        Gaspra
+       </a>
+       and
+       <a href="/wiki/243_Ida" title="243 Ida">
+        Ida
+       </a>
+       showing spectral differences at fresh craters. With time, the spectra of Ida and Gaspra appear to redden and lose spectral contrast. Evidence from
+       <a href="/wiki/NEAR_Shoemaker" title="NEAR Shoemaker">
+        NEAR Shoemaker
+       </a>
+       's x-ray measurements of
+       <a href="/wiki/433_Eros" title="433 Eros">
+        Eros
+       </a>
+       indicate an ordinary chondrite composition despite a red-sloped, S-type spectrum, again suggesting that some process has altered the optical properties of the surface. Results from the
+       <a href="/wiki/Hayabusa" title="Hayabusa">
+        Hayabusa
+       </a>
+       spacecraft at the asteroid
+       <a href="/wiki/25143_Itokawa" title="25143 Itokawa">
+        Itokawa
+       </a>
+       , also ordinary chondrite in composition, shows spectral evidence of space weathering. In addition, definitive evidence of space weathering alteration has been identified in the grains of soil returned by the Hayabusa spacecraft. Because Itokawa is so small (550 m diameter), it was thought that the low gravity would not allow for the development of a mature regolith, however, preliminary examination of the returned samples reveals the presence of nanophase iron and other space weathering effects on several grains.
+       <sup class="reference" id="cite_ref-7">
+        <a href="#cite_note-7">
+         [7]
+        </a>
+       </sup>
+       In addition, there is evidence that weathering patinas can and do develop on rock surfaces on the asteroid. Such coatings are likely similar to the patinas found on lunar rocks.
+       <sup class="reference" id="cite_ref-8">
+        <a href="#cite_note-8">
+         [8]
+        </a>
+       </sup>
+      </p>
+      <p>
+       There is evidence to suggest most of the color change due to weathering occurs rapidly, in the first hundred thousands years, limiting the usefulness of spectral measurement for determining the age of asteroids.
+       <sup class="reference" id="cite_ref-9">
+        <a href="#cite_note-9">
+         [9]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Space_weathering_on_Mercury">
+        Space weathering on Mercury
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Space_weathering&amp;action=edit&amp;section=4" title="Edit section: Space weathering on Mercury">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       The environment at
+       <a href="/wiki/Mercury_(planet)" title="Mercury (planet)">
+        Mercury
+       </a>
+       also differs substantially from the Moon. For one thing, it is significantly hotter in the day (
+       <a href="/wiki/Diurnal_cycle" title="Diurnal cycle">
+        diurnal
+       </a>
+       surface temperature ~100 °C for the Moon, ~425 °C on Mercury) and colder at night, which may alter the products of space weathering. In addition, because of its location in the Solar System, Mercury is also subjected to a slightly larger flux of micrometeorites that impact at much higher velocities than the Moon. These factors combine to make Mercury much more efficient than the Moon at creating both melt and vapor. Per unit area, impacts on Mercury are expected to produce 13.5x the melt and 19.5x the vapor than is produced on the Moon.
+       <sup class="reference" id="cite_ref-10">
+        <a href="#cite_note-10">
+         [10]
+        </a>
+       </sup>
+       Agglutinitic glass-like deposits and vapor-deposited coatings should be created significantly faster and more efficiently on Mercury than on the Moon.
+      </p>
+      <p>
+       The UV/Vis spectrum of Mercury, as observed telescopically from Earth, is roughly linear, with a red slope. There are no absorption bands related to Fe-bearing minerals, such as pyroxene. This means that either there is no iron on the surface of Mercury, or else the iron in the Fe-bearing minerals has been weathered to nanophase iron. A weathered surface would then explain the reddened slope.
+       <sup class="reference" id="cite_ref-11">
+        <a href="#cite_note-11">
+         [11]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Space_weathering&amp;action=edit&amp;section=5" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="references">
+       <p>
+        <b>
+         Cited references
+        </b>
+       </p>
+       <div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+        <ol class="references">
+         <li id="cite_note-1">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-1">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            Heiken, Grant (1991).
+            <i>
+             Lunar sourcebook : a user's guide to the moon
+            </i>
+            (1. publ. ed.). Cambridge [u.a.]: Cambridge Univ. Press.
+            <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+             ISBN
+            </a>
+            <a href="/wiki/Special:BookSources/978-0-521-33444-0" title="Special:BookSources/978-0-521-33444-0">
+             978-0-521-33444-0
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Lunar+sourcebook+%3A+a+user%27s+guide+to+the+moon&amp;rft.place=Cambridge+%5Bu.a.%5D&amp;rft.edition=1.+publ.&amp;rft.pub=Cambridge+Univ.+Press&amp;rft.date=1991&amp;rft.isbn=978-0-521-33444-0&amp;rft.aulast=Heiken&amp;rft.aufirst=Grant&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpace+weathering">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-2">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-2">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Keller, L. P; McKay, D. S. (June 1997). "The nature and origin of rims on lunar soil grains".
+            <i>
+             Geochimica et Cosmochimica Acta
+            </i>
+            .
+            <b>
+             61
+            </b>
+            (11): 2331–2341.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/1997GeCoA..61.2331K" rel="nofollow">
+             1997GeCoA..61.2331K
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1016%2FS0016-7037%2897%2900085-9" rel="nofollow">
+             10.1016/S0016-7037(97)00085-9
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Geochimica+et+Cosmochimica+Acta&amp;rft.atitle=The+nature+and+origin+of+rims+on+lunar+soil+grains&amp;rft.volume=61&amp;rft.issue=11&amp;rft.pages=2331-2341&amp;rft.date=1997-06&amp;rft_id=info%3Adoi%2F10.1016%2FS0016-7037%2897%2900085-9&amp;rft_id=info%3Abibcode%2F1997GeCoA..61.2331K&amp;rft.aulast=Keller&amp;rft.aufirst=L.+P&amp;rft.au=McKay%2C+D.+S.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpace+weathering">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-3">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-3">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Noble, Sarah; Pieters C. M.; Keller L. P. (September 2007). "An experimental approach to understanding the optical effects of space weathering".
+            <i>
+             Icarus
+            </i>
+            .
+            <b>
+             192
+            </b>
+            : 629–642.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/2007Icar..192..629N" rel="nofollow">
+             2007Icar..192..629N
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1016%2Fj.icarus.2007.07.021" rel="nofollow">
+             10.1016/j.icarus.2007.07.021
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Icarus&amp;rft.atitle=An+experimental+approach+to+understanding+the+optical+effects+of+space+weathering&amp;rft.volume=192&amp;rft.pages=629-642&amp;rft.date=2007-09&amp;rft_id=info%3Adoi%2F10.1016%2Fj.icarus.2007.07.021&amp;rft_id=info%3Abibcode%2F2007Icar..192..629N&amp;rft.aulast=Noble&amp;rft.aufirst=Sarah&amp;rft.au=Pieters+C.+M.&amp;rft.au=Keller+L.+P.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpace+weathering">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-4">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-4">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Pieters, C. M.; Fischer, E. M.; Rode, O.; Basu, A. (1993). "Optical Effects of Space Weathering: The Role of the Finest Fraction".
+            <i>
+             Journal of Geophysical Research
+            </i>
+            .
+            <b>
+             98
+            </b>
+            (E11): 20,817–20,824.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/1993JGR....9820817P" rel="nofollow">
+             1993JGR....9820817P
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1029%2F93JE02467" rel="nofollow">
+             10.1029/93JE02467
+            </a>
+            .
+            <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">
+             ISSN
+            </a>
+            <a class="external text" href="//www.worldcat.org/issn/0148-0227" rel="nofollow">
+             0148-0227
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Geophysical+Research&amp;rft.atitle=Optical+Effects+of+Space+Weathering%3A+The+Role+of+the+Finest+Fraction&amp;rft.volume=98&amp;rft.issue=E11&amp;rft.pages=20%2C817-20%2C824&amp;rft.date=1993&amp;rft.issn=0148-0227&amp;rft_id=info%3Adoi%2F10.1029%2F93JE02467&amp;rft_id=info%3Abibcode%2F1993JGR....9820817P&amp;rft.aulast=Pieters&amp;rft.aufirst=C.+M.&amp;rft.au=Fischer%2C+E.+M.&amp;rft.au=Rode%2C+O.&amp;rft.au=Basu%2C+A.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpace+weathering">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-5">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-5">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           For a thorough review of the current state of understanding of space weathering on Asteroids, see
+           <cite class="citation journal">
+            Chapman, Clark R. (May 2004). "Space Weathering of Asteroid Surfaces".
+            <i>
+             Annual Review of Earth and Planetary Sciences
+            </i>
+            .
+            <b>
+             32
+            </b>
+            : 539–567.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/2004AREPS..32..539C" rel="nofollow">
+             2004AREPS..32..539C
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1146%2Fannurev.earth.32.101802.120453" rel="nofollow">
+             10.1146/annurev.earth.32.101802.120453
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Annual+Review+of+Earth+and+Planetary+Sciences&amp;rft.atitle=Space+Weathering+of+Asteroid+Surfaces&amp;rft.volume=32&amp;rft.pages=539-567&amp;rft.date=2004-05&amp;rft_id=info%3Adoi%2F10.1146%2Fannurev.earth.32.101802.120453&amp;rft_id=info%3Abibcode%2F2004AREPS..32..539C&amp;rft.aulast=Chapman&amp;rft.aufirst=Clark+R.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpace+weathering">
+            <span style="display:none;">
+            </span>
+           </span>
+           .
+          </span>
+         </li>
+         <li id="cite_note-6">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-6">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Binzel, R.P.; Bus, S.J.; Burbine, T.H.; Sunshine, J.M. (Aug 1996). "Spectral Properties of Near-Earth Asteroids: Evidence for Sources of Ordinary Chondrite Meteorites".
+            <i>
+             Science
+            </i>
+            .
+            <b>
+             273
+            </b>
+            (5277): 946–948.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/1996Sci...273..946B" rel="nofollow">
+             1996Sci...273..946B
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1126%2Fscience.273.5277.946" rel="nofollow">
+             10.1126/science.273.5277.946
+            </a>
+            .
+            <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">
+             PMID
+            </a>
+            <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/8688076" rel="nofollow">
+             8688076
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Science&amp;rft.atitle=Spectral+Properties+of+Near-Earth+Asteroids%3A+Evidence+for+Sources+of+Ordinary+Chondrite+Meteorites&amp;rft.volume=273&amp;rft.issue=5277&amp;rft.pages=946-948&amp;rft.date=1996-08&amp;rft_id=info%3Apmid%2F8688076&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.273.5277.946&amp;rft_id=info%3Abibcode%2F1996Sci...273..946B&amp;rft.aulast=Binzel&amp;rft.aufirst=R.P.&amp;rft.au=Bus%2C+S.J.&amp;rft.au=Burbine%2C+T.H.&amp;rft.au=Sunshine%2C+J.M.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpace+weathering">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-7">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-7">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            T. Noguchi; T. Nakamura; M. Kimura; M. E. Zolensky; M. Tanaka; T. Hashimoto; M. Konno; A. Nakato; et al. (26 August 2011). "Incipient Space Weathering Observed on the Surface of Itokawa Dust Particles".
+            <i>
+             Science
+            </i>
+            .
+            <b>
+             333
+            </b>
+            : 1121–1125.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/2011Sci...333.1121N" rel="nofollow">
+             2011Sci...333.1121N
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1126%2Fscience.1207794" rel="nofollow">
+             10.1126/science.1207794
+            </a>
+            .
+            <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">
+             PMID
+            </a>
+            <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/21868670" rel="nofollow">
+             21868670
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Science&amp;rft.atitle=Incipient+Space+Weathering+Observed+on+the+Surface+of+Itokawa+Dust+Particles&amp;rft.volume=333&amp;rft.pages=1121-1125&amp;rft.date=2011-08-26&amp;rft_id=info%3Apmid%2F21868670&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.1207794&amp;rft_id=info%3Abibcode%2F2011Sci...333.1121N&amp;rft.au=T.+Noguchi&amp;rft.au=T.+Nakamura&amp;rft.au=M.+Kimura&amp;rft.au=M.+E.+Zolensky&amp;rft.au=M.+Tanaka&amp;rft.au=T.+Hashimoto&amp;rft.au=M.+Konno&amp;rft.au=A.+Nakato&amp;rft.au=T.+Ogami&amp;rft.au=A.+Fujimura&amp;rft.au=M.+Abe&amp;rft.au=T.+Yada&amp;rft.au=T.+Mukai&amp;rft.au=M.+Ueno&amp;rft.au=T.+Okada&amp;rft.au=K.+Shirai&amp;rft.au=Y.+Ishibashi&amp;rft.au=R.+Okazaki&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpace+weathering">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-8">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-8">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Hiroi, Takahiro; Abe M.; K. Kitazato; S. Abe; B. Clark; S. Sasaki; M. Ishiguro; O. Barnouin-Jha (7 September 2006). "Developing space weathering on the asteroid 25143 Itokawa".
+            <i>
+             Nature
+            </i>
+            .
+            <b>
+             443
+            </b>
+            (7107): 56–58.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/2006Natur.443...56H" rel="nofollow">
+             2006Natur.443...56H
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1038%2Fnature05073" rel="nofollow">
+             10.1038/nature05073
+            </a>
+            .
+            <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">
+             PMID
+            </a>
+            <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16957724" rel="nofollow">
+             16957724
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nature&amp;rft.atitle=Developing+space+weathering+on+the+asteroid+25143+Itokawa&amp;rft.volume=443&amp;rft.issue=7107&amp;rft.pages=56-58&amp;rft.date=2006-09-07&amp;rft_id=info%3Apmid%2F16957724&amp;rft_id=info%3Adoi%2F10.1038%2Fnature05073&amp;rft_id=info%3Abibcode%2F2006Natur.443...56H&amp;rft.aulast=Hiroi&amp;rft.aufirst=Takahiro&amp;rft.au=Abe+M.&amp;rft.au=K.+Kitazato&amp;rft.au=S.+Abe&amp;rft.au=B.+Clark&amp;rft.au=S.+Sasaki&amp;rft.au=M.+Ishiguro&amp;rft.au=O.+Barnouin-Jha&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpace+weathering">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-9">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-9">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            Rachel Courtland (30 April 2009).
+            <a class="external text" href="https://www.newscientist.com/article/dn17062-sun-damage-conceals-asteroids-true-ages.html" rel="nofollow">
+             "Sun damage conceals asteroids' true ages"
+            </a>
+            .
+            <i>
+             <a href="/wiki/New_Scientist" title="New Scientist">
+              New Scientist
+             </a>
+            </i>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              27 February
+             </span>
+             2013
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=New+Scientist&amp;rft.atitle=Sun+damage+conceals+asteroids%27+true+ages&amp;rft.date=2009-04-30&amp;rft.au=Rachel+Courtland&amp;rft_id=https%3A%2F%2Fwww.newscientist.com%2Farticle%2Fdn17062-sun-damage-conceals-asteroids-true-ages.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpace+weathering">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-10">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-10">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Cintala, Mark J. (Jan 1992). "Impact-Induced Thermal Effects in the Lunar and Mercurian Regoliths".
+            <i>
+             Journal of Geophysical Research
+            </i>
+            .
+            <b>
+             97
+            </b>
+            (E1): 947–973.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/1992JGR....97..947C" rel="nofollow">
+             1992JGR....97..947C
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1029%2F91JE02207" rel="nofollow">
+             10.1029/91JE02207
+            </a>
+            .
+            <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">
+             ISSN
+            </a>
+            <a class="external text" href="//www.worldcat.org/issn/0148-0227" rel="nofollow">
+             0148-0227
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Geophysical+Research&amp;rft.atitle=Impact-Induced+Thermal+Effects+in+the+Lunar+and+Mercurian+Regoliths&amp;rft.volume=97&amp;rft.issue=E1&amp;rft.pages=947-973&amp;rft.date=1992-01&amp;rft.issn=0148-0227&amp;rft_id=info%3Adoi%2F10.1029%2F91JE02207&amp;rft_id=info%3Abibcode%2F1992JGR....97..947C&amp;rft.aulast=Cintala&amp;rft.aufirst=Mark+J.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpace+weathering">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-11">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-11">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Hapke, Bruce (Feb 2001). "Space Weathering from Mercury to the asteroid belt".
+            <i>
+             Journal of Geophysical Research
+            </i>
+            .
+            <b>
+             106
+            </b>
+            (E5): 10,039–10,073.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/2001JGR...10610039H" rel="nofollow">
+             2001JGR...10610039H
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1029%2F2000JE001338" rel="nofollow">
+             10.1029/2000JE001338
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Geophysical+Research&amp;rft.atitle=Space+Weathering+from+Mercury+to+the+asteroid+belt&amp;rft.volume=106&amp;rft.issue=E5&amp;rft.pages=10%2C039-10%2C073&amp;rft.date=2001-02&amp;rft_id=info%3Adoi%2F10.1029%2F2000JE001338&amp;rft_id=info%3Abibcode%2F2001JGR...10610039H&amp;rft.aulast=Hapke&amp;rft.aufirst=Bruce&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpace+weathering">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+        </ol>
+       </div>
+       <p>
+        <b>
+         General references
+        </b>
+       </p>
+       <ul>
+        <li>
+         <cite class="citation web">
+          Linda Martel (July 5, 2004).
+          <a class="external text" href="http://www.psrd.hawaii.edu/July04/newMineral.html" rel="nofollow">
+           "New Mineral Proves an Old Idea about Space Weathering"
+          </a>
+          . Planetary Science Research Discoveries.
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=New+Mineral+Proves+an+Old+Idea+about+Space+Weathering&amp;rft.pub=Planetary+Science+Research+Discoveries&amp;rft.date=2004-07-05&amp;rft.au=Linda+Martel&amp;rft_id=http%3A%2F%2Fwww.psrd.hawaii.edu%2FJuly04%2FnewMineral.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpace+weathering">
+          <span style="display:none;">
+          </span>
+         </span>
+        </li>
+       </ul>
+      </div>
+      <div aria-labelledby="Types_and_processes_of_weathering" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="2" scope="col" style="background: #addfad;">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:Weathering" title="Template:Weathering">
+              <abbr style=";background: #addfad;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a class="new" href="/w/index.php?title=Template_talk:Weathering&amp;action=edit&amp;redlink=1" title="Template talk:Weathering (page does not exist)">
+              <abbr style=";background: #addfad;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Weathering&amp;action=edit">
+              <abbr style=";background: #addfad;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="Types_and_processes_of_weathering" style="font-size:114%;margin:0 4em">
+           <a href="/wiki/Weathering" title="Weathering">
+            Types and processes of weathering
+           </a>
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%;background: #addfad;">
+          Chemical weathering
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Weathering#Biological_weathering" title="Weathering">
+              Biological
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Carbonation" title="Carbonation">
+              Carbonation
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Weathering#Hydrolysis" title="Weathering">
+              Hydrolysis
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Mineral_hydration" title="Mineral hydration">
+              Mineral hydration
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Weathering#Oxidation" title="Weathering">
+              Oxidation
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%;background: #addfad;">
+          Physical weathering
+         </th>
+         <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Frost_weathering" title="Frost weathering">
+              Frost weathering
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Haloclasty" title="Haloclasty">
+              Haloclasty
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Fatigue_(material)" title="Fatigue (material)">
+              Thermal fatigue
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Thermal_shock" title="Thermal shock">
+              Thermal shock
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%;background: #addfad;">
+          Related topics
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Erosion" title="Erosion">
+              Erosion
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Etchplain" title="Etchplain">
+              Etchplain
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Fracture" title="Fracture">
+              Fracture
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Rock_(geology)" title="Rock (geology)">
+              Rock
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Saprolite" title="Saprolite">
+              Saprolite
+             </a>
+            </li>
+            <li>
+             <a class="mw-selflink selflink">
+              Space weathering
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Factors_of_polymer_weathering" title="Factors of polymer weathering">
+              Factors of polymer weathering
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1288
+Cached time: 20180309133431
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.176 seconds
+Real time usage: 0.208 seconds
+Preprocessor visited node count: 722/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 31940/2097152 bytes
+Template argument size: 108/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 15334/5000000 bytes
+Lua time usage: 0.090/10.000 seconds
+Lua memory usage: 3.15 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  171.007      1 -total
+ 72.53%  124.031      1 Template:Reflist
+ 30.24%   51.720      9 Template:Cite_journal
+ 22.24%   38.034      1 Template:Cite_book
+ 14.16%   24.220      1 Template:Distinguish
+  6.93%   11.844      1 Template:Weathering
+  5.69%    9.723      2 Template:Cite_web
+  5.29%    9.049      1 Template:Navbox
+  1.27%    2.179      1 Template:Main_other
+  0.86%    1.473      1 Template:Column-width
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:4709501-0!canonical and timestamp 20180309133436 and revision id 829572136
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Space_weathering&amp;oldid=829572136">
+      https://en.wikipedia.org/w/index.php?title=Space_weathering&amp;oldid=829572136
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Planetary_science" title="Category:Planetary science">
+         Planetary science
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Space_science" title="Category:Space science">
+         Space science
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Lunar_science" title="Category:Lunar science">
+         Lunar science
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Space+weathering" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Space+weathering" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Space_weathering" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Space_weathering" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Space_weathering">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Space_weathering&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Space_weathering&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Space_weathering" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Space_weathering" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Space_weathering&amp;oldid=829572136" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Space_weathering&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1570174" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Space_weathering&amp;id=829572136" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Space+weathering">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Space+weathering&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Space_weathering&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AA%D8%AC%D9%88%D9%8A%D8%A9_%D9%81%D8%B6%D8%A7%D8%A6%D9%8A%D8%A9" hreflang="ar" lang="ar" title="تجوية فضائية – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be">
+        <a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%9A%D0%B0%D1%81%D0%BC%D1%96%D1%87%D0%BD%D0%B0%D1%8F_%D1%8D%D1%80%D0%BE%D0%B7%D1%96%D1%8F" hreflang="be" lang="be" title="Касмічная эрозія – Belarusian">
+         Беларуская
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Erosi%C3%B3_espacial" hreflang="ca" lang="ca" title="Erosió espacial – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Weltraumverwitterung" hreflang="de" lang="de" title="Weltraumverwitterung – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Erosi%C3%B3n_espacial" hreflang="es" lang="es" title="Erosión espacial – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%81%D8%B1%D8%B3%D8%A7%DB%8C%D8%B4_%D9%81%D8%B6%D8%A7%DB%8C%DB%8C" hreflang="fa" lang="fa" title="فرسایش فضایی – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/%C3%89rosion_spatiale" hreflang="fr" lang="fr" title="Érosion spatiale – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Erosione_spaziale" hreflang="it" lang="it" title="Erosione spaziale – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ms">
+        <a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Luluhawa_angkasa" hreflang="ms" lang="ms" title="Luluhawa angkasa – Malay">
+         Bahasa Melayu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Ruimteverwering" hreflang="nl" lang="nl" title="Ruimteverwering – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Erosjon_(astronomi)" hreflang="no" lang="no" title="Erosjon (astronomi) – Norwegian">
+         Norsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Eros%C3%A3o_espacial" hreflang="pt" lang="pt" title="Erosão espacial – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%B2%D1%8B%D0%B2%D0%B5%D1%82%D1%80%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" hreflang="ru" lang="ru" title="Космическое выветривание – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D0%BC%D1%96%D1%87%D0%BD%D0%B5_%D0%B2%D0%B8%D0%B2%D1%96%D1%82%D1%80%D1%8E%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F" hreflang="uk" lang="uk" title="Космічне вивітрювання – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E7%A9%BA%E9%97%B4%E9%A3%8E%E5%8C%96" hreflang="zh" lang="zh" title="空间风化 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1570174#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 9 March 2018, at 13:34.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Space_weathering&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.176","walltime":"0.208","ppvisitednodes":{"value":722,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":31940,"limit":2097152},"templateargumentsize":{"value":108,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":15334,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  171.007      1 -total"," 72.53%  124.031      1 Template:Reflist"," 30.24%   51.720      9 Template:Cite_journal"," 22.24%   38.034      1 Template:Cite_book"," 14.16%   24.220      1 Template:Distinguish","  6.93%   11.844      1 Template:Weathering","  5.69%    9.723      2 Template:Cite_web","  5.29%    9.049      1 Template:Navbox","  1.27%    2.179      1 Template:Main_other","  0.86%    1.473      1 Template:Column-width"]},"scribunto":{"limitreport-timeusage":{"value":"0.090","limit":"10.000"},"limitreport-memusage":{"value":3301499,"limit":52428800}},"cachereport":{"origin":"mw1288","timestamp":"20180309133431","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":78,"wgHostname":"mw1267"});});
+  </script>
+ </body>
+</html>

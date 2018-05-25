@@ -1,0 +1,3524 @@
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Lunar Laser Ranging experiment - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Lunar_Laser_Ranging_experiment","wgTitle":"Lunar Laser Ranging experiment","wgCurRevisionId":831779774,"wgRevisionId":831779774,"wgArticleId":148634,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Date format","Articles containing potentially dated statements from 2002","All articles containing potentially dated statements","Use dmy dates from March 2018","Lunar science","Apollo program hardware","Tests of general relativity"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Lunar_Laser_Ranging_experiment","wgRelevantArticleId":148634,"wgRequestId":"WrM1EQpAICEAALngyrEAAABR","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q94741","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.25" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Apollo_11_Lunar_Laser_Ranging_Experiment.jpg/1200px-Apollo_11_Lunar_Laser_Ranging_Experiment.jpg" property="og:image"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Lunar_Laser_Ranging_experiment" rel="alternate"/>
+  <link href="/w/index.php?title=Lunar_Laser_Ranging_experiment&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Lunar_Laser_Ranging_experiment&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Lunar_Laser_Ranging_experiment" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Lunar_Laser_Ranging_experiment rootpage-Lunar_Laser_Ranging_experiment skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Lunar Laser Ranging experiment
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Apollo_11_Lunar_Laser_Ranging_Experiment.jpg">
+         <img alt="" class="thumbimage" data-file-height="2373" data-file-width="2349" height="222" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Apollo_11_Lunar_Laser_Ranging_Experiment.jpg/220px-Apollo_11_Lunar_Laser_Ranging_Experiment.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Apollo_11_Lunar_Laser_Ranging_Experiment.jpg/330px-Apollo_11_Lunar_Laser_Ranging_Experiment.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/08/Apollo_11_Lunar_Laser_Ranging_Experiment.jpg/440px-Apollo_11_Lunar_Laser_Ranging_Experiment.jpg 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Apollo_11_Lunar_Laser_Ranging_Experiment.jpg" title="Enlarge">
+          </a>
+         </div>
+         Lunar Laser Ranging Experiment from the Apollo 11 mission
+        </div>
+       </div>
+      </div>
+      <p>
+       The ongoing
+       <b>
+        Lunar Laser Ranging experiment
+       </b>
+       measures the
+       <a href="/wiki/Lunar_distance_(astronomy)" title="Lunar distance (astronomy)">
+        distance
+       </a>
+       between
+       <a href="/wiki/Earth" title="Earth">
+        Earth
+       </a>
+       and the
+       <a href="/wiki/Moon" title="Moon">
+        Moon
+       </a>
+       using
+       <a href="/wiki/Lidar" title="Lidar">
+        laser ranging
+       </a>
+       .
+       <a href="/wiki/Laser" title="Laser">
+        Lasers
+       </a>
+       on Earth are aimed at
+       <a href="/wiki/Retroreflector" title="Retroreflector">
+        retroreflectors
+       </a>
+       planted on the Moon during the
+       <a href="/wiki/Apollo_program" title="Apollo program">
+        Apollo program
+       </a>
+       (
+       <a href="/wiki/Apollo_11" title="Apollo 11">
+        11
+       </a>
+       ,
+       <a href="/wiki/Apollo_14" title="Apollo 14">
+        14
+       </a>
+       , and
+       <a href="/wiki/Apollo_15" title="Apollo 15">
+        15
+       </a>
+       ), the two
+       <a href="/wiki/Lunokhod_programme" title="Lunokhod programme">
+        Lunokhod
+       </a>
+       missions,
+       <sup class="reference" id="cite_ref-Lunakhod_2_1-0">
+        <a href="#cite_note-Lunakhod_2-1">
+         [1]
+        </a>
+       </sup>
+       and the upcoming
+       <a href="/wiki/MoonLIGHT" title="MoonLIGHT">
+        MoonLIGHT
+       </a>
+       retroreflector to be deployed by the private
+       <a class="mw-redirect" href="/wiki/MX-1E" title="MX-1E">
+        MX-1E
+       </a>
+       lander.
+       <sup class="reference" id="cite_ref-Currie_2011_2-0">
+        <a href="#cite_note-Currie_2011-2">
+         [2]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-MX-1_3-0">
+        <a href="#cite_note-MX-1-3">
+         [3]
+        </a>
+       </sup>
+       The time for the reflected light to return is measured, and the distance is calculated.
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Overview">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Overview
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#Principle">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Principle
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-3">
+         <a href="#Results">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           Results
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-4">
+         <a href="#Photo_gallery">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           Photo gallery
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-5">
+         <a href="#See_also">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-6">
+         <a href="#References">
+          <span class="tocnumber">
+           6
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-7">
+         <a href="#External_links">
+          <span class="tocnumber">
+           7
+          </span>
+          <span class="toctext">
+           External links
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Overview">
+        Overview
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Lunar_Laser_Ranging_experiment&amp;action=edit&amp;section=1" title="Edit section: Overview">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:ALSEP_AS15-85-11468.jpg">
+         <img alt="" class="thumbimage" data-file-height="2353" data-file-width="2340" height="221" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/ALSEP_AS15-85-11468.jpg/220px-ALSEP_AS15-85-11468.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/ALSEP_AS15-85-11468.jpg/330px-ALSEP_AS15-85-11468.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/ALSEP_AS15-85-11468.jpg/440px-ALSEP_AS15-85-11468.jpg 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:ALSEP_AS15-85-11468.jpg" title="Enlarge">
+          </a>
+         </div>
+         Apollo 15 LRRR
+        </div>
+       </div>
+      </div>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Laser_Ranging_Retroreflector_Apollo_15.svg">
+         <img alt="" class="thumbimage" data-file-height="744" data-file-width="1052" height="156" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Laser_Ranging_Retroreflector_Apollo_15.svg/220px-Laser_Ranging_Retroreflector_Apollo_15.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Laser_Ranging_Retroreflector_Apollo_15.svg/330px-Laser_Ranging_Retroreflector_Apollo_15.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/43/Laser_Ranging_Retroreflector_Apollo_15.svg/440px-Laser_Ranging_Retroreflector_Apollo_15.svg.png 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Laser_Ranging_Retroreflector_Apollo_15.svg" title="Enlarge">
+          </a>
+         </div>
+         Apollo 15 LRRR schematic
+        </div>
+       </div>
+      </div>
+      <p>
+       The first successful tests were carried out in 1962 when a team from the
+       <a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">
+        Massachusetts Institute of Technology
+       </a>
+       succeeded in observing laser pulses reflected from the Moon's surface using a laser with a millisecond pulse length.
+       <sup class="reference" id="cite_ref-4">
+        <a href="#cite_note-4">
+         [4]
+        </a>
+       </sup>
+       Similar measurements were obtained later the same year by a Soviet team at the
+       <a href="/wiki/Crimean_Astrophysical_Observatory" title="Crimean Astrophysical Observatory">
+        Crimean Astrophysical Observatory
+       </a>
+       using a
+       <a class="mw-redirect" href="/wiki/Q-switched" title="Q-switched">
+        Q-switched
+       </a>
+       <a href="/wiki/Ruby_laser" title="Ruby laser">
+        ruby laser
+       </a>
+       .
+       <sup class="reference" id="cite_ref-5">
+        <a href="#cite_note-5">
+         [5]
+        </a>
+       </sup>
+       Greater accuracy was achieved following the installation of a
+       <a href="/wiki/Retroreflector" title="Retroreflector">
+        retroreflector
+       </a>
+       array on 21 July 1969, by the crew of
+       <a href="/wiki/Apollo_11" title="Apollo 11">
+        Apollo 11
+       </a>
+       , and two more retroreflector arrays left by the
+       <a href="/wiki/Apollo_14" title="Apollo 14">
+        Apollo 14
+       </a>
+       and
+       <a href="/wiki/Apollo_15" title="Apollo 15">
+        Apollo 15
+       </a>
+       missions have also contributed to the experiment. Successful lunar laser range measurements to the retroreflectors were first reported by the 3.1 m telescope at
+       <a href="/wiki/Lick_Observatory" title="Lick Observatory">
+        Lick Observatory
+       </a>
+       ,
+       <a class="mw-redirect" href="/wiki/Air_Force_Cambridge_Research_Laboratories" title="Air Force Cambridge Research Laboratories">
+        Air Force Cambridge Research Laboratories
+       </a>
+       Lunar Ranging Observatory in Arizona, the
+       <a href="/wiki/Pic_du_Midi_de_Bigorre" title="Pic du Midi de Bigorre">
+        Pic du Midi Observatory
+       </a>
+       in France, the Tokyo
+       <a href="/wiki/National_Astronomical_Observatory_of_Japan" title="National Astronomical Observatory of Japan">
+        Astronomical Observatory
+       </a>
+       , and
+       <a href="/wiki/McDonald_Observatory" title="McDonald Observatory">
+        McDonald Observatory
+       </a>
+       in Texas.
+      </p>
+      <p>
+       The unmanned Soviet
+       <i>
+        <a href="/wiki/Lunokhod_1" title="Lunokhod 1">
+         Lunokhod 1
+        </a>
+       </i>
+       and
+       <i>
+        <a href="/wiki/Lunokhod_2" title="Lunokhod 2">
+         Lunokhod 2
+        </a>
+       </i>
+       rovers carried smaller arrays. Reflected signals were initially received from
+       <i>
+        Lunokhod 1
+       </i>
+       , but no return signals were detected after 1971 until a team from University of California rediscovered the array in April 2010 using images from
+       <a href="/wiki/NASA" title="NASA">
+        NASA
+       </a>
+       's
+       <a href="/wiki/Lunar_Reconnaissance_Orbiter" title="Lunar Reconnaissance Orbiter">
+        Lunar Reconnaissance Orbiter
+       </a>
+       .
+       <sup class="reference" id="cite_ref-6">
+        <a href="#cite_note-6">
+         [6]
+        </a>
+       </sup>
+       <i>
+        Lunokhod 2
+       </i>
+       <span class="nowrap" style="padding-left:0.1em;">
+        's
+       </span>
+       array continues to return signals to Earth.
+       <sup class="reference" id="cite_ref-jwjd1_7-0">
+        <a href="#cite_note-jwjd1-7">
+         [7]
+        </a>
+       </sup>
+       The Lunokhod arrays suffer from decreased performance in direct sunlight—a factor considered in reflector placement during the Apollo missions.
+       <sup class="reference" id="cite_ref-UniverseToday_8-0">
+        <a href="#cite_note-UniverseToday-8">
+         [8]
+        </a>
+       </sup>
+      </p>
+      <p>
+       The Apollo 15 array is three times the size of the arrays left by the two earlier Apollo missions. Its size made it the target of three-quarters of the sample measurements taken in the first 25 years of the experiment. Improvements in technology since then have resulted in greater use of the smaller arrays, by sites such as the
+       <a href="/wiki/C%C3%B4te_d%27Azur_Observatory" title="Côte d'Azur Observatory">
+        Côte d'Azur Observatory
+       </a>
+       in
+       <a href="/wiki/Grasse" title="Grasse">
+        Grasse
+       </a>
+       , France; and the
+       <a href="/wiki/Apache_Point_Observatory_Lunar_Laser-ranging_Operation" title="Apache Point Observatory Lunar Laser-ranging Operation">
+        Apache Point Observatory Lunar Laser-ranging Operation
+       </a>
+       (APOLLO) at the
+       <a href="/wiki/Apache_Point_Observatory" title="Apache Point Observatory">
+        Apache Point Observatory
+       </a>
+       in
+       <a href="/wiki/New_Mexico" title="New Mexico">
+        New Mexico
+       </a>
+       .
+      </p>
+      <h2>
+       <span class="mw-headline" id="Principle">
+        Principle
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Lunar_Laser_Ranging_experiment&amp;action=edit&amp;section=2" title="Edit section: Principle">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       The distance to the Moon is calculated
+       <i>
+        approximately
+       </i>
+       using this equation:
+      </p>
+      <p>
+       <span class="texhtml">
+        distance = (speed of light × time taken for light to reflect) / 2
+       </span>
+      </p>
+      <p>
+       In actuality, the round-trip time of about 2.5 seconds is affected by the location of the Moon in the sky, the relative motion of Earth and the Moon, Earth's rotation,
+       <a class="mw-redirect" href="/wiki/Lunar_libration" title="Lunar libration">
+        lunar libration
+       </a>
+       ,
+       <a href="/wiki/Weather" title="Weather">
+        weather
+       </a>
+       ,
+       <a href="/wiki/Polar_motion" title="Polar motion">
+        polar motion
+       </a>
+       , propagation delay through
+       <a href="/wiki/Atmosphere_of_Earth" title="Atmosphere of Earth">
+        Earth's atmosphere
+       </a>
+       , the motion of the observing station due to
+       <a href="/wiki/Plate_tectonics" title="Plate tectonics">
+        crustal motion
+       </a>
+       and
+       <a href="/wiki/Tide" title="Tide">
+        tides
+       </a>
+       , velocity of light in various parts of air and
+       <a href="/wiki/Theory_of_relativity" title="Theory of relativity">
+        relativistic effects
+       </a>
+       .
+       <sup class="reference" id="cite_ref-9">
+        <a href="#cite_note-9">
+         [9]
+        </a>
+       </sup>
+       Nonetheless, the Earth–Moon distance has been measured with increasing accuracy for more than 35 years. The distance continually changes for a number of reasons, but averages 385,000.6 km (239,228.3 mi).
+       <sup class="reference" id="cite_ref-millimeter_challenge_10-0">
+        <a href="#cite_note-millimeter_challenge-10">
+         [10]
+        </a>
+       </sup>
+      </p>
+      <p>
+       At the Moon's surface, the beam is about 6.5 kilometers (4.0 mi) wide
+       <sup class="reference" id="cite_ref-ApolloLaser_11-0">
+        <a href="#cite_note-ApolloLaser-11">
+         [11]
+        </a>
+       </sup>
+       and scientists liken the task of aiming the beam to using a rifle to hit a moving
+       <a href="/wiki/Dime_(United_States_coin)" title="Dime (United States coin)">
+        dime
+       </a>
+       3 kilometers (1.9 mi) away. The reflected light is too weak to see with the human eye. Out of 10
+       <sup>
+        <span style="white-space:nowrap">
+         17
+        </span>
+       </sup>
+       photons aimed at the reflector, only one is received back on Earth every few seconds, even under good conditions. They can be identified as originating from the laser because the laser is highly
+       <a class="mw-redirect" href="/wiki/Monochromatic" title="Monochromatic">
+        monochromatic
+       </a>
+       . This is one of the most precise distance measurements ever made, and is equivalent in accuracy to determining the distance between Los Angeles and New York to 0.25 mm (0.01 in).
+       <sup class="reference" id="cite_ref-UniverseToday_8-1">
+        <a href="#cite_note-UniverseToday-8">
+         [8]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-12">
+        <a href="#cite_note-12">
+         [12]
+        </a>
+       </sup>
+       As of 2002
+       <sup class="plainlinks noexcerpt noprint asof-tag update" style="display:none;">
+        <a class="external text" href="//en.wikipedia.org/w/index.php?title=Lunar_Laser_Ranging_experiment&amp;action=edit">
+         [update]
+        </a>
+       </sup>
+       , work is progressing on increasing the accuracy of the Earth–Moon measurements to near millimeter accuracy, though the performance of the reflectors continues to degrade with age.
+       <sup class="reference" id="cite_ref-UniverseToday_8-2">
+        <a href="#cite_note-UniverseToday-8">
+         [8]
+        </a>
+       </sup>
+       The upcoming
+       <a class="mw-redirect" href="/wiki/MoonLIGHT_(experiment)" title="MoonLIGHT (experiment)">
+        MoonLIGHT
+       </a>
+       reflector, that will be landed in 2019, is designed to increase measurement accuracy 100 times over existing systems.
+       <sup class="reference" id="cite_ref-Currie_2011_2-1">
+        <a href="#cite_note-Currie_2011-2">
+         [2]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-Tune_2015_13-0">
+        <a href="#cite_note-Tune_2015-13">
+         [13]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Results">
+        Results
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Lunar_Laser_Ranging_experiment&amp;action=edit&amp;section=3" title="Edit section: Results">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Lunar laser ranging measurement data is available from the Paris Observatory Lunar Analysis Center,
+       <sup class="reference" id="cite_ref-14">
+        <a href="#cite_note-14">
+         [14]
+        </a>
+       </sup>
+       and the active stations. Some of the findings of this
+       <a href="/wiki/Long-term_experiment" title="Long-term experiment">
+        long-term experiment
+       </a>
+       are:
+      </p>
+      <ul>
+       <li>
+        The Moon is spiraling away from Earth at a rate of 3.8 cm per year.
+        <sup class="reference" id="cite_ref-ApolloLaser_11-1">
+         <a href="#cite_note-ApolloLaser-11">
+          [11]
+         </a>
+        </sup>
+        This rate has been described as anomalously high.
+        <sup class="reference" id="cite_ref-15">
+         <a href="#cite_note-15">
+          [15]
+         </a>
+        </sup>
+       </li>
+       <li>
+        The Moon probably has a liquid core of about 20% of the Moon's radius.
+        <sup class="reference" id="cite_ref-jwjd1_7-1">
+         <a href="#cite_note-jwjd1-7">
+          [7]
+         </a>
+        </sup>
+       </li>
+       <li>
+        The universal force of
+        <a href="/wiki/Gravity" title="Gravity">
+         gravity
+        </a>
+        is very stable. The experiments have constrained the change in
+        <a href="/wiki/Isaac_Newton" title="Isaac Newton">
+         Newton's
+        </a>
+        <a href="/wiki/Gravitational_constant" title="Gravitational constant">
+         gravitational constant
+        </a>
+        <i>
+         G
+        </i>
+        to a factor of
+        <span class="nowrap">
+         <span class="sortkey" style="display:none">
+          6987200000000000000♠
+         </span>
+         (2
+         <span style="margin-left:0.3em;margin-right:0.15em;">
+          ±
+         </span>
+         7)
+         <span style="margin-left:0.25em;margin-right:0.15em;">
+          ×
+         </span>
+         10
+         <sup>
+          −13
+         </sup>
+        </span>
+        per year.
+        <sup class="reference" id="cite_ref-16">
+         <a href="#cite_note-16">
+          [16]
+         </a>
+        </sup>
+       </li>
+       <li>
+        The likelihood of any "
+        <a href="/wiki/Nordtvedt_effect" title="Nordtvedt effect">
+         Nordtvedt effect
+        </a>
+        " (a differential acceleration of the Moon and Earth towards the Sun caused by their different degrees of compactness) has been ruled out to high precision,
+        <sup class="reference" id="cite_ref-17">
+         <a href="#cite_note-17">
+          [17]
+         </a>
+        </sup>
+        <sup class="reference" id="cite_ref-18">
+         <a href="#cite_note-18">
+          [18]
+         </a>
+        </sup>
+        strongly supporting the validity of the
+        <a class="mw-redirect" href="/wiki/Strong_equivalence_principle" title="Strong equivalence principle">
+         strong equivalence principle
+        </a>
+        .
+       </li>
+       <li>
+        <a href="/wiki/Albert_Einstein" title="Albert Einstein">
+         Einstein's
+        </a>
+        theory of gravity (the
+        <a href="/wiki/General_relativity" title="General relativity">
+         general theory of relativity
+        </a>
+        ) predicts the Moon's
+        <a href="/wiki/Orbit" title="Orbit">
+         orbit
+        </a>
+        to within the accuracy of the laser ranging measurements.
+        <sup class="reference" id="cite_ref-jwjd1_7-2">
+         <a href="#cite_note-jwjd1-7">
+          [7]
+         </a>
+        </sup>
+       </li>
+       <li>
+        Gauge freedom plays a major role in a correct physical interpretation of the relativistic effects in the Earth-Moon system observed with LLR technique
+        <sup class="reference" id="cite_ref-19">
+         <a href="#cite_note-19">
+          [19]
+         </a>
+        </sup>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="Photo_gallery">
+        Photo gallery
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Lunar_Laser_Ranging_experiment&amp;action=edit&amp;section=4" title="Edit section: Photo gallery">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul class="gallery mw-gallery-traditional">
+       <li class="gallerybox" style="width: 235px">
+        <div style="width: 235px">
+         <div class="thumb" style="width: 230px;">
+          <div style="margin:15px auto;">
+           <a class="image" href="/wiki/File:ALSEP_AS14-67-9386.jpg">
+            <img alt="" data-file-height="4020" data-file-width="4020" height="160" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/ALSEP_AS14-67-9386.jpg/160px-ALSEP_AS14-67-9386.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/ALSEP_AS14-67-9386.jpg/240px-ALSEP_AS14-67-9386.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ae/ALSEP_AS14-67-9386.jpg/320px-ALSEP_AS14-67-9386.jpg 2x" width="160"/>
+           </a>
+          </div>
+         </div>
+         <div class="gallerytext">
+          <p>
+           Apollo 14 Lunar Ranging Retro Reflector (LRRR)
+          </p>
+         </div>
+        </div>
+       </li>
+       <li class="gallerybox" style="width: 235px">
+        <div style="width: 235px">
+         <div class="thumb" style="width: 230px;">
+          <div style="margin:21.5px auto;">
+           <a class="image" href="/wiki/File:LunarPhotons.png">
+            <img alt="" data-file-height="360" data-file-width="491" height="147" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/LunarPhotons.png/200px-LunarPhotons.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/LunarPhotons.png/300px-LunarPhotons.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9c/LunarPhotons.png/400px-LunarPhotons.png 2x" width="200"/>
+           </a>
+          </div>
+         </div>
+         <div class="gallerytext">
+          <p>
+           APOLLO Collaboration photon pulse return times
+          </p>
+         </div>
+        </div>
+       </li>
+       <li class="gallerybox" style="width: 235px">
+        <div style="width: 235px">
+         <div class="thumb" style="width: 230px;">
+          <div style="margin:28.5px auto;">
+           <a class="image" href="/wiki/File:Wettzell_Laser_Ranging_System.jpg">
+            <img alt="" data-file-height="682" data-file-width="1024" height="133" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/Wettzell_Laser_Ranging_System.jpg/200px-Wettzell_Laser_Ranging_System.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/Wettzell_Laser_Ranging_System.jpg/300px-Wettzell_Laser_Ranging_System.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/13/Wettzell_Laser_Ranging_System.jpg/400px-Wettzell_Laser_Ranging_System.jpg 2x" width="200"/>
+           </a>
+          </div>
+         </div>
+         <div class="gallerytext">
+          <p>
+           Laser ranging facility at
+           <a class="mw-redirect" href="/wiki/Wettzell" title="Wettzell">
+            Wettzell
+           </a>
+           <a href="/wiki/Fundamental_station" title="Fundamental station">
+            fundamental station
+           </a>
+           ,
+           <a href="/wiki/Bavaria" title="Bavaria">
+            Bavaria
+           </a>
+           ,
+           <a href="/wiki/Germany" title="Germany">
+            Germany
+           </a>
+          </p>
+         </div>
+        </div>
+       </li>
+       <li class="gallerybox" style="width: 235px">
+        <div style="width: 235px">
+         <div class="thumb" style="width: 230px;">
+          <div style="margin:20px auto;">
+           <a class="image" href="/wiki/File:Goddard_Spaceflight_Center_Laser_Ranging_Facility.jpg">
+            <img alt="" data-file-height="1996" data-file-width="2661" height="150" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Goddard_Spaceflight_Center_Laser_Ranging_Facility.jpg/200px-Goddard_Spaceflight_Center_Laser_Ranging_Facility.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Goddard_Spaceflight_Center_Laser_Ranging_Facility.jpg/300px-Goddard_Spaceflight_Center_Laser_Ranging_Facility.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Goddard_Spaceflight_Center_Laser_Ranging_Facility.jpg/400px-Goddard_Spaceflight_Center_Laser_Ranging_Facility.jpg 2x" width="200"/>
+           </a>
+          </div>
+         </div>
+         <div class="gallerytext">
+          <p>
+           Laser Ranging at
+           <a href="/wiki/Goddard_Space_Flight_Center" title="Goddard Space Flight Center">
+            Goddard Space Flight Center
+           </a>
+          </p>
+         </div>
+        </div>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Lunar_Laser_Ranging_experiment&amp;action=edit&amp;section=5" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+       <ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+        <li style="display:table-row">
+         <span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center">
+          <a class="image" href="/wiki/File:Moon-Mdf-2005.jpg">
+           <img alt="icon" class="noviewer" data-file-height="1024" data-file-width="1024" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Moon-Mdf-2005.jpg/28px-Moon-Mdf-2005.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Moon-Mdf-2005.jpg/42px-Moon-Mdf-2005.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Moon-Mdf-2005.jpg/56px-Moon-Mdf-2005.jpg 2x" width="28"/>
+          </a>
+         </span>
+         <span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle">
+          <a href="/wiki/Portal:Moon" title="Portal:Moon">
+           Moon portal
+          </a>
+         </span>
+        </li>
+       </ul>
+      </div>
+      <ul>
+       <li>
+        <a href="/wiki/Apache_Point_Observatory_Lunar_Laser-ranging_Operation" title="Apache Point Observatory Lunar Laser-ranging Operation">
+         Apache Point Observatory Lunar Laser-ranging Operation
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Apollo_Lunar_Surface_Experiments_Package" title="Apollo Lunar Surface Experiments Package">
+         Apollo Lunar Surface Experiments Package
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Tom_Murphy_(physicist)" title="Tom Murphy (physicist)">
+         Tom Murphy (physicist)
+        </a>
+        (principal investigator of Apollo's reflector experiment)
+       </li>
+       <li>
+        <a href="/wiki/Carroll_Alley" title="Carroll Alley">
+         Carroll Alley
+        </a>
+        (previous principal investigator of Apollo's reflector experiment)
+       </li>
+       <li>
+        <a href="/wiki/Earth%E2%80%93Moon%E2%80%93Earth_communication" title="Earth–Moon–Earth communication">
+         Earth–Moon–Earth communication
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Lidar" title="Lidar">
+         Lidar
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Lunar_distance_(astronomy)" title="Lunar distance (astronomy)">
+         Lunar distance (astronomy)
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Lunokhod_programme" title="Lunokhod programme">
+         Lunokhod programme
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Satellite_laser_ranging" title="Satellite laser ranging">
+         Satellite laser ranging
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Space_geodesy" title="Space geodesy">
+         Space geodesy
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Third-party_evidence_for_Apollo_Moon_landings" title="Third-party evidence for Apollo Moon landings">
+         Third-party evidence for Apollo Moon landings
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/List_of_retroreflectors_on_the_Moon" title="List of retroreflectors on the Moon">
+         List of retroreflectors on the Moon
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Lunar_Laser_Ranging_experiment&amp;action=edit&amp;section=6" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+       <ol class="references">
+        <li id="cite_note-Lunakhod_2-1">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-Lunakhod_2_1-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation journal">
+           Chapront, J.; Chapront-Touzé, M.; Francou, G. (1999). "Determination of the lunar orbital and rotational parameters and of the ecliptic reference system orientation from LLR measurements and IERS data".
+           <i>
+            <a href="/wiki/Astronomy_and_Astrophysics" title="Astronomy and Astrophysics">
+             Astronomy and Astrophysics
+            </a>
+           </i>
+           .
+           <b>
+            343
+           </b>
+           : 624–633.
+           <a href="/wiki/Bibcode" title="Bibcode">
+            Bibcode
+           </a>
+           :
+           <a class="external text" href="http://adsabs.harvard.edu/abs/1999A&amp;A...343..624C" rel="nofollow">
+            1999A&amp;A...343..624C
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Astronomy+and+Astrophysics&amp;rft.atitle=Determination+of+the+lunar+orbital+and+rotational+parameters+and+of+the+ecliptic+reference+system+orientation+from+LLR+measurements+and+IERS+data&amp;rft.volume=343&amp;rft.pages=624-633&amp;rft.date=1999&amp;rft_id=info%3Abibcode%2F1999A%26A...343..624C&amp;rft.aulast=Chapront&amp;rft.aufirst=J.&amp;rft.au=Chapront-Touz%C3%A9%2C+M.&amp;rft.au=Francou%2C+G.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+Laser+Ranging+experiment">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-Currie_2011-2">
+         <span class="mw-cite-backlink">
+          ^
+          <a href="#cite_ref-Currie_2011_2-0">
+           <sup>
+            <i>
+             <b>
+              a
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-Currie_2011_2-1">
+           <sup>
+            <i>
+             <b>
+              b
+             </b>
+            </i>
+           </sup>
+          </a>
+         </span>
+         <span class="reference-text">
+          <cite class="citation journal">
+           Currie, Douglas; Dell'Agnello, Simone; Delle Monache, Giovanni (April–May 2011). "A Lunar Laser Ranging Retroreflector Array for the 21st Century".
+           <i>
+            Acta Astronautica
+           </i>
+           .
+           <b>
+            68
+           </b>
+           (7-8): 667–680.
+           <a href="/wiki/Bibcode" title="Bibcode">
+            Bibcode
+           </a>
+           :
+           <a class="external text" href="http://adsabs.harvard.edu/abs/2011AcAau..68..667C" rel="nofollow">
+            2011AcAau..68..667C
+           </a>
+           .
+           <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+            doi
+           </a>
+           :
+           <a class="external text" href="//doi.org/10.1016%2Fj.actaastro.2010.09.001" rel="nofollow">
+            10.1016/j.actaastro.2010.09.001
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Acta+Astronautica&amp;rft.atitle=A+Lunar+Laser+Ranging+Retroreflector+Array+for+the+21st+Century&amp;rft.volume=68&amp;rft.issue=7-8&amp;rft.pages=667-680&amp;rft.date=2011-04%2F2011-05&amp;rft_id=info%3Adoi%2F10.1016%2Fj.actaastro.2010.09.001&amp;rft_id=info%3Abibcode%2F2011AcAau..68..667C&amp;rft.aulast=Currie&amp;rft.aufirst=Douglas&amp;rft.au=Dell%27Agnello%2C+Simone&amp;rft.au=Delle+Monache%2C+Giovanni&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+Laser+Ranging+experiment">
+           <span style="display:none;">
+           </span>
+          </span>
+          <span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">
+           CS1 maint: Date format (
+           <a href="/wiki/Category:CS1_maint:_Date_format" title="Category:CS1 maint: Date format">
+            link
+           </a>
+           )
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-MX-1-3">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-MX-1_3-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation news">
+           Boyle, Alan (12 July 2017).
+           <a class="external text" href="https://www.geekwire.com/2017/moon-express-unveils-roadmap-giant-leaps-lunar-surface-back/" rel="nofollow">
+            "Moon Express unveils its roadmap for giant leaps to the lunar surface ... and back again"
+           </a>
+           .
+           <i>
+            GeekWire
+           </i>
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             15 March
+            </span>
+            2018
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=GeekWire&amp;rft.atitle=Moon+Express+unveils+its+roadmap+for+giant+leaps+to+the+lunar+surface+...+and+back+again&amp;rft.date=2017-07-12&amp;rft.aulast=Boyle&amp;rft.aufirst=Alan&amp;rft_id=https%3A%2F%2Fwww.geekwire.com%2F2017%2Fmoon-express-unveils-roadmap-giant-leaps-lunar-surface-back%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+Laser+Ranging+experiment">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-4">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-4">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation journal">
+           Smullin, Louis D.; Fiocco, Giorgio (1962).
+           <a class="external text" href="http://www.nature.com/nature/journal/v194/n4835/abs/1941267a0.html" rel="nofollow">
+            "Optical Echoes from the Moon"
+           </a>
+           .
+           <i>
+            <a href="/wiki/Nature_(journal)" title="Nature (journal)">
+             Nature
+            </a>
+           </i>
+           .
+           <b>
+            194
+           </b>
+           (4835): 1267.
+           <a href="/wiki/Bibcode" title="Bibcode">
+            Bibcode
+           </a>
+           :
+           <a class="external text" href="http://adsabs.harvard.edu/abs/1962Natur.194.1267S" rel="nofollow">
+            1962Natur.194.1267S
+           </a>
+           .
+           <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+            doi
+           </a>
+           :
+           <a class="external text" href="//doi.org/10.1038%2F1941267a0" rel="nofollow">
+            10.1038/1941267a0
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nature&amp;rft.atitle=Optical+Echoes+from+the+Moon&amp;rft.volume=194&amp;rft.issue=4835&amp;rft.pages=1267&amp;rft.date=1962&amp;rft_id=info%3Adoi%2F10.1038%2F1941267a0&amp;rft_id=info%3Abibcode%2F1962Natur.194.1267S&amp;rft.aulast=Smullin&amp;rft.aufirst=Louis+D.&amp;rft.au=Fiocco%2C+Giorgio&amp;rft_id=http%3A%2F%2Fwww.nature.com%2Fnature%2Fjournal%2Fv194%2Fn4835%2Fabs%2F1941267a0.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+Laser+Ranging+experiment">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-5">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-5">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation journal">
+           Bender, P. L.; et al. (1973).
+           <a class="external text" href="http://www.physics.ucsd.edu/~tmurphy/apollo/doc/Bender.pdf" rel="nofollow">
+            "The Lunar Laser Ranging Experiment: Accurate ranges have given a large improvement in the lunar orbit and new selenophysical information"
+           </a>
+           <span style="font-size:85%;">
+            (PDF)
+           </span>
+           .
+           <i>
+            <a href="/wiki/Science_(journal)" title="Science (journal)">
+             Science
+            </a>
+           </i>
+           .
+           <b>
+            182
+           </b>
+           (4109): 229–238.
+           <a href="/wiki/Bibcode" title="Bibcode">
+            Bibcode
+           </a>
+           :
+           <a class="external text" href="http://adsabs.harvard.edu/abs/1973Sci...182..229B" rel="nofollow">
+            1973Sci...182..229B
+           </a>
+           .
+           <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+            doi
+           </a>
+           :
+           <a class="external text" href="//doi.org/10.1126%2Fscience.182.4109.229" rel="nofollow">
+            10.1126/science.182.4109.229
+           </a>
+           .
+           <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">
+            PMID
+           </a>
+           <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/17749298" rel="nofollow">
+            17749298
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Science&amp;rft.atitle=The+Lunar+Laser+Ranging+Experiment%3A+Accurate+ranges+have+given+a+large+improvement+in+the+lunar+orbit+and+new+selenophysical+information&amp;rft.volume=182&amp;rft.issue=4109&amp;rft.pages=229-238&amp;rft.date=1973&amp;rft_id=info%3Apmid%2F17749298&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.182.4109.229&amp;rft_id=info%3Abibcode%2F1973Sci...182..229B&amp;rft.aulast=Bender&amp;rft.aufirst=P.+L.&amp;rft_id=http%3A%2F%2Fwww.physics.ucsd.edu%2F~tmurphy%2Fapollo%2Fdoc%2FBender.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+Laser+Ranging+experiment">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-6">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-6">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation news">
+           McDonald, K. (26 April 2010).
+           <a class="external text" href="http://ucsdnews.ucsd.edu/newsrel/science/04-26SovietReflector.asp" rel="nofollow">
+            "UC San Diego Physicists Locate Long Lost Soviet Reflector on Moon"
+           </a>
+           . University of California, San Diego
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             27 April
+            </span>
+            2010
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=UC+San+Diego+Physicists+Locate+Long+Lost+Soviet+Reflector+on+Moon&amp;rft.date=2010-04-26&amp;rft.aulast=McDonald&amp;rft.aufirst=K.&amp;rft_id=http%3A%2F%2Fucsdnews.ucsd.edu%2Fnewsrel%2Fscience%2F04-26SovietReflector.asp&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+Laser+Ranging+experiment">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-jwjd1-7">
+         <span class="mw-cite-backlink">
+          ^
+          <a href="#cite_ref-jwjd1_7-0">
+           <sup>
+            <i>
+             <b>
+              a
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-jwjd1_7-1">
+           <sup>
+            <i>
+             <b>
+              b
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-jwjd1_7-2">
+           <sup>
+            <i>
+             <b>
+              c
+             </b>
+            </i>
+           </sup>
+          </a>
+         </span>
+         <span class="reference-text">
+          <cite class="citation conference">
+           Williams, James G.; Dickey, Jean O. (2002).
+           <a class="external text" href="https://ilrs.cddis.eosdis.nasa.gov/docs/williams_lw13.pdf" rel="nofollow">
+            <i>
+             Lunar Geophysics, Geodesy, and Dynamics
+            </i>
+           </a>
+           <span style="font-size:85%;">
+            (PDF)
+           </span>
+           . 13th International Workshop on Laser Ranging. 7–11 October 2002. Washington, D. C.
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=conference&amp;rft.btitle=Lunar+Geophysics%2C+Geodesy%2C+and+Dynamics&amp;rft.date=2002&amp;rft.aulast=Williams&amp;rft.aufirst=James+G.&amp;rft.au=Dickey%2C+Jean+O.&amp;rft_id=https%3A%2F%2Filrs.cddis.eosdis.nasa.gov%2Fdocs%2Fwilliams_lw13.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+Laser+Ranging+experiment">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-UniverseToday-8">
+         <span class="mw-cite-backlink">
+          ^
+          <a href="#cite_ref-UniverseToday_8-0">
+           <sup>
+            <i>
+             <b>
+              a
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-UniverseToday_8-1">
+           <sup>
+            <i>
+             <b>
+              b
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-UniverseToday_8-2">
+           <sup>
+            <i>
+             <b>
+              c
+             </b>
+            </i>
+           </sup>
+          </a>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           <a class="external text" href="http://www.universetoday.com/59310/its-not-just-the-astronauts-that-are-getting-older/" rel="nofollow">
+            "It's Not Just The Astronauts That Are Getting Older"
+           </a>
+           .
+           <a href="/wiki/Universe_Today" title="Universe Today">
+            Universe Today
+           </a>
+           . 10 March 2010
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             24 August
+            </span>
+            2012
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=It%27s+Not+Just+The+Astronauts+That+Are+Getting+Older&amp;rft.pub=Universe+Today&amp;rft.date=2010-03-10&amp;rft_id=http%3A%2F%2Fwww.universetoday.com%2F59310%2Fits-not-just-the-astronauts-that-are-getting-older%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+Laser+Ranging+experiment">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-9">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-9">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation book">
+           Seeber, Günter (2003).
+           <i>
+            Satellite Geodesy
+           </i>
+           (2nd ed.). de Gruyter. p. 439.
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/3-11-017549-5" title="Special:BookSources/3-11-017549-5">
+            3-11-017549-5
+           </a>
+           .
+           <a href="/wiki/OCLC" title="OCLC">
+            OCLC
+           </a>
+           <a class="external text" href="//www.worldcat.org/oclc/52258226" rel="nofollow">
+            52258226
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Satellite+Geodesy&amp;rft.pages=439&amp;rft.edition=2nd&amp;rft.pub=de+Gruyter&amp;rft.date=2003&amp;rft_id=info%3Aoclcnum%2F52258226&amp;rft.isbn=3-11-017549-5&amp;rft.aulast=Seeber&amp;rft.aufirst=G%C3%BCnter&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+Laser+Ranging+experiment">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-millimeter_challenge-10">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-millimeter_challenge_10-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation journal">
+           Murphy, T. W. (2013).
+           <a class="external text" href="http://physics.ucsd.edu/~tmurphy/papers/rop-llr.pdf" rel="nofollow">
+            "Lunar laser ranging: the millimeter challenge"
+           </a>
+           <span style="font-size:85%;">
+            (PDF)
+           </span>
+           .
+           <i>
+            <a href="/wiki/Reports_on_Progress_in_Physics" title="Reports on Progress in Physics">
+             Reports on Progress in Physics
+            </a>
+           </i>
+           .
+           <b>
+            76
+           </b>
+           (7): 2.
+           <a href="/wiki/ArXiv" title="ArXiv">
+            arXiv
+           </a>
+           :
+           <span class="plainlinks">
+            <a class="external text" href="//arxiv.org/abs/1309.6294" rel="nofollow">
+             1309.6294
+            </a>
+            <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/>
+           </span>
+           .
+           <a href="/wiki/Bibcode" title="Bibcode">
+            Bibcode
+           </a>
+           :
+           <a class="external text" href="http://adsabs.harvard.edu/abs/2013RPPh...76g6901M" rel="nofollow">
+            2013RPPh...76g6901M
+           </a>
+           .
+           <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+            doi
+           </a>
+           :
+           <a class="external text" href="//doi.org/10.1088%2F0034-4885%2F76%2F7%2F076901" rel="nofollow">
+            10.1088/0034-4885/76/7/076901
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Reports+on+Progress+in+Physics&amp;rft.atitle=Lunar+laser+ranging%3A+the+millimeter+challenge&amp;rft.volume=76&amp;rft.issue=7&amp;rft.pages=2&amp;rft.date=2013&amp;rft_id=info%3Aarxiv%2F1309.6294&amp;rft_id=info%3Adoi%2F10.1088%2F0034-4885%2F76%2F7%2F076901&amp;rft_id=info%3Abibcode%2F2013RPPh...76g6901M&amp;rft.aulast=Murphy&amp;rft.aufirst=T.+W.&amp;rft_id=http%3A%2F%2Fphysics.ucsd.edu%2F~tmurphy%2Fpapers%2Frop-llr.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+Laser+Ranging+experiment">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-ApolloLaser-11">
+         <span class="mw-cite-backlink">
+          ^
+          <a href="#cite_ref-ApolloLaser_11-0">
+           <sup>
+            <i>
+             <b>
+              a
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-ApolloLaser_11-1">
+           <sup>
+            <i>
+             <b>
+              b
+             </b>
+            </i>
+           </sup>
+          </a>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           Espenek, F. (August 1994).
+           <a class="external text" href="http://eclipse.gsfc.nasa.gov/SEhelp/ApolloLaser.html" rel="nofollow">
+            "NASA - Accuracy of Eclipse Predictions"
+           </a>
+           . NASA/GSFC
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             4 May
+            </span>
+            2008
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=NASA+-+Accuracy+of+Eclipse+Predictions&amp;rft.pub=NASA%2FGSFC&amp;rft.date=1994-08&amp;rft.aulast=Espenek&amp;rft.aufirst=F.&amp;rft_id=http%3A%2F%2Feclipse.gsfc.nasa.gov%2FSEhelp%2FApolloLaser.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+Laser+Ranging+experiment">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-12">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-12">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           <a class="external text" href="http://www.jpl.nasa.gov/news/features.cfm?feature=605" rel="nofollow">
+            "Apollo 11 Experiment Still Going Strong after 35 Years"
+           </a>
+           . NASA/JPL. 20 July 2004
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             4 May
+            </span>
+            2008
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Apollo+11+Experiment+Still+Going+Strong+after+35+Years&amp;rft.pub=NASA%2FJPL&amp;rft.date=2004-07-20&amp;rft_id=http%3A%2F%2Fwww.jpl.nasa.gov%2Fnews%2Ffeatures.cfm%3Ffeature%3D605&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+Laser+Ranging+experiment">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-Tune_2015-13">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-Tune_2015_13-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation news">
+           Tune, Lee (10 June 2015).
+           <a class="external text" href="https://umdrightnow.umd.edu/news/umd-italy-moonex-join-put-new-laser-reflecting-arrays-moon" rel="nofollow">
+            "UMD, Italy &amp; MoonEx Join to Put New Laser-Reflecting Arrays on Moon"
+           </a>
+           .
+           <i>
+            UMD Right Now
+           </i>
+           . University of Maryland.
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=UMD+Right+Now&amp;rft.atitle=UMD%2C+Italy+%26+MoonEx+Join+to+Put+New+Laser-Reflecting+Arrays+on+Moon&amp;rft.date=2015-06-10&amp;rft.aulast=Tune&amp;rft.aufirst=Lee&amp;rft_id=https%3A%2F%2Fumdrightnow.umd.edu%2Fnews%2Fumd-italy-moonex-join-put-new-laser-reflecting-arrays-moon&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+Laser+Ranging+experiment">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-14">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-14">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           <a class="external text" href="http://polac.obspm.fr/llrdatae.html" rel="nofollow">
+            "Lunar Laser Ranging Observations from 1969 to May 2013"
+           </a>
+           . SYRTE Paris Observatory
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             3 June
+            </span>
+            2014
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Lunar+Laser+Ranging+Observations+from+1969+to+May+2013&amp;rft.pub=SYRTE+Paris+Observatory&amp;rft_id=http%3A%2F%2Fpolac.obspm.fr%2Fllrdatae.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+Laser+Ranging+experiment">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-15">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-15">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation journal">
+           Bills, B. G.; Ray, R. D. (1999).
+           <a class="external text" href="http://onlinelibrary.wiley.com/doi/10.1029/1999GL008348/pdf" rel="nofollow">
+            "Lunar Orbital Evolution: A Synthesis of Recent Results"
+           </a>
+           .
+           <i>
+            <a href="/wiki/Geophysical_Research_Letters" title="Geophysical Research Letters">
+             Geophysical Research Letters
+            </a>
+           </i>
+           .
+           <b>
+            26
+           </b>
+           (19): 3045–3048.
+           <a href="/wiki/Bibcode" title="Bibcode">
+            Bibcode
+           </a>
+           :
+           <a class="external text" href="http://adsabs.harvard.edu/abs/1999GeoRL..26.3045B" rel="nofollow">
+            1999GeoRL..26.3045B
+           </a>
+           .
+           <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+            doi
+           </a>
+           :
+           <a class="external text" href="//doi.org/10.1029%2F1999GL008348" rel="nofollow">
+            10.1029/1999GL008348
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Geophysical+Research+Letters&amp;rft.atitle=Lunar+Orbital+Evolution%3A+A+Synthesis+of+Recent+Results&amp;rft.volume=26&amp;rft.issue=19&amp;rft.pages=3045-3048&amp;rft.date=1999&amp;rft_id=info%3Adoi%2F10.1029%2F1999GL008348&amp;rft_id=info%3Abibcode%2F1999GeoRL..26.3045B&amp;rft.aulast=Bills&amp;rft.aufirst=B.+G.&amp;rft.au=Ray%2C+R.+D.&amp;rft_id=http%3A%2F%2Fonlinelibrary.wiley.com%2Fdoi%2F10.1029%2F1999GL008348%2Fpdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+Laser+Ranging+experiment">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-16">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-16">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation journal">
+           Müller, J.; Biskupek, L. (2007). "Variations of the gravitational constant from lunar laser ranging data".
+           <i>
+            <a href="/wiki/Classical_and_Quantum_Gravity" title="Classical and Quantum Gravity">
+             Classical and Quantum Gravity
+            </a>
+           </i>
+           .
+           <b>
+            24
+           </b>
+           (17): 4533.
+           <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+            doi
+           </a>
+           :
+           <a class="external text" href="//doi.org/10.1088%2F0264-9381%2F24%2F17%2F017" rel="nofollow">
+            10.1088/0264-9381/24/17/017
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Classical+and+Quantum+Gravity&amp;rft.atitle=Variations+of+the+gravitational+constant+from+lunar+laser+ranging+data&amp;rft.volume=24&amp;rft.issue=17&amp;rft.pages=4533&amp;rft.date=2007&amp;rft_id=info%3Adoi%2F10.1088%2F0264-9381%2F24%2F17%2F017&amp;rft.aulast=M%C3%BCller&amp;rft.aufirst=J.&amp;rft.au=Biskupek%2C+L.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+Laser+Ranging+experiment">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-17">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-17">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation journal">
+           Adelberger, E. G.; Heckel, B. R.; Smith, G.; Su, Y.; Swanson, H. E. (1990). "Eötvös experiments, lunar ranging and the strong equivalence principle".
+           <i>
+            <a href="/wiki/Nature_(journal)" title="Nature (journal)">
+             Nature
+            </a>
+           </i>
+           .
+           <b>
+            347
+           </b>
+           (6290): 261–263.
+           <a href="/wiki/Bibcode" title="Bibcode">
+            Bibcode
+           </a>
+           :
+           <a class="external text" href="http://adsabs.harvard.edu/abs/1990Natur.347..261A" rel="nofollow">
+            1990Natur.347..261A
+           </a>
+           .
+           <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+            doi
+           </a>
+           :
+           <a class="external text" href="//doi.org/10.1038%2F347261a0" rel="nofollow">
+            10.1038/347261a0
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nature&amp;rft.atitle=E%C3%B6tv%C3%B6s+experiments%2C+lunar+ranging+and+the+strong+equivalence+principle&amp;rft.volume=347&amp;rft.issue=6290&amp;rft.pages=261-263&amp;rft.date=1990&amp;rft_id=info%3Adoi%2F10.1038%2F347261a0&amp;rft_id=info%3Abibcode%2F1990Natur.347..261A&amp;rft.aulast=Adelberger&amp;rft.aufirst=E.+G.&amp;rft.au=Heckel%2C+B.+R.&amp;rft.au=Smith%2C+G.&amp;rft.au=Su%2C+Y.&amp;rft.au=Swanson%2C+H.+E.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+Laser+Ranging+experiment">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-18">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-18">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation journal">
+           Williams, J. G.; Newhall, X. X.; Dickey, J. O. (1996). "Relativity parameters determined from lunar laser ranging".
+           <i>
+            <a class="mw-redirect" href="/wiki/Physical_Review_D" title="Physical Review D">
+             Physical Review D
+            </a>
+           </i>
+           .
+           <b>
+            53
+           </b>
+           (12): 6730–6739.
+           <a href="/wiki/Bibcode" title="Bibcode">
+            Bibcode
+           </a>
+           :
+           <a class="external text" href="http://adsabs.harvard.edu/abs/1996PhRvD..53.6730W" rel="nofollow">
+            1996PhRvD..53.6730W
+           </a>
+           .
+           <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+            doi
+           </a>
+           :
+           <a class="external text" href="//doi.org/10.1103%2FPhysRevD.53.6730" rel="nofollow">
+            10.1103/PhysRevD.53.6730
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Physical+Review+D&amp;rft.atitle=Relativity+parameters+determined+from+lunar+laser+ranging&amp;rft.volume=53&amp;rft.issue=12&amp;rft.pages=6730-6739&amp;rft.date=1996&amp;rft_id=info%3Adoi%2F10.1103%2FPhysRevD.53.6730&amp;rft_id=info%3Abibcode%2F1996PhRvD..53.6730W&amp;rft.aulast=Williams&amp;rft.aufirst=J.+G.&amp;rft.au=Newhall%2C+X.+X.&amp;rft.au=Dickey%2C+J.+O.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+Laser+Ranging+experiment">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-19">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-19">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation journal">
+           Kopeikin, S.; Xie, Y. (2010). "Celestial reference frames and the gauge freedom in the post-Newtonian mechanics of the Earth–Moon system".
+           <i>
+            <a href="/wiki/Celestial_Mechanics_and_Dynamical_Astronomy" title="Celestial Mechanics and Dynamical Astronomy">
+             Celestial Mechanics and Dynamical Astronomy
+            </a>
+           </i>
+           .
+           <b>
+            108
+           </b>
+           (3): 245–263.
+           <a href="/wiki/Bibcode" title="Bibcode">
+            Bibcode
+           </a>
+           :
+           <a class="external text" href="http://adsabs.harvard.edu/abs/2010CeMDA.108..245K" rel="nofollow">
+            2010CeMDA.108..245K
+           </a>
+           .
+           <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+            doi
+           </a>
+           :
+           <a class="external text" href="//doi.org/10.1007%2Fs10569-010-9303-5" rel="nofollow">
+            10.1007/s10569-010-9303-5
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Celestial+Mechanics+and+Dynamical+Astronomy&amp;rft.atitle=Celestial+reference+frames+and+the+gauge+freedom+in+the+post-Newtonian+mechanics+of+the+Earth%E2%80%93Moon+system&amp;rft.volume=108&amp;rft.issue=3&amp;rft.pages=245-263&amp;rft.date=2010&amp;rft_id=info%3Adoi%2F10.1007%2Fs10569-010-9303-5&amp;rft_id=info%3Abibcode%2F2010CeMDA.108..245K&amp;rft.aulast=Kopeikin&amp;rft.aufirst=S.&amp;rft.au=Xie%2C+Y.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+Laser+Ranging+experiment">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+       </ol>
+      </div>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Lunar_Laser_Ranging_experiment&amp;action=edit&amp;section=7" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a class="external text" href="http://www.issibern.ch/teams/lunarlaser/#Team" rel="nofollow">
+         "Theory and Model for the New Generation of the Lunar Laser Ranging Data"
+        </a>
+        by
+        <a href="/wiki/Sergei_Kopeikin" title="Sergei Kopeikin">
+         Sergei Kopeikin
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://www.lpi.usra.edu/lunar/missions/apollo/apollo_15/experiments/lrr/" rel="nofollow">
+         Apollo 15 Experiments - Laser Ranging Retroreflector
+        </a>
+        by the
+        <a href="/wiki/Lunar_and_Planetary_Institute" title="Lunar and Planetary Institute">
+         Lunar and Planetary Institute
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://www.csr.utexas.edu/mlrs/history.html" rel="nofollow">
+         "History of Laser Ranging and MLRS"
+        </a>
+        by the
+        <a href="/wiki/University_of_Texas_at_Austin" title="University of Texas at Austin">
+         University of Texas at Austin
+        </a>
+        , Center for Space Research
+       </li>
+       <li>
+        <a class="external text" href="http://physics.ucsd.edu/~tmurphy/apollo/lrrr.html" rel="nofollow">
+         "Lunar Retroreflectors"
+        </a>
+        by Tom Murphy
+       </li>
+       <li>
+        <a class="external text" href="http://www.obs-azur.fr/cerga/laser/laslune/llr.htm" rel="nofollow">
+         Station de Télémétrie Laser-Lune
+        </a>
+        in
+        <a href="/wiki/Grasse" title="Grasse">
+         Grasse, France
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://ilrs.gsfc.nasa.gov/science/scienceContributions/lunar.html" rel="nofollow">
+         Lunar Laser Ranging
+        </a>
+        from International Laser Ranging Service
+       </li>
+       <li>
+        <a class="external text" href="http://www.washington.edu/news/2002/01/14/uw-researcher-plans-project-to-pin-down-moons-distance-from-earth/" rel="nofollow">
+         "UW researcher plans project to pin down moon's distance from Earth"
+        </a>
+        by Vince Stricherz,
+        <a href="/wiki/University_of_Washington" title="University of Washington">
+         UW Today
+        </a>
+        , 14 January 2002
+       </li>
+       <li>
+        <a class="external text" href="https://science.nasa.gov/science-news/science-at-nasa/2004/21jul_llr/" rel="nofollow">
+         "What Neil &amp; Buzz Left on the Moon"
+        </a>
+        by Science@NASA, 20 July 2004
+       </li>
+       <li>
+        <a class="external text" href="http://www.cnn.com/TECH/space/9907/21/apollo.experiment/" rel="nofollow">
+         "Apollo 11 Experiment Still Returning Results"
+        </a>
+        by Robin Lloyd,
+        <a href="/wiki/CNN" title="CNN">
+         CNN
+        </a>
+        , 21 July 1999
+       </li>
+      </ul>
+      <div aria-labelledby="The_Moon" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="3" scope="col" style="text-align: center;">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:The_Moon" title="Template:The Moon">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a href="/wiki/Template_talk:The_Moon" title="Template talk:The Moon">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:The_Moon&amp;action=edit">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="The_Moon" style="font-size:114%;margin:0 4em">
+           The
+           <a href="/wiki/Moon" title="Moon">
+            Moon
+           </a>
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          Physical
+          <br/>
+          properties
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Internal_structure_of_the_Moon" title="Internal structure of the Moon">
+              Internal structure
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Topography_of_the_Moon" title="Topography of the Moon">
+              Topography
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Atmosphere_of_the_Moon" title="Atmosphere of the Moon">
+              Atmosphere
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Gravitation_of_the_Moon" title="Gravitation of the Moon">
+              Gravity field
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Hill_sphere" title="Hill sphere">
+                Hill sphere
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Magnetic_field_of_the_Moon" title="Magnetic field of the Moon">
+              Magnetic field
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Sodium_tail_of_the_Moon" title="Sodium tail of the Moon">
+              Sodium tail
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Moonlight" title="Moonlight">
+              Moonlight
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Earthlight_(astronomy)" title="Earthlight (astronomy)">
+                Earthshine
+               </a>
+              </li>
+             </ul>
+            </li>
+           </ul>
+          </div>
+         </td>
+         <td class="navbox-image" rowspan="8" style="width:1px;padding:0px 0px 0px 2px">
+          <div>
+           <a class="image" href="/wiki/File:FullMoon2010.jpg" title="A full moon">
+            <img alt="A full moon" data-file-height="2452" data-file-width="2580" height="114" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/FullMoon2010.jpg/120px-FullMoon2010.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/FullMoon2010.jpg/180px-FullMoon2010.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e1/FullMoon2010.jpg/240px-FullMoon2010.jpg 2x" width="120"/>
+           </a>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Orbit_of_the_Moon" title="Orbit of the Moon">
+           Orbit
+          </a>
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Orbital_elements" title="Orbital elements">
+              Orbital elements
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_distance_(astronomy)" title="Lunar distance (astronomy)">
+                Distance
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Apsis" title="Apsis">
+                  Perigee &amp; apogee
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li>
+               <a href="/wiki/Lunar_node" title="Lunar node">
+                Nodes
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Nodal_period" title="Nodal period">
+                  Nodal period
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li>
+               <a href="/wiki/Lunar_precession" title="Lunar precession">
+                Precession
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Syzygy_(astronomy)" title="Syzygy (astronomy)">
+              Syzygy
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/New_moon" title="New moon">
+                New moon
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Full_moon" title="Full moon">
+                Full moon
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Eclipse" title="Eclipse">
+                Eclipses
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Lunar_eclipse" title="Lunar eclipse">
+                  Lunar eclipse
+                 </a>
+                 <ul>
+                  <li>
+                   <a href="/wiki/Total_penumbral_lunar_eclipse" title="Total penumbral lunar eclipse">
+                    Total penumbral lunar eclipse
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Tetrad_(astronomy)" title="Tetrad (astronomy)">
+                    Tetrad
+                   </a>
+                  </li>
+                 </ul>
+                </li>
+                <li>
+                 <a href="/wiki/Solar_eclipse" title="Solar eclipse">
+                  Solar eclipse
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Solar_eclipses_on_the_Moon" title="Solar eclipses on the Moon">
+                  Solar eclipses on the Moon
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Eclipse_cycle" title="Eclipse cycle">
+                  Eclipse cycle
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li>
+               <a href="/wiki/Supermoon" title="Supermoon">
+                Supermoon
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Tide" title="Tide">
+              Tide
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Tidal_force" title="Tidal force">
+                Tidal force
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Tidal_locking" title="Tidal locking">
+                Tidal locking
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Tidal_acceleration" title="Tidal acceleration">
+                Tidal acceleration
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Tidal_range" title="Tidal range">
+                Tidal range
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_mansion" title="Lunar mansion">
+              Lunar mansion
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          Surface &amp;
+          <br/>
+          <a href="/wiki/List_of_lunar_features" title="List of lunar features">
+           features
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Selenography" title="Selenography">
+              Selenography
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Lunar_terminator" title="Lunar terminator">
+              Terminator
+             </a>
+            </li>
+            <li>
+             Hemispheres
+             <ul>
+              <li>
+               <a href="/wiki/Near_side_of_the_Moon" title="Near side of the Moon">
+                Near side
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Far_side_of_the_Moon" title="Far side of the Moon">
+                Far side
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             Poles
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_north_pole" title="Lunar north pole">
+                North pole
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Lunar_south_pole" title="Lunar south pole">
+                South pole
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Face_on_Moon_South_Pole" title="Face on Moon South Pole">
+                  Face
+                 </a>
+                </li>
+               </ul>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_mare" title="Lunar mare">
+              Maria
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/List_of_maria_on_the_Moon" title="List of maria on the Moon">
+                List
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/List_of_mountains_on_the_Moon" title="List of mountains on the Moon">
+              Mountains
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Peak_of_eternal_light" title="Peak of eternal light">
+                Peak of eternal light
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/List_of_valleys_on_the_Moon" title="List of valleys on the Moon">
+              Valleys
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Moon#Volcanic_features" title="Moon">
+              Volcanic features
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_dome" title="Lunar dome">
+                Domes
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Caldera#The_Moon" title="Caldera">
+                Calderas
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Lunar_crater" title="Lunar crater">
+              Craters
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/List_of_craters_on_the_Moon" title="List of craters on the Moon">
+                List
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Ray_system#Lunar_rays" title="Ray system">
+                Ray systems
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Crater_of_eternal_darkness" title="Crater of eternal darkness">
+                Crater of eternal darkness
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Shackleton_(crater)" title="Shackleton (crater)">
+                Shackleton crater
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/South_Pole%E2%80%93Aitken_basin" title="South Pole–Aitken basin">
+                South Pole–Aitken basin
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_soil" title="Lunar soil">
+              Soil
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_swirls" title="Lunar swirls">
+                Swirls
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Rille" title="Rille">
+              Rilles
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Wrinkle_ridge" title="Wrinkle ridge">
+              Wrinkle ridges
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Moon_rock" title="Moon rock">
+              Rocks
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_basalt_70017" title="Lunar basalt 70017">
+                Lunar basalt 70017
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_water" title="Lunar water">
+              Water
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Space_weathering" title="Space weathering">
+              Space weathering
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Micrometeorite" title="Micrometeorite">
+                Micrometeorite
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Sputtering" title="Sputtering">
+                Sputtering
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Quake_(natural_phenomenon)#Moonquake" title="Quake (natural phenomenon)">
+              Quakes
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Transient_lunar_phenomenon" title="Transient lunar phenomenon">
+              Transient lunar phenomenon
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          Science
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Lunar_observation" title="Lunar observation">
+              Observation
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Libration#Lunar_libration" title="Libration">
+              Libration
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_theory" title="Lunar theory">
+              Lunar theory
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Origin_of_the_Moon" title="Origin of the Moon">
+              Origin
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Giant-impact_hypothesis" title="Giant-impact hypothesis">
+                Giant-impact hypothesis
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Theia_(planet)" title="Theia (planet)">
+                  Theia
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Lunar_magma_ocean" title="Lunar magma ocean">
+                  Lunar magma ocean
+                 </a>
+                </li>
+               </ul>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Geology_of_the_Moon" title="Geology of the Moon">
+              Geology
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_geologic_timescale" title="Lunar geologic timescale">
+                Timescale
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Late_Heavy_Bombardment" title="Late Heavy Bombardment">
+                  Late Heavy Bombardment
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li>
+               <a href="/wiki/Lunar_meteorite" title="Lunar meteorite">
+                Lunar meteorites
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/KREEP" title="KREEP">
+                KREEP
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             Experiments
+             <ul>
+              <li>
+               <a class="mw-selflink selflink">
+                Lunar laser ranging
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Apollo_Lunar_Surface_Experiments_Package" title="Apollo Lunar Surface Experiments Package">
+                ALSEP
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_sample_displays" title="Lunar sample displays">
+              Lunar sample displays
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Apollo_11_lunar_sample_display" title="Apollo 11 lunar sample display">
+                Apollo 11
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Apollo_17_lunar_sample_display" title="Apollo 17 lunar sample display">
+                Apollo 17
+               </a>
+              </li>
+             </ul>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Exploration_of_the_Moon" title="Exploration of the Moon">
+           Exploration
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/List_of_missions_to_the_Moon" title="List of missions to the Moon">
+              Missions
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Apollo_program" title="Apollo program">
+                Apollo program
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/List_of_lunar_probes" title="List of lunar probes">
+              Probes
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Moon_landing" title="Moon landing">
+              Landing
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Moon_landing_conspiracy_theories" title="Moon landing conspiracy theories">
+                Conspiracy theories
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Colonization_of_the_Moon" title="Colonization of the Moon">
+              Colonization
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tourism_on_the_Moon" title="Tourism on the Moon">
+              Tourism
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          Time-telling
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Lunar_calendar" title="Lunar calendar">
+              Lunar calendar
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Lunisolar_calendar" title="Lunisolar calendar">
+              Lunisolar calendar
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Month" title="Month">
+              Month
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_month" title="Lunar month">
+                Lunar month
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Nodal_period" title="Nodal period">
+                  Nodal period
+                 </a>
+                </li>
+               </ul>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Fortnight" title="Fortnight">
+              Fortnight
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Week" title="Week">
+              Sennight
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_mansion" title="Lunar mansion">
+              Lunar mansion
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Lunar_phase" title="Lunar phase">
+           Phases
+          </a>
+          &amp;
+          <br/>
+          names
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/New_moon" title="New moon">
+              New
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Full_moon" title="Full moon">
+              Full
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Full_moon#Full_moon_names" title="Full moon">
+                Names
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Crescent" title="Crescent">
+              Crescent
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Supermoon" title="Supermoon">
+              Super &amp; micro
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_eclipse" title="Lunar eclipse">
+              Blood
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Blue_moon" title="Blue moon">
+              Blue
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Black_moon" title="Black moon">
+              Black
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Dark_moon" title="Dark moon">
+              Dark
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Wet_moon" title="Wet moon">
+              Wet
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tetrad_(astronomy)" title="Tetrad (astronomy)">
+              Tetrad
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          Related
+          <br/>
+          topics
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             Psychology
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_effect" title="Lunar effect">
+                Lunar effect
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Moon_illusion" title="Moon illusion">
+                Moon illusion
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Pareidolia" title="Pareidolia">
+                Pareidolia
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Man_in_the_Moon" title="Man in the Moon">
+                  Man in the Moon
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Moon_rabbit" title="Moon rabbit">
+                  Moon rabbit
+                 </a>
+                </li>
+               </ul>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/List_of_people_with_craters_of_the_Moon_named_after_them" title="List of people with craters of the Moon named after them">
+              Craters named after people
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/List_of_extraterrestrial_memorials#The_Moon" title="List of extraterrestrial memorials">
+              Memorials on the Moon
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Moon_in_fiction" title="Moon in fiction">
+              Moon in fiction
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/List_of_lunar_deities" title="List of lunar deities">
+              Moon in mythology
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Hj%C3%BAki_and_Bil" title="Hjúki and Bil">
+                Hjúki and Bil
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             "
+             <a href="/wiki/The_Moon_is_made_of_green_cheese" title="The Moon is made of green cheese">
+              Moon is made of green cheese
+             </a>
+             "
+            </li>
+            <li>
+             <a href="/wiki/Natural_satellite" title="Natural satellite">
+              Natural satellite
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Double_planet" title="Double planet">
+              Double planet
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Planetary_objects_proposed_in_religion,_astrology,_ufology_and_pseudoscience#Lilith" title="Planetary objects proposed in religion, astrology, ufology and pseudoscience">
+              Lilith (hypothetical second moon)
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <td class="navbox-abovebelow" colspan="3" style="text-align: center;">
+          <div>
+           <ul>
+            <li>
+             <img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/>
+             <b>
+              <a href="/wiki/Category:Moon" title="Category:Moon">
+               Category
+              </a>
+             </b>
+            </li>
+            <li>
+             <img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/>
+             <b>
+              <a href="/wiki/Portal:Moon" title="Portal:Moon">
+               Moon portal
+              </a>
+             </b>
+            </li>
+            <li>
+             <img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/>
+             <b>
+              <a href="/wiki/Portal:Earth_sciences" title="Portal:Earth sciences">
+               Earth sciences portal
+              </a>
+             </b>
+            </li>
+            <li>
+             <img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/>
+             <b>
+              <a href="/wiki/Portal:Solar_System" title="Portal:Solar System">
+               Solar System portal
+              </a>
+             </b>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <div aria-labelledby="Apollo_program_hardware" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="2" scope="col">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:Apollo_program_hardware" title="Template:Apollo program hardware">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a href="/wiki/Template_talk:Apollo_program_hardware" title="Template talk:Apollo program hardware">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Apollo_program_hardware&amp;action=edit">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="Apollo_program_hardware" style="font-size:114%;margin:0 4em">
+           <a href="/wiki/Apollo_program" title="Apollo program">
+            Apollo program hardware
+           </a>
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Vehicles
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Apollo_(spacecraft)" title="Apollo (spacecraft)">
+              Apollo (spacecraft)
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Apollo_Command/Service_Module" title="Apollo Command/Service Module">
+              Apollo Command/Service Module
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Apollo_Lunar_Module" title="Apollo Lunar Module">
+              Apollo Lunar Module
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_Escape_Systems" title="Lunar Escape Systems">
+              Lunar Escape Systems
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_Roving_Vehicle" title="Lunar Roving Vehicle">
+              Lunar Roving Vehicle
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Saturn_V" title="Saturn V">
+              Saturn V
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Vehicle components
+         </th>
+         <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Apollo_Abort_Guidance_System" title="Apollo Abort Guidance System">
+              Apollo Abort Guidance System
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Apollo_Docking_Mechanism" title="Apollo Docking Mechanism">
+              Apollo Docking Mechanism
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Apollo_Guidance_Computer" title="Apollo Guidance Computer">
+              Apollo Guidance Computer
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Apollo_PGNCS" title="Apollo PGNCS">
+              Primary Guidance, Navigation and Control System
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Apollo_Telescope_Mount" title="Apollo Telescope Mount">
+              Apollo Telescope Mount
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Apollo_TV_camera" title="Apollo TV camera">
+              Apollo TV camera
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Saturn_Launch_Vehicle_Digital_Computer" title="Saturn Launch Vehicle Digital Computer">
+              Saturn Launch Vehicle Digital Computer
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Descent_Propulsion_System" title="Descent Propulsion System">
+              Descent Propulsion System
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Ascent_Propulsion_System" title="Ascent Propulsion System">
+              Ascent Propulsion System
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Lunar surface
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Apollo_Lunar_Surface_Experiments_Package" title="Apollo Lunar Surface Experiments Package">
+              Apollo Lunar Surface Experiments Package
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Apollo/Skylab_A7L" title="Apollo/Skylab A7L">
+              Apollo/Skylab A7L (spacesuit)
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Beta_cloth" title="Beta cloth">
+              Beta cloth
+             </a>
+            </li>
+            <li>
+             <a class="mw-selflink selflink">
+              Lunar Laser Ranging experiment
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Modular_Equipment_Transporter" title="Modular Equipment Transporter">
+              Modular Equipment Transporter
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_Wind_Composition_Experiment" title="Solar Wind Composition Experiment">
+              Solar Wind Composition Experiment
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Earth-based
+         </th>
+         <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Crawler-transporter" title="Crawler-transporter">
+              Crawler-transporter
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Little_Joe_II" title="Little Joe II">
+              Little Joe II
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_Landing_Research_Vehicle" title="Lunar Landing Research Vehicle">
+              Lunar Landing Research Vehicle
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Mobile_Launcher_Platform" title="Mobile Launcher Platform">
+              Mobile Launcher Platform
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Mobile_Quarantine_Facility" title="Mobile Quarantine Facility">
+              Mobile Quarantine Facility
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Symbolic
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Lunar_plaque" title="Lunar plaque">
+              Lunar plaque
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_Flag_Assembly" title="Lunar Flag Assembly">
+              Lunar Flag Assembly
+             </a>
+            </li>
+            <li>
+             <i>
+              <a href="/wiki/Fallen_Astronaut" title="Fallen Astronaut">
+               Fallen Astronaut
+              </a>
+             </i>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <td class="navbox-abovebelow" colspan="2">
+          <div>
+           <img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/>
+           <a href="/wiki/Category:Apollo_program" title="Category:Apollo program">
+            Category:Apollo program
+           </a>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1314
+Cached time: 20180322043551
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.344 seconds
+Real time usage: 0.420 seconds
+Preprocessor visited node count: 1546/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 75529/2097152 bytes
+Template argument size: 669/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 29240/5000000 bytes
+Lua time usage: 0.150/10.000 seconds
+Lua memory usage: 6.34 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  331.959      1 -total
+ 47.27%  156.918      1 Template:Reflist
+ 24.73%   82.092     10 Template:Cite_journal
+ 12.98%   43.079      4 Template:Convert
+  9.73%   32.286      2 Template:Navbox
+  8.98%   29.795      1 Template:The_Moon
+  6.78%   22.494      1 Template:10^
+  5.09%   16.882      1 Template:As_of
+  4.99%   16.561      1 Template:Val/delimitnum
+  4.75%   15.765      2 Template:DMCA
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:148634-0!canonical and timestamp 20180322043555 and revision id 831779774
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Lunar_Laser_Ranging_experiment&amp;oldid=831779774">
+      https://en.wikipedia.org/w/index.php?title=Lunar_Laser_Ranging_experiment&amp;oldid=831779774
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Lunar_science" title="Category:Lunar science">
+         Lunar science
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Apollo_program_hardware" title="Category:Apollo program hardware">
+         Apollo program hardware
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Tests_of_general_relativity" title="Category:Tests of general relativity">
+         Tests of general relativity
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:CS1_maint:_Date_format" title="Category:CS1 maint: Date format">
+         CS1 maint: Date format
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_2002" title="Category:Articles containing potentially dated statements from 2002">
+         Articles containing potentially dated statements from 2002
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">
+         All articles containing potentially dated statements
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Use_dmy_dates_from_March_2018" title="Category:Use dmy dates from March 2018">
+         Use dmy dates from March 2018
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Lunar+Laser+Ranging+experiment" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Lunar+Laser+Ranging+experiment" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Lunar_Laser_Ranging_experiment" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Lunar_Laser_Ranging_experiment" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Lunar_Laser_Ranging_experiment">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Lunar_Laser_Ranging_experiment&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Lunar_Laser_Ranging_experiment&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Lunar_Laser_Ranging_experiment" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Lunar_Laser_Ranging_experiment" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Lunar_Laser_Ranging_experiment&amp;oldid=831779774" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Lunar_Laser_Ranging_experiment&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q94741" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Lunar_Laser_Ranging_experiment&amp;id=831779774" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Lunar+Laser+Ranging+experiment">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Lunar+Laser+Ranging+experiment&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Lunar_Laser_Ranging_experiment&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9_%D8%A7%D9%84%D9%85%D8%AC%D8%A7%D9%84_%D8%A7%D9%84%D9%84%D9%8A%D8%B2%D8%B1%D9%8A_%D8%A7%D9%84%D9%82%D9%85%D8%B1%D9%8A" hreflang="ar" lang="ar" title="تجربة المجال الليزري القمري – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Lunar_Laser_Ranging_experiment" hreflang="ca" lang="ca" title="Lunar Laser Ranging experiment – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/LLR" hreflang="da" lang="da" title="LLR – Danish">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Lunar_Laser_Ranging" hreflang="de" lang="de" title="Lunar Laser Ranging – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Laser_Ranging_Retro-Reflector" hreflang="es" lang="es" title="Laser Ranging Retro-Reflector – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%A2%D8%B2%D9%85%D8%A7%DB%8C%D8%B4_%D9%81%D8%A7%D8%B5%D9%84%D9%87%E2%80%8C%D8%B3%D9%86%D8%AC%DB%8C_%D9%84%DB%8C%D8%B2%D8%B1%DB%8C_%D9%82%D9%85%D8%B1%DB%8C" hreflang="fa" lang="fa" title="آزمایش فاصله‌سنجی لیزری قمری – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/R%C3%A9flecteur_lunaire" hreflang="fr" lang="fr" title="Réflecteur lunaire – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EB%8B%AC_%EB%A0%88%EC%9D%B4%EC%A0%80_%EA%B1%B0%EB%A6%AC_%EC%B8%A1%EC%A0%95%EC%8B%A4%ED%97%98" hreflang="ko" lang="ko" title="달 레이저 거리 측정실험 – Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Eksperimen_Rentang_Laser_Bulan" hreflang="id" lang="id" title="Eksperimen Rentang Laser Bulan – Indonesian">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Esperimento_Lunar_Laser_Ranging" hreflang="it" lang="it" title="Esperimento Lunar Laser Ranging – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E6%9C%88%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E6%B8%AC%E8%B7%9D%E5%AE%9F%E9%A8%93" hreflang="ja" lang="ja" title="月レーザー測距実験 – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Transksi%C4%99%C5%BCycowa_transmisja_laserowa" hreflang="pl" lang="pl" title="Transksiężycowa transmisja laserowa – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D0%B7%D0%B5%D1%80%D0%BD%D0%B0%D1%8F_%D0%BB%D0%BE%D0%BA%D0%B0%D1%86%D0%B8%D1%8F_%D0%9B%D1%83%D0%BD%D1%8B" hreflang="ru" lang="ru" title="Лазерная локация Луны – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Lunar_Laser_Ranging" hreflang="sv" lang="sv" title="Lunar Laser Ranging – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9B%D0%B0%D0%B7%D0%B5%D1%80%D0%BD%D0%B0_%D0%BB%D0%BE%D0%BA%D0%B0%D1%86%D1%96%D1%8F_%D0%9C%D1%96%D1%81%D1%8F%D1%86%D1%8F" hreflang="uk" lang="uk" title="Лазерна локація Місяця – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E6%9C%88%E7%90%83%E6%BF%80%E5%85%89%E6%B5%8B%E8%B7%9D%E5%AE%9E%E9%AA%8C" hreflang="zh" lang="zh" title="月球激光测距实验 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q94741#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 22 March 2018, at 04:35.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Lunar_Laser_Ranging_experiment&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.344","walltime":"0.420","ppvisitednodes":{"value":1546,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":75529,"limit":2097152},"templateargumentsize":{"value":669,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":29240,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  331.959      1 -total"," 47.27%  156.918      1 Template:Reflist"," 24.73%   82.092     10 Template:Cite_journal"," 12.98%   43.079      4 Template:Convert","  9.73%   32.286      2 Template:Navbox","  8.98%   29.795      1 Template:The_Moon","  6.78%   22.494      1 Template:10^","  5.09%   16.882      1 Template:As_of","  4.99%   16.561      1 Template:Val/delimitnum","  4.75%   15.765      2 Template:DMCA"]},"scribunto":{"limitreport-timeusage":{"value":"0.150","limit":"10.000"},"limitreport-memusage":{"value":6649549,"limit":52428800}},"cachereport":{"origin":"mw1314","timestamp":"20180322043551","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":95,"wgHostname":"mw1331"});});
+  </script>
+ </body>
+</html>

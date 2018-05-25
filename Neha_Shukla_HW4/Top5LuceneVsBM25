@@ -1,0 +1,182 @@
+The given 10 queries can be divided in 2 groups:
+1. Containing highly frequent terms to our corpus domain such as 'solar' and 'eclipse'
+2. Non-frequent terms (frequency of terms in corpus is less than 50% of the corpus size)
+
+Observation and Reasoning:
+The idf-like component of the BM25 formula:
+log(((ri+0.5)/(R-ri+0.5))/((ni-ri+0.5)/(N-ni-R+ri+0.5))) will be negative for queries falling in the 1st category.
+For example, the frequency for ‘solar’(ni=726) and ‘eclipse’(ni=536) is more than half of the corpus size.
+
+Now, the BM25 scores for the documents containing ‘solar’ and ‘eclipse’ or for any such words in the corpus will be negative, and therefore these documents will have lower score in BM25 retrieval model. Due to this reason, the search results for the queries falling in the first category were not matched with their respective Lucene results. 
+Since Lucene follows 'Vector Space Model(matches the similarity of the query with the documents)' along with 'Boolean Model', this peculiarity cannot be seen in Lucene results.
+
+Query 1: ‘dark eclipse moon’
+
+************ Top 5 results for query ‘dark eclipse moon’ by Lucene:************
+1. Dark_moon score=0.39620388
+2. Magnitude_of_an_eclipse score=0.32668006
+3. Solar_eclipse_of_May_3,_1715 score=0.31974155
+4. Lunar_eclipse score=0.31349975
+5. Solar_eclipse_of_May_10,_1994 score=0.30670407
+
+************Top 5 results for query ‘dark eclipse moon’ by BM25Model:************
+1 Q0 Dark_moon 1 3.6169812226102414 BM25Model
+1 Q0 Solar_transition_region 2 3.3454898138199467 BM25Model
+1 Q0 Solar_corona 3 3.1238995663312403 BM25Model
+1 Q0 Corona 4 3.1238995663312403 BM25Model
+1 Q0 Civil_twilight 5 3.093919734722901 BM25Model
+
+Since the query 'dark eclipse moon' contains the word 'eclipse' and falls in the first category, the results found in the both the retrieval model are different.
+
+Query 2: ‘forecast models’
+************ Top 5 results for query ‘forecast models’ by Lucene:*************
+1. Solar_eclipse_of_September_4,_2100 score=0.14717504
+2. Solar_eclipse_of_August_18,_1868 score=0.11038128
+3. Film_finance score=0.104234986
+4. Solar_minimum score=0.091984406
+5. Wind_power score=0.08419746
+
+************ Top 5 results for query ‘forecast models’ by BM25Model:*************
+2 Q0 Solar_eclipse_of_September_4,_2100 1 6.540552374617118 BM25Model
+2 Q0 European_Network_of_Transmission_System_Operators_for_Electricity 2 5.895438109548198 BM25Model
+2 Q0 Solar_eclipse_of_August_18,_1868 3 5.7202070295875025 BM25Model
+2 Q0 Solar_minimum 4 5.21242761599047 BM25Model
+2 Q0 Space_weather 5 4.421756213525595 BM25Model
+
+For 'forecast model', 3/5 results are matched. Additionally, when I checked top 10 results, majority of the documents retrieved were same. And therefore, BM25 fared good when compared to its baseline Lucene for this type query(category 2).
+
+Query 3: 'total eclipse solar'
+************ Top 5 results for query ‘total eclipse solar’ by Lucene:*************
+1. Solar_Saros_146 score=0.5919373
+2. List_of_solar_eclipses_visible_from_Russia score=0.58668154
+3. Solar_Saros_126 score=0.5828672
+4. Solar_Saros_127 score=0.52723116
+5. Solar_Saros_136 score=0.5234302
+
+************ Top 5 results for query ‘total eclipse solar’ by BM25Model:*************
+3 Q0 Tetrad_(astronomy) 1 0.1116382230290475 BM25Model
+3 Q0 Film_budgeting 2 0.1046183136940276 BM25Model
+3 Q0 National_Grid_(Great_Britain) 3 0.10188302192417491 BM25Model
+3 Q0 Daily_production_report 4 0.0901342817730625 BM25Model
+3 Q0 Production_report 5 0.09006729755102026 BM25Model
+
+Since the query 'total eclipse solar' contains the word 'eclipse' as well as 'solar' and falls in the first category, the results found in the both the retrieval model are more or less different.
+
+Query 4: ‘japan continental airline’
+************ Top 5 results for query ‘japan continental airline’ by Lucene:*************
+1. Concorde score=0.11118209
+2. Synchronous_grid_of_Continental_Europe score=0.099336654
+3. Solar_eclipse_of_July_22,_2009 score=0.099107504
+4. Solar_flare score=0.06544059
+5. Indian_Ocean score=0.05176474
+
+************ Top 5 results for query ‘japan continental airline’ by BM25Model:*************
+4 Q0 Solar_eclipse_of_July_22,_2009 1 7.324691259178129 BM25Model
+4 Q0 Synchronous_grid_of_Continental_Europe 2 7.160365050672223 BM25Model
+4 Q0 Concorde 3 6.837082287889153 BM25Model
+4 Q0 Solar_eclipse_of_August_1,_2008 4 4.9226371619775176 BM25Model
+4 Q0 Solar_eclipse_of_July_11,_2010 5 4.861638164970077 BM25Model
+
+For query 'japan continental airline', 3/5 results are matched. Also for top 10 results, majority of the documents retrieved were same. And therefore, BM25 fared good when compared to its baseline Lucene for this type query(category2).
+
+Query 5: ‘japan continental airlines’
+************ Top 5 results for query ‘japan continental airlines’ by Lucene:*************
+1. Solar_eclipse_of_July_22,_2009 score=0.26508766
+2. Concorde score=0.22280288
+3. Novosibirsk score=0.19560212
+4. Indian_Ocean score=0.14426196
+5. Synchronous_grid_of_Continental_Europe score=0.09817394
+
+************ Top 5 results for query ‘japan continental airlines’ by BM25Model:*************
+5 Q0 Concorde 1 12.273222805890569 BM25Model
+5 Q0 Solar_eclipse_of_July_22,_2009 2 12.170320597249258 BM25Model
+5 Q0 Novosibirsk 3 8.420371219637598 BM25Model
+5 Q0 Indian_Ocean 4 7.540576685477393 BM25Model
+5 Q0 Synchronous_grid_of_Continental_Europe 5 7.160365050672223 BM25Model
+
+For query 'japan continental airlines', 5/5 results are matched. And therefore, BM25 has fared good for this type of query (category 2) when compared to its baseline Lucene.
+
+Query 6: ‘solar eclipse fiction’
+************ Top 5 results for query ‘solar eclipse fiction’ by Lucene:*************
+1. List_of_solar_eclipses_visible_from_Ukraine score=0.2734304
+2. Solar_eclipses_in_fiction score=0.27293077
+3. List_of_solar_eclipses_visible_from_the_Philippines score=0.26679802
+4. List_of_solar_eclipses_visible_from_Russia score=0.18814068
+5. Moon_in_fiction score=0.17880057
+
+************ Top 5 results for query ‘solar eclipse fiction’ by BM25Model:*************
+6 Q0 Ghostwrite 1 4.994213255157498 BM25Model
+6 Q0 Special_effect 2 3.8964279017815633 BM25Model
+6 Q0 Halys_River 3 3.8837036788081263 BM25Model
+6 Q0 Moon_in_fiction 4 3.857684723660241 BM25Model
+6 Q0 Imagination 5 3.5994993933109622 BM25Model
+
+Since the query 'solar eclipse fiction' contains the word 'eclipse' as well as 'solar' and falls in the first category, the results found in the both the retrieval model are different.
+
+Query 7: ‘2017 solar eclipse’
+************ Top 5 results for query ‘2017 solar eclipse’ by Lucene:*************
+1. List_of_solar_eclipses_visible_from_Ukraine score=0.91144055
+2. List_of_solar_eclipses_visible_from_the_Philippines score=0.88933253
+3. List_of_solar_eclipses_visible_from_Russia score=0.62713957
+4. Solar_Saros_126 score=0.5047136
+5. Solar_eclipse_of_August_12,_1654 score=0.47981954
+
+************ Top 5 results for query ‘2017 solar eclipse’ by BM25Model:*************
+7 Q0 Proceedings_of_the_Royal_Society 1 4.213926077037722 BM25Model
+7 Q0 YouTube 2 4.2091310516569935 BM25Model
+7 Q0 IMDb 3 4.011800176286372 BM25Model
+7 Q0 Physical_Review_D 4 3.7703544532714974 BM25Model
+7 Q0 Astronomy_Picture_of_the_Day 5 3.6147789088151256 BM25Model
+
+Since the query '2017 solar eclipse' contains the word 'eclipse' as well as 'solar' and falls in the first category, the results found in the both the retrieval model are different.
+
+Query 8: 'total eclipse lyrics'
+************ Top 5 results for query ‘total eclipse lyrics’ by Lucene:*************
+1. Solar_eclipse_of_July_10,_1972 score=0.36611512
+2. Solar_eclipses_in_fiction score=0.20009011
+3. Solar_Saros_146 score=0.13393295
+4. Blue_moon score=0.12725596
+5. Solar_Saros_139 score=0.12655474
+
+************ Top 5 results for query ‘total eclipse lyrics’ by BM25Model:*************
+8 Q0 Solar_eclipse_of_July_10,_1972 1 5.542212884951647 BM25Model
+8 Q0 Ghostwrite 2 4.958825562306459 BM25Model
+8 Q0 Blue_moon 3 3.380215600563143 BM25Model
+8 Q0 Solar_eclipses_in_fiction 4 2.9655179261341966 BM25Model
+8 Q0 Television_crew 5 2.5457782297620795 BM25Model
+
+Since the query 'total eclipse lyrics' contains the word 'eclipse' and falls in the first category, the results found in the both the retrieval model are different.
+
+Query 9: 'nordic marine animals'
+************ Top 5 results for query ‘nordic marine animals’ by Lucene:*************
+1. Lunar_effect score=0.07084959
+2. Synchronous_grid_of_Continental_Europe score=0.06496068
+3. Tide score=0.062622786
+4. Production_schedule score=0.057547167
+5. Indian_Ocean score=0.041422624
+
+************ Top 5 results for query ‘nordic marine animals’ by BM25Model:*************
+9 Q0 Synchronous_grid_of_Continental_Europe 1 7.960730598556595 BM25Model
+9 Q0 Tide 2 6.780996871676049 BM25Model
+9 Q0 Indian_Ocean 3 6.711303528419802 BM25Model
+9 Q0 Lunar_effect 4 6.382156328236748 BM25Model
+9 Q0 Aristotle 5 5.977009185604285 BM25Model
+
+For query 'nordic marine animals', 4/5 results are matched. And therefore, BM25 has fared good for this type of query (category 2) when compared to its baseline Lucene.
+
+Query 10: ‘volcanic eruptions tornadoes eruption tornado’
+************ Top 5 results for query ‘volcanic eruptions tornadoes eruption tornado’ by Lucene:*************
+1. Natural_phenomenon score=0.73976463
+2. Caldera#The_Moon score=0.21551417
+3. Lunar_mare score=0.14180207
+4. Blue_moon score=0.07586759
+5. Earth score=0.06034781
+
+************ Top 5 results for query ‘volcanic eruptions tornadoes eruption tornado’ by BM25Model:*************
+10 Q0 Natural_phenomenon 1 31.798563770938543 BM25Model
+10 Q0 Caldera#The_Moon 2 20.801287841275382 BM25Model
+10 Q0 Lunar_mare 3 15.229096659354518 BM25Model
+10 Q0 Blue_moon 4 10.485577168506198 BM25Model
+10 Q0 Geology_of_the_Moon 5 10.01949277205312 BM25Model
+
+For query 'volcanic eruptions tornadoes eruption tornado', 4/5 results are matched along with the rankings in each model. And therefore, BM25 has done well for this type of query (category 2) when compared to its baseline Lucene.

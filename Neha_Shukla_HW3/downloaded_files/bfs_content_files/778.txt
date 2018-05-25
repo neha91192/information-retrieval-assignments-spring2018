@@ -1,0 +1,1231 @@
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Rille - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Rille","wgTitle":"Rille","wgCurRevisionId":828719671,"wgRevisionId":828719671,"wgArticleId":865944,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from June 2016","All articles needing additional references","Geological features on the Moon","Valleys and canyons on Mars","Planetary geology","Volcanic landforms"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Rille","wgRelevantArticleId":865944,"wgRequestId":"WrRSZApAMFYAAFza7jkAAABE","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q1432092","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.26" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gassendi_AS16-120-19295.jpg" property="og:image"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Rille" rel="alternate"/>
+  <link href="/w/index.php?title=Rille&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Rille&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Rille" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Rille rootpage-Rille skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Rille
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <div class="hatnote navigation-not-searchable" role="note">
+       This article is about lunar features. For other uses, see
+       <a class="mw-disambig" href="/wiki/Rille_(disambiguation)" title="Rille (disambiguation)">
+        Rille (disambiguation)
+       </a>
+       .
+      </div>
+      <table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+       <tr>
+        <td class="mbox-image">
+         <div style="width:52px">
+          <a class="image" href="/wiki/File:Question_book-new.svg">
+           <img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/>
+          </a>
+         </div>
+        </td>
+        <td class="mbox-text">
+         <div class="mbox-text-span">
+          This article
+          <b>
+           needs additional citations for
+           <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">
+            verification
+           </a>
+          </b>
+          .
+          <span class="hide-when-compact">
+           Please help
+           <a class="external text" href="//en.wikipedia.org/w/index.php?title=Rille&amp;action=edit">
+            improve this article
+           </a>
+           by
+           <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">
+            adding citations to reliable sources
+           </a>
+           . Unsourced material may be challenged and removed.
+          </span>
+          <small>
+           <i>
+            (June 2016)
+           </i>
+          </small>
+          <small class="hide-when-compact">
+           <i>
+            (
+            <a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">
+             Learn how and when to remove this template message
+            </a>
+            )
+           </i>
+          </small>
+         </div>
+        </td>
+       </tr>
+      </table>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Gassendi_AS16-120-19295.jpg">
+         <img alt="" class="thumbimage" data-file-height="1006" data-file-width="994" height="223" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gassendi_AS16-120-19295.jpg/220px-Gassendi_AS16-120-19295.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gassendi_AS16-120-19295.jpg/330px-Gassendi_AS16-120-19295.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gassendi_AS16-120-19295.jpg/440px-Gassendi_AS16-120-19295.jpg 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Gassendi_AS16-120-19295.jpg" title="Enlarge">
+          </a>
+         </div>
+         Rimae on the floor of the lunar crater
+         <a href="/wiki/Gassendi_(crater)" title="Gassendi (crater)">
+          Gassendi
+         </a>
+         , from
+         <a href="/wiki/Apollo_16" title="Apollo 16">
+          Apollo 16
+         </a>
+         .
+        </div>
+       </div>
+      </div>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:PIA08598_modest.jpg">
+         <img alt="" class="thumbimage" data-file-height="1427" data-file-width="699" height="449" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/PIA08598_modest.jpg/220px-PIA08598_modest.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/PIA08598_modest.jpg/330px-PIA08598_modest.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/01/PIA08598_modest.jpg/440px-PIA08598_modest.jpg 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:PIA08598_modest.jpg" title="Enlarge">
+          </a>
+         </div>
+         <a href="/wiki/Mamers_Valles" title="Mamers Valles">
+          Mamers Valles
+         </a>
+         rille on Mars.
+        </div>
+       </div>
+      </div>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Rima_Ariadaeus-1.jpg">
+         <img alt="" class="thumbimage" data-file-height="4128" data-file-width="4128" height="220" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Rima_Ariadaeus-1.jpg/220px-Rima_Ariadaeus-1.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Rima_Ariadaeus-1.jpg/330px-Rima_Ariadaeus-1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/Rima_Ariadaeus-1.jpg/440px-Rima_Ariadaeus-1.jpg 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Rima_Ariadaeus-1.jpg" title="Enlarge">
+          </a>
+         </div>
+         <a href="/wiki/Rima_Ariadaeus" title="Rima Ariadaeus">
+          Rima Ariadaeus
+         </a>
+         is categorized as a straight and branching rille and is over 300 km in length.
+        </div>
+       </div>
+      </div>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Apollo_15_Hadley_Rille.jpg">
+         <img alt="" class="thumbimage" data-file-height="1012" data-file-width="1012" height="220" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Apollo_15_Hadley_Rille.jpg/220px-Apollo_15_Hadley_Rille.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Apollo_15_Hadley_Rille.jpg/330px-Apollo_15_Hadley_Rille.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Apollo_15_Hadley_Rille.jpg/440px-Apollo_15_Hadley_Rille.jpg 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Apollo_15_Hadley_Rille.jpg" title="Enlarge">
+          </a>
+         </div>
+         Hadley Rille at center
+        </div>
+       </div>
+      </div>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Hadley_Sinuous_Rille.jpg">
+         <img alt="" class="thumbimage" data-file-height="912" data-file-width="736" height="273" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Hadley_Sinuous_Rille.jpg/220px-Hadley_Sinuous_Rille.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Hadley_Sinuous_Rille.jpg/330px-Hadley_Sinuous_Rille.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/61/Hadley_Sinuous_Rille.jpg/440px-Hadley_Sinuous_Rille.jpg 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Hadley_Sinuous_Rille.jpg" title="Enlarge">
+          </a>
+         </div>
+         Hadley Rille is a sinuous rille for which NASA says that they don't have a (final and definite) conclusion on how it formed.
+         <sup class="reference" id="cite_ref-history.nasa_1-0">
+          <a href="#cite_note-history.nasa-1">
+           [1]
+          </a>
+         </sup>
+        </div>
+       </div>
+      </div>
+      <p>
+       <b>
+        Rille
+       </b>
+       (German for 'groove') is typically used to describe any of the long, narrow depressions in the surface of the
+       <a href="/wiki/Moon" title="Moon">
+        Moon
+       </a>
+       that resemble
+       <a href="/wiki/Channel_(geography)" title="Channel (geography)">
+        channels
+       </a>
+       . The Latin term is
+       <i>
+        rima
+       </i>
+       , plural
+       <i>
+        rimae
+       </i>
+       . Typically a rille can be up to several kilometers wide and hundreds of kilometers in length. However, the term has also been used loosely to describe similar structures on a number of planets in the Solar System, including Mars, Venus, and on a number of moons. All bear a structural resemblance to each other.
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Structures">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Structures
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#Formation">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Formation
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-3">
+           <a href="#Sinuous_rilles">
+            <span class="tocnumber">
+             2.1
+            </span>
+            <span class="toctext">
+             Sinuous rilles
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-4">
+         <a href="#See_also">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-5">
+         <a href="#References">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Structures">
+        Structures
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Rille&amp;action=edit&amp;section=1" title="Edit section: Structures">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Three types of rille are found on the
+       <a href="/wiki/Moon" title="Moon">
+        lunar
+       </a>
+       surface:
+      </p>
+      <ul>
+       <li>
+        <b>
+         Sinuous rilles
+        </b>
+        <a href="/wiki/Meander" title="Meander">
+         meander
+        </a>
+        in a curved path like a mature river, and are commonly thought to be the remains of collapsed
+        <a href="/wiki/Lava_tube" title="Lava tube">
+         lava tubes
+        </a>
+        or extinct
+        <a href="/wiki/Lava" title="Lava">
+         lava
+        </a>
+        flows. They usually begin at an extinct
+        <a href="/wiki/Volcano" title="Volcano">
+         volcano
+        </a>
+        , then meander and sometimes split as they are followed across the surface.
+        <a class="mw-redirect" href="/wiki/Vallis_Schr%C3%B6teri" title="Vallis Schröteri">
+         Vallis Schröteri
+        </a>
+        in
+        <a href="/wiki/Oceanus_Procellarum" title="Oceanus Procellarum">
+         Oceanus Procellarum
+        </a>
+        is the largest sinuous rille, and
+        <a class="mw-redirect" href="/wiki/Rima_Hadley" title="Rima Hadley">
+         Rima Hadley
+        </a>
+        is the only one visited by humans, on the
+        <a href="/wiki/Apollo_15" title="Apollo 15">
+         Apollo 15
+        </a>
+        mission. Another prominent example is
+        <a href="/wiki/Herigonius_(crater)" title="Herigonius (crater)">
+         Rima Herigonius
+        </a>
+        .
+       </li>
+       <li>
+        <b>
+         Arcuate
+        </b>
+        rilles have a smooth curve and are found on the edges of the dark
+        <a href="/wiki/Lunar_mare" title="Lunar mare">
+         lunar maria
+        </a>
+        . They are believed to have formed when the
+        <a href="/wiki/Lava" title="Lava">
+         lava
+        </a>
+        flows that created a
+        <a href="/wiki/Lunar_mare" title="Lunar mare">
+         mare
+        </a>
+        cooled, contracted, and sank. These are found all over the moon, examples can be seen near the south-western border of
+        <a href="/wiki/Mare_Tranquillitatis" title="Mare Tranquillitatis">
+         Mare Tranquillitatis
+        </a>
+        and on the south-eastern border of
+        <a href="/wiki/Mare_Humorum" title="Mare Humorum">
+         Mare Humorum
+        </a>
+        .
+        <a href="/wiki/Sulpicius_Gallus_(crater)" title="Sulpicius Gallus (crater)">
+         Rima Sulpicius Gallus
+        </a>
+        is a clear example in southwestern
+        <a href="/wiki/Mare_Serenitatis" title="Mare Serenitatis">
+         Mare Serenitatis
+        </a>
+        .
+       </li>
+       <li>
+        <b>
+         Straight rilles
+        </b>
+        follow long, linear paths and are believed to be
+        <a href="/wiki/Graben" title="Graben">
+         grabens
+        </a>
+        , sections of the crust that have sunk between two parallel
+        <a class="mw-redirect" href="/wiki/Geologic_fault" title="Geologic fault">
+         faults
+        </a>
+        . These can be readily identified when they pass through
+        <a href="/wiki/Impact_crater" title="Impact crater">
+         craters
+        </a>
+        or mountain ranges.
+        <a href="/wiki/Vallis_Alpes" title="Vallis Alpes">
+         Vallis Alpes
+        </a>
+        is by far the largest graben rille, indeed it is regarded as too large to be called a rille and is itself bisected by a sinuous rille;
+        <a href="/wiki/Rima_Ariadaeus" title="Rima Ariadaeus">
+         Rima Ariadaeus
+        </a>
+        , west of
+        <a href="/wiki/Mare_Tranquillitatis" title="Mare Tranquillitatis">
+         Mare Tranquillitatis
+        </a>
+        , is a clearer example.
+       </li>
+      </ul>
+      <p>
+       Rilles which show more than one structure are termed hybrid rilles.
+       <a class="new" href="/w/index.php?title=Rima_Hyginus&amp;action=edit&amp;redlink=1" title="Rima Hyginus (page does not exist)">
+        Rima Hyginus
+       </a>
+       in
+       <a href="/wiki/Sinus_Medii" title="Sinus Medii">
+        Sinus Medii
+       </a>
+       is an example, initially formed through a fault and subsequently subject to volcanic activity.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Formation">
+        Formation
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Rille&amp;action=edit&amp;section=2" title="Edit section: Formation">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Precise formation mechanisms of rilles have yet to be determined. It is likely that different types formed by different processes. Common features shared by lunar rilles and similar structures on other bodies suggest that common causative mechanisms operate widely in the solar system. Leading theories include
+       <a href="/wiki/Lava_channel" title="Lava channel">
+        lava channels
+       </a>
+       , collapsed lava tubes, near-surface dike intrusion, nuée ardente (pyroclastic cloud), subsidence of lava-covered basin and crater floors, and tectonic extension. On-site examination would be necessary to clarify exact methods.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Sinuous_rilles">
+        Sinuous rilles
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Rille&amp;action=edit&amp;section=3" title="Edit section: Sinuous rilles">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       According to NASA, the origin of lunar sinuous rilles remains controversial.
+       <sup class="reference" id="cite_ref-history.nasa_1-1">
+        <a href="#cite_note-history.nasa-1">
+         [1]
+        </a>
+       </sup>
+       The
+       <a class="mw-redirect" href="/wiki/Hadley_Rille" title="Hadley Rille">
+        Hadley Rille
+       </a>
+       is a 1.5 km wide and over 300 m deep sinuous rille. It is thought to be a giant conduit that carried lava from an eruptive vent far to the south. Topographic information obtained from the
+       <a href="/wiki/Apollo_15" title="Apollo 15">
+        Apollo 15
+       </a>
+       photographs supports this possibility; however, many puzzles about the rille remain.
+       <sup class="reference" id="cite_ref-history.nasa_1-2">
+        <a href="#cite_note-history.nasa-1">
+         [1]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Rille&amp;action=edit&amp;section=4" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a href="/wiki/Arachnoid_(astrogeology)" title="Arachnoid (astrogeology)">
+         Arachnoid (astrogeology)
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Chaos_terrain" title="Chaos terrain">
+         Chaos terrain
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Dark_dune_spot" title="Dark dune spot">
+         Dark dune spot
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/List_of_features_on_the_Moon" title="List of features on the Moon">
+         List of features on the Moon
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Lunar_lava_tube" title="Lunar lava tube">
+         Lunar lava tube
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Martian_spiders" title="Martian spiders">
+         Martian spiders
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Planetary_geology" title="Planetary geology">
+         Planetary geology
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Splitting_of_the_moon" title="Splitting of the moon">
+         Splitting of the moon
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Rille&amp;action=edit&amp;section=5" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist" style="list-style-type: decimal;">
+       <div class="mw-references-wrap">
+        <ol class="references">
+         <li id="cite_note-history.nasa-1">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-history.nasa_1-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-history.nasa_1-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-history.nasa_1-2">
+            <sup>
+             <i>
+              <b>
+               c
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://history.nasa.gov/SP-362/ch6.2.htm" rel="nofollow">
+             "ch6.2"
+            </a>
+            . History.nasa.gov
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              2012-09-17
+             </span>
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=ch6.2&amp;rft.pub=History.nasa.gov&amp;rft_id=https%3A%2F%2Fhistory.nasa.gov%2FSP-362%2Fch6.2.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARille">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <dl>
+       <dt>
+        General
+       </dt>
+      </dl>
+      <div class="refbegin" style="">
+       <ul>
+        <li>
+         Ewen A. Whitaker,
+         <i>
+          Mapping and Naming the Moon
+         </i>
+         , Cambridge University Press,
+         <a href="/wiki/1999_in_literature" title="1999 in literature">
+          1999
+         </a>
+         ,
+         <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+          ISBN
+         </a>
+         <a href="/wiki/Special:BookSources/0-521-62248-4" title="Special:BookSources/0-521-62248-4">
+          0-521-62248-4
+         </a>
+         .
+        </li>
+        <li>
+         American Astronomers Report:
+         <i>
+          What Formed the Moon's Sinuous Rilles?
+         </i>
+         , Sky &amp; Telescope, Vol. XXVI, No. 1, July, 1963.
+        </li>
+        <li>
+         <a class="external text" href="http://www.lpi.usra.edu/lunar/rilles/" rel="nofollow">
+          Atlas of Lunar Sinuous Rilles
+         </a>
+        </li>
+       </ul>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1312
+Cached time: 20180304100253
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.132 seconds
+Real time usage: 0.176 seconds
+Preprocessor visited node count: 478/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 6478/2097152 bytes
+Template argument size: 480/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 1/500
+Lua time usage: 0.054/10.000 seconds
+Lua memory usage: 1.85 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  149.524      1 -total
+ 37.89%   56.653      1 Template:Reflist
+ 29.39%   43.942      1 Template:Cite_web
+ 23.85%   35.667      1 Template:Refimprove
+ 19.91%   29.773      1 Template:Ambox
+ 18.06%   27.008      1 Template:ISBN
+ 15.22%   22.758      1 Template:About
+  8.25%   12.330      1 Template:Catalog_lookup_link
+  3.60%    5.381      1 Template:Error-small
+  2.60%    3.881      3 Template:Yesno-no
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:865944-0!canonical and timestamp 20180304100257 and revision id 828719671
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Rille&amp;oldid=828719671">
+      https://en.wikipedia.org/w/index.php?title=Rille&amp;oldid=828719671
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Geological_features_on_the_Moon" title="Category:Geological features on the Moon">
+         Geological features on the Moon
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Valleys_and_canyons_on_Mars" title="Category:Valleys and canyons on Mars">
+         Valleys and canyons on Mars
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Planetary_geology" title="Category:Planetary geology">
+         Planetary geology
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Volcanic_landforms" title="Category:Volcanic landforms">
+         Volcanic landforms
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Articles_needing_additional_references_from_June_2016" title="Category:Articles needing additional references from June 2016">
+         Articles needing additional references from June 2016
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">
+         All articles needing additional references
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Rille" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Rille" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Rille" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Rille" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Rille">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Rille&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Rille&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Rille" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Rille" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Rille&amp;oldid=828719671" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Rille&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1432092" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Rille&amp;id=828719671" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Rille">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Rille&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Rille&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Category:Rilles_of_the_Moon" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%A3%D8%AE%D8%AF%D9%88%D8%AF_%D9%82%D9%85%D8%B1%D9%8A" hreflang="ar" lang="ar" title="أخدود قمري – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs badge-Q17437798 badge-goodarticle" title="good article">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Sinuous_rilles" hreflang="cs" lang="cs" title="Sinuous rilles – Czech">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Kanal_(solsystemet)" hreflang="da" lang="da" title="Kanal (solsystemet) – Danish">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Mondrille" hreflang="de" lang="de" title="Mondrille – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Rima_(geolog%C3%ADa)" hreflang="es" lang="es" title="Rima (geología) – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Crevasse_(lunaire)" hreflang="fr" lang="fr" title="Crevasse (lunaire) – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Rima_(esogeologia)" hreflang="it" lang="it" title="Rima (esogeologia) – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lb">
+        <a class="interlanguage-link-target" href="https://lb.wikipedia.org/wiki/Moundrill" hreflang="lb" lang="lb" title="Moundrill – Luxembourgish">
+         Lëtzebuergesch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Rille" hreflang="nl" lang="nl" title="Rille – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%AB_(%E6%9C%88)" hreflang="ja" lang="ja" title="リル (月) – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Kanal_(solsystemet)" hreflang="sv" lang="sv" title="Kanal (solsystemet) – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E6%9C%88%E6%BA%AA" hreflang="zh" lang="zh" title="月溪 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1432092#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 4 March 2018, at 10:02.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Rille&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.132","walltime":"0.176","ppvisitednodes":{"value":478,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":6478,"limit":2097152},"templateargumentsize":{"value":480,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  149.524      1 -total"," 37.89%   56.653      1 Template:Reflist"," 29.39%   43.942      1 Template:Cite_web"," 23.85%   35.667      1 Template:Refimprove"," 19.91%   29.773      1 Template:Ambox"," 18.06%   27.008      1 Template:ISBN"," 15.22%   22.758      1 Template:About","  8.25%   12.330      1 Template:Catalog_lookup_link","  3.60%    5.381      1 Template:Error-small","  2.60%    3.881      3 Template:Yesno-no"]},"scribunto":{"limitreport-timeusage":{"value":"0.054","limit":"10.000"},"limitreport-memusage":{"value":1937583,"limit":52428800}},"cachereport":{"origin":"mw1312","timestamp":"20180304100253","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":87,"wgHostname":"mw1251"});});
+  </script>
+ </body>
+</html>

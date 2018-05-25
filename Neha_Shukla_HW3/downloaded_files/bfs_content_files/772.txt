@@ -1,0 +1,1038 @@
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Ray system - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Ray_system","wgTitle":"Ray system","wgCurRevisionId":819127739,"wgRevisionId":819127739,"wgArticleId":898959,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Impact craters"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Ray_system","wgRelevantArticleId":898959,"wgRequestId":"WrR3awpAAEEAAJjVjnEAAACE","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q1478661","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.26" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Fresh_impact_crater_HiRise_2013.jpg/1200px-Fresh_impact_crater_HiRise_2013.jpg" property="og:image"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Ray_system" rel="alternate"/>
+  <link href="/w/index.php?title=Ray_system&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Ray_system&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Ray_system" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Ray_system rootpage-Ray_system skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Ray system
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Fresh_impact_crater_HiRise_2013.jpg">
+         <img alt="" class="thumbimage" data-file-height="1200" data-file-width="1920" height="138" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Fresh_impact_crater_HiRise_2013.jpg/220px-Fresh_impact_crater_HiRise_2013.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Fresh_impact_crater_HiRise_2013.jpg/330px-Fresh_impact_crater_HiRise_2013.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Fresh_impact_crater_HiRise_2013.jpg/440px-Fresh_impact_crater_HiRise_2013.jpg 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Fresh_impact_crater_HiRise_2013.jpg" title="Enlarge">
+          </a>
+         </div>
+         Fresh
+         <a href="/wiki/Impact_crater" title="Impact crater">
+          impact crater
+         </a>
+         on
+         <a href="/wiki/Mars" title="Mars">
+          Mars
+         </a>
+         showing a prominent ray system of
+         <a href="/wiki/Ejecta" title="Ejecta">
+          ejecta
+         </a>
+         . This 30 m (98 ft) diameter crater formed between July 2010 and May 2012 (19 November 2013;
+         <span class="plainlinks nourlexpansion">
+          <a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Ray_system&amp;params=3.7_N_53.4_E_globe:Mars">
+           <span class="geo-nondefault">
+            <span class="geo-dms" title="Maps, aerial photos, and other data for this location">
+             <span class="latitude">
+              3°42′N
+             </span>
+             <span class="longitude">
+              53°24′E
+             </span>
+            </span>
+           </span>
+           <span class="geo-multi-punct">
+            ﻿ / ﻿
+           </span>
+           <span class="geo-default">
+            <span class="geo-dec" title="Maps, aerial photos, and other data for this location">
+             3.7°N 53.4°E
+            </span>
+            <span style="display:none">
+             ﻿ /
+             <span class="geo">
+              3.7; 53.4
+             </span>
+            </span>
+           </span>
+          </a>
+         </span>
+         ).
+         <sup class="reference" id="cite_ref-1">
+          <a href="#cite_note-1">
+           [1]
+          </a>
+         </sup>
+        </div>
+       </div>
+      </div>
+      <p>
+       A
+       <b>
+        ray system
+       </b>
+       comprises radial streaks of fine
+       <i>
+        <a href="/wiki/Ejecta" title="Ejecta">
+         ejecta
+        </a>
+       </i>
+       thrown out during the formation of an
+       <a href="/wiki/Impact_crater" title="Impact crater">
+        impact crater
+       </a>
+       , looking somewhat like many thin spokes coming from the hub of a wheel. The
+       <a class="mw-redirect" href="/wiki/Line_(mathematics)#Ray" title="Line (mathematics)">
+        rays
+       </a>
+       may extend for lengths up to several times the
+       <a href="/wiki/Diameter" title="Diameter">
+        diameter
+       </a>
+       of their originating crater, and are often accompanied by small secondary craters formed by larger chunks of ejecta. Ray systems have been identified on the
+       <a href="/wiki/Moon" title="Moon">
+        Moon
+       </a>
+       ,
+       <a href="/wiki/Earth" title="Earth">
+        Earth
+       </a>
+       (
+       <a href="/wiki/Kamil_Crater" title="Kamil Crater">
+        Kamil Crater
+       </a>
+       ),
+       <a href="/wiki/Mercury_(planet)" title="Mercury (planet)">
+        Mercury
+       </a>
+       , and some
+       <a href="/wiki/Natural_satellite" title="Natural satellite">
+        moons
+       </a>
+       of the outer planets. Originally it was thought that they existed only on
+       <a href="/wiki/Planet" title="Planet">
+        planets
+       </a>
+       or moons lacking an
+       <a class="mw-redirect" href="/wiki/Celestial_body_atmosphere" title="Celestial body atmosphere">
+        atmosphere
+       </a>
+       , but more recently they have been identified on
+       <a href="/wiki/Mars" title="Mars">
+        Mars
+       </a>
+       in infrared images taken from orbit by
+       <i>
+        <a href="/wiki/2001_Mars_Odyssey" title="2001 Mars Odyssey">
+         2001 Mars Odyssey
+        </a>
+       </i>
+       <span class="nowrap" style="padding-left:0.1em;">
+        '
+       </span>
+       s
+       <a href="/wiki/Thermal_Emission_Imaging_System" title="Thermal Emission Imaging System">
+        thermal imager
+       </a>
+       .
+      </p>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:252px;">
+        <a class="image" href="/wiki/File:Gratteri.jpg">
+         <img alt="" class="thumbimage" data-file-height="427" data-file-width="500" height="214" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gratteri.jpg/250px-Gratteri.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gratteri.jpg/375px-Gratteri.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/c/cd/Gratteri.jpg 2x" width="250"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Gratteri.jpg" title="Enlarge">
+          </a>
+         </div>
+         Gratteri crater, a rayed crater on
+         <a href="/wiki/Mars" title="Mars">
+          Mars
+         </a>
+         that was imaged by
+         <a href="/wiki/Thermal_Emission_Imaging_System" title="Thermal Emission Imaging System">
+          THEMIS
+         </a>
+         at night. Image covers an area 32 km across.
+        </div>
+       </div>
+      </div>
+      <p>
+       Rays appear at visible, and in some cases infrared wavelengths, when ejecta are made of material with different reflectivity (i.e.,
+       <a href="/wiki/Albedo" title="Albedo">
+        albedo
+       </a>
+       ) or thermal properties from the surface on which they are deposited. Typically, visible rays have a higher albedo than the surrounding surface. More rarely an impact will excavate low albedo material, for example
+       <a href="/wiki/Basalt" title="Basalt">
+        basaltic
+       </a>
+       -
+       <a href="/wiki/Lava" title="Lava">
+        lava
+       </a>
+       deposits on the
+       <a href="/wiki/Lunar_mare" title="Lunar mare">
+        lunar maria
+       </a>
+       . Thermal rays, as seen on Mars, are especially apparent at night when slopes and shadows do not influence the infrared energy emitted by the Martian surface.
+      </p>
+      <p>
+       The layering of rays across other surface features can be useful as an indicator of the relative age of the impact crater, because over time various processes obliterate the rays. On non-atmosphered bodies such as the Moon,
+       <a href="/wiki/Space_weathering" title="Space weathering">
+        space weathering
+       </a>
+       from exposure to
+       <a href="/wiki/Cosmic_ray" title="Cosmic ray">
+        cosmic rays
+       </a>
+       and
+       <a class="mw-redirect" href="/wiki/Meteor" title="Meteor">
+        micrometeorites
+       </a>
+       causes a steady reduction of the differential between the ejecta's albedo and that of the underlying material. Micrometeorites in particular produce a glassy melt in the
+       <a href="/wiki/Regolith" title="Regolith">
+        regolith
+       </a>
+       that lowers the
+       <a href="/wiki/Albedo" title="Albedo">
+        albedo
+       </a>
+       . Rays can also become covered by
+       <a href="/wiki/Lava" title="Lava">
+        lava
+       </a>
+       flows, or by other impact craters or ejecta.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Lunar_rays">
+        Lunar rays
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Ray_system&amp;action=edit&amp;section=1" title="Edit section: Lunar rays">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:242px;">
+        <a class="image" href="/wiki/File:AS15-94-12836.jpg">
+         <img alt="" class="thumbimage" data-file-height="909" data-file-width="900" height="242" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/AS15-94-12836.jpg/240px-AS15-94-12836.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/AS15-94-12836.jpg/360px-AS15-94-12836.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/AS15-94-12836.jpg/480px-AS15-94-12836.jpg 2x" width="240"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:AS15-94-12836.jpg" title="Enlarge">
+          </a>
+         </div>
+         Asymmetrical ray system about the lunar crater
+         <a href="/wiki/Proclus_(crater)" title="Proclus (crater)">
+          Proclus
+         </a>
+         (
+         <a href="/wiki/Apollo_15" title="Apollo 15">
+          Apollo 15
+         </a>
+         image)
+        </div>
+       </div>
+      </div>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:242px;">
+        <a class="image" href="/wiki/File:Pierazzo_crater_Clementine_mosaic.jpg">
+         <img alt="" class="thumbimage" data-file-height="680" data-file-width="680" height="240" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Pierazzo_crater_Clementine_mosaic.jpg/240px-Pierazzo_crater_Clementine_mosaic.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Pierazzo_crater_Clementine_mosaic.jpg/360px-Pierazzo_crater_Clementine_mosaic.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Pierazzo_crater_Clementine_mosaic.jpg/480px-Pierazzo_crater_Clementine_mosaic.jpg 2x" width="240"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Pierazzo_crater_Clementine_mosaic.jpg" title="Enlarge">
+          </a>
+         </div>
+         Pierazzo crater (Mosaic of
+         <a href="/wiki/Clementine_(spacecraft)" title="Clementine (spacecraft)">
+          Clementine
+         </a>
+         images)
+        </div>
+       </div>
+      </div>
+      <p>
+       The physical nature of lunar rays has historically been a subject of speculation. Early hypotheses suggested that they were deposits of salt from evaporated water. Later they were thought to be deposits of volcanic ash or streaks of dust. After the impact origin of craters became accepted,
+       <a class="mw-redirect" href="/wiki/Eugene_Shoemaker" title="Eugene Shoemaker">
+        Eugene Shoemaker
+       </a>
+       suggested during the 1960s that the rays were the result of fragmented ejecta material.
+      </p>
+      <p>
+       Recent studies suggest that the relative brightness of a lunar ray system is not always a reliable indicator of the age of a ray system. Instead the albedo also depends on the portion of
+       <a href="/wiki/Iron_oxide" title="Iron oxide">
+        iron oxide
+       </a>
+       (FeO). Low portions of FeO result in brighter materials, so such a ray system can retain its lighter appearance for longer periods. Thus the material composition needs to be factored into the albedo analysis to determine age.
+      </p>
+      <p>
+       Among the lunar craters on the near side with pronounced ray systems are
+       <a href="/wiki/Aristarchus_(crater)" title="Aristarchus (crater)">
+        Aristarchus
+       </a>
+       ,
+       <a href="/wiki/Copernicus_(lunar_crater)" title="Copernicus (lunar crater)">
+        Copernicus
+       </a>
+       ,
+       <a href="/wiki/Kepler_(lunar_crater)" title="Kepler (lunar crater)">
+        Kepler
+       </a>
+       ,
+       <a href="/wiki/Proclus_(crater)" title="Proclus (crater)">
+        Proclus
+       </a>
+       ,
+       <a href="/wiki/Dionysius_(crater)" title="Dionysius (crater)">
+        Dionysius
+       </a>
+       ,
+       <a href="/wiki/Censorinus_(crater)" title="Censorinus (crater)">
+        Censorinus
+       </a>
+       ,
+       <a href="/wiki/Glushko_(crater)" title="Glushko (crater)">
+        Glushko
+       </a>
+       , and
+       <a class="mw-redirect" href="/wiki/Tycho_(crater)" title="Tycho (crater)">
+        Tycho
+       </a>
+       . Similar ray systems also occur on the
+       <a class="mw-redirect" href="/wiki/Far_side_(Moon)" title="Far side (Moon)">
+        far side
+       </a>
+       of the Moon, such as the rays radiating from the craters
+       <a href="/wiki/Giordano_Bruno_(crater)" title="Giordano Bruno (crater)">
+        Giordano Bruno
+       </a>
+       ,
+       <a href="/wiki/Necho_(crater)" title="Necho (crater)">
+        Necho
+       </a>
+       ,
+       <a href="/wiki/Ohm_(crater)" title="Ohm (crater)">
+        Ohm
+       </a>
+       ,
+       <a href="/wiki/Jackson_(crater)" title="Jackson (crater)">
+        Jackson
+       </a>
+       ,
+       <a href="/wiki/King_(crater)" title="King (crater)">
+        King
+       </a>
+       , and the small but prominent
+       <a href="/wiki/Pierazzo_(crater)" title="Pierazzo (crater)">
+        Pierazzo
+       </a>
+       .
+      </p>
+      <p>
+       <a href="/wiki/North_Ray_(crater)" title="North Ray (crater)">
+        North Ray
+       </a>
+       and
+       <a href="/wiki/South_Ray_(crater)" title="South Ray (crater)">
+        South Ray
+       </a>
+       craters, each with a clear ray system, were observed from the ground by the astronauts of
+       <a href="/wiki/Apollo_16" title="Apollo 16">
+        Apollo 16
+       </a>
+       in 1972.
+      </p>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Ray_system&amp;action=edit&amp;section=2" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a href="/wiki/List_of_craters_with_ray_systems" title="List of craters with ray systems">
+         List of craters with ray systems
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Reiner_Gamma" title="Reiner Gamma">
+         Reiner Gamma
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Ray_system&amp;action=edit&amp;section=3" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist" style="list-style-type: decimal;">
+       <div class="mw-references-wrap">
+        <ol class="references">
+         <li id="cite_note-1">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-1">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <a class="external text" href="https://arstechnica.com/science/2014/02/spectacular-new-martian-impact-crater-spotted-from-orbit/" rel="nofollow">
+            Spectacular new Martian impact crater spotted from orbit
+           </a>
+           ,
+           <a href="/wiki/Ars_Technica" title="Ars Technica">
+            Ars Technica
+           </a>
+           , Feb 6 2014.
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <ul>
+       <li>
+        Martel, L.M.V. (Sept., 2004)
+        <i>
+         <a class="external text" href="http://www.psrd.hawaii.edu/Sept04/LunarRays.html" rel="nofollow">
+          Lunar Crater Rays Point to a New Lunar Time Scale
+         </a>
+        </i>
+        , Planetary Science Research Discoveries.
+        <a class="external free" href="http://www.psrd.hawaii.edu/Sept04/LunarRays.html" rel="nofollow">
+         http://www.psrd.hawaii.edu/Sept04/LunarRays.html
+        </a>
+        . (Accessed 9/15/2005)
+       </li>
+       <li>
+        Burnham, R. (March, 2005)
+        <i>
+         <a class="external text" href="http://www.astronomy.com/asy/default.aspx?c=a&amp;id=2980" rel="nofollow">
+          Chipping pieces off Mars: Martian craters with rays may be the long-sought sources for the Mars meteorites found on Earth
+         </a>
+        </i>
+        , Astronomy Magazine Online.
+        <a class="external free" href="http://www.astronomy.com/asy/default.aspx?c=a&amp;id=2980" rel="nofollow">
+         http://www.astronomy.com/asy/default.aspx?c=a&amp;id=2980
+        </a>
+        (Accessed 8/07/2006)
+       </li>
+      </ul>
+      <!-- 
+NewPP limit report
+Parsed by mw1320
+Cached time: 20180310022243
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.068 seconds
+Real time usage: 0.096 seconds
+Preprocessor visited node count: 218/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 1853/2097152 bytes
+Template argument size: 161/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 524/5000000 bytes
+Lua time usage: 0.025/10.000 seconds
+Lua memory usage: 1.95 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   63.214      1 -total
+ 61.98%   39.181      1 Template:Convert
+ 24.60%   15.550      1 Template:Coord
+  9.93%    6.276      1 Template:Reflist
+  3.32%    2.098      2 Template:Main_other
+  1.69%    1.068      1 Template:'
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:898959-0!canonical and timestamp 20180310022243 and revision id 819127739
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Ray_system&amp;oldid=819127739">
+      https://en.wikipedia.org/w/index.php?title=Ray_system&amp;oldid=819127739
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Impact_craters" title="Category:Impact craters">
+         Impact craters
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Ray+system" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Ray+system" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Ray_system" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Ray_system" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Ray_system">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Ray_system&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Ray_system&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Ray_system" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Ray_system" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Ray_system&amp;oldid=819127739" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Ray_system&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1478661" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Ray_system&amp;id=819127739" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Ray+system">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Ray+system&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Ray_system&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Category:Ray_systems" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-da">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Str%C3%A5lesystem" hreflang="da" lang="da" title="Strålesystem – Danish">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Strahlensystem" hreflang="de" lang="de" title="Strahlensystem – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Sistema_de_marcas_radiales" hreflang="es" lang="es" title="Sistema de marcas radiales – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Structure_rayonn%C3%A9e" hreflang="fr" lang="fr" title="Structure rayonnée – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Raggiera" hreflang="it" lang="it" title="Raggiera – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lb">
+        <a class="interlanguage-link-target" href="https://lb.wikipedia.org/wiki/Stralesystem" hreflang="lb" lang="lb" title="Stralesystem – Luxembourgish">
+         Lëtzebuergesch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Stralenkrans" hreflang="nl" lang="nl" title="Stralenkrans – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%85%89%E6%9D%A1" hreflang="ja" lang="ja" title="光条 – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Str%C3%A5lesystem" hreflang="no" lang="no" title="Strålesystem – Norwegian">
+         Norsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/S%C3%A4deviiru" hreflang="fi" lang="fi" title="Sädeviiru – Finnish">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Str%C3%A5lsystem" hreflang="sv" lang="sv" title="Strålsystem – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%B0%84%E7%B4%8B%E7%B3%BB%E7%B5%B1" hreflang="zh" lang="zh" title="射紋系統 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1478661#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 7 January 2018, at 16:44.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Ray_system&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.068","walltime":"0.096","ppvisitednodes":{"value":218,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":1853,"limit":2097152},"templateargumentsize":{"value":161,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":524,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   63.214      1 -total"," 61.98%   39.181      1 Template:Convert"," 24.60%   15.550      1 Template:Coord","  9.93%    6.276      1 Template:Reflist","  3.32%    2.098      2 Template:Main_other","  1.69%    1.068      1 Template:'"]},"scribunto":{"limitreport-timeusage":{"value":"0.025","limit":"10.000"},"limitreport-memusage":{"value":2044306,"limit":52428800}},"cachereport":{"origin":"mw1320","timestamp":"20180310022243","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":96,"wgHostname":"mw1270"});});
+  </script>
+ </body>
+</html>

@@ -1,0 +1,1408 @@
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Libration - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Libration","wgTitle":"Libration","wgCurRevisionId":831924664,"wgRevisionId":831924664,"wgArticleId":314494,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing video clips","Dynamics of the Solar System","Orbit of the Moon"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Libration","wgRelevantArticleId":314494,"wgRequestId":"WrQiCgpAADkAAJAORO4AAACP","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q218673","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.tmh.thumbnail.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.26" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Moon_Phase_and_Libration%2C_2013.ogv/640px--Moon_Phase_and_Libration%2C_2013.ogv.jpg" property="og:image"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Libration" rel="alternate"/>
+  <link href="/w/index.php?title=Libration&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Libration&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Libration" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Libration rootpage-Libration skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Libration
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <div class="hatnote navigation-not-searchable" role="note">
+       This article is about astronomical observations. For molecular motion, see
+       <a href="/wiki/Libration_(molecule)" title="Libration (molecule)">
+        Libration (molecule)
+       </a>
+       .
+      </div>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Not to be confused with
+       <a class="mw-redirect mw-disambig" href="/wiki/Liberation_(disambiguation)" title="Liberation (disambiguation)">
+        liberation
+       </a>
+       ,
+       <a href="/wiki/Libation" title="Libation">
+        libation
+       </a>
+       , or
+       <a href="/wiki/Vibration" title="Vibration">
+        vibration
+       </a>
+       .
+      </div>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:302px;">
+        <div class="PopUpMediaTransform" id="mwe_player_0" style="width:300px;" videopayload='&lt;div class="mediaContainer" style="width:640px"&gt;&lt;video id="mwe_player_1" poster="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Moon_Phase_and_Libration%2C_2013.ogv/640px--Moon_Phase_and_Libration%2C_2013.ogv.jpg" controls="" preload="none" autoplay="" style="width:640px;height:360px" class="kskin" data-durationhint="315.5152" data-startoffset="0" data-mwtitle="Moon_Phase_and_Libration,_2013.ogv" data-mwprovider="wikimediacommons"&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/e/e6/Moon_Phase_and_Libration%2C_2013.ogv/Moon_Phase_and_Libration%2C_2013.ogv.360p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="WebM (360P)" data-shorttitle="WebM 360P" data-transcodekey="360p.webm" data-width="640" data-height="360" data-bandwidth="570112" data-framerate="29.97002997003"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/e/e6/Moon_Phase_and_Libration%2C_2013.ogv" type="video/ogg; codecs=&amp;quot;theora, vorbis&amp;quot;" data-title="Original Ogg file, 640 × 360 (1.63 Mbps)" data-shorttitle="Ogg source" data-width="640" data-height="360" data-bandwidth="1625684" data-framerate="29.97002997003"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/e/e6/Moon_Phase_and_Libration%2C_2013.ogv/Moon_Phase_and_Libration%2C_2013.ogv.160p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="Low bandwidth WebM (160P)" data-shorttitle="WebM 160P" data-transcodekey="160p.webm" data-width="284" data-height="160" data-bandwidth="219864" data-framerate="29.97002997003"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/e/e6/Moon_Phase_and_Libration%2C_2013.ogv/Moon_Phase_and_Libration%2C_2013.ogv.240p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="Small WebM (240P)" data-shorttitle="WebM 240P" data-transcodekey="240p.webm" data-width="426" data-height="240" data-bandwidth="316232" data-framerate="29.97002997003"/&gt;&lt;/video&gt;&lt;/div&gt;'>
+         <img alt="File:Moon Phase and Libration, 2013.ogv" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Moon_Phase_and_Libration%2C_2013.ogv/300px--Moon_Phase_and_Libration%2C_2013.ogv.jpg" style="width:300px;height:169px"/>
+         <a href="//upload.wikimedia.org/wikipedia/commons/e/e6/Moon_Phase_and_Libration%2C_2013.ogv" target="new" title="Play media">
+          <span class="play-btn-large">
+           <span class="mw-tmh-playtext">
+            Play media
+           </span>
+          </span>
+         </a>
+        </div>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Moon_Phase_and_Libration,_2013.ogv" title="Enlarge">
+          </a>
+         </div>
+         The phase and libration of the Moon for 2013 at hourly intervals, with music, titles and supplemental graphics.
+        </div>
+       </div>
+      </div>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Lunar_libration_with_phase_Oct_2007_450px.gif">
+         <img alt="Over one lunar month more than half of the Moon's surface can be seen from the surface of the Earth." class="thumbimage" data-file-height="451" data-file-width="450" height="220" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Lunar_libration_with_phase_Oct_2007_450px.gif/220px-Lunar_libration_with_phase_Oct_2007_450px.gif" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Lunar_libration_with_phase_Oct_2007_450px.gif/330px-Lunar_libration_with_phase_Oct_2007_450px.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Lunar_libration_with_phase_Oct_2007_450px.gif/440px-Lunar_libration_with_phase_Oct_2007_450px.gif 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Lunar_libration_with_phase_Oct_2007_450px.gif" title="Enlarge">
+          </a>
+         </div>
+         Simulated views of the Moon over one month, demonstrating librations in
+         <a href="/wiki/Latitude" title="Latitude">
+          latitude
+         </a>
+         and
+         <a href="/wiki/Longitude" title="Longitude">
+          longitude
+         </a>
+         . Also visible are the different phases, and the variation in visual size caused by the variable distance from Earth.
+        </div>
+       </div>
+      </div>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:MoonVisibleLibration.jpg">
+         <img alt="" class="thumbimage" data-file-height="1060" data-file-width="1500" height="155" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/MoonVisibleLibration.jpg/220px-MoonVisibleLibration.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/MoonVisibleLibration.jpg/330px-MoonVisibleLibration.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3f/MoonVisibleLibration.jpg/440px-MoonVisibleLibration.jpg 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:MoonVisibleLibration.jpg" title="Enlarge">
+          </a>
+         </div>
+         Theoretical extent of visible lunar surface (in green) due to libration, compared to the extent of the visible lunar surface without libration (in yellow). The projection is the
+         <a href="/wiki/Winkel_tripel_projection" title="Winkel tripel projection">
+          Winkel Tripel projection
+         </a>
+         .
+        </div>
+       </div>
+      </div>
+      <p>
+       In astronomy,
+       <b>
+        libration
+       </b>
+       is a perceived
+       <a class="mw-redirect" href="/wiki/Oscillating" title="Oscillating">
+        oscillating
+       </a>
+       motion of
+       <a href="/wiki/Orbit" title="Orbit">
+        orbiting
+       </a>
+       <a href="/wiki/Astronomical_object" title="Astronomical object">
+        bodies
+       </a>
+       relative to each other, notably including the motion of the
+       <a href="/wiki/Moon" title="Moon">
+        Moon
+       </a>
+       relative to
+       <a href="/wiki/Earth" title="Earth">
+        Earth
+       </a>
+       , or of
+       <a href="/wiki/Jupiter_trojan#Orbits" title="Jupiter trojan">
+        trojan asteroids
+       </a>
+       relative to
+       <a href="/wiki/Planet" title="Planet">
+        planets
+       </a>
+       . Lunar libration is distinct from the slight changes in the Moon's
+       <a class="mw-redirect" href="/wiki/Apparent_size" title="Apparent size">
+        apparent size
+       </a>
+       viewed from Earth. Although this appearance can also be described as an oscillating motion, it is caused by actual changes in the physical
+       <a href="/wiki/Lunar_distance_(astronomy)" title="Lunar distance (astronomy)">
+        distance
+       </a>
+       of the Moon because of its
+       <a href="/wiki/Elliptic_orbit" title="Elliptic orbit">
+        elliptic orbit
+       </a>
+       around Earth. Lunar libration is caused by three phenomena detailed below.
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Lunar_libration">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Lunar libration
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#Trojan_libration">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Trojan libration
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-3">
+         <a href="#See_also">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-4">
+         <a href="#References">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-5">
+         <a href="#External_links">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           External links
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Lunar_libration">
+        Lunar libration
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Libration&amp;action=edit&amp;section=1" title="Edit section: Lunar libration">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       The Moon keeps one
+       <a class="extiw" href="https://en.wiktionary.org/wiki/hemisphere" title="wikt:hemisphere">
+        hemisphere
+       </a>
+       of itself facing the Earth, due to
+       <a href="/wiki/Tidal_locking" title="Tidal locking">
+        tidal locking
+       </a>
+       . Therefore, humans' first view of the
+       <a href="/wiki/Far_side_of_the_Moon" title="Far side of the Moon">
+        far side of the Moon
+       </a>
+       resulted from
+       <a href="/wiki/Exploration_of_the_Moon" title="Exploration of the Moon">
+        lunar exploration
+       </a>
+       on October 7, 1959. However, this simple picture is only approximately true: over time, slightly
+       <i>
+        more
+       </i>
+       than half (about 59%) of the Moon's surface is seen from Earth due to libration.
+       <sup class="reference" id="cite_ref-1">
+        <a href="#cite_note-1">
+         [1]
+        </a>
+       </sup>
+      </p>
+      <p>
+       Libration is manifested as a slow rocking back and forth of the Moon as viewed from Earth, permitting an observer to see slightly different halves of the surface at different times.
+      </p>
+      <p>
+       There are three types of lunar libration:
+      </p>
+      <ul>
+       <li>
+        <i>
+         Libration in
+         <a href="/wiki/Longitude" title="Longitude">
+          longitude
+         </a>
+        </i>
+        results from the
+        <a href="/wiki/Orbital_eccentricity" title="Orbital eccentricity">
+         eccentricity
+        </a>
+        of the Moon's orbit around Earth; the Moon's rotation sometimes leads and sometimes lags its orbital position.
+       </li>
+       <li>
+        <i>
+         Libration in
+         <a href="/wiki/Latitude" title="Latitude">
+          latitude
+         </a>
+        </i>
+        results from a slight inclination (about 6.7 degrees) between the Moon's
+        <a href="/wiki/Rotation_around_a_fixed_axis" title="Rotation around a fixed axis">
+         axis of rotation
+        </a>
+        and the
+        <a class="mw-redirect" href="/wiki/Surface_normal" title="Surface normal">
+         normal
+        </a>
+        to the
+        <a href="/wiki/Plane_(geometry)" title="Plane (geometry)">
+         plane
+        </a>
+        of its
+        <a href="/wiki/Orbit" title="Orbit">
+         orbit
+        </a>
+        around Earth. Its origin is analogous to how the
+        <a href="/wiki/Season" title="Season">
+         seasons
+        </a>
+        arise from Earth's revolution about the Sun.
+       </li>
+       <li>
+        <i>
+         <a href="/wiki/Diurnal_motion" title="Diurnal motion">
+          Diurnal
+         </a>
+         libration
+        </i>
+        is a small daily oscillation due to the Earth's rotation, which carries an observer first to one side and then to the other side of the straight line joining Earth's and the Moon's centers, allowing the observer to look first around one side of the Moon and then around the other—because the observer is on the surface of the Earth, not at its center.
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="Trojan_libration">
+        Trojan libration
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Libration&amp;action=edit&amp;section=2" title="Edit section: Trojan libration">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="hatnote navigation-not-searchable" role="note">
+       See also:
+       <a href="/wiki/Horseshoe_orbit" title="Horseshoe orbit">
+        Horseshoe orbit
+       </a>
+      </div>
+      <p>
+       In 1772
+       <a class="mw-redirect" href="/wiki/Lagrange" title="Lagrange">
+        Lagrange
+       </a>
+       's analyses determined that small bodies can stably share the same orbit as a planet if they remain near
+       <a href="/wiki/Lagrangian_point" title="Lagrangian point">
+        Lagrange points
+       </a>
+       , which are 60° ahead of or behind the planet in its orbit. Such ‘
+       <a href="/wiki/Trojan_(astronomy)" title="Trojan (astronomy)">
+        trojan asteroids
+       </a>
+       ’ have been found co-orbiting with Earth,
+       <a href="/wiki/Jupiter" title="Jupiter">
+        Jupiter
+       </a>
+       ,
+       <a href="/wiki/Mars" title="Mars">
+        Mars
+       </a>
+       , and
+       <a href="/wiki/Neptune" title="Neptune">
+        Neptune
+       </a>
+       . Trojan asteroids associated with Earth are difficult to observe in the
+       <a href="/wiki/Visible_spectrum" title="Visible spectrum">
+        visible spectrum
+       </a>
+       , as their libration paths are such that they would be visible primarily in the daylight sky. In 2010, however, using
+       <a href="/wiki/Infrared" title="Infrared">
+        infrared
+       </a>
+       observation techniques, the asteroid
+       <span class="nowrap">
+        <a href="/wiki/2010_TK7" title="2010 TK7">
+         2010 TK
+         <span style="position: relative; top: 0.3em;">
+          <span style="font-size:80%;">
+           7
+          </span>
+         </span>
+        </a>
+       </span>
+       was found to be a trojan companion of the Earth; it librates around the leading Lagrange point,
+       <a href="/wiki/Lagrangian_point#L4_and_L5" title="Lagrangian point">
+        L
+        <sub>
+         4
+        </sub>
+       </a>
+       , in a stable orbit.
+       <sup class="reference" id="cite_ref-2">
+        <a href="#cite_note-2">
+         [2]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Libration&amp;action=edit&amp;section=3" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a href="/wiki/Parallactic_angle" title="Parallactic angle">
+         Parallactic angle
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Jupiter_trojan#Orbits" title="Jupiter trojan">
+         Orbits of Jupiter trojans
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Libration&amp;action=edit&amp;section=4" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist" style="list-style-type: decimal;">
+       <div class="mw-references-wrap">
+        <ol class="references">
+         <li id="cite_note-1">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-1">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation encyclopaedia">
+            Spudis, Paul D. (2004).
+            <a class="external text" href="https://web.archive.org/web/20130703162844/http://www.nasa.gov/worldbook/moon_worldbook.html" rel="nofollow">
+             "Moon"
+            </a>
+            .
+            <i>
+             World Book at NASA
+            </i>
+            . Archived from
+            <a class="external text" href="http://www.nasa.gov/worldbook/moon_worldbook.html" rel="nofollow">
+             the original
+            </a>
+            on July 3, 2013
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              May 27,
+             </span>
+             2010
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Moon&amp;rft.btitle=World+Book+at+NASA&amp;rft.date=2004&amp;rft.aulast=Spudis&amp;rft.aufirst=Paul+D.&amp;rft_id=http%3A%2F%2Fwww.nasa.gov%2Fworldbook%2Fmoon_worldbook.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALibration">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-2">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-2">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Connors, Martin; Paul Wiegert &amp; Christian Veillet (28 July 2011).
+            <a class="external text" href="http://www.nature.com/nature/journal/v475/n7357/full/nature10233.html" rel="nofollow">
+             "Earth's Trojan asteroid"
+            </a>
+            .
+            <i>
+             Nature
+            </i>
+            . Nature.
+            <b>
+             475
+            </b>
+            (7357): 481–483.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/2011Natur.475..481C" rel="nofollow">
+             2011Natur.475..481C
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1038%2Fnature10233" rel="nofollow">
+             10.1038/nature10233
+            </a>
+            .
+            <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">
+             PMID
+            </a>
+            <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/21796207" rel="nofollow">
+             21796207
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              1 August
+             </span>
+             2011
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nature&amp;rft.atitle=Earth%27s+Trojan+asteroid&amp;rft.volume=475&amp;rft.issue=7357&amp;rft.pages=481-483&amp;rft.date=2011-07-28&amp;rft_id=info%3Apmid%2F21796207&amp;rft_id=info%3Adoi%2F10.1038%2Fnature10233&amp;rft_id=info%3Abibcode%2F2011Natur.475..481C&amp;rft.aulast=Connors&amp;rft.aufirst=Martin&amp;rft.au=Paul+Wiegert&amp;rft.au=Christian+Veillet&amp;rft_id=http%3A%2F%2Fwww.nature.com%2Fnature%2Fjournal%2Fv475%2Fn7357%2Ffull%2Fnature10233.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALibration">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <div class="refbegin" style="">
+       <ul>
+        <li>
+         <cite class="citation journal">
+          J. D. Mulholland, E. C. Silverberg (1972). "Measurement of Physical Librations Using Laser Retroreflectors".
+          <i>
+           Earth, Moon, and Planets
+          </i>
+          .
+          <b>
+           4
+          </b>
+          (1–2): 155–159.
+          <a href="/wiki/Bibcode" title="Bibcode">
+           Bibcode
+          </a>
+          :
+          <a class="external text" href="http://adsabs.harvard.edu/abs/1972Moon....4..155M" rel="nofollow">
+           1972Moon....4..155M
+          </a>
+          .
+          <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+           doi
+          </a>
+          :
+          <a class="external text" href="//doi.org/10.1007%2FBF00562923" rel="nofollow">
+           10.1007/BF00562923
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Earth%2C+Moon%2C+and+Planets&amp;rft.atitle=Measurement+of+Physical+Librations+Using+Laser+Retroreflectors&amp;rft.volume=4&amp;rft.issue=1%E2%80%932&amp;rft.pages=155-159&amp;rft.date=1972&amp;rft_id=info%3Adoi%2F10.1007%2FBF00562923&amp;rft_id=info%3Abibcode%2F1972Moon....4..155M&amp;rft.au=J.+D.+Mulholland%2C+E.+C.+Silverberg&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALibration">
+          <span style="display:none;">
+          </span>
+         </span>
+        </li>
+        <li>
+         <cite class="citation book">
+          <a href="/wiki/Patrick_Moore" title="Patrick Moore">
+           Moore, Sir Patrick
+          </a>
+          (2003).
+          <i>
+           Philip's Atlas of the Universe
+          </i>
+          . Foreword by
+          <a href="/wiki/Arnold_Wolfendale" title="Arnold Wolfendale">
+           Sir Arnold Wolfendale
+          </a>
+          . Philip's.
+          <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+           ISBN
+          </a>
+          <a href="/wiki/Special:BookSources/978-0-540-08707-5" title="Special:BookSources/978-0-540-08707-5">
+           978-0-540-08707-5
+          </a>
+          .
+          <a href="/wiki/OCLC" title="OCLC">
+           OCLC
+          </a>
+          <a class="external text" href="//www.worldcat.org/oclc/51966591" rel="nofollow">
+           51966591
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Philip%27s+Atlas+of+the+Universe&amp;rft.pub=Philip%27s&amp;rft.date=2003&amp;rft_id=info%3Aoclcnum%2F51966591&amp;rft.isbn=978-0-540-08707-5&amp;rft.aulast=Moore&amp;rft.aufirst=Sir+Patrick&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALibration">
+          <span style="display:none;">
+          </span>
+         </span>
+        </li>
+       </ul>
+      </div>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Libration&amp;action=edit&amp;section=5" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a class="external text" href="http://www.phy6.org/stargaze/Smoon4.htm" rel="nofollow">
+         Libration of the Moon
+        </a>
+        from educational website
+        <a class="external text" href="http://www.phy6.org/stargaze/Sintro.htm" rel="nofollow">
+         From Stargazers to Starships
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://antwrp.gsfc.nasa.gov/apod/ap051113.html" rel="nofollow">
+         Astronomy Picture of the Day: 2005 November 13
+        </a>
+        – time-lapse animation of moon through one complete cycle, hosted by NASA
+       </li>
+       <li>
+        <a class="external text" href="http://www.pixheaven.net/photo_us.php?nom=0505-0704" rel="nofollow">
+         Libration: 2 years in 2 seconds
+        </a>
+        – 24 full moon pictures taken over two years, compiled in an animation (linked on page) showing the Moon's libration and variations in apparent diameter
+       </li>
+       <li>
+        <a class="external text" href="http://users.pandora.be/lunar/jpeg/libratieboek.pdf" rel="nofollow">
+         Observing the Lunar Libration Zones
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://forrest-tanaka.com/2012/02/lunacycle-a-nearly-complete-photographic-lunar-month/" rel="nofollow">
+         Fine photographic show of lunar cycle and explanation of libration
+        </a>
+       </li>
+      </ul>
+      <!-- 
+NewPP limit report
+Parsed by mw1344
+Cached time: 20180322212249
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.116 seconds
+Real time usage: 0.174 seconds
+Preprocessor visited node count: 420/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 9377/2097152 bytes
+Template argument size: 302/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 2889/5000000 bytes
+Lua time usage: 0.047/10.000 seconds
+Lua memory usage: 2.32 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  140.374      1 -total
+ 47.39%   66.523      1 Template:Reflist
+ 31.38%   44.056      1 Template:Cite_encyclopedia
+ 21.52%   30.212      1 Template:About
+  7.16%   10.057      2 Template:Cite_journal
+  6.66%    9.348      1 Template:Mpl
+  5.39%    7.569      1 Template:Distinguish
+  3.60%    5.050      1 Template:Cite_book
+  3.44%    4.828      1 Template:Nowrap
+  3.18%    4.458      1 Template:See_also
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:314494-0!canonical and timestamp 20180322212251 and revision id 831924664
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Libration&amp;oldid=831924664">
+      https://en.wikipedia.org/w/index.php?title=Libration&amp;oldid=831924664
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Dynamics_of_the_Solar_System" title="Category:Dynamics of the Solar System">
+         Dynamics of the Solar System
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Orbit_of_the_Moon" title="Category:Orbit of the Moon">
+         Orbit of the Moon
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Articles_containing_video_clips" title="Category:Articles containing video clips">
+         Articles containing video clips
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Libration" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Libration" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Libration" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Libration" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Libration">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Libration&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Libration&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Libration" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Libration" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Libration&amp;oldid=831924664" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Libration&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q218673" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Libration&amp;id=831924664" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Libration">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Libration&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Libration&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Category:Libration" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-af">
+        <a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Librasie" hreflang="af" lang="af" title="Librasie – Afrikaans">
+         Afrikaans
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%85%D9%8A%D8%B3%D8%A7%D9%86_(%D8%B9%D9%84%D9%85_%D8%A7%D9%84%D9%81%D9%84%D9%83)" hreflang="ar" lang="ar" title="ميسان (علم الفلك) – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be">
+        <a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%9B%D1%96%D0%B1%D1%80%D0%B0%D1%86%D1%8B%D1%8F" hreflang="be" lang="be" title="Лібрацыя – Belarusian">
+         Беларуская
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Libraci%C3%B3" hreflang="ca" lang="ca" title="Libració – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Librace" hreflang="cs" lang="cs" title="Librace – Czech">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Libration" hreflang="da" lang="da" title="Libration – Danish">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Libration" hreflang="de" lang="de" title="Libration – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-et">
+        <a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Libratsioon" hreflang="et" lang="et" title="Libratsioon – Estonian">
+         Eesti
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Libraci%C3%B3n" hreflang="es" lang="es" title="Libración – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eo">
+        <a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Balancado_de_Luno" hreflang="eo" lang="eo" title="Balancado de Luno – Esperanto">
+         Esperanto
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eu">
+        <a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Librazio" hreflang="eu" lang="eu" title="Librazio – Basque">
+         Euskara
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%B1%D8%AE%E2%80%8C%DA%AF%D8%B1%D8%AF%DB%8C" hreflang="fa" lang="fa" title="رخ‌گردی – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Libration" hreflang="fr" lang="fr" title="Libration – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ga">
+        <a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/Guagadh" hreflang="ga" lang="ga" title="Guagadh – Irish">
+         Gaeilge
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gl">
+        <a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Libraci%C3%B3n" hreflang="gl" lang="gl" title="Libración – Galician">
+         Galego
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%B9%AD%EB%8F%99" hreflang="ko" lang="ko" title="칭동 – Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hr">
+        <a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Libracija" hreflang="hr" lang="hr" title="Libracija – Croatian">
+         Hrvatski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-io">
+        <a class="interlanguage-link-target" href="https://io.wikipedia.org/wiki/Libraco" hreflang="io" lang="io" title="Libraco – Ido">
+         Ido
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Librasi" hreflang="id" lang="id" title="Librasi – Indonesian">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Librazione" hreflang="it" lang="it" title="Librazione – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he">
+        <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%9C%D7%99%D7%91%D7%A8%D7%A6%D7%99%D7%94" hreflang="he" lang="he" title="ליברציה – Hebrew">
+         עברית
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lb">
+        <a class="interlanguage-link-target" href="https://lb.wikipedia.org/wiki/Libratioun" hreflang="lb" lang="lb" title="Libratioun – Luxembourgish">
+         Lëtzebuergesch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lt">
+        <a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Libracija" hreflang="lt" lang="lt" title="Libracija – Lithuanian">
+         Lietuvių
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hu">
+        <a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Libr%C3%A1ci%C3%B3" hreflang="hu" lang="hu" title="Libráció – Hungarian">
+         Magyar
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Libratie" hreflang="nl" lang="nl" title="Libratie – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E7%A7%A4%E5%8B%95" hreflang="ja" lang="ja" title="秤動 – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Librasjon" hreflang="no" lang="no" title="Librasjon – Norwegian">
+         Norsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nn">
+        <a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Librasjon" hreflang="nn" lang="nn" title="Librasjon – Norwegian Nynorsk">
+         Norsk nynorsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pms">
+        <a class="interlanguage-link-target" href="https://pms.wikipedia.org/wiki/Librassion_dla_Lun-a" hreflang="pms" lang="pms" title="Librassion dla Lun-a – Piedmontese">
+         Piemontèis
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Libracja" hreflang="pl" lang="pl" title="Libracja – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Libra%C3%A7%C3%A3o" hreflang="pt" lang="pt" title="Libração – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D0%B1%D1%80%D0%B0%D1%86%D0%B8%D1%8F" hreflang="ru" lang="ru" title="Либрация – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sk">
+        <a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Libr%C3%A1cia" hreflang="sk" lang="sk" title="Librácia – Slovak">
+         Slovenčina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sl">
+        <a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Libracija" hreflang="sl" lang="sl" title="Libracija – Slovenian">
+         Slovenščina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sh">
+        <a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Libracija" hreflang="sh" lang="sh" title="Libracija – Serbo-Croatian">
+         Srpskohrvatski / српскохрватски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Libraatio" hreflang="fi" lang="fi" title="Libraatio – Finnish">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Libration" hreflang="sv" lang="sv" title="Libration – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ta">
+        <a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%A8%E0%AE%BF%E0%AE%B2%E0%AF%88_%E0%AE%85%E0%AE%B2%E0%AF%88%E0%AE%B5%E0%AF%81" hreflang="ta" lang="ta" title="நிலை அலைவு – Tamil">
+         தமிழ்
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-th">
+        <a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B9%84%E0%B8%A5%E0%B9%80%E0%B8%9A%E0%B8%A3%E0%B8%8A%E0%B8%B1%E0%B8%99" hreflang="th" lang="th" title="ไลเบรชัน – Thai">
+         ไทย
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tr">
+        <a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Librasyon" hreflang="tr" lang="tr" title="Librasyon – Turkish">
+         Türkçe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9B%D1%96%D0%B1%D1%80%D0%B0%D1%86%D1%96%D1%8F" hreflang="uk" lang="uk" title="Лібрація – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%A4%A9%E5%B9%B3%E5%8B%95" hreflang="zh" lang="zh" title="天平動 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q218673#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 22 March 2018, at 21:22.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Libration&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.116","walltime":"0.174","ppvisitednodes":{"value":420,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":9377,"limit":2097152},"templateargumentsize":{"value":302,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":2889,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  140.374      1 -total"," 47.39%   66.523      1 Template:Reflist"," 31.38%   44.056      1 Template:Cite_encyclopedia"," 21.52%   30.212      1 Template:About","  7.16%   10.057      2 Template:Cite_journal","  6.66%    9.348      1 Template:Mpl","  5.39%    7.569      1 Template:Distinguish","  3.60%    5.050      1 Template:Cite_book","  3.44%    4.828      1 Template:Nowrap","  3.18%    4.458      1 Template:See_also"]},"scribunto":{"limitreport-timeusage":{"value":"0.047","limit":"10.000"},"limitreport-memusage":{"value":2433629,"limit":52428800}},"cachereport":{"origin":"mw1344","timestamp":"20180322212249","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":89,"wgHostname":"mw1262"});});
+  </script>
+ </body>
+</html>

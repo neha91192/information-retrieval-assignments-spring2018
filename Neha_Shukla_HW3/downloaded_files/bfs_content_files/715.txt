@@ -1,0 +1,2937 @@
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Bow shocks in astrophysics - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Bow_shocks_in_astrophysics","wgTitle":"Bow shocks in astrophysics","wgCurRevisionId":831284668,"wgRevisionId":831284668,"wgArticleId":1020537,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Planetary science","Sun","Shock waves","Waves in plasmas"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Bow_shocks_in_astrophysics","wgRelevantArticleId":1020537,"wgRequestId":"WrSMrQpAADgAABJl4AkAAABX","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Bow_shock","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Bow_shocks_in_astrophysics","wgWikibaseItemId":"Q48930","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.page.gallery.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.26" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/1/1f/52706main_hstorion_lg.jpg" property="og:image"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Bow_shocks_in_astrophysics" rel="alternate"/>
+  <link href="/w/index.php?title=Bow_shocks_in_astrophysics&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Bow_shocks_in_astrophysics&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Bow_shocks_in_astrophysics" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Bow_shocks_in_astrophysics rootpage-Bow_shocks_in_astrophysics skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Bow shocks in astrophysics
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+     <span class="mw-redirectedfrom">
+      (Redirected from
+      <a class="mw-redirect" href="/w/index.php?title=Bow_shock&amp;redirect=no" title="Bow shock">
+       Bow shock
+      </a>
+      )
+     </span>
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:52706main_hstorion_lg.jpg">
+         <img alt="" class="thumbimage" data-file-height="895" data-file-width="1074" height="183" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/52706main_hstorion_lg.jpg/220px-52706main_hstorion_lg.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/52706main_hstorion_lg.jpg/330px-52706main_hstorion_lg.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1f/52706main_hstorion_lg.jpg/440px-52706main_hstorion_lg.jpg 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:52706main_hstorion_lg.jpg" title="Enlarge">
+          </a>
+         </div>
+         <center>
+          <a class="new" href="/w/index.php?title=LL_Orionis&amp;action=edit&amp;redlink=1" title="LL Orionis (page does not exist)">
+           LL Orionis
+          </a>
+          bow shock in
+          <a class="mw-redirect" href="/wiki/Orion_nebula" title="Orion nebula">
+           Orion nebula
+          </a>
+          . The star's wind collides with the nebula flow.
+          <br/>
+          Hubble, 1995
+         </center>
+        </div>
+       </div>
+      </div>
+      <p>
+       <a href="/wiki/Bow_shock_(aerodynamics)" title="Bow shock (aerodynamics)">
+        Bow shocks
+       </a>
+       form the boundary between a
+       <a href="/wiki/Magnetosphere" title="Magnetosphere">
+        magnetosphere
+       </a>
+       and an ambient magnetized medium. This occurs when the magnetic field of an astrophysical object interacts with the nearby flowing ambient
+       <a href="/wiki/Plasma_(physics)" title="Plasma (physics)">
+        plasma
+       </a>
+       . For example, when the
+       <a href="/wiki/Solar_wind" title="Solar wind">
+        solar wind
+       </a>
+       , flowing with a relative speed of order 400 km/s, encounters the magnetic field of Earth, a bow shape boundary forms. For Earth and other magnetized planets, it is the boundary at which the speed of the stellar wind abruptly drops as a result of its approach to the
+       <a href="/wiki/Magnetopause" title="Magnetopause">
+        magnetopause
+       </a>
+       . For stars, this boundary is typically the edge of the
+       <a class="mw-redirect" href="/wiki/Astrosphere" title="Astrosphere">
+        astrosphere
+       </a>
+       , where the
+       <a href="/wiki/Stellar_wind" title="Stellar wind">
+        stellar wind
+       </a>
+       meets the
+       <a href="/wiki/Interstellar_medium" title="Interstellar medium">
+        interstellar medium
+       </a>
+       .
+       <sup class="reference" id="cite_ref-1">
+        <a href="#cite_note-1">
+         [1]
+        </a>
+       </sup>
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Description">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Description
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#Around_the_Earth">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Around the Earth
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-3">
+         <a href="#Around_the_Sun">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           Around the Sun
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-4">
+         <a href="#Around_other_stars">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           Around other stars
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-5">
+         <a href="#Around_massive_stars">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           Around massive stars
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-6">
+         <a href="#Magnetic_draping_effect">
+          <span class="tocnumber">
+           6
+          </span>
+          <span class="toctext">
+           Magnetic draping effect
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-7">
+         <a href="#See_also">
+          <span class="tocnumber">
+           7
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-8">
+         <a href="#Notes">
+          <span class="tocnumber">
+           8
+          </span>
+          <span class="toctext">
+           Notes
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-9">
+         <a href="#References">
+          <span class="tocnumber">
+           9
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-10">
+         <a href="#External_links">
+          <span class="tocnumber">
+           10
+          </span>
+          <span class="toctext">
+           External links
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Description">
+        Description
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Bow_shocks_in_astrophysics&amp;action=edit&amp;section=1" title="Edit section: Description">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       The defining criterion of a
+       <a href="/wiki/Shock_wave" title="Shock wave">
+        shock wave
+       </a>
+       is that the bulk velocity of the
+       <a href="/wiki/Plasma_(physics)" title="Plasma (physics)">
+        plasma
+       </a>
+       drops from "
+       <a href="/wiki/Supersonic_speed" title="Supersonic speed">
+        supersonic
+       </a>
+       " to "subsonic", where
+       <a class="mw-redirect" href="/wiki/Plasma_physics" title="Plasma physics">
+        the speed of sound
+       </a>
+       c
+       <sub>
+        s
+       </sub>
+       is defined by
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle c_{s}^{2}=\gamma p/\rho }" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msubsup>
+              <mi>
+               c
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                s
+               </mi>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mn>
+                2
+               </mn>
+              </mrow>
+             </msubsup>
+             <mo>
+              =
+             </mo>
+             <mi>
+              γ
+              <!-- γ -->
+             </mi>
+             <mi>
+              p
+             </mi>
+             <mrow class="MJX-TeXAtom-ORD">
+              <mo>
+               /
+              </mo>
+             </mrow>
+             <mi>
+              ρ
+              <!-- ρ -->
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle c_{s}^{2}=\gamma p/\rho }
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="c_s^2 = \gamma p/ \rho " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ca85af2824055b58f82e773aa787c55d15016100" style="vertical-align: -0.838ex; width:9.956ex; height:3.009ex;"/>
+       </span>
+       where
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \gamma }" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              γ
+              <!-- γ -->
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \gamma }
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\gamma " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a223c880b0ce3da8f64ee33c4f0010beee400b1a" style="vertical-align: -0.838ex; width:1.262ex; height:2.176ex;"/>
+       </span>
+       is the
+       <a href="/wiki/Heat_capacity_ratio" title="Heat capacity ratio">
+        ratio of specific heats
+       </a>
+       ,
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle p}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              p
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle p}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="p" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/81eac1e205430d1f40810df36a0edffdc367af36" style="vertical-align: -0.671ex; margin-left: -0.089ex; width:1.259ex; height:2.009ex;"/>
+       </span>
+       is the
+       <a href="/wiki/Pressure" title="Pressure">
+        pressure
+       </a>
+       , and
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \rho }" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              ρ
+              <!-- ρ -->
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \rho }
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\rho " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1f7d439671d1289b6a816e6af7a304be40608d64" style="vertical-align: -0.838ex; width:1.202ex; height:2.176ex;"/>
+       </span>
+       is the density of the plasma.
+      </p>
+      <p>
+       A common complication in astrophysics is the presence of a magnetic field. For instance, the charged particles making up the solar wind follow spiral paths along magnetic field lines. The velocity of each particle as it gyrates around a field line can be treated similarly to a thermal velocity in an ordinary gas, and in an ordinary gas, the mean thermal velocity is roughly the speed of sound. At the bow shock, the bulk forward velocity of the wind (which is the component of the velocity parallel to the field lines about which the particles gyrate) drops below the speed at which the particles are gyrating.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Around_the_Earth">
+        Around the Earth
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Bow_shocks_in_astrophysics&amp;action=edit&amp;section=2" title="Edit section: Around the Earth">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       The best-studied example of a bow shock is that occurring where the
+       <a href="/wiki/Solar_wind" title="Solar wind">
+        Sun's wind
+       </a>
+       encounters
+       <a href="/wiki/Earth" title="Earth">
+        Earth
+       </a>
+       's magnetopause, although bow shocks occur around all magnetized planets, such as
+       <a href="/wiki/Jupiter#Magnetosphere" title="Jupiter">
+        Jupiter
+       </a>
+       <sup class="reference" id="cite_ref-2">
+        <a href="#cite_note-2">
+         [2]
+        </a>
+       </sup>
+       or
+       <a href="/wiki/Saturn#Magnetosphere" title="Saturn">
+        Saturn
+       </a>
+       .
+       <sup class="reference" id="cite_ref-3">
+        <a href="#cite_note-3">
+         [3]
+        </a>
+       </sup>
+       Earth's bow shock is about 17 kilometres (11 mi) thick
+       <sup class="reference" id="cite_ref-4">
+        <a href="#cite_note-4">
+         [4]
+        </a>
+       </sup>
+       and located about 90,000 kilometres (56,000 mi) from the planet.
+       <sup class="reference" id="cite_ref-5">
+        <a href="#cite_note-5">
+         [5]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Around_the_Sun">
+        Around the Sun
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Bow_shocks_in_astrophysics&amp;action=edit&amp;section=3" title="Edit section: Around the Sun">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main article:
+       <a href="/wiki/Heliosphere#Bow_shock" title="Heliosphere">
+        Heliosphere § Bow shock
+       </a>
+      </div>
+      <p>
+       For several decades, the solar wind has been thought to form a bow shock at the edge of the
+       <a href="/wiki/Heliosphere" title="Heliosphere">
+        heliosphere
+       </a>
+       , where it collides with the surrounding interstellar medium. Moving away from the Sun, the point where the solar wind flow becomes subsonic is the
+       <a class="mw-redirect" href="/wiki/Termination_shock" title="Termination shock">
+        termination shock
+       </a>
+       , the point where the interstellar medium and solar wind pressures balance is the
+       <a class="mw-redirect" href="/wiki/Heliopause_(astronomy)" title="Heliopause (astronomy)">
+        heliopause
+       </a>
+       , and the point where the flow of the interstellar medium becomes subsonic would be the bow shock. This solar bow shock was thought to lie at a distance around 230 AU
+       <sup class="reference" id="cite_ref-6">
+        <a href="#cite_note-6">
+         [6]
+        </a>
+       </sup>
+       from the Sun – more than twice the distance of the termination shock as encountered by the Voyager spacecraft. However, data obtained in 2012 from NASA's
+       <a href="/wiki/Interstellar_Boundary_Explorer" title="Interstellar Boundary Explorer">
+        Interstellar Boundary Explorer
+       </a>
+       (IBEX) indicates the lack of any solar bow shock.
+       <sup class="reference" id="cite_ref-bow_7-0">
+        <a href="#cite_note-bow-7">
+         [7]
+        </a>
+       </sup>
+       Along with corroborating results from the
+       <a href="/wiki/Voyager_program" title="Voyager program">
+        Voyager spacecraft
+       </a>
+       , these findings have motivated some theoretical refinements; current thinking is that formation of a bow shock is prevented, at least in the galactic region through which the Sun is passing, by a combination of the strength of the local interstellar magnetic-field and of the relative velocity of the heliosphere.
+       <sup class="reference" id="cite_ref-8">
+        <a href="#cite_note-8">
+         [8]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Around_other_stars">
+        Around other stars
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Bow_shocks_in_astrophysics&amp;action=edit&amp;section=4" title="Edit section: Around other stars">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       In 2006, a far infrared bow shock was detected near the
+       <a href="/wiki/Asymptotic_giant_branch" title="Asymptotic giant branch">
+        AGB star
+       </a>
+       <a href="/wiki/R_Hydrae" title="R Hydrae">
+        R Hydrae
+       </a>
+       .
+       <sup class="reference" id="cite_ref-9">
+        <a href="#cite_note-9">
+         [9]
+        </a>
+       </sup>
+      </p>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:352px;">
+        <a class="image" href="/wiki/File:Red_Giant_Plunging_Through_Space.jpg">
+         <img alt="" class="thumbimage" data-file-height="2400" data-file-width="3000" height="280" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Red_Giant_Plunging_Through_Space.jpg/350px-Red_Giant_Plunging_Through_Space.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Red_Giant_Plunging_Through_Space.jpg/525px-Red_Giant_Plunging_Through_Space.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Red_Giant_Plunging_Through_Space.jpg/700px-Red_Giant_Plunging_Through_Space.jpg 2x" width="350"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Red_Giant_Plunging_Through_Space.jpg" title="Enlarge">
+          </a>
+         </div>
+         The bow shock around R Hydrae
+         <sup class="reference" id="cite_ref-10">
+          <a href="#cite_note-10">
+           [10]
+          </a>
+         </sup>
+        </div>
+       </div>
+      </div>
+      <p>
+       Bow shocks are also a common feature in
+       <a class="mw-redirect" href="/wiki/Herbig_Haro_objects" title="Herbig Haro objects">
+        Herbig Haro objects
+       </a>
+       , in which a much stronger
+       <a href="/wiki/Collimated_light" title="Collimated light">
+        collimated
+       </a>
+       outflow of gas and dust from the star interacts with the interstellar medium, producing bright bow shocks that are visible at optical wavelengths.
+      </p>
+      <p>
+       The following images show further evidence of bow shock existence from dense gases and plasma in the
+       <a href="/wiki/Orion_Nebula" title="Orion Nebula">
+        Orion Nebula
+       </a>
+       .
+      </p>
+      <ul class="gallery mw-gallery-traditional">
+       <li class="gallerybox" style="width: 155px">
+        <div style="width: 155px">
+         <div class="thumb" style="width: 150px;">
+          <div style="margin:15px auto;">
+           <a class="image" href="/wiki/File:Heliosheath.JPG">
+            <img alt="Heliosheath.JPG" data-file-height="476" data-file-width="468" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Heliosheath.JPG/118px-Heliosheath.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Heliosheath.JPG/177px-Heliosheath.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/44/Heliosheath.JPG/236px-Heliosheath.JPG 2x" width="118"/>
+           </a>
+          </div>
+         </div>
+         <div class="gallerytext">
+         </div>
+        </div>
+       </li>
+       <li class="gallerybox" style="width: 155px">
+        <div style="width: 155px">
+         <div class="thumb" style="width: 150px;">
+          <div style="margin:15px auto;">
+           <a class="image" href="/wiki/File:Heliosheath2.JPG">
+            <img alt="Heliosheath2.JPG" data-file-height="267" data-file-width="247" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Heliosheath2.JPG/111px-Heliosheath2.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Heliosheath2.JPG/166px-Heliosheath2.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Heliosheath2.JPG/222px-Heliosheath2.JPG 2x" width="111"/>
+           </a>
+          </div>
+         </div>
+         <div class="gallerytext">
+         </div>
+        </div>
+       </li>
+       <li class="gallerybox" style="width: 155px">
+        <div style="width: 155px">
+         <div class="thumb" style="width: 150px;">
+          <div style="margin:21px auto;">
+           <a class="image" href="/wiki/File:Heliosheath3.JPG">
+            <img alt="Heliosheath3.JPG" data-file-height="142" data-file-width="158" height="108" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Heliosheath3.JPG/120px-Heliosheath3.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/3/3c/Heliosheath3.JPG 1.5x" width="120"/>
+           </a>
+          </div>
+         </div>
+         <div class="gallerytext">
+         </div>
+        </div>
+       </li>
+       <li class="gallerybox" style="width: 155px">
+        <div style="width: 155px">
+         <div class="thumb" style="width: 150px;">
+          <div style="margin:15.5px auto;">
+           <a class="image" href="/wiki/File:Heliosheath4.JPG">
+            <img alt="Heliosheath4.JPG" data-file-height="292" data-file-width="295" height="119" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Heliosheath4.JPG/120px-Heliosheath4.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Heliosheath4.JPG/180px-Heliosheath4.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Heliosheath4.JPG/240px-Heliosheath4.JPG 2x" width="120"/>
+           </a>
+          </div>
+         </div>
+         <div class="gallerytext">
+         </div>
+        </div>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="Around_massive_stars">
+        Around massive stars
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Bow_shocks_in_astrophysics&amp;action=edit&amp;section=5" title="Edit section: Around massive stars">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       If a massive star is a
+       <a href="/wiki/Stellar_kinematics#Runaway_stars" title="Stellar kinematics">
+        runaway star
+       </a>
+       , it can form an
+       <a href="/wiki/Infrared" title="Infrared">
+        infrared
+       </a>
+       bow-shock that is detectable in 24 μm and sometimes in 8μm of the
+       <a href="/wiki/Spitzer_Space_Telescope" title="Spitzer Space Telescope">
+        Spitzer Space Telescope
+       </a>
+       or the W3/W4-channels of
+       <a href="/wiki/Wide-field_Infrared_Survey_Explorer" title="Wide-field Infrared Survey Explorer">
+        WISE
+       </a>
+       . In 2016 Kobulnicky et al. did create the largest spitzer/WISE bow-shock catalog to date with 709 bow-shock candidates.
+       <sup class="reference" id="cite_ref-11">
+        <a href="#cite_note-11">
+         [11]
+        </a>
+       </sup>
+       To get a larger bow-shock catalog the
+       <a href="/wiki/Citizen_science" title="Citizen science">
+        citizen science
+       </a>
+       project
+       <a href="/wiki/The_Milky_Way_Project" title="The Milky Way Project">
+        Milky Way Project
+       </a>
+       aims to map infrared bow-shocks in the galactic plane. This larger catalog will help to understand the
+       <a href="/wiki/Stellar_wind" title="Stellar wind">
+        stellar wind
+       </a>
+       of massive stars.
+       <sup class="reference" id="cite_ref-12">
+        <a href="#cite_note-12">
+         [12]
+        </a>
+       </sup>
+      </p>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Sig12-014.png">
+         <img alt="" class="thumbimage" data-file-height="3637" data-file-width="4015" height="199" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Sig12-014.png/220px-Sig12-014.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Sig12-014.png/330px-Sig12-014.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Sig12-014.png/440px-Sig12-014.png 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Sig12-014.png" title="Enlarge">
+          </a>
+         </div>
+         <a href="/wiki/Zeta_Ophiuchi" title="Zeta Ophiuchi">
+          Zeta Ophiuchi
+         </a>
+         is the most famous bowshock of a massive star. Image is from the Spitzer Space Telescope.
+        </div>
+       </div>
+      </div>
+      <p>
+       The closest stars with infrared bow-shocks are:
+      </p>
+      <table class="wikitable sortable">
+       <tr>
+        <th>
+         Name
+        </th>
+        <th>
+         Distance (
+         <a href="/wiki/Parsec" title="Parsec">
+          pc
+         </a>
+         )
+        </th>
+        <th>
+         <a href="/wiki/Stellar_classification" title="Stellar classification">
+          Spectral type
+         </a>
+        </th>
+        <th>
+         Belongs to
+        </th>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Beta_Crucis" title="Beta Crucis">
+          *bet Cru
+         </a>
+        </td>
+        <td>
+         85
+        </td>
+        <td>
+         B1IV
+        </td>
+        <td>
+         Lower Centaurus-Crux subgroup
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Alpha_Muscae" title="Alpha Muscae">
+          *alf Mus
+         </a>
+        </td>
+        <td>
+         97
+        </td>
+        <td>
+         B2IV
+        </td>
+        <td>
+         Lower Centaurus-Crux subgroup
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Alpha_Crucis" title="Alpha Crucis">
+          *alf Cru
+         </a>
+        </td>
+        <td>
+         99
+        </td>
+        <td>
+         B1V+B0.5IV
+        </td>
+        <td>
+         Lower Centaurus-Crux subgroup
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Zeta_Ophiuchi" title="Zeta Ophiuchi">
+          *zet Oph
+         </a>
+        </td>
+        <td>
+         112
+        </td>
+        <td>
+         O9.2IVnn
+        </td>
+        <td>
+         Upper Scorpius subgroup
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Theta_Carinae" title="Theta Carinae">
+          *tet Car
+         </a>
+        </td>
+        <td>
+         140
+        </td>
+        <td>
+         B0Vp
+        </td>
+        <td>
+         IC 2602
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Tau_Scorpii" title="Tau Scorpii">
+          *tau Sco
+         </a>
+        </td>
+        <td>
+         145
+        </td>
+        <td>
+         B0.2V
+        </td>
+        <td>
+         Upper Scorpius subgroup
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Delta_Scorpii" title="Delta Scorpii">
+          *del Sco
+         </a>
+        </td>
+        <td>
+         150
+        </td>
+        <td>
+         B0.3IV
+        </td>
+        <td>
+         Upper Scorpius subgroup
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Epsilon_Persei" title="Epsilon Persei">
+          *eps Per
+         </a>
+        </td>
+        <td>
+         195
+        </td>
+        <td>
+         B1.5III
+        </td>
+        <td>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Sigma_Scorpii" title="Sigma Scorpii">
+          *sig Sco
+         </a>
+        </td>
+        <td>
+         214
+        </td>
+        <td>
+         O9.5(V)+B7(V)
+        </td>
+        <td>
+         Upper Scorpius subgroup
+        </td>
+       </tr>
+      </table>
+      <p>
+       Most of them belong to the
+       <a href="/wiki/Scorpius%E2%80%93Centaurus_Association" title="Scorpius–Centaurus Association">
+        Scorpius–Centaurus Association
+       </a>
+       and
+       <a href="/wiki/Theta_Carinae" title="Theta Carinae">
+        Theta Carinae
+       </a>
+       , which is the brightest star of
+       <a href="/wiki/IC_2602" title="IC 2602">
+        IC2602
+       </a>
+       , might also belong to the Lower Centaurus-Crux subgroup.
+       <a href="/wiki/Epsilon_Persei" title="Epsilon Persei">
+        Epsilon Persei
+       </a>
+       does not belong to this
+       <a href="/wiki/Stellar_association" title="Stellar association">
+        stellar association
+       </a>
+       .
+       <sup class="reference" id="cite_ref-13">
+        <a href="#cite_note-13">
+         [13]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Magnetic_draping_effect">
+        Magnetic draping effect
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Bow_shocks_in_astrophysics&amp;action=edit&amp;section=6" title="Edit section: Magnetic draping effect">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       A similar effect, known as the magnetic draping effect, occurs when a super-Alfvenic plasma flow impacts an unmagnetized object such as what happens when the
+       <a href="/wiki/Solar_wind" title="Solar wind">
+        solar wind
+       </a>
+       reaches the ionosphere of
+       <a href="/wiki/Venus" title="Venus">
+        Venus
+       </a>
+       :
+       <sup class="reference" id="cite_ref-14">
+        <a href="#cite_note-14">
+         [14]
+        </a>
+       </sup>
+       the flow deflects around the object draping the
+       <a href="/wiki/Magnetic_field" title="Magnetic field">
+        magnetic field
+       </a>
+       along the wake flow.
+       <sup class="reference" id="cite_ref-15">
+        <a href="#cite_note-15">
+         [15]
+        </a>
+       </sup>
+      </p>
+      <p>
+       The condition for the flow to be super-Alfvenic means that the relative velocity between the flow and object,
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle v}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              v
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle v}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="v" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e07b00e7fc0847fbd16391c778d65bc25c452597" style="vertical-align: -0.338ex; width:1.128ex; height:1.676ex;"/>
+       </span>
+       , is larger than the local
+       <a class="mw-redirect" href="/wiki/Alfven_velocity" title="Alfven velocity">
+        Alfven velocity
+       </a>
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle V_{A}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi>
+               V
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                A
+               </mi>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle V_{A}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="V_{A}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6f799f117ef739f7d3645a44d17e2c9f4245ab52" style="vertical-align: -0.671ex; width:2.82ex; height:2.509ex;"/>
+       </span>
+       which means a large Alfvenic Mach number:
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle M_{A}\gg 1}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi>
+               M
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                A
+               </mi>
+              </mrow>
+             </msub>
+             <mo>
+              ≫
+              <!-- ≫ -->
+             </mo>
+             <mn>
+              1
+             </mn>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle M_{A}\gg 1}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="M_{A}\gg 1" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3a702bf671fdc8e8698f5d3ba79721d301a6f483" style="vertical-align: -0.671ex; width:8.495ex; height:2.509ex;"/>
+       </span>
+       . For unmagnetized and
+       <a class="mw-redirect" href="/wiki/Electrically_conductive" title="Electrically conductive">
+        electrically conductive
+       </a>
+       objects, the ambient field creates
+       <a class="mw-redirect" href="/wiki/Electric_currents" title="Electric currents">
+        electric currents
+       </a>
+       inside the object, and into the surrounding plasma, such that the flow is deflected and slowed down as the time scale of magnetic
+       <a href="/wiki/Dissipation" title="Dissipation">
+        dissipation
+       </a>
+       is much longer than the time scale of magnetic field
+       <a href="/wiki/Advection" title="Advection">
+        advection
+       </a>
+       . The induced currents in turn generate magnetic fields that deflect the flow creating a bow shock. For example, the
+       <a href="/wiki/Ionosphere" title="Ionosphere">
+        ionospheres
+       </a>
+       of
+       <a href="/wiki/Mars" title="Mars">
+        Mars
+       </a>
+       and
+       <a href="/wiki/Venus" title="Venus">
+        Venus
+       </a>
+       provide the conductive environments for the interaction with the
+       <a href="/wiki/Solar_wind" title="Solar wind">
+        solar wind
+       </a>
+       . Without an
+       <a href="/wiki/Ionosphere" title="Ionosphere">
+        ionosphere
+       </a>
+       , the flowing magnetized plasma is absorbed by the non-conductive body. The latter occurs, for example, when the solar wind interacts with
+       <a href="/wiki/Moon" title="Moon">
+        Moon
+       </a>
+       which has no ionosphere. In magnetic draping, the field lines are wrapped and draped around the leading side of the object creating a narrow sheath which is similar to the bow shocks in the planetary magnetospheres. The concentrated magnetic field increases until the
+       <a href="/wiki/Ram_pressure" title="Ram pressure">
+        ram pressure
+       </a>
+       becomes comparable to the
+       <a href="/wiki/Magnetic_pressure" title="Magnetic pressure">
+        magnetic pressure
+       </a>
+       in the sheath:
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle \rho _{0}v^{2}={\frac {B_{0}^{2}}{2\mu _{0}}},}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msub>
+               <mi>
+                ρ
+                <!-- ρ -->
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mn>
+                 0
+                </mn>
+               </mrow>
+              </msub>
+              <msup>
+               <mi>
+                v
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mn>
+                 2
+                </mn>
+               </mrow>
+              </msup>
+              <mo>
+               =
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <msubsup>
+                 <mi>
+                  B
+                 </mi>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mn>
+                   0
+                  </mn>
+                 </mrow>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mn>
+                   2
+                  </mn>
+                 </mrow>
+                </msubsup>
+                <mrow>
+                 <mn>
+                  2
+                 </mn>
+                 <msub>
+                  <mi>
+                   μ
+                   <!-- μ -->
+                  </mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mn>
+                    0
+                   </mn>
+                  </mrow>
+                 </msub>
+                </mrow>
+               </mfrac>
+              </mrow>
+              <mo>
+               ,
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle \rho _{0}v^{2}={\frac {B_{0}^{2}}{2\mu _{0}}},}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle \rho _{0}v^{2}={\frac {B_{0}^{2}}{2\mu _{0}}},}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2b8eaddc6bae6b1d9ae58e4e941c452fe7670eda" style="vertical-align: -2.338ex; width:12.638ex; height:6.509ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       where
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \rho _{0}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi>
+               ρ
+               <!-- ρ -->
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mn>
+                0
+               </mn>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \rho _{0}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt=" \rho_0 " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d9c04a9d26b86af8c6205ba2a6287fd655b6b714" style="vertical-align: -0.838ex; width:2.256ex; height:2.176ex;"/>
+       </span>
+       is the density of the plasma,
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle B_{0}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi>
+               B
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mn>
+                0
+               </mn>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle B_{0}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="B_0 " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/03a3f39a56ba486e7c6ec89b99f5ae2a21fa75b6" style="vertical-align: -0.671ex; width:2.818ex; height:2.509ex;"/>
+       </span>
+       is the draped magnetic field near the object, and
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle v}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              v
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle v}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="v" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e07b00e7fc0847fbd16391c778d65bc25c452597" style="vertical-align: -0.338ex; width:1.128ex; height:1.676ex;"/>
+       </span>
+       is the relative speed between the plasma and the object. Magnetic draping has been detected around planets, moons, solar coronal mass ejections, and galaxies.
+       <sup class="reference" id="cite_ref-16">
+        <a href="#cite_note-16">
+         [16]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Bow_shocks_in_astrophysics&amp;action=edit&amp;section=7" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a href="/wiki/Shock_wave" title="Shock wave">
+         Shock wave
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Shock_waves_in_astrophysics" title="Shock waves in astrophysics">
+         Shock waves in astrophysics
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Heliosheath" title="Heliosheath">
+         Heliosheath
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Fermi_glow" title="Fermi glow">
+         Fermi glow
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="Notes">
+        Notes
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Bow_shocks_in_astrophysics&amp;action=edit&amp;section=8" title="Edit section: Notes">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist" style="list-style-type: decimal;">
+       <div class="mw-references-wrap mw-references-columns">
+        <ol class="references">
+         <li id="cite_note-1">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-1">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation arxiv">
+            Sparavigna, A.C.; Marazzato, R. (10 May 2010). "Observing stellar bow shocks".
+            <a href="/wiki/ArXiv" title="ArXiv">
+             arXiv
+            </a>
+            :
+            <span class="plainlinks">
+             <a class="external text" href="//arxiv.org/abs/1005.1527" rel="nofollow">
+              1005.1527
+             </a>
+             <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/>
+            </span>
+            [
+            <a class="external text" href="//arxiv.org/archive/physics.space-ph" rel="nofollow">
+             physics.space-ph
+            </a>
+            ].
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=preprint&amp;rft.jtitle=arXiv&amp;rft.atitle=Observing+stellar+bow+shocks&amp;rft.date=2010-05-10&amp;rft_id=info%3Aarxiv%2F1005.1527&amp;rft.aulast=Sparavigna&amp;rft.aufirst=A.C.&amp;rft.au=Marazzato%2C+R.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABow+shocks+in+astrophysics">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-2">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-2">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Szego, Karoly (18 July 2003).
+            <a class="external text" href="http://eprints.ucl.ac.uk/81775/" rel="nofollow">
+             "Cassini plasma spectrometer measurements of Jovian bow shock structure"
+            </a>
+            .
+            <i>
+             Journal of Geophysical Research: Space Physics
+            </i>
+            .
+            <b>
+             108
+            </b>
+            : 1287.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/2003JGRA..108.1287S" rel="nofollow">
+             2003JGRA..108.1287S
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1029%2F2002JA009517" rel="nofollow">
+             10.1029/2002JA009517
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Geophysical+Research%3A+Space+Physics&amp;rft.atitle=Cassini+plasma+spectrometer+measurements+of+Jovian+bow+shock+structure&amp;rft.volume=108&amp;rft.pages=1287&amp;rft.date=2003-07-18&amp;rft_id=info%3Adoi%2F10.1029%2F2002JA009517&amp;rft_id=info%3Abibcode%2F2003JGRA..108.1287S&amp;rft.aulast=Szego&amp;rft.aufirst=Karoly&amp;rft_id=http%3A%2F%2Feprints.ucl.ac.uk%2F81775%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABow+shocks+in+astrophysics">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-3">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-3">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation news">
+            <a class="external text" href="http://www-pw.physics.uiowa.edu/space-audio/cassini/bow-shock/" rel="nofollow">
+             "Cassini encounters Saturn's bow shock"
+            </a>
+            .
+            <i>
+             Department of Physics and Astronomy, University of Iowa
+            </i>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Department+of+Physics+and+Astronomy%2C+University+of+Iowa&amp;rft.atitle=Cassini+encounters+Saturn%27s+bow+shock&amp;rft_id=http%3A%2F%2Fwww-pw.physics.uiowa.edu%2Fspace-audio%2Fcassini%2Fbow-shock%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABow+shocks+in+astrophysics">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-4">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-4">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation news">
+            <a class="external text" href="http://sci.esa.int/science-e/www/object/index.cfm?fobjectid=49637" rel="nofollow">
+             "Cluster reveals Earth's bow shock is remarkably thin"
+            </a>
+            .
+            <i>
+             <a href="/wiki/European_Space_Agency" title="European Space Agency">
+              European Space Agency
+             </a>
+            </i>
+            . 16 November 2011.
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=European+Space+Agency&amp;rft.atitle=Cluster+reveals+Earth%27s+bow+shock+is+remarkably+thin&amp;rft.date=2011-11-16&amp;rft_id=http%3A%2F%2Fsci.esa.int%2Fscience-e%2Fwww%2Fobject%2Findex.cfm%3Ffobjectid%3D49637&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABow+shocks+in+astrophysics">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-5">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-5">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation news">
+            <a class="external text" href="http://sci.esa.int/science-e/www/object/index.cfm?fobjectid=40994" rel="nofollow">
+             "Cluster reveals the reformation of the Earth's bow shock"
+            </a>
+            .
+            <i>
+             European Space Agency
+            </i>
+            . 11 May 2011.
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=European+Space+Agency&amp;rft.atitle=Cluster+reveals+the+reformation+of+the+Earth%27s+bow+shock&amp;rft.date=2011-05-11&amp;rft_id=http%3A%2F%2Fsci.esa.int%2Fscience-e%2Fwww%2Fobject%2Findex.cfm%3Ffobjectid%3D40994&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABow+shocks+in+astrophysics">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-6">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-6">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <a class="external free" href="http://antwrp.gsfc.nasa.gov/apod/ap020624.html" rel="nofollow">
+            http://antwrp.gsfc.nasa.gov/apod/ap020624.html
+           </a>
+          </span>
+         </li>
+         <li id="cite_note-bow-7">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-bow_7-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <a class="external text" href="http://www.nasa.gov/mission_pages/ibex/news/nobowshock.html" rel="nofollow">
+            NASA - IBEX Reveals a Missing Boundary At the Edge Of the Solar System
+           </a>
+          </span>
+         </li>
+         <li id="cite_note-8">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-8">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            McComas, D. J.; Alexashov, D.; Bzowski, M.; Fahr, H.; Heerikhuisen, J.; Izmodenov, V.; Lee, M. A.; Möbius, E.; Pogorelov, N.; Schwadron, N. A.; Zank, G. P. (2012). "The Heliosphere's Interstellar Interaction: No Bow Shock".
+            <i>
+             Science
+            </i>
+            .
+            <b>
+             336
+            </b>
+            (6086): 1291–1293.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/2012Sci...336.1291M" rel="nofollow">
+             2012Sci...336.1291M
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1126%2Fscience.1221054" rel="nofollow">
+             10.1126/science.1221054
+            </a>
+            .
+            <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">
+             PMID
+            </a>
+            <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/22582011" rel="nofollow">
+             22582011
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Science&amp;rft.atitle=The+Heliosphere%E2%80%99s+Interstellar+Interaction%3A+No+Bow+Shock&amp;rft.volume=336&amp;rft.issue=6086&amp;rft.pages=1291-1293&amp;rft.date=2012&amp;rft_id=info%3Apmid%2F22582011&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.1221054&amp;rft_id=info%3Abibcode%2F2012Sci...336.1291M&amp;rft.aulast=McComas&amp;rft.aufirst=D.+J.&amp;rft.au=Alexashov%2C+D.&amp;rft.au=Bzowski%2C+M.&amp;rft.au=Fahr%2C+H.&amp;rft.au=Heerikhuisen%2C+J.&amp;rft.au=Izmodenov%2C+V.&amp;rft.au=Lee%2C+M.+A.&amp;rft.au=M%C3%B6bius%2C+E.&amp;rft.au=Pogorelov%2C+N.&amp;rft.au=Schwadron%2C+N.+A.&amp;rft.au=Zank%2C+G.+P.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABow+shocks+in+astrophysics">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-9">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-9">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <a class="external text" href="http://cdsads.u-strasbg.fr/cgi-bin/nph-data_query?bibcode=2006ApJ...648L..39U&amp;db_key=AST&amp;link_type=ABSTRACT&amp;high=45ba3a9f6d12619" rel="nofollow">
+            Detection of a Far-Infrared Bow Shock Nebula around R Hya: The First MIRIAD Results
+           </a>
+          </span>
+         </li>
+         <li id="cite_note-10">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-10">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <a class="external text" href="http://www.spitzer.caltech.edu/images/2183-sig06-029-Red-Giant-Plunging-Through-Space" rel="nofollow">
+            Spitzer Science Center Press Release: Red Giant Plunging Through Space
+           </a>
+          </span>
+         </li>
+         <li id="cite_note-11">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-11">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://vizier.u-strasbg.fr/viz-bin/VizieR-3?-source=J/ApJS/227/18/table1&amp;-out.max=50&amp;-out.form=HTML%20Table&amp;-out.add=_r&amp;-out.add=_RAJ,_DEJ&amp;-sort=_r&amp;-oc.form=sexa" rel="nofollow">
+             "VizieR"
+            </a>
+            .
+            <i>
+             vizier.u-strasbg.fr
+            </i>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              2017-04-28
+             </span>
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=vizier.u-strasbg.fr&amp;rft.atitle=VizieR&amp;rft_id=http%3A%2F%2Fvizier.u-strasbg.fr%2Fviz-bin%2FVizieR-3%3F-source%3DJ%2FApJS%2F227%2F18%2Ftable1%26-out.max%3D50%26-out.form%3DHTML%2520Table%26-out.add%3D_r%26-out.add%3D_RAJ%2C_DEJ%26-sort%3D_r%26-oc.form%3Dsexa&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABow+shocks+in+astrophysics">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-12">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-12">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://www.zooniverse.org/projects/povich/milky-way-project/about/research" rel="nofollow">
+             "Zooniverse"
+            </a>
+            .
+            <i>
+             www.zooniverse.org
+            </i>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              2017-04-28
+             </span>
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.zooniverse.org&amp;rft.atitle=Zooniverse&amp;rft_id=https%3A%2F%2Fwww.zooniverse.org%2Fprojects%2Fpovich%2Fmilky-way-project%2Fabout%2Fresearch&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABow+shocks+in+astrophysics">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-13">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-13">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            melinasworldblog (2017-04-26).
+            <a class="external text" href="https://melinasworldblog.wordpress.com/2017/04/26/close-bowshocks/" rel="nofollow">
+             "Close Bowshocks"
+            </a>
+            .
+            <i>
+             Melina's World
+            </i>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              2017-04-28
+             </span>
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Melina%27s+World&amp;rft.atitle=Close+Bowshocks&amp;rft.date=2017-04-26&amp;rft.au=melinasworldblog&amp;rft_id=https%3A%2F%2Fmelinasworldblog.wordpress.com%2F2017%2F04%2F26%2Fclose-bowshocks%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABow+shocks+in+astrophysics">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-14">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-14">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Lyutikov, M. (2006). "Magnetic draping of merging cores and radio bubbles in clusters of galaxies".
+            <i>
+             Monthly Notices of the Royal Astronomical Society
+            </i>
+            .
+            <b>
+             373
+            </b>
+            : 73–78.
+            <a href="/wiki/ArXiv" title="ArXiv">
+             arXiv
+            </a>
+            :
+            <span class="plainlinks">
+             <a class="external text" href="//arxiv.org/abs/astro-ph/0604178" rel="nofollow">
+              astro-ph/0604178
+             </a>
+             <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/>
+            </span>
+            .
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/2006MNRAS.373...73L" rel="nofollow">
+             2006MNRAS.373...73L
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1111%2Fj.1365-2966.2006.10835.x" rel="nofollow">
+             10.1111/j.1365-2966.2006.10835.x
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Monthly+Notices+of+the+Royal+Astronomical+Society&amp;rft.atitle=Magnetic+draping+of+merging+cores+and+radio+bubbles+in+clusters+of+galaxies&amp;rft.volume=373&amp;rft.pages=73-78&amp;rft.date=2006&amp;rft_id=info%3Aarxiv%2Fastro-ph%2F0604178&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1365-2966.2006.10835.x&amp;rft_id=info%3Abibcode%2F2006MNRAS.373...73L&amp;rft.aulast=Lyutikov&amp;rft.aufirst=M.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABow+shocks+in+astrophysics">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-15">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-15">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Shore, S. N.; LaRosa, T. N. (1999). "The Galactic Center Isolated Non-thermal Filaments as Analogs of Cometary Plasma Tails".
+            <i>
+             Astrophysical Journal
+            </i>
+            .
+            <b>
+             521
+            </b>
+            (2): 587–590.
+            <a href="/wiki/ArXiv" title="ArXiv">
+             arXiv
+            </a>
+            :
+            <span class="plainlinks">
+             <a class="external text" href="//arxiv.org/abs/astro-ph/9904048" rel="nofollow">
+              astro-ph/9904048
+             </a>
+             <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/>
+            </span>
+            .
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/1999ApJ...521..587S" rel="nofollow">
+             1999ApJ...521..587S
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1086%2F307601" rel="nofollow">
+             10.1086/307601
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Astrophysical+Journal&amp;rft.atitle=The+Galactic+Center+Isolated+Non-thermal+Filaments+as+Analogs+of+Cometary+Plasma+Tails&amp;rft.volume=521&amp;rft.issue=2&amp;rft.pages=587-590&amp;rft.date=1999&amp;rft_id=info%3Aarxiv%2Fastro-ph%2F9904048&amp;rft_id=info%3Adoi%2F10.1086%2F307601&amp;rft_id=info%3Abibcode%2F1999ApJ...521..587S&amp;rft.aulast=Shore&amp;rft.aufirst=S.+N.&amp;rft.au=LaRosa%2C+T.+N.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABow+shocks+in+astrophysics">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-16">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-16">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Pfrommer, Christoph; Dursi, L. Jonathan (2010). "Detecting the orientation of magnetic fields in galaxy clusters".
+            <i>
+             Nature Physics
+            </i>
+            .
+            <b>
+             6
+            </b>
+            (7): 520–526.
+            <a href="/wiki/ArXiv" title="ArXiv">
+             arXiv
+            </a>
+            :
+            <span class="plainlinks">
+             <a class="external text" href="//arxiv.org/abs/0911.2476" rel="nofollow">
+              0911.2476
+             </a>
+             <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/>
+            </span>
+            .
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/2010NatPh...6..520P" rel="nofollow">
+             2010NatPh...6..520P
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1038%2FNPHYS1657" rel="nofollow">
+             10.1038/NPHYS1657
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nature+Physics&amp;rft.atitle=Detecting+the+orientation+of+magnetic+fields+in+galaxy+clusters&amp;rft.volume=6&amp;rft.issue=7&amp;rft.pages=520-526&amp;rft.date=2010&amp;rft_id=info%3Aarxiv%2F0911.2476&amp;rft_id=info%3Adoi%2F10.1038%2FNPHYS1657&amp;rft_id=info%3Abibcode%2F2010NatPh...6..520P&amp;rft.aulast=Pfrommer&amp;rft.aufirst=Christoph&amp;rft.au=Dursi%2C+L.+Jonathan&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABow+shocks+in+astrophysics">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Bow_shocks_in_astrophysics&amp;action=edit&amp;section=9" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <cite class="citation book">
+         Kivelson, M. G.; Russell, C. T. (1995).
+         <i>
+          Introduction to Space Physics
+         </i>
+         . New York:
+         <a href="/wiki/Cambridge_University_Press" title="Cambridge University Press">
+          Cambridge University Press
+         </a>
+         . p. 129.
+         <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+          ISBN
+         </a>
+         <a href="/wiki/Special:BookSources/0-521-45104-3" title="Special:BookSources/0-521-45104-3">
+          0-521-45104-3
+         </a>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Introduction+to+Space+Physics&amp;rft.place=New+York&amp;rft.pages=129&amp;rft.pub=Cambridge+University+Press&amp;rft.date=1995&amp;rft.isbn=0-521-45104-3&amp;rft.aulast=Kivelson&amp;rft.aufirst=M.+G.&amp;rft.au=Russell%2C+C.+T.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABow+shocks+in+astrophysics">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+       <li>
+        <cite class="citation book">
+         Cravens, T. E. (1997).
+         <i>
+          Physics of Solar System Plasmas
+         </i>
+         . New York: Cambridge University Press. p. 142.
+         <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+          ISBN
+         </a>
+         <a href="/wiki/Special:BookSources/0-521-35280-0" title="Special:BookSources/0-521-35280-0">
+          0-521-35280-0
+         </a>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Physics+of+Solar+System+Plasmas&amp;rft.place=New+York&amp;rft.pages=142&amp;rft.pub=Cambridge+University+Press&amp;rft.date=1997&amp;rft.isbn=0-521-35280-0&amp;rft.aulast=Cravens&amp;rft.aufirst=T.+E.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABow+shocks+in+astrophysics">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Bow_shocks_in_astrophysics&amp;action=edit&amp;section=10" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a class="external text" href="https://apod.nasa.gov/apod/ap001128.html" rel="nofollow">
+         NASA Astronomy Picture of the Day: Bow shock image (BZ Cam) (28 November 2000)
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="https://apod.nasa.gov/apod/ap001017.html" rel="nofollow">
+         NASA Astronomy Picture of the Day: Bow shock image (IRS8) (17 October 2000)
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="https://apod.nasa.gov/apod/ap170408.html" rel="nofollow">
+         NASA Astronomy Picture of the Day: Zeta Oph: Runaway Star (8 April 2017)
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://www.eso.org/public/images/eso9702a/" rel="nofollow">
+         Bow shock image (HD77581)
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://hubblesite.org/gallery/wallpaper/pr2002005a/" rel="nofollow">
+         Bow shock image (LL Ori)
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://www.dartmouth.edu/~hrm/R/heliosphere.html" rel="nofollow">
+         More on the
+         <i>
+          Voyagers
+         </i>
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://www-pw.physics.uiowa.edu/space-audio/sounds/" rel="nofollow">
+         Hear the Jovian bow shock (from the University of Iowa)
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://www.physorg.com/news98367923.html" rel="nofollow">
+         Cluster spacecraft makes a shocking discovery (Planetary Bow Shock)
+        </a>
+       </li>
+      </ul>
+      <div aria-labelledby="The_Sun" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="3" scope="col" style="text-align: center;">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:The_Sun" title="Template:The Sun">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a href="/wiki/Template_talk:The_Sun" title="Template talk:The Sun">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:The_Sun&amp;action=edit">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="The_Sun" style="font-size:114%;margin:0 4em">
+           <a href="/wiki/Sun" title="Sun">
+            The Sun
+           </a>
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Standard_solar_model" title="Standard solar model">
+           Internal structure
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Solar_core" title="Solar core">
+              Core
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Radiation_zone" title="Radiation zone">
+              Radiation zone
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tachocline" title="Tachocline">
+              Tachocline
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Convection_zone" title="Convection zone">
+              Convection zone
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+         <td class="navbox-image" rowspan="5" style="width:1px;padding:0px 0px 0px 2px">
+          <div>
+           <div class="floatright">
+            <a class="image" href="/wiki/File:Sun_in_February.jpg">
+             <img alt="Sun in February.jpg" class="thumbborder" data-file-height="2632" data-file-width="2632" height="155" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Sun_in_February.jpg/155px-Sun_in_February.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Sun_in_February.jpg/233px-Sun_in_February.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Sun_in_February.jpg/310px-Sun_in_February.jpg 2x" width="155"/>
+            </a>
+           </div>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Stellar_atmosphere" title="Stellar atmosphere">
+           Atmosphere
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+          </div>
+          <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%;text-align: center;">
+             <a href="/wiki/Photosphere" title="Photosphere">
+              Photosphere
+             </a>
+            </th>
+            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Supergranulation" title="Supergranulation">
+                 Supergranulation
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Granule_(solar_physics)" title="Granule (solar physics)">
+                 Granule
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Facula" title="Facula">
+                 Faculae
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Sunspot" title="Sunspot">
+                 Sunspot
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%;text-align: center;">
+             <a href="/wiki/Chromosphere" title="Chromosphere">
+              Chromosphere
+             </a>
+            </th>
+            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Plage_(astronomy)" title="Plage (astronomy)">
+                 Plage
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Spicule_(solar_physics)" title="Spicule (solar physics)">
+                 Spicule
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Moreton_wave" title="Moreton wave">
+                 Moreton wave
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%;text-align: center;">
+             <a href="/wiki/Corona" title="Corona">
+              Corona
+             </a>
+            </th>
+            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Solar_transition_region" title="Solar transition region">
+                 Transition region
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Coronal_hole" title="Coronal hole">
+                 Coronal hole
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Coronal_loop" title="Coronal loop">
+                 Coronal loop
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Coronal_mass_ejection" title="Coronal mass ejection">
+                 Coronal mass ejection
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Solar_prominence" title="Solar prominence">
+                 Prominence
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Helmet_streamer" title="Helmet streamer">
+                 Helmet streamer
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Supra-arcade_downflows" title="Supra-arcade downflows">
+                 Supra-arcade downflows
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a class="mw-redirect" href="/wiki/Solar_variation" title="Solar variation">
+           Variation
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Solar_cycle" title="Solar cycle">
+              Solar cycle
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/List_of_solar_cycles" title="List of solar cycles">
+                List of solar cycles
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Solar_maximum" title="Solar maximum">
+              Solar maximum
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_minimum" title="Solar minimum">
+              Solar minimum
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Wolf_number" title="Wolf number">
+              Wolf number
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_wind" title="Solar wind">
+              Solar wind
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_flare" title="Solar flare">
+              Flare
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Helioseismology" title="Helioseismology">
+              Helioseismology
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Heliosphere" title="Heliosphere">
+           Heliosphere
+          </a>
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Heliospheric_current_sheet" title="Heliospheric current sheet">
+              Current sheet
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Heliosphere#Termination_shock" title="Heliosphere">
+              Termination shock
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Heliosphere#Heliosheath" title="Heliosphere">
+              Heliosheath
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Heliosphere#Heliopause" title="Heliosphere">
+              Heliopause
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Bow_shock" title="Bow shock">
+              Bow shock
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          Related topics
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Heliophysics" title="Heliophysics">
+              Heliophysics
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Solar_activity" title="Solar activity">
+              Solar activity
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Solar_astronomy" title="Solar astronomy">
+              Solar astronomy
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_dynamo" title="Solar dynamo">
+              Solar dynamo
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_eclipse" title="Solar eclipse">
+              Eclipse
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_energy" title="Solar energy">
+              Solar energy
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_neutrino" title="Solar neutrino">
+              Solar neutrino
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_observation" title="Solar observation">
+              Solar observation
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_phenomena" title="Solar phenomena">
+              Solar phenomena
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_physics" title="Solar physics">
+              Solar physics
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_System" title="Solar System">
+              Solar System
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_telescope" title="Solar telescope">
+              Solar telescope
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_time" title="Solar time">
+              Solar time
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Space_weather" title="Space weather">
+              Space weather
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Standard_solar_model" title="Standard solar model">
+              Standard solar model
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Sunlight" title="Sunlight">
+              Radiation
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <td class="navbox-abovebelow" colspan="3" style="text-align: center;">
+          <div>
+           <ul>
+            <li>
+             <a href="/wiki/Stellar_classification" title="Stellar classification">
+              Spectral class
+             </a>
+             :
+             <a href="/wiki/G-type_main-sequence_star" title="G-type main-sequence star">
+              G2V
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1302
+Cached time: 20180322132820
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.292 seconds
+Real time usage: 0.381 seconds
+Preprocessor visited node count: 1682/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 45983/2097152 bytes
+Template argument size: 1340/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 21139/5000000 bytes
+Lua time usage: 0.129/10.000 seconds
+Lua memory usage: 4.93 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  276.065      1 -total
+ 46.67%  128.840      1 Template:Reflist
+ 20.35%   56.175      2 Template:Convert
+ 14.33%   39.568      1 Template:Cite_arXiv
+ 11.45%   31.620      2 Template:APOD
+ 10.05%   27.757      8 Template:Str_sub
+  9.93%   27.412      5 Template:Cite_journal
+  8.68%   23.957      2 Template:Navbox
+  8.26%   22.814      1 Template:The_Sun
+  7.58%   20.939      3 Template:Cite_web
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:1020537-0!canonical!math=5 and timestamp 20180322132820 and revision id 831284668
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Bow_shocks_in_astrophysics&amp;oldid=831284668">
+      https://en.wikipedia.org/w/index.php?title=Bow_shocks_in_astrophysics&amp;oldid=831284668
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Planetary_science" title="Category:Planetary science">
+         Planetary science
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Sun" title="Category:Sun">
+         Sun
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Shock_waves" title="Category:Shock waves">
+         Shock waves
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Waves_in_plasmas" title="Category:Waves in plasmas">
+         Waves in plasmas
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Bow+shocks+in+astrophysics" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Bow+shocks+in+astrophysics" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Bow_shocks_in_astrophysics" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Bow_shocks_in_astrophysics" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Bow_shocks_in_astrophysics">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Bow_shocks_in_astrophysics&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Bow_shocks_in_astrophysics&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Bow_shocks_in_astrophysics" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Bow_shocks_in_astrophysics" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Bow_shocks_in_astrophysics&amp;oldid=831284668" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Bow_shocks_in_astrophysics&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q48930" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Bow_shocks_in_astrophysics&amp;id=831284668" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Bow+shocks+in+astrophysics">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Bow+shocks+in+astrophysics&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Bow_shocks_in_astrophysics&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-af">
+        <a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Boogskok" hreflang="af" lang="af" title="Boogskok – Afrikaans">
+         Afrikaans
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%A7%D9%86%D8%AD%D9%86%D8%A7%D8%A1_%D8%B5%D8%AF%D9%85%D9%8A" hreflang="ar" lang="ar" title="انحناء صدمي – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be">
+        <a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%93%D0%B0%D0%BB%D0%BE%D1%9E%D0%BD%D0%B0%D1%8F_%D1%9E%D0%B4%D0%B0%D1%80%D0%BD%D0%B0%D1%8F_%D1%85%D0%B2%D0%B0%D0%BB%D1%8F" hreflang="be" lang="be" title="Галоўная ўдарная хваля – Belarusian">
+         Беларуская
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Xoc_en_arc" hreflang="ca" lang="ca" title="Xoc en arc – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Bugsto%C3%9Fwelle" hreflang="de" lang="de" title="Bugstoßwelle – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Arco_de_choque" hreflang="es" lang="es" title="Arco de choque – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eu">
+        <a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Talka_arku" hreflang="eu" lang="eu" title="Talka arku – Basque">
+         Euskara
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%B4%D9%88%DA%A9_%D8%AA%D8%B9%D8%B8%DB%8C%D9%85" hreflang="fa" lang="fa" title="شوک تعظیم – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Arc_de_choc" hreflang="fr" lang="fr" title="Arc de choc – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%ED%99%9C%EB%AA%A8%EC%96%91%EC%B6%A9%EA%B2%A9%ED%8C%8C" hreflang="ko" lang="ko" title="활모양충격파 – Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hr">
+        <a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Udarni_front" hreflang="hr" lang="hr" title="Udarni front – Croatian">
+         Hrvatski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Bow_shock" hreflang="it" lang="it" title="Bow shock – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lt">
+        <a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Kilio_banga_(astronomija)" hreflang="lt" lang="lt" title="Kilio banga (astronomija) – Lithuanian">
+         Lietuvių
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Boogschok" hreflang="nl" lang="nl" title="Boogschok – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%A6%E3%82%B7%E3%83%A7%E3%83%83%E3%82%AF" hreflang="ja" lang="ja" title="バウショック – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Baugsjokket" hreflang="no" lang="no" title="Baugsjokket – Norwegian">
+         Norsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Choque_em_arco" hreflang="pt" lang="pt" title="Choque em arco – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0%D1%8F_%D1%83%D0%B4%D0%B0%D1%80%D0%BD%D0%B0%D1%8F_%D0%B2%D0%BE%D0%BB%D0%BD%D0%B0" hreflang="ru" lang="ru" title="Головная ударная волна – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%BC%93%E5%BD%A2%E9%9C%87%E6%B3%A2" hreflang="zh" lang="zh" title="弓形震波 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q48930#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 19 March 2018, at 20:06.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Bow_shocks_in_astrophysics&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.292","walltime":"0.381","ppvisitednodes":{"value":1682,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":45983,"limit":2097152},"templateargumentsize":{"value":1340,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":21139,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  276.065      1 -total"," 46.67%  128.840      1 Template:Reflist"," 20.35%   56.175      2 Template:Convert"," 14.33%   39.568      1 Template:Cite_arXiv"," 11.45%   31.620      2 Template:APOD"," 10.05%   27.757      8 Template:Str_sub","  9.93%   27.412      5 Template:Cite_journal","  8.68%   23.957      2 Template:Navbox","  8.26%   22.814      1 Template:The_Sun","  7.58%   20.939      3 Template:Cite_web"]},"scribunto":{"limitreport-timeusage":{"value":"0.129","limit":"10.000"},"limitreport-memusage":{"value":5166602,"limit":52428800}},"cachereport":{"origin":"mw1302","timestamp":"20180322132820","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":94,"wgHostname":"mw1261"});});
+  </script>
+ </body>
+</html>

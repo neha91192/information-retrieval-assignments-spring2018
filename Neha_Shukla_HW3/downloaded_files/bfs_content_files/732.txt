@@ -1,0 +1,2195 @@
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Internal structure of the Moon - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Internal_structure_of_the_Moon","wgTitle":"Internal structure of the Moon","wgCurRevisionId":830190582,"wgRevisionId":830190582,"wgArticleId":8955397,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using multiple image with manual scaled images","Lunar science"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Internal_structure_of_the_Moon","wgRelevantArticleId":8955397,"wgRequestId":"Wqx8YwpAMEkAAAyKQp0AAABJ","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q1358214","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.25" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Moon_diagram.svg/1200px-Moon_diagram.svg.png" property="og:image"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Internal_structure_of_the_Moon" rel="alternate"/>
+  <link href="/w/index.php?title=Internal_structure_of_the_Moon&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Internal_structure_of_the_Moon&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Internal_structure_of_the_Moon" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Internal_structure_of_the_Moon rootpage-Internal_structure_of_the_Moon skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Internal structure of the Moon
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <div class="hatnote navigation-not-searchable" role="note">
+       See also:
+       <a href="/wiki/Geology_of_the_Moon" title="Geology of the Moon">
+        Geology of the Moon
+       </a>
+      </div>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:352px;">
+        <a class="image" href="/wiki/File:Moon_diagram.svg">
+         <img alt="" class="thumbimage" data-file-height="2340" data-file-width="2552" height="321" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Moon_diagram.svg/350px-Moon_diagram.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Moon_diagram.svg/525px-Moon_diagram.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Moon_diagram.svg/700px-Moon_diagram.svg.png 2x" width="350"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Moon_diagram.svg" title="Enlarge">
+          </a>
+         </div>
+         Moon's internal structure
+        </div>
+       </div>
+      </div>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:352px;">
+        <a class="image" href="/wiki/File:Lunar_Olivine_Basalt_15555_from_Apollo_15_in_National_Museum_of_Natural_History.jpg">
+         <img alt="" class="thumbimage" data-file-height="2848" data-file-width="3494" height="285" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Lunar_Olivine_Basalt_15555_from_Apollo_15_in_National_Museum_of_Natural_History.jpg/350px-Lunar_Olivine_Basalt_15555_from_Apollo_15_in_National_Museum_of_Natural_History.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Lunar_Olivine_Basalt_15555_from_Apollo_15_in_National_Museum_of_Natural_History.jpg/525px-Lunar_Olivine_Basalt_15555_from_Apollo_15_in_National_Museum_of_Natural_History.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/29/Lunar_Olivine_Basalt_15555_from_Apollo_15_in_National_Museum_of_Natural_History.jpg/700px-Lunar_Olivine_Basalt_15555_from_Apollo_15_in_National_Museum_of_Natural_History.jpg 2x" width="350"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Lunar_Olivine_Basalt_15555_from_Apollo_15_in_National_Museum_of_Natural_History.jpg" title="Enlarge">
+          </a>
+         </div>
+         <a href="/wiki/Olivine" title="Olivine">
+          Olivine
+         </a>
+         <a href="/wiki/Basalt" title="Basalt">
+          basalt
+         </a>
+         collected by
+         <a href="/wiki/Apollo_15" title="Apollo 15">
+          Apollo 15
+         </a>
+         .
+        </div>
+       </div>
+      </div>
+      <p>
+       Having a
+       <a href="/wiki/Arithmetic_mean" title="Arithmetic mean">
+        mean
+       </a>
+       density of 3,346.4
+       <a class="mw-redirect" href="/wiki/Kilogram_per_metre_cubed" title="Kilogram per metre cubed">
+        kg/m³
+       </a>
+       ,
+       <sup class="reference" id="cite_ref-1">
+        <a href="#cite_note-1">
+         [1]
+        </a>
+       </sup>
+       the
+       <a href="/wiki/Moon" title="Moon">
+        Moon
+       </a>
+       is a
+       <a href="/wiki/Planetary_differentiation" title="Planetary differentiation">
+        differentiated
+       </a>
+       body, being composed of a
+       <a href="/wiki/Geochemistry" title="Geochemistry">
+        geochemically
+       </a>
+       distinct
+       <a href="/wiki/Crust_(geology)" title="Crust (geology)">
+        crust
+       </a>
+       ,
+       <a href="/wiki/Mantle_(geology)" title="Mantle (geology)">
+        mantle
+       </a>
+       , and
+       <a href="/wiki/Planetary_core" title="Planetary core">
+        planetary core
+       </a>
+       . This structure is believed to have resulted from the
+       <a href="/wiki/Fractional_crystallization_(geology)" title="Fractional crystallization (geology)">
+        fractional crystallization
+       </a>
+       of a
+       <a href="/wiki/Lunar_magma_ocean" title="Lunar magma ocean">
+        magma ocean
+       </a>
+       shortly after its formation about 4.5 billion years ago. The energy required to melt the outer portion of the Moon is commonly attributed to a
+       <a class="mw-redirect" href="/wiki/Giant_impact_hypothesis" title="Giant impact hypothesis">
+        giant impact
+       </a>
+       event that is postulated to have formed the Earth-Moon system, and the subsequent reaccretion of material in Earth orbit. Crystallization of this magma ocean would have given rise to a mafic mantle and a
+       <a href="/wiki/Plagioclase" title="Plagioclase">
+        plagioclase
+       </a>
+       -rich crust.
+      </p>
+      <p>
+       Geochemical mapping from orbit implies that the crust of the Moon is largely
+       <a href="/wiki/Anorthosite" title="Anorthosite">
+        anorthositic
+       </a>
+       in composition,
+       <sup class="reference" id="cite_ref-L06_2-0">
+        <a href="#cite_note-L06-2">
+         [2]
+        </a>
+       </sup>
+       consistent with the magma ocean hypothesis. In terms of elements, the lunar crust is composed primarily of
+       <a href="/wiki/Oxygen" title="Oxygen">
+        oxygen
+       </a>
+       ,
+       <a href="/wiki/Silicon" title="Silicon">
+        silicon
+       </a>
+       ,
+       <a href="/wiki/Magnesium" title="Magnesium">
+        magnesium
+       </a>
+       ,
+       <a href="/wiki/Iron" title="Iron">
+        iron
+       </a>
+       ,
+       <a href="/wiki/Calcium" title="Calcium">
+        calcium
+       </a>
+       , and
+       <a href="/wiki/Aluminium" title="Aluminium">
+        aluminium
+       </a>
+       , but important minor and trace elements such as
+       <a href="/wiki/Titanium" title="Titanium">
+        titanium
+       </a>
+       ,
+       <a href="/wiki/Uranium" title="Uranium">
+        uranium
+       </a>
+       ,
+       <a href="/wiki/Thorium" title="Thorium">
+        thorium
+       </a>
+       ,
+       <a href="/wiki/Potassium" title="Potassium">
+        potassium
+       </a>
+       , and
+       <a href="/wiki/Hydrogen" title="Hydrogen">
+        hydrogen
+       </a>
+       are present as well. Based on geophysical techniques, the crust is estimated to be on average about 50 km thick.
+       <sup class="reference" id="cite_ref-W06_3-0">
+        <a href="#cite_note-W06-3">
+         [3]
+        </a>
+       </sup>
+      </p>
+      <p>
+       Partial melting within the mantle of the Moon gave rise to the eruption of mare basalts on the lunar surface. Analyses of these basalts indicate that the mantle is composed predominantly of the minerals
+       <a href="/wiki/Olivine" title="Olivine">
+        olivine
+       </a>
+       ,
+       <a class="mw-redirect" href="/wiki/Orthopyroxene" title="Orthopyroxene">
+        orthopyroxene
+       </a>
+       and
+       <a class="mw-redirect" href="/wiki/Clinopyroxene" title="Clinopyroxene">
+        clinopyroxene
+       </a>
+       , and that the lunar mantle is more iron-rich than that of the Earth. Some lunar basalts contain high abundances of titanium (present in the mineral
+       <a href="/wiki/Ilmenite" title="Ilmenite">
+        ilmenite
+       </a>
+       ), suggesting that the mantle is highly heterogeneous in composition.
+       <a class="mw-redirect" href="/wiki/Moonquake" title="Moonquake">
+        Moonquakes
+       </a>
+       have been found to occur deep within the mantle of the Moon about 1,000 km below the surface. These occur with monthly periodicities and are related to tidal stresses caused by the eccentric orbit of the Moon about the Earth. A few shallow moonquakes with hypocenters located about 100 km below the surface have also been detected, but these occur more infrequently and appear to be unrelated to the lunar tides.
+       <sup class="reference" id="cite_ref-W06_3-1">
+        <a href="#cite_note-W06-3">
+         [3]
+        </a>
+       </sup>
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Core">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Core
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#See_also">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-3">
+         <a href="#References">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-4">
+         <a href="#External_links">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           External links
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Core">
+        Core
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Internal_structure_of_the_Moon&amp;action=edit&amp;section=1" title="Edit section: Core">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:352px;">
+        <a class="image" href="/wiki/File:Moon_Schematic_Cross_Section.svg">
+         <img alt="" class="thumbimage" data-file-height="547" data-file-width="840" height="228" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Moon_Schematic_Cross_Section.svg/350px-Moon_Schematic_Cross_Section.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Moon_Schematic_Cross_Section.svg/525px-Moon_Schematic_Cross_Section.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/02/Moon_Schematic_Cross_Section.svg/700px-Moon_Schematic_Cross_Section.svg.png 2x" width="350"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Moon_Schematic_Cross_Section.svg" title="Enlarge">
+          </a>
+         </div>
+         Schematic illustration of the internal structure of the Moon
+        </div>
+       </div>
+      </div>
+      <p>
+       Several lines of evidence imply that the lunar core is small, with a radius of about 350 km or less.
+       <sup class="reference" id="cite_ref-W06_3-2">
+        <a href="#cite_note-W06-3">
+         [3]
+        </a>
+       </sup>
+       The size of the lunar core is only about 20% the size of the Moon itself, in contrast to about 50% as is the case for most other terrestrial bodies. The composition of the lunar core is not well constrained, but most believe that it is composed of metallic iron alloyed with a small amount of
+       <a href="/wiki/Sulfur" title="Sulfur">
+        sulfur
+       </a>
+       and
+       <a href="/wiki/Nickel" title="Nickel">
+        nickel
+       </a>
+       . Analyses of the Moon's time-variable rotations indicate that the core is at least partly molten.
+       <sup class="reference" id="cite_ref-4">
+        <a href="#cite_note-4">
+         [4]
+        </a>
+       </sup>
+      </p>
+      <p>
+       In 2010, a reanalysis of the old
+       <a href="/wiki/Apollo_Lunar_Surface_Experiments_Package" title="Apollo Lunar Surface Experiments Package">
+        Apollo
+       </a>
+       seismic data on the deep
+       <a class="mw-redirect" href="/wiki/Moonquake" title="Moonquake">
+        moonquakes
+       </a>
+       using modern processing methods confirmed that the Moon has an iron rich core with a radius of
+       <span class="nowrap">
+        330 ± 20 km
+       </span>
+       . The same reanalysis established that the solid inner core made of pure iron has the radius of
+       <span class="nowrap">
+        240 ± 10 km
+       </span>
+       . The core is surrounded by the partially (10 to 30%) melted layer of the lower mantle with a radius of
+       <span class="nowrap">
+        480 ± 20 km
+       </span>
+       (thickness ~150 km). These results imply that 40% of the core by volume has solidified. The density of the liquid outer core is about 5 g/cm
+       <sup>
+        3
+       </sup>
+       and it could contain as much 6%
+       <a href="/wiki/Sulfur" title="Sulfur">
+        sulfur
+       </a>
+       by weight. The temperature in the core is probably about 1600–1700 K.
+       <sup class="reference" id="cite_ref-Weber2010_5-0">
+        <a href="#cite_note-Weber2010-5">
+         [5]
+        </a>
+       </sup>
+      </p>
+      <div class="thumb tmulti tnone center">
+       <div class="thumbinner" style="width:591px;max-width:591px">
+        <div style="clear:both;font-weight:bold;text-align:center;background-color:transparent">
+         Moon –
+         <a href="/wiki/Oceanus_Procellarum" title="Oceanus Procellarum">
+          Oceanus Procellarum
+         </a>
+         ("Ocean of Storms")
+        </div>
+        <div class="tsingle" style="float:left;margin:1px;width:291px;max-width:291px">
+         <div class="thumbimage" style="height:107px;overflow:hidden">
+          <a class="image" href="/wiki/File:14-236-LunarGrailMission-OceanusProcellarum-Rifts-Overall-20141001.jpg">
+           <img alt="" data-file-height="228" data-file-width="614" height="107" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/14-236-LunarGrailMission-OceanusProcellarum-Rifts-Overall-20141001.jpg/289px-14-236-LunarGrailMission-OceanusProcellarum-Rifts-Overall-20141001.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/14-236-LunarGrailMission-OceanusProcellarum-Rifts-Overall-20141001.jpg/434px-14-236-LunarGrailMission-OceanusProcellarum-Rifts-Overall-20141001.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/14-236-LunarGrailMission-OceanusProcellarum-Rifts-Overall-20141001.jpg/578px-14-236-LunarGrailMission-OceanusProcellarum-Rifts-Overall-20141001.jpg 2x" width="289"/>
+          </a>
+         </div>
+         <div class="thumbcaption" style="clear:left">
+          Ancient
+          <a href="/wiki/Rift_valley" title="Rift valley">
+           rift valleys
+          </a>
+          – rectangular structure (visible – topography –
+          <a class="mw-redirect" href="/wiki/Gravity_Recovery_and_Interior_Laboratory" title="Gravity Recovery and Interior Laboratory">
+           GRAIL gravity gradients
+          </a>
+          ) (October 1, 2014).
+         </div>
+        </div>
+        <div class="tsingle" style="float:left;margin:1px;width:109px;max-width:109px">
+         <div class="thumbimage" style="height:107px;overflow:hidden">
+          <a class="image" href="/wiki/File:PIA18822-LunarGrailMission-OceanusProcellarum-Rifts-Overall-20141001.jpg">
+           <img alt="" data-file-height="1500" data-file-width="1500" height="107" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/PIA18822-LunarGrailMission-OceanusProcellarum-Rifts-Overall-20141001.jpg/107px-PIA18822-LunarGrailMission-OceanusProcellarum-Rifts-Overall-20141001.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/PIA18822-LunarGrailMission-OceanusProcellarum-Rifts-Overall-20141001.jpg/161px-PIA18822-LunarGrailMission-OceanusProcellarum-Rifts-Overall-20141001.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8c/PIA18822-LunarGrailMission-OceanusProcellarum-Rifts-Overall-20141001.jpg/214px-PIA18822-LunarGrailMission-OceanusProcellarum-Rifts-Overall-20141001.jpg 2x" width="107"/>
+          </a>
+         </div>
+         <div class="thumbcaption" style="clear:left">
+          Ancient
+          <a href="/wiki/Rift_valley" title="Rift valley">
+           rift valleys
+          </a>
+          – context.
+         </div>
+        </div>
+        <div class="tsingle" style="float:left;margin:1px;width:185px;max-width:185px">
+         <div class="thumbimage" style="height:107px;overflow:hidden">
+          <a class="image" href="/wiki/File:PIA18821-LunarGrailMission-OceanusProcellarum-Rifts-Closeup-20141001.jpg">
+           <img alt="" data-file-height="905" data-file-width="1546" height="107" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/PIA18821-LunarGrailMission-OceanusProcellarum-Rifts-Closeup-20141001.jpg/183px-PIA18821-LunarGrailMission-OceanusProcellarum-Rifts-Closeup-20141001.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/PIA18821-LunarGrailMission-OceanusProcellarum-Rifts-Closeup-20141001.jpg/275px-PIA18821-LunarGrailMission-OceanusProcellarum-Rifts-Closeup-20141001.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/67/PIA18821-LunarGrailMission-OceanusProcellarum-Rifts-Closeup-20141001.jpg/366px-PIA18821-LunarGrailMission-OceanusProcellarum-Rifts-Closeup-20141001.jpg 2x" width="183"/>
+          </a>
+         </div>
+         <div class="thumbcaption" style="clear:left">
+          Ancient
+          <a href="/wiki/Rift_valley" title="Rift valley">
+           rift valleys
+          </a>
+          – closeup (artist's concept).
+         </div>
+        </div>
+        <div style="clear:left">
+        </div>
+       </div>
+      </div>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Internal_structure_of_the_Moon&amp;action=edit&amp;section=2" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+       <ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+        <li style="display:table-row">
+         <span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center">
+          <a class="image" href="/wiki/File:Moon-Mdf-2005.jpg">
+           <img alt="icon" class="noviewer" data-file-height="1024" data-file-width="1024" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Moon-Mdf-2005.jpg/28px-Moon-Mdf-2005.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Moon-Mdf-2005.jpg/42px-Moon-Mdf-2005.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Moon-Mdf-2005.jpg/56px-Moon-Mdf-2005.jpg 2x" width="28"/>
+          </a>
+         </span>
+         <span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle">
+          <a href="/wiki/Portal:Moon" title="Portal:Moon">
+           Moon portal
+          </a>
+         </span>
+        </li>
+       </ul>
+      </div>
+      <ul>
+       <li>
+        <a href="/wiki/Structure_of_the_Earth" title="Structure of the Earth">
+         Structure of the Earth
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Internal_structure_of_the_Moon&amp;action=edit&amp;section=3" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist" style="list-style-type: decimal;">
+       <div class="mw-references-wrap">
+        <ol class="references">
+         <li id="cite_note-1">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-1">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Making it the second densest satellite in the
+           <a href="/wiki/Solar_System" title="Solar System">
+            Solar System
+           </a>
+           after
+           <a href="/wiki/Io_(moon)" title="Io (moon)">
+            Io
+           </a>
+          </span>
+         </li>
+         <li id="cite_note-L06-2">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-L06_2-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            P. Lucey and 12 coauthors, P. (2006). "Understanding the lunar surface and space-Moon interactions".
+            <i>
+             Reviews in Mineralogy and Geochemistry
+            </i>
+            .
+            <b>
+             60
+            </b>
+            : 83–219.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/2006RvMG...60...83L" rel="nofollow">
+             2006RvMG...60...83L
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.2138%2Frmg.2006.60.2" rel="nofollow">
+             10.2138/rmg.2006.60.2
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Reviews+in+Mineralogy+and+Geochemistry&amp;rft.atitle=Understanding+the+lunar+surface+and+space-Moon+interactions&amp;rft.volume=60&amp;rft.pages=83-219&amp;rft.date=2006&amp;rft_id=info%3Adoi%2F10.2138%2Frmg.2006.60.2&amp;rft_id=info%3Abibcode%2F2006RvMG...60...83L&amp;rft.aulast=P.+Lucey+and+12+coauthors&amp;rft.aufirst=P.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInternal+structure+of+the+Moon">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-W06-3">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-W06_3-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-W06_3-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-W06_3-2">
+            <sup>
+             <i>
+              <b>
+               c
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Mark Wieczorek and 15 coauthors, M. A. (2006).
+            <a class="external text" href="https://web.archive.org/web/20141221063318/http://scripts.mit.edu/~paleomag/articles/60_03_Wieczorek_etal.pdf" rel="nofollow">
+             "The constitution and structure of the lunar interior"
+            </a>
+            <span style="font-size:85%;">
+             (PDF)
+            </span>
+            .
+            <i>
+             Reviews in Mineralogy and Geochemistry
+            </i>
+            .
+            <b>
+             60
+            </b>
+            : 221–364.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/2006RvMG...60..221W" rel="nofollow">
+             2006RvMG...60..221W
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.2138%2Frmg.2006.60.3" rel="nofollow">
+             10.2138/rmg.2006.60.3
+            </a>
+            . Archived from
+            <a class="external text" href="http://scripts.mit.edu/~paleomag/articles/60_03_Wieczorek_etal.pdf" rel="nofollow">
+             the original
+            </a>
+            <span style="font-size:85%;">
+             (PDF)
+            </span>
+            on 2014-12-21.
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Reviews+in+Mineralogy+and+Geochemistry&amp;rft.atitle=The+constitution+and+structure+of+the+lunar+interior&amp;rft.volume=60&amp;rft.pages=221-364&amp;rft.date=2006&amp;rft_id=info%3Adoi%2F10.2138%2Frmg.2006.60.3&amp;rft_id=info%3Abibcode%2F2006RvMG...60..221W&amp;rft.aulast=Mark+Wieczorek+and+15+coauthors&amp;rft.aufirst=M.+A.&amp;rft_id=http%3A%2F%2Fscripts.mit.edu%2F~paleomag%2Farticles%2F60_03_Wieczorek_etal.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInternal+structure+of+the+Moon">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-4">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-4">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            J. G. Williams; S. G. Turyshev; D. H. Boggs; J. T. Ratcliff (2006). "Lunar laser ranging science: Gravitational physics and lunar interior and geodesy".
+            <i>
+             Advances in Space Research
+            </i>
+            .
+            <b>
+             37
+            </b>
+            (1): 67–71.
+            <a href="/wiki/ArXiv" title="ArXiv">
+             arXiv
+            </a>
+            :
+            <span class="plainlinks">
+             <a class="external text" href="//arxiv.org/abs/gr-qc/0412049" rel="nofollow">
+              gr-qc/0412049
+             </a>
+             <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/>
+            </span>
+            .
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/2006AdSpR..37...67W" rel="nofollow">
+             2006AdSpR..37...67W
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1016%2Fj.asr.2005.05.013" rel="nofollow">
+             10.1016/j.asr.2005.05.013
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Advances+in+Space+Research&amp;rft.atitle=Lunar+laser+ranging+science%3A+Gravitational+physics+and+lunar+interior+and+geodesy&amp;rft.volume=37&amp;rft.issue=1&amp;rft.pages=67-71&amp;rft.date=2006&amp;rft_id=info%3Aarxiv%2Fgr-qc%2F0412049&amp;rft_id=info%3Adoi%2F10.1016%2Fj.asr.2005.05.013&amp;rft_id=info%3Abibcode%2F2006AdSpR..37...67W&amp;rft.au=J.+G.+Williams&amp;rft.au=S.+G.+Turyshev&amp;rft.au=D.+H.+Boggs&amp;rft.au=J.+T.+Ratcliff&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInternal+structure+of+the+Moon">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-Weber2010-5">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-Weber2010_5-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Weber, R. C.; Lin, P.-Y.; Garnero, E. J.; Williams, Q.; Lognonne, P. (2011). "Seismic Detection of the Lunar Core".
+            <i>
+             Science
+            </i>
+            .
+            <b>
+             331
+            </b>
+            (6015): 309–312.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/2011Sci...331..309W" rel="nofollow">
+             2011Sci...331..309W
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1126%2Fscience.1199375" rel="nofollow">
+             10.1126/science.1199375
+            </a>
+            .
+            <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">
+             PMID
+            </a>
+            <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/21212323" rel="nofollow">
+             21212323
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Science&amp;rft.atitle=Seismic+Detection+of+the+Lunar+Core&amp;rft.volume=331&amp;rft.issue=6015&amp;rft.pages=309-312&amp;rft.date=2011&amp;rft_id=info%3Apmid%2F21212323&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.1199375&amp;rft_id=info%3Abibcode%2F2011Sci...331..309W&amp;rft.aulast=Weber&amp;rft.aufirst=R.+C.&amp;rft.au=Lin%2C+P.-Y.&amp;rft.au=Garnero%2C+E.+J.&amp;rft.au=Williams%2C+Q.&amp;rft.au=Lognonne%2C+P.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInternal+structure+of+the+Moon">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Internal_structure_of_the_Moon&amp;action=edit&amp;section=4" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a class="external text" href="http://www.psrd.hawaii.edu/Archive/Archive-Moon.html" rel="nofollow">
+         Moon articles in Planetary Science Research Discoveries
+        </a>
+        , including articles about internal structure of the Moon
+       </li>
+      </ul>
+      <div aria-labelledby="The_Moon" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="3" scope="col" style="text-align: center;">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:The_Moon" title="Template:The Moon">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a href="/wiki/Template_talk:The_Moon" title="Template talk:The Moon">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:The_Moon&amp;action=edit">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="The_Moon" style="font-size:114%;margin:0 4em">
+           The
+           <a href="/wiki/Moon" title="Moon">
+            Moon
+           </a>
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          Physical
+          <br/>
+          properties
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a class="mw-selflink selflink">
+              Internal structure
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Topography_of_the_Moon" title="Topography of the Moon">
+              Topography
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Atmosphere_of_the_Moon" title="Atmosphere of the Moon">
+              Atmosphere
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Gravitation_of_the_Moon" title="Gravitation of the Moon">
+              Gravity field
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Hill_sphere" title="Hill sphere">
+                Hill sphere
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Magnetic_field_of_the_Moon" title="Magnetic field of the Moon">
+              Magnetic field
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Sodium_tail_of_the_Moon" title="Sodium tail of the Moon">
+              Sodium tail
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Moonlight" title="Moonlight">
+              Moonlight
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Earthlight_(astronomy)" title="Earthlight (astronomy)">
+                Earthshine
+               </a>
+              </li>
+             </ul>
+            </li>
+           </ul>
+          </div>
+         </td>
+         <td class="navbox-image" rowspan="8" style="width:1px;padding:0px 0px 0px 2px">
+          <div>
+           <a class="image" href="/wiki/File:FullMoon2010.jpg" title="A full moon">
+            <img alt="A full moon" data-file-height="2452" data-file-width="2580" height="114" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/FullMoon2010.jpg/120px-FullMoon2010.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/FullMoon2010.jpg/180px-FullMoon2010.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e1/FullMoon2010.jpg/240px-FullMoon2010.jpg 2x" width="120"/>
+           </a>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Orbit_of_the_Moon" title="Orbit of the Moon">
+           Orbit
+          </a>
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Orbital_elements" title="Orbital elements">
+              Orbital elements
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_distance_(astronomy)" title="Lunar distance (astronomy)">
+                Distance
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Apsis" title="Apsis">
+                  Perigee &amp; apogee
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li>
+               <a href="/wiki/Lunar_node" title="Lunar node">
+                Nodes
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Nodal_period" title="Nodal period">
+                  Nodal period
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li>
+               <a href="/wiki/Lunar_precession" title="Lunar precession">
+                Precession
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Syzygy_(astronomy)" title="Syzygy (astronomy)">
+              Syzygy
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/New_moon" title="New moon">
+                New moon
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Full_moon" title="Full moon">
+                Full moon
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Eclipse" title="Eclipse">
+                Eclipses
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Lunar_eclipse" title="Lunar eclipse">
+                  Lunar eclipse
+                 </a>
+                 <ul>
+                  <li>
+                   <a href="/wiki/Total_penumbral_lunar_eclipse" title="Total penumbral lunar eclipse">
+                    Total penumbral lunar eclipse
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Tetrad_(astronomy)" title="Tetrad (astronomy)">
+                    Tetrad
+                   </a>
+                  </li>
+                 </ul>
+                </li>
+                <li>
+                 <a href="/wiki/Solar_eclipse" title="Solar eclipse">
+                  Solar eclipse
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Solar_eclipses_on_the_Moon" title="Solar eclipses on the Moon">
+                  Solar eclipses on the Moon
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Eclipse_cycle" title="Eclipse cycle">
+                  Eclipse cycle
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li>
+               <a href="/wiki/Supermoon" title="Supermoon">
+                Supermoon
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Tide" title="Tide">
+              Tide
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Tidal_force" title="Tidal force">
+                Tidal force
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Tidal_locking" title="Tidal locking">
+                Tidal locking
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Tidal_acceleration" title="Tidal acceleration">
+                Tidal acceleration
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Tidal_range" title="Tidal range">
+                Tidal range
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_mansion" title="Lunar mansion">
+              Lunar mansion
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          Surface &amp;
+          <br/>
+          <a href="/wiki/List_of_lunar_features" title="List of lunar features">
+           features
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Selenography" title="Selenography">
+              Selenography
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Lunar_terminator" title="Lunar terminator">
+              Terminator
+             </a>
+            </li>
+            <li>
+             Hemispheres
+             <ul>
+              <li>
+               <a href="/wiki/Near_side_of_the_Moon" title="Near side of the Moon">
+                Near side
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Far_side_of_the_Moon" title="Far side of the Moon">
+                Far side
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             Poles
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_north_pole" title="Lunar north pole">
+                North pole
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Lunar_south_pole" title="Lunar south pole">
+                South pole
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Face_on_Moon_South_Pole" title="Face on Moon South Pole">
+                  Face
+                 </a>
+                </li>
+               </ul>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_mare" title="Lunar mare">
+              Maria
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/List_of_maria_on_the_Moon" title="List of maria on the Moon">
+                List
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/List_of_mountains_on_the_Moon" title="List of mountains on the Moon">
+              Mountains
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Peak_of_eternal_light" title="Peak of eternal light">
+                Peak of eternal light
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/List_of_valleys_on_the_Moon" title="List of valleys on the Moon">
+              Valleys
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Moon#Volcanic_features" title="Moon">
+              Volcanic features
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_dome" title="Lunar dome">
+                Domes
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Caldera#The_Moon" title="Caldera">
+                Calderas
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Lunar_crater" title="Lunar crater">
+              Craters
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/List_of_craters_on_the_Moon" title="List of craters on the Moon">
+                List
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Ray_system#Lunar_rays" title="Ray system">
+                Ray systems
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Crater_of_eternal_darkness" title="Crater of eternal darkness">
+                Crater of eternal darkness
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Shackleton_(crater)" title="Shackleton (crater)">
+                Shackleton crater
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/South_Pole%E2%80%93Aitken_basin" title="South Pole–Aitken basin">
+                South Pole–Aitken basin
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_soil" title="Lunar soil">
+              Soil
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_swirls" title="Lunar swirls">
+                Swirls
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Rille" title="Rille">
+              Rilles
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Wrinkle_ridge" title="Wrinkle ridge">
+              Wrinkle ridges
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Moon_rock" title="Moon rock">
+              Rocks
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_basalt_70017" title="Lunar basalt 70017">
+                Lunar basalt 70017
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_water" title="Lunar water">
+              Water
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Space_weathering" title="Space weathering">
+              Space weathering
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Micrometeorite" title="Micrometeorite">
+                Micrometeorite
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Sputtering" title="Sputtering">
+                Sputtering
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Quake_(natural_phenomenon)#Moonquake" title="Quake (natural phenomenon)">
+              Quakes
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Transient_lunar_phenomenon" title="Transient lunar phenomenon">
+              Transient lunar phenomenon
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          Science
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Lunar_observation" title="Lunar observation">
+              Observation
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Libration#Lunar_libration" title="Libration">
+              Libration
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_theory" title="Lunar theory">
+              Lunar theory
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Origin_of_the_Moon" title="Origin of the Moon">
+              Origin
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Giant-impact_hypothesis" title="Giant-impact hypothesis">
+                Giant-impact hypothesis
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Theia_(planet)" title="Theia (planet)">
+                  Theia
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Lunar_magma_ocean" title="Lunar magma ocean">
+                  Lunar magma ocean
+                 </a>
+                </li>
+               </ul>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Geology_of_the_Moon" title="Geology of the Moon">
+              Geology
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_geologic_timescale" title="Lunar geologic timescale">
+                Timescale
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Late_Heavy_Bombardment" title="Late Heavy Bombardment">
+                  Late Heavy Bombardment
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li>
+               <a href="/wiki/Lunar_meteorite" title="Lunar meteorite">
+                Lunar meteorites
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/KREEP" title="KREEP">
+                KREEP
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             Experiments
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_Laser_Ranging_experiment" title="Lunar Laser Ranging experiment">
+                Lunar laser ranging
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Apollo_Lunar_Surface_Experiments_Package" title="Apollo Lunar Surface Experiments Package">
+                ALSEP
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_sample_displays" title="Lunar sample displays">
+              Lunar sample displays
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Apollo_11_lunar_sample_display" title="Apollo 11 lunar sample display">
+                Apollo 11
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Apollo_17_lunar_sample_display" title="Apollo 17 lunar sample display">
+                Apollo 17
+               </a>
+              </li>
+             </ul>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Exploration_of_the_Moon" title="Exploration of the Moon">
+           Exploration
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/List_of_missions_to_the_Moon" title="List of missions to the Moon">
+              Missions
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Apollo_program" title="Apollo program">
+                Apollo program
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/List_of_lunar_probes" title="List of lunar probes">
+              Probes
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Moon_landing" title="Moon landing">
+              Landing
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Moon_landing_conspiracy_theories" title="Moon landing conspiracy theories">
+                Conspiracy theories
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Colonization_of_the_Moon" title="Colonization of the Moon">
+              Colonization
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tourism_on_the_Moon" title="Tourism on the Moon">
+              Tourism
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          Time-telling
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Lunar_calendar" title="Lunar calendar">
+              Lunar calendar
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Lunisolar_calendar" title="Lunisolar calendar">
+              Lunisolar calendar
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Month" title="Month">
+              Month
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_month" title="Lunar month">
+                Lunar month
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Nodal_period" title="Nodal period">
+                  Nodal period
+                 </a>
+                </li>
+               </ul>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Fortnight" title="Fortnight">
+              Fortnight
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Week" title="Week">
+              Sennight
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_mansion" title="Lunar mansion">
+              Lunar mansion
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Lunar_phase" title="Lunar phase">
+           Phases
+          </a>
+          &amp;
+          <br/>
+          names
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/New_moon" title="New moon">
+              New
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Full_moon" title="Full moon">
+              Full
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Full_moon#Full_moon_names" title="Full moon">
+                Names
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Crescent" title="Crescent">
+              Crescent
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Supermoon" title="Supermoon">
+              Super &amp; micro
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_eclipse" title="Lunar eclipse">
+              Blood
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Blue_moon" title="Blue moon">
+              Blue
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Black_moon" title="Black moon">
+              Black
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Dark_moon" title="Dark moon">
+              Dark
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Wet_moon" title="Wet moon">
+              Wet
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tetrad_(astronomy)" title="Tetrad (astronomy)">
+              Tetrad
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          Related
+          <br/>
+          topics
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             Psychology
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_effect" title="Lunar effect">
+                Lunar effect
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Moon_illusion" title="Moon illusion">
+                Moon illusion
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Pareidolia" title="Pareidolia">
+                Pareidolia
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Man_in_the_Moon" title="Man in the Moon">
+                  Man in the Moon
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Moon_rabbit" title="Moon rabbit">
+                  Moon rabbit
+                 </a>
+                </li>
+               </ul>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/List_of_people_with_craters_of_the_Moon_named_after_them" title="List of people with craters of the Moon named after them">
+              Craters named after people
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/List_of_extraterrestrial_memorials#The_Moon" title="List of extraterrestrial memorials">
+              Memorials on the Moon
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Moon_in_fiction" title="Moon in fiction">
+              Moon in fiction
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/List_of_lunar_deities" title="List of lunar deities">
+              Moon in mythology
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Hj%C3%BAki_and_Bil" title="Hjúki and Bil">
+                Hjúki and Bil
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             "
+             <a href="/wiki/The_Moon_is_made_of_green_cheese" title="The Moon is made of green cheese">
+              Moon is made of green cheese
+             </a>
+             "
+            </li>
+            <li>
+             <a href="/wiki/Natural_satellite" title="Natural satellite">
+              Natural satellite
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Double_planet" title="Double planet">
+              Double planet
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Planetary_objects_proposed_in_religion,_astrology,_ufology_and_pseudoscience#Lilith" title="Planetary objects proposed in religion, astrology, ufology and pseudoscience">
+              Lilith (hypothetical second moon)
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <td class="navbox-abovebelow" colspan="3" style="text-align: center;">
+          <div>
+           <ul>
+            <li>
+             <img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/>
+             <b>
+              <a href="/wiki/Category:Moon" title="Category:Moon">
+               Category
+              </a>
+             </b>
+            </li>
+            <li>
+             <img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/>
+             <b>
+              <a href="/wiki/Portal:Moon" title="Portal:Moon">
+               Moon portal
+              </a>
+             </b>
+            </li>
+            <li>
+             <img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/>
+             <b>
+              <a href="/wiki/Portal:Earth_sciences" title="Portal:Earth sciences">
+               Earth sciences portal
+              </a>
+             </b>
+            </li>
+            <li>
+             <img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/>
+             <b>
+              <a href="/wiki/Portal:Solar_System" title="Portal:Solar System">
+               Solar System portal
+              </a>
+             </b>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1289
+Cached time: 20180313092834
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.152 seconds
+Real time usage: 0.201 seconds
+Preprocessor visited node count: 538/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 38341/2097152 bytes
+Template argument size: 161/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 7356/5000000 bytes
+Lua time usage: 0.060/10.000 seconds
+Lua memory usage: 2.52 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  134.795      1 -total
+ 53.33%   71.885      1 Template:Reflist
+ 39.98%   53.887      4 Template:Cite_journal
+ 18.22%   24.555      1 Template:Also
+ 15.88%   21.402      1 Template:The_Moon
+ 13.96%   18.824      1 Template:Navbox
+  5.94%    8.009      4 Template:Icon
+  4.72%    6.358      1 Template:Portal
+  3.92%    5.281      1 Template:Multiple_image
+  1.25%    1.691      1 Template:Main_other
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:8955397-0!canonical and timestamp 20180313092834 and revision id 830190582
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Internal_structure_of_the_Moon&amp;oldid=830190582">
+      https://en.wikipedia.org/w/index.php?title=Internal_structure_of_the_Moon&amp;oldid=830190582
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Lunar_science" title="Category:Lunar science">
+         Lunar science
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Pages_using_multiple_image_with_manual_scaled_images" title="Category:Pages using multiple image with manual scaled images">
+         Pages using multiple image with manual scaled images
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Internal+structure+of+the+Moon" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Internal+structure+of+the+Moon" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Internal_structure_of_the_Moon" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Internal_structure_of_the_Moon" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Internal_structure_of_the_Moon">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Internal_structure_of_the_Moon&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Internal_structure_of_the_Moon&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Internal_structure_of_the_Moon" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Internal_structure_of_the_Moon" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Internal_structure_of_the_Moon&amp;oldid=830190582" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Internal_structure_of_the_Moon&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1358214" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Internal_structure_of_the_Moon&amp;id=830190582" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Internal+structure+of+the+Moon">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Internal+structure+of+the+Moon&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Internal_structure_of_the_Moon&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A8_%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A_%D9%84%D9%84%D9%82%D9%85%D8%B1" hreflang="ar" lang="ar" title="التركيب الداخلي للقمر – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bg">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%92%D1%8A%D1%82%D1%80%D0%B5%D1%88%D0%B5%D0%BD_%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%B6_%D0%BD%D0%B0_%D0%9B%D1%83%D0%BD%D0%B0%D1%82%D0%B0" hreflang="bg" lang="bg" title="Вътрешен строеж на Луната – Bulgarian">
+         Български
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Estructura_interna_de_la_Lluna" hreflang="ca" lang="ca" title="Estructura interna de la Lluna – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%B3%D8%A7%D8%AE%D8%AA%D8%A7%D8%B1_%D8%AF%D8%B1%D9%88%D9%86%DB%8C_%D9%85%D8%A7%D9%87" hreflang="fa" lang="fa" title="ساختار درونی ماه – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Structure_interne_de_la_Lune" hreflang="fr" lang="fr" title="Structure interne de la Lune – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EB%8B%AC%EC%9D%98_%EB%82%B4%EB%B6%80%EA%B5%AC%EC%A1%B0" hreflang="ko" lang="ko" title="달의 내부구조 – Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Struttura_interna_della_Luna" hreflang="it" lang="it" title="Struttura interna della Luna – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/M%C3%A5nens_indre_struktur" hreflang="no" lang="no" title="Månens indre struktur – Norwegian">
+         Norsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Estrutura_interna_da_Lua" hreflang="pt" lang="pt" title="Estrutura interna da Lua – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-si">
+        <a class="interlanguage-link-target" href="https://si.wikipedia.org/wiki/%E0%B6%A0%E0%B6%B1%E0%B7%8A%E0%B6%AF%E0%B7%8A%E2%80%8D%E0%B6%BB%E0%B6%BA%E0%B7%8F%E0%B6%9C%E0%B7%9A_%E0%B6%85%E0%B6%B7%E0%B7%8A%E2%80%8D%E0%B6%BA%E0%B6%B1%E0%B7%8A%E0%B6%AD%E0%B6%BB_%E0%B7%80%E0%B7%8A%E2%80%8D%E0%B6%BA%E0%B7%94%E0%B7%84%E0%B6%BA" hreflang="si" lang="si" title="චන්ද්‍රයාගේ අභ්‍යන්තර ව්‍යුහය – Sinhala">
+         සිංහල
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ta">
+        <a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%A8%E0%AE%BF%E0%AE%B2%E0%AE%B5%E0%AE%BF%E0%AE%A9%E0%AF%8D_%E0%AE%89%E0%AE%B3%E0%AF%8D_%E0%AE%95%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%AE%E0%AF%88%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81" hreflang="ta" lang="ta" title="நிலவின் உள் கட்டமைப்பு – Tamil">
+         தமிழ்
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E6%9C%88%E7%90%83%E5%85%A7%E9%83%A8%E6%A7%8B%E9%80%A0" hreflang="zh" lang="zh" title="月球內部構造 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1358214#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 13 March 2018, at 09:28.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Internal_structure_of_the_Moon&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.152","walltime":"0.201","ppvisitednodes":{"value":538,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":38341,"limit":2097152},"templateargumentsize":{"value":161,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":7356,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  134.795      1 -total"," 53.33%   71.885      1 Template:Reflist"," 39.98%   53.887      4 Template:Cite_journal"," 18.22%   24.555      1 Template:Also"," 15.88%   21.402      1 Template:The_Moon"," 13.96%   18.824      1 Template:Navbox","  5.94%    8.009      4 Template:Icon","  4.72%    6.358      1 Template:Portal","  3.92%    5.281      1 Template:Multiple_image","  1.25%    1.691      1 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.060","limit":"10.000"},"limitreport-memusage":{"value":2642490,"limit":52428800}},"cachereport":{"origin":"mw1289","timestamp":"20180313092834","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":69,"wgHostname":"mw1238"});});
+  </script>
+ </body>
+</html>

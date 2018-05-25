@@ -1,0 +1,2694 @@
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Screenwriter - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Screenwriter","wgTitle":"Screenwriter","wgCurRevisionId":832000351,"wgRevisionId":832000351,"wgArticleId":53016,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles with GND identifiers","Filmmaking occupations","Writing occupations","Media occupations","Screenwriters"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Screenwriter","wgRelevantArticleId":53016,"wgRequestId":"WrSfcwpAICAAAKgYRSAAAABN","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q28389","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.26" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Screenplay_example.svg/1200px-Screenplay_example.svg.png" property="og:image"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Screenwriter" rel="alternate"/>
+  <link href="/w/index.php?title=Screenwriter&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Screenwriter&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Screenwriter" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Screenwriter rootpage-Screenwriter skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Screenwriter
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;width:18.0em;">
+       <tr>
+        <td style="padding-top:0.4em;line-height:1.2em;padding-bottom:0.1em;">
+         Part of
+         <a href="/wiki/Category:Filmmaking" title="Category:Filmmaking">
+          a series
+         </a>
+         on
+        </td>
+       </tr>
+       <tr>
+        <th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em;background:#36454F;padding-bottom:0.1em;font-size:200%;font-weight:normal;color:white;">
+         <a href="/wiki/Filmmaking" title="Filmmaking">
+          <span style="color:white">
+           Filmmaking
+          </span>
+         </a>
+        </th>
+       </tr>
+       <tr>
+        <td style="padding:0.2em 0 0.4em;padding:0.4em 0 0.4em;">
+         <a class="image" href="/wiki/File:Video-x-generic.svg" title="Reel of film">
+          <img alt="Reel of film" data-file-height="48" data-file-width="48" height="90" src="//upload.wikimedia.org/wikipedia/en/thumb/e/e7/Video-x-generic.svg/90px-Video-x-generic.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/e/e7/Video-x-generic.svg/135px-Video-x-generic.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/e/e7/Video-x-generic.svg/180px-Video-x-generic.svg.png 2x" width="90"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em">
+         <div class="NavFrame collapsed" style="border:none;padding:0">
+          <div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align:center;">
+           <a href="/wiki/Filmmaking#Development" title="Filmmaking">
+            Development
+           </a>
+          </div>
+          <div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+           <ul>
+            <li>
+             <a href="/wiki/Step_outline" title="Step outline">
+              Step outline
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Film_treatment" title="Film treatment">
+              Film treatment
+             </a>
+            </li>
+           </ul>
+           <ul>
+            <li>
+             <a href="/wiki/Scriptment" title="Scriptment">
+              Scriptment
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Screenplay" title="Screenplay">
+              Screenplay
+             </a>
+            </li>
+           </ul>
+           <ul>
+            <li>
+             <a href="/wiki/Film_finance" title="Film finance">
+              Film finance
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Film_budgeting" title="Film budgeting">
+              Film budgeting
+             </a>
+            </li>
+           </ul>
+           <ul>
+            <li>
+             <a href="/wiki/Green-light" title="Green-light">
+              Green-light
+             </a>
+            </li>
+           </ul>
+          </div>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em">
+         <div class="NavFrame collapsed" style="border:none;padding:0">
+          <div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align:center;">
+           <a href="/wiki/Pre-production" title="Pre-production">
+            Pre-production
+           </a>
+          </div>
+          <div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+           <ul>
+            <li>
+             <a href="/wiki/Breaking_down_the_script" title="Breaking down the script">
+              Breaking down the script
+             </a>
+            </li>
+           </ul>
+           <ul>
+            <li>
+             <a href="/wiki/Script_breakdown" title="Script breakdown">
+              Script breakdown
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Storyboard" title="Storyboard">
+              Storyboard
+             </a>
+            </li>
+           </ul>
+           <ul>
+            <li>
+             <a href="/wiki/Production_board" title="Production board">
+              Production board
+             </a>
+            </li>
+           </ul>
+           <ul>
+            <li>
+             <a class="mw-redirect" href="/wiki/Production_strip" title="Production strip">
+              Production strip
+             </a>
+            </li>
+           </ul>
+           <ul>
+            <li>
+             <a href="/wiki/Day_Out_of_Days" title="Day Out of Days">
+              Day Out of Days
+             </a>
+            </li>
+           </ul>
+           <ul>
+            <li>
+             <a href="/wiki/Production_schedule" title="Production schedule">
+              Production schedule
+             </a>
+            </li>
+           </ul>
+           <ul>
+            <li>
+             <a href="/wiki/One_liner_schedule" title="One liner schedule">
+              One liner schedule
+             </a>
+            </li>
+           </ul>
+           <ul>
+            <li>
+             <a href="/wiki/Shooting_schedule" title="Shooting schedule">
+              Shooting schedule
+             </a>
+            </li>
+           </ul>
+          </div>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em">
+         <div class="NavFrame collapsed" style="border:none;padding:0">
+          <div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align:center;">
+           Production
+          </div>
+          <div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+           <ul>
+            <li>
+             <a href="/wiki/Cinematography" title="Cinematography">
+              Cinematography
+             </a>
+            </li>
+           </ul>
+           <ul>
+            <li>
+             <a href="/wiki/Principal_photography" title="Principal photography">
+              Principal photography
+             </a>
+            </li>
+           </ul>
+           <ul>
+            <li>
+             <a href="/wiki/Videography" title="Videography">
+              Videography
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Shooting_script" title="Shooting script">
+              Shooting script
+             </a>
+            </li>
+           </ul>
+           <ul>
+            <li>
+             <a href="/wiki/Film_inventory_report" title="Film inventory report">
+              Film inventory report
+             </a>
+            </li>
+           </ul>
+           <ul>
+            <li>
+             <a href="/wiki/Daily_call_sheet" title="Daily call sheet">
+              Daily call sheet
+             </a>
+            </li>
+           </ul>
+           <ul>
+            <li>
+             <a href="/wiki/Production_report" title="Production report">
+              Production report
+             </a>
+            </li>
+           </ul>
+           <ul>
+            <li>
+             <a class="mw-redirect" href="/wiki/Daily_production_report" title="Daily production report">
+              Daily production report
+             </a>
+            </li>
+           </ul>
+           <ul>
+            <li>
+             <a href="/wiki/Daily_progress_report" title="Daily progress report">
+              Daily progress report
+             </a>
+            </li>
+           </ul>
+           <ul>
+            <li>
+             <a class="mw-redirect" href="/wiki/Daily_editor_log" title="Daily editor log">
+              Daily editor log
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Sound_report" title="Sound report">
+              Sound report
+             </a>
+            </li>
+           </ul>
+           <ul>
+            <li>
+             <a href="/wiki/Cost_report" title="Cost report">
+              Cost report
+             </a>
+            </li>
+           </ul>
+          </div>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em">
+         <div class="NavFrame collapsed" style="border:none;padding:0">
+          <div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align:center;">
+           <a href="/wiki/Post-production" title="Post-production">
+            Post-production
+           </a>
+          </div>
+          <div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+           <ul>
+            <li>
+             <a href="/wiki/Film_editing" title="Film editing">
+              Film editing
+             </a>
+            </li>
+           </ul>
+           <ul>
+            <li>
+             <a href="/wiki/Re-recording_(filmmaking)" title="Re-recording (filmmaking)">
+              Re-recording
+             </a>
+            </li>
+           </ul>
+           <ul>
+            <li>
+             <a href="/wiki/Sync_sound" title="Sync sound">
+              Sync sound
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Soundtrack" title="Soundtrack">
+              Soundtrack
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Film_score" title="Film score">
+              Music
+             </a>
+            </li>
+           </ul>
+           <div style="padding:0.2em 0.4em; line-height:1.2em; line-height:1.25em;">
+            <a href="/wiki/Special_effect" title="Special effect">
+             Special effects
+            </a>
+            <div class="hlist hlist-separated">
+             <ul>
+              <li>
+               (
+               <a href="/wiki/Sound_effect" title="Sound effect">
+                sound
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Visual_effects" title="Visual effects">
+                visual
+               </a>
+               )
+              </li>
+             </ul>
+            </div>
+           </div>
+           <ul>
+            <li>
+             <a href="/wiki/Negative_cost" title="Negative cost">
+              Negative cost
+             </a>
+            </li>
+           </ul>
+          </div>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em">
+         <div class="NavFrame collapsed" style="border:none;padding:0">
+          <div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align:center;">
+           <a href="/wiki/Film_distribution" title="Film distribution">
+            Distribution
+           </a>
+          </div>
+          <div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+           <ul>
+            <li>
+             <a href="/wiki/Film_distribution" title="Film distribution">
+              Distribution
+             </a>
+            </li>
+           </ul>
+           <div style="padding:0.2em 0.4em; line-height:1.2em; line-height:1.25em;">
+            <a class="mw-redirect" href="/wiki/Film_release" title="Film release">
+             Film release
+            </a>
+            <div class="hlist hlist-separated">
+             <ul>
+              <li>
+               (
+               <a href="/wiki/Wide_release" title="Wide release">
+                wide
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Limited_release" title="Limited release">
+                limited
+               </a>
+              </li>
+              <li>
+               <a class="mw-redirect" href="/wiki/Delayed_release_(film)" title="Delayed release (film)">
+                delayed
+               </a>
+               )
+              </li>
+             </ul>
+            </div>
+           </div>
+           <ul>
+            <li>
+             <a href="/wiki/Roadshow_theatrical_release" title="Roadshow theatrical release">
+              Roadshow
+             </a>
+            </li>
+           </ul>
+          </div>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em">
+         <div class="NavFrame collapsed" style="border:none;padding:0">
+          <div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align:center;">
+           Related topics
+          </div>
+          <div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+           <ul>
+            <li>
+             <a class="mw-redirect" href="/wiki/Film_history" title="Film history">
+              Film history
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Filmography" title="Filmography">
+              Filmography
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Guerrilla_filmmaking" title="Guerrilla filmmaking">
+              Guerrilla filmmaking
+             </a>
+            </li>
+           </ul>
+          </div>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em">
+         <div class="NavFrame collapsed" style="border:none;padding:0">
+          <div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align:center;">
+           <a href="/wiki/Glossary_of_motion_picture_terms" title="Glossary of motion picture terms">
+            Glossary
+           </a>
+          </div>
+          <div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+           <ul>
+            <li>
+             <a href="/wiki/Glossary_of_motion_picture_terms" title="Glossary of motion picture terms">
+              Glossary of motion picture terms
+             </a>
+            </li>
+           </ul>
+          </div>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em">
+         <div class="NavFrame collapsed" style="border:none;padding:0">
+          <div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align:center;">
+           See also
+          </div>
+          <div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+           <ul>
+            <li>
+             <a href="/wiki/Film" title="Film">
+              Film
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Film_crew" title="Film crew">
+              Film crew
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Hook_(filmmaking)" title="Hook (filmmaking)">
+              Hook
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Pitch_(filmmaking)" title="Pitch (filmmaking)">
+              Pitch
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Screenwriting" title="Screenwriting">
+              Screenwriting
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Spec_script" title="Spec script">
+              Spec script
+             </a>
+            </li>
+           </ul>
+          </div>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <td class="plainlist" style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top: 1px solid #aaa; border-bottom: 1px solid #aaa;border-top:1px solid #aaa;padding-top:0.1em;border-bottom:1px solid #aaa;font-size:smaller;">
+         <ul>
+          <li>
+           <a class="image" href="/wiki/File:Video-x-generic.svg">
+            <img alt="Video-x-generic.svg" class="noviewer" data-file-height="48" data-file-width="48" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/e/e7/Video-x-generic.svg/16px-Video-x-generic.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/e/e7/Video-x-generic.svg/24px-Video-x-generic.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/e/e7/Video-x-generic.svg/32px-Video-x-generic.svg.png 2x" width="16"/>
+           </a>
+           <a href="/wiki/Portal:Film" title="Portal:Film">
+            Film portal
+           </a>
+          </li>
+         </ul>
+        </td>
+       </tr>
+       <tr>
+        <td style="text-align:right;font-size:115%;padding-top: 0.6em;">
+         <div class="plainlinks hlist navbar mini">
+          <ul>
+           <li class="nv-view">
+            <a href="/wiki/Template:Filmmaking_sidebar" title="Template:Filmmaking sidebar">
+             <abbr title="View this template">
+              v
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-talk">
+            <a href="/wiki/Template_talk:Filmmaking_sidebar" title="Template talk:Filmmaking sidebar">
+             <abbr title="Discuss this template">
+              t
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-edit">
+            <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Filmmaking_sidebar&amp;action=edit">
+             <abbr title="Edit this template">
+              e
+             </abbr>
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+      </table>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:252px;">
+        <a class="image" href="/wiki/File:Screenplay_example.svg">
+         <img alt="" class="thumbimage" data-file-height="792" data-file-width="612" height="324" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Screenplay_example.svg/250px-Screenplay_example.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Screenplay_example.svg/375px-Screenplay_example.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Screenplay_example.svg/500px-Screenplay_example.svg.png 2x" width="250"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Screenplay_example.svg" title="Enlarge">
+          </a>
+         </div>
+         A page of a screenplay
+        </div>
+       </div>
+      </div>
+      <p>
+       A
+       <b>
+        screenplay writer
+       </b>
+       (also called
+       <b>
+        screenwriter
+       </b>
+       for short),
+       <b>
+        scriptwriter
+       </b>
+       or
+       <b>
+        scenarist
+       </b>
+       is a writer who practices the craft of
+       <a href="/wiki/Screenwriting" title="Screenwriting">
+        screenwriting
+       </a>
+       , writing
+       <a href="/wiki/Screenplay" title="Screenplay">
+        screenplays
+       </a>
+       on which
+       <a href="/wiki/Mass_media" title="Mass media">
+        mass media
+       </a>
+       , such as
+       <a href="/wiki/Film" title="Film">
+        films
+       </a>
+       ,
+       <a class="mw-redirect" href="/wiki/Television_program" title="Television program">
+        television programs
+       </a>
+       ,
+       <a href="/wiki/Comics" title="Comics">
+        comics
+       </a>
+       or
+       <a class="mw-redirect" href="/wiki/Video_games" title="Video games">
+        video games
+       </a>
+       , are based.
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Profession">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Profession
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#Film_industry">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Film industry
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-3">
+         <a href="#Script_doctoring">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           Script doctoring
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-4">
+         <a href="#Development_process">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           Development process
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-5">
+         <a href="#Production_involvement">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           Production involvement
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-6">
+         <a href="#Union">
+          <span class="tocnumber">
+           6
+          </span>
+          <span class="toctext">
+           Union
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-7">
+         <a href="#See_also">
+          <span class="tocnumber">
+           7
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-8">
+         <a href="#References">
+          <span class="tocnumber">
+           8
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Profession">
+        Profession
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Screenwriter&amp;action=edit&amp;section=1" title="Edit section: Profession">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Screenwriting is a
+       <a class="mw-redirect" href="/wiki/Freelance" title="Freelance">
+        freelance
+       </a>
+       profession. No education is required to become a professional screenwriter, just good
+       <a href="/wiki/Storytelling" title="Storytelling">
+        storytelling
+       </a>
+       abilities and
+       <a href="/wiki/Imagination" title="Imagination">
+        imagination
+       </a>
+       . Screenwriters are not hired employees but contracted freelancers. Most, if not all, screenwriters start their careers writing on speculation (spec) and so write without being hired or paid for it. If such a script is sold, it is called a
+       <a href="/wiki/Spec_script" title="Spec script">
+        spec script
+       </a>
+       . What separates a
+       <a href="/wiki/Professional" title="Professional">
+        professional
+       </a>
+       screenwriter from an
+       <a href="/wiki/Amateur" title="Amateur">
+        amateur
+       </a>
+       screenwriter is that professional screenwriters are usually represented by a
+       <a href="/wiki/Talent_agent" title="Talent agent">
+        talent agency
+       </a>
+       . Also, professional screenwriters do not often work for free, but amateur screenwriters will often work for free and are considered "writers in training." Spec scripts are usually penned by unknown professional screenwriters and amateur screenwriters.
+      </p>
+      <p>
+       There are a legion of would-be screenwriters who attempt to enter the
+       <a href="/wiki/Film_industry" title="Film industry">
+        film industry
+       </a>
+       , but it often takes years of trial-and-error, failure, and gritty persistence to achieve success. In
+       <i>
+        Writing Screenplays that Sell
+       </i>
+       , Michael Hague writes, "Screenplays have become, for the last half of [the twentieth] century, what the
+       <a href="/wiki/Great_American_Novel" title="Great American Novel">
+        Great American Novel
+       </a>
+       was for the first half. Closet writers who used to dream of the glory of getting into print now dream of seeing their story on the big or small screen."
+       <sup class="reference" id="cite_ref-Hauge_1-0">
+        <a href="#cite_note-Hauge-1">
+         [1]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Film_industry">
+        Film industry
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Screenwriter&amp;action=edit&amp;section=2" title="Edit section: Film industry">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Every screenplay and teleplay begins with a thought or idea, and screenwriters use their ideas to write scripts, with the intention of selling them and having them produced.
+       <sup class="reference" id="cite_ref-Ferguson_2009_2-0">
+        <a href="#cite_note-Ferguson_2009-2">
+         [2]
+        </a>
+       </sup>
+       In some cases, the script is based on an existing property, such as a book or person's life story, which is adapted by the screenwriter.
+       <sup class="reference" id="cite_ref-3">
+        <a href="#cite_note-3">
+         [3]
+        </a>
+       </sup>
+       The majority of the time, a film project gets initiated by a screenwriter. The initiator of the project gets the exclusive writing assignment.
+       <sup class="reference" id="cite_ref-Ferguson_2009_2-1">
+        <a href="#cite_note-Ferguson_2009-2">
+         [2]
+        </a>
+       </sup>
+       They are referred to as "exclusive" assignments or "pitched" assignments. Screenwriters who often pitch new projects, whether original or an adaptation, often do not have to worry about competing for assignments and are often more successful. When word is put out about a project a
+       <a href="/wiki/Film_studio" title="Film studio">
+        film studio
+       </a>
+       ,
+       <a href="/wiki/Production_company" title="Production company">
+        production company
+       </a>
+       , or producer wants done, they are referred to as "open" assignments. Open assignments are more competitive. If screenwriters are competing for an open assignment, more-established writers usually win the assignments. A screenwriter can also be approached and personally offered a writing assignment.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Script_doctoring">
+        Script doctoring
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Screenwriter&amp;action=edit&amp;section=3" title="Edit section: Script doctoring">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Many screenwriters also work as full or part-time
+       <a href="/wiki/Script_doctor" title="Script doctor">
+        script doctors
+       </a>
+       , attempting to better a script to suit the desires of a
+       <a href="/wiki/Film_director" title="Film director">
+        director
+       </a>
+       or
+       <a class="mw-redirect" href="/wiki/Movie_studio" title="Movie studio">
+        studio
+       </a>
+       . For instance, studio management may have a complaint that the motivations of the characters are unclear or that the dialogue is weak.
+      </p>
+      <p>
+       Script-doctoring can be quite lucrative, especially for the better-known writers.
+       <a href="/wiki/David_Mamet" title="David Mamet">
+        David Mamet
+       </a>
+       and
+       <a href="/wiki/John_Sayles" title="John Sayles">
+        John Sayles
+       </a>
+       , for instance, fund the movies that they direct themselves, usually from their own screenplays, by writing and doctoring scripts for others. In fact, some writers make very profitable careers out of being the ninth or tenth writer to work on a piece, and they often work on projects that never see exposure to an audience of any size. Many up-and-coming screenwriters also
+       <a class="mw-redirect" href="/wiki/Ghostwrite" title="Ghostwrite">
+        ghostwrite
+       </a>
+       projects and allow more-established screenwriters to take public credit for the project to increase the chances of it getting picked up.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Development_process">
+        Development process
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Screenwriter&amp;action=edit&amp;section=4" title="Edit section: Development process">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       After a screenwriter finishes a project, he or she pairs with an industry-based representative, such as a
+       <a href="/wiki/Film_producer" title="Film producer">
+        producer
+       </a>
+       , director,
+       <a href="/wiki/Literary_agent" title="Literary agent">
+        literary agent
+       </a>
+       , entertainment lawyer, or entertainment executive. The partnerships often pitch their project to investors or others in a position to further a project. Once the script is sold, the writer has only the rights that were agreed with the purchaser.
+       <sup class="reference" id="cite_ref-Ferguson_2009_2-2">
+        <a href="#cite_note-Ferguson_2009-2">
+         [2]
+        </a>
+       </sup>
+      </p>
+      <p>
+       A screenwriter becomes credible by having work that is recognized, which gives the writer the opportunity to earn a higher income.
+       <sup class="reference" id="cite_ref-Ferguson_2009_2-3">
+        <a href="#cite_note-Ferguson_2009-2">
+         [2]
+        </a>
+       </sup>
+       As more films are produced independently (outside the studio system), many up-and-coming screenwriters are turning to pitch fests, screenplay contests, and independent development services to gain access to established and credible independent producers. Many development executives are now working independently to incubate their own pet projects.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Production_involvement">
+        Production involvement
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Screenwriter&amp;action=edit&amp;section=5" title="Edit section: Production involvement">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Screenwriters are rarely involved in the development of a film. Sometimes they come on as advisors, or if they are established, as a producer. Some screenwriters also direct. Although many scripts are sold each year, many do not make it into production because the number of scripts that are purchased every year exceeds the number of professional directors that are working in the film and
+       <a class="mw-redirect" href="/wiki/TV_industry" title="TV industry">
+        TV industry
+       </a>
+       . When a screenwriter finishes a project and sells it to a
+       <a href="/wiki/Film_studio" title="Film studio">
+        film studio
+       </a>
+       ,
+       <a href="/wiki/Production_company" title="Production company">
+        production company
+       </a>
+       , TV network, or producer, he or she often has to continue networking, mainly with directors or executives, and push to have their projects "chosen" and turned into films or TV shows. If interest in a script begins to fade, a project can go dead.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Union">
+        Union
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Screenwriter&amp;action=edit&amp;section=6" title="Edit section: Union">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Most professional screenwriters in the U.S. are
+       <a class="mw-redirect" href="/wiki/Unionized" title="Unionized">
+        unionized
+       </a>
+       and are represented by the
+       <a href="/wiki/Writers_Guild_of_America" title="Writers Guild of America">
+        Writers Guild of America
+       </a>
+       . Although membership in the WGA is recommended, it is not required of a screenwriter to join. The WGA is the final arbiter on awarding
+       <a href="/wiki/WGA_screenwriting_credit_system" title="WGA screenwriting credit system">
+        writing credit
+       </a>
+       for projects under its jurisdiction. The WGA also looks upon and verifies film copyright materials.
+      </p>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Screenwriter&amp;action=edit&amp;section=7" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a href="/wiki/Film_crew" title="Film crew">
+         Film crew
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/First_look_deal" title="First look deal">
+         First look deal
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/List_of_screenwriting_software" title="List of screenwriting software">
+         List of screenwriting software
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Playwright" title="Playwright">
+         Playwright
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Screenwriter%27s_salary" title="Screenwriter's salary">
+         Screenwriter's salary
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Script_(comics)" title="Script (comics)">
+         Script (comics)
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Showrunner" title="Showrunner">
+         Showrunner
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Television_crew" title="Television crew">
+         Television crew
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Television_director" title="Television director">
+         Television director
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Television_program_creator" title="Television program creator">
+         Television program creator
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/WGA_screenwriting_credit_system" title="WGA screenwriting credit system">
+         WGA screenwriting credit system
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Screenwriter&amp;action=edit&amp;section=8" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist" style="list-style-type: decimal;">
+       <div class="mw-references-wrap">
+        <ol class="references">
+         <li id="cite_note-Hauge-1">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-Hauge_1-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            Hauge, Michael.
+            <i>
+             Writing Screenplays That Sell
+            </i>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Writing+Screenplays+That+Sell&amp;rft.aulast=Hauge&amp;rft.aufirst=Michael&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScreenwriter">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-Ferguson_2009-2">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-Ferguson_2009_2-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-Ferguson_2009_2-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-Ferguson_2009_2-2">
+            <sup>
+             <i>
+              <b>
+               c
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-Ferguson_2009_2-3">
+            <sup>
+             <i>
+              <b>
+               d
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Ferguson, Brooks (17 April 2009). "Creativity and integrity: Marketing the "in development" screenplay".
+            <i>
+             Psychology and Marketing
+            </i>
+            .
+            <b>
+             26
+            </b>
+            (5): 428.
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1002%2Fmar.20281" rel="nofollow">
+             10.1002/mar.20281
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Psychology+and+Marketing&amp;rft.atitle=Creativity+and+integrity%3A+Marketing+the+%22in+development%22+screenplay&amp;rft.volume=26&amp;rft.issue=5&amp;rft.pages=428&amp;rft.date=2009-04-17&amp;rft_id=info%3Adoi%2F10.1002%2Fmar.20281&amp;rft.aulast=Ferguson&amp;rft.aufirst=Brooks&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScreenwriter">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-3">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-3">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <a class="external text" href="http://www.screenwriterdude.com/biopic---book-adaptation.html" rel="nofollow">
+            Biopic &amp; Book Adaptation - http://www.screenwriterdude.com/biopic---book-adaptation.html
+           </a>
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <div aria-labelledby="Film_crew_(filmmaking)" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="2" scope="col">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:Film_crew" title="Template:Film crew">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a href="/wiki/Template_talk:Film_crew" title="Template talk:Film crew">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Film_crew&amp;action=edit">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="Film_crew_(filmmaking)" style="font-size:114%;margin:0 4em">
+           <a href="/wiki/Film_crew" title="Film crew">
+            Film crew
+           </a>
+           (
+           <a href="/wiki/Filmmaking" title="Filmmaking">
+            filmmaking
+           </a>
+           )
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+          </div>
+          <table class="nowraplinks collapsible autocollapse navbox-subgroup" style="border-spacing:0">
+           <tr>
+            <th class="navbox-title" colspan="2" scope="col" style=";">
+             <div id="Above_the_line" style="font-size:114%;margin:0 4em">
+              <a href="/wiki/Above-the-line_(filmmaking)" title="Above-the-line (filmmaking)">
+               Above the line
+              </a>
+             </div>
+            </th>
+           </tr>
+           <tr>
+            <td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Actor" title="Actor">
+                 Actor
+                </a>
+                <ul>
+                 <li>
+                  <a href="/wiki/Leading_actor" title="Leading actor">
+                   Leading actor
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Movie_star" title="Movie star">
+                   Movie star
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Superstar" title="Superstar">
+                   Superstar
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Character_actor" title="Character actor">
+                   Character actor
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Cameo_appearance" title="Cameo appearance">
+                   Cameo actors
+                  </a>
+                 </li>
+                </ul>
+               </li>
+               <li>
+                <a href="/wiki/Film_director" title="Film director">
+                 Film director
+                </a>
+               </li>
+               <li>
+                <a class="mw-selflink selflink">
+                 Screenwriter
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Film_producer" title="Film producer">
+                 Film producer
+                </a>
+                <ul>
+                 <li>
+                  <a href="/wiki/Executive_producer" title="Executive producer">
+                   Executive producer
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Line_producer" title="Line producer">
+                   Line producer
+                  </a>
+                 </li>
+                </ul>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+        <tr>
+         <td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+          </div>
+          <table class="nowraplinks collapsible autocollapse navbox-subgroup" style="border-spacing:0">
+           <tr>
+            <th class="navbox-title" colspan="2" scope="col" style=";">
+             <div id="Below_the_line" style="font-size:114%;margin:0 4em">
+              <a href="/wiki/Below-the-line_(filmmaking)" title="Below-the-line (filmmaking)">
+               Below the line
+              </a>
+             </div>
+            </th>
+           </tr>
+           <tr>
+            <td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+             </div>
+             <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+              <tr>
+               <th class="navbox-group" scope="row" style="width:1%">
+                <a href="/wiki/Pre-production" title="Pre-production">
+                 Pre-production
+                </a>
+               </th>
+               <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                <div style="padding:0em 0.25em">
+                 <ul>
+                  <li>
+                   <a href="/wiki/Unit_production_manager" title="Unit production manager">
+                    Unit production manager
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Production_coordinator" title="Production coordinator">
+                    Production coordinator
+                   </a>
+                  </li>
+                  <li>
+                   <a class="mw-redirect" href="/wiki/Production_accountant" title="Production accountant">
+                    Production accountant
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Assistant_director" title="Assistant director">
+                    Assistant director
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Script_supervisor" title="Script supervisor">
+                    Script supervisor
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Script_coordinator" title="Script coordinator">
+                    Script coordinator
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Casting_(performing_arts)" title="Casting (performing arts)">
+                    Casting director
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Production_assistant" title="Production assistant">
+                    Production assistant
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Location_manager" title="Location manager">
+                    Location manager
+                   </a>
+                  </li>
+                 </ul>
+                </div>
+                <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                 <tr>
+                  <th class="navbox-group" scope="row" style="width:1%">
+                   <a href="/wiki/Storyboard" title="Storyboard">
+                    Storyboard
+                   </a>
+                  </th>
+                  <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em">
+                    <ul>
+                     <li>
+                      <a href="/wiki/Storyboard_artist" title="Storyboard artist">
+                       Storyboard artist
+                      </a>
+                     </li>
+                    </ul>
+                   </div>
+                  </td>
+                 </tr>
+                </table>
+               </td>
+              </tr>
+              <tr>
+               <th class="navbox-group" scope="row" style="width:1%">
+                Production design
+               </th>
+               <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                <div style="padding:0em 0.25em">
+                 <ul>
+                  <li>
+                   <a href="/wiki/Production_designer" title="Production designer">
+                    Production designer
+                   </a>
+                   <ul>
+                    <li>
+                     <a href="/wiki/Art_director#In_film" title="Art director">
+                      Art director
+                     </a>
+                    </li>
+                   </ul>
+                  </li>
+                  <li>
+                   <a href="/wiki/Costume_designer" title="Costume designer">
+                    Costume designer
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Hairdresser" title="Hairdresser">
+                    Hairdresser
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Make-up_artist" title="Make-up artist">
+                    Make-up artist
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Set_decorator" title="Set decorator">
+                    Set decorator
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Property_master" title="Property master">
+                    Property master
+                    <span style="white-space:nowrap">
+                    </span>
+                    /
+                    <span style="white-space:nowrap">
+                    </span>
+                    mistress
+                    <span style="font-size:90%;">
+                     ("props")
+                    </span>
+                   </a>
+                  </li>
+                 </ul>
+                </div>
+                <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                 <tr>
+                  <th class="navbox-group" scope="row" style="width:1%">
+                   <a class="mw-redirect" href="/wiki/Visual_Art" title="Visual Art">
+                    Visual Art
+                   </a>
+                  </th>
+                  <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em">
+                    <ul>
+                     <li>
+                      <a href="/wiki/Matte_painting" title="Matte painting">
+                       Matte painter
+                      </a>
+                     </li>
+                     <li>
+                      <a href="/wiki/Illustrator" title="Illustrator">
+                       Illustrator
+                      </a>
+                     </li>
+                     <li>
+                      <a href="/wiki/Scenic_design" title="Scenic design">
+                       Scenic design
+                      </a>
+                     </li>
+                    </ul>
+                   </div>
+                  </td>
+                 </tr>
+                </table>
+               </td>
+              </tr>
+              <tr>
+               <th class="navbox-group" scope="row" style="width:1%">
+                <a href="/wiki/Principal_photography" title="Principal photography">
+                 Photography
+                </a>
+               </th>
+               <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                <div style="padding:0em 0.25em">
+                 <ul>
+                  <li>
+                   <a href="/wiki/Cinematographer" title="Cinematographer">
+                    Cinematographer / Director of photography
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Camera_operator" title="Camera operator">
+                    Camera operator
+                   </a>
+                   <ul>
+                    <li>
+                     <a href="/wiki/Focus_puller" title="Focus puller">
+                      Focus puller
+                     </a>
+                    </li>
+                    <li>
+                     <a href="/wiki/Clapper_loader" title="Clapper loader">
+                      Clapper loader
+                     </a>
+                    </li>
+                    <li>
+                     <a href="/wiki/Steadicam" title="Steadicam">
+                      Steadicam
+                     </a>
+                    </li>
+                   </ul>
+                  </li>
+                  <li>
+                   <a href="/wiki/Gaffer_(filmmaking)" title="Gaffer (filmmaking)">
+                    Gaffer
+                   </a>
+                   <ul>
+                    <li>
+                     <a href="/wiki/Best_boy" title="Best boy">
+                      Best boy
+                      <span style="font-size:90%;">
+                       (electrical)
+                      </span>
+                     </a>
+                    </li>
+                    <li>
+                     <a href="/wiki/Lighting_technician" title="Lighting technician">
+                      Lighting technician
+                     </a>
+                    </li>
+                   </ul>
+                  </li>
+                  <li>
+                   <a href="/wiki/Key_grip" title="Key grip">
+                    Key grip
+                   </a>
+                   <ul>
+                    <li>
+                     <a href="/wiki/Best_boy" title="Best boy">
+                      Best boy
+                      <span style="font-size:90%;">
+                       (grip)
+                      </span>
+                     </a>
+                    </li>
+                    <li>
+                     <a href="/wiki/Grip_(job)" title="Grip (job)">
+                      Grip
+                     </a>
+                    </li>
+                    <li>
+                     <a href="/wiki/Dolly_grip" title="Dolly grip">
+                      Dolly grip
+                     </a>
+                    </li>
+                   </ul>
+                  </li>
+                 </ul>
+                </div>
+               </td>
+              </tr>
+              <tr>
+               <th class="navbox-group" scope="row" style="width:1%">
+                <a href="/wiki/Sound_design" title="Sound design">
+                 Sound
+                </a>
+               </th>
+               <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                <div style="padding:0em 0.25em">
+                 <ul>
+                  <li>
+                   <a href="/wiki/Director_of_audiography" title="Director of audiography">
+                    Director of audiography
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Production_sound_mixer" title="Production sound mixer">
+                    Production sound mixer
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Boom_operator_(media)" title="Boom operator (media)">
+                    Boom operator
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Utility_sound_technician" title="Utility sound technician">
+                    Utility sound technician
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Dialogue_editor" title="Dialogue editor">
+                    Dialogue editor
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Re-recording_mixer" title="Re-recording mixer">
+                    Re-recording mixer
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Foley_(filmmaking)" title="Foley (filmmaking)">
+                    Foley artist
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Composer" title="Composer">
+                    Composer
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Music_supervisor" title="Music supervisor">
+                    Music supervisor
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Music_editor_(filmmaking)" title="Music editor (filmmaking)">
+                    Music editor
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Orchestration" title="Orchestration">
+                    Orchestrator
+                   </a>
+                  </li>
+                 </ul>
+                </div>
+               </td>
+              </tr>
+              <tr>
+               <th class="navbox-group" scope="row" style="width:1%">
+                <a href="/wiki/Special_effect" title="Special effect">
+                 Special effects
+                </a>
+               </th>
+               <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                <div style="padding:0em 0.25em">
+                 <ul>
+                  <li>
+                   <a href="/wiki/Special_effects_supervisor" title="Special effects supervisor">
+                    Special effects supervisor
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Visual_effects_supervisor" title="Visual effects supervisor">
+                    Visual effects supervisor
+                   </a>
+                  </li>
+                 </ul>
+                </div>
+               </td>
+              </tr>
+              <tr>
+               <th class="navbox-group" scope="row" style="width:1%">
+                <a href="/wiki/Animation_department" title="Animation department">
+                 Animation
+                </a>
+               </th>
+               <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                <div style="padding:0em 0.25em">
+                 <ul>
+                  <li>
+                   <a href="/wiki/Animator" title="Animator">
+                    Animator
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Visual_effects" title="Visual effects">
+                    Visual effects
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Conceptual_model" title="Conceptual model">
+                    Modeling
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Rigging" title="Rigging">
+                    Rigging
+                   </a>
+                  </li>
+                  <li>
+                   <a class="mw-redirect" href="/wiki/Layout_artist" title="Layout artist">
+                    Layout artist
+                   </a>
+                  </li>
+                 </ul>
+                </div>
+               </td>
+              </tr>
+              <tr>
+               <th class="navbox-group" scope="row" style="width:1%">
+                Talent
+               </th>
+               <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                <div style="padding:0em 0.25em">
+                 <ul>
+                  <li>
+                   <a href="/wiki/Acting_coach" title="Acting coach">
+                    Acting coach
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Dialect_coach" title="Dialect coach">
+                    Dialect coach
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Movement_director" title="Movement director">
+                    Movement director
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Choreography" title="Choreography">
+                    Choreographer
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Extra_(acting)" title="Extra (acting)">
+                    Extra
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Talent_agent" title="Talent agent">
+                    Talent agent
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Actor" title="Actor">
+                    Actor
+                   </a>
+                   (
+                   <a class="mw-redirect" href="/wiki/List_of_voice_actors" title="List of voice actors">
+                    voice
+                   </a>
+                   )
+                  </li>
+                  <li>
+                   <a class="mw-redirect" href="/wiki/Cast_member" title="Cast member">
+                    Cast member
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Stand-in" title="Stand-in">
+                    Stand-in
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Acting_instructor" title="Acting instructor">
+                    Acting instructor
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Stunt_double" title="Stunt double">
+                    Stunt double
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Stunt_performer" title="Stunt performer">
+                    Stunt performer
+                   </a>
+                  </li>
+                 </ul>
+                </div>
+               </td>
+              </tr>
+              <tr>
+               <th class="navbox-group" scope="row" style="width:1%">
+                <a href="/wiki/Post-production" title="Post-production">
+                 Post-production
+                </a>
+               </th>
+               <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                <div style="padding:0em 0.25em">
+                 <ul>
+                  <li>
+                   <a href="/wiki/Film_editing" title="Film editing">
+                    Film editor
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Sound_editor_(filmmaking)" title="Sound editor (filmmaking)">
+                    Sound editor
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Color_grading" title="Color grading">
+                    Colorist
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Animator" title="Animator">
+                    Animator
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Technical_director#Film" title="Technical director">
+                    Technical director
+                   </a>
+                  </li>
+                 </ul>
+                </div>
+                <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                 <tr>
+                  <th class="navbox-group" scope="row" style="width:1%">
+                   <a href="/wiki/Visual_effects" title="Visual effects">
+                    Visual effects
+                   </a>
+                  </th>
+                  <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em">
+                    <ul>
+                     <li>
+                      <a href="/wiki/Visual_effects" title="Visual effects">
+                       Visual effects editor
+                      </a>
+                     </li>
+                     <li>
+                      <a href="/wiki/Compositing" title="Compositing">
+                       Compositor
+                      </a>
+                     </li>
+                     <li>
+                      <a href="/wiki/Computer-generated_imagery" title="Computer-generated imagery">
+                       Computer-generated imagery
+                      </a>
+                     </li>
+                     <li>
+                      <a href="/wiki/Rendering_(computer_graphics)" title="Rendering (computer graphics)">
+                       Rendering
+                      </a>
+                     </li>
+                    </ul>
+                   </div>
+                  </td>
+                 </tr>
+                </table>
+               </td>
+              </tr>
+             </table>
+            </td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <div aria-label="Navbox" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <a href="/wiki/Help:Authority_control" title="Help:Authority control">
+           Authority control
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <span class="nowrap">
+              <a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">
+               GND
+              </a>
+              :
+              <span class="uid">
+               <a class="external text" href="https://d-nb.info/gnd/4294338-3" rel="nofollow">
+                4294338-3
+               </a>
+              </span>
+             </span>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1290
+Cached time: 20180323062608
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.216 seconds
+Real time usage: 0.290 seconds
+Preprocessor visited node count: 986/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 74676/2097152 bytes
+Template argument size: 6656/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 2821/5000000 bytes
+Lua time usage: 0.087/10.000 seconds
+Lua memory usage: 2.6 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  215.803      1 -total
+ 30.69%   66.239      1 Template:Film_crew
+ 29.35%   63.346      1 Template:Navbox_with_collapsible_groups
+ 28.17%   60.798      1 Template:Reflist
+ 25.09%   54.150      1 Template:Filmmaking_sidebar
+ 23.70%   51.152      1 Template:Sidebar_with_collapsible_lists
+ 17.70%   38.196      1 Template:Cite_book
+ 16.07%   34.686      4 Template:Navbox
+ 13.80%   29.772      1 Template:Authority_control
+  4.69%   10.129      1 Template:Portal-inline
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:53016-0!canonical and timestamp 20180323062608 and revision id 832000351
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Screenwriter&amp;oldid=832000351">
+      https://en.wikipedia.org/w/index.php?title=Screenwriter&amp;oldid=832000351
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Filmmaking_occupations" title="Category:Filmmaking occupations">
+         Filmmaking occupations
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Writing_occupations" title="Category:Writing occupations">
+         Writing occupations
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Media_occupations" title="Category:Media occupations">
+         Media occupations
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Screenwriters" title="Category:Screenwriters">
+         Screenwriters
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">
+         Wikipedia articles with GND identifiers
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Screenwriter" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Screenwriter" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Screenwriter" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Screenwriter" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Screenwriter">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Screenwriter&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Screenwriter&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Screenwriter" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Screenwriter" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Screenwriter&amp;oldid=832000351" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Screenwriter&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q28389" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Screenwriter&amp;id=832000351" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Screenwriter">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Screenwriter&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Screenwriter&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Category:Screenwriters" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-als">
+        <a class="interlanguage-link-target" href="https://als.wikipedia.org/wiki/Drehbuchautor" hreflang="als" lang="als" title="Drehbuchautor – Alemannisch">
+         Alemannisch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%83%D8%A7%D8%AA%D8%A8_%D8%B3%D9%8A%D9%86%D8%A7%D8%B1%D9%8A%D9%88" hreflang="ar" lang="ar" title="كاتب سيناريو – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-an">
+        <a class="interlanguage-link-target" href="https://an.wikipedia.org/wiki/Guionista" hreflang="an" lang="an" title="Guionista – Aragonese">
+         Aragonés
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ast">
+        <a class="interlanguage-link-target" href="https://ast.wikipedia.org/wiki/Guionista" hreflang="ast" lang="ast" title="Guionista – Asturian">
+         Asturianu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-az">
+        <a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/Ssenari_m%C3%BC%C9%99llifi" hreflang="az" lang="az" title="Ssenari müəllifi – Azerbaijani">
+         Azərbaycanca
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be">
+        <a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%A1%D1%86%D1%8D%D0%BD%D0%B0%D1%80%D1%8B%D1%81%D1%82" hreflang="be" lang="be" title="Сцэнарыст – Belarusian">
+         Беларуская
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be-x-old">
+        <a class="interlanguage-link-target" href="https://be-x-old.wikipedia.org/wiki/%D0%A1%D1%86%D1%8D%D0%BD%D0%B0%D1%80%D1%8B%D1%81%D1%82" hreflang="be-x-old" lang="be-x-old" title="Сцэнарыст – Belarusian (Taraškievica orthography)">
+         Беларуская (тарашкевіца)‎
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bg">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%A1%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D1%81%D1%82" hreflang="bg" lang="bg" title="Сценарист – Bulgarian">
+         Български
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bs">
+        <a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Scenarist" hreflang="bs" lang="bs" title="Scenarist – Bosnian">
+         Bosanski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Guionista" hreflang="ca" lang="ca" title="Guionista – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cy">
+        <a class="interlanguage-link-target" href="https://cy.wikipedia.org/wiki/Sgriptiwr" hreflang="cy" lang="cy" title="Sgriptiwr – Welsh">
+         Cymraeg
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Manuskriptforfatter" hreflang="da" lang="da" title="Manuskriptforfatter – Danish">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Drehbuchautor" hreflang="de" lang="de" title="Drehbuchautor – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-et">
+        <a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Stsenarist" hreflang="et" lang="et" title="Stsenarist – Estonian">
+         Eesti
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-el">
+        <a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%A3%CE%B5%CE%BD%CE%B1%CF%81%CE%B9%CE%BF%CE%B3%CF%81%CE%AC%CF%86%CE%BF%CF%82" hreflang="el" lang="el" title="Σεναριογράφος – Greek">
+         Ελληνικά
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Guionista" hreflang="es" lang="es" title="Guionista – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eu">
+        <a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Gidoilari" hreflang="eu" lang="eu" title="Gidoilari – Basque">
+         Euskara
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%81%DB%8C%D9%84%D9%85%E2%80%8C%D9%86%D8%A7%D9%85%D9%87%E2%80%8C%D9%86%D9%88%DB%8C%D8%B3" hreflang="fa" lang="fa" title="فیلم‌نامه‌نویس – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Sc%C3%A9nariste" hreflang="fr" lang="fr" title="Scénariste – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fy">
+        <a class="interlanguage-link-target" href="https://fy.wikipedia.org/wiki/Senarioskriuwer" hreflang="fy" lang="fy" title="Senarioskriuwer – Western Frisian">
+         Frysk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gl">
+        <a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Guionista" hreflang="gl" lang="gl" title="Guionista – Galician">
+         Galego
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EA%B0%81%EB%B3%B8%EA%B0%80" hreflang="ko" lang="ko" title="각본가 – Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hy">
+        <a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D5%8D%D6%81%D5%A5%D5%B6%D5%A1%D6%80%D5%AB%D5%BD%D5%BF" hreflang="hy" lang="hy" title="Սցենարիստ – Armenian">
+         Հայերեն
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hr">
+        <a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Scenarist" hreflang="hr" lang="hr" title="Scenarist – Croatian">
+         Hrvatski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Penulis_naskah" hreflang="id" lang="id" title="Penulis naskah – Indonesian">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-is">
+        <a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/Handritsh%C3%B6fundur" hreflang="is" lang="is" title="Handritshöfundur – Icelandic">
+         Íslenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he">
+        <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%AA%D7%A1%D7%A8%D7%99%D7%98%D7%90%D7%99" hreflang="he" lang="he" title="תסריטאי – Hebrew">
+         עברית
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ka">
+        <a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%A1%E1%83%AA%E1%83%94%E1%83%9C%E1%83%90%E1%83%A0%E1%83%98%E1%83%A1%E1%83%A2%E1%83%98" hreflang="ka" lang="ka" title="სცენარისტი – Georgian">
+         ქართული
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-kk">
+        <a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%A1%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D0%B9%D1%88%D1%96" hreflang="kk" lang="kk" title="Сценарийші – Kazakh">
+         Қазақша
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ky">
+        <a class="interlanguage-link-target" href="https://ky.wikipedia.org/wiki/%D0%A1%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D1%81%D1%82" hreflang="ky" lang="ky" title="Сценарист – Kyrgyz">
+         Кыргызча
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lv">
+        <a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Scen%C4%81rists" hreflang="lv" lang="lv" title="Scenārists – Latvian">
+         Latviešu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hu">
+        <a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Forgat%C3%B3k%C3%B6nyv%C3%ADr%C3%B3" hreflang="hu" lang="hu" title="Forgatókönyvíró – Hungarian">
+         Magyar
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mk">
+        <a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%A1%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D1%81%D1%82" hreflang="mk" lang="mk" title="Сценарист – Macedonian">
+         Македонски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-xmf">
+        <a class="interlanguage-link-target" href="https://xmf.wikipedia.org/wiki/%E1%83%A1%E1%83%AA%E1%83%94%E1%83%9C%E1%83%90%E1%83%A0%E1%83%98%E1%83%A1%E1%83%A2%E1%83%98" hreflang="xmf" lang="xmf" title="სცენარისტი – Mingrelian">
+         მარგალური
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Scenarioschrijver" hreflang="nl" lang="nl" title="Scenarioschrijver – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E8%84%9A%E6%9C%AC%E5%AE%B6" hreflang="ja" lang="ja" title="脚本家 – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ce">
+        <a class="interlanguage-link-target" href="https://ce.wikipedia.org/wiki/%D0%A1%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D1%81%D1%82" hreflang="ce" lang="ce" title="Сценарист – Chechen">
+         Нохчийн
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Manusforfatter" hreflang="no" lang="no" title="Manusforfatter – Norwegian">
+         Norsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pa">
+        <a class="interlanguage-link-target" href="https://pa.wikipedia.org/wiki/%E0%A8%B8%E0%A8%95%E0%A9%8D%E0%A8%B0%E0%A9%80%E0%A8%A8%E0%A8%B2%E0%A9%87%E0%A8%96%E0%A8%95" hreflang="pa" lang="pa" title="ਸਕ੍ਰੀਨਲੇਖਕ – Punjabi">
+         ਪੰਜਾਬੀ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Scenarzysta" hreflang="pl" lang="pl" title="Scenarzysta – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Roteirista" hreflang="pt" lang="pt" title="Roteirista – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ro">
+        <a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Scenarist" hreflang="ro" lang="ro" title="Scenarist – Romanian">
+         Română
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A1%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D1%81%D1%82" hreflang="ru" lang="ru" title="Сценарист – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sco">
+        <a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Screenwriter" hreflang="sco" lang="sco" title="Screenwriter – Scots">
+         Scots
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sq">
+        <a class="interlanguage-link-target" href="https://sq.wikipedia.org/wiki/Skenaristi" hreflang="sq" lang="sq" title="Skenaristi – Albanian">
+         Shqip
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-simple">
+        <a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Screenwriter" hreflang="simple" lang="simple" title="Screenwriter – Simple English">
+         Simple English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sl">
+        <a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Scenarist" hreflang="sl" lang="sl" title="Scenarist – Slovenian">
+         Slovenščina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ckb">
+        <a class="interlanguage-link-target" href="https://ckb.wikipedia.org/wiki/%D9%86%D9%88%D9%88%D8%B3%DB%95%D8%B1%DB%8C_%D8%B3%DB%8C%D9%86%D8%A7%D8%B1%DB%8C%DB%86" hreflang="ckb" lang="ckb" title="نووسەری سیناریۆ – Central Kurdish">
+         کوردی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sr">
+        <a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/Scenarista" hreflang="sr" lang="sr" title="Scenarista – Serbian">
+         Српски / srpski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sh">
+        <a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Scenarist" hreflang="sh" lang="sh" title="Scenarist – Serbo-Croatian">
+         Srpskohrvatski / српскохрватски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/K%C3%A4sikirjoittaja" hreflang="fi" lang="fi" title="Käsikirjoittaja – Finnish">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Manusf%C3%B6rfattare" hreflang="sv" lang="sv" title="Manusförfattare – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-th">
+        <a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%9A%E0%B8%97" hreflang="th" lang="th" title="นักเขียนบท – Thai">
+         ไทย
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tr">
+        <a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Senarist" hreflang="tr" lang="tr" title="Senarist – Turkish">
+         Türkçe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A1%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D1%81%D1%82" hreflang="uk" lang="uk" title="Сценарист – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ur">
+        <a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%D9%85%D9%86%D8%B8%D8%B1_%D9%86%D9%88%DB%8C%D8%B3" hreflang="ur" lang="ur" title="منظر نویس – Urdu">
+         اردو
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vi">
+        <a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch" hreflang="vi" lang="vi" title="Nhà biên kịch – Vietnamese">
+         Tiếng Việt
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-yi">
+        <a class="interlanguage-link-target" href="https://yi.wikipedia.org/wiki/%D7%A1%D7%A6%D7%A2%D7%A0%D7%90%D7%A8_%D7%A9%D7%A8%D7%99%D7%99%D7%91%D7%A2%D7%A8" hreflang="yi" lang="yi" title="סצענאר שרייבער – Yiddish">
+         ייִדיש
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh-yue">
+        <a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E7%B7%A8%E5%8A%87" hreflang="zh-yue" lang="zh-yue" title="編劇 – Cantonese">
+         粵語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E7%B7%A8%E5%8A%87" hreflang="zh" lang="zh" title="編劇 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q28389#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 23 March 2018, at 06:26.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Screenwriter&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.216","walltime":"0.290","ppvisitednodes":{"value":986,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":74676,"limit":2097152},"templateargumentsize":{"value":6656,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":2821,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  215.803      1 -total"," 30.69%   66.239      1 Template:Film_crew"," 29.35%   63.346      1 Template:Navbox_with_collapsible_groups"," 28.17%   60.798      1 Template:Reflist"," 25.09%   54.150      1 Template:Filmmaking_sidebar"," 23.70%   51.152      1 Template:Sidebar_with_collapsible_lists"," 17.70%   38.196      1 Template:Cite_book"," 16.07%   34.686      4 Template:Navbox"," 13.80%   29.772      1 Template:Authority_control","  4.69%   10.129      1 Template:Portal-inline"]},"scribunto":{"limitreport-timeusage":{"value":"0.087","limit":"10.000"},"limitreport-memusage":{"value":2721649,"limit":52428800}},"cachereport":{"origin":"mw1290","timestamp":"20180323062608","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":98,"wgHostname":"mw1330"});});
+  </script>
+ </body>
+</html>

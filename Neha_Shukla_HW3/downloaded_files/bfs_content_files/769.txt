@@ -1,0 +1,4606 @@
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Caldera - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Caldera","wgTitle":"Caldera","wgCurRevisionId":826902148,"wgRevisionId":826902148,"wgArticleId":7592,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing Spanish-language text","Articles containing Latin-language text","Use dmy dates from January 2011","Depressions (geology)","Igneous rocks","Calderas","Volcanology","Volcanic landforms"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Caldera","wgRelevantArticleId":7592,"wgRequestId":"Wq-4JApAAEYAAHino1kAAABN","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q159954","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.25" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Caldera" rel="alternate"/>
+  <link href="/w/index.php?title=Caldera&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Caldera&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Caldera" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Caldera rootpage-Caldera skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Caldera
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <div class="hatnote navigation-not-searchable" role="note">
+       For other uses, see
+       <a class="mw-disambig" href="/wiki/Caldera_(disambiguation)" title="Caldera (disambiguation)">
+        Caldera (disambiguation)
+       </a>
+       .
+      </div>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Mount_Mazama_eruption_timeline.PNG">
+         <img alt="" class="thumbimage" data-file-height="841" data-file-width="250" height="740" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Mount_Mazama_eruption_timeline.PNG/220px-Mount_Mazama_eruption_timeline.PNG" srcset="//upload.wikimedia.org/wikipedia/commons/1/1c/Mount_Mazama_eruption_timeline.PNG 1.5x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Mount_Mazama_eruption_timeline.PNG" title="Enlarge">
+          </a>
+         </div>
+         <a href="/wiki/Mount_Mazama" title="Mount Mazama">
+          Mount Mazama
+         </a>
+         's eruption timeline, an example of caldera formation
+        </div>
+       </div>
+      </div>
+      <p>
+       A
+       <b>
+        caldera
+       </b>
+       is a large
+       <a href="/wiki/Cauldron" title="Cauldron">
+        cauldron
+       </a>
+       -like
+       <a href="/wiki/Depression_(geology)" title="Depression (geology)">
+        depression
+       </a>
+       that forms following the evacuation of a
+       <a href="/wiki/Magma_chamber" title="Magma chamber">
+        magma chamber
+       </a>
+       /reservoir. When large volumes of magma are erupted over a short time, structural support for the crust above the magma chamber is lost. The ground surface then collapses downward into the partially emptied magma chamber, leaving a massive depression at the surface (from one to dozens of kilometers in diameter). Although sometimes described as a
+       <a href="/wiki/Volcanic_crater" title="Volcanic crater">
+        crater
+       </a>
+       , the feature is actually a type of
+       <a href="/wiki/Sinkhole" title="Sinkhole">
+        sinkhole
+       </a>
+       , as it is formed through subsidence and collapse rather than an explosion or impact. Only seven known caldera-forming collapses have occurred since the start of the 20th century, most recently at
+       <a href="/wiki/B%C3%A1r%C3%B0arbunga" title="Bárðarbunga">
+        Bárðarbunga
+       </a>
+       volcano in Iceland.
+       <sup class="reference" id="cite_ref-1">
+        <a href="#cite_note-1">
+         [1]
+        </a>
+       </sup>
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Etymology">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Etymology
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#Caldera_formation">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Caldera formation
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-3">
+           <a href="#Mineralization">
+            <span class="tocnumber">
+             2.1
+            </span>
+            <span class="toctext">
+             Mineralization
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-4">
+           <a href="#Explosive_caldera_eruptions">
+            <span class="tocnumber">
+             2.2
+            </span>
+            <span class="toctext">
+             Explosive caldera eruptions
+            </span>
+           </a>
+           <ul>
+            <li class="toclevel-3 tocsection-5">
+             <a href="#Toba">
+              <span class="tocnumber">
+               2.2.1
+              </span>
+              <span class="toctext">
+               Toba
+              </span>
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class="toclevel-2 tocsection-6">
+           <a href="#Non-explosive_calderas">
+            <span class="tocnumber">
+             2.3
+            </span>
+            <span class="toctext">
+             Non-explosive calderas
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-7">
+         <a href="#Extraterrestrial_calderas">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           Extraterrestrial calderas
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-8">
+           <a href="#The_Moon">
+            <span class="tocnumber">
+             3.1
+            </span>
+            <span class="toctext">
+             The Moon
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-9">
+           <a href="#Mars">
+            <span class="tocnumber">
+             3.2
+            </span>
+            <span class="toctext">
+             Mars
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-10">
+           <a href="#Venus">
+            <span class="tocnumber">
+             3.3
+            </span>
+            <span class="toctext">
+             Venus
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-11">
+           <a href="#Io">
+            <span class="tocnumber">
+             3.4
+            </span>
+            <span class="toctext">
+             Io
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-12">
+         <a href="#List_of_volcanic_calderas">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           List of volcanic calderas
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-13">
+         <a href="#Erosion_calderas">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           Erosion calderas
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-14">
+         <a href="#See_also">
+          <span class="tocnumber">
+           6
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-15">
+         <a href="#Notes">
+          <span class="tocnumber">
+           7
+          </span>
+          <span class="toctext">
+           Notes
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-16">
+         <a href="#References">
+          <span class="tocnumber">
+           8
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-17">
+         <a href="#External_links">
+          <span class="tocnumber">
+           9
+          </span>
+          <span class="toctext">
+           External links
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Etymology">
+        Etymology
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Caldera&amp;action=edit&amp;section=1" title="Edit section: Etymology">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       The word comes from
+       <a href="/wiki/Spanish_language" title="Spanish language">
+        Spanish
+       </a>
+       <i>
+        <span lang="es" xml:lang="es">
+         <a class="extiw" href="https://en.wiktionary.org/wiki/caldera#Spanish" title="wikt:caldera">
+          caldera
+         </a>
+        </span>
+       </i>
+       , and
+       <a href="/wiki/Latin" title="Latin">
+        Latin
+       </a>
+       <i>
+        <span lang="la" xml:lang="la">
+         <a class="extiw" href="https://en.wiktionary.org/wiki/caldaria#Latin" title="wikt:caldaria">
+          caldaria
+         </a>
+        </span>
+       </i>
+       , meaning "cooking pot". In some texts the English term
+       <i>
+        cauldron
+       </i>
+       is also used. The term
+       <i>
+        caldera
+       </i>
+       was introduced into the geological vocabulary by the German geologist
+       <a class="mw-redirect" href="/wiki/Leopold_von_Buch" title="Leopold von Buch">
+        Leopold von Buch
+       </a>
+       when he published his memoirs of his 1815 visit to the
+       <a href="/wiki/Canary_Islands" title="Canary Islands">
+        Canary Islands
+       </a>
+       ,
+       <sup class="reference" id="cite_ref-note_1_2-0">
+        <a href="#cite_note-note_1-2">
+         [note 1]
+        </a>
+       </sup>
+       where he first saw the Las Cañadas caldera on
+       <a href="/wiki/Tenerife" title="Tenerife">
+        Tenerife
+       </a>
+       , with Montaña
+       <a href="/wiki/Teide" title="Teide">
+        Teide
+       </a>
+       dominating the landscape, and then the
+       <a class="mw-redirect" href="/wiki/Caldera_de_Taburiente" title="Caldera de Taburiente">
+        Caldera de Taburiente
+       </a>
+       on
+       <a href="/wiki/La_Palma" title="La Palma">
+        La Palma
+       </a>
+       .
+      </p>
+      <h2>
+       <span class="mw-headline" id="Caldera_formation">
+        Caldera formation
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Caldera&amp;action=edit&amp;section=2" title="Edit section: Caldera formation">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="thumb tleft">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Origin_of_volcanic_caldera_via_analogue_model.gif">
+         <img alt="" class="thumbimage" data-file-height="396" data-file-width="594" height="147" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Origin_of_volcanic_caldera_via_analogue_model.gif/220px-Origin_of_volcanic_caldera_via_analogue_model.gif" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Origin_of_volcanic_caldera_via_analogue_model.gif/330px-Origin_of_volcanic_caldera_via_analogue_model.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Origin_of_volcanic_caldera_via_analogue_model.gif/440px-Origin_of_volcanic_caldera_via_analogue_model.gif 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Origin_of_volcanic_caldera_via_analogue_model.gif" title="Enlarge">
+          </a>
+         </div>
+         Animation of analogue experiment showing origin of volcanic caldera in box filled with flour.
+        </div>
+       </div>
+      </div>
+      <div class="thumb tleft">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Toba_zoom.jpg">
+         <img alt="" class="thumbimage" data-file-height="600" data-file-width="800" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Toba_zoom.jpg/220px-Toba_zoom.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Toba_zoom.jpg/330px-Toba_zoom.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Toba_zoom.jpg/440px-Toba_zoom.jpg 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Toba_zoom.jpg" title="Enlarge">
+          </a>
+         </div>
+         <a class="mw-redirect" href="/wiki/Landsat" title="Landsat">
+          Landsat
+         </a>
+         image of
+         <a href="/wiki/Lake_Toba" title="Lake Toba">
+          Lake Toba
+         </a>
+         , on the island of
+         <a href="/wiki/Sumatra" title="Sumatra">
+          Sumatra
+         </a>
+         ,
+         <a href="/wiki/Indonesia" title="Indonesia">
+          Indonesia
+         </a>
+         (100 km/62 mi long and 30 km/19 mi wide, one of the world's largest calderas). A
+         <a href="/wiki/Resurgent_dome" title="Resurgent dome">
+          resurgent dome
+         </a>
+         formed the island of
+         <a href="/wiki/Samosir" title="Samosir">
+          Samosir
+         </a>
+         .
+        </div>
+       </div>
+      </div>
+      <p>
+       A collapse is triggered by the emptying of the
+       <a href="/wiki/Magma_chamber" title="Magma chamber">
+        magma chamber
+       </a>
+       beneath the volcano, sometimes as the result of a large explosive
+       <a href="/wiki/Volcano" title="Volcano">
+        volcanic eruption
+       </a>
+       (see
+       <a href="/wiki/1815_eruption_of_Mount_Tambora" title="1815 eruption of Mount Tambora">
+        Tambora
+       </a>
+       in 1815), but also during effusive eruptions on the flanks of a volcano (see
+       <a href="/wiki/Piton_de_la_Fournaise" title="Piton de la Fournaise">
+        Piton de la Fournaise
+       </a>
+       in 2007) or in a connected fissure system (see
+       <a href="/wiki/B%C3%A1r%C3%B0arbunga" title="Bárðarbunga">
+        Bárðarbunga
+       </a>
+       in 2014–2015). If enough
+       <a href="/wiki/Magma" title="Magma">
+        magma
+       </a>
+       is ejected, the emptied chamber is unable to support the weight of the volcanic edifice above it. A roughly circular
+       <a href="/wiki/Fracture_(geology)" title="Fracture (geology)">
+        fracture
+       </a>
+       , the "ring fault", develops around the edge of the chamber. Ring fractures serve as feeders for fault
+       <a class="mw-redirect" href="/wiki/Intrusion" title="Intrusion">
+        intrusions
+       </a>
+       which are also known as
+       <a href="/wiki/Ring_dike" title="Ring dike">
+        ring dykes
+       </a>
+       . Secondary volcanic vents may form above the ring fracture. As the magma chamber empties, the center of the volcano within the ring fracture begins to collapse. The collapse may occur as the result of a single cataclysmic eruption, or it may occur in stages as the result of a series of eruptions. The total area that collapses may be hundreds or thousands of square kilometers.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Mineralization">
+        Mineralization
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Caldera&amp;action=edit&amp;section=3" title="Edit section: Mineralization">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       Some calderas are known to host rich
+       <a class="mw-redirect" href="/wiki/Ore_deposit" title="Ore deposit">
+        ore deposits
+       </a>
+       . One of the world's best-preserved
+       <a href="/wiki/Mineralization_(geology)" title="Mineralization (geology)">
+        mineralized
+       </a>
+       calderas is the
+       <a href="/wiki/Sturgeon_Lake_Caldera" title="Sturgeon Lake Caldera">
+        Sturgeon Lake Caldera
+       </a>
+       in
+       <a href="/wiki/Northwestern_Ontario" title="Northwestern Ontario">
+        northwestern Ontario
+       </a>
+       ,
+       <a href="/wiki/Canada" title="Canada">
+        Canada
+       </a>
+       , which formed during the
+       <a href="/wiki/Neoarchean" title="Neoarchean">
+        Neoarchean
+       </a>
+       <a href="/wiki/Era_(geology)" title="Era (geology)">
+        era
+       </a>
+       <sup class="reference" id="cite_ref-3">
+        <a href="#cite_note-3">
+         [2]
+        </a>
+       </sup>
+       about 2,700 million years ago.
+       <sup class="reference" id="cite_ref-4">
+        <a href="#cite_note-4">
+         [3]
+        </a>
+       </sup>
+      </p>
+      <h3>
+       <span class="mw-headline" id="Explosive_caldera_eruptions">
+        Explosive caldera eruptions
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Caldera&amp;action=edit&amp;section=4" title="Edit section: Explosive caldera eruptions">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Further information:
+       <a href="/wiki/Explosive_eruption" title="Explosive eruption">
+        Explosive eruption
+       </a>
+      </div>
+      <p>
+       If the
+       <a href="/wiki/Magma" title="Magma">
+        magma
+       </a>
+       is rich in
+       <a class="mw-redirect" href="/wiki/Silica" title="Silica">
+        silica
+       </a>
+       , the caldera is often filled in with
+       <a href="/wiki/Ignimbrite" title="Ignimbrite">
+        ignimbrite
+       </a>
+       ,
+       <a href="/wiki/Tuff" title="Tuff">
+        tuff
+       </a>
+       ,
+       <a href="/wiki/Rhyolite" title="Rhyolite">
+        rhyolite
+       </a>
+       , and other
+       <a href="/wiki/Igneous_rock" title="Igneous rock">
+        igneous rocks
+       </a>
+       . Silica-rich magma has a high
+       <a href="/wiki/Viscosity" title="Viscosity">
+        viscosity
+       </a>
+       , and therefore does not flow easily like
+       <a href="/wiki/Basalt" title="Basalt">
+        basalt
+       </a>
+       . As a result, gases tend to become trapped at high pressure within the magma. When the magma approaches the surface of the Earth, the rapid off-loading of overlying material causes the trapped gases to decompress rapidly, thus triggering explosive destruction of the magma and spreading
+       <a href="/wiki/Volcanic_ash" title="Volcanic ash">
+        volcanic ash
+       </a>
+       over wide areas. Further
+       <a href="/wiki/Lava" title="Lava">
+        lava
+       </a>
+       flows may be erupted.
+      </p>
+      <p>
+       If volcanic activity continues, the center of the caldera may be uplifted in the form of a
+       <i>
+        <a href="/wiki/Resurgent_dome" title="Resurgent dome">
+         resurgent dome
+        </a>
+       </i>
+       such as is seen at
+       <a href="/wiki/Gal%C3%A1n" title="Galán">
+        Cerro Galán
+       </a>
+       ,
+       <a href="/wiki/Lake_Toba" title="Lake Toba">
+        Lake Toba
+       </a>
+       ,
+       <a href="/wiki/Yellowstone_Caldera" title="Yellowstone Caldera">
+        Yellowstone
+       </a>
+       , etc., by subsequent intrusion of magma. A
+       <i>
+        silicic
+       </i>
+       or
+       <i>
+        <a href="/wiki/Rhyolite" title="Rhyolite">
+         rhyolitic
+        </a>
+        caldera
+       </i>
+       may erupt hundreds or even thousands of cubic kilometers of material in a single event. Even small caldera-forming eruptions, such as
+       <a href="/wiki/Krakatoa" title="Krakatoa">
+        Krakatoa
+       </a>
+       in 1883 or
+       <a href="/wiki/Mount_Pinatubo" title="Mount Pinatubo">
+        Mount Pinatubo
+       </a>
+       in 1991, may result in significant local destruction and a noticeable drop in temperature around the world. Large calderas may have even greater effects.
+      </p>
+      <p>
+       When Yellowstone Caldera last erupted some 650,000 years ago, it released about 1,000 km
+       <sup>
+        3
+       </sup>
+       of material (as measured in dense rock equivalent (DRE)), covering a substantial part of
+       <a href="/wiki/North_America" title="North America">
+        North America
+       </a>
+       in up to two metres of debris. By comparison, when
+       <a href="/wiki/Mount_St._Helens" title="Mount St. Helens">
+        Mount St. Helens
+       </a>
+       erupted in 1980, it released ~1.2 km
+       <sup>
+        3
+       </sup>
+       (DRE) of ejecta. The ecological effects of the eruption of a large caldera can be seen in the record of the
+       <a href="/wiki/Lake_Toba" title="Lake Toba">
+        Lake Toba
+       </a>
+       eruption in
+       <a href="/wiki/Indonesia" title="Indonesia">
+        Indonesia
+       </a>
+       .
+      </p>
+      <h4>
+       <span class="mw-headline" id="Toba">
+        Toba
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Caldera&amp;action=edit&amp;section=5" title="Edit section: Toba">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h4>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main article:
+       <a href="/wiki/Lake_Toba" title="Lake Toba">
+        Lake Toba
+       </a>
+      </div>
+      <p>
+       About 74,000 years ago, this Indonesian volcano released about 2,800 km
+       <sup>
+        3
+       </sup>
+       <a href="/wiki/Dense-rock_equivalent" title="Dense-rock equivalent">
+        DRE
+       </a>
+       of ejecta, the largest known eruption within the
+       <a href="/wiki/Quaternary" title="Quaternary">
+        Quaternary
+       </a>
+       Period (last 1.8 million years) and the largest known explosive eruption within the last 25 million years. In the late 1990s,
+       <a href="/wiki/Anthropologist" title="Anthropologist">
+        anthropologist
+       </a>
+       Stanley Ambrose
+       <sup class="reference" id="cite_ref-5">
+        <a href="#cite_note-5">
+         [4]
+        </a>
+       </sup>
+       proposed that a
+       <a href="/wiki/Volcanic_winter" title="Volcanic winter">
+        volcanic winter
+       </a>
+       induced by this eruption reduced the
+       <a href="/wiki/Human" title="Human">
+        human
+       </a>
+       population to about 2,000–20,000 individuals, resulting in a
+       <a href="/wiki/Population_bottleneck" title="Population bottleneck">
+        population bottleneck
+       </a>
+       (
+       <i>
+        see
+       </i>
+       <a href="/wiki/Toba_catastrophe_theory" title="Toba catastrophe theory">
+        Toba catastrophe theory
+       </a>
+       ). More recently several geneticists, including Lynn Jorde and
+       <a href="/wiki/Henry_Harpending" title="Henry Harpending">
+        Henry Harpending
+       </a>
+       have proposed that the human species was reduced to approximately five to ten thousand people.
+       <sup class="reference" id="cite_ref-6">
+        <a href="#cite_note-6">
+         [5]
+        </a>
+       </sup>
+       However, there is no direct evidence that the theory is correct, and there is no evidence for any other animal decline or extinction, even in environmentally sensitive species.
+       <sup class="reference" id="cite_ref-7">
+        <a href="#cite_note-7">
+         [6]
+        </a>
+       </sup>
+       There is evidence that human habitation continued in
+       <a href="/wiki/India" title="India">
+        India
+       </a>
+       after the eruption.
+       <sup class="reference" id="cite_ref-8">
+        <a href="#cite_note-8">
+         [7]
+        </a>
+       </sup>
+       The theory in its strongest form may be incorrect.
+      </p>
+      <p>
+       Eruptions forming even larger calderas are known, especially
+       <a href="/wiki/La_Garita_Caldera" title="La Garita Caldera">
+        La Garita Caldera
+       </a>
+       in the
+       <a href="/wiki/San_Juan_Mountains" title="San Juan Mountains">
+        San Juan Mountains
+       </a>
+       of
+       <a href="/wiki/Colorado" title="Colorado">
+        Colorado
+       </a>
+       , where the 5,000-km
+       <sup>
+        3
+       </sup>
+       <a href="/wiki/Fish_Canyon_Tuff" title="Fish Canyon Tuff">
+        Fish Canyon Tuff
+       </a>
+       was blasted out in a single major eruption about 27.8 million years ago.
+      </p>
+      <p>
+       At some points in
+       <a class="mw-redirect" href="/wiki/Geological_time" title="Geological time">
+        geological time
+       </a>
+       , rhyolitic calderas have appeared in distinct clusters. The remnants of such clusters may be found in places such as the San Juan Mountains of Colorado (formed during the
+       <a href="/wiki/Oligocene" title="Oligocene">
+        Oligocene
+       </a>
+       ,
+       <a href="/wiki/Miocene" title="Miocene">
+        Miocene
+       </a>
+       , and
+       <a href="/wiki/Pliocene" title="Pliocene">
+        Pliocene
+       </a>
+       periods) or the
+       <a class="mw-redirect" href="/wiki/Saint_Francois_Mountain_Range" title="Saint Francois Mountain Range">
+        Saint Francois Mountain Range
+       </a>
+       of
+       <a href="/wiki/Missouri" title="Missouri">
+        Missouri
+       </a>
+       (erupted during the
+       <a href="/wiki/Proterozoic" title="Proterozoic">
+        Proterozoic
+       </a>
+       ).
+      </p>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:La_Cumbre_-_ISS.JPG">
+         <img alt="" class="thumbimage" data-file-height="2008" data-file-width="3032" height="146" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/La_Cumbre_-_ISS.JPG/220px-La_Cumbre_-_ISS.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/La_Cumbre_-_ISS.JPG/330px-La_Cumbre_-_ISS.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/La_Cumbre_-_ISS.JPG/440px-La_Cumbre_-_ISS.JPG 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:La_Cumbre_-_ISS.JPG" title="Enlarge">
+          </a>
+         </div>
+         Satellite photograph of the summit caldera on
+         <a href="/wiki/Fernandina_Island" title="Fernandina Island">
+          Fernandina Island
+         </a>
+         in the
+         <a href="/wiki/Gal%C3%A1pagos_Islands" title="Galápagos Islands">
+          Galápagos
+         </a>
+         <a href="/wiki/Archipelago" title="Archipelago">
+          archipelago
+         </a>
+         .
+        </div>
+       </div>
+      </div>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Nemrut_Caldera_aerial.jpg">
+         <img alt="" class="thumbimage" data-file-height="650" data-file-width="2048" height="70" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Nemrut_Caldera_aerial.jpg/220px-Nemrut_Caldera_aerial.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Nemrut_Caldera_aerial.jpg/330px-Nemrut_Caldera_aerial.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Nemrut_Caldera_aerial.jpg/440px-Nemrut_Caldera_aerial.jpg 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Nemrut_Caldera_aerial.jpg" title="Enlarge">
+          </a>
+         </div>
+         Oblique aerial photo of Nemrut Caldera, Van Lake, Eastern Turkey
+        </div>
+       </div>
+      </div>
+      <h3>
+       <span class="mw-headline" id="Non-explosive_calderas">
+        Non-explosive calderas
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Caldera&amp;action=edit&amp;section=6" title="Edit section: Non-explosive calderas">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Iss038e012569,_Caldera_Sollipulli.jpg">
+         <img alt="" class="thumbimage" data-file-height="480" data-file-width="720" height="147" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Iss038e012569%2C_Caldera_Sollipulli.jpg/220px-Iss038e012569%2C_Caldera_Sollipulli.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Iss038e012569%2C_Caldera_Sollipulli.jpg/330px-Iss038e012569%2C_Caldera_Sollipulli.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/50/Iss038e012569%2C_Caldera_Sollipulli.jpg/440px-Iss038e012569%2C_Caldera_Sollipulli.jpg 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Iss038e012569,_Caldera_Sollipulli.jpg" title="Enlarge">
+          </a>
+         </div>
+         Sollipulli Caldera, located in central Chile near the border with Argentina, filled with ice. The volcano sits in the southern Andes Mountains within Chile's Parque Nacional Villarica.
+         <sup class="reference" id="cite_ref-9">
+          <a href="#cite_note-9">
+           [8]
+          </a>
+         </sup>
+        </div>
+       </div>
+      </div>
+      <p>
+       Some volcanoes, such as
+       <a href="/wiki/Shield_volcano" title="Shield volcano">
+        shield volcanoes
+       </a>
+       <a href="/wiki/K%C4%ABlauea" title="Kīlauea">
+        Kīlauea
+       </a>
+       and
+       <a href="/wiki/Mauna_Loa" title="Mauna Loa">
+        Mauna Loa
+       </a>
+       (respectively the most active and second largest on Earth, are both on the island of
+       <a href="/wiki/Hawaii_(island)" title="Hawaii (island)">
+        Hawaii
+       </a>
+       ), form calderas in a different fashion. The magma feeding these volcanoes is
+       <a href="/wiki/Basalt" title="Basalt">
+        basalt
+       </a>
+       which is silica poor. As a result, the magma is much less
+       <a href="/wiki/Viscosity" title="Viscosity">
+        viscous
+       </a>
+       than the magma of a rhyolitic volcano, and the magma chamber is drained by large lava flows rather than by explosive events. The resulting calderas are also known as subsidence calderas, and can form more gradually than explosive calderas. For instance, the caldera atop
+       <a href="/wiki/Fernandina_Island" title="Fernandina Island">
+        Fernandina Island
+       </a>
+       underwent a collapse in 1968, when parts of the caldera floor dropped 350 meters.
+       <sup class="reference" id="cite_ref-gvp_10-0">
+        <a href="#cite_note-gvp-10">
+         [9]
+        </a>
+       </sup>
+       <a class="mw-redirect" href="/wiki/Kilauea" title="Kilauea">
+        Kilauea
+       </a>
+       Caldera has an inner crater known as
+       <a href="/wiki/Halemaumau_Crater" title="Halemaumau Crater">
+        Halema‘uma‘u
+       </a>
+       , which has often been filled by a lava lake.
+      </p>
+      <p>
+       During the April 2007 eruption of the
+       <a href="/wiki/Piton_de_la_Fournaise" title="Piton de la Fournaise">
+        Piton de la Fournaise
+       </a>
+       on the island of
+       <a href="/wiki/R%C3%A9union" title="Réunion">
+        Réunion
+       </a>
+       , the floor of the main crater suddenly dropped about 300 m. This was attributed to the withdrawal of magma which was being erupted through a vent lower down on the southern flank of the volcano.
+      </p>
+      <p>
+       Another process that may allow a caldera to form can occur if molten lava can escape through a breach on the caldera's rim.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Extraterrestrial_calderas">
+        Extraterrestrial calderas
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Caldera&amp;action=edit&amp;section=7" title="Edit section: Extraterrestrial calderas">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Since the early 1960s, it has been known that volcanism has occurred on other planets and moons in the
+       <a href="/wiki/Solar_System" title="Solar System">
+        Solar System
+       </a>
+       . Through the use of manned and unmanned spacecraft, volcanism has been discovered on
+       <a href="/wiki/Venus" title="Venus">
+        Venus
+       </a>
+       ,
+       <a href="/wiki/Mars" title="Mars">
+        Mars
+       </a>
+       , the
+       <a href="/wiki/Moon" title="Moon">
+        Moon
+       </a>
+       , and
+       <a href="/wiki/Io_(moon)" title="Io (moon)">
+        Io
+       </a>
+       , a satellite of
+       <a href="/wiki/Jupiter" title="Jupiter">
+        Jupiter
+       </a>
+       . None of these worlds have
+       <a href="/wiki/Plate_tectonics" title="Plate tectonics">
+        plate tectonics
+       </a>
+       , which contributes approximately 60% of the Earth's volcanic activity (the other 40% is attributed to
+       <a href="/wiki/Hotspot_(geology)" title="Hotspot (geology)">
+        hotspot
+       </a>
+       volcanism).
+       <sup class="reference" id="cite_ref-Wilson_11-0">
+        <a href="#cite_note-Wilson-11">
+         [10]
+        </a>
+       </sup>
+       Caldera structure is similar on all of these planetary bodies, though the size varies considerably. The average caldera diameter on Venus is 68 km. The average caldera diameter on Io is close to 40 km, and the mode is 6 km;
+       <a href="/wiki/Tvashtar_Paterae" title="Tvashtar Paterae">
+        Tvashtar Paterae
+       </a>
+       is likely the largest caldera with a diameter of 290 km. The average caldera diameter on Mars is 48 km, smaller than Venus. Calderas on Earth are the smallest of all planetary bodies and vary from 1.6 to 80 km as a maximum.
+       <sup class="reference" id="cite_ref-12">
+        <a href="#cite_note-12">
+         [11]
+        </a>
+       </sup>
+      </p>
+      <h3>
+       <span class="mw-headline" id="The_Moon">
+        The Moon
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Caldera&amp;action=edit&amp;section=8" title="Edit section: The Moon">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       The
+       <a href="/wiki/Moon" title="Moon">
+        Moon
+       </a>
+       has an outer shell of low-density crystalline rock that is a few hundred kilometers thick, which formed due to a rapid creation. The craters of the moon have been well preserved through time and were once thought to have been the result of extreme volcanic activity, but actually were formed by meteorites, nearly all of which took place in the first few hundred million years after the Moon formed. Around 500 million years afterward, the Moon's mantle was able to be extensively melted due to the decay of radioactive elements. Massive basaltic eruptions took place generally at the base of large impact craters. Also, eruptions may have taken place due to a magma reservoir at the base of the crust. This forms a dome, possibly the same morphology of a shield volcano where calderas universally are known to form.
+       <sup class="reference" id="cite_ref-Wilson_11-1">
+        <a href="#cite_note-Wilson-11">
+         [10]
+        </a>
+       </sup>
+       Although caldera-like structures are rare on the Moon, they are not completely absent. The
+       <a href="/wiki/Compton%E2%80%93Belkovich_Thorium_Anomaly" title="Compton–Belkovich Thorium Anomaly">
+        Compton-Belkovich Volcanic Complex
+       </a>
+       on the
+       <a href="/wiki/Far_side_of_the_Moon" title="Far side of the Moon">
+        far side of the Moon
+       </a>
+       is thought to be a caldera, possibly an
+       <a href="/wiki/Pyroclastic_flow" title="Pyroclastic flow">
+        ash-flow
+       </a>
+       caldera.
+       <sup class="reference" id="cite_ref-Compton-Belkovich_13-0">
+        <a href="#cite_note-Compton-Belkovich-13">
+         [12]
+        </a>
+       </sup>
+      </p>
+      <h3>
+       <span class="mw-headline" id="Mars">
+        Mars
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Caldera&amp;action=edit&amp;section=9" title="Edit section: Mars">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Further information:
+       <a href="/wiki/Volcanology_of_Mars" title="Volcanology of Mars">
+        Volcanology of Mars
+       </a>
+      </div>
+      <p>
+       The volcanic activity of
+       <a href="/wiki/Mars" title="Mars">
+        Mars
+       </a>
+       is concentrated in two major provinces:
+       <a href="/wiki/Tharsis" title="Tharsis">
+        Tharsis
+       </a>
+       and
+       <a href="/wiki/Elysium_(volcanic_province)" title="Elysium (volcanic province)">
+        Elysium
+       </a>
+       . Each province contains a series of giant shield volcanoes that are similar to what we see on Earth and likely are the result of mantle
+       <a href="/wiki/Hotspot_(geology)" title="Hotspot (geology)">
+        hot spots
+       </a>
+       . The surfaces are dominated by lava flows, and all have one or more collapse calderas.
+       <sup class="reference" id="cite_ref-Wilson_11-2">
+        <a href="#cite_note-Wilson-11">
+         [10]
+        </a>
+       </sup>
+       Mars has the largest volcano in the Solar System,
+       <a href="/wiki/Olympus_Mons" title="Olympus Mons">
+        Olympus Mons
+       </a>
+       , which is more than three times the height of Mount Everest, with a diameter of 520 km (323 miles). The summit of the mountain has six nested calderas.
+       <sup class="reference" id="cite_ref-14">
+        <a href="#cite_note-14">
+         [13]
+        </a>
+       </sup>
+      </p>
+      <h3>
+       <span class="mw-headline" id="Venus">
+        Venus
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Caldera&amp;action=edit&amp;section=10" title="Edit section: Venus">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Further information:
+       <a href="/wiki/Volcanology_of_Venus" title="Volcanology of Venus">
+        Volcanology of Venus
+       </a>
+      </div>
+      <p>
+       Because there is no
+       <a href="/wiki/Plate_tectonics" title="Plate tectonics">
+        plate tectonics
+       </a>
+       on
+       <a href="/wiki/Venus" title="Venus">
+        Venus
+       </a>
+       , heat is mainly lost by conduction through the
+       <a href="/wiki/Lithosphere" title="Lithosphere">
+        lithosphere
+       </a>
+       . This causes enormous lava flows, accounting for 80% of Venus' surface area. Many of the mountains are large
+       <a href="/wiki/Shield_volcano" title="Shield volcano">
+        shield volcanoes
+       </a>
+       that range in size from 150–400 km in diameter and 2–4 km high. More than 80 of these large shield volcanoes have summit calderas averaging 60 km across.
+       <sup class="reference" id="cite_ref-Wilson_11-3">
+        <a href="#cite_note-Wilson-11">
+         [10]
+        </a>
+       </sup>
+      </p>
+      <h3>
+       <span class="mw-headline" id="Io">
+        Io
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Caldera&amp;action=edit&amp;section=11" title="Edit section: Io">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Further information:
+       <a href="/wiki/Volcanology_of_Io" title="Volcanology of Io">
+        Volcanology of Io
+       </a>
+      </div>
+      <p>
+       Io, unusually, is heated by solid flexing due to the
+       <a href="/wiki/Tidal_force" title="Tidal force">
+        tidal
+       </a>
+       influence of
+       <a href="/wiki/Jupiter" title="Jupiter">
+        Jupiter
+       </a>
+       and Io's
+       <a href="/wiki/Orbital_resonance" title="Orbital resonance">
+        orbital resonance
+       </a>
+       with neighboring large moons
+       <a href="/wiki/Europa_(moon)" title="Europa (moon)">
+        Europa
+       </a>
+       and
+       <a href="/wiki/Ganymede_(moon)" title="Ganymede (moon)">
+        Ganymede
+       </a>
+       , which keeps its orbit slightly
+       <a href="/wiki/Orbital_eccentricity" title="Orbital eccentricity">
+        eccentric
+       </a>
+       . Unlike any of the planets mentioned, Io is continuously volcanically active. For example, the NASA
+       <i>
+        <a href="/wiki/Voyager_1" title="Voyager 1">
+         Voyager 1
+        </a>
+       </i>
+       and
+       <i>
+        <a href="/wiki/Voyager_2" title="Voyager 2">
+         Voyager 2
+        </a>
+       </i>
+       spacecraft detected nine erupting volcanoes while passing Io in 1979. Io has many calderas with diameters tens of kilometers across.
+       <sup class="reference" id="cite_ref-Wilson_11-4">
+        <a href="#cite_note-Wilson-11">
+         [10]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="List_of_volcanic_calderas">
+        List of volcanic calderas
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Caldera&amp;action=edit&amp;section=12" title="Edit section: List of volcanic calderas">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="hatnote navigation-not-searchable" role="note">
+       See also:
+       <a href="/wiki/Category:Calderas" title="Category:Calderas">
+        Category:Calderas
+       </a>
+      </div>
+      <ul>
+       <li>
+        Africa
+        <ul>
+         <li>
+          <a class="mw-redirect" href="/wiki/Ngorongoro_Crater" title="Ngorongoro Crater">
+           Ngorongoro Crater
+          </a>
+          (Tanzania)
+         </li>
+         <li>
+          <a href="/wiki/Menengai" title="Menengai">
+           Menengai
+          </a>
+          Crater (Kenya)
+         </li>
+         <li>
+          <a href="/wiki/Mount_Elgon" title="Mount Elgon">
+           Mount Elgon
+          </a>
+          (Uganda/Kenya)
+         </li>
+         <li>
+          <a class="mw-redirect" href="/wiki/Mount_Fogo" title="Mount Fogo">
+           Mount Fogo
+          </a>
+          (Cape Verde)
+         </li>
+         <li>
+          <a href="/wiki/Mount_Longonot" title="Mount Longonot">
+           Mount Longonot
+          </a>
+          (Kenya)
+         </li>
+         <li>
+          <a href="/wiki/Mount_Meru_(Tanzania)" title="Mount Meru (Tanzania)">
+           Mount Meru
+          </a>
+          (Tanzania)
+         </li>
+         <li>
+          <a href="/wiki/Erta_Ale" title="Erta Ale">
+           Erta Ale
+          </a>
+          (Ethiopia)
+         </li>
+         <li>
+          <a href="/wiki/Nabro_Volcano" title="Nabro Volcano">
+           Nabro Volcano
+          </a>
+          (Eritrea)
+         </li>
+         <li>
+          <a href="/wiki/Mallahle" title="Mallahle">
+           Mallahle
+          </a>
+          (Eritrea)
+         </li>
+         <li>
+          <i>
+           See
+          </i>
+          Europe
+          <i>
+           for calderas in the Canary Islands
+          </i>
+         </li>
+        </ul>
+       </li>
+       <li>
+        Asia
+        <ul>
+         <li>
+          East Asia
+          <ul>
+           <li>
+            <a class="new" href="/w/index.php?title=Zhejiang_Linhai_National_Geopark&amp;action=edit&amp;redlink=1" title="Zhejiang Linhai National Geopark (page does not exist)">
+             Dakantou Caldera
+            </a>
+            (大墈头) (Shanhuyan Village, Taozhu Town,
+            <a href="/wiki/Linhai" title="Linhai">
+             Linhai
+            </a>
+            , Zhejiang, China)
+           </li>
+           <li>
+            <a class="new" href="/w/index.php?title=Ma%27anshan_Caldera&amp;action=edit&amp;redlink=1" title="Ma'anshan Caldera (page does not exist)">
+             Ma'anshan Caldera
+            </a>
+            (马鞍山) (Shishan Town (石山镇),
+            <a href="/wiki/Xiuying_District" title="Xiuying District">
+             Xiuying
+            </a>
+            , Hainan, China)
+           </li>
+           <li>
+            <a class="new" href="/w/index.php?title=Yiyang_Caldera&amp;action=edit&amp;redlink=1" title="Yiyang Caldera (page does not exist)">
+             Yiyang Caldera
+            </a>
+            (宜洋) (Shuangxi Town (双溪镇宜洋村),
+            <a href="/wiki/Pingnan_County,_Fujian" title="Pingnan County, Fujian">
+             Pingnan County, Fujian
+            </a>
+            , China)
+           </li>
+           <li>
+            <a href="/wiki/Aira_Caldera" title="Aira Caldera">
+             Aira Caldera
+            </a>
+            (
+            <a href="/wiki/Kagoshima_Prefecture" title="Kagoshima Prefecture">
+             Kagoshima Prefecture
+            </a>
+            ,
+            <a href="/wiki/Japan" title="Japan">
+             Japan
+            </a>
+            )
+           </li>
+           <li>
+            <a href="/wiki/Lake_Kussharo" title="Lake Kussharo">
+             Kussharo
+            </a>
+            (
+            <a href="/wiki/Hokkaido" title="Hokkaido">
+             Hokkaido
+            </a>
+            , Japan)
+           </li>
+           <li>
+            <a href="/wiki/Lake_Kuttara" title="Lake Kuttara">
+             Kuttara
+            </a>
+            (Hokkaido, Japan)
+           </li>
+           <li>
+            <a href="/wiki/Lake_Mash%C5%AB" title="Lake Mashū">
+             Mashū
+            </a>
+            (Hokkaido, Japan)
+           </li>
+           <li>
+            <a href="/wiki/Mount_Aso" title="Mount Aso">
+             Aso
+            </a>
+            (
+            <a href="/wiki/Kumamoto_Prefecture" title="Kumamoto Prefecture">
+             Kumamoto Prefecture
+            </a>
+            , Japan)
+           </li>
+           <li>
+            <a href="/wiki/Kikai_Caldera" title="Kikai Caldera">
+             Kikai Caldera
+            </a>
+            (Kagoshima Prefecture, Japan)
+           </li>
+           <li>
+            <a href="/wiki/Lake_Towada" title="Lake Towada">
+             Towada
+            </a>
+            (
+            <a href="/wiki/Aomori_Prefecture" title="Aomori Prefecture">
+             Aomori Prefecture
+            </a>
+            , Japan)
+           </li>
+           <li>
+            <a href="/wiki/Lake_Tazawa" title="Lake Tazawa">
+             Tazawa
+            </a>
+            (
+            <a href="/wiki/Akita_Prefecture" title="Akita Prefecture">
+             Akita Prefecture
+            </a>
+            , Japan)
+           </li>
+           <li>
+            <a href="/wiki/Mount_Hakone" title="Mount Hakone">
+             Hakone
+            </a>
+            (
+            <a href="/wiki/Kanagawa_Prefecture" title="Kanagawa Prefecture">
+             Kanagawa Prefecture
+            </a>
+            , Japan)
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Mount_Halla" title="Mount Halla">
+             Mount Halla
+            </a>
+            (
+            <a class="mw-redirect" href="/wiki/Jeju-do" title="Jeju-do">
+             Jeju-do
+            </a>
+            , South Korea)
+           </li>
+           <li>
+            <a href="/wiki/Heaven_Lake" title="Heaven Lake">
+             Heaven Lake
+            </a>
+            (
+            <a class="mw-redirect" href="/wiki/Baekdu_Mountain" title="Baekdu Mountain">
+             Baekdu Mountain
+            </a>
+            , North Korea)
+           </li>
+          </ul>
+         </li>
+         <li>
+          Southeast Asia
+          <div class="thumb tright">
+           <div class="thumbinner" style="width:222px;">
+            <a class="image" href="/wiki/File:Pinatubo92pinatubo_caldera_crater_lake.jpg">
+             <img alt="" class="thumbimage" data-file-height="673" data-file-width="1024" height="145" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pinatubo92pinatubo_caldera_crater_lake.jpg/220px-Pinatubo92pinatubo_caldera_crater_lake.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pinatubo92pinatubo_caldera_crater_lake.jpg/330px-Pinatubo92pinatubo_caldera_crater_lake.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pinatubo92pinatubo_caldera_crater_lake.jpg/440px-Pinatubo92pinatubo_caldera_crater_lake.jpg 2x" width="220"/>
+            </a>
+            <div class="thumbcaption">
+             <div class="magnify">
+              <a class="internal" href="/wiki/File:Pinatubo92pinatubo_caldera_crater_lake.jpg" title="Enlarge">
+              </a>
+             </div>
+             <a href="/wiki/Mount_Pinatubo" title="Mount Pinatubo">
+              Mount Pinatubo
+             </a>
+             , Philippines
+            </div>
+           </div>
+          </div>
+          <ul>
+           <li>
+            <a href="/wiki/Mount_Pinatubo" title="Mount Pinatubo">
+             Mount Pinatubo
+            </a>
+            (
+            <a href="/wiki/Luzon" title="Luzon">
+             Luzon
+            </a>
+            , Philippines)
+           </li>
+           <li>
+            <a href="/wiki/Taal_Volcano" title="Taal Volcano">
+             Taal Volcano
+            </a>
+            (Luzon, Philippines)
+           </li>
+           <li>
+            <a href="/wiki/Laguna_de_Bay" title="Laguna de Bay">
+             Laguna de Bay
+            </a>
+            (Luzon, Philippines)
+           </li>
+           <li>
+            <a href="/wiki/Mount_Batur" title="Mount Batur">
+             Batur
+            </a>
+            (
+            <a href="/wiki/Bali" title="Bali">
+             Bali
+            </a>
+            , Indonesia)
+           </li>
+           <li>
+            <a href="/wiki/Krakatoa" title="Krakatoa">
+             Krakatoa
+            </a>
+            (
+            <a href="/wiki/Sunda_Strait" title="Sunda Strait">
+             Sunda Strait
+            </a>
+            , Indonesia)
+           </li>
+           <li>
+            <a href="/wiki/Lake_Maninjau" title="Lake Maninjau">
+             Lake Maninjau
+            </a>
+            (
+            <a href="/wiki/Sumatra" title="Sumatra">
+             Sumatra
+            </a>
+            , Indonesia)
+           </li>
+           <li>
+            <a href="/wiki/Lake_Toba" title="Lake Toba">
+             Lake Toba
+            </a>
+            (Sumatra, Indonesia)
+           </li>
+           <li>
+            <a href="/wiki/Mount_Tondano" title="Mount Tondano">
+             Mount Tondano
+            </a>
+            (
+            <a href="/wiki/Sulawesi" title="Sulawesi">
+             Sulawesi
+            </a>
+            , Indonesia)
+           </li>
+           <li>
+            <a href="/wiki/Mount_Tambora" title="Mount Tambora">
+             Mount Tambora
+            </a>
+            (
+            <a href="/wiki/Sumbawa" title="Sumbawa">
+             Sumbawa
+            </a>
+            , Indonesia)
+           </li>
+           <li>
+            <a href="/wiki/Mount_Bromo" title="Mount Bromo">
+             Tengger Caldera
+            </a>
+            (
+            <a class="mw-redirect" href="/wiki/Java_Island" title="Java Island">
+             Java
+            </a>
+            , Indonesia)
+           </li>
+          </ul>
+         </li>
+         <li>
+          Southwest Asia
+          <ul>
+           <li>
+            <a class="mw-redirect" href="/wiki/Derik" title="Derik">
+             Derik
+            </a>
+            (
+            <a href="/wiki/Mardin" title="Mardin">
+             Mardin
+            </a>
+            , Turkey)
+           </li>
+           <li>
+            <a href="/wiki/Nemrut_(volcano)" title="Nemrut (volcano)">
+             Nemrut (volcano)
+            </a>
+            (Turkey)
+           </li>
+          </ul>
+         </li>
+         <li>
+          Russia
+          <div class="thumb tright">
+           <div class="thumbinner" style="width:222px;">
+            <a class="image" href="/wiki/File:Yankicha.jpg">
+             <img alt="" class="thumbimage" data-file-height="3168" data-file-width="4752" height="147" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Yankicha.jpg/220px-Yankicha.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Yankicha.jpg/330px-Yankicha.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/87/Yankicha.jpg/440px-Yankicha.jpg 2x" width="220"/>
+            </a>
+            <div class="thumbcaption">
+             <div class="magnify">
+              <a class="internal" href="/wiki/File:Yankicha.jpg" title="Enlarge">
+              </a>
+             </div>
+             Caldera of the island
+             <a href="/wiki/Ushishir" title="Ushishir">
+              Yankicha/Ushishir
+             </a>
+             ,
+             <a href="/wiki/Kuril_Islands" title="Kuril Islands">
+              Kuril Islands
+             </a>
+            </div>
+           </div>
+          </div>
+          <ul>
+           <li>
+            <a href="/wiki/Akademia_Nauk_(volcano)" title="Akademia Nauk (volcano)">
+             Akademia Nauk
+            </a>
+            (
+            <a href="/wiki/Kamchatka_Peninsula" title="Kamchatka Peninsula">
+             Kamchatka Peninsula
+            </a>
+            )
+           </li>
+           <li>
+            <a href="/wiki/Golovnin" title="Golovnin">
+             Golovnin
+            </a>
+            (
+            <a href="/wiki/Kuril_Islands" title="Kuril Islands">
+             Kuril Islands
+            </a>
+            )
+           </li>
+           <li>
+            <a href="/wiki/Karymsky_(volcano)" title="Karymsky (volcano)">
+             Karymsky Caldera
+            </a>
+            (
+            <a href="/wiki/Kamchatka_Peninsula" title="Kamchatka Peninsula">
+             Kamchatka Peninsula
+            </a>
+            )
+           </li>
+           <li>
+            <a href="/wiki/Khangar" title="Khangar">
+             Khangar
+            </a>
+            (
+            <a href="/wiki/Kamchatka_Peninsula" title="Kamchatka Peninsula">
+             Kamchatka Peninsula
+            </a>
+            )
+           </li>
+           <li>
+            <a href="/wiki/Ksudach" title="Ksudach">
+             Ksudach
+            </a>
+            (
+            <a href="/wiki/Kamchatka_Peninsula" title="Kamchatka Peninsula">
+             Kamchatka Peninsula
+            </a>
+            )
+           </li>
+           <li>
+            <a href="/wiki/Kurile_Lake" title="Kurile Lake">
+             Kurile Lake
+            </a>
+            (
+            <a href="/wiki/Kamchatka_Peninsula" title="Kamchatka Peninsula">
+             Kamchatka Peninsula
+            </a>
+            )
+           </li>
+           <li>
+            <a href="/wiki/Lvinaya_Past" title="Lvinaya Past">
+             Lvinaya Past
+            </a>
+            (
+            <a href="/wiki/Kuril_Islands" title="Kuril Islands">
+             Kuril Islands
+            </a>
+            )
+           </li>
+           <li>
+            <a href="/wiki/Tao-Rusyr_Caldera" title="Tao-Rusyr Caldera">
+             Tao-Rusyr Caldera
+            </a>
+            (
+            <a href="/wiki/Kuril_Islands" title="Kuril Islands">
+             Kuril Islands
+            </a>
+            )
+           </li>
+           <li>
+            <a href="/wiki/Uzon" title="Uzon">
+             Uzon
+            </a>
+            (
+            <a href="/wiki/Kamchatka_Peninsula" title="Kamchatka Peninsula">
+             Kamchatka Peninsula
+            </a>
+            )
+           </li>
+           <li>
+            <a href="/wiki/Zavaritski_Caldera" title="Zavaritski Caldera">
+             Zavaritski Caldera
+            </a>
+            (
+            <a href="/wiki/Kuril_Islands" title="Kuril Islands">
+             Kuril Islands
+            </a>
+            )
+           </li>
+           <li>
+            <a href="/wiki/Ushishir" title="Ushishir">
+             Yankicha/Ushishir
+            </a>
+            (
+            <a href="/wiki/Kuril_Islands" title="Kuril Islands">
+             Kuril Islands
+            </a>
+            )
+           </li>
+           <li>
+            <a class="new" href="/w/index.php?title=Chegem_Caldera&amp;action=edit&amp;redlink=1" title="Chegem Caldera (page does not exist)">
+             Chegem Caldera
+            </a>
+            (
+            <a class="mw-redirect" href="/wiki/Kabardino-Balkarian_Republic" title="Kabardino-Balkarian Republic">
+             Kabardino-Balkarian Republic
+            </a>
+            ,
+            <a class="new" href="/w/index.php?title=Northern_Caucasus_Region&amp;action=edit&amp;redlink=1" title="Northern Caucasus Region (page does not exist)">
+             Northern Caucasus Region
+            </a>
+            )
+           </li>
+          </ul>
+         </li>
+        </ul>
+       </li>
+       <li>
+        Americas
+        <ul>
+         <li>
+          Argentina
+          <ul>
+           <li>
+            <a href="/wiki/Aguas_Calientes_caldera" title="Aguas Calientes caldera">
+             Aguas Calientes
+            </a>
+            ,
+            <a href="/wiki/Salta_Province" title="Salta Province">
+             Salta Province
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Caldera_del_Atuel" title="Caldera del Atuel">
+             Caldera del Atuel
+            </a>
+            ,
+            <a href="/wiki/Mendoza_Province" title="Mendoza Province">
+             Mendoza Province
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Gal%C3%A1n" title="Galán">
+             Galán
+            </a>
+            ,
+            <a href="/wiki/Catamarca_Province" title="Catamarca Province">
+             Catamarca Province
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li>
+          United States
+          <div class="thumb tright">
+           <div class="thumbinner" style="width:222px;">
+            <a class="image" href="/wiki/File:Crater_lake_oregon.jpg">
+             <img alt="" class="thumbimage" data-file-height="415" data-file-width="623" height="147" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Crater_lake_oregon.jpg/220px-Crater_lake_oregon.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Crater_lake_oregon.jpg/330px-Crater_lake_oregon.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Crater_lake_oregon.jpg/440px-Crater_lake_oregon.jpg 2x" width="220"/>
+            </a>
+            <div class="thumbcaption">
+             <div class="magnify">
+              <a class="internal" href="/wiki/File:Crater_lake_oregon.jpg" title="Enlarge">
+              </a>
+             </div>
+             <a href="/wiki/Crater_Lake" title="Crater Lake">
+              Crater Lake
+             </a>
+             , Oregon, formed around 5,680 BC
+            </div>
+           </div>
+          </div>
+          <div class="thumb tright">
+           <div class="thumbinner" style="width:222px;">
+            <a class="image" href="/wiki/File:MSH82_st_helens_plume_from_harrys_ridge_05-19-82.jpg">
+             <img alt="" class="thumbimage" data-file-height="1977" data-file-width="2925" height="149" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/MSH82_st_helens_plume_from_harrys_ridge_05-19-82.jpg/220px-MSH82_st_helens_plume_from_harrys_ridge_05-19-82.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/MSH82_st_helens_plume_from_harrys_ridge_05-19-82.jpg/330px-MSH82_st_helens_plume_from_harrys_ridge_05-19-82.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dc/MSH82_st_helens_plume_from_harrys_ridge_05-19-82.jpg/440px-MSH82_st_helens_plume_from_harrys_ridge_05-19-82.jpg 2x" width="220"/>
+            </a>
+            <div class="thumbcaption">
+             <div class="magnify">
+              <a class="internal" href="/wiki/File:MSH82_st_helens_plume_from_harrys_ridge_05-19-82.jpg" title="Enlarge">
+              </a>
+             </div>
+             <a class="mw-redirect" href="/wiki/Mt._St._Helens" title="Mt. St. Helens">
+              Mt. St. Helens
+             </a>
+             -Caldera with the
+             <a href="/wiki/Lava_dome" title="Lava dome">
+              Lava dome
+             </a>
+            </div>
+           </div>
+          </div>
+          <div class="thumb tright">
+           <div class="thumbinner" style="width:222px;">
+            <a class="image" href="/wiki/File:Aniakchak-caldera_alaska.jpg">
+             <img alt="" class="thumbimage" data-file-height="683" data-file-width="1024" height="147" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Aniakchak-caldera_alaska.jpg/220px-Aniakchak-caldera_alaska.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Aniakchak-caldera_alaska.jpg/330px-Aniakchak-caldera_alaska.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Aniakchak-caldera_alaska.jpg/440px-Aniakchak-caldera_alaska.jpg 2x" width="220"/>
+            </a>
+            <div class="thumbcaption">
+             <div class="magnify">
+              <a class="internal" href="/wiki/File:Aniakchak-caldera_alaska.jpg" title="Enlarge">
+              </a>
+             </div>
+             <a href="/wiki/Mount_Aniakchak" title="Mount Aniakchak">
+              Aniakchak
+             </a>
+             -caldera, Alaska
+            </div>
+           </div>
+          </div>
+          <ul>
+           <li>
+            <a href="/wiki/Mount_Aniakchak" title="Mount Aniakchak">
+             Mount Aniakchak
+            </a>
+            (
+            <a href="/wiki/Aniakchak_National_Monument_and_Preserve" title="Aniakchak National Monument and Preserve">
+             Aniakchak National Monument and Preserve
+            </a>
+            ) (
+            <a href="/wiki/Alaska" title="Alaska">
+             Alaska
+            </a>
+            )
+           </li>
+           <li>
+            <a href="/wiki/Crater_Lake" title="Crater Lake">
+             Crater Lake
+            </a>
+            on
+            <a href="/wiki/Mount_Mazama" title="Mount Mazama">
+             Mount Mazama
+            </a>
+            (
+            <a href="/wiki/Crater_Lake_National_Park" title="Crater Lake National Park">
+             Crater Lake National Park
+            </a>
+            ,
+            <a href="/wiki/Oregon" title="Oregon">
+             Oregon
+            </a>
+            )
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Mt._St._Helens" title="Mt. St. Helens">
+             Mt. St. Helens
+            </a>
+            (
+            <a href="/wiki/Washington_(state)" title="Washington (state)">
+             Washington
+            </a>
+            )
+           </li>
+           <li>
+            <a href="/wiki/Mount_Katmai" title="Mount Katmai">
+             Mount Katmai
+            </a>
+            (Alaska)
+           </li>
+           <li>
+            <a href="/wiki/La_Garita_Caldera" title="La Garita Caldera">
+             La Garita Caldera
+            </a>
+            (
+            <a href="/wiki/Colorado" title="Colorado">
+             Colorado
+            </a>
+            )
+           </li>
+           <li>
+            <a href="/wiki/Long_Valley_Caldera" title="Long Valley Caldera">
+             Long Valley
+            </a>
+            (
+            <a href="/wiki/California" title="California">
+             California
+            </a>
+            )
+           </li>
+           <li>
+            <a href="/wiki/Henry%27s_Fork_Caldera" title="Henry's Fork Caldera">
+             Henry's Fork Caldera
+            </a>
+            (
+            <a href="/wiki/Idaho" title="Idaho">
+             Idaho
+            </a>
+            )
+           </li>
+           <li>
+            <a href="/wiki/Island_Park_Caldera" title="Island Park Caldera">
+             Island Park Caldera
+            </a>
+            (Idaho,
+            <a href="/wiki/Wyoming" title="Wyoming">
+             Wyoming
+            </a>
+            )
+           </li>
+           <li>
+            <a href="/wiki/Newberry_Volcano" title="Newberry Volcano">
+             Newberry Volcano
+            </a>
+            (Oregon)
+           </li>
+           <li>
+            <a href="/wiki/McDermitt_Caldera" title="McDermitt Caldera">
+             McDermitt Caldera
+            </a>
+            (Oregon)
+           </li>
+           <li>
+            <a href="/wiki/Mount_Okmok" title="Mount Okmok">
+             Mount Okmok
+            </a>
+            (Alaska)
+           </li>
+           <li>
+            <a href="/wiki/Valles_Caldera" title="Valles Caldera">
+             Valles Caldera
+            </a>
+            (
+            <a href="/wiki/New_Mexico" title="New Mexico">
+             New Mexico
+            </a>
+            )
+           </li>
+           <li>
+            <a href="/wiki/Yellowstone_Caldera" title="Yellowstone Caldera">
+             Yellowstone Caldera
+            </a>
+            (Wyoming)
+           </li>
+          </ul>
+         </li>
+         <li>
+          <a href="/wiki/Canada" title="Canada">
+           Canada
+          </a>
+          <ul>
+           <li>
+            <a href="/wiki/Silverthrone_Caldera" title="Silverthrone Caldera">
+             Silverthrone Caldera
+            </a>
+            (
+            <a href="/wiki/British_Columbia" title="British Columbia">
+             British Columbia
+            </a>
+            )
+           </li>
+           <li>
+            <a href="/wiki/Mount_Edziza" title="Mount Edziza">
+             Mount Edziza
+            </a>
+            (British Columbia)
+           </li>
+           <li>
+            <a href="/wiki/Bennett_Lake_Volcanic_Complex" title="Bennett Lake Volcanic Complex">
+             Bennett Lake Volcanic Complex
+            </a>
+            (British Columbia/
+            <a href="/wiki/Yukon" title="Yukon">
+             Yukon
+            </a>
+            )
+           </li>
+           <li>
+            <a href="/wiki/Mount_Pleasant_Caldera" title="Mount Pleasant Caldera">
+             Mount Pleasant Caldera
+            </a>
+            (
+            <a href="/wiki/New_Brunswick" title="New Brunswick">
+             New Brunswick
+            </a>
+            )
+           </li>
+           <li>
+            <a href="/wiki/Sturgeon_Lake_Caldera" title="Sturgeon Lake Caldera">
+             Sturgeon Lake Caldera
+            </a>
+            (
+            <a href="/wiki/Ontario" title="Ontario">
+             Ontario
+            </a>
+            )
+           </li>
+           <li>
+            <a href="/wiki/Mount_Skukum_Volcanic_Complex" title="Mount Skukum Volcanic Complex">
+             Mount Skukum Volcanic Complex
+            </a>
+            (Yukon,
+            <a href="/wiki/Canada" title="Canada">
+             Canada
+            </a>
+            )
+           </li>
+           <li>
+            <a href="/wiki/Blake_River_Megacaldera_Complex" title="Blake River Megacaldera Complex">
+             Blake River Megacaldera Complex
+            </a>
+            (
+            <a href="/wiki/Quebec" title="Quebec">
+             Quebec
+            </a>
+            /Ontario)
+            <ul>
+             <li>
+              <a href="/wiki/New_Senator_Caldera" title="New Senator Caldera">
+               New Senator Caldera
+              </a>
+              (Quebec)
+             </li>
+             <li>
+              <a href="/wiki/Misema_Caldera" title="Misema Caldera">
+               Misema Caldera
+              </a>
+              (Ontario/Quebec)
+             </li>
+             <li>
+              <a href="/wiki/Noranda_Caldera" title="Noranda Caldera">
+               Noranda Caldera
+              </a>
+              (Quebec)
+             </li>
+            </ul>
+           </li>
+          </ul>
+         </li>
+         <li>
+          Colombia
+          <ul>
+           <li>
+            <a class="new" href="/w/index.php?title=Arenas_crater_caldera&amp;action=edit&amp;redlink=1" title="Arenas crater caldera (page does not exist)">
+             Arenas crater caldera
+            </a>
+            ,
+            <a href="/wiki/Nevado_del_Ruiz" title="Nevado del Ruiz">
+             Nevado del Ruiz
+            </a>
+            volcano,
+            <a href="/wiki/Caldas_Department" title="Caldas Department">
+             Caldas Department
+            </a>
+           </li>
+           <li>
+            <a class="new" href="/w/index.php?title=Laguna_Verde_caldera&amp;action=edit&amp;redlink=1" title="Laguna Verde caldera (page does not exist)">
+             Laguna Verde caldera
+            </a>
+            ,
+            <a href="/wiki/Azufral" title="Azufral">
+             Azufral
+            </a>
+            volcano,
+            <a class="mw-redirect" href="/wiki/Narino_Department" title="Narino Department">
+             Narino Department
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li>
+          <a href="/wiki/Mexico" title="Mexico">
+           Mexico
+          </a>
+          <ul>
+           <li>
+            <a class="new" href="/w/index.php?title=Amealco_Caldera&amp;action=edit&amp;redlink=1" title="Amealco Caldera (page does not exist)">
+             Amealco Caldera
+            </a>
+            (
+            <a href="/wiki/Quer%C3%A9taro" title="Querétaro">
+             Querétaro
+            </a>
+            )
+           </li>
+           <li>
+            <a class="new" href="/w/index.php?title=Las_Cumbres_Caldera&amp;action=edit&amp;redlink=1" title="Las Cumbres Caldera (page does not exist)">
+             Las Cumbres Caldera
+            </a>
+            (
+            <a href="/wiki/Veracruz" title="Veracruz">
+             Veracruz
+            </a>
+            -
+            <a href="/wiki/Puebla" title="Puebla">
+             Puebla
+            </a>
+            )
+           </li>
+           <li>
+            <a class="new" href="/w/index.php?title=Los_Azufres_Caldera&amp;action=edit&amp;redlink=1" title="Los Azufres Caldera (page does not exist)">
+             Los Azufres Caldera
+            </a>
+            (
+            <a href="/wiki/Michoac%C3%A1n" title="Michoacán">
+             Michoacán
+            </a>
+            )
+           </li>
+           <li>
+            <a class="new" href="/w/index.php?title=Los_Humeros_Caldera&amp;action=edit&amp;redlink=1" title="Los Humeros Caldera (page does not exist)">
+             Los Humeros Caldera
+            </a>
+            (Veracruz-Puebla)
+           </li>
+           <li>
+            <a class="new" href="/w/index.php?title=Mazahua_Caldera&amp;action=edit&amp;redlink=1" title="Mazahua Caldera (page does not exist)">
+             Mazahua Caldera
+            </a>
+            (
+            <a href="/wiki/State_of_Mexico" title="State of Mexico">
+             Mexico State
+            </a>
+            )
+           </li>
+          </ul>
+         </li>
+         <li>
+          <a href="/wiki/Chile" title="Chile">
+           Chile
+          </a>
+          <ul>
+           <li>
+            <a href="/wiki/Chait%C3%A9n_(volcano)" title="Chaitén (volcano)">
+             Chaitén
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Puyehue-Cord%C3%B3n_Caulle" title="Puyehue-Cordón Caulle">
+             Cordillera Nevada Caldera
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Laguna_del_Maule_(volcano)" title="Laguna del Maule (volcano)">
+             Laguna del Maule
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Pacana_Caldera" title="Pacana Caldera">
+             Pacana Caldera
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sollipulli" title="Sollipulli">
+             Sollipulli
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li>
+          <a href="/wiki/Ecuador" title="Ecuador">
+           Ecuador
+          </a>
+          <ul>
+           <li>
+            <a href="/wiki/Pululahua_Geobotanical_Reserve" title="Pululahua Geobotanical Reserve">
+             Pululahua Geobotanical Reserve
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Cuicocha" title="Cuicocha">
+             Cuicocha
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Quilotoa" title="Quilotoa">
+             Quilotoa
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Fernandina_Island" title="Fernandina Island">
+             Fernandina Island
+            </a>
+            ,
+            <a href="/wiki/Gal%C3%A1pagos_Islands" title="Galápagos Islands">
+             Galápagos Islands
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sierra_Negra_(Gal%C3%A1pagos)" title="Sierra Negra (Galápagos)">
+             Sierra Negra (Galápagos)
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li>
+          <a href="/wiki/El_Salvador" title="El Salvador">
+           El Salvador
+          </a>
+          <div class="thumb tright">
+           <div class="thumbinner" style="width:222px;">
+            <a class="image" href="/wiki/File:Teopan.jpg">
+             <img alt="" class="thumbimage" data-file-height="327" data-file-width="521" height="138" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Teopan.jpg/220px-Teopan.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Teopan.jpg/330px-Teopan.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Teopan.jpg/440px-Teopan.jpg 2x" width="220"/>
+            </a>
+            <div class="thumbcaption">
+             <div class="magnify">
+              <a class="internal" href="/wiki/File:Teopan.jpg" title="Enlarge">
+              </a>
+             </div>
+             <a href="/wiki/Coatepeque_Caldera" title="Coatepeque Caldera">
+              Coatepeque Caldera
+             </a>
+             , El Salvador crater lake
+            </div>
+           </div>
+          </div>
+          <ul>
+           <li>
+            <a href="/wiki/Lake_Ilopango" title="Lake Ilopango">
+             Lake Ilopango
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Lake_Coatepeque" title="Lake Coatepeque">
+             Lake Coatepeque
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li>
+          Other
+          <ul>
+           <li>
+            <a href="/wiki/Masaya_Volcano" title="Masaya Volcano">
+             Masaya
+            </a>
+            (Nicaragua)
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Lake_Atitlan" title="Lake Atitlan">
+             Lake Atitlan
+            </a>
+            (Guatemala)
+           </li>
+          </ul>
+         </li>
+        </ul>
+       </li>
+       <li>
+        Europe
+        <div class="thumb tright">
+         <div class="thumbinner" style="width:222px;">
+          <a class="image" href="/wiki/File:Santorini_3D_version_1.gif">
+           <img alt="" class="thumbimage" data-file-height="214" data-file-width="300" height="157" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Santorini_3D_version_1.gif/220px-Santorini_3D_version_1.gif" srcset="//upload.wikimedia.org/wikipedia/commons/f/f1/Santorini_3D_version_1.gif 1.5x" width="220"/>
+          </a>
+          <div class="thumbcaption">
+           <div class="magnify">
+            <a class="internal" href="/wiki/File:Santorini_3D_version_1.gif" title="Enlarge">
+            </a>
+           </div>
+           3D
+           <a href="/wiki/Computer-generated_imagery" title="Computer-generated imagery">
+            CGI
+           </a>
+           <a class="mw-redirect" href="/wiki/Aerial_view" title="Aerial view">
+            aerial spinning view
+           </a>
+           over
+           <a href="/wiki/Santorini" title="Santorini">
+            Santorini
+           </a>
+           , Greece.
+          </div>
+         </div>
+        </div>
+        <ul>
+         <li>
+          <a href="/wiki/Bansk%C3%A1_%C5%A0tiavnica" title="Banská Štiavnica">
+           Banská Štiavnica
+          </a>
+          (Slovakia)
+         </li>
+         <li>
+          <a href="/wiki/Bakuriani" title="Bakuriani">
+           Bakuriani/Didveli Caldera
+          </a>
+          (Georgia)
+         </li>
+         <li>
+          <a class="mw-redirect" href="/wiki/Samsari" title="Samsari">
+           Samsari
+          </a>
+          (Georgia)
+         </li>
+         <li>
+          <a href="/wiki/Santorini" title="Santorini">
+           Santorini
+          </a>
+          (Greece)
+         </li>
+         <li>
+          <a href="/wiki/Nisyros" title="Nisyros">
+           Nisyros
+          </a>
+          (Greece)
+         </li>
+         <li>
+          <a href="/wiki/Askja" title="Askja">
+           Askja
+          </a>
+          (Iceland)
+         </li>
+         <li>
+          <a href="/wiki/Gr%C3%ADmsv%C3%B6tn" title="Grímsvötn">
+           Grímsvötn
+          </a>
+          (Iceland)
+         </li>
+         <li>
+          <a href="/wiki/B%C3%A1r%C3%B0arbunga" title="Bárðarbunga">
+           Bárðarbunga
+          </a>
+          (Iceland)
+         </li>
+         <li>
+          <a class="mw-redirect" href="/wiki/Katla_volcano" title="Katla volcano">
+           Katla
+          </a>
+          (Iceland)
+         </li>
+         <li>
+          <a href="/wiki/Krafla" title="Krafla">
+           Krafla
+          </a>
+          (Iceland)
+         </li>
+         <li>
+          <a class="mw-redirect" href="/wiki/Campi_Flegrei" title="Campi Flegrei">
+           Campi Flegrei
+          </a>
+          (Italy)
+         </li>
+         <li>
+          <a href="/wiki/Lake_Bracciano" title="Lake Bracciano">
+           Lake Bracciano
+          </a>
+          (Italy)
+         </li>
+         <li>
+          <a href="/wiki/Lake_Bolsena" title="Lake Bolsena">
+           Lake Bolsena
+          </a>
+          (Italy)
+         </li>
+         <li>
+          <a href="/wiki/Mount_Somma" title="Mount Somma">
+           Mount Somma
+          </a>
+          which contains
+          <a href="/wiki/Mount_Vesuvius" title="Mount Vesuvius">
+           Mount Vesuvius
+          </a>
+          (Italy)
+         </li>
+         <li>
+          <a href="/wiki/Teide" title="Teide">
+           Las Cañadas
+          </a>
+          (
+          <a href="/wiki/Tenerife" title="Tenerife">
+           Tenerife
+          </a>
+          , Spain)
+         </li>
+         <li>
+          <a href="/wiki/Glen_Coe" title="Glen Coe">
+           Glen Coe
+          </a>
+          (Scotland)
+         </li>
+         <li>
+          <a href="/wiki/Laacher_See" title="Laacher See">
+           Laacher See
+          </a>
+          (Germany)
+         </li>
+         <li>
+          <a href="/wiki/Lagoa_das_Sete_Cidades" title="Lagoa das Sete Cidades">
+           Lagoa das Sete Cidades
+          </a>
+          &amp;
+          <a href="/wiki/Furnas#Physical_geography" title="Furnas">
+           Furnas
+          </a>
+          (
+          <a href="/wiki/S%C3%A3o_Miguel_Island" title="São Miguel Island">
+           São Miguel
+          </a>
+          ,
+          <a class="mw-redirect" href="/wiki/The_Azores" title="The Azores">
+           the Azores
+          </a>
+          , Portugal)
+         </li>
+        </ul>
+       </li>
+       <li>
+        Oceania
+        <div class="thumb tright">
+         <div class="thumbinner" style="width:222px;">
+          <a class="image" href="/wiki/File:Lake_taupo_landsat.jpg">
+           <img alt="" class="thumbimage" data-file-height="948" data-file-width="1280" height="163" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Lake_taupo_landsat.jpg/220px-Lake_taupo_landsat.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Lake_taupo_landsat.jpg/330px-Lake_taupo_landsat.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/38/Lake_taupo_landsat.jpg/440px-Lake_taupo_landsat.jpg 2x" width="220"/>
+          </a>
+          <div class="thumbcaption">
+           <div class="magnify">
+            <a class="internal" href="/wiki/File:Lake_taupo_landsat.jpg" title="Enlarge">
+            </a>
+           </div>
+           Satellite photo of
+           <a href="/wiki/Lake_Taupo" title="Lake Taupo">
+            Lake Taupo
+           </a>
+          </div>
+         </div>
+        </div>
+        <ul>
+         <li>
+          <a href="/wiki/Lake_Rotorua" title="Lake Rotorua">
+           Lake Rotorua
+          </a>
+          (New Zealand)
+         </li>
+         <li>
+          Okataina (New Zealand)
+         </li>
+         <li>
+          Kapenga (New Zealand)
+         </li>
+         <li>
+          Ohakuri (New Zealand)
+         </li>
+         <li>
+          Maroa (New Zealand)
+         </li>
+         <li>
+          <a href="/wiki/Mount_Warning" title="Mount Warning">
+           Mount Warning
+          </a>
+          (Australia)
+         </li>
+         <li>
+          <a class="mw-redirect" href="/wiki/Reporoa_caldera" title="Reporoa caldera">
+           Reporoa caldera
+          </a>
+          (New Zealand)
+         </li>
+         <li>
+          <a href="/wiki/Lake_Taupo" title="Lake Taupo">
+           Lake Taupo
+          </a>
+          (New Zealand)
+         </li>
+         <li>
+          <a class="mw-redirect" href="/wiki/Kilauea" title="Kilauea">
+           Kilauea
+          </a>
+          (
+          <a href="/wiki/Hawaii" title="Hawaii">
+           Hawaii
+          </a>
+          , US)
+         </li>
+         <li>
+          <a href="/wiki/Mauna_Loa" title="Mauna Loa">
+           Moku‘āweoweo Caldera
+          </a>
+          on
+          <a href="/wiki/Mauna_Loa" title="Mauna Loa">
+           Mauna Loa
+          </a>
+          (Hawaii, US)
+         </li>
+         <li>
+          <a href="/wiki/Rano_Kau" title="Rano Kau">
+           Rano Kau
+          </a>
+          (
+          <a href="/wiki/Easter_Island" title="Easter Island">
+           Easter Island
+          </a>
+          , Chile)
+         </li>
+        </ul>
+       </li>
+       <li>
+        Antarctica
+        <ul>
+         <li>
+          <a href="/wiki/Deception_Island" title="Deception Island">
+           Deception Island
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li>
+        Indian Ocean
+        <ul>
+         <li>
+          <a class="mw-redirect" href="/wiki/Cirque_de_Mafate" title="Cirque de Mafate">
+           Cirque de Mafate
+          </a>
+          ,
+          <a class="mw-redirect" href="/wiki/Cirque_de_Salazie" title="Cirque de Salazie">
+           Cirque de Salazie
+          </a>
+          ,
+          <a href="/wiki/Enclos_Fouqu%C3%A9" title="Enclos Fouqué">
+           Enclos Fouqué
+          </a>
+          , and
+          <a class="mw-redirect" href="/wiki/Cirque_de_Cilaos" title="Cirque de Cilaos">
+           Cirque de Cilaos
+          </a>
+          on
+          <a href="/wiki/R%C3%A9union" title="Réunion">
+           Réunion
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li>
+        <a href="/wiki/Mars" title="Mars">
+         Mars
+        </a>
+        <ul>
+         <li>
+          <a href="/wiki/Olympus_Mons" title="Olympus Mons">
+           Olympus Mons
+          </a>
+          caldera
+         </li>
+        </ul>
+       </li>
+       <li>
+        <a href="/wiki/Venus" title="Venus">
+         Venus
+        </a>
+        <ul>
+         <li>
+          <a href="/wiki/Maat_Mons" title="Maat Mons">
+           Maat Mons
+          </a>
+          caldera
+         </li>
+        </ul>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="Erosion_calderas">
+        Erosion calderas
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Caldera&amp;action=edit&amp;section=13" title="Edit section: Erosion calderas">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        Americas
+        <ul>
+         <li>
+          <a href="/wiki/Guaichane-Mamuta" title="Guaichane-Mamuta">
+           Guaichane-Mamuta
+          </a>
+          (Chile)
+         </li>
+         <li>
+          <a href="/wiki/Mount_Tehama" title="Mount Tehama">
+           Mount Tehama
+          </a>
+          (
+          <a href="/wiki/California" title="California">
+           California
+          </a>
+          , US)
+         </li>
+        </ul>
+       </li>
+       <li>
+        Europe
+        <ul>
+         <li>
+          <a class="mw-redirect" href="/wiki/Parque_Nacional_de_la_Caldera_de_Taburiente" title="Parque Nacional de la Caldera de Taburiente">
+           Caldera de Taburiente
+          </a>
+          (Spain)
+         </li>
+         <li>
+          <a class="new" href="/w/index.php?title=Scafell_Caldera&amp;action=edit&amp;redlink=1" title="Scafell Caldera (page does not exist)">
+           Scafell Caldera
+          </a>
+          (
+          <a href="/wiki/Lake_District" title="Lake District">
+           Lake District
+          </a>
+          , Great Britain)
+         </li>
+        </ul>
+       </li>
+       <li>
+        Oceania
+        <ul>
+         <li>
+          <a href="/wiki/Tweed_Volcano" title="Tweed Volcano">
+           Tweed Valley
+          </a>
+          (
+          <a href="/wiki/New_South_Wales" title="New South Wales">
+           New South Wales
+          </a>
+          ,
+          <a href="/wiki/Queensland" title="Queensland">
+           Queensland
+          </a>
+          , Australia)
+         </li>
+        </ul>
+       </li>
+       <li>
+        Asia
+        <ul>
+         <li>
+          <a class="new" href="/w/index.php?title=Chegem_Caldera&amp;action=edit&amp;redlink=1" title="Chegem Caldera (page does not exist)">
+           Chegem Caldera
+          </a>
+          (
+          <a class="mw-redirect" href="/wiki/Kabardino-Balkarian_Republic" title="Kabardino-Balkarian Republic">
+           Kabardino-Balkarian Republic
+          </a>
+          ,
+          <a class="new" href="/w/index.php?title=Northern_Caucasus_Region&amp;action=edit&amp;redlink=1" title="Northern Caucasus Region (page does not exist)">
+           Northern Caucasus Region
+          </a>
+          , Russia)
+         </li>
+         <li>
+          <a class="mw-redirect" href="/wiki/Taal_volcano" title="Taal volcano">
+           Taal volcano
+          </a>
+          (Philippines)
+          <a class="mw-redirect" href="/wiki/Batangas_Province" title="Batangas Province">
+           Batangas Province
+          </a>
+         </li>
+        </ul>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Caldera&amp;action=edit&amp;section=14" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a href="/wiki/Complex_volcano" title="Complex volcano">
+         Complex volcano
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Somma_volcano" title="Somma volcano">
+         Somma volcano
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Supervolcano" title="Supervolcano">
+         Supervolcano
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Volcanic_Explosivity_Index" title="Volcanic Explosivity Index">
+         Volcanic Explosivity Index
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="Notes">
+        Notes
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Caldera&amp;action=edit&amp;section=15" title="Edit section: Notes">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist" style="list-style-type: decimal;">
+       <div class="mw-references-wrap">
+        <ol class="references">
+         <li id="cite_note-note_1-2">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-note_1_2-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Leopold von Buch's book
+           <i>
+            Physical Description of the Canary Isles
+           </i>
+           was published in 1825
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Caldera&amp;action=edit&amp;section=16" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+       <ol class="references">
+        <li id="cite_note-1">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-1">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          Gudmundsson, M.T. et al. (2014) Graduale caldera collapse at Bárðarbunga volcano Iceland, regulated by lateral magma outflow, Science, 15.
+         </span>
+        </li>
+        <li id="cite_note-3">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-3">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           <a class="external text" href="http://www.d.umn.edu/prc/workshops/S08workshop.html" rel="nofollow">
+            "UMD: Precambrian Research Center"
+           </a>
+           . University of Minnesota, Duluth
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             2014-03-20
+            </span>
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=UMD%3A+Precambrian+Research+Center&amp;rft.pub=University+of+Minnesota%2C+Duluth&amp;rft_id=http%3A%2F%2Fwww.d.umn.edu%2Fprc%2Fworkshops%2FS08workshop.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACaldera">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-4">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-4">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           Ron Morton.
+           <a class="external text" href="http://www.d.umn.edu/~rmorton/ronshome/Volcanoes/calderas.html" rel="nofollow">
+            "Caldera Volcanoes"
+           </a>
+           . University of Minnesota, Duluth
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             2015-07-03
+            </span>
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Caldera+Volcanoes&amp;rft.pub=University+of+Minnesota%2C+Duluth&amp;rft.au=Ron+Morton&amp;rft_id=http%3A%2F%2Fwww.d.umn.edu%2F~rmorton%2Fronshome%2FVolcanoes%2Fcalderas.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACaldera">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-5">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-5">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           <a class="external text" href="http://www.anthro.illinois.edu/people/ambrose" rel="nofollow">
+            "Stanley Ambrose page"
+           </a>
+           . University of Illinois at Urbana-Champaign
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             2014-03-20
+            </span>
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Stanley+Ambrose+page&amp;rft.pub=University+of+Illinois+at+Urbana-Champaign&amp;rft_id=http%3A%2F%2Fwww.anthro.illinois.edu%2Fpeople%2Fambrose&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACaldera">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-6">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-6">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <a class="external text" href="http://www.bbc.co.uk/science/horizon/1999/supervolcanoes_script.shtml" rel="nofollow">
+           Supervolcanoes
+          </a>
+          ,
+          <a class="mw-redirect" href="/wiki/BBC2" title="BBC2">
+           BBC2
+          </a>
+          , 3 February 2000
+         </span>
+        </li>
+        <li id="cite_note-7">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-7">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation journal">
+           Gathorne-Hardy, F.J; Harcourt-Smith, W.E.H (2003). "The super-eruption of Toba, did it cause a human bottleneck?".
+           <i>
+            Journal of Human Evolution
+           </i>
+           .
+           <b>
+            45
+           </b>
+           (3): 227–30.
+           <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+            doi
+           </a>
+           :
+           <a class="external text" href="//doi.org/10.1016%2FS0047-2484%2803%2900105-2" rel="nofollow">
+            10.1016/S0047-2484(03)00105-2
+           </a>
+           .
+           <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">
+            PMID
+           </a>
+           <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/14580592" rel="nofollow">
+            14580592
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Human+Evolution&amp;rft.atitle=The+super-eruption+of+Toba%2C+did+it+cause+a+human+bottleneck%3F&amp;rft.volume=45&amp;rft.issue=3&amp;rft.pages=227-30&amp;rft.date=2003&amp;rft_id=info%3Adoi%2F10.1016%2FS0047-2484%2803%2900105-2&amp;rft_id=info%3Apmid%2F14580592&amp;rft.aulast=Gathorne-Hardy&amp;rft.aufirst=F.J&amp;rft.au=Harcourt-Smith%2C+W.E.H&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACaldera">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-8">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-8">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation journal">
+           Petraglia, M.; Korisettar, R.; Boivin, N.; Clarkson, C.; Ditchfield, P.; Jones, S.; Koshy, J.; Lahr, M. M.; Oppenheimer, C.; Pyle, D.; Roberts, R.; Schwenninger, J.-L.; Arnold, L.; White, K. (2007). "Middle Paleolithic Assemblages from the Indian Subcontinent Before and After the Toba Super-Eruption".
+           <i>
+            Science
+           </i>
+           .
+           <b>
+            317
+           </b>
+           (5834): 114–16.
+           <a href="/wiki/Bibcode" title="Bibcode">
+            Bibcode
+           </a>
+           :
+           <a class="external text" href="http://adsabs.harvard.edu/abs/2007Sci...317..114P" rel="nofollow">
+            2007Sci...317..114P
+           </a>
+           .
+           <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+            doi
+           </a>
+           :
+           <a class="external text" href="//doi.org/10.1126%2Fscience.1141564" rel="nofollow">
+            10.1126/science.1141564
+           </a>
+           .
+           <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">
+            PMID
+           </a>
+           <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/17615356" rel="nofollow">
+            17615356
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Science&amp;rft.atitle=Middle+Paleolithic+Assemblages+from+the+Indian+Subcontinent+Before+and+After+the+Toba+Super-Eruption&amp;rft.volume=317&amp;rft.issue=5834&amp;rft.pages=114-16&amp;rft.date=2007&amp;rft_id=info%3Apmid%2F17615356&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.1141564&amp;rft_id=info%3Abibcode%2F2007Sci...317..114P&amp;rft.aulast=Petraglia&amp;rft.aufirst=M.&amp;rft.au=Korisettar%2C+R.&amp;rft.au=Boivin%2C+N.&amp;rft.au=Clarkson%2C+C.&amp;rft.au=Ditchfield%2C+P.&amp;rft.au=Jones%2C+S.&amp;rft.au=Koshy%2C+J.&amp;rft.au=Lahr%2C+M.+M.&amp;rft.au=Oppenheimer%2C+C.&amp;rft.au=Pyle%2C+D.&amp;rft.au=Roberts%2C+R.&amp;rft.au=Schwenninger%2C+J.-L.&amp;rft.au=Arnold%2C+L.&amp;rft.au=White%2C+K.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACaldera">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-9">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-9">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           <a class="external text" href="http://earthobservatory.nasa.gov/IOTD/view.php?id=82676" rel="nofollow">
+            "EO"
+           </a>
+           . Earthobservatory.nasa.gov
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             2014-03-20
+            </span>
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=EO&amp;rft.pub=Earthobservatory.nasa.gov&amp;rft_id=http%3A%2F%2Fearthobservatory.nasa.gov%2FIOTD%2Fview.php%3Fid%3D82676&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACaldera">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-gvp-10">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-gvp_10-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           <a class="external text" href="https://volcano.si.edu/volcano.cfm?vn=353010&amp;vtab=Photos" rel="nofollow">
+            "Fernandina: Photo"
+           </a>
+           .
+           <i>
+            <a href="/wiki/Global_Volcanism_Program" title="Global Volcanism Program">
+             Global Volcanism Program
+            </a>
+           </i>
+           .
+           <a href="/wiki/Smithsonian_Institution" title="Smithsonian Institution">
+            Smithsonian Institution
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Global+Volcanism+Program&amp;rft.atitle=Fernandina%3A+Photo&amp;rft_id=https%3A%2F%2Fvolcano.si.edu%2Fvolcano.cfm%3Fvn%3D353010%26vtab%3DPhotos&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACaldera">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-Wilson-11">
+         <span class="mw-cite-backlink">
+          ^
+          <a href="#cite_ref-Wilson_11-0">
+           <sup>
+            <i>
+             <b>
+              a
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-Wilson_11-1">
+           <sup>
+            <i>
+             <b>
+              b
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-Wilson_11-2">
+           <sup>
+            <i>
+             <b>
+              c
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-Wilson_11-3">
+           <sup>
+            <i>
+             <b>
+              d
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-Wilson_11-4">
+           <sup>
+            <i>
+             <b>
+              e
+             </b>
+            </i>
+           </sup>
+          </a>
+         </span>
+         <span class="reference-text">
+          <cite class="citation book">
+           Parfitt, L.; Wilson, L. (Feb 19, 2008). "Volcanism on Other Planets".
+           <a class="external text" href="http://google.com/books?id=ptpCiNkwLj8C&amp;printsec=frontcover" rel="nofollow">
+            <i>
+             Fundamentals of Physical Volcanology
+            </i>
+           </a>
+           . Malden, MA:
+           <a class="mw-redirect" href="/wiki/Blackwell_Publishing" title="Blackwell Publishing">
+            Blackwell Publishing
+           </a>
+           . pp. 190–212.
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/978-0-632-05443-5" title="Special:BookSources/978-0-632-05443-5">
+            978-0-632-05443-5
+           </a>
+           .
+           <a href="/wiki/OCLC" title="OCLC">
+            OCLC
+           </a>
+           <a class="external text" href="//www.worldcat.org/oclc/173243845" rel="nofollow">
+            173243845
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Volcanism+on+Other+Planets&amp;rft.btitle=Fundamentals+of+Physical+Volcanology&amp;rft.place=Malden%2C+MA&amp;rft.pages=190-212&amp;rft.pub=Blackwell+Publishing&amp;rft.date=2008-02-19&amp;rft_id=info%3Aoclcnum%2F173243845&amp;rft.isbn=978-0-632-05443-5&amp;rft.aulast=Parfitt&amp;rft.aufirst=L.&amp;rft.au=Wilson%2C+L.&amp;rft_id=http%3A%2F%2Fgoogle.com%2Fbooks%3Fid%3DptpCiNkwLj8C%26printsec%3Dfrontcover&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACaldera">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-12">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-12">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          Gudmundsson, A. (2008)
+          <i>
+           Magma chamber geometry, fluid transport, local stresses and rock behaviour during collapse caldera formation
+          </i>
+          in Gottsmann, J. and Marti, J. (editors) (2008)
+          <i>
+           Caldera Volcanism: Analysis, Modelling and Response
+          </i>
+          , Amsterdam, Elsevier. p. 319, citing Lipman, P. (2000).
+         </span>
+        </li>
+        <li id="cite_note-Compton-Belkovich-13">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-Compton-Belkovich_13-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation journal">
+           Chauhan, M.; Bhattacharya, S.; Saran, S.; Chauhan, P.; Dagar, A. (2015). "Compton–Belkovich Volcanic Complex (CBVC): An ash flow caldera on the Moon".
+           <i>
+            Icarus
+           </i>
+           .
+           <b>
+            253
+           </b>
+           : 115–29.
+           <a href="/wiki/Bibcode" title="Bibcode">
+            Bibcode
+           </a>
+           :
+           <a class="external text" href="http://adsabs.harvard.edu/abs/2015Icar..253..115C" rel="nofollow">
+            2015Icar..253..115C
+           </a>
+           .
+           <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+            doi
+           </a>
+           :
+           <a class="external text" href="//doi.org/10.1016%2Fj.icarus.2015.02.024" rel="nofollow">
+            10.1016/j.icarus.2015.02.024
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Icarus&amp;rft.atitle=Compton%E2%80%93Belkovich+Volcanic+Complex+%28CBVC%29%3A+An+ash+flow+caldera+on+the+Moon&amp;rft.volume=253&amp;rft.pages=115-29&amp;rft.date=2015&amp;rft_id=info%3Adoi%2F10.1016%2Fj.icarus.2015.02.024&amp;rft_id=info%3Abibcode%2F2015Icar..253..115C&amp;rft.aulast=Chauhan&amp;rft.aufirst=M.&amp;rft.au=Bhattacharya%2C+S.&amp;rft.au=Saran%2C+S.&amp;rft.au=Chauhan%2C+P.&amp;rft.au=Dagar%2C+A.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACaldera">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-14">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-14">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          Philip's World Reference Atlas including Stars and Planets
+          <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+           ISBN
+          </a>
+          <a href="/wiki/Special:BookSources/0-7537-0310-6" title="Special:BookSources/0-7537-0310-6">
+           0-7537-0310-6
+          </a>
+          Publishing House Octopus publishing Group Ltd p. 9
+         </span>
+        </li>
+       </ol>
+      </div>
+      <ul>
+       <li>
+        <cite class="citation journal">
+         Clough, C. T.; Maufe, H. B.; Bailey, E. B. (1909). "The Cauldron-Subsidence of Glen Coe, and the Associated Igneous Phenomena".
+         <i>
+          Quarterly Journal of the Geological Society
+         </i>
+         .
+         <b>
+          65
+         </b>
+         (1–4): 611–78.
+         <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+          doi
+         </a>
+         :
+         <a class="external text" href="//doi.org/10.1144%2FGSL.JGS.1909.065.01-04.35" rel="nofollow">
+          10.1144/GSL.JGS.1909.065.01-04.35
+         </a>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Quarterly+Journal+of+the+Geological+Society&amp;rft.atitle=The+Cauldron-Subsidence+of+Glen+Coe%2C+and+the+Associated+Igneous+Phenomena&amp;rft.volume=65&amp;rft.issue=1%E2%80%934&amp;rft.pages=611-78&amp;rft.date=1909&amp;rft_id=info%3Adoi%2F10.1144%2FGSL.JGS.1909.065.01-04.35&amp;rft.aulast=Clough&amp;rft.aufirst=C.+T.&amp;rft.au=Maufe%2C+H.+B.&amp;rft.au=Bailey%2C+E.+B.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACaldera">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+       <li>
+        Gudmundsson, A (2008). Magma-Chamber Geometry, Fluid Transport, Local Stresses, and Rock Behavior During Collapse Caldera Formation. In Gottsmann J. &amp; Marti, J (Ed. 10)
+        <i>
+         Caldera Volcanism: Analysis, Modeling, and Response
+        </i>
+        (314–46) Elsener, Amsterdam, The Netherlands
+       </li>
+       <li>
+        Kokelaar, B. P; and Moore, I. D; 2006.
+        <i>
+         Glencoe caldera volcano, Scotland
+        </i>
+        .
+        <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+         ISBN
+        </a>
+        <a href="/wiki/Special:BookSources/9780852725252" title="Special:BookSources/9780852725252">
+         9780852725252
+        </a>
+        . Pub. British Geological Survey, Keyworth, Nottinghamshire. There is an associated 1:25000 solid geology map.
+       </li>
+       <li>
+        Lipman, P; 1999. "Caldera". In Haraldur Sigurdsson, ed.
+        <i>
+         Encyclopedia of Volcanoes
+        </i>
+        .
+        <a href="/wiki/Academic_Press" title="Academic Press">
+         Academic Press
+        </a>
+        .
+        <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+         ISBN
+        </a>
+        <a href="/wiki/Special:BookSources/0-12-643140-X" title="Special:BookSources/0-12-643140-X">
+         0-12-643140-X
+        </a>
+       </li>
+       <li>
+        <cite class="citation journal">
+         Williams, H (1941). "Calderas and their origin".
+         <i>
+          California University Publ. Geol. Sci
+         </i>
+         .
+         <b>
+          25
+         </b>
+         : 239–346.
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=California+University+Publ.+Geol.+Sci.&amp;rft.atitle=Calderas+and+their+origin&amp;rft.volume=25&amp;rft.pages=239-346&amp;rft.date=1941&amp;rft.aulast=Williams&amp;rft.aufirst=H&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACaldera">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Caldera&amp;action=edit&amp;section=17" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+       <tr>
+        <td class="mbox-image">
+         <img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/>
+        </td>
+        <td class="mbox-text plainlist">
+         Wikimedia Commons has media related to
+         <i>
+          <b>
+           <a class="extiw" href="https://commons.wikimedia.org/wiki/Caldera" title="commons:Caldera">
+            Caldera
+           </a>
+          </b>
+         </i>
+         .
+        </td>
+       </tr>
+      </table>
+      <table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+       <tr>
+        <td class="mbox-image">
+         <img alt="" class="noviewer" data-file-height="391" data-file-width="391" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" width="40"/>
+        </td>
+        <td class="mbox-text plainlist">
+         Look up
+         <i>
+          <b>
+           <a class="extiw" href="https://en.wiktionary.org/wiki/caldera" title="wiktionary:caldera">
+            caldera
+           </a>
+          </b>
+         </i>
+         in Wiktionary, the free dictionary.
+        </td>
+       </tr>
+      </table>
+      <ul>
+       <li>
+        <a class="external text" href="http://volcanoes.usgs.gov/images/pglossary/caldera.php" rel="nofollow">
+         USGS page on calderas
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="https://web.archive.org/web/20110717230952/http://www.volcanodb.com/search.php?type=Caldera" rel="nofollow">
+         List of Caldera Volcanoes
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="https://web.archive.org/web/20070630233550/http://eis.bris.ac.uk/~gljhg/Workgroup/Workgroup_files/Edited-list-publications_calderas-71206.pdf" rel="nofollow">
+         Collection of references on collapse calderas
+        </a>
+        (43 pages)
+       </li>
+       <li>
+        <a class="external text" href="http://www.bigvolcano.com.au/natural/wollum.htm" rel="nofollow">
+         The Caldera of the Tweed Volcano – Australia
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="https://web.archive.org/web/20051216160300/http://host.uniroma3.it/progetti/cev/Web%20CEV%20folder/lagarita.html" rel="nofollow">
+         Largest Explosive Eruptions: New results for the 27.8 Ma Fish Canyon Tuff and the La Garita caldera, San Juan volcanic field, Colorado
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://www.bbc.co.uk/science/horizon/1999/supervolcanoes_script.shtml" rel="nofollow">
+         Supervolcanoes
+        </a>
+       </li>
+      </ul>
+      <div aria-labelledby="Volcanoes" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="3" scope="col" style="text-align:center;">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:Volcanoes" title="Template:Volcanoes">
+              <abbr style="text-align:center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a href="/wiki/Template_talk:Volcanoes" title="Template talk:Volcanoes">
+              <abbr style="text-align:center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Volcanoes&amp;action=edit">
+              <abbr style="text-align:center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="Volcanoes" style="font-size:114%;margin:0 4em">
+           <a href="/wiki/Volcano" title="Volcano">
+            Volcanoes
+           </a>
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align:center;;width:1%">
+          Volcano types
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a class="mw-selflink selflink">
+              Caldera
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Cinder_cone" title="Cinder cone">
+              Cinder cone
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Complex_volcano" title="Complex volcano">
+              Complex volcano
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Cryovolcano" title="Cryovolcano">
+              Cryovolcano
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Fissure_vent" title="Fissure vent">
+              Fissure vent
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Lava_cone" title="Lava cone">
+              Lava cone
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Lava_dome" title="Lava dome">
+              Lava dome
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Maar" title="Maar">
+              Maar
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Mud_volcano" title="Mud volcano">
+              Mud volcano
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Parasitic_cone" title="Parasitic cone">
+              Parasitic cone
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Pyroclastic_cone" title="Pyroclastic cone">
+              Pyroclastic cone
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Pyroclastic_shield" title="Pyroclastic shield">
+              Pyroclastic shield
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Rootless_cone" title="Rootless cone">
+              Rootless cone
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Shield_volcano" title="Shield volcano">
+              Shield volcano
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Somma_volcano" title="Somma volcano">
+              Somma volcano
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Stratovolcano" title="Stratovolcano">
+              Stratovolcano
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Subglacial_volcano" title="Subglacial volcano">
+              Subglacial volcano
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Submarine_volcano" title="Submarine volcano">
+              Submarine volcano
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Supervolcano" title="Supervolcano">
+              Supervolcano
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Volcanic_cone" title="Volcanic cone">
+              Volcanic cone
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Volcanic_field" title="Volcanic field">
+              Volcanic field
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Polygenetic_volcanic_field" title="Polygenetic volcanic field">
+                polygenetic
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Monogenetic_volcanic_field" title="Monogenetic volcanic field">
+                monogenetic
+               </a>
+              </li>
+             </ul>
+            </li>
+           </ul>
+          </div>
+         </td>
+         <td class="navbox-image" rowspan="3" style="width:1px;padding:0px 0px 0px 2px">
+          <div>
+           <a class="image" href="/wiki/File:Puu_Oo_cropped.jpg">
+            <img alt="Puu Oo cropped.jpg" data-file-height="578" data-file-width="845" height="62" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Puu_Oo_cropped.jpg/90px-Puu_Oo_cropped.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Puu_Oo_cropped.jpg/135px-Puu_Oo_cropped.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Puu_Oo_cropped.jpg/180px-Puu_Oo_cropped.jpg 2x" width="90"/>
+           </a>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align:center;;width:1%">
+          Volcanic rocks
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Volcanic_rock" title="Volcanic rock">
+              Volcanic rock
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Agglomerate" title="Agglomerate">
+              Agglomerate
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Andesite" title="Andesite">
+              Andesite
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Basalt" title="Basalt">
+              Basalt
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Basaltic_andesite" title="Basaltic andesite">
+              Basaltic andesite
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Benmoreite" title="Benmoreite">
+              Benmoreite
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Blairmorite" title="Blairmorite">
+              Blairmorite
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Dacite" title="Dacite">
+              Dacite
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Felsite" title="Felsite">
+              Felsite
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Komatiite" title="Komatiite">
+              Komatiite
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Latite" title="Latite">
+              Latite
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Leucitite" title="Leucitite">
+              Leucitite
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Nephelinite" title="Nephelinite">
+              Nephelinite
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Obsidian" title="Obsidian">
+              Obsidian
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Phonolite" title="Phonolite">
+              Phonolite
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Phonotephrite" title="Phonotephrite">
+              Phonotephrite
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Rhyodacite" title="Rhyodacite">
+              Rhyodacite
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Rhyolite" title="Rhyolite">
+              Rhyolite
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tephriphonolite" title="Tephriphonolite">
+              Tephriphonolite
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Trachyte" title="Trachyte">
+              Trachyte
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Trachyandesite" title="Trachyandesite">
+              Trachyandesite
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Trachybasalt" title="Trachybasalt">
+              Trachybasalt
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tuff" title="Tuff">
+              Tuff
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align:center;;width:1%">
+          List and volcanoes groups
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Hotspot_(geology)" title="Hotspot (geology)">
+              Hotspot
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Lists_of_volcanoes" title="Lists of volcanoes">
+              Lists of volcanoes
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Decade_Volcanoes" title="Decade Volcanoes">
+              Decade Volcanoes
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Volcanic_arc" title="Volcanic arc">
+              Volcanic arc
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Volcanic_belt" title="Volcanic belt">
+              Volcanic belt
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Volcanic_field" title="Volcanic field">
+              Volcanic field
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <td class="navbox-abovebelow" colspan="3" style="text-align:center;">
+          <div>
+           <ul>
+            <li>
+             <img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/>
+             <b>
+              <a href="/wiki/Category:Volcanoes" title="Category:Volcanoes">
+               Category
+              </a>
+             </b>
+            </li>
+            <li>
+             <img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/>
+             <b>
+              <a href="/wiki/Portal:Volcanoes" title="Portal:Volcanoes">
+               Portal
+              </a>
+             </b>
+            </li>
+            <li>
+             <img alt="Commons page" data-file-height="1376" data-file-width="1024" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" title="Commons page" width="12"/>
+             <b>
+              <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Volcanoes" title="commons:Category:Volcanoes">
+               Commons
+              </a>
+             </b>
+            </li>
+            <li>
+             <img alt="WikiProject" data-file-height="100" data-file-width="100" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/16px-People_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/24px-People_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/32px-People_icon.svg.png 2x" title="WikiProject" width="16"/>
+             <b>
+              <a href="/wiki/Wikipedia:WikiProject_Volcanoes" title="Wikipedia:WikiProject Volcanoes">
+               WikiProject
+              </a>
+             </b>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1308
+Cached time: 20180314133603
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.520 seconds
+Real time usage: 0.733 seconds
+Preprocessor visited node count: 2193/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 41275/2097152 bytes
+Template argument size: 1914/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 13477/5000000 bytes
+Lua time usage: 0.268/10.000 seconds
+Lua memory usage: 12.11 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  469.675      1 -total
+ 37.31%  175.243      1 Template:Wiktes
+ 36.82%  172.918      2 Template:Lang
+ 35.28%  165.715      2 Template:Reflist
+ 14.27%   67.037      5 Template:Cite_web
+  8.50%   39.938      3 Template:ISBN
+  7.23%   33.978      5 Template:Cite_journal
+  5.45%   25.594      1 Template:Other_uses
+  4.32%   20.291      1 Template:Volcanoes
+  3.89%   18.262      1 Template:Navbox
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:7592-0!canonical and timestamp 20180314133603 and revision id 826902148
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Caldera&amp;oldid=826902148">
+      https://en.wikipedia.org/w/index.php?title=Caldera&amp;oldid=826902148
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Depressions_(geology)" title="Category:Depressions (geology)">
+         Depressions (geology)
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Igneous_rocks" title="Category:Igneous rocks">
+         Igneous rocks
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Calderas" title="Category:Calderas">
+         Calderas
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Volcanology" title="Category:Volcanology">
+         Volcanology
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Volcanic_landforms" title="Category:Volcanic landforms">
+         Volcanic landforms
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Articles_containing_Spanish-language_text" title="Category:Articles containing Spanish-language text">
+         Articles containing Spanish-language text
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_containing_Latin-language_text" title="Category:Articles containing Latin-language text">
+         Articles containing Latin-language text
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Use_dmy_dates_from_January_2011" title="Category:Use dmy dates from January 2011">
+         Use dmy dates from January 2011
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Caldera" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Caldera" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Caldera" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Caldera" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Caldera">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Caldera&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Caldera&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Caldera" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Caldera" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Caldera&amp;oldid=826902148" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Caldera&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q159954" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Caldera&amp;id=826902148" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Caldera">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Caldera&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Caldera&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Category:Calderas" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-als">
+        <a class="interlanguage-link-target" href="https://als.wikipedia.org/wiki/Caldera_(Krater)" hreflang="als" lang="als" title="Caldera (Krater) – Alemannisch">
+         Alemannisch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%83%D8%A7%D9%84%D8%AF%D9%8A%D8%B1%D8%A7" hreflang="ar" lang="ar" title="كالديرا – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-an">
+        <a class="interlanguage-link-target" href="https://an.wikipedia.org/wiki/Caldera_volcanica" hreflang="an" lang="an" title="Caldera volcanica – Aragonese">
+         Aragonés
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ast">
+        <a class="interlanguage-link-target" href="https://ast.wikipedia.org/wiki/Caldera_volc%C3%A1nica" hreflang="ast" lang="ast" title="Caldera volcánica – Asturian">
+         Asturianu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-az">
+        <a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/Kalder" hreflang="az" lang="az" title="Kalder – Azerbaijani">
+         Azərbaycanca
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be">
+        <a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BB%D1%8C%D0%B4%D1%8D%D1%80%D0%B0" hreflang="be" lang="be" title="Кальдэра – Belarusian">
+         Беларуская
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be-x-old">
+        <a class="interlanguage-link-target" href="https://be-x-old.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BB%D1%8C%D0%B4%D1%8D%D1%80%D0%B0" hreflang="be-x-old" lang="be-x-old" title="Кальдэра – Belarusian (Taraškievica orthography)">
+         Беларуская (тарашкевіца)‎
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bh">
+        <a class="interlanguage-link-target" href="https://bh.wikipedia.org/wiki/%E0%A4%95%E0%A4%BE%E0%A4%B2%E0%A5%8D%E0%A4%A1%E0%A5%87%E0%A4%B0%E0%A4%BE" hreflang="bh" lang="bh" title="काल्डेरा – Bhojpuri">
+         भोजपुरी
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bg">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BB%D0%B4%D0%B5%D1%80%D0%B0" hreflang="bg" lang="bg" title="Калдера – Bulgarian">
+         Български
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Caldera_volc%C3%A0nica" hreflang="ca" lang="ca" title="Caldera volcànica – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Kaldera" hreflang="cs" lang="cs" title="Kaldera – Czech">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Caldera" hreflang="da" lang="da" title="Caldera – Danish">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Caldera_(Krater)" hreflang="de" lang="de" title="Caldera (Krater) – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-et">
+        <a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Kaldeera" hreflang="et" lang="et" title="Kaldeera – Estonian">
+         Eesti
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-el">
+        <a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%9A%CE%B1%CE%BB%CE%B4%CE%AD%CF%81%CE%B1" hreflang="el" lang="el" title="Καλδέρα – Greek">
+         Ελληνικά
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Caldera_volc%C3%A1nica" hreflang="es" lang="es" title="Caldera volcánica – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eo">
+        <a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Kaldero" hreflang="eo" lang="eo" title="Kaldero – Esperanto">
+         Esperanto
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B3%D9%87_%D8%A2%D8%AA%D8%B4%D9%81%D8%B4%D8%A7%D9%86%DB%8C" hreflang="fa" lang="fa" title="کاسه آتشفشانی – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Caldeira" hreflang="fr" lang="fr" title="Caldeira – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ga">
+        <a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/Caild%C3%A9ara" hreflang="ga" lang="ga" title="Caildéara – Irish">
+         Gaeilge
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gl">
+        <a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Caldeira_volc%C3%A1nica" hreflang="gl" lang="gl" title="Caldeira volcánica – Galician">
+         Galego
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%B9%BC%EB%8D%B0%EB%9D%BC" hreflang="ko" lang="ko" title="칼데라 – Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hy">
+        <a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D4%BF%D5%A1%D5%AC%D5%A4%D5%A5%D6%80%D5%A1" hreflang="hy" lang="hy" title="Կալդերա – Armenian">
+         Հայերեն
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hi">
+        <a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%9C%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B2%E0%A4%BE%E0%A4%AE%E0%A5%81%E0%A4%96-%E0%A4%95%E0%A5%81%E0%A4%A3%E0%A5%8D%E0%A4%A1" hreflang="hi" lang="hi" title="ज्वालामुख-कुण्ड – Hindi">
+         हिन्दी
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hr">
+        <a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Kaldera" hreflang="hr" lang="hr" title="Kaldera – Croatian">
+         Hrvatski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Kaldera" hreflang="id" lang="id" title="Kaldera – Indonesian">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-is">
+        <a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/Sigketill" hreflang="is" lang="is" title="Sigketill – Icelandic">
+         Íslenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Caldera" hreflang="it" lang="it" title="Caldera – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he">
+        <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%A7%D7%9C%D7%93%D7%A8%D7%94" hreflang="he" lang="he" title="קלדרה – Hebrew">
+         עברית
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ka">
+        <a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%99%E1%83%90%E1%83%9A%E1%83%93%E1%83%94%E1%83%A0%E1%83%90" hreflang="ka" lang="ka" title="კალდერა – Georgian">
+         ქართული
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-kk">
+        <a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BB%D1%8C%D0%B4%D0%B5%D1%80%D0%B0" hreflang="kk" lang="kk" title="Кальдера – Kazakh">
+         Қазақша
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sw">
+        <a class="interlanguage-link-target" href="https://sw.wikipedia.org/wiki/Kaldera" hreflang="sw" lang="sw" title="Kaldera – Swahili">
+         Kiswahili
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ht">
+        <a class="interlanguage-link-target" href="https://ht.wikipedia.org/wiki/Kaldera" hreflang="ht" lang="ht" title="Kaldera – Haitian Creole">
+         Kreyòl ayisyen
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ky">
+        <a class="interlanguage-link-target" href="https://ky.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BB%D1%8C%D0%B4%D0%B8%D1%80%D0%B0" hreflang="ky" lang="ky" title="Кальдира – Kyrgyz">
+         Кыргызча
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-la">
+        <a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/Caldera" hreflang="la" lang="la" title="Caldera – Latin">
+         Latina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lv">
+        <a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Kaldera" hreflang="lv" lang="lv" title="Kaldera – Latvian">
+         Latviešu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lb">
+        <a class="interlanguage-link-target" href="https://lb.wikipedia.org/wiki/Caldera_(Krater)" hreflang="lb" lang="lb" title="Caldera (Krater) – Luxembourgish">
+         Lëtzebuergesch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lt">
+        <a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Kaldera" hreflang="lt" lang="lt" title="Kaldera – Lithuanian">
+         Lietuvių
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hu">
+        <a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Kaldera" hreflang="hu" lang="hu" title="Kaldera – Hungarian">
+         Magyar
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mk">
+        <a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%9A%D1%83%D0%BF%D0%B0" hreflang="mk" lang="mk" title="Купа – Macedonian">
+         Македонски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-xmf">
+        <a class="interlanguage-link-target" href="https://xmf.wikipedia.org/wiki/%E1%83%99%E1%83%90%E1%83%9A%E1%83%93%E1%83%94%E1%83%A0%E1%83%90" hreflang="xmf" lang="xmf" title="კალდერა – Mingrelian">
+         მარგალური
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ms">
+        <a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Kaldera" hreflang="ms" lang="ms" title="Kaldera – Malay">
+         Bahasa Melayu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Caldeira" hreflang="nl" lang="nl" title="Caldeira – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AB%E3%83%87%E3%83%A9" hreflang="ja" lang="ja" title="カルデラ – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Kaldera" hreflang="no" lang="no" title="Kaldera – Norwegian">
+         Norsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nn">
+        <a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Kaldera" hreflang="nn" lang="nn" title="Kaldera – Norwegian Nynorsk">
+         Norsk nynorsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uz">
+        <a class="interlanguage-link-target" href="https://uz.wikipedia.org/wiki/Kaldera" hreflang="uz" lang="uz" title="Kaldera – Uzbek">
+         Oʻzbekcha/ўзбекча
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Kaldera" hreflang="pl" lang="pl" title="Kaldera – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Caldeira_vulc%C3%A2nica" hreflang="pt" lang="pt" title="Caldeira vulcânica – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ro">
+        <a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Caldeir%C4%83" hreflang="ro" lang="ro" title="Caldeiră – Romanian">
+         Română
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BB%D1%8C%D0%B4%D0%B5%D1%80%D0%B0" hreflang="ru" lang="ru" title="Кальдера – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sc">
+        <a class="interlanguage-link-target" href="https://sc.wikipedia.org/wiki/Caldera" hreflang="sc" lang="sc" title="Caldera – Sardinian">
+         Sardu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sco">
+        <a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Caldera" hreflang="sco" lang="sco" title="Caldera – Scots">
+         Scots
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-simple">
+        <a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Caldera" hreflang="simple" lang="simple" title="Caldera – Simple English">
+         Simple English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sk">
+        <a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Kaldera" hreflang="sk" lang="sk" title="Kaldera – Slovak">
+         Slovenčina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sl">
+        <a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Kaldera" hreflang="sl" lang="sl" title="Kaldera – Slovenian">
+         Slovenščina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sr">
+        <a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BB%D0%B4%D0%B5%D1%80%D0%B0" hreflang="sr" lang="sr" title="Калдера – Serbian">
+         Српски / srpski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sh">
+        <a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Kaldera" hreflang="sh" lang="sh" title="Kaldera – Serbo-Croatian">
+         Srpskohrvatski / српскохрватски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-su">
+        <a class="interlanguage-link-target" href="https://su.wikipedia.org/wiki/Kald%C3%A9ra" hreflang="su" lang="su" title="Kaldéra – Sundanese">
+         Basa Sunda
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Kaldera" hreflang="fi" lang="fi" title="Kaldera – Finnish">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Kaldera" hreflang="sv" lang="sv" title="Kaldera – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-th">
+        <a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B9%81%E0%B8%AD%E0%B9%88%E0%B8%87%E0%B8%A0%E0%B8%B9%E0%B9%80%E0%B8%82%E0%B8%B2%E0%B9%84%E0%B8%9F%E0%B8%A3%E0%B8%B9%E0%B8%9B%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%B2%E0%B8%94" hreflang="th" lang="th" title="แอ่งภูเขาไฟรูปกระจาด – Thai">
+         ไทย
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tr">
+        <a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Kaldera" hreflang="tr" lang="tr" title="Kaldera – Turkish">
+         Türkçe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BB%D1%8C%D0%B4%D0%B5%D1%80%D0%B0" hreflang="uk" lang="uk" title="Кальдера – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vi">
+        <a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/H%C3%B5m_ch%E1%BA%A3o" hreflang="vi" lang="vi" title="Hõm chảo – Vietnamese">
+         Tiếng Việt
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E7%A0%B4%E7%81%AB%E5%B1%B1%E5%8F%A3" hreflang="zh" lang="zh" title="破火山口 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q159954#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 21 February 2018, at 16:42.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Caldera&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.520","walltime":"0.733","ppvisitednodes":{"value":2193,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":41275,"limit":2097152},"templateargumentsize":{"value":1914,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":13477,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  469.675      1 -total"," 37.31%  175.243      1 Template:Wiktes"," 36.82%  172.918      2 Template:Lang"," 35.28%  165.715      2 Template:Reflist"," 14.27%   67.037      5 Template:Cite_web","  8.50%   39.938      3 Template:ISBN","  7.23%   33.978      5 Template:Cite_journal","  5.45%   25.594      1 Template:Other_uses","  4.32%   20.291      1 Template:Volcanoes","  3.89%   18.262      1 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.268","limit":"10.000"},"limitreport-memusage":{"value":12699347,"limit":52428800}},"cachereport":{"origin":"mw1308","timestamp":"20180314133603","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":97,"wgHostname":"mw1275"});});
+  </script>
+ </body>
+</html>

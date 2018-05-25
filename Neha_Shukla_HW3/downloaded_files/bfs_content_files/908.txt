@@ -1,0 +1,2732 @@
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Visual effects - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Visual_effects","wgTitle":"Visual effects","wgCurRevisionId":831373918,"wgRevisionId":831373918,"wgArticleId":323862,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles lacking sources from February 2018","All articles lacking sources","Visual effects","Cinematic techniques","Film and video technology","Special effects","Computer graphic techniques"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Visual_effects","wgRelevantArticleId":323862,"wgRequestId":"WrC@zQpAAD8AAGUN8s0AAAAC","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q8317","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.25" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Visual_effects" rel="alternate"/>
+  <link href="/w/index.php?title=Visual_effects&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Visual_effects&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Visual_effects" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Visual_effects rootpage-Visual_effects skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Visual effects
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <table class="plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation">
+       <tr>
+        <td class="mbox-image">
+         <div style="width:52px">
+          <a class="image" href="/wiki/File:Question_book-new.svg">
+           <img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/>
+          </a>
+         </div>
+        </td>
+        <td class="mbox-text">
+         <div class="mbox-text-span">
+          This article
+          <b>
+           does not
+           <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">
+            cite
+           </a>
+           any
+           <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">
+            sources
+           </a>
+          </b>
+          .
+          <span class="hide-when-compact">
+           Please help
+           <a class="external text" href="//en.wikipedia.org/w/index.php?title=Visual_effects&amp;action=edit">
+            improve this article
+           </a>
+           by
+           <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">
+            adding citations to reliable sources
+           </a>
+           . Unsourced material may be challenged and
+           <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">
+            removed
+           </a>
+           .
+          </span>
+          <small>
+           <i>
+            (February 2018)
+           </i>
+          </small>
+          <small class="hide-when-compact">
+           <i>
+            (
+            <a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">
+             Learn how and when to remove this template message
+            </a>
+            )
+           </i>
+          </small>
+         </div>
+        </td>
+       </tr>
+      </table>
+      <div class="hatnote navigation-not-searchable" role="note">
+       "VFX" redirects here. For the 1968 US Navy fighter program, see
+       <a class="mw-redirect" href="/wiki/VFX_(aircraft)" title="VFX (aircraft)">
+        VFX (aircraft)
+       </a>
+       .
+      </div>
+      <p>
+       <b>
+        Visual Effects
+       </b>
+       (abbreviated
+       <b>
+        VFX
+       </b>
+       ) is the process by which imagery is created or manipulated outside the context of a
+       <a href="/wiki/Live_action" title="Live action">
+        live action
+       </a>
+       shot in film making.
+      </p>
+      <p>
+       Visual effects involve in the integration of
+       <a class="mw-redirect" href="/wiki/Live-action" title="Live-action">
+        live-action
+       </a>
+       footage (
+       <a href="/wiki/Special_effect" title="Special effect">
+        special effects
+       </a>
+       ) and generated imagery (digital effects) to create environments which look realistic, but would be dangerous, expensive, impractical, time consuming or impossible to capture on film. Visual effects using
+       <a href="/wiki/Computer-generated_imagery" title="Computer-generated imagery">
+        computer-generated imagery
+       </a>
+       (CGI) have recently become accessible to the independent filmmaker with the introduction of affordable and easy-to-use
+       <a href="/wiki/Animation" title="Animation">
+        animation
+       </a>
+       and
+       <a href="/wiki/Compositing" title="Compositing">
+        compositing
+       </a>
+       software.
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Timing">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Timing
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#Categories">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Categories
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-3">
+         <a href="#Types">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           Types
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-4">
+         <a href="#See_also">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-5">
+         <a href="#Further_reading">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           Further reading
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-6">
+         <a href="#External_links">
+          <span class="tocnumber">
+           6
+          </span>
+          <span class="toctext">
+           External links
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Timing">
+        Timing
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Visual_effects&amp;action=edit&amp;section=1" title="Edit section: Timing">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Visual effects are often integral to a movie's story and appeal. Although most visual effects work is completed during
+       <a href="/wiki/Post-production" title="Post-production">
+        post-production
+       </a>
+       , it usually must be carefully planned and choreographed in
+       <a href="/wiki/Pre-production" title="Pre-production">
+        pre-production
+       </a>
+       and
+       <a class="mw-redirect" href="/wiki/Film_production" title="Film production">
+        production
+       </a>
+       . Visual effects primarily executed in Post-Production with the use of multiple tools and technologies such as graphic design, modeling, animation and similar software, while
+       <a href="/wiki/Special_effect" title="Special effect">
+        special effects
+       </a>
+       such as explosions and car chases are made on
+       <a href="/wiki/Theatrical_scenery" title="Theatrical scenery">
+        set
+       </a>
+       . A
+       <a href="/wiki/Visual_effects_supervisor" title="Visual effects supervisor">
+        visual effects supervisor
+       </a>
+       is usually involved with the production from an early stage to work closely with production and the film's
+       <a href="/wiki/Film_director" title="Film director">
+        director
+       </a>
+       design, guide and lead the teams required to achieve the desired effects.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Categories">
+        Categories
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Visual_effects&amp;action=edit&amp;section=2" title="Edit section: Categories">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Visual effects primarily divides into two groups of:
+      </p>
+      <ol>
+       <li>
+        <a href="/wiki/Special_effect" title="Special effect">
+         Special Effects
+        </a>
+        : It covers any visual effects that take place in live action, e.g. on set explosions or
+        <a class="mw-redirect" href="/wiki/Stunt_performance" title="Stunt performance">
+         stunt performances
+        </a>
+        .
+       </li>
+       <li>
+        Digital Effects (commonly shortened to
+        <b>
+         digital FX
+        </b>
+        or
+        <b>
+         FX
+        </b>
+        ): It covers the various processes by which imagery is created or manipulated with or from photographic assets. Digital Effects often involve the integration of still photography and
+        <a href="/wiki/Computer-generated_imagery" title="Computer-generated imagery">
+         computer-generated imagery
+        </a>
+        (CGI) to create environments which look realistic but would be dangerous, costly, or impossible to capture in camera. FX is usually associated with the still photography world in contrast to visual effects which is associated with motion film production. Digital FX also divides into different subgroups of professions such as:
+       </li>
+      </ol>
+      <ul>
+       <li>
+        <a href="/wiki/Matte_painting" title="Matte painting">
+         Matte paintings
+        </a>
+        and stills: digital or traditional paintings or photographs which serve as background plates for 3D characters, particle effects, digital sets, backgrounds.
+       </li>
+      </ul>
+      <ul>
+       <li>
+        <a href="/wiki/Motion_capture" title="Motion capture">
+         Motion Capture
+        </a>
+        <b>
+         (Mo-Cap
+        </b>
+        for short): It’s the process of recording the movements of objects and or people. In a session of motion capture, the subject whose motion is being captured is recorded and sampled many times per second by different scanners placed all over the environment. There are different types of systems that read the actor’s movement. One of which is the optical method that uses tracking cameras that lock onto specialized markers placed over the actor’s motion capture suit. The other type of method is called the non-optical method where instead of capturing the markers location in space, it recorders and measures the inertia and mechanical motion in the area. This type of motion capture doesn’t just apply to the body, but can be used to track the facial movements and expressions of an actor and transfer them to a 3d model later on in the pipeline. The same type of concept of using markers to track motion is used, but more often than not, the actor’s face will have painted dots on their face rather than ball shaped markers. Not only is the actor’s movements recorded in this process, but the movement of the camera is also recorded, which allows editors to use this data to enhance the environment the motion captured set is imagined in. Once all of this is captured, the motion captured data is mapped to a virtual skeleton using software such as Autodesk’s
+        <a class="mw-redirect" href="/wiki/MotionBuilder" title="MotionBuilder">
+         MotionBuilder
+        </a>
+        or other software of choice.
+       </li>
+       <li>
+        Modelling: Creating
+        <a class="mw-redirect" href="/wiki/3D_models" title="3D models">
+         3D models
+        </a>
+        of props or characters using specialised software.
+       </li>
+       <li>
+        <a href="/wiki/Animation" title="Animation">
+         Animation
+        </a>
+        : Assign movements for any objects and characters in
+        <a href="/wiki/Two-dimensional_space" title="Two-dimensional space">
+         2D
+        </a>
+        or
+        <a href="/wiki/Three-dimensional_space" title="Three-dimensional space">
+         3D
+        </a>
+        .
+       </li>
+       <li>
+        <a href="/wiki/Compositing" title="Compositing">
+         Compositing
+        </a>
+        : Combining visual elements from different sources to create the illusion that all those elements are parts of the same scene.
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="Types">
+        Types
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Visual_effects&amp;action=edit&amp;section=3" title="Edit section: Types">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       VFX can be categorized into:
+      </p>
+      <ul>
+       <li>
+        <a href="/wiki/Physics_engine" title="Physics engine">
+         Simulation FX
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Animation" title="Animation">
+         Animation
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Computer_model" title="Computer model">
+         Modelling
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Matte_painting" title="Matte painting">
+         Matte painting
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Compositing" title="Compositing">
+         Compositing
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Visual_effects&amp;action=edit&amp;section=4" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a href="/wiki/Animation" title="Animation">
+         Animation
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Match_moving" title="Match moving">
+         Match moving
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Chroma_key" title="Chroma key">
+         Bluescreen/greenscreen
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Compositing" title="Compositing">
+         Compositing
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Computer-generated_imagery" title="Computer-generated imagery">
+         Computer-generated imagery
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Front_projection_effect" title="Front projection effect">
+         Front projection effect
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Matte_painting" title="Matte painting">
+         Matte painting
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Physical_effects" title="Physical effects">
+         Physical effects
+        </a>
+        , another category of
+        <a class="mw-redirect" href="/wiki/Special_effects" title="Special effects">
+         special effects
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Optics#Visual_effects" title="Optics">
+         Optics#Visual effects
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Rear_projection_effect" title="Rear projection effect">
+         Rear projection effect
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Special_effects" title="Special effects">
+         Special effects
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/VFX_Creative_Director" title="VFX Creative Director">
+         VFX Creative Director
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Visual_Effects_Society" title="Visual Effects Society">
+         Visual Effects Society
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="Further_reading">
+        Further reading
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Visual_effects&amp;action=edit&amp;section=5" title="Edit section: Further reading">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        The VES Handbook of Visual Effects: Industry Standard VFX Practices and Procedures, Jeffrey A. Okun &amp; Susan Zwerman, Publisher: Focal Press 2010
+       </li>
+       <li>
+        T. Porter and T. Duff, "Compositing Digital Images", Proceedings of SIGGRAPH '84, 18 (1984).
+       </li>
+       <li>
+        The Art and Science of Digital Compositing (
+        <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+         ISBN
+        </a>
+        <a href="/wiki/Special:BookSources/0-12-133960-2" title="Special:BookSources/0-12-133960-2">
+         0-12-133960-2
+        </a>
+        )
+       </li>
+       <li>
+        <cite class="citation book">
+         McClean, Shilo T. (2007).
+         <i>
+          Digital Storytelling: The Narrative Power of Visual Effects in Film
+         </i>
+         .
+         <a class="mw-redirect" href="/wiki/The_MIT_Press" title="The MIT Press">
+          The MIT Press
+         </a>
+         .
+         <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+          ISBN
+         </a>
+         <a href="/wiki/Special:BookSources/0-262-13465-9" title="Special:BookSources/0-262-13465-9">
+          0-262-13465-9
+         </a>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Digital+Storytelling%3A+The+Narrative+Power+of+Visual+Effects+in+Film&amp;rft.pub=The+MIT+Press&amp;rft.date=2007&amp;rft.isbn=0-262-13465-9&amp;rft.aulast=McClean&amp;rft.aufirst=Shilo+T.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVisual+effects">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+       <li>
+        <a href="/wiki/Mark_Cotta_Vaz" title="Mark Cotta Vaz">
+         Mark Cotta Vaz
+        </a>
+        ;
+        <a href="/wiki/Craig_Barron" title="Craig Barron">
+         Craig Barron
+        </a>
+        :
+        <i>
+         The Invisible Art: The Legends of Movie Matte Painting.
+        </i>
+        San Francisco, Cal.: Chronicle Books, 2002;
+        <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+         ISBN
+        </a>
+        <a href="/wiki/Special:BookSources/0-8118-3136-1" title="Special:BookSources/0-8118-3136-1">
+         0-8118-3136-1
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Peter_Ellenshaw" title="Peter Ellenshaw">
+         Peter Ellenshaw
+        </a>
+        ;
+        <i>
+         <a class="external text" href="http://www.ellenshaw.com/bk_Under_Glass.htm" rel="nofollow">
+          Ellenshaw Under Glass - Going to the Matte for Disney
+         </a>
+        </i>
+       </li>
+       <li>
+        Richard Rickitt:
+        <i>
+         Special Effects: The History and Technique.
+        </i>
+        Billboard Books; 2nd edition, 2007;
+        <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+         ISBN
+        </a>
+        <a href="/wiki/Special:BookSources/0-8230-8408-6" title="Special:BookSources/0-8230-8408-6">
+         0-8230-8408-6
+        </a>
+        .
+       </li>
+       <li>
+        <cite class="citation book">
+         Patel, Mayur (2009).
+         <i>
+          The Digital Visual Effects Studio: The Artists and Their Work Revealed
+         </i>
+         .
+         <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+          ISBN
+         </a>
+         <a href="/wiki/Special:BookSources/1-4486-6547-7" title="Special:BookSources/1-4486-6547-7">
+          1-4486-6547-7
+         </a>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Digital+Visual+Effects+Studio%3A+The+Artists+and+Their+Work+Revealed&amp;rft.date=2009&amp;rft.isbn=1-4486-6547-7&amp;rft.aulast=Patel&amp;rft.aufirst=Mayur&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVisual+effects">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Visual_effects&amp;action=edit&amp;section=6" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a class="external text" href="http://www.animationboss.net/category/vfx-breakdown/" rel="nofollow">
+         Visual Effects News
+        </a>
+        Animation boss
+       </li>
+       <li>
+        <a class="external text" href="https://gizmodo.com/5347365/take-five-minutes-to-watch-100-years-of-visual-effects?autoplay=true" rel="nofollow">
+         Take Five Minutes to Watch 100 Years of Visual Effects
+        </a>
+        by Rosa Golijan - Gizmodo.com - August 27, 2009
+       </li>
+      </ul>
+      <div aria-labelledby="Special_effects" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="2" scope="col" style="text-align: center;">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:Special_effects" title="Template:Special effects">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a href="/wiki/Template_talk:Special_effects" title="Template talk:Special effects">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Special_effects&amp;action=edit">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="Special_effects" style="font-size:114%;margin:0 4em">
+           <a href="/wiki/Special_effect" title="Special effect">
+            Special effects
+           </a>
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:5.0em">
+          <a href="/wiki/Practical_effect" title="Practical effect">
+           Practical
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Prosthetic_makeup" title="Prosthetic makeup">
+              Prosthetic makeup
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Animatronics" title="Animatronics">
+              Animatronics
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Puppetry" title="Puppetry">
+              Puppetry
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Creature_suit" title="Creature suit">
+              Creature suit
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Miniature_effect" title="Miniature effect">
+              Miniature effect
+             </a>
+             (
+             <a href="/wiki/Hanging_miniature" title="Hanging miniature">
+              hanging
+             </a>
+             )
+            </li>
+            <li>
+             <a href="/wiki/Pyrotechnics" title="Pyrotechnics">
+              Pyrotechnics
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Aerial_rigging" title="Aerial rigging">
+              Aerial rigging
+             </a>
+             (
+             <a href="/wiki/Wire-flying" title="Wire-flying">
+              Wire-flying
+             </a>
+             )
+            </li>
+            <li>
+             <a href="/wiki/Squib_(explosive)" title="Squib (explosive)">
+              Squib
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Matte_painting" title="Matte painting">
+              Matte painting
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Sugar_glass" title="Sugar glass">
+              Sugar glass
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Theatrical_blood" title="Theatrical blood">
+              Theatrical blood
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:5.0em">
+          <a href="/wiki/In-camera_effect" title="In-camera effect">
+           In-camera
+          </a>
+         </th>
+         <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Tilted_plane_focus" title="Tilted plane focus">
+              Tilted plane focus
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Forced_perspective" title="Forced perspective">
+              Forced perspective
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Sch%C3%BCfftan_process" title="Schüfftan process">
+              Schüfftan process
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Dolly_zoom" title="Dolly zoom">
+              Dolly zoom
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Lens_flare" title="Lens flare">
+              Lens flares
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Lighting_effects" title="Lighting effects">
+              Lighting effects
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Photographic_filter" title="Photographic filter">
+              Filtration
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Shutter_(photography)" title="Shutter (photography)">
+              Shutter effects
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Time-lapse" title="Time-lapse">
+              Time-lapse
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Slow_motion" title="Slow motion">
+                Slow motion
+               </a>
+              </li>
+              <li>
+               <a class="mw-redirect" href="/wiki/Fast_motion" title="Fast motion">
+                Fast motion
+               </a>
+              </li>
+              <li>
+               <a class="mw-redirect" href="/wiki/Speed_ramping" title="Speed ramping">
+                Speed ramping
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Bipack" title="Bipack">
+              Bipacks
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Slit-scan" title="Slit-scan">
+              Slit-scan
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Reverse_motion" title="Reverse motion">
+              Reverse motion
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Front_projection" title="Front projection">
+              Front projection
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Rear_projection" title="Rear projection">
+              Rear projection
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Multiple_exposure" title="Multiple exposure">
+              Multiple exposure
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Infrared_photography" title="Infrared photography">
+              Infrared photography
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Bullet_time" title="Bullet time">
+              Bullet time
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:5.0em">
+          <a class="mw-selflink selflink">
+           Visual
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Computer-generated_imagery" title="Computer-generated imagery">
+              Computer-generated imagery
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Split_screen_(filmmaking)" title="Split screen (filmmaking)">
+              Split screen
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Stop_motion" title="Stop motion">
+              Stop motion
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Go_motion" title="Go motion">
+              Go motion
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Chroma_key" title="Chroma key">
+              Chroma key
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Compositing" title="Compositing">
+              Compositing
+             </a>
+             (
+             <a href="/wiki/Digital_compositing" title="Digital compositing">
+              digital
+             </a>
+             )
+            </li>
+            <li>
+             <a href="/wiki/Optical_printer" title="Optical printer">
+              Optical printing
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Introvision" title="Introvision">
+              Introvision
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Smallgantics" title="Smallgantics">
+              Smallgantics
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Match_moving" title="Match moving">
+              Match moving
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <div aria-labelledby="Filmmaking" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="2" scope="col" style="text-align: center;">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:Filmmaking" title="Template:Filmmaking">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a href="/wiki/Template_talk:Filmmaking" title="Template talk:Filmmaking">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Filmmaking&amp;action=edit">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="Filmmaking" style="font-size:114%;margin:0 4em">
+           <a href="/wiki/Filmmaking" title="Filmmaking">
+            Filmmaking
+           </a>
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Filmmaking#Development" title="Filmmaking">
+           Development
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Film_treatment" title="Film treatment">
+              Film treatment
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Film_producer" title="Film producer">
+              Producer
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Scriptment" title="Scriptment">
+                scriptment
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Step_outline" title="Step outline">
+              Step outline
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Screenplay" title="Screenplay">
+              Screenplay
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Screenwriting" title="Screenwriting">
+                process
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Spec_script" title="Spec script">
+                spec script
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Film_adaptation" title="Film adaptation">
+                film adaptation
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Hook_(filmmaking)" title="Hook (filmmaking)">
+                Hook
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Option_(filmmaking)" title="Option (filmmaking)">
+                Option
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Film_budgeting" title="Film budgeting">
+              Film budgeting
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Film_finance" title="Film finance">
+              Film finance
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Pitch_(filmmaking)" title="Pitch (filmmaking)">
+                pitch
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Green-light" title="Green-light">
+              Green-light
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Pre-production" title="Pre-production">
+           Pre-production
+          </a>
+         </th>
+         <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Script_breakdown" title="Script breakdown">
+              Script breakdown
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Breaking_down_the_script" title="Breaking down the script">
+                process
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Shooting_script" title="Shooting script">
+              Shooting script
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Storyboard" title="Storyboard">
+              Storyboard
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Casting_(performing_arts)" title="Casting (performing arts)">
+              Casting
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Scenography" title="Scenography">
+                Scenography
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Rehearsal" title="Rehearsal">
+                Rehearsal
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Production_board" title="Production board">
+              Production board
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Day_Out_of_Days" title="Day Out of Days">
+              Day Out of Days
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Production_schedule" title="Production schedule">
+              Production schedule
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Shooting_schedule" title="Shooting schedule">
+              Shooting schedule
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/One_liner_schedule" title="One liner schedule">
+                one-liner
+               </a>
+              </li>
+             </ul>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Filmmaking" title="Filmmaking">
+           Production
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Film_crew" title="Film crew">
+              Film crew
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Cinematic_techniques" title="Cinematic techniques">
+              Cinematic techniques
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Principal_photography" title="Principal photography">
+              Principal photography
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Cinematography" title="Cinematography">
+                Cinematography
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Videography" title="Videography">
+                Videography
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Daily_call_sheet" title="Daily call sheet">
+              Daily call sheet
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Dailies" title="Dailies">
+              Dailies (rushes)
+             </a>
+            </li>
+           </ul>
+          </div>
+          <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%">
+             Daily reports
+            </th>
+            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Film_inventory_report" title="Film inventory report">
+                 Film inventory
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Production_report" title="Production report">
+                 Production
+                </a>
+               </li>
+               <li>
+                <a class="mw-redirect" href="/wiki/Daily_production_report" title="Daily production report">
+                 Daily Production
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Daily_progress_report" title="Daily progress report">
+                 Progress
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Sound_report" title="Sound report">
+                 Sound
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Cost_report" title="Cost report">
+                 Cost
+                </a>
+               </li>
+               <li>
+                <a class="mw-redirect" href="/wiki/Daily_editor_log" title="Daily editor log">
+                 Editor log
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Post-production" title="Post-production">
+           Post-production
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Film_editing" title="Film editing">
+              Film editing
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Re-recording_(filmmaking)" title="Re-recording (filmmaking)">
+              Re-recording
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Sync_sound" title="Sync sound">
+              Sync sound
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Soundtrack" title="Soundtrack">
+              Soundtrack
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Film_score" title="Film score">
+              Music
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Special_effect" title="Special effect">
+              Special effects
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Sound_effect" title="Sound effect">
+                sound
+               </a>
+              </li>
+              <li>
+               <a class="mw-selflink selflink">
+                visual
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Negative_cost" title="Negative cost">
+              Negative cost
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Film_distribution" title="Film distribution">
+           Distribution
+          </a>
+         </th>
+         <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Film_distributor" title="Film distributor">
+              Film distributor
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/List_of_film_distributors_by_country" title="List of film distributors by country">
+                list
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Art_release" title="Art release">
+              Film release
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Wide_release" title="Wide release">
+                wide
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Limited_release" title="Limited release">
+                limited
+               </a>
+              </li>
+              <li>
+               <a class="mw-redirect" href="/wiki/Delayed_release_(film)" title="Delayed release (film)">
+                delayed
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Roadshow_theatrical_release" title="Roadshow theatrical release">
+              Roadshow
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Streaming_media" title="Streaming media">
+              Streaming media
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          Related
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Box_office" title="Box office">
+              Box office
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Guerrilla_filmmaking" title="Guerrilla filmmaking">
+              Guerrilla filmmaking
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Development_hell" title="Development hell">
+              Development hell
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Film" title="Film">
+              Film
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Filmography" title="Filmography">
+              Filmography
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Film_industry" title="Film industry">
+              Film industry
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Film_rights" title="Film rights">
+              Film rights
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Turnaround_(filmmaking)" title="Turnaround (filmmaking)">
+              Turnaround
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <div aria-labelledby="Film_crew_(filmmaking)" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="2" scope="col">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:Film_crew" title="Template:Film crew">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a href="/wiki/Template_talk:Film_crew" title="Template talk:Film crew">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Film_crew&amp;action=edit">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="Film_crew_(filmmaking)" style="font-size:114%;margin:0 4em">
+           <a href="/wiki/Film_crew" title="Film crew">
+            Film crew
+           </a>
+           (
+           <a href="/wiki/Filmmaking" title="Filmmaking">
+            filmmaking
+           </a>
+           )
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+          </div>
+          <table class="nowraplinks collapsible autocollapse navbox-subgroup" style="border-spacing:0">
+           <tr>
+            <th class="navbox-title" colspan="2" scope="col" style=";">
+             <div id="Above_the_line" style="font-size:114%;margin:0 4em">
+              <a href="/wiki/Above-the-line_(filmmaking)" title="Above-the-line (filmmaking)">
+               Above the line
+              </a>
+             </div>
+            </th>
+           </tr>
+           <tr>
+            <td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Actor" title="Actor">
+                 Actor
+                </a>
+                <ul>
+                 <li>
+                  <a href="/wiki/Leading_actor" title="Leading actor">
+                   Leading actor
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Movie_star" title="Movie star">
+                   Movie star
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Superstar" title="Superstar">
+                   Superstar
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Character_actor" title="Character actor">
+                   Character actor
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Cameo_appearance" title="Cameo appearance">
+                   Cameo actors
+                  </a>
+                 </li>
+                </ul>
+               </li>
+               <li>
+                <a href="/wiki/Film_director" title="Film director">
+                 Film director
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Screenwriter" title="Screenwriter">
+                 Screenwriter
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Film_producer" title="Film producer">
+                 Film producer
+                </a>
+                <ul>
+                 <li>
+                  <a href="/wiki/Executive_producer" title="Executive producer">
+                   Executive producer
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Line_producer" title="Line producer">
+                   Line producer
+                  </a>
+                 </li>
+                </ul>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+        <tr>
+         <td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+          </div>
+          <table class="nowraplinks collapsible autocollapse navbox-subgroup" style="border-spacing:0">
+           <tr>
+            <th class="navbox-title" colspan="2" scope="col" style=";">
+             <div id="Below_the_line" style="font-size:114%;margin:0 4em">
+              <a href="/wiki/Below-the-line_(filmmaking)" title="Below-the-line (filmmaking)">
+               Below the line
+              </a>
+             </div>
+            </th>
+           </tr>
+           <tr>
+            <td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+             </div>
+             <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+              <tr>
+               <th class="navbox-group" scope="row" style="width:1%">
+                <a href="/wiki/Pre-production" title="Pre-production">
+                 Pre-production
+                </a>
+               </th>
+               <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                <div style="padding:0em 0.25em">
+                 <ul>
+                  <li>
+                   <a href="/wiki/Unit_production_manager" title="Unit production manager">
+                    Unit production manager
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Production_coordinator" title="Production coordinator">
+                    Production coordinator
+                   </a>
+                  </li>
+                  <li>
+                   <a class="mw-redirect" href="/wiki/Production_accountant" title="Production accountant">
+                    Production accountant
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Assistant_director" title="Assistant director">
+                    Assistant director
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Script_supervisor" title="Script supervisor">
+                    Script supervisor
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Script_coordinator" title="Script coordinator">
+                    Script coordinator
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Casting_(performing_arts)" title="Casting (performing arts)">
+                    Casting director
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Production_assistant" title="Production assistant">
+                    Production assistant
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Location_manager" title="Location manager">
+                    Location manager
+                   </a>
+                  </li>
+                 </ul>
+                </div>
+                <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                 <tr>
+                  <th class="navbox-group" scope="row" style="width:1%">
+                   <a href="/wiki/Storyboard" title="Storyboard">
+                    Storyboard
+                   </a>
+                  </th>
+                  <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em">
+                    <ul>
+                     <li>
+                      <a href="/wiki/Storyboard_artist" title="Storyboard artist">
+                       Storyboard artist
+                      </a>
+                     </li>
+                    </ul>
+                   </div>
+                  </td>
+                 </tr>
+                </table>
+               </td>
+              </tr>
+              <tr>
+               <th class="navbox-group" scope="row" style="width:1%">
+                Production design
+               </th>
+               <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                <div style="padding:0em 0.25em">
+                 <ul>
+                  <li>
+                   <a href="/wiki/Production_designer" title="Production designer">
+                    Production designer
+                   </a>
+                   <ul>
+                    <li>
+                     <a href="/wiki/Art_director#In_film" title="Art director">
+                      Art director
+                     </a>
+                    </li>
+                   </ul>
+                  </li>
+                  <li>
+                   <a href="/wiki/Costume_designer" title="Costume designer">
+                    Costume designer
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Hairdresser" title="Hairdresser">
+                    Hairdresser
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Make-up_artist" title="Make-up artist">
+                    Make-up artist
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Set_decorator" title="Set decorator">
+                    Set decorator
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Property_master" title="Property master">
+                    Property master
+                    <span style="white-space:nowrap">
+                    </span>
+                    /
+                    <span style="white-space:nowrap">
+                    </span>
+                    mistress
+                    <span style="font-size:90%;">
+                     ("props")
+                    </span>
+                   </a>
+                  </li>
+                 </ul>
+                </div>
+                <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                 <tr>
+                  <th class="navbox-group" scope="row" style="width:1%">
+                   <a class="mw-redirect" href="/wiki/Visual_Art" title="Visual Art">
+                    Visual Art
+                   </a>
+                  </th>
+                  <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em">
+                    <ul>
+                     <li>
+                      <a href="/wiki/Matte_painting" title="Matte painting">
+                       Matte painter
+                      </a>
+                     </li>
+                     <li>
+                      <a href="/wiki/Illustrator" title="Illustrator">
+                       Illustrator
+                      </a>
+                     </li>
+                     <li>
+                      <a href="/wiki/Scenic_design" title="Scenic design">
+                       Scenic design
+                      </a>
+                     </li>
+                    </ul>
+                   </div>
+                  </td>
+                 </tr>
+                </table>
+               </td>
+              </tr>
+              <tr>
+               <th class="navbox-group" scope="row" style="width:1%">
+                <a href="/wiki/Principal_photography" title="Principal photography">
+                 Photography
+                </a>
+               </th>
+               <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                <div style="padding:0em 0.25em">
+                 <ul>
+                  <li>
+                   <a href="/wiki/Cinematographer" title="Cinematographer">
+                    Cinematographer / Director of photography
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Camera_operator" title="Camera operator">
+                    Camera operator
+                   </a>
+                   <ul>
+                    <li>
+                     <a href="/wiki/Focus_puller" title="Focus puller">
+                      Focus puller
+                     </a>
+                    </li>
+                    <li>
+                     <a href="/wiki/Clapper_loader" title="Clapper loader">
+                      Clapper loader
+                     </a>
+                    </li>
+                    <li>
+                     <a href="/wiki/Steadicam" title="Steadicam">
+                      Steadicam
+                     </a>
+                    </li>
+                   </ul>
+                  </li>
+                  <li>
+                   <a href="/wiki/Gaffer_(filmmaking)" title="Gaffer (filmmaking)">
+                    Gaffer
+                   </a>
+                   <ul>
+                    <li>
+                     <a href="/wiki/Best_boy" title="Best boy">
+                      Best boy
+                      <span style="font-size:90%;">
+                       (electrical)
+                      </span>
+                     </a>
+                    </li>
+                    <li>
+                     <a href="/wiki/Lighting_technician" title="Lighting technician">
+                      Lighting technician
+                     </a>
+                    </li>
+                   </ul>
+                  </li>
+                  <li>
+                   <a href="/wiki/Key_grip" title="Key grip">
+                    Key grip
+                   </a>
+                   <ul>
+                    <li>
+                     <a href="/wiki/Best_boy" title="Best boy">
+                      Best boy
+                      <span style="font-size:90%;">
+                       (grip)
+                      </span>
+                     </a>
+                    </li>
+                    <li>
+                     <a href="/wiki/Grip_(job)" title="Grip (job)">
+                      Grip
+                     </a>
+                    </li>
+                    <li>
+                     <a href="/wiki/Dolly_grip" title="Dolly grip">
+                      Dolly grip
+                     </a>
+                    </li>
+                   </ul>
+                  </li>
+                 </ul>
+                </div>
+               </td>
+              </tr>
+              <tr>
+               <th class="navbox-group" scope="row" style="width:1%">
+                <a href="/wiki/Sound_design" title="Sound design">
+                 Sound
+                </a>
+               </th>
+               <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                <div style="padding:0em 0.25em">
+                 <ul>
+                  <li>
+                   <a href="/wiki/Director_of_audiography" title="Director of audiography">
+                    Director of audiography
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Production_sound_mixer" title="Production sound mixer">
+                    Production sound mixer
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Boom_operator_(media)" title="Boom operator (media)">
+                    Boom operator
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Utility_sound_technician" title="Utility sound technician">
+                    Utility sound technician
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Dialogue_editor" title="Dialogue editor">
+                    Dialogue editor
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Re-recording_mixer" title="Re-recording mixer">
+                    Re-recording mixer
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Foley_(filmmaking)" title="Foley (filmmaking)">
+                    Foley artist
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Composer" title="Composer">
+                    Composer
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Music_supervisor" title="Music supervisor">
+                    Music supervisor
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Music_editor_(filmmaking)" title="Music editor (filmmaking)">
+                    Music editor
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Orchestration" title="Orchestration">
+                    Orchestrator
+                   </a>
+                  </li>
+                 </ul>
+                </div>
+               </td>
+              </tr>
+              <tr>
+               <th class="navbox-group" scope="row" style="width:1%">
+                <a href="/wiki/Special_effect" title="Special effect">
+                 Special effects
+                </a>
+               </th>
+               <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                <div style="padding:0em 0.25em">
+                 <ul>
+                  <li>
+                   <a href="/wiki/Special_effects_supervisor" title="Special effects supervisor">
+                    Special effects supervisor
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Visual_effects_supervisor" title="Visual effects supervisor">
+                    Visual effects supervisor
+                   </a>
+                  </li>
+                 </ul>
+                </div>
+               </td>
+              </tr>
+              <tr>
+               <th class="navbox-group" scope="row" style="width:1%">
+                <a href="/wiki/Animation_department" title="Animation department">
+                 Animation
+                </a>
+               </th>
+               <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                <div style="padding:0em 0.25em">
+                 <ul>
+                  <li>
+                   <a href="/wiki/Animator" title="Animator">
+                    Animator
+                   </a>
+                  </li>
+                  <li>
+                   <a class="mw-selflink selflink">
+                    Visual effects
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Conceptual_model" title="Conceptual model">
+                    Modeling
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Rigging" title="Rigging">
+                    Rigging
+                   </a>
+                  </li>
+                  <li>
+                   <a class="mw-redirect" href="/wiki/Layout_artist" title="Layout artist">
+                    Layout artist
+                   </a>
+                  </li>
+                 </ul>
+                </div>
+               </td>
+              </tr>
+              <tr>
+               <th class="navbox-group" scope="row" style="width:1%">
+                Talent
+               </th>
+               <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                <div style="padding:0em 0.25em">
+                 <ul>
+                  <li>
+                   <a href="/wiki/Acting_coach" title="Acting coach">
+                    Acting coach
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Dialect_coach" title="Dialect coach">
+                    Dialect coach
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Movement_director" title="Movement director">
+                    Movement director
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Choreography" title="Choreography">
+                    Choreographer
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Extra_(acting)" title="Extra (acting)">
+                    Extra
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Talent_agent" title="Talent agent">
+                    Talent agent
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Actor" title="Actor">
+                    Actor
+                   </a>
+                   (
+                   <a class="mw-redirect" href="/wiki/List_of_voice_actors" title="List of voice actors">
+                    voice
+                   </a>
+                   )
+                  </li>
+                  <li>
+                   <a class="mw-redirect" href="/wiki/Cast_member" title="Cast member">
+                    Cast member
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Stand-in" title="Stand-in">
+                    Stand-in
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Acting_instructor" title="Acting instructor">
+                    Acting instructor
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Stunt_double" title="Stunt double">
+                    Stunt double
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Stunt_performer" title="Stunt performer">
+                    Stunt performer
+                   </a>
+                  </li>
+                 </ul>
+                </div>
+               </td>
+              </tr>
+              <tr>
+               <th class="navbox-group" scope="row" style="width:1%">
+                <a href="/wiki/Post-production" title="Post-production">
+                 Post-production
+                </a>
+               </th>
+               <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                <div style="padding:0em 0.25em">
+                 <ul>
+                  <li>
+                   <a href="/wiki/Film_editing" title="Film editing">
+                    Film editor
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Sound_editor_(filmmaking)" title="Sound editor (filmmaking)">
+                    Sound editor
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Color_grading" title="Color grading">
+                    Colorist
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Animator" title="Animator">
+                    Animator
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Technical_director#Film" title="Technical director">
+                    Technical director
+                   </a>
+                  </li>
+                 </ul>
+                </div>
+                <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                 <tr>
+                  <th class="navbox-group" scope="row" style="width:1%">
+                   <a class="mw-selflink selflink">
+                    Visual effects
+                   </a>
+                  </th>
+                  <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em">
+                    <ul>
+                     <li>
+                      <a class="mw-selflink selflink">
+                       Visual effects editor
+                      </a>
+                     </li>
+                     <li>
+                      <a href="/wiki/Compositing" title="Compositing">
+                       Compositor
+                      </a>
+                     </li>
+                     <li>
+                      <a href="/wiki/Computer-generated_imagery" title="Computer-generated imagery">
+                       Computer-generated imagery
+                      </a>
+                     </li>
+                     <li>
+                      <a href="/wiki/Rendering_(computer_graphics)" title="Rendering (computer graphics)">
+                       Rendering
+                      </a>
+                     </li>
+                    </ul>
+                   </div>
+                  </td>
+                 </tr>
+                </table>
+               </td>
+              </tr>
+             </table>
+            </td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1280
+Cached time: 20180320073513
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.224 seconds
+Real time usage: 0.289 seconds
+Preprocessor visited node count: 1562/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 87152/2097152 bytes
+Template argument size: 7415/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.082/10.000 seconds
+Lua memory usage: 3.04 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  223.693      1 -total
+ 24.82%   55.517      1 Template:Film_crew
+ 23.28%   52.078      1 Template:Navbox_with_collapsible_groups
+ 22.67%   50.715      1 Template:Unreferenced
+ 20.86%   46.673      7 Template:Navbox
+ 17.97%   40.187      2 Template:Cite_book
+ 16.61%   37.150      3 Template:ISBN
+ 14.27%   31.922      1 Template:Ambox
+  7.15%   15.998      1 Template:Special_Effects
+  6.84%   15.311      3 Template:Catalog_lookup_link
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:323862-0!canonical and timestamp 20180320073516 and revision id 831373918
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Visual_effects&amp;oldid=831373918">
+      https://en.wikipedia.org/w/index.php?title=Visual_effects&amp;oldid=831373918
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Visual_effects" title="Category:Visual effects">
+         Visual effects
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Cinematic_techniques" title="Category:Cinematic techniques">
+         Cinematic techniques
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Film_and_video_technology" title="Category:Film and video technology">
+         Film and video technology
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Special_effects" title="Category:Special effects">
+         Special effects
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Computer_graphic_techniques" title="Category:Computer graphic techniques">
+         Computer graphic techniques
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Articles_lacking_sources_from_February_2018" title="Category:Articles lacking sources from February 2018">
+         Articles lacking sources from February 2018
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_lacking_sources" title="Category:All articles lacking sources">
+         All articles lacking sources
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Visual+effects" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Visual+effects" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Visual_effects" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Visual_effects" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Visual_effects">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Visual_effects&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Visual_effects&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Visual_effects" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Visual_effects" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Visual_effects&amp;oldid=831373918" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Visual_effects&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q8317" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Visual_effects&amp;id=831373918" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Visual+effects">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Visual+effects&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Visual_effects&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Category:Visual_effects" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%85%D8%A4%D8%AB%D8%B1%D8%A7%D8%AA_%D8%A8%D8%B5%D8%B1%D9%8A%D8%A9" hreflang="ar" lang="ar" title="مؤثرات بصرية – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bg">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%92%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D0%BD%D0%B8_%D0%B5%D1%84%D0%B5%D0%BA%D1%82%D0%B8" hreflang="bg" lang="bg" title="Визуални ефекти – Bulgarian">
+         Български
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Efectes_visuals" hreflang="ca" lang="ca" title="Efectes visuals – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Visual_effects" hreflang="da" lang="da" title="Visual effects – Danish">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Visueller_Effekt" hreflang="de" lang="de" title="Visueller Effekt – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Efectos_visuales" hreflang="es" lang="es" title="Efectos visuales – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%AC%D9%84%D9%88%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C_%D8%A8%D8%B5%D8%B1%DB%8C" hreflang="fa" lang="fa" title="جلوه‌های بصری – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Effets_visuels" hreflang="fr" lang="fr" title="Effets visuels – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%8B%9C%EA%B0%81_%ED%9A%A8%EA%B3%BC" hreflang="ko" lang="ko" title="시각 효과 – Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Effetti_visivi" hreflang="it" lang="it" title="Effetti visivi – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he">
+        <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%90%D7%A4%D7%A7%D7%98%D7%99%D7%9D_%D7%97%D7%96%D7%95%D7%AA%D7%99%D7%99%D7%9D" hreflang="he" lang="he" title="אפקטים חזותיים – Hebrew">
+         עברית
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hu">
+        <a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/VFX" hreflang="hu" lang="hu" title="VFX – Hungarian">
+         Magyar
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ml">
+        <a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%A6%E0%B5%83%E0%B4%B6%E0%B5%8D%E0%B4%AF%E0%B4%AA%E0%B5%8D%E0%B4%B0%E0%B4%AD%E0%B4%BE%E0%B4%B5%E0%B4%82" hreflang="ml" lang="ml" title="ദൃശ്യപ്രഭാവം – Malayalam">
+         മലയാളം
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/VFX" hreflang="ja" lang="ja" title="VFX – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pa">
+        <a class="interlanguage-link-target" href="https://pa.wikipedia.org/wiki/%E0%A8%B5%E0%A8%BF%E0%A8%9C%E0%A8%BC%E0%A9%82%E0%A8%85%E0%A8%B2_%E0%A8%87%E0%A8%AB%E0%A9%88%E0%A8%95%E0%A8%9F%E0%A8%B8" hreflang="pa" lang="pa" title="ਵਿਜ਼ੂਅਲ ਇਫੈਕਟਸ – Punjabi">
+         ਪੰਜਾਬੀ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sh">
+        <a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Vizualni_efekti" hreflang="sh" lang="sh" title="Vizualni efekti – Serbo-Croatian">
+         Srpskohrvatski / српскохрватски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Visuaalinen_tehoste" hreflang="fi" lang="fi" title="Visuaalinen tehoste – Finnish">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Visuella_effekter" hreflang="sv" lang="sv" title="Visuella effekter – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%92%D1%96%D0%B7%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%96_%D0%B5%D1%84%D0%B5%D0%BA%D1%82%D0%B8" hreflang="uk" lang="uk" title="Візуальні ефекти – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vi">
+        <a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Hi%E1%BB%87u_%E1%BB%A9ng_h%C3%ACnh_%E1%BA%A3nh" hreflang="vi" lang="vi" title="Hiệu ứng hình ảnh – Vietnamese">
+         Tiếng Việt
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E8%A7%86%E8%A7%89%E6%95%88%E6%9E%9C" hreflang="zh" lang="zh" title="视觉效果 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q8317#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 20 March 2018, at 07:35.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Visual_effects&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.224","walltime":"0.289","ppvisitednodes":{"value":1562,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":87152,"limit":2097152},"templateargumentsize":{"value":7415,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  223.693      1 -total"," 24.82%   55.517      1 Template:Film_crew"," 23.28%   52.078      1 Template:Navbox_with_collapsible_groups"," 22.67%   50.715      1 Template:Unreferenced"," 20.86%   46.673      7 Template:Navbox"," 17.97%   40.187      2 Template:Cite_book"," 16.61%   37.150      3 Template:ISBN"," 14.27%   31.922      1 Template:Ambox","  7.15%   15.998      1 Template:Special_Effects","  6.84%   15.311      3 Template:Catalog_lookup_link"]},"scribunto":{"limitreport-timeusage":{"value":"0.082","limit":"10.000"},"limitreport-memusage":{"value":3183433,"limit":52428800}},"cachereport":{"origin":"mw1280","timestamp":"20180320073513","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":95,"wgHostname":"mw1268"});});
+  </script>
+ </body>
+</html>

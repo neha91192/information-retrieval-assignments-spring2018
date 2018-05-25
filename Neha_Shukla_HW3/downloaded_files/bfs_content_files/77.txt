@@ -1,0 +1,2840 @@
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Tidal acceleration - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Tidal_acceleration","wgTitle":"Tidal acceleration","wgCurRevisionId":828997285,"wgRevisionId":828997285,"wgArticleId":30647,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","All articles with unsourced statements","Articles with unsourced statements from November 2015","Articles with unsourced statements from March 2017","Articles with unsourced statements from February 2007","Tidal forces","Geodesy","Orbits","Orbit of the Moon"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Tidal_acceleration","wgRelevantArticleId":30647,"wgRequestId":"WqmIMgpAADwAAHYr3ZEAAAAQ","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q2477230","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.24" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/b/b8/The_Earth_and_the_Moon_photographed_from_Mars_orbit.jpg" property="og:image"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Tidal_acceleration" rel="alternate"/>
+  <link href="/w/index.php?title=Tidal_acceleration&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Tidal_acceleration&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Tidal_acceleration" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Tidal_acceleration rootpage-Tidal_acceleration skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Tidal acceleration
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:202px;">
+        <a class="image" href="/wiki/File:The_Earth_and_the_Moon_photographed_from_Mars_orbit.jpg">
+         <img alt="" class="thumbimage" data-file-height="800" data-file-width="800" height="200" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/The_Earth_and_the_Moon_photographed_from_Mars_orbit.jpg/200px-The_Earth_and_the_Moon_photographed_from_Mars_orbit.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/The_Earth_and_the_Moon_photographed_from_Mars_orbit.jpg/300px-The_Earth_and_the_Moon_photographed_from_Mars_orbit.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b8/The_Earth_and_the_Moon_photographed_from_Mars_orbit.jpg/400px-The_Earth_and_the_Moon_photographed_from_Mars_orbit.jpg 2x" width="200"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:The_Earth_and_the_Moon_photographed_from_Mars_orbit.jpg" title="Enlarge">
+          </a>
+         </div>
+         A picture of
+         <a href="/wiki/Earth" title="Earth">
+          Earth
+         </a>
+         and the
+         <a href="/wiki/Moon" title="Moon">
+          Moon
+         </a>
+         from
+         <a href="/wiki/Mars" title="Mars">
+          Mars
+         </a>
+         . The presence of the moon (which has about 1/81 the mass of Earth), is slowing Earth's rotation and extending the day by about 2 milliseconds every 100 years.
+        </div>
+       </div>
+      </div>
+      <p>
+       <b>
+        Tidal acceleration
+       </b>
+       is an effect of the
+       <a href="/wiki/Tidal_force" title="Tidal force">
+        tidal forces
+       </a>
+       between an orbiting
+       <a href="/wiki/Natural_satellite" title="Natural satellite">
+        natural satellite
+       </a>
+       (e.g. the
+       <a href="/wiki/Moon" title="Moon">
+        Moon
+       </a>
+       ), and the primary
+       <a href="/wiki/Planet" title="Planet">
+        planet
+       </a>
+       that it orbits (e.g.
+       <a href="/wiki/Earth" title="Earth">
+        Earth
+       </a>
+       ). The acceleration causes a gradual recession of a satellite in a
+       <a href="/wiki/Retrograde_and_prograde_motion" title="Retrograde and prograde motion">
+        prograde orbit
+       </a>
+       away from the primary, and a corresponding slowdown of the primary's rotation. The process eventually leads to
+       <a href="/wiki/Tidal_locking" title="Tidal locking">
+        tidal locking
+       </a>
+       , usually of the smaller first, and later the larger body. The Earth–Moon system is the best studied case.
+      </p>
+      <p>
+       The similar process of
+       <b>
+        tidal deceleration
+       </b>
+       occurs for satellites that have an orbital period that is shorter than the primary's rotational period, or that orbit in a retrograde direction.
+      </p>
+      <p>
+       The naming is somewhat confusing, because the speed of the satellite relative to the body it orbits is
+       <i>
+        decreased
+       </i>
+       as a result of tidal acceleration, and
+       <i>
+        increased
+       </i>
+       as a result of tidal deceleration.
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Earth–Moon_system">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Earth–Moon system
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-2">
+           <a href="#Discovery_history_of_the_secular_acceleration">
+            <span class="tocnumber">
+             1.1
+            </span>
+            <span class="toctext">
+             Discovery history of the secular acceleration
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-3">
+           <a href="#Effects_of_Moon's_gravity">
+            <span class="tocnumber">
+             1.2
+            </span>
+            <span class="toctext">
+             Effects of Moon's gravity
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-4">
+           <a href="#Angular_momentum_and_energy">
+            <span class="tocnumber">
+             1.3
+            </span>
+            <span class="toctext">
+             Angular momentum and energy
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-5">
+           <a href="#Historical_evidence">
+            <span class="tocnumber">
+             1.4
+            </span>
+            <span class="toctext">
+             Historical evidence
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-6">
+           <a href="#Quantitative_description_of_the_Earth–Moon_case">
+            <span class="tocnumber">
+             1.5
+            </span>
+            <span class="toctext">
+             Quantitative description of the Earth–Moon case
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-7">
+         <a href="#Other_cases_of_tidal_acceleration">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Other cases of tidal acceleration
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-8">
+         <a href="#Tidal_deceleration">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           Tidal deceleration
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-9">
+         <a href="#See_also">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-10">
+         <a href="#References">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-11">
+         <a href="#External_links">
+          <span class="tocnumber">
+           6
+          </span>
+          <span class="toctext">
+           External links
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span id="Earth.E2.80.93Moon_system">
+       </span>
+       <span class="mw-headline" id="Earth–Moon_system">
+        Earth–Moon system
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Tidal_acceleration&amp;action=edit&amp;section=1" title="Edit section: Earth–Moon system">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <h3>
+       <span class="mw-headline" id="Discovery_history_of_the_secular_acceleration">
+        Discovery history of the secular acceleration
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Tidal_acceleration&amp;action=edit&amp;section=2" title="Edit section: Discovery history of the secular acceleration">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       <a href="/wiki/Edmond_Halley" title="Edmond Halley">
+        Edmond Halley
+       </a>
+       was the first to suggest, in 1695,
+       <sup class="reference" id="cite_ref-1">
+        <a href="#cite_note-1">
+         [1]
+        </a>
+       </sup>
+       that the mean motion of the Moon was apparently getting faster, by comparison with ancient
+       <a href="/wiki/Eclipse" title="Eclipse">
+        eclipse
+       </a>
+       observations, but he gave no data. (It was not yet known in Halley's time that what is actually occurring includes a slowing-down of Earth's rate of rotation: see also
+       <a href="/wiki/Ephemeris_time#History_of_ephemeris_time_(1952_standard)" title="Ephemeris time">
+        Ephemeris time – History
+       </a>
+       . When measured as a function of
+       <a class="mw-redirect" href="/wiki/Mean_solar_time" title="Mean solar time">
+        mean solar time
+       </a>
+       rather than uniform time, the effect appears as a positive acceleration.) In 1749
+       <a href="/wiki/Richard_Dunthorne" title="Richard Dunthorne">
+        Richard Dunthorne
+       </a>
+       confirmed Halley's suspicion after re-examining ancient records, and produced the first quantitative estimate for the size of this apparent effect:
+       <sup class="reference" id="cite_ref-2">
+        <a href="#cite_note-2">
+         [2]
+        </a>
+       </sup>
+       a centurial rate of +10″ (arcseconds) in lunar longitude, which is a surprisingly accurate result for its time, not differing greatly from values assessed later,
+       <i>
+        e.g.
+       </i>
+       in 1786 by de Lalande,
+       <sup class="reference" id="cite_ref-3">
+        <a href="#cite_note-3">
+         [3]
+        </a>
+       </sup>
+       and to compare with values from about 10″ to nearly 13″ being derived about a century later.
+       <sup class="reference" id="cite_ref-4">
+        <a href="#cite_note-4">
+         [4]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-5">
+        <a href="#cite_note-5">
+         [5]
+        </a>
+       </sup>
+      </p>
+      <p>
+       <a href="/wiki/Pierre-Simon_Laplace" title="Pierre-Simon Laplace">
+        Pierre-Simon Laplace
+       </a>
+       produced in 1786 a theoretical analysis giving a basis on which the Moon's mean motion should accelerate in response to
+       <a href="/wiki/Perturbation_(astronomy)" title="Perturbation (astronomy)">
+        perturbational
+       </a>
+       changes in the eccentricity of the orbit of Earth around the
+       <a href="/wiki/Sun" title="Sun">
+        Sun
+       </a>
+       . Laplace's initial computation accounted for the whole effect, thus seeming to tie up the theory neatly with both modern and ancient observations.
+       <sup class="reference" id="cite_ref-6">
+        <a href="#cite_note-6">
+         [6]
+        </a>
+       </sup>
+      </p>
+      <p>
+       However, in 1854,
+       <a href="/wiki/John_Couch_Adams" title="John Couch Adams">
+        John Couch Adams
+       </a>
+       caused the question to be re-opened by finding an error in Laplace's computations: it turned out that only about half of the Moon's apparent acceleration could be accounted for on Laplace's basis by the change in Earth's orbital eccentricity.
+       <sup class="reference" id="cite_ref-7">
+        <a href="#cite_note-7">
+         [7]
+        </a>
+       </sup>
+       Adams's finding provoked a sharp astronomical controversy that lasted some years, but the correctness of his result, agreed upon by other mathematical astronomers including
+       <a class="mw-redirect" href="/wiki/Charles-Eugene_Delaunay" title="Charles-Eugene Delaunay">
+        C. E. Delaunay
+       </a>
+       , was eventually accepted.
+       <sup class="reference" id="cite_ref-8">
+        <a href="#cite_note-8">
+         [8]
+        </a>
+       </sup>
+       The question depended on correct analysis of the lunar motions, and received a further complication with another discovery, around the same time, that another significant long-term perturbation that had been calculated for the Moon (supposedly due to the action of
+       <a href="/wiki/Venus" title="Venus">
+        Venus
+       </a>
+       ) was also in error, was found on re-examination to be almost negligible, and practically had to disappear from the theory. A part of the answer was suggested independently in the 1860s by Delaunay and by
+       <a href="/wiki/William_Ferrel" title="William Ferrel">
+        William Ferrel
+       </a>
+       : tidal retardation of Earth's rotation rate was lengthening the unit of time and causing a lunar acceleration that was only apparent.
+       <sup class="reference" id="cite_ref-9">
+        <a href="#cite_note-9">
+         [9]
+        </a>
+       </sup>
+      </p>
+      <p>
+       It took some time for the astronomical community to accept the reality and the scale of tidal effects. But eventually it became clear that three effects are involved, when measured in terms of mean solar time. Beside the effects of perturbational changes in Earth's orbital eccentricity, as found by Laplace and corrected by Adams, there are two tidal effects (a combination first suggested by
+       <a href="/wiki/Emmanuel_Liais" title="Emmanuel Liais">
+        Emmanuel Liais
+       </a>
+       ). First there is a real retardation of the Moon's angular rate of orbital motion, due to tidal exchange of
+       <a href="/wiki/Angular_momentum" title="Angular momentum">
+        angular momentum
+       </a>
+       between Earth and Moon. This increases the Moon's angular momentum around Earth (and moves the Moon to a higher orbit with a lower
+       <a href="/wiki/Orbital_speed" title="Orbital speed">
+        orbital speed
+       </a>
+       ). Secondly there is an apparent increase in the Moon's angular rate of orbital motion (when measured in terms of mean solar time). This arises from Earth's loss of angular momentum and the consequent increase in length of day.
+       <sup class="reference" id="cite_ref-10">
+        <a href="#cite_note-10">
+         [10]
+        </a>
+       </sup>
+      </p>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Tidal_braking.svg">
+         <img alt="" class="thumbimage" data-file-height="285" data-file-width="225" height="279" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Tidal_braking.svg/220px-Tidal_braking.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Tidal_braking.svg/330px-Tidal_braking.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/79/Tidal_braking.svg/440px-Tidal_braking.svg.png 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Tidal_braking.svg" title="Enlarge">
+          </a>
+         </div>
+         A diagram of the
+         <a class="mw-redirect" href="/wiki/Earth%E2%80%93Moon_system" title="Earth–Moon system">
+          Earth–Moon system
+         </a>
+         showing how the tidal bulge is pushed ahead by
+         <a href="/wiki/Earth" title="Earth">
+          Earth
+         </a>
+         's rotation. This offset bulge exerts a net torque on the
+         <a href="/wiki/Moon" title="Moon">
+          Moon
+         </a>
+         , boosting it while slowing Earth's rotation.
+        </div>
+       </div>
+      </div>
+      <h3>
+       <span id="Effects_of_Moon.27s_gravity">
+       </span>
+       <span class="mw-headline" id="Effects_of_Moon's_gravity">
+        Effects of Moon's gravity
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Tidal_acceleration&amp;action=edit&amp;section=3" title="Edit section: Effects of Moon's gravity">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       Because the
+       <a href="/wiki/Moon" title="Moon">
+        Moon
+       </a>
+       's mass is a considerable fraction of that of Earth (about 1:81), the two bodies can be regarded as a
+       <a href="/wiki/Double_planet" title="Double planet">
+        double planet
+       </a>
+       system, rather than as a planet with a satellite. The plane of the Moon's
+       <a href="/wiki/Orbit" title="Orbit">
+        orbit
+       </a>
+       around Earth lies close to the plane of Earth's orbit around the Sun (the
+       <a href="/wiki/Ecliptic" title="Ecliptic">
+        ecliptic
+       </a>
+       ), rather than in the plane perpendicular to the axis of rotation of Earth (the
+       <a href="/wiki/Equator" title="Equator">
+        equator
+       </a>
+       ) as is usually the case with planetary satellites. The mass of the Moon is sufficiently large, and it is sufficiently close, to raise
+       <a href="/wiki/Tide" title="Tide">
+        tides
+       </a>
+       in the matter of Earth. In particular, the
+       <a href="/wiki/Water" title="Water">
+        water
+       </a>
+       of the
+       <a href="/wiki/Ocean" title="Ocean">
+        oceans
+       </a>
+       bulges out towards and away from the Moon. The average tidal bulge is synchronized with the Moon's orbit, and Earth rotates under this tidal bulge in just over a
+       <a href="/wiki/Day" title="Day">
+        day
+       </a>
+       . However, Earth's rotation drags the position of the tidal bulge ahead of the position directly under the Moon. As a consequence, there exists a substantial amount of mass in the bulge that is offset from the line through the centers of Earth and the Moon. Because of this offset, a portion of the gravitational pull between Earth's tidal bulges and the Moon is not parallel to the Earth–Moon line, i.e. there exists a
+       <a href="/wiki/Torque" title="Torque">
+        torque
+       </a>
+       between Earth and the Moon. Since the bulge nearer the moon pulls more strongly on it than the bulge further away, this torque boosts the Moon in its orbit and slows the rotation of Earth.
+      </p>
+      <p>
+       As a result of this process, the mean solar day, which is nominally 86,400 seconds long, is actually getting longer when measured in
+       <a class="mw-redirect" href="/wiki/SI" title="SI">
+        SI
+       </a>
+       <a href="/wiki/Second" title="Second">
+        seconds
+       </a>
+       with stable
+       <a href="/wiki/Atomic_clock" title="Atomic clock">
+        atomic clocks
+       </a>
+       . (The SI second, when adopted, was already a little shorter than the current value of the second of mean solar time.
+       <sup class="reference" id="cite_ref-11">
+        <a href="#cite_note-11">
+         [11]
+        </a>
+       </sup>
+       ) The small difference accumulates over time, which leads to an increasing difference between our clock time (
+       <a href="/wiki/Universal_Time" title="Universal Time">
+        Universal Time
+       </a>
+       ) on the one hand, and
+       <a class="mw-redirect" href="/wiki/Atomic_Time" title="Atomic Time">
+        Atomic Time
+       </a>
+       and
+       <a class="mw-redirect" href="/wiki/Ephemeris_Time" title="Ephemeris Time">
+        Ephemeris Time
+       </a>
+       on the other hand: see
+       <a href="/wiki/%CE%94T" title="ΔT">
+        ΔT
+       </a>
+       . This led to the introduction of the
+       <a href="/wiki/Leap_second" title="Leap second">
+        leap second
+       </a>
+       in 1972
+       <sup class="reference" id="cite_ref-12">
+        <a href="#cite_note-12">
+         [12]
+        </a>
+       </sup>
+       to compensate for differences in the bases for time standardization.
+      </p>
+      <p>
+       In addition to the effect of the ocean tides, there is also a tidal acceleration due to flexing of Earth's crust, but this accounts for only about 4% of the total effect when expressed in terms of heat dissipation.
+       <sup class="reference" id="cite_ref-13">
+        <a href="#cite_note-13">
+         [13]
+        </a>
+       </sup>
+      </p>
+      <p>
+       If other effects were ignored, tidal acceleration would continue until the rotational period of Earth matched the orbital period of the Moon. At that time, the Moon would always be overhead of a single fixed place on Earth. Such a situation already exists in the
+       <a href="/wiki/Pluto" title="Pluto">
+        Pluto
+       </a>
+       –
+       <a href="/wiki/Charon_(moon)" title="Charon (moon)">
+        Charon
+       </a>
+       system. However, the slowdown of Earth's rotation is not occurring fast enough for the rotation to lengthen to a month before other effects make this irrelevant: About 1 to 1.5 billion years from now, the continual increase of the Sun's
+       <a href="/wiki/Radiation" title="Radiation">
+        radiation
+       </a>
+       will likely cause Earth's oceans to vaporize,
+       <sup class="reference" id="cite_ref-14">
+        <a href="#cite_note-14">
+         [14]
+        </a>
+       </sup>
+       removing the bulk of the tidal friction and acceleration. Even without this, the slowdown to a month-long day would still not have been completed by 4.5 billion years from now when the Sun will probably evolve into a
+       <a href="/wiki/Red_giant" title="Red giant">
+        red giant
+       </a>
+       and likely destroy both Earth and the Moon.
+       <sup class="reference" id="cite_ref-15">
+        <a href="#cite_note-15">
+         [15]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-16">
+        <a href="#cite_note-16">
+         [16]
+        </a>
+       </sup>
+      </p>
+      <p>
+       Tidal acceleration is one of the few examples in the dynamics of the
+       <a href="/wiki/Solar_System" title="Solar System">
+        Solar System
+       </a>
+       of a so-called
+       <b>
+        secular perturbation
+       </b>
+       of an orbit, i.e. a perturbation that continuously increases with time and is not periodic. Up to a high order of approximation, mutual
+       <a href="/wiki/Gravity" title="Gravity">
+        gravitational
+       </a>
+       perturbations between major or minor
+       <a href="/wiki/Planet" title="Planet">
+        planets
+       </a>
+       only cause periodic variations in their orbits, that is, parameters oscillate between maximum and minimum values. The tidal effect gives rise to a quadratic term in the equations, which leads to unbounded growth. In the mathematical theories of the planetary orbits that form the basis of
+       <a class="mw-redirect" href="/wiki/Ephemerides" title="Ephemerides">
+        ephemerides
+       </a>
+       , quadratic and higher order secular terms do occur, but these are mostly
+       <a href="/wiki/Taylor_series" title="Taylor series">
+        Taylor expansions
+       </a>
+       of very long time periodic terms. The reason that tidal effects are different is that unlike distant gravitational perturbations, friction is an essential part of tidal acceleration, and leads to permanent loss of
+       <a href="/wiki/Energy" title="Energy">
+        energy
+       </a>
+       from the dynamic system in the form of
+       <a href="/wiki/Heat" title="Heat">
+        heat
+       </a>
+       . In other words, we do not have a
+       <a href="/wiki/Hamiltonian_system" title="Hamiltonian system">
+        Hamiltonian system
+       </a>
+       here.
+       <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+        [
+        <i>
+         <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+          <span title="This claim needs references to reliable sources. (November 2015)">
+           citation needed
+          </span>
+         </a>
+        </i>
+        ]
+       </sup>
+      </p>
+      <h3>
+       <span class="mw-headline" id="Angular_momentum_and_energy">
+        Angular momentum and energy
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Tidal_acceleration&amp;action=edit&amp;section=4" title="Edit section: Angular momentum and energy">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       The gravitational torque between the Moon and the tidal bulge of Earth causes the Moon to be constantly promoted to a slightly higher orbit and Earth to be decelerated in its rotation. As in any physical process within an isolated system, total
+       <a href="/wiki/Energy" title="Energy">
+        energy
+       </a>
+       and
+       <a href="/wiki/Angular_momentum" title="Angular momentum">
+        angular momentum
+       </a>
+       are conserved. Effectively, energy and angular momentum are transferred from the rotation of Earth to the orbital motion of the Moon (however, most of the energy lost by Earth (−3.321 TW)
+       <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+        [
+        <i>
+         <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+          <span title="This claim needs references to reliable sources. (March 2017)">
+           citation needed
+          </span>
+         </a>
+        </i>
+        ]
+       </sup>
+       is converted to heat by frictional losses in the oceans and their interaction with the solid Earth, and only about 1/30th (+0.121 TW) is transferred to the Moon). The Moon moves farther away from Earth (+38.247±0.004 mm/y), so its
+       <a href="/wiki/Potential_energy" title="Potential energy">
+        potential energy
+       </a>
+       (in Earth's
+       <a href="/wiki/Gravity_well" title="Gravity well">
+        gravity well
+       </a>
+       ) increases. It stays in orbit, and from
+       <a class="mw-redirect" href="/wiki/Laws_of_Kepler" title="Laws of Kepler">
+        Kepler's 3rd law
+       </a>
+       it follows that its
+       <a href="/wiki/Angular_velocity" title="Angular velocity">
+        angular velocity
+       </a>
+       actually decreases, so the tidal action on the Moon actually causes an angular deceleration, i.e. a negative acceleration (−25.858±0.003"/century
+       <sup>
+        2
+       </sup>
+       ) of its rotation around Earth. The actual speed of the Moon also decreases. Although its
+       <a href="/wiki/Kinetic_energy" title="Kinetic energy">
+        kinetic energy
+       </a>
+       decreases, its potential energy increases by a larger amount.
+      </p>
+      <p>
+       The rotational angular momentum of Earth decreases and consequently the length of the day increases. The
+       <i>
+        net
+       </i>
+       tide raised on Earth by the Moon is dragged ahead of the Moon by Earth's much faster rotation.
+       <b>
+        Tidal friction
+       </b>
+       is required to drag and maintain the bulge ahead of the Moon, and it dissipates the excess energy of the exchange of rotational and orbital energy between Earth and the Moon as heat. If the friction and heat dissipation were not present, the Moon's gravitational force on the tidal bulge would rapidly (within two days) bring the tide back into synchronization with the Moon, and the Moon would no longer recede. Most of the dissipation occurs in a turbulent bottom boundary layer in shallow seas such as the
+       <a class="new" href="/w/index.php?title=European_Shelf&amp;action=edit&amp;redlink=1" title="European Shelf (page does not exist)">
+        European Shelf
+       </a>
+       around the
+       <a href="/wiki/British_Isles" title="British Isles">
+        British Isles
+       </a>
+       , the
+       <a href="/wiki/Patagonian_Shelf" title="Patagonian Shelf">
+        Patagonian Shelf
+       </a>
+       off
+       <a href="/wiki/Argentina" title="Argentina">
+        Argentina
+       </a>
+       , and the
+       <a href="/wiki/Bering_Sea" title="Bering Sea">
+        Bering Sea
+       </a>
+       .
+       <sup class="reference" id="cite_ref-17">
+        <a href="#cite_note-17">
+         [17]
+        </a>
+       </sup>
+      </p>
+      <p>
+       The dissipation of energy by tidal friction averages about 3.75 terawatts, of which 2.5 terawatts are from the principal M
+       <sub>
+        2
+       </sub>
+       lunar component and the remainder from other components, both lunar and solar.
+       <sup class="reference" id="cite_ref-Munk1998_18-0">
+        <a href="#cite_note-Munk1998-18">
+         [18]
+        </a>
+       </sup>
+      </p>
+      <p>
+       An
+       <i>
+        equilibrium tidal bulge
+       </i>
+       does not really exist on Earth because the continents do not allow this mathematical solution to take place. Oceanic tides actually rotate around the ocean basins as vast
+       <i>
+        <a class="mw-redirect" href="/wiki/Gyre" title="Gyre">
+         gyres
+        </a>
+       </i>
+       around several
+       <i>
+        <a href="/wiki/Amphidromic_point" title="Amphidromic point">
+         amphidromic points
+        </a>
+       </i>
+       where no tide exists. The Moon pulls on each individual undulation as Earth rotates—some undulations are ahead of the Moon, others are behind it, whereas still others are on either side. The "bulges" that actually do exist for the Moon to pull on (and which pull on the Moon) are the net result of integrating the actual undulations over all the world's oceans. Earth's
+       <i>
+        net
+       </i>
+       (or
+       <i>
+        equivalent
+       </i>
+       ) equilibrium tide has an amplitude of only 3.23 cm, which is totally swamped by oceanic tides that can exceed one metre.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Historical_evidence">
+        Historical evidence
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Tidal_acceleration&amp;action=edit&amp;section=5" title="Edit section: Historical evidence">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       This mechanism has been working for 4.5 billion years, since oceans first formed on Earth. There is geological and paleontological evidence that Earth rotated faster and that the Moon was closer to Earth in the remote past.
+       <i>
+        <a class="mw-redirect" href="/wiki/Rhythmites" title="Rhythmites">
+         Tidal rhythmites
+        </a>
+       </i>
+       are alternating layers of sand and silt laid down offshore from
+       <a href="/wiki/Estuary" title="Estuary">
+        estuaries
+       </a>
+       having great tidal flows. Daily, monthly and seasonal cycles can be found in the deposits. This geological record is consistent with these conditions 620 million years ago: the day was 21.9±0.4 hours, and there were 13.1±0.1 synodic months/year and 400±7 solar days/year. The average recession rate of the Moon between then and now has been 2.17±0.31 cm/year, which is about half the present rate. The present high rate may be due to near
+       <a href="/wiki/Resonance" title="Resonance">
+        resonance
+       </a>
+       between natural ocean frequencies and tidal frequencies.
+       <sup class="reference" id="cite_ref-19">
+        <a href="#cite_note-19">
+         [19]
+        </a>
+       </sup>
+      </p>
+      <h3>
+       <span id="Quantitative_description_of_the_Earth.E2.80.93Moon_case">
+       </span>
+       <span class="mw-headline" id="Quantitative_description_of_the_Earth–Moon_case">
+        Quantitative description of the Earth–Moon case
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Tidal_acceleration&amp;action=edit&amp;section=6" title="Edit section: Quantitative description of the Earth–Moon case">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       The motion of the Moon can be followed with an accuracy of a few centimeters by
+       <a class="mw-redirect" href="/wiki/Lunar_laser_ranging" title="Lunar laser ranging">
+        lunar laser ranging
+       </a>
+       (LLR). Laser pulses are bounced off mirrors on the surface of the moon, emplaced during the
+       <a class="mw-redirect" href="/wiki/Project_Apollo" title="Project Apollo">
+        Apollo
+       </a>
+       missions of 1969 to 1972 and by
+       <a class="mw-redirect" href="/wiki/Lunokhod" title="Lunokhod">
+        Lunokhod
+       </a>
+       2 in 1973.
+       <sup class="reference" id="cite_ref-20">
+        <a href="#cite_note-20">
+         [20]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-21">
+        <a href="#cite_note-21">
+         [21]
+        </a>
+       </sup>
+       Measuring the return time of the pulse yields a very accurate measure of the distance. These measurements are fitted to the equations of motion. This yields numerical values for the Moon's secular deceleration, i.e. negative acceleration, in longitude and the rate of change of the semimajor axis of the Earth–Moon ellipse. From the period 1970–2012, the results are:
+      </p>
+      <dl>
+       <dd>
+        −25.82±0.03 arcsecond/century
+        <sup>
+         2
+        </sup>
+        in ecliptic longitude
+        <sup class="reference" id="cite_ref-DE430_22-0">
+         <a href="#cite_note-DE430-22">
+          [22]
+         </a>
+        </sup>
+       </dd>
+       <dd>
+        +38.08±0.04 mm/yr in the mean Earth–Moon distance
+        <sup class="reference" id="cite_ref-DE430_22-1">
+         <a href="#cite_note-DE430-22">
+          [22]
+         </a>
+        </sup>
+       </dd>
+      </dl>
+      <p>
+       This is consistent with results from
+       <a href="/wiki/Satellite_laser_ranging" title="Satellite laser ranging">
+        satellite laser ranging
+       </a>
+       (SLR), a similar technique applied to artificial satellites orbiting Earth, which yields a model for the gravitational field of Earth, including that of the tides. The model accurately predicts the changes in the motion of the Moon.
+      </p>
+      <p>
+       Finally, ancient observations of solar
+       <a href="/wiki/Eclipse" title="Eclipse">
+        eclipses
+       </a>
+       give fairly accurate positions for the Moon at those moments. Studies of these observations give results consistent with the value quoted above.
+       <sup class="reference" id="cite_ref-23">
+        <a href="#cite_note-23">
+         [23]
+        </a>
+       </sup>
+      </p>
+      <p>
+       The other consequence of tidal acceleration is the deceleration of the rotation of Earth. The rotation of Earth is somewhat erratic on all time scales (from hours to centuries) due to various causes.
+       <sup class="reference" id="cite_ref-24">
+        <a href="#cite_note-24">
+         [24]
+        </a>
+       </sup>
+       The small tidal effect cannot be observed in a short period, but the cumulative effect on Earth's rotation as measured with a stable clock (
+       <a href="/wiki/Ephemeris_time" title="Ephemeris time">
+        ephemeris time
+       </a>
+       ,
+       <a href="/wiki/International_Atomic_Time" title="International Atomic Time">
+        atomic time
+       </a>
+       ) of a shortfall of even a few milliseconds every day becomes readily noticeable in a few centuries. Since some event in the remote past, more days and hours have passed (as measured in full rotations of Earth) (
+       <a href="/wiki/Universal_Time" title="Universal Time">
+        Universal Time
+       </a>
+       ) than would be measured by stable clocks calibrated to the present, longer length of the day (ephemeris time). This is known as
+       <a href="/wiki/%CE%94T" title="ΔT">
+        ΔT
+       </a>
+       . Recent values can be obtained from the
+       <a href="/wiki/International_Earth_Rotation_and_Reference_Systems_Service" title="International Earth Rotation and Reference Systems Service">
+        International Earth Rotation and Reference Systems Service
+       </a>
+       (IERS).
+       <sup class="reference" id="cite_ref-25">
+        <a href="#cite_note-25">
+         [25]
+        </a>
+       </sup>
+       A table of the actual length of the day in the past few centuries is also available.
+       <sup class="reference" id="cite_ref-26">
+        <a href="#cite_note-26">
+         [26]
+        </a>
+       </sup>
+      </p>
+      <p>
+       From the observed change in the Moon's orbit, the corresponding change in the length of the day can be computed:
+      </p>
+      <dl>
+       <dd>
+        +2.3 ms/century
+       </dd>
+      </dl>
+      <p>
+       However, from historical records over the past 2700 years the following average value is found:
+      </p>
+      <dl>
+       <dd>
+        +1.70 ± 0.05 ms/century
+        <sup class="reference" id="cite_ref-27">
+         <a href="#cite_note-27">
+          [27]
+         </a>
+        </sup>
+        <sup class="reference" id="cite_ref-28">
+         <a href="#cite_note-28">
+          [28]
+         </a>
+        </sup>
+       </dd>
+      </dl>
+      <p>
+       The corresponding cumulative value is a parabola having a coefficient of T
+       <sup>
+        2
+       </sup>
+       (time in centuries squared) of:
+      </p>
+      <dl>
+       <dd>
+        ΔT = +31 s/century
+        <sup>
+         2
+        </sup>
+       </dd>
+      </dl>
+      <p>
+       Opposing the tidal deceleration of Earth is a mechanism that is in fact accelerating the rotation. Earth is not a sphere, but rather an ellipsoid that is flattened at the poles. SLR has shown that this flattening is decreasing. The explanation is that during the
+       <a href="/wiki/Ice_age" title="Ice age">
+        ice age
+       </a>
+       large masses of ice collected at the poles, and depressed the underlying rocks. The ice mass started disappearing over 10000 years ago, but Earth's crust is still not in hydrostatic equilibrium and is still rebounding (the relaxation time is estimated to be about 4000 years). As a consequence, the polar diameter of Earth increases, and the equatorial diameter decreases (Earth's volume must remain the same). This means that mass moves closer to the rotation axis of Earth, and that Earth's moment of inertia decreases. This process alone leads to an increase of the rotation rate (phenomenon of a spinning figure skater who spins ever faster as they retract their arms). From the observed change in the moment of inertia the acceleration of rotation can be computed: the average value over the historical period must have been about −0.6 ms/century. This largely explains the historical observations.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Other_cases_of_tidal_acceleration">
+        Other cases of tidal acceleration
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Tidal_acceleration&amp;action=edit&amp;section=7" title="Edit section: Other cases of tidal acceleration">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Most natural satellites of the planets undergo tidal acceleration to some degree (usually small), except for the two classes of tidally decelerated bodies. In most cases, however, the effect is small enough that even after billions of years most satellites will not actually be lost. The effect is probably most pronounced for Mars's second moon
+       <a href="/wiki/Deimos_(moon)" title="Deimos (moon)">
+        Deimos
+       </a>
+       , which may become an Earth-crossing asteroid after it leaks out of Mars's grip.
+       <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+        [
+        <i>
+         <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+          <span title="This claim needs references to reliable sources. (February 2007)">
+           citation needed
+          </span>
+         </a>
+        </i>
+        ]
+       </sup>
+       The effect also arises between different components in a
+       <a href="/wiki/Binary_star" title="Binary star">
+        binary star
+       </a>
+       .
+       <sup class="reference" id="cite_ref-29">
+        <a href="#cite_note-29">
+         [29]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Tidal_deceleration">
+        Tidal deceleration
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Tidal_acceleration&amp;action=edit&amp;section=8" title="Edit section: Tidal deceleration">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       This comes in two varieties:
+      </p>
+      <div>
+       <ol>
+        <li>
+         <i>
+          Fast satellites
+         </i>
+         : Some inner moons of the
+         <a href="/wiki/Giant_planet" title="Giant planet">
+          giant planets
+         </a>
+         and
+         <a href="/wiki/Phobos_(moon)" title="Phobos (moon)">
+          Phobos
+         </a>
+         orbit within the
+         <a href="/wiki/Synchronous_orbit" title="Synchronous orbit">
+          synchronous orbit
+         </a>
+         radius so that their orbital period is shorter than their planet's rotation. In other words, they orbit their planet faster than the planet rotates. In this case the tidal bulges raised by the moon on their planet lag behind the moon, and act to
+         <i>
+          decelerate
+         </i>
+         it in its orbit. The net effect is a decay of that moon's orbit as it gradually spirals towards the planet. The planet's rotation also speeds up slightly in the process. In the distant future these moons will strike the planet or cross within their
+         <a href="/wiki/Roche_limit" title="Roche limit">
+          Roche limit
+         </a>
+         and be tidally disrupted into fragments. However, all such moons in the Solar System are very small bodies and the tidal bulges raised by them on the planet are also small, so the effect is usually weak and the orbit decays slowly. The moons affected are:
+         <ul>
+          <li>
+           <i>
+            Around
+            <a href="/wiki/Mars" title="Mars">
+             Mars
+            </a>
+           </i>
+           :
+           <a href="/wiki/Phobos_(moon)" title="Phobos (moon)">
+            Phobos
+           </a>
+          </li>
+          <li>
+           <i>
+            Around
+            <a href="/wiki/Jupiter" title="Jupiter">
+             Jupiter
+            </a>
+           </i>
+           :
+           <a href="/wiki/Metis_(moon)" title="Metis (moon)">
+            Metis
+           </a>
+           and
+           <a href="/wiki/Adrastea_(moon)" title="Adrastea (moon)">
+            Adrastea
+           </a>
+          </li>
+          <li>
+           <i>
+            Around
+            <a href="/wiki/Saturn" title="Saturn">
+             Saturn
+            </a>
+           </i>
+           : none, except for the
+           <a class="mw-redirect" href="/wiki/Saturn%27s_rings" title="Saturn's rings">
+            ring particles
+           </a>
+           (like Jupiter, Saturn is a very rapid rotator but has no satellites close enough)
+          </li>
+          <li>
+           <i>
+            Around
+            <a href="/wiki/Uranus" title="Uranus">
+             Uranus
+            </a>
+           </i>
+           :
+           <a href="/wiki/Cordelia_(moon)" title="Cordelia (moon)">
+            Cordelia
+           </a>
+           ,
+           <a href="/wiki/Ophelia_(moon)" title="Ophelia (moon)">
+            Ophelia
+           </a>
+           ,
+           <a href="/wiki/Bianca_(moon)" title="Bianca (moon)">
+            Bianca
+           </a>
+           ,
+           <a href="/wiki/Cressida_(moon)" title="Cressida (moon)">
+            Cressida
+           </a>
+           ,
+           <a href="/wiki/Desdemona_(moon)" title="Desdemona (moon)">
+            Desdemona
+           </a>
+           ,
+           <a href="/wiki/Juliet_(moon)" title="Juliet (moon)">
+            Juliet
+           </a>
+           ,
+           <a href="/wiki/Portia_(moon)" title="Portia (moon)">
+            Portia
+           </a>
+           ,
+           <a href="/wiki/Rosalind_(moon)" title="Rosalind (moon)">
+            Rosalind
+           </a>
+           ,
+           <a href="/wiki/Cupid_(moon)" title="Cupid (moon)">
+            Cupid
+           </a>
+           ,
+           <a href="/wiki/Belinda_(moon)" title="Belinda (moon)">
+            Belinda
+           </a>
+           , and
+           <a href="/wiki/Perdita_(moon)" title="Perdita (moon)">
+            Perdita
+           </a>
+          </li>
+          <li>
+           <i>
+            Around
+            <a href="/wiki/Neptune" title="Neptune">
+             Neptune
+            </a>
+           </i>
+           :
+           <a href="/wiki/Naiad_(moon)" title="Naiad (moon)">
+            Naiad
+           </a>
+           ,
+           <a href="/wiki/Thalassa_(moon)" title="Thalassa (moon)">
+            Thalassa
+           </a>
+           ,
+           <a href="/wiki/Despina_(moon)" title="Despina (moon)">
+            Despina
+           </a>
+           ,
+           <a href="/wiki/Galatea_(moon)" title="Galatea (moon)">
+            Galatea
+           </a>
+           and
+           <a href="/wiki/Larissa_(moon)" title="Larissa (moon)">
+            Larissa
+           </a>
+          </li>
+         </ul>
+         Some hypothesize that after the Sun becomes a red giant, its surface rotation will be much slower and it will cause tidal deceleration of any remaining planets.
+         <sup class="reference" id="cite_ref-Schroeder_30-0">
+          <a href="#cite_note-Schroeder-30">
+           [30]
+          </a>
+         </sup>
+        </li>
+        <li>
+         <i>
+          Retrograde satellites
+         </i>
+         : All retrograde satellites experience tidal deceleration to some degree because their orbital motion and their planet's rotation are in opposite directions, causing restoring forces from their tidal bulges. A difference to the previous "fast satellite" case here is that the planet's rotation is also slowed down rather than sped up (angular momentum is still conserved because in such a case the values for the planet's rotation and the moon's revolution have opposite signs). The only satellite in the Solar System for which this effect is non-negligible is Neptune's moon
+         <a href="/wiki/Triton_(moon)" title="Triton (moon)">
+          Triton
+         </a>
+         . All the other retrograde satellites are on distant orbits and tidal forces between them and the planet are negligible. The planet Venus is believed to have no satellites chiefly because any hypothetical satellite would have suffered deceleration long ago, from either cause; Venus has a very slow
+         <i>
+          and
+         </i>
+         retrograde rotation.
+        </li>
+       </ol>
+      </div>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Tidal_acceleration&amp;action=edit&amp;section=9" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a href="/wiki/Tidal_locking" title="Tidal locking">
+         Tidal locking
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Tidal_force" title="Tidal force">
+         Tidal force
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Tides" title="Tides">
+         Tides
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Tidal_heating" title="Tidal heating">
+         Tidal heating
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Tidal_acceleration&amp;action=edit&amp;section=10" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist" style="list-style-type: decimal;">
+       <div class="mw-references-wrap mw-references-columns">
+        <ol class="references">
+         <li id="cite_note-1">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-1">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           E Halley (1695),
+           <a class="external text" href="https://www.jstor.org/stable/102291?seq=1#page_scan_tab_contents" rel="nofollow">
+            "Some Account of the Ancient State of the City of Palmyra, with Short Remarks upon the Inscriptions Found there"
+           </a>
+           ,
+           <i>
+            Phil. Trans.
+           </i>
+           , vol.19 (1695–1697), pages 160–175; esp. at pages 174–175. (see also transcription using a modern font
+           <a class="external text" href="https://books.google.co.uk/books?id=b-Q_AAAAYAAJ&amp;pg=PA65&amp;lpg=PA65" rel="nofollow">
+            here
+           </a>
+           )
+          </span>
+         </li>
+         <li id="cite_note-2">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-2">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Richard Dunthorne (1749),
+           <a class="external text" href="http://rstl.royalsocietypublishing.org/content/46/492/162.full.pdf" rel="nofollow">
+            "A Letter from the Rev. Mr. Richard Dunthorne to the Reverend Mr. Richard Mason F. R. S. and Keeper of the Wood-Wardian Museum at Cambridge, concerning the Acceleration of the Moon"
+           </a>
+           ,
+           <i>
+            Philosophical Transactions
+           </i>
+           , Vol. 46 (1749–1750) #492, pp.162–172; also given in Philosophical Transactions (abridgements) (1809),
+           <a class="external text" href="https://archive.org/stream/philosophicaltra09royarich#page/669/mode/2up" rel="nofollow">
+            vol.9 (for 1744–49), p669–675
+           </a>
+           as "On the Acceleration of the Moon, by the Rev. Richard Dunthorne".
+          </span>
+         </li>
+         <li id="cite_note-3">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-3">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           J de Lalande (1786):
+           <a class="external text" href="http://gallica.bnf.fr/ark:/12148/bpt6k3585j/f484.double" rel="nofollow">
+            "Sur les equations seculaires du soleil et de la lune"
+           </a>
+           , Memoires de l'Academie Royale des Sciences, pp.390–397, at page 395.
+          </span>
+         </li>
+         <li id="cite_note-4">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-4">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           J D North (2008), "Cosmos: an illustrated history of astronomy and cosmology", (University of Chicago Press, 2008), chapter 14, at
+           <a class="external text" href="https://books.google.com/books?id=qq8Luhs7rTUC&amp;pg=PA454" rel="nofollow">
+            page 454
+           </a>
+           .
+          </span>
+         </li>
+         <li id="cite_note-5">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-5">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           See also P Puiseux (1879),
+           <a class="external text" href="http://archive.numdam.org/article/ASENS_1879_2_8__361_0.pdf" rel="nofollow">
+            "Sur l'acceleration seculaire du mouvement de la Lune"
+           </a>
+           , Annales Scientifiques de l'Ecole Normale Superieure, 2nd series vol.8 (1879), pp.361–444, at pages 361–365.
+          </span>
+         </li>
+         <li id="cite_note-6">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-6">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            Britton, John (1992).
+            <i>
+             Models and Precision: The Quality of Ptolemy's Observations and Parameters
+            </i>
+            . Garland Publishing Inc. p. 157.
+            <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+             ISBN
+            </a>
+            <a href="/wiki/Special:BookSources/978-0815302155" title="Special:BookSources/978-0815302155">
+             978-0815302155
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Models+and+Precision%3A+The+Quality+of+Ptolemy%27s+Observations+and+Parameters&amp;rft.pages=157&amp;rft.pub=Garland+Publishing+Inc.&amp;rft.date=1992&amp;rft.isbn=978-0815302155&amp;rft.aulast=Britton&amp;rft.aufirst=John&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATidal+acceleration">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-7">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-7">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Adams, J C (1853).
+            <a class="external text" href="http://rstl.royalsocietypublishing.org/content/143/397.full.pdf" rel="nofollow">
+             "On the Secular Variation of the Moon's Mean Motion"
+            </a>
+            <span style="font-size:85%;">
+             (PDF)
+            </span>
+            .
+            <i>
+             Phil. Trans. R. Soc. Lond
+            </i>
+            .
+            <b>
+             143
+            </b>
+            : 397–406.
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1098%2Frstl.1853.0017" rel="nofollow">
+             10.1098/rstl.1853.0017
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Phil.+Trans.+R.+Soc.+Lond.&amp;rft.atitle=On+the+Secular+Variation+of+the+Moon%27s+Mean+Motion&amp;rft.volume=143&amp;rft.pages=397-406&amp;rft.date=1853&amp;rft_id=info%3Adoi%2F10.1098%2Frstl.1853.0017&amp;rft.aulast=Adams&amp;rft.aufirst=J+C&amp;rft_id=http%3A%2F%2Frstl.royalsocietypublishing.org%2Fcontent%2F143%2F397.full.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATidal+acceleration">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-8">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-8">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           D. E. Cartwright (2001),
+           <a class="external text" href="https://books.google.com/books?id=78bE5U7TVuIC&amp;pg=PA144" rel="nofollow">
+            "Tides: a scientific history"
+           </a>
+           , (Cambridge University Press 2001), chapter 10, section: "Lunar acceleration, earth retardation and tidal friction" at pages 144–146.
+          </span>
+         </li>
+         <li id="cite_note-9">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-9">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Khalid, M.; Sultana, M.; Zaidi, F. (2014).
+            <a class="external text" href="https://www.hindawi.com/journals/jas/2014/480964/abs" rel="nofollow">
+             "Delta: Polynomial Approximation of Time Period 1620–2013"
+            </a>
+            .
+            <i>
+             Journal of Astrophysics
+            </i>
+            .
+            <b>
+             2014
+            </b>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1155%2F2014%2F480964" rel="nofollow">
+             10.1155/2014/480964
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              3 June
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Astrophysics&amp;rft.atitle=Delta%3A+Polynomial+Approximation+of+Time+Period+1620%E2%80%932013&amp;rft.volume=2014&amp;rft.date=2014&amp;rft_id=info%3Adoi%2F10.1155%2F2014%2F480964&amp;rft.aulast=Khalid&amp;rft.aufirst=M.&amp;rft.au=Sultana%2C+M.&amp;rft.au=Zaidi%2C+F.&amp;rft_id=https%3A%2F%2Fwww.hindawi.com%2Fjournals%2Fjas%2F2014%2F480964%2Fabs&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATidal+acceleration">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-10">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-10">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           F R Stephenson (2002),
+           <a class="external text" href="http://articles.adsabs.harvard.edu/full/2003A%26G....44b..22S" rel="nofollow">
+            "Harold Jeffreys Lecture 2002: Historical eclipses and Earth's rotation"
+           </a>
+           , in
+           <i>
+            <a href="/wiki/Astronomy_%26_Geophysics" title="Astronomy &amp; Geophysics">
+             Astronomy &amp; Geophysics
+            </a>
+           </i>
+           , vol.44 (2002), pp. 2.22–2.27.
+          </span>
+         </li>
+         <li id="cite_note-11">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-11">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           :(1) In
+           <cite class="citation journal">
+            McCarthy, D D; Hackman, C; Nelson, R A (2008). "The Physical Basis of the Leap Second".
+            <i>
+             Astronomical Journal
+            </i>
+            .
+            <b>
+             136
+            </b>
+            : 1906–1908.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/2008AJ....136.1906M" rel="nofollow">
+             2008AJ....136.1906M
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1088%2F0004-6256%2F136%2F5%2F1906" rel="nofollow">
+             10.1088/0004-6256/136/5/1906
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Astronomical+Journal&amp;rft.atitle=The+Physical+Basis+of+the+Leap+Second&amp;rft.volume=136&amp;rft.pages=1906-1908&amp;rft.date=2008&amp;rft_id=info%3Adoi%2F10.1088%2F0004-6256%2F136%2F5%2F1906&amp;rft_id=info%3Abibcode%2F2008AJ....136.1906M&amp;rft.aulast=McCarthy&amp;rft.aufirst=D+D&amp;rft.au=Hackman%2C+C&amp;rft.au=Nelson%2C+R+A&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATidal+acceleration">
+            <span style="display:none;">
+            </span>
+           </span>
+           it is stated (page 1908), that "the SI second is equivalent to an older measure of the second of UT1, which was too small to start with and further, as the duration of the UT1 second increases, the discrepancy widens." :(2) In the late 1950s, the cesium standard was used to measure both the current mean length of the second of mean solar time (UT2) (result: 9192631830 cycles) and also the second of ephemeris time (ET) (result:9192631770±20 cycles), see
+           <a class="external text" href="http://www.leapsecond.com/history/1968-Metrologia-v4-n4-Essen.pdf" rel="nofollow">
+            "Time Scales", by L. Essen
+           </a>
+           , in Metrologia, vol.4 (1968), pp.161–165, on p.162. As is well known, the 9192631770 figure was chosen for the
+           <a href="/wiki/Second" title="Second">
+            SI second
+           </a>
+           . L Essen in the same 1968 article (p.162) stated that this "seemed reasonable in view of the variations in UT2".
+          </span>
+         </li>
+         <li id="cite_note-12">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-12">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.timeanddate.com/time/leapseconds.html" rel="nofollow">
+             "What's a Leap Second"
+            </a>
+            .
+            <i>
+             Timeanddate.com
+            </i>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Timeanddate.com&amp;rft.atitle=What%27s+a+Leap+Second&amp;rft_id=http%3A%2F%2Fwww.timeanddate.com%2Ftime%2Fleapseconds.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATidal+acceleration">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-13">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-13">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Munk (1997).
+            <a class="external text" href="http://www.sciencedirect.com/science/article/pii/S0079661197000219" rel="nofollow">
+             "Once again: once again—tidal friction"
+            </a>
+            .
+            <i>
+             Progress in Oceanography
+            </i>
+            .
+            <b>
+             40
+            </b>
+            : 7–35.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/1997PrOce..40....7M" rel="nofollow">
+             1997PrOce..40....7M
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1016%2FS0079-6611%2897%2900021-9" rel="nofollow">
+             10.1016/S0079-6611(97)00021-9
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Progress+in+Oceanography&amp;rft.atitle=Once+again%3A+once+again%E2%80%94tidal+friction&amp;rft.volume=40&amp;rft.pages=7-35&amp;rft.date=1997&amp;rft_id=info%3Adoi%2F10.1016%2FS0079-6611%2897%2900021-9&amp;rft_id=info%3Abibcode%2F1997PrOce..40....7M&amp;rft.au=Munk&amp;rft_id=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0079661197000219&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATidal+acceleration">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-14">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-14">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Puneet Kollipara (22 January 2014),
+           <a class="external text" href="http://www.sciencemag.org/news/2014/01/earth-wont-die-soon-thought" rel="nofollow">
+            "Earth Won't Die as Soon as Thought"
+           </a>
+           ,
+           <b>
+            Science
+           </b>
+           .
+          </span>
+         </li>
+         <li id="cite_note-15">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-15">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            Murray, C.D.; Dermott, Stanley F. (1999).
+            <i>
+             Solar System Dynamics
+            </i>
+            . Cambridge University Press. p. 184.
+            <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+             ISBN
+            </a>
+            <a href="/wiki/Special:BookSources/978-0-521-57295-8" title="Special:BookSources/978-0-521-57295-8">
+             978-0-521-57295-8
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Solar+System+Dynamics&amp;rft.pages=184&amp;rft.pub=Cambridge+University+Press&amp;rft.date=1999&amp;rft.isbn=978-0-521-57295-8&amp;rft.aulast=Murray&amp;rft.aufirst=C.D.&amp;rft.au=Dermott%2C+Stanley+F.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATidal+acceleration">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-16">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-16">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            <a href="/wiki/Terence_Dickinson" title="Terence Dickinson">
+             Dickinson, Terence
+            </a>
+            (1993).
+            <i>
+             From the Big Bang to Planet X
+            </i>
+            . Camden East, Ontario:
+            <a class="mw-redirect" href="/wiki/Camden_House" title="Camden House">
+             Camden House
+            </a>
+            . pp. 79–81.
+            <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+             ISBN
+            </a>
+            <a href="/wiki/Special:BookSources/978-0-921820-71-0" title="Special:BookSources/978-0-921820-71-0">
+             978-0-921820-71-0
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=From+the+Big+Bang+to+Planet+X&amp;rft.place=Camden+East%2C+Ontario&amp;rft.pages=79-81&amp;rft.pub=Camden+House&amp;rft.date=1993&amp;rft.isbn=978-0-921820-71-0&amp;rft.aulast=Dickinson&amp;rft.aufirst=Terence&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATidal+acceleration">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-17">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-17">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Munk, Walter (1997). "Once again: once again—tidal friction".
+            <i>
+             Progress in Oceanography
+            </i>
+            .
+            <b>
+             40
+            </b>
+            (1–4): 7–35.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/1997PrOce..40....7M" rel="nofollow">
+             1997PrOce..40....7M
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1016%2FS0079-6611%2897%2900021-9" rel="nofollow">
+             10.1016/S0079-6611(97)00021-9
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Progress+in+Oceanography&amp;rft.atitle=Once+again%3A+once+again%E2%80%94tidal+friction&amp;rft.volume=40&amp;rft.issue=1%E2%80%934&amp;rft.pages=7-35&amp;rft.date=1997&amp;rft_id=info%3Adoi%2F10.1016%2FS0079-6611%2897%2900021-9&amp;rft_id=info%3Abibcode%2F1997PrOce..40....7M&amp;rft.aulast=Munk&amp;rft.aufirst=Walter&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATidal+acceleration">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-Munk1998-18">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-Munk1998_18-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Munk, W.; Wunsch, C (1998). "Abyssal recipes II: energetics of tidal and wind mixing".
+            <i>
+             Deep-Sea Research Part I
+            </i>
+            .
+            <b>
+             45
+            </b>
+            (12): 1977–2010.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/1998DSRI...45.1977M" rel="nofollow">
+             1998DSRI...45.1977M
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1016%2FS0967-0637%2898%2900070-3" rel="nofollow">
+             10.1016/S0967-0637(98)00070-3
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Deep-Sea+Research+Part+I&amp;rft.atitle=Abyssal+recipes+II%3A+energetics+of+tidal+and+wind+mixing&amp;rft.volume=45&amp;rft.issue=12&amp;rft.pages=1977-2010&amp;rft.date=1998&amp;rft_id=info%3Adoi%2F10.1016%2FS0967-0637%2898%2900070-3&amp;rft_id=info%3Abibcode%2F1998DSRI...45.1977M&amp;rft.au=Munk%2C+W.&amp;rft.au=Wunsch%2C+C&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATidal+acceleration">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-19">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-19">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Williams, George E. (2000). "Geological constraints on the Precambrian history of Earth's rotation and the Moon's orbit".
+            <i>
+             Reviews of Geophysics
+            </i>
+            .
+            <b>
+             38
+            </b>
+            (1): 37–60.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/2000RvGeo..38...37W" rel="nofollow">
+             2000RvGeo..38...37W
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1029%2F1999RG900016" rel="nofollow">
+             10.1029/1999RG900016
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Reviews+of+Geophysics&amp;rft.atitle=Geological+constraints+on+the+Precambrian+history+of+Earth%27s+rotation+and+the+Moon%27s+orbit&amp;rft.volume=38&amp;rft.issue=1&amp;rft.pages=37-60&amp;rft.date=2000&amp;rft_id=info%3Adoi%2F10.1029%2F1999RG900016&amp;rft_id=info%3Abibcode%2F2000RvGeo..38...37W&amp;rft.aulast=Williams&amp;rft.aufirst=George+E.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATidal+acceleration">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-20">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-20">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Most laser pulses, 78%, are to the Apollo 15 site. See Williams, et al. (2008), p. 5.
+          </span>
+         </li>
+         <li id="cite_note-21">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-21">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Another reflector emplaced by Lunokhod 1 in 1970 is no longer functioning. See
+           <a class="external text" href="http://www.space.com/scienceastronomy/060327_mystery_monday.html" rel="nofollow">
+            Lunar Lost &amp; Found: The Search for Old Spacecraft by Leonard David
+           </a>
+          </span>
+         </li>
+         <li id="cite_note-DE430-22">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-DE430_22-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-DE430_22-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           J.G. Williams, D.H. Boggs and W. M.Folkner (2013).
+           <a class="external text" href="http://proba2.sidc.be/aux/data/spice/docs/DE430_Lunar_Ephemeris_and_Orientation.pdf" rel="nofollow">
+            DE430 Lunar Orbit, Physical Librations, and Surface Coordinates
+           </a>
+           p.10. "These derived values depend on a theory which is not accurate to the number of digits given." See also : Chapront, Chapront-Touzé, Francou (2002).
+           <a class="external text" href="http://www.aanda.org/articles/aa/pdf/2002/20/aa2201.pdf" rel="nofollow">
+            A new determination of lunar orbital parameters, precession constant and tidal acceleration from LLR measurements
+           </a>
+          </span>
+         </li>
+         <li id="cite_note-23">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-23">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           F.R. Stephenson, L.V. Morrison (1995): "
+           <a class="external text" href="http://rsta.royalsocietypublishing.org/content/351/1695/165.full.pdf" rel="nofollow">
+            Long-term fluctuations in the Earth's rotation: 700 BC to AD 1990
+           </a>
+           ".
+           <i>
+            Philosophical Transactions of the Royal Society of London Series A
+           </i>
+           , pp.165–202.
+           <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+            doi
+           </a>
+           :
+           <a class="external text" href="https://doi.org/10.1098%2Frsta.1995.0028" rel="nofollow">
+            10.1098/rsta.1995.0028
+           </a>
+          </span>
+         </li>
+         <li id="cite_note-24">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-24">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Jean O. Dickey (1995): "Earth Rotation Variations from Hours to Centuries". In: I. Appenzeller (ed.):
+           <i>
+            Highlights of Astronomy
+           </i>
+           . Vol. 10 pp.17..44.
+          </span>
+         </li>
+         <li id="cite_note-25">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-25">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <a class="external free" href="http://www.iers.org/nn_10910/IERS/EN/Science/EarthRotation/UT1-TAI.html" rel="nofollow">
+            http://www.iers.org/nn_10910/IERS/EN/Science/EarthRotation/UT1-TAI.html
+           </a>
+          </span>
+         </li>
+         <li id="cite_note-26">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-26">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <a class="external text" href="http://www.iers.org/iers/earth/rotation/ut1lod/table3.html" rel="nofollow">
+            LOD
+           </a>
+           <a class="external text" href="https://web.archive.org/web/20010908035636/http://www.iers.org/iers/earth/rotation/ut1lod/table3.html" rel="nofollow">
+            Archived
+           </a>
+           2001-09-08 at the
+           <a href="/wiki/Wayback_Machine" title="Wayback Machine">
+            Wayback Machine
+           </a>
+           .
+          </span>
+         </li>
+         <li id="cite_note-27">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-27">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Dickey, Jean O.; Bender, PL; Faller, JE; Newhall, XX; Ricklefs, RL; Ries, JG; Shelus, PJ; Veillet, C; et al. (1994).
+            <a class="external text" href="http://www.physics.ucsd.edu/~tmurphy/apollo/doc/Dickey.pdf" rel="nofollow">
+             "Lunar Laser ranging: a continuing legacy of the Apollo program"
+            </a>
+            <span style="font-size:85%;">
+             (PDF)
+            </span>
+            .
+            <i>
+             Science
+            </i>
+            .
+            <b>
+             265
+            </b>
+            (5171): 482–90.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/1994Sci...265..482D" rel="nofollow">
+             1994Sci...265..482D
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1126%2Fscience.265.5171.482" rel="nofollow">
+             10.1126/science.265.5171.482
+            </a>
+            .
+            <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">
+             PMID
+            </a>
+            <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/17781305" rel="nofollow">
+             17781305
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Science&amp;rft.atitle=Lunar+Laser+ranging%3A+a+continuing+legacy+of+the+Apollo+program&amp;rft.volume=265&amp;rft.issue=5171&amp;rft.pages=482-90&amp;rft.date=1994&amp;rft_id=info%3Apmid%2F17781305&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.265.5171.482&amp;rft_id=info%3Abibcode%2F1994Sci...265..482D&amp;rft.aulast=Dickey&amp;rft.aufirst=Jean+O.&amp;rft.au=Bender%2C+PL&amp;rft.au=Faller%2C+JE&amp;rft.au=Newhall%2C+XX&amp;rft.au=Ricklefs%2C+RL&amp;rft.au=Ries%2C+JG&amp;rft.au=Shelus%2C+PJ&amp;rft.au=Veillet%2C+C&amp;rft.au=Whipple%2C+AL&amp;rft.au=Wiant%2C+JR&amp;rft.au=Williams%2C+JG&amp;rft.au=Yoder%2C+CF&amp;rft_id=http%3A%2F%2Fwww.physics.ucsd.edu%2F~tmurphy%2Fapollo%2Fdoc%2FDickey.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATidal+acceleration">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-28">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-28">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           F.R. Stephenson (1997):
+           <i>
+            <a class="external text" href="https://books.google.com/books?id=DTb4DDuJNa4C" rel="nofollow">
+             Historical Eclipses and Earth's Rotation
+            </a>
+           </i>
+           . Cambridge Univ.Press.
+          </span>
+         </li>
+         <li id="cite_note-29">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-29">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Zahn, J.-P. (1977). "Tidal Friction in Close Binary Stars".
+            <i>
+             Astron. Astrophys
+            </i>
+            .
+            <b>
+             57
+            </b>
+            : 383–394.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/1977A&amp;A....57..383Z" rel="nofollow">
+             1977A&amp;A....57..383Z
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Astron.+Astrophys.&amp;rft.atitle=Tidal+Friction+in+Close+Binary+Stars&amp;rft.volume=57&amp;rft.pages=383-394&amp;rft.date=1977&amp;rft_id=info%3Abibcode%2F1977A%26A....57..383Z&amp;rft.aulast=Zahn&amp;rft.aufirst=J.-P.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATidal+acceleration">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-Schroeder-30">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-Schroeder_30-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal" id="CITEREFSchröderSmith2008">
+            Schröder, K.-P.; Smith, R.C. (2008). "Distant future of the Sun and Earth revisited".
+            <i>
+             <a href="/wiki/Monthly_Notices_of_the_Royal_Astronomical_Society" title="Monthly Notices of the Royal Astronomical Society">
+              Monthly Notices of the Royal Astronomical Society
+             </a>
+            </i>
+            .
+            <b>
+             386
+            </b>
+            (1): 155–163.
+            <a href="/wiki/ArXiv" title="ArXiv">
+             arXiv
+            </a>
+            :
+            <span class="plainlinks">
+             <a class="external text" href="//arxiv.org/abs/0801.4031" rel="nofollow">
+              0801.4031
+             </a>
+             <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/>
+            </span>
+            .
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/2008MNRAS.386..155S" rel="nofollow">
+             2008MNRAS.386..155S
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1111%2Fj.1365-2966.2008.13022.x" rel="nofollow">
+             10.1111/j.1365-2966.2008.13022.x
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Monthly+Notices+of+the+Royal+Astronomical+Society&amp;rft.atitle=Distant+future+of+the+Sun+and+Earth+revisited&amp;rft.volume=386&amp;rft.issue=1&amp;rft.pages=155-163&amp;rft.date=2008&amp;rft_id=info%3Aarxiv%2F0801.4031&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1365-2966.2008.13022.x&amp;rft_id=info%3Abibcode%2F2008MNRAS.386..155S&amp;rft.aulast=Schr%C3%B6der&amp;rft.aufirst=K.-P.&amp;rft.au=Smith%2C+R.C.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATidal+acceleration">
+            <span style="display:none;">
+            </span>
+           </span>
+           See also
+           <cite class="citation news">
+            Palmer, J. (2008).
+            <a class="external text" href="https://www.newscientist.com/article/dn13369-hope-dims-that-earth-will-survive-suns-death.html" rel="nofollow">
+             "Hope dims that Earth will survive Sun's death"
+            </a>
+            .
+            <i>
+             <a href="/wiki/New_Scientist" title="New Scientist">
+              New Scientist
+             </a>
+            </i>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              2008-03-24
+             </span>
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=New+Scientist&amp;rft.atitle=Hope+dims+that+Earth+will+survive+Sun%27s+death&amp;rft.date=2008&amp;rft.aulast=Palmer&amp;rft.aufirst=J.&amp;rft_id=https%3A%2F%2Fwww.newscientist.com%2Farticle%2Fdn13369-hope-dims-that-earth-will-survive-suns-death.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATidal+acceleration">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Tidal_acceleration&amp;action=edit&amp;section=11" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a class="external text" href="http://www.talkorigins.org/faqs/moonrec.html" rel="nofollow">
+         The Recession of the Moon and the Age of the Earth-Moon System
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://www.astro.washington.edu/users/smith/Astro150/Tutorials/TidalHeat/TidalHeat.html" rel="nofollow">
+         Tidal Heating as Described by University of Washington Professor Toby Smith
+        </a>
+       </li>
+      </ul>
+      <!-- 
+NewPP limit report
+Parsed by mw1244
+Cached time: 20180314003310
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.252 seconds
+Real time usage: 0.304 seconds
+Preprocessor visited node count: 1411/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 38941/2097152 bytes
+Template argument size: 1742/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 28525/5000000 bytes
+Lua time usage: 0.124/10.000 seconds
+Lua memory usage: 3.73 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  251.043      1 -total
+ 62.69%  157.375      1 Template:Reflist
+ 29.99%   75.300      3 Template:Citation_needed
+ 23.32%   58.555      3 Template:Fix
+ 21.32%   53.530     10 Template:Cite_journal
+ 16.83%   42.239      3 Template:Cite_book
+ 12.92%   32.444      6 Template:Category_handler
+  9.00%   22.601      3 Template:Delink
+  3.20%    8.028      1 Template:Ordered_list
+  2.80%    7.040      1 Template:Webarchive
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:30647-0!canonical and timestamp 20180314003309 and revision id 828997285
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Tidal_acceleration&amp;oldid=828997285">
+      https://en.wikipedia.org/w/index.php?title=Tidal_acceleration&amp;oldid=828997285
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Tidal_forces" title="Category:Tidal forces">
+         Tidal forces
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Geodesy" title="Category:Geodesy">
+         Geodesy
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Orbits" title="Category:Orbits">
+         Orbits
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Orbit_of_the_Moon" title="Category:Orbit of the Moon">
+         Orbit of the Moon
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">
+         Webarchive template wayback links
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">
+         All articles with unsourced statements
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_unsourced_statements_from_November_2015" title="Category:Articles with unsourced statements from November 2015">
+         Articles with unsourced statements from November 2015
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_unsourced_statements_from_March_2017" title="Category:Articles with unsourced statements from March 2017">
+         Articles with unsourced statements from March 2017
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_unsourced_statements_from_February_2007" title="Category:Articles with unsourced statements from February 2007">
+         Articles with unsourced statements from February 2007
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Tidal+acceleration" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Tidal+acceleration" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Tidal_acceleration" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Tidal_acceleration" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Tidal_acceleration">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Tidal_acceleration&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Tidal_acceleration&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Tidal_acceleration" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Tidal_acceleration" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Tidal_acceleration&amp;oldid=828997285" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Tidal_acceleration&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q2477230" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Tidal_acceleration&amp;id=828997285" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Tidal+acceleration">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Tidal+acceleration&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Tidal_acceleration&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AA%D8%B3%D8%A7%D8%B1%D8%B9_%D9%85%D8%AF%D9%8A" hreflang="ar" lang="ar" title="تسارع مدي – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be">
+        <a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%9F%D1%80%D1%8B%D0%BB%D1%96%D1%9E%D0%BD%D0%BE%D0%B5_%D0%BF%D0%B0%D1%81%D0%BA%D0%B0%D1%80%D1%8D%D0%BD%D0%BD%D0%B5" hreflang="be" lang="be" title="Прыліўное паскарэнне – Belarusian">
+         Беларуская
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bg">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D0%BB%D0%B8%D0%B2%D0%BD%D0%BE_%D1%83%D1%81%D0%BA%D0%BE%D1%80%D0%B5%D0%BD%D0%B8%D0%B5" hreflang="bg" lang="bg" title="Приливно ускорение – Bulgarian">
+         Български
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Acceleraci%C3%B3_de_marea" hreflang="ca" lang="ca" title="Acceleració de marea – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Aceleraci%C3%B3n_de_marea" hreflang="es" lang="es" title="Aceleración de marea – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eu">
+        <a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Itsasaldiaren_azelerazio" hreflang="eu" lang="eu" title="Itsasaldiaren azelerazio – Basque">
+         Euskara
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Acc%C3%A9l%C3%A9ration_par_effet_de_mar%C3%A9e" hreflang="fr" lang="fr" title="Accélération par effet de marée – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%9D_%EA%B0%80%EC%86%8D" hreflang="ko" lang="ko" title="조석 가속 – Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Accelerazione_secolare_della_Luna" hreflang="it" lang="it" title="Accelerazione secolare della Luna – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Seculiere_versnelling_van_de_maan" hreflang="nl" lang="nl" title="Seculiere versnelling van de maan – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E6%BD%AE%E6%B1%90%E5%8A%A0%E9%80%9F" hreflang="ja" lang="ja" title="潮汐加速 – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Tidevannsakselerasjon" hreflang="no" lang="no" title="Tidevannsakselerasjon – Norwegian">
+         Norsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nn">
+        <a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Tidvassakselerasjon" hreflang="nn" lang="nn" title="Tidvassakselerasjon – Norwegian Nynorsk">
+         Norsk nynorsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Acelera%C3%A7%C3%A3o_de_mar%C3%A9s" hreflang="pt" lang="pt" title="Aceleração de marés – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D0%BB%D0%B8%D0%B2%D0%BD%D0%BE%D0%B5_%D1%83%D1%81%D0%BA%D0%BE%D1%80%D0%B5%D0%BD%D0%B8%D0%B5" hreflang="ru" lang="ru" title="Приливное ускорение – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tr">
+        <a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Gelgitsel_ivme" hreflang="tr" lang="tr" title="Gelgitsel ivme – Turkish">
+         Türkçe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D0%BF%D0%BB%D0%B8%D0%B2%D0%BD%D0%B5_%D0%BF%D1%80%D0%B8%D1%81%D0%BA%D0%BE%D1%80%D0%B5%D0%BD%D0%BD%D1%8F" hreflang="uk" lang="uk" title="Припливне прискорення – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ur">
+        <a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%D8%A7%D9%81%D8%B2%D8%A7%D8%A6%D8%B4_%D9%85%D8%AF%D9%88%D8%AC%D8%B2%D8%B1%DB%8C" hreflang="ur" lang="ur" title="افزائش مدوجزری – Urdu">
+         اردو
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E6%BD%AE%E6%B1%90%E5%8A%A0%E9%80%9F" hreflang="zh" lang="zh" title="潮汐加速 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q2477230#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 6 March 2018, at 00:57.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Tidal_acceleration&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.252","walltime":"0.304","ppvisitednodes":{"value":1411,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":38941,"limit":2097152},"templateargumentsize":{"value":1742,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":28525,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  251.043      1 -total"," 62.69%  157.375      1 Template:Reflist"," 29.99%   75.300      3 Template:Citation_needed"," 23.32%   58.555      3 Template:Fix"," 21.32%   53.530     10 Template:Cite_journal"," 16.83%   42.239      3 Template:Cite_book"," 12.92%   32.444      6 Template:Category_handler","  9.00%   22.601      3 Template:Delink","  3.20%    8.028      1 Template:Ordered_list","  2.80%    7.040      1 Template:Webarchive"]},"scribunto":{"limitreport-timeusage":{"value":"0.124","limit":"10.000"},"limitreport-memusage":{"value":3910146,"limit":52428800}},"cachereport":{"origin":"mw1244","timestamp":"20180314003310","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":97,"wgHostname":"mw1265"});});
+  </script>
+ </body>
+</html>

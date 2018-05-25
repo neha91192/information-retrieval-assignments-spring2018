@@ -1,0 +1,1860 @@
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Solar maximum - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Solar_maximum","wgTitle":"Solar maximum","wgCurRevisionId":790690835,"wgRevisionId":790690835,"wgArticleId":206550,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from November 2013","Articles with unsourced statements from June 2011","Solar phenomena"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Solar_maximum","wgRelevantArticleId":206550,"wgRequestId":"WrSW-gpAIC0AAGoNa3oAAABT","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q1445154","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.26" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Solar_Cycle_Prediction.gif/1200px-Solar_Cycle_Prediction.gif" property="og:image"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Solar_maximum" rel="alternate"/>
+  <link href="/w/index.php?title=Solar_maximum&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Solar_maximum&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Solar_maximum" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Solar_maximum rootpage-Solar_maximum skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Solar maximum
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <div class="hatnote navigation-not-searchable" role="note">
+       For the spacecraft, see
+       <a href="/wiki/Solar_Maximum_Mission" title="Solar Maximum Mission">
+        Solar Maximum Mission
+       </a>
+       .
+      </div>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main article:
+       <a href="/wiki/Solar_cycle" title="Solar cycle">
+        Solar cycle
+       </a>
+      </div>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:402px;">
+        <a class="image" href="/wiki/File:Solar_Cycle_Prediction.gif">
+         <img alt="" class="thumbimage" data-file-height="1536" data-file-width="2048" height="300" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Solar_Cycle_Prediction.gif/400px-Solar_Cycle_Prediction.gif" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Solar_Cycle_Prediction.gif/600px-Solar_Cycle_Prediction.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Solar_Cycle_Prediction.gif/800px-Solar_Cycle_Prediction.gif 2x" width="400"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Solar_Cycle_Prediction.gif" title="Enlarge">
+          </a>
+         </div>
+         The current prediction for Sunspot Cycle 24 gives a smoothed sunspot number maximum of about 66 in the Summer of 2013. The smoothed sunspot number has already reached 67 (in February 2012) due to the strong peak in late 2011 so the official maximum will be at least this high. The smoothed sunspot number has been flat over the last four months. We are currently over four years into Cycle 24. The current predicted and observed size makes this the smallest sunspot cycle since Cycle 14 which had a maximum of 64.2 in February 1906.
+         <a class="external text" href="http://solarscience.msfc.nasa.gov/predict.shtml" rel="nofollow">
+          NASA
+         </a>
+        </div>
+       </div>
+      </div>
+      <p>
+       <b>
+        Solar maximum
+       </b>
+       or
+       <b>
+        solar max
+       </b>
+       is a regular period of greatest
+       <a href="/wiki/Sun" title="Sun">
+        Sun
+       </a>
+       activity during the 11-year
+       <a href="/wiki/Solar_cycle" title="Solar cycle">
+        solar cycle
+       </a>
+       . During solar maximum, large numbers of
+       <a href="/wiki/Sunspot" title="Sunspot">
+        sunspots
+       </a>
+       appear, and the
+       <a href="/wiki/Solar_irradiance" title="Solar irradiance">
+        solar irradiance
+       </a>
+       output grows by about 0.07%.
+       <sup class="reference" id="cite_ref-solar-climate_1-0">
+        <a href="#cite_note-solar-climate-1">
+         [1]
+        </a>
+       </sup>
+       The increased energy output of solar maxima can impact Earth's global
+       <a href="/wiki/Climate" title="Climate">
+        climate
+       </a>
+       , and recent studies have shown some correlation with regional weather patterns.
+       <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+        [
+        <i>
+         <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+          <span title="This claim needs references to reliable sources. (November 2013)">
+           citation needed
+          </span>
+         </a>
+        </i>
+        ]
+       </sup>
+      </p>
+      <p>
+       At solar maximum, the Sun's
+       <a href="/wiki/Magnetic_field" title="Magnetic field">
+        magnetic field
+       </a>
+       lines are the most distorted due to the magnetic field on the solar equator rotating at a slightly faster pace than at the solar poles.
+       <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+        [
+        <i>
+         <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+          <span title="This claim needs references to reliable sources. (June 2011)">
+           citation needed
+          </span>
+         </a>
+        </i>
+        ]
+       </sup>
+       On average, the
+       <a href="/wiki/Solar_cycle" title="Solar cycle">
+        solar cycle
+       </a>
+       takes about 11 years to go from one solar maximum to the next, with duration observed varying from 9 to 14 years.
+      </p>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:402px;">
+        <a class="image" href="/wiki/File:Solar-cycle-data.png">
+         <img alt="" class="thumbimage" data-file-height="466" data-file-width="700" height="266" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Solar-cycle-data.png/400px-Solar-cycle-data.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Solar-cycle-data.png/600px-Solar-cycle-data.png 1.5x, //upload.wikimedia.org/wikipedia/commons/0/0d/Solar-cycle-data.png 2x" width="400"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Solar-cycle-data.png" title="Enlarge">
+          </a>
+         </div>
+         Three recent solar cycles
+        </div>
+       </div>
+      </div>
+      <p>
+       Large
+       <a href="/wiki/Solar_flare" title="Solar flare">
+        solar flares
+       </a>
+       often occur during a maximum. For example, the
+       <a href="/wiki/Solar_storm_of_1859" title="Solar storm of 1859">
+        solar storm of 1859
+       </a>
+       struck the Earth with such intensity that the
+       <a class="mw-redirect" href="/wiki/Aurora_(astronomy)" title="Aurora (astronomy)">
+        northern lights
+       </a>
+       were visible as far from the poles as
+       <a href="/wiki/Cuba" title="Cuba">
+        Cuba
+       </a>
+       and
+       <a href="/wiki/Hawaii" title="Hawaii">
+        Hawaii
+       </a>
+       .
+       <sup class="reference" id="cite_ref-2">
+        <a href="#cite_note-2">
+         [2]
+        </a>
+       </sup>
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Predictions">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Predictions
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#Film">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Film
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-3">
+         <a href="#Grand_solar_minima_and_maxima">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           Grand solar minima and maxima
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-4">
+         <a href="#See_also">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-5">
+         <a href="#References">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Predictions">
+        Predictions
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Solar_maximum&amp;action=edit&amp;section=1" title="Edit section: Predictions">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Predictions of a future maximum's timing and strength are very difficult; predictions vary widely. There was a solar maximum in 2000. In 2006
+       <a href="/wiki/NASA" title="NASA">
+        NASA
+       </a>
+       initially expected a solar maximum in 2010 or 2011, and thought that it could be the strongest since
+       <a href="/wiki/Solar_cycle_19" title="Solar cycle 19">
+        1958
+       </a>
+       .
+       <sup class="reference" id="cite_ref-3">
+        <a href="#cite_note-3">
+         [3]
+        </a>
+       </sup>
+       However, the solar maximum was not declared to have occurred until 2014, and even then was ranked among the weakest on record.
+       <sup class="reference" id="cite_ref-solarminimax_4-0">
+        <a href="#cite_note-solarminimax-4">
+         [4]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Film">
+        Film
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Solar_maximum&amp;action=edit&amp;section=2" title="Edit section: Film">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       <a href="/wiki/IMAX" title="IMAX">
+        IMAX
+       </a>
+       <a href="/wiki/Documentary_film" title="Documentary film">
+        documentary
+       </a>
+       about solar maximum called
+       <i>
+        Solarmax
+       </i>
+       .
+       <sup class="reference" id="cite_ref-IMDB_5-0">
+        <a href="#cite_note-IMDB-5">
+         [5]
+        </a>
+       </sup>
+      </p>
+      <p>
+       <a class="external text" href="http://www.nasa.gov/mission_pages/sunearth/news/taste-solarmax.html" rel="nofollow">
+        NASA CME documentary
+       </a>
+       X class Corona Mass Ejection 2012-07-14 documentary
+      </p>
+      <h2>
+       <span class="mw-headline" id="Grand_solar_minima_and_maxima">
+        Grand solar minima and maxima
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Solar_maximum&amp;action=edit&amp;section=3" title="Edit section: Grand solar minima and maxima">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main article:
+       <a class="mw-redirect" href="/wiki/Solar_variation" title="Solar variation">
+        Solar variation
+       </a>
+      </div>
+      <p>
+       Grand solar maxima occur when several solar cycles exhibit greater than average activity for decades or centuries. Solar cycles still occur during these grand solar maximum periods but the intensity of those cycles is greater. Grand solar maxima have shown some correlation with global and regional climate changes.
+      </p>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:502px;">
+        <a class="image" href="/wiki/File:Sunspot_Numbers.png">
+         <img alt="" class="thumbimage" data-file-height="425" data-file-width="1020" height="208" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Sunspot_Numbers.png/500px-Sunspot_Numbers.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Sunspot_Numbers.png/750px-Sunspot_Numbers.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/28/Sunspot_Numbers.png/1000px-Sunspot_Numbers.png 2x" width="500"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Sunspot_Numbers.png" title="Enlarge">
+          </a>
+         </div>
+         400 year history of
+         <a href="/wiki/Wolf_number" title="Wolf number">
+          sunspot numbers
+         </a>
+         .
+        </div>
+       </div>
+      </div>
+      <table class="wikitable">
+       <caption>
+        <b>
+         Solar minimum events and approximate dates
+        </b>
+       </caption>
+       <tr>
+        <th>
+         Event
+        </th>
+        <th>
+         Start
+        </th>
+        <th>
+         End
+        </th>
+       </tr>
+       <tr>
+        <td>
+         Homeric minimum
+         <sup class="reference" id="cite_ref-SedimentStudy_6-0">
+          <a href="#cite_note-SedimentStudy-6">
+           [6]
+          </a>
+         </sup>
+        </td>
+        <td>
+         950BC
+        </td>
+        <td>
+         800BC
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Oort minimum (see
+         <a href="/wiki/Medieval_Warm_Period" title="Medieval Warm Period">
+          Medieval Warm Period
+         </a>
+         )
+        </td>
+        <td>
+         1040
+        </td>
+        <td>
+         1080
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Medieval maximum (see
+         <a href="/wiki/Medieval_Warm_Period" title="Medieval Warm Period">
+          Medieval Warm Period
+         </a>
+         )
+        </td>
+        <td>
+         1100
+        </td>
+        <td>
+         1250
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Wolf minimum
+        </td>
+        <td>
+         1280
+        </td>
+        <td>
+         1350
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Sp%C3%B6rer_Minimum" title="Spörer Minimum">
+          Spörer Minimum
+         </a>
+        </td>
+        <td>
+         1450
+        </td>
+        <td>
+         1550
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Maunder_Minimum" title="Maunder Minimum">
+          Maunder Minimum
+         </a>
+        </td>
+        <td>
+         1645
+        </td>
+        <td>
+         1715
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Dalton_Minimum" title="Dalton Minimum">
+          Dalton Minimum
+         </a>
+        </td>
+        <td>
+         1790
+        </td>
+        <td>
+         1820
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Modern_Maximum" title="Modern Maximum">
+          Modern Maximum
+         </a>
+        </td>
+        <td>
+         1900
+        </td>
+        <td>
+         present
+        </td>
+       </tr>
+      </table>
+      <p>
+       The idea of a Modern Maximum has now been thrown into question with the release of a paper at the International Astronomical Union General Assembly in August 2015.
+       <sup class="reference" id="cite_ref-7">
+        <a href="#cite_note-7">
+         [7]
+        </a>
+       </sup>
+      </p>
+      <p>
+       A list of historical Grand minima of solar activity
+       <sup class="reference" id="cite_ref-Usoskin07_8-0">
+        <a href="#cite_note-Usoskin07-8">
+         [8]
+        </a>
+       </sup>
+       includes also Grand minima ca. 690 AD, 360 BC, 770 BC, 1390 BC, 2860 BC, 3340 BC, 3500 BC, 3630 BC, 3940 BC, 4230 BC, 4330 BC, 5260 BC, 5460 BC, 5620 BC, 5710 BC, 5990 BC, 6220 BC, 6400 BC, 7040 BC, 7310 BC, 7520 BC, 8220 BC, 9170 BC.
+      </p>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Solar_maximum&amp;action=edit&amp;section=4" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a href="/wiki/Solar_wind" title="Solar wind">
+         Solar wind
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Solar_variation" title="Solar variation">
+         Solar variation
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Solar_minimum" title="Solar minimum">
+         Solar minimum
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/List_of_solar_cycles" title="List of solar cycles">
+         List of solar cycles
+        </a>
+        – table of solar cycles
+       </li>
+       <li>
+        <a href="/wiki/Solar_Maximum_Mission" title="Solar Maximum Mission">
+         Solar Maximum Mission
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Solar_maximum&amp;action=edit&amp;section=5" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist" style="list-style-type: decimal;">
+       <div class="mw-references-wrap">
+        <ol class="references">
+         <li id="cite_note-solar-climate-1">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-solar-climate_1-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            C. D. Camp &amp; K. K. Tung (2007).
+            <a class="external text" href="http://depts.washington.edu/amath/research/articles/Tung/journals/GRL-solar-07.pdf" rel="nofollow">
+             "Surface warming by the solar cycle as revealed by the composite mean difference projection"
+            </a>
+            <span style="font-size:85%;">
+             (PDF)
+            </span>
+            .
+            <i>
+             Geophysical Research Letters
+            </i>
+            .
+            <b>
+             34
+            </b>
+            : L14703.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/2007GeoRL..3414703C" rel="nofollow">
+             2007GeoRL..3414703C
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1029%2F2007GL030207" rel="nofollow">
+             10.1029/2007GL030207
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              20 January
+             </span>
+             2012
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Geophysical+Research+Letters&amp;rft.atitle=Surface+warming+by+the+solar+cycle+as+revealed+by+the+composite+mean+difference+projection&amp;rft.volume=34&amp;rft.pages=L14703&amp;rft.date=2007&amp;rft_id=info%3Adoi%2F10.1029%2F2007GL030207&amp;rft_id=info%3Abibcode%2F2007GeoRL..3414703C&amp;rft.au=C.+D.+Camp&amp;rft.au=K.+K.+Tung&amp;rft_id=http%3A%2F%2Fdepts.washington.edu%2Famath%2Fresearch%2Farticles%2FTung%2Fjournals%2FGRL-solar-07.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+maximum">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-2">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-2">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation news">
+            <a class="external text" href="http://www.bbc.co.uk/news/science-environment-22525233" rel="nofollow">
+             "Monster radiation burst from Sun"
+            </a>
+            .
+            <i>
+             <a href="/wiki/BBC_News" title="BBC News">
+              BBC News
+             </a>
+            </i>
+            . 14 May 2013
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              2015-01-06
+             </span>
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=BBC+News&amp;rft.atitle=Monster+radiation+burst+from+Sun&amp;rft.date=2013-05-14&amp;rft_id=http%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fscience-environment-22525233&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+maximum">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-3">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-3">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <a class="external text" href="https://science.nasa.gov/headlines/y2006/10mar_stormwarning.htm?list862664" rel="nofollow">
+            "Solar Storm Warning"
+           </a>
+           , Science@NASA
+           <i>
+            , 10 March 2006, Accessed 26 Mar. 2010
+           </i>
+          </span>
+         </li>
+         <li id="cite_note-solarminimax-4">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-solarminimax_4-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://science.nasa.gov/science-news/science-at-nasa/2014/10jun_solarminimax" rel="nofollow">
+             "Solar Mini-Max"
+            </a>
+            . NASA
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              2014-12-24
+             </span>
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Solar+Mini-Max&amp;rft.pub=NASA&amp;rft_id=https%3A%2F%2Fscience.nasa.gov%2Fscience-news%2Fscience-at-nasa%2F2014%2F10jun_solarminimax&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+maximum">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-IMDB-5">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-IMDB_5-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.imdb.com/title/tt0177240/" rel="nofollow">
+             "Solarmax (2000)"
+            </a>
+            .
+            <i>
+             <a class="mw-redirect" href="/wiki/IMDB" title="IMDB">
+              IMDB
+             </a>
+            </i>
+            . Seattle, WA, USA:
+            <a class="mw-redirect" href="/wiki/Amazon.com" title="Amazon.com">
+             Amazon.com, Inc.
+            </a>
+            <span class="reference-accessdate">
+             Retrieved
+             <span class="nowrap">
+              August 6,
+             </span>
+             2012
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=IMDB&amp;rft.atitle=Solarmax+%282000%29&amp;rft_id=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0177240%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+maximum">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-SedimentStudy-6">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-SedimentStudy_6-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Celia Martin-Puertas; Katja Matthes; Achim Brauer; Raimund Muscheler; et al. (April 2, 2012).
+            <a class="external text" href="http://www.nature.com/ngeo/journal/v5/n6/full/ngeo1460.html" rel="nofollow">
+             "Regional atmospheric circulation shifts induced by a grand solar minimum"
+            </a>
+            .
+            <i>
+             <a href="/wiki/Nature_Geoscience" title="Nature Geoscience">
+              Nature Geoscience
+             </a>
+            </i>
+            .
+            <b>
+             5
+            </b>
+            (6): 397–401.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/2012NatGe...5..397M" rel="nofollow">
+             2012NatGe...5..397M
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1038%2Fngeo1460" rel="nofollow">
+             10.1038/ngeo1460
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nature+Geoscience&amp;rft.atitle=Regional+atmospheric+circulation+shifts+induced+by+a+grand+solar+minimum&amp;rft.volume=5&amp;rft.issue=6&amp;rft.pages=397-401&amp;rft.date=2012-04-02&amp;rft_id=info%3Adoi%2F10.1038%2Fngeo1460&amp;rft_id=info%3Abibcode%2F2012NatGe...5..397M&amp;rft.au=Celia+Martin-Puertas&amp;rft.au=Katja+Matthes&amp;rft.au=Achim+Brauer&amp;rft.au=Raimund+Muscheler&amp;rft.au=Felicitas+Hansen&amp;rft.au=Christof+Petrick&amp;rft.au=Ala+Aldahan&amp;rft.au=G%C3%B6ran+Possnert&amp;rft.au=Bas+van+Geel&amp;rft_id=http%3A%2F%2Fwww.nature.com%2Fngeo%2Fjournal%2Fv5%2Fn6%2Ffull%2Fngeo1460.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+maximum">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-7">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-7">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.iau.org/news/pressreleases/detail/iau1508/" rel="nofollow">
+             "Corrected Sunspot History Suggests Climate Change since the Industrial Revolution not due to Natural Solar Trends"
+            </a>
+            .
+            <i>
+             Press release
+            </i>
+            . IAU. 7 Aug 2015. 1508.
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Press+release&amp;rft.atitle=Corrected+Sunspot+History+Suggests+Climate+Change+since+the+Industrial+Revolution+not+due+to+Natural+Solar+Trends&amp;rft.date=2015-08-07&amp;rft_id=http%3A%2F%2Fwww.iau.org%2Fnews%2Fpressreleases%2Fdetail%2Fiau1508%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+maximum">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-Usoskin07-8">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-Usoskin07_8-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Usoskin, Ilya G.; Solanki, Sami K.; Kovaltsov, Gennady A. (2007).
+            <a class="external text" href="http://cc.oulu.fi/~usoskin/personal/aa7704-07.pdf" rel="nofollow">
+             "Grand minima and maxima of solar activity: new observational constraints"
+            </a>
+            <span style="font-size:85%;">
+             (PDF)
+            </span>
+            .
+            <i>
+             Astron. Astrophys
+            </i>
+            .
+            <b>
+             471
+            </b>
+            (1): 301–9.
+            <a href="/wiki/ArXiv" title="ArXiv">
+             arXiv
+            </a>
+            :
+            <span class="plainlinks">
+             <a class="external text" href="//arxiv.org/abs/0706.0385" rel="nofollow">
+              0706.0385
+             </a>
+             <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/>
+            </span>
+            .
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/2007A&amp;A...471..301U" rel="nofollow">
+             2007A&amp;A...471..301U
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1051%2F0004-6361%3A20077704" rel="nofollow">
+             10.1051/0004-6361:20077704
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Astron.+Astrophys.&amp;rft.atitle=Grand+minima+and+maxima+of+solar+activity%3A+new+observational+constraints&amp;rft.volume=471&amp;rft.issue=1&amp;rft.pages=301-9&amp;rft.date=2007&amp;rft_id=info%3Aarxiv%2F0706.0385&amp;rft_id=info%3Adoi%2F10.1051%2F0004-6361%3A20077704&amp;rft_id=info%3Abibcode%2F2007A%26A...471..301U&amp;rft.aulast=Usoskin&amp;rft.aufirst=Ilya+G.&amp;rft.au=Solanki%2C+Sami+K.&amp;rft.au=Kovaltsov%2C+Gennady+A.&amp;rft_id=http%3A%2F%2Fcc.oulu.fi%2F~usoskin%2Fpersonal%2Faa7704-07.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+maximum">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <div aria-labelledby="The_Sun" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="3" scope="col" style="text-align: center;">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:The_Sun" title="Template:The Sun">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a href="/wiki/Template_talk:The_Sun" title="Template talk:The Sun">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:The_Sun&amp;action=edit">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="The_Sun" style="font-size:114%;margin:0 4em">
+           <a href="/wiki/Sun" title="Sun">
+            The Sun
+           </a>
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Standard_solar_model" title="Standard solar model">
+           Internal structure
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Solar_core" title="Solar core">
+              Core
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Radiation_zone" title="Radiation zone">
+              Radiation zone
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tachocline" title="Tachocline">
+              Tachocline
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Convection_zone" title="Convection zone">
+              Convection zone
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+         <td class="navbox-image" rowspan="5" style="width:1px;padding:0px 0px 0px 2px">
+          <div>
+           <div class="floatright">
+            <a class="image" href="/wiki/File:Sun_in_February.jpg">
+             <img alt="Sun in February.jpg" class="thumbborder" data-file-height="2632" data-file-width="2632" height="155" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Sun_in_February.jpg/155px-Sun_in_February.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Sun_in_February.jpg/233px-Sun_in_February.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Sun_in_February.jpg/310px-Sun_in_February.jpg 2x" width="155"/>
+            </a>
+           </div>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Stellar_atmosphere" title="Stellar atmosphere">
+           Atmosphere
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+          </div>
+          <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%;text-align: center;">
+             <a href="/wiki/Photosphere" title="Photosphere">
+              Photosphere
+             </a>
+            </th>
+            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Supergranulation" title="Supergranulation">
+                 Supergranulation
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Granule_(solar_physics)" title="Granule (solar physics)">
+                 Granule
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Facula" title="Facula">
+                 Faculae
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Sunspot" title="Sunspot">
+                 Sunspot
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%;text-align: center;">
+             <a href="/wiki/Chromosphere" title="Chromosphere">
+              Chromosphere
+             </a>
+            </th>
+            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Plage_(astronomy)" title="Plage (astronomy)">
+                 Plage
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Spicule_(solar_physics)" title="Spicule (solar physics)">
+                 Spicule
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Moreton_wave" title="Moreton wave">
+                 Moreton wave
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%;text-align: center;">
+             <a href="/wiki/Corona" title="Corona">
+              Corona
+             </a>
+            </th>
+            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Solar_transition_region" title="Solar transition region">
+                 Transition region
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Coronal_hole" title="Coronal hole">
+                 Coronal hole
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Coronal_loop" title="Coronal loop">
+                 Coronal loop
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Coronal_mass_ejection" title="Coronal mass ejection">
+                 Coronal mass ejection
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Solar_prominence" title="Solar prominence">
+                 Prominence
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Helmet_streamer" title="Helmet streamer">
+                 Helmet streamer
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Supra-arcade_downflows" title="Supra-arcade downflows">
+                 Supra-arcade downflows
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a class="mw-redirect" href="/wiki/Solar_variation" title="Solar variation">
+           Variation
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Solar_cycle" title="Solar cycle">
+              Solar cycle
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/List_of_solar_cycles" title="List of solar cycles">
+                List of solar cycles
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a class="mw-selflink selflink">
+              Solar maximum
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_minimum" title="Solar minimum">
+              Solar minimum
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Wolf_number" title="Wolf number">
+              Wolf number
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_wind" title="Solar wind">
+              Solar wind
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_flare" title="Solar flare">
+              Flare
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Helioseismology" title="Helioseismology">
+              Helioseismology
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Heliosphere" title="Heliosphere">
+           Heliosphere
+          </a>
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Heliospheric_current_sheet" title="Heliospheric current sheet">
+              Current sheet
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Heliosphere#Termination_shock" title="Heliosphere">
+              Termination shock
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Heliosphere#Heliosheath" title="Heliosphere">
+              Heliosheath
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Heliosphere#Heliopause" title="Heliosphere">
+              Heliopause
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Bow_shock" title="Bow shock">
+              Bow shock
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          Related topics
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Heliophysics" title="Heliophysics">
+              Heliophysics
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Solar_activity" title="Solar activity">
+              Solar activity
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Solar_astronomy" title="Solar astronomy">
+              Solar astronomy
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_dynamo" title="Solar dynamo">
+              Solar dynamo
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_eclipse" title="Solar eclipse">
+              Eclipse
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_energy" title="Solar energy">
+              Solar energy
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_neutrino" title="Solar neutrino">
+              Solar neutrino
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_observation" title="Solar observation">
+              Solar observation
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_phenomena" title="Solar phenomena">
+              Solar phenomena
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_physics" title="Solar physics">
+              Solar physics
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_System" title="Solar System">
+              Solar System
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_telescope" title="Solar telescope">
+              Solar telescope
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_time" title="Solar time">
+              Solar time
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Space_weather" title="Space weather">
+              Space weather
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Standard_solar_model" title="Standard solar model">
+              Standard solar model
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Sunlight" title="Sunlight">
+              Radiation
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <td class="navbox-abovebelow" colspan="3" style="text-align: center;">
+          <div>
+           <ul>
+            <li>
+             <a href="/wiki/Stellar_classification" title="Stellar classification">
+              Spectral class
+             </a>
+             :
+             <a href="/wiki/G-type_main-sequence_star" title="G-type main-sequence star">
+              G2V
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1243
+Cached time: 20180303195511
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.168 seconds
+Real time usage: 0.220 seconds
+Preprocessor visited node count: 775/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 35095/2097152 bytes
+Template argument size: 1033/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 2/500
+Lua time usage: 0.079/10.000 seconds
+Lua memory usage: 3.57 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  174.419      1 -total
+ 44.56%   77.713      1 Template:Reflist
+ 27.85%   48.578      2 Template:Citation_needed
+ 24.48%   42.706      2 Template:Fix
+ 23.92%   41.727      3 Template:Cite_journal
+ 13.97%   24.364      4 Template:Category_handler
+ 12.23%   21.325      1 Template:For
+  9.44%   16.467      2 Template:Navbox
+  9.38%   16.355      1 Template:The_Sun
+  8.75%   15.262      2 Template:Delink
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:206550-0!canonical and timestamp 20180303195511 and revision id 790690835
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Solar_maximum&amp;oldid=790690835">
+      https://en.wikipedia.org/w/index.php?title=Solar_maximum&amp;oldid=790690835
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Solar_phenomena" title="Category:Solar phenomena">
+         Solar phenomena
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">
+         All articles with unsourced statements
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_unsourced_statements_from_November_2013" title="Category:Articles with unsourced statements from November 2013">
+         Articles with unsourced statements from November 2013
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_unsourced_statements_from_June_2011" title="Category:Articles with unsourced statements from June 2011">
+         Articles with unsourced statements from June 2011
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Solar+maximum" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Solar+maximum" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Solar_maximum" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Solar_maximum" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Solar_maximum">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Solar_maximum&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Solar_maximum&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Solar_maximum" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Solar_maximum" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Solar_maximum&amp;oldid=790690835" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Solar_maximum&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1445154" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Solar_maximum&amp;id=790690835" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Solar+maximum">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Solar+maximum&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Solar_maximum&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%B0%D8%B1%D9%88%D8%A9_%D8%B4%D9%85%D8%B3%D9%8A%D8%A9" hreflang="ar" lang="ar" title="ذروة شمسية – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/M%C3%A0xim_solar" hreflang="ca" lang="ca" title="Màxim solar – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/M%C3%A1ximo_solar" hreflang="es" lang="es" title="Máximo solar – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%ED%83%9C%EC%96%91_%EA%B7%B9%EB%8C%80%EA%B8%B0" hreflang="ko" lang="ko" title="태양 극대기 – Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Massimo_solare" hreflang="it" lang="it" title="Massimo solare – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Zonnemaximum" hreflang="nl" lang="nl" title="Zonnemaximum – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%A4%AA%E9%99%BD%E6%A5%B5%E5%A4%A7%E6%9C%9F" hreflang="ja" lang="ja" title="太陽極大期 – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Solmaksimum" hreflang="no" lang="no" title="Solmaksimum – Norwegian">
+         Norsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/M%C3%A1ximo_solar" hreflang="pt" lang="pt" title="Máximo solar – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ro">
+        <a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Maximum_solar" hreflang="ro" lang="ro" title="Maximum solar – Romanian">
+         Română
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D1%8B%D0%B9_%D0%BC%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%D1%83%D0%BC" hreflang="ru" lang="ru" title="Солнечный максимум – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-th">
+        <a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B9%82%E0%B8%8B%E0%B8%A5%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B9%87%E0%B8%81%E0%B8%8B%E0%B8%B4%E0%B8%A1%E0%B8%B1%E0%B8%A1" hreflang="th" lang="th" title="โซลาร์แม็กซิมัม – Thai">
+         ไทย
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BD%D1%8F%D1%87%D0%BD%D0%B8%D0%B9_%D0%BC%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%D1%83%D0%BC" hreflang="uk" lang="uk" title="Сонячний максимум – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%A4%AA%E9%99%BD%E6%A5%B5%E5%A4%A7%E6%9C%9F" hreflang="zh" lang="zh" title="太陽極大期 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1445154#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 15 July 2017, at 12:39.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Solar_maximum&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.168","walltime":"0.220","ppvisitednodes":{"value":775,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":35095,"limit":2097152},"templateargumentsize":{"value":1033,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  174.419      1 -total"," 44.56%   77.713      1 Template:Reflist"," 27.85%   48.578      2 Template:Citation_needed"," 24.48%   42.706      2 Template:Fix"," 23.92%   41.727      3 Template:Cite_journal"," 13.97%   24.364      4 Template:Category_handler"," 12.23%   21.325      1 Template:For","  9.44%   16.467      2 Template:Navbox","  9.38%   16.355      1 Template:The_Sun","  8.75%   15.262      2 Template:Delink"]},"scribunto":{"limitreport-timeusage":{"value":"0.079","limit":"10.000"},"limitreport-memusage":{"value":3745518,"limit":52428800}},"cachereport":{"origin":"mw1243","timestamp":"20180303195511","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":100,"wgHostname":"mw1324"});});
+  </script>
+ </body>
+</html>

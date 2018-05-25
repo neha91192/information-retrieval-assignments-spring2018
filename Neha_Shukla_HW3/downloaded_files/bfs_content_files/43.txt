@@ -1,0 +1,1422 @@
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Perihelion and aphelion - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Perihelion_and_aphelion","wgTitle":"Perihelion and aphelion","wgCurRevisionId":831253900,"wgRevisionId":831253900,"wgArticleId":24659,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using citations with format and no URL","Articles to be merged from January 2018","All articles to be merged","Orbits","Stars","Planets","Minor planets","Comets"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Perihelion_and_aphelion","wgRelevantArticleId":24659,"wgRequestId":"Wq-wVwpAME8AAK4WeeQAAAAV","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Perihelion","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Perihelion_and_aphelion","wgWikibaseItemId":"Q35660603","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.25" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Perihelion-Aphelion.svg/1200px-Perihelion-Aphelion.svg.png" property="og:image"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Perihelion_and_aphelion" rel="alternate"/>
+  <link href="/w/index.php?title=Perihelion_and_aphelion&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Perihelion_and_aphelion&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Perihelion_and_aphelion" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Perihelion_and_aphelion rootpage-Perihelion_and_aphelion skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Perihelion and aphelion
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+     <span class="mw-redirectedfrom">
+      (Redirected from
+      <a class="mw-redirect" href="/w/index.php?title=Perihelion&amp;redirect=no" title="Perihelion">
+       Perihelion
+      </a>
+      )
+     </span>
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <table class="plainlinks metadata ambox ambox-move" role="presentation">
+       <tr>
+        <td class="mbox-image">
+         <div style="width:52px">
+          <img alt="" data-file-height="20" data-file-width="50" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Merge-arrow.svg/50px-Merge-arrow.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Merge-arrow.svg/75px-Merge-arrow.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Merge-arrow.svg/100px-Merge-arrow.svg.png 2x" width="50"/>
+         </div>
+        </td>
+        <td class="mbox-text">
+         <div class="mbox-text-span">
+          It has been suggested that this article be
+          <a href="/wiki/Wikipedia:Merging" title="Wikipedia:Merging">
+           merged
+          </a>
+          into
+          <i>
+           <a href="/wiki/Apsis" title="Apsis">
+            Apsis
+           </a>
+          </i>
+          . (
+          <a href="/wiki/Talk:Apsis#Proposed_merger_January_2018" title="Talk:Apsis">
+           Discuss
+          </a>
+          )
+          <small>
+           <i>
+            Proposed since January 2018.
+           </i>
+          </small>
+         </div>
+        </td>
+       </tr>
+      </table>
+      <div class="hatnote navigation-not-searchable" role="note">
+       This article is about astronomy. For the image analysis software suite, see
+       <a href="/wiki/Aphelion_(software)" title="Aphelion (software)">
+        Aphelion (software)
+       </a>
+       . For other uses, see
+       <a class="mw-disambig" href="/wiki/Aphelion_(disambiguation)" title="Aphelion (disambiguation)">
+        Aphelion (disambiguation)
+       </a>
+       . For a more general treatment of the subject, see
+       <a href="/wiki/Apsis" title="Apsis">
+        Apsis
+       </a>
+       .
+      </div>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:252px;">
+        <a class="image" href="/wiki/File:Perihelion-Aphelion.svg">
+         <img alt="" class="thumbimage" data-file-height="428" data-file-width="486" height="220" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Perihelion-Aphelion.svg/250px-Perihelion-Aphelion.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Perihelion-Aphelion.svg/375px-Perihelion-Aphelion.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/94/Perihelion-Aphelion.svg/500px-Perihelion-Aphelion.svg.png 2x" width="250"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Perihelion-Aphelion.svg" title="Enlarge">
+          </a>
+         </div>
+         The perihelion and aphelion are the nearest and farthest points (
+         <a class="mw-redirect" href="/wiki/Apsides" title="Apsides">
+          apsides
+         </a>
+         ) of a body's direct
+         <a href="/wiki/Orbit" title="Orbit">
+          orbit
+         </a>
+         around the
+         <a href="/wiki/Sun" title="Sun">
+          Sun
+         </a>
+         .
+        </div>
+       </div>
+      </div>
+      <p>
+       The
+       <b>
+        perihelion
+       </b>
+       (
+       <span class="nowrap">
+        <span class="IPA nopopups noexcerpt">
+         <a href="/wiki/Help:IPA/English" title="Help:IPA/English">
+          /
+          <span style="border-bottom:1px dotted">
+           <span title="/ˌ/: secondary stress follows">
+            ˌ
+           </span>
+           <span title="'p' in 'pie'">
+            p
+           </span>
+           <span title="/ɛr/: 'err' in 'merry'">
+            ɛr
+           </span>
+           <span title="/ɪ/: 'i' in 'kit'">
+            ɪ
+           </span>
+           <span title="/ˈ/: primary stress follows">
+            ˈ
+           </span>
+           <span title="'h' in 'hi'">
+            h
+           </span>
+           <span title="/iː/: 'ee' in 'fleece'">
+            iː
+           </span>
+           <span title="'l' in 'lie'">
+            l
+           </span>
+           <span title="/i/: 'y' in 'happy'">
+            i
+           </span>
+           <span title="/ə/: 'a' in 'about'">
+            ə
+           </span>
+           <span title="'n' in 'nigh'">
+            n
+           </span>
+          </span>
+          /
+         </a>
+        </span>
+       </span>
+       ) of any
+       <a href="/wiki/Orbit" title="Orbit">
+        orbit
+       </a>
+       of a
+       <a class="mw-redirect" href="/wiki/Celestial_body" title="Celestial body">
+        celestial body
+       </a>
+       about the
+       <a href="/wiki/Sun" title="Sun">
+        Sun
+       </a>
+       is the point where the body comes nearest to the Sun. It is the opposite of
+       <b>
+        aphelion
+       </b>
+       (
+       <span class="nowrap">
+        <span class="IPA nopopups noexcerpt">
+         <a href="/wiki/Help:IPA/English" title="Help:IPA/English">
+          /
+          <span style="border-bottom:1px dotted">
+           <span title="/æ/: 'a' in 'bad'">
+            æ
+           </span>
+           <span title="'p' in 'pie'">
+            p
+           </span>
+           <span title="/ˈ/: primary stress follows">
+            ˈ
+           </span>
+           <span title="'h' in 'hi'">
+            h
+           </span>
+           <span title="/iː/: 'ee' in 'fleece'">
+            iː
+           </span>
+           <span title="'l' in 'lie'">
+            l
+           </span>
+           <span title="/i/: 'y' in 'happy'">
+            i
+           </span>
+           <span title="/ə/: 'a' in 'about'">
+            ə
+           </span>
+           <span title="'n' in 'nigh'">
+            n
+           </span>
+          </span>
+          /
+         </a>
+        </span>
+       </span>
+       ), which is the point in the orbit where the celestial body is farthest from the Sun.
+       <sup class="reference" id="cite_ref-1">
+        <a href="#cite_note-1">
+         [1]
+        </a>
+       </sup>
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Etymology">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Etymology
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#Astronomical_meaning">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Astronomical meaning
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-3">
+         <a href="#Application_to_Earth">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           Application to Earth
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-4">
+         <a href="#See_also">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-5">
+         <a href="#References">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-6">
+         <a href="#External_links">
+          <span class="tocnumber">
+           6
+          </span>
+          <span class="toctext">
+           External links
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Etymology">
+        Etymology
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Perihelion_and_aphelion&amp;action=edit&amp;section=1" title="Edit section: Etymology">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       The words perihelion and aphelion were coined by
+       <a href="/wiki/Johannes_Kepler" title="Johannes Kepler">
+        Johannes Kepler
+       </a>
+       <sup class="reference" id="cite_ref-2">
+        <a href="#cite_note-2">
+         [2]
+        </a>
+       </sup>
+       to describe the orbital motion of the planets. The words are formed from the prefixes
+       <i>
+        peri-
+       </i>
+       (Greek:
+       <i>
+        περί
+       </i>
+       , near) and
+       <i>
+        apo-
+       </i>
+       (Greek:
+       <i>
+        ἀπό
+       </i>
+       , away from) affixed to the Greek word for the sun, ἥλιος.
+       <sup class="reference" id="cite_ref-3">
+        <a href="#cite_note-3">
+         [3]
+        </a>
+       </sup>
+      </p>
+      <p>
+       Perihelion and aphelion are sometimes incorrectly used for the orbits of objects about bodies other than the
+       <a href="/wiki/Sun" title="Sun">
+        Sun
+       </a>
+       . The correct terms are:
+      </p>
+      <ul>
+       <li>
+        For orbits around the
+        <a href="/wiki/Earth" title="Earth">
+         Earth
+        </a>
+        :
+        <a class="mw-redirect" href="/wiki/Perigee" title="Perigee">
+         perigee
+        </a>
+        and
+        <a class="mw-redirect" href="/wiki/Apogee" title="Apogee">
+         apogee
+        </a>
+        .
+       </li>
+       <li>
+        For orbits around a star: periastron and apastron.
+       </li>
+       <li>
+        For orbits around any center of mass: periapsis (or pericenter) and apoapsis (or apocenter).
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="Astronomical_meaning">
+        Astronomical meaning
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Perihelion_and_aphelion&amp;action=edit&amp;section=2" title="Edit section: Astronomical meaning">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       According to
+       <a href="/wiki/Kepler%27s_laws_of_planetary_motion#First_law" title="Kepler's laws of planetary motion">
+        Kepler's first law of planetary motion
+       </a>
+       , all planets, comets, and asteroids in the
+       <a href="/wiki/Solar_System" title="Solar System">
+        Solar System
+       </a>
+       have approximately
+       <a href="/wiki/Ellipse" title="Ellipse">
+        elliptical
+       </a>
+       orbits around the Sun.
+       <sup class="reference" id="cite_ref-wsu_4-0">
+        <a href="#cite_note-wsu-4">
+         [4]
+        </a>
+       </sup>
+       It is only approximate because of
+       <a href="/wiki/Perturbation_(astronomy)" title="Perturbation (astronomy)">
+        perturbations
+       </a>
+       due to the gravity of other bodies. Every ellipse has two focus points, and the Sun is at one of these focus points for the elliptical orbits of its satellites. Hence, an orbiting body has a closest and a farthest point from its parent object, that is, a perihelion and an aphelion. Each extreme is known as an
+       <a href="/wiki/Apsis" title="Apsis">
+        apsis
+       </a>
+       .
+      </p>
+      <p>
+       <a href="/wiki/Orbital_eccentricity" title="Orbital eccentricity">
+        Orbital eccentricity
+       </a>
+       measures the flatness (departure from a perfect
+       <a href="/wiki/Circle" title="Circle">
+        circle
+       </a>
+       ) of the
+       <a href="/wiki/Orbit" title="Orbit">
+        orbit
+       </a>
+       .
+      </p>
+      <h2>
+       <span class="mw-headline" id="Application_to_Earth">
+        Application to Earth
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Perihelion_and_aphelion&amp;action=edit&amp;section=3" title="Edit section: Application to Earth">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main article:
+       <a href="/wiki/Apsis#Perihelion_and_aphelion_of_the_Earth" title="Apsis">
+        Apsis § Perihelion and aphelion of the Earth
+       </a>
+      </div>
+      <p>
+       <a href="/wiki/Earth" title="Earth">
+        Earth
+       </a>
+       is about 147.1 million kilometers (91.4 million miles) from the Sun at perihelion around January 3, in contrast to about 152.1 million kilometers (94.5 million miles) at aphelion around July 4 — a difference of about 5.0 million kilometers (3.1 million miles). (These dates change over time due to precession and other orbital factors, which follow cyclical patterns known as
+       <a href="/wiki/Milankovitch_cycles" title="Milankovitch cycles">
+        Milankovitch cycles
+       </a>
+       . For a table of these dates for various years, see
+       <a href="/wiki/Apsis#Perihelion_and_aphelion_of_the_Earth" title="Apsis">
+        Apsis
+       </a>
+       .)
+      </p>
+      <p>
+       Because of the increased distance at aphelion, only 93.55% of the solar radiation from the Sun falls on a given area of land as does at perihelion. However, this fluctuation does not account for the
+       <a class="mw-redirect" href="/wiki/Seasons" title="Seasons">
+        seasons
+       </a>
+       ,
+       <sup class="reference" id="cite_ref-5">
+        <a href="#cite_note-5">
+         [5]
+        </a>
+       </sup>
+       as it is
+       <a href="/wiki/Summer" title="Summer">
+        summer
+       </a>
+       in the northern hemisphere when it is
+       <a href="/wiki/Winter" title="Winter">
+        winter
+       </a>
+       in the southern hemisphere and
+       <i>
+        vice versa.
+       </i>
+       Instead, seasons result from the
+       <a href="/wiki/Axial_tilt" title="Axial tilt">
+        tilt of Earth's axis
+       </a>
+       , which is 23.4 degrees away from perpendicular to the plane of Earth's orbit around the sun. Winter falls on the hemisphere where sunlight strikes least directly, and summer falls where sunlight strikes most directly, regardless of the Earth's distance from the Sun.
+      </p>
+      <p>
+       In the northern hemisphere, summer occurs at the same time as aphelion. Despite this, there are larger land masses in the northern hemisphere, which are easier to heat than the seas. Consequently, summers are 2.3 °C (4 °F) warmer in the northern hemisphere than in the southern hemisphere under similar conditions.
+       <sup class="reference" id="cite_ref-Earth_at_Aphelion_6-0">
+        <a href="#cite_note-Earth_at_Aphelion-6">
+         [6]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Perihelion_and_aphelion&amp;action=edit&amp;section=4" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+       <ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+        <li style="display:table-row">
+         <span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center">
+          <img alt="" class="noviewer" data-file-height="3864" data-file-width="3864" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Crab_Nebula.jpg/28px-Crab_Nebula.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Crab_Nebula.jpg/42px-Crab_Nebula.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/00/Crab_Nebula.jpg/56px-Crab_Nebula.jpg 2x" width="28"/>
+         </span>
+         <span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle">
+          <a href="/wiki/Portal:Astronomy" title="Portal:Astronomy">
+           Astronomy portal
+          </a>
+         </span>
+        </li>
+        <li style="display:table-row">
+         <span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center">
+          <img alt="" class="noviewer" data-file-height="5600" data-file-width="4500" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Solar_system.jpg/22px-Solar_system.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Solar_system.jpg/34px-Solar_system.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Solar_system.jpg/45px-Solar_system.jpg 2x" width="22"/>
+         </span>
+         <span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle">
+          <a href="/wiki/Portal:Solar_System" title="Portal:Solar System">
+           Solar System portal
+          </a>
+         </span>
+        </li>
+       </ul>
+      </div>
+      <ul>
+       <li>
+        <a href="/wiki/Apsis" title="Apsis">
+         Apsis
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Ellipse" title="Ellipse">
+         Ellipse
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Solstice" title="Solstice">
+         Solstice
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Perihelion_and_aphelion&amp;action=edit&amp;section=5" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist" style="list-style-type: decimal;">
+       <div class="mw-references-wrap">
+        <ol class="references">
+         <li id="cite_note-1">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-1">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            Walker, Peter, ed. (1988).
+            <i>
+             Cambridge Dictionary of Science and Technology
+            </i>
+            <span style="font-size:85%;">
+             (Hardback)
+            </span>
+            <span class="error citation-comment" style="display:none;font-size:100%">
+             <code style="color:inherit; border:inherit; padding:inherit;">
+              |format=
+             </code>
+             requires
+             <code style="color:inherit; border:inherit; padding:inherit;">
+              |url=
+             </code>
+             (
+             <a href="/wiki/Help:CS1_errors#format_missing_url" title="Help:CS1 errors">
+              help
+             </a>
+             )
+            </span>
+            . Cambridge, England: Cambridge University Press. pp. 44, 660.
+            <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+             ISBN
+            </a>
+            <a href="/wiki/Special:BookSources/0-521-39441-4" title="Special:BookSources/0-521-39441-4">
+             0-521-39441-4
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Cambridge+Dictionary+of+Science+and+Technology&amp;rft.place=Cambridge%2C+England&amp;rft.pages=44%2C+660&amp;rft.pub=Cambridge+University+Press&amp;rft.date=1988&amp;rft.isbn=0-521-39441-4&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APerihelion+and+aphelion">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-2">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-2">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Klein, Ernest,
+           <i>
+            A Comprehensive Etymological Dictionary of the English Language
+           </i>
+           , Elsevier, Amsterdam, 1965. (
+           <a class="external text" href="https://archive.org/stream/AComprehensiveEtymologicalDictionaryOfTheEnglishLanguageByErnestKlein/A%20Comprehensive%20Etymological%20Dictionary%20of%20the%20English%20Language%20by%20Ernest%20Klein_djvu.txt" rel="nofollow">
+            Archived version
+           </a>
+           )
+          </span>
+         </li>
+         <li id="cite_note-3">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-3">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Since the Sun, Ἥλιος in Greek, begins with a vowel, H is the long e vowel in Greek, the final o in "apo" is omitted from the prefix. The pronunciation "Ap-helion" is given in many dictionaries
+           <a class="external autonumber" href="https://www.oxforddictionaries.com/definition/english/aphelion" rel="nofollow">
+            [1]
+           </a>
+           , pronouncing the "p" and "h" in separate syllables. However, the pronunciation
+           <span class="nowrap">
+            <span class="IPA nopopups noexcerpt">
+             <a href="/wiki/Help:IPA/English" title="Help:IPA/English">
+              /
+              <span style="border-bottom:1px dotted">
+               <span title="/ə/: 'a' in 'about'">
+                ə
+               </span>
+               <span title="/ˈ/: primary stress follows">
+                ˈ
+               </span>
+               <span title="'f' in 'find'">
+                f
+               </span>
+               <span title="/iː/: 'ee' in 'fleece'">
+                iː
+               </span>
+               <span title="'l' in 'lie'">
+                l
+               </span>
+               <span title="/i/: 'y' in 'happy'">
+                i
+               </span>
+               <span title="/ə/: 'a' in 'about'">
+                ə
+               </span>
+               <span title="'n' in 'nigh'">
+                n
+               </span>
+              </span>
+              /
+             </a>
+            </span>
+           </span>
+           <a class="external autonumber" href="http://www.dictionary.com/browse/aphelion" rel="nofollow">
+            [2]
+           </a>
+           is also common (
+           <i>
+            e.g.,
+           </i>
+           <i>
+            McGraw Hill Dictionary of Scientific and Technical Terms,
+           </i>
+           5th edition, 1994, p. 114), since in late Greek, 'p' from ἀπό followed by the 'h' from ἥλιος becomes phi; thus, the Greek word is αφήλιον. (see, for example, Walker, John,
+           <i>
+            A Key to the Classical Pronunciation of Greek, Latin, and Scripture Proper Names
+           </i>
+           , Townsend Young 1859
+           <a class="external autonumber" href="https://play.google.com/store/books/details?id=LuF-9HKGbl4C&amp;rdid=book-LuF-9HKGbl4C&amp;rdot=1" rel="nofollow">
+            [3]
+           </a>
+           , page 26.) Many
+           <a class="external autonumber" href="https://www.merriam-webster.com/dictionary/aphelion" rel="nofollow">
+            [4]
+           </a>
+           dictionaries give both pronunciations
+          </span>
+         </li>
+         <li id="cite_note-wsu-4">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-wsu_4-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://astro.wsu.edu/worthey/astro/html/lec-ellipse.html" rel="nofollow">
+             "Introductory Astronomy: Ellipses"
+            </a>
+            .
+            <a href="/wiki/Washington_State_University" title="Washington State University">
+             Washington State University
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Introductory+Astronomy%3A+Ellipses&amp;rft.pub=Washington+State+University&amp;rft_id=http%3A%2F%2Fastro.wsu.edu%2Fworthey%2Fastro%2Fhtml%2Flec-ellipse.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APerihelion+and+aphelion">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-5">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-5">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.nasa.gov/audience/foreducators/postsecondary/features/F_Planet_Seasons.html" rel="nofollow">
+             "Solar System Exploration: Science &amp; Technology: Science Features: Weather, Weather, Everywhere?"
+            </a>
+            .
+            <a href="/wiki/NASA" title="NASA">
+             NASA
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              2015-09-19
+             </span>
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Solar+System+Exploration%3A+Science+%26+Technology%3A+Science+Features%3A+Weather%2C+Weather%2C+Everywhere%3F&amp;rft.pub=NASA&amp;rft_id=http%3A%2F%2Fwww.nasa.gov%2Faudience%2Fforeducators%2Fpostsecondary%2Ffeatures%2FF_Planet_Seasons.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APerihelion+and+aphelion">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-Earth_at_Aphelion-6">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-Earth_at_Aphelion_6-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://spaceweather.com/glossary/aphelion.html" rel="nofollow">
+             "Earth at Aphelion"
+            </a>
+            . Space Weather. July 2008
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              7 July
+             </span>
+             2015
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Earth+at+Aphelion&amp;rft.pub=Space+Weather&amp;rft.date=2008-07&amp;rft_id=http%3A%2F%2Fspaceweather.com%2Fglossary%2Faphelion.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APerihelion+and+aphelion">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Perihelion_and_aphelion&amp;action=edit&amp;section=6" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a class="external text" href="http://aa.usno.navy.mil/data/docs/EarthSeasons.php" rel="nofollow">
+         Dates and times of Earth's perihelion and aphelion, 2000–2025
+        </a>
+        from the
+        <a href="/wiki/United_States_Naval_Observatory" title="United States Naval Observatory">
+         United States Naval Observatory
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://hamilton.dm.unipi.it/astdys/index.php?pc=3.2.1&amp;pc0=3.2&amp;udfs=0.3" rel="nofollow">
+         List of asteroids currently closer to the Sun than Mercury
+        </a>
+        (These objects will be close to perihelion)
+       </li>
+      </ul>
+      <!-- 
+NewPP limit report
+Parsed by mw1268
+Cached time: 20180319163532
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.168 seconds
+Real time usage: 0.229 seconds
+Preprocessor visited node count: 561/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 15187/2097152 bytes
+Template argument size: 313/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 6395/5000000 bytes
+Lua time usage: 0.087/10.000 seconds
+Lua memory usage: 4.63 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  205.243      1 -total
+ 33.83%   69.431      1 Template:Reflist
+ 26.08%   53.527      1 Template:Merge_to
+ 21.22%   43.552      1 Template:Cite_book
+ 19.49%   40.004      1 Template:Convert
+ 13.19%   27.064      1 Template:Mbox
+  7.48%   15.361      3 Template:IPAc-en
+  5.62%   11.530      1 Template:Portal
+  5.26%   10.788      3 Template:Cite_web
+  4.18%    8.579      1 Template:DMC
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:24659-0!canonical and timestamp 20180319163532 and revision id 831253900
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Perihelion_and_aphelion&amp;oldid=831253900">
+      https://en.wikipedia.org/w/index.php?title=Perihelion_and_aphelion&amp;oldid=831253900
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Orbits" title="Category:Orbits">
+         Orbits
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Stars" title="Category:Stars">
+         Stars
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Planets" title="Category:Planets">
+         Planets
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Minor_planets" title="Category:Minor planets">
+         Minor planets
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Comets" title="Category:Comets">
+         Comets
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Pages_using_citations_with_format_and_no_URL" title="Category:Pages using citations with format and no URL">
+         Pages using citations with format and no URL
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_to_be_merged_from_January_2018" title="Category:Articles to be merged from January 2018">
+         Articles to be merged from January 2018
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_to_be_merged" title="Category:All articles to be merged">
+         All articles to be merged
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Perihelion+and+aphelion" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Perihelion+and+aphelion" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Perihelion_and_aphelion" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Perihelion_and_aphelion" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Perihelion_and_aphelion">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Perihelion_and_aphelion&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Perihelion_and_aphelion&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Perihelion_and_aphelion" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Perihelion_and_aphelion" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Perihelion_and_aphelion&amp;oldid=831253900" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Perihelion_and_aphelion&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q35660603" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Perihelion_and_aphelion&amp;id=831253900" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Perihelion+and+aphelion">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Perihelion+and+aphelion&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Perihelion_and_aphelion&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-zh-min-nan">
+        <a class="interlanguage-link-target" href="https://zh-min-nan.wikipedia.org/wiki/K%C4%ABn-ji%CC%8Dt-ti%C3%A1m_kap_o%C3%A1n-ji%CC%8Dt-ti%C3%A1m" hreflang="zh-min-nan" lang="zh-min-nan" title="Kīn-ji̍t-tiám kap oán-ji̍t-tiám – Chinese (Min Nan)">
+         Bân-lâm-gú
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Perihelium" hreflang="de" lang="de" title="Perihelium – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%A7%D9%88%D8%AC_%D9%88_%D8%AD%D8%B6%DB%8C%D8%B6_%D8%AE%D9%88%D8%B1%D8%B4%DB%8C%D8%AF%DB%8C" hreflang="fa" lang="fa" title="اوج و حضیض خورشیدی – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hi">
+        <a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%89%E0%A4%AA%E0%A4%B8%E0%A5%8C%E0%A4%B0_%E0%A4%94%E0%A4%B0_%E0%A4%85%E0%A4%AA%E0%A4%B8%E0%A5%8C%E0%A4%B0" hreflang="hi" lang="hi" title="उपसौर और अपसौर – Hindi">
+         हिन्दी
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he">
+        <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%90%D7%A4%D7%94%D7%9C%D7%99%D7%95%D7%9F_%D7%95%D7%A4%D7%A8%D7%99%D7%94%D7%9C%D7%99%D7%95%D7%9F" hreflang="he" lang="he" title="אפהליון ופריהליון – Hebrew">
+         עברית
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pa">
+        <a class="interlanguage-link-target" href="https://pa.wikipedia.org/wiki/%E0%A8%AA%E0%A8%B0%E0%A9%80%E0%A8%B9%E0%A9%80%E0%A8%B2%E0%A9%80%E0%A8%85%E0%A8%A8_%E0%A8%85%E0%A8%A4%E0%A9%87_%E0%A8%85%E0%A8%AA%E0%A8%B9%E0%A9%80%E0%A8%B2%E0%A9%80%E0%A8%85%E0%A8%A8" hreflang="pa" lang="pa" title="ਪਰੀਹੀਲੀਅਨ ਅਤੇ ਅਪਹੀਲੀਅਨ – Punjabi">
+         ਪੰਜਾਬੀ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sco">
+        <a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Perihelion_an_aphelion" hreflang="sco" lang="sco" title="Perihelion an aphelion – Scots">
+         Scots
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-si">
+        <a class="interlanguage-link-target" href="https://si.wikipedia.org/wiki/%E0%B6%8B%E0%B6%B4%E0%B7%84%E0%B7%9A%E0%B6%BD%E0%B7%92%E0%B6%9A%E0%B6%BA_%E0%B7%84%E0%B7%8F_%E0%B7%80%E0%B7%92%E0%B7%84%E0%B7%9A%E0%B6%BD%E0%B7%92%E0%B6%9A%E0%B6%BA" hreflang="si" lang="si" title="උපහේලිකය හා විහේලිකය – Sinhala">
+         සිංහල
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ur">
+        <a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%D8%AD%D8%B6%DB%8C%D8%B6_%D8%A7%D9%88%D8%B1_%D8%A7%D9%88%D8%AC" hreflang="ur" lang="ur" title="حضیض اور اوج – Urdu">
+         اردو
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q35660603#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 19 March 2018, at 16:35.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Perihelion_and_aphelion&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.168","walltime":"0.229","ppvisitednodes":{"value":561,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":15187,"limit":2097152},"templateargumentsize":{"value":313,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":6395,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  205.243      1 -total"," 33.83%   69.431      1 Template:Reflist"," 26.08%   53.527      1 Template:Merge_to"," 21.22%   43.552      1 Template:Cite_book"," 19.49%   40.004      1 Template:Convert"," 13.19%   27.064      1 Template:Mbox","  7.48%   15.361      3 Template:IPAc-en","  5.62%   11.530      1 Template:Portal","  5.26%   10.788      3 Template:Cite_web","  4.18%    8.579      1 Template:DMC"]},"scribunto":{"limitreport-timeusage":{"value":"0.087","limit":"10.000"},"limitreport-memusage":{"value":4855616,"limit":52428800}},"cachereport":{"origin":"mw1268","timestamp":"20180319163532","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":93,"wgHostname":"mw1244"});});
+  </script>
+ </body>
+</html>

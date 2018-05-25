@@ -1,0 +1,2502 @@
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Lunar geologic timescale - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Lunar_geologic_timescale","wgTitle":"Lunar geologic timescale","wgCurRevisionId":765888465,"wgRevisionId":765888465,"wgArticleId":206589,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Multiple names: authors list","Pages using multiple image with manual scaled images","Lunar geologic periods","Lunar science","Geology timelines"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Lunar_geologic_timescale","wgRelevantArticleId":206589,"wgRequestId":"WrQhVgpAICIAADERGFEAAADB","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q386638","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.timeline.styles":"ready","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.timeline.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.26" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Lunar_geologic_timescale" rel="alternate"/>
+  <link href="/w/index.php?title=Lunar_geologic_timescale&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Lunar_geologic_timescale&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Lunar_geologic_timescale" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Lunar_geologic_timescale rootpage-Lunar_geologic_timescale skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Lunar geologic timescale
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <table class="toccolours" style="float:right;margin-left:15px;" width="320px">
+       <tr style="background:#ccccff;text-align:center;">
+        <td>
+         Divisions of
+         <b>
+          <a class="mw-selflink selflink">
+           Lunar geologic time
+          </a>
+         </b>
+         :
+        </td>
+       </tr>
+       <tr>
+        <td style="text-align:center;">
+         <a href="/wiki/Pre-Nectarian" title="Pre-Nectarian">
+          Pre-Nectarian
+         </a>
+         -
+         <a href="/wiki/Nectarian" title="Nectarian">
+          Nectarian
+         </a>
+         -
+         <a class="mw-redirect" href="/wiki/Early_Imbrian" title="Early Imbrian">
+          Early Imbrian
+         </a>
+         -
+         <a class="mw-redirect" href="/wiki/Late_Imbrian" title="Late Imbrian">
+          Late Imbrian
+         </a>
+         -
+         <a href="/wiki/Eratosthenian" title="Eratosthenian">
+          Eratosthenian
+         </a>
+         -
+         <a href="/wiki/Copernican_period" title="Copernican period">
+          Copernican
+         </a>
+        </td>
+       </tr>
+      </table>
+      <p>
+       The
+       <b>
+        lunar geological timescale
+       </b>
+       (or
+       <b>
+        selenological timescale
+       </b>
+       ) divides the history of
+       <a href="/wiki/Earth" title="Earth">
+        Earth
+       </a>
+       's
+       <a href="/wiki/Moon" title="Moon">
+        Moon
+       </a>
+       into five generally recognized periods: the
+       <a href="/wiki/Copernican_period" title="Copernican period">
+        Copernican
+       </a>
+       ,
+       <a href="/wiki/Eratosthenian" title="Eratosthenian">
+        Eratosthenian
+       </a>
+       , Imbrian (
+       <a class="mw-redirect" href="/wiki/Late_Imbrian" title="Late Imbrian">
+        Late
+       </a>
+       and
+       <a class="mw-redirect" href="/wiki/Early_Imbrian" title="Early Imbrian">
+        Early
+       </a>
+       epochs),
+       <a href="/wiki/Nectarian" title="Nectarian">
+        Nectarian
+       </a>
+       , and
+       <a href="/wiki/Pre-Nectarian" title="Pre-Nectarian">
+        Pre-Nectarian
+       </a>
+       . The boundaries of this time scale are related to large
+       <a href="/wiki/Impact_event" title="Impact event">
+        impact events
+       </a>
+       that have modified the
+       <a class="mw-redirect" href="/wiki/Lunar_surface" title="Lunar surface">
+        lunar surface
+       </a>
+       , changes in
+       <a href="/wiki/Impact_crater" title="Impact crater">
+        crater
+       </a>
+       form that occur through time, and the size-frequency distribution of craters superposed on geological units. The absolute ages for these periods have been constrained by
+       <a href="/wiki/Radiometric_dating" title="Radiometric dating">
+        radiometric dating
+       </a>
+       of samples obtained from the lunar surface. However, there is still much debate concerning the ages of certain key events, because correlating lunar
+       <a href="/wiki/Regolith" title="Regolith">
+        regolith
+       </a>
+       samples with geological units on the Moon is difficult, and most lunar radiometric ages have been highly affected by an intense history of bombardment.
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Lunar_stratigraphy">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Lunar stratigraphy
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-2">
+           <a href="#Pre-Nectarian">
+            <span class="tocnumber">
+             1.1
+            </span>
+            <span class="toctext">
+             Pre-Nectarian
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-3">
+           <a href="#Nectarian">
+            <span class="tocnumber">
+             1.2
+            </span>
+            <span class="toctext">
+             Nectarian
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-4">
+           <a href="#Imbrian">
+            <span class="tocnumber">
+             1.3
+            </span>
+            <span class="toctext">
+             Imbrian
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-5">
+           <a href="#Eratosthenian">
+            <span class="tocnumber">
+             1.4
+            </span>
+            <span class="toctext">
+             Eratosthenian
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-6">
+           <a href="#Copernican">
+            <span class="tocnumber">
+             1.5
+            </span>
+            <span class="toctext">
+             Copernican
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-7">
+         <a href="#Relationship_to_Earth's_geologic_time_scale">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Relationship to Earth's geologic time scale
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-8">
+         <a href="#See_also">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-9">
+         <a href="#References">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Lunar_stratigraphy">
+        Lunar stratigraphy
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Lunar_geologic_timescale&amp;action=edit&amp;section=1" title="Edit section: Lunar stratigraphy">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="timeline-wrapper">
+       <map id="timeline_35cae3dcc62232c404b12b98519b219b" name="timeline_35cae3dcc62232c404b12b98519b219b">
+        <area alt="Early Imbrian" coords="123,34,186,55" href="/wiki/Early_Imbrian" shape="rect" title="Early Imbrian"/>
+        <area alt="Late Imbrian" coords="197,34,255,55" href="/wiki/Late_Imbrian" shape="rect" title="Late Imbrian"/>
+        <area alt="Pre-Nectarian" coords="57,9,165,30" href="/wiki/Pre%2DNectarian" shape="rect" title="Pre-Nectarian"/>
+        <area alt="Nectarian" coords="146,9,188,30" href="/wiki/Nectarian" shape="rect" title="Nectarian"/>
+        <area alt="Eratosthenian" coords="386,9,495,30" href="/wiki/Eratosthenian" shape="rect" title="Eratosthenian"/>
+        <area alt="Copernican period" coords="649,9,740,30" href="/wiki/Copernican_period" shape="rect" title="Copernican period"/>
+       </map>
+       <img src="//upload.wikimedia.org/wikipedia/en/timeline/35cae3dcc62232c404b12b98519b219b.png" usemap="#timeline_35cae3dcc62232c404b12b98519b219b"/>
+      </div>
+      <center>
+       <small>
+        Millions of years before present
+       </small>
+      </center>
+      <p>
+       The primary geological processes that have modified the lunar surface are
+       <a href="/wiki/Impact_crater" title="Impact crater">
+        impact cratering
+       </a>
+       and
+       <a href="/wiki/Volcanism" title="Volcanism">
+        volcanism
+       </a>
+       , and by using standard
+       <a href="/wiki/Stratigraphy" title="Stratigraphy">
+        stratigraphic
+       </a>
+       principles
+       <sup class="reference" id="cite_ref-W87_1-0">
+        <a href="#cite_note-W87-1">
+         [1]
+        </a>
+       </sup>
+       (such as the
+       <a href="/wiki/Law_of_superposition" title="Law of superposition">
+        law of superposition
+       </a>
+       ) it is possible to order these geological events in time. At one time, it was thought that the
+       <a href="/wiki/Lunar_mare" title="Lunar mare">
+        mare basalts
+       </a>
+       might represent a single stratigraphic unit with a unique age, but it is now recognized that mare volcanism was an ongoing process, beginning as early as 4.2 Ga
+       <sup class="reference" id="cite_ref-2">
+        <a href="#cite_note-2">
+         [2]
+        </a>
+       </sup>
+       and continuing to perhaps as late as 1.2 Ga (1 Ga = 1 billion years ago).
+       <sup class="reference" id="cite_ref-3">
+        <a href="#cite_note-3">
+         [3]
+        </a>
+       </sup>
+       Impact events are by far the most useful for defining a lunar stratigraphy as they are numerous and form in a geological instant.
+       <sup class="reference" id="cite_ref-4">
+        <a href="#cite_note-4">
+         [4]
+        </a>
+       </sup>
+       The continued effects of impact cratering over long periods of time modify the morphology of lunar landforms in a quantitative way, and the state of erosion of a landform can also be used to assign a relative age.
+      </p>
+      <p>
+       The lunar geological time scale has been divided into five periods (Pre-Nectarian, Nectarian, Imbrian, Eratosthenian, and Copernican) with one of these (the Imbrian) being subdivided into two epochs. These divisions of geological time are based on the recognition of convenient geomorphological markers, and as such, they should not be taken to imply that any fundamental changes in geological processes have occurred at these boundaries. The Moon is unique in the
+       <a class="mw-redirect" href="/wiki/Solar_system" title="Solar system">
+        solar system
+       </a>
+       in that it is the only body (other than the Earth) for which we possess rock samples with a known geological context. By correlating the ages of samples obtained from the
+       <a class="mw-redirect" href="/wiki/Apollo_missions" title="Apollo missions">
+        Apollo missions
+       </a>
+       to known geological units, it has been possible to assign absolute ages to some of these geological periods. The timeline below represents one such attempt, but it is important to note (as is discussed below) that some of the ages are either uncertain, or disputed. In many
+       <a class="mw-redirect" href="/wiki/Lunar_highland" title="Lunar highland">
+        lunar highland
+       </a>
+       regions, it is not possible to distinguish between Nectarian and Pre-Nectarian materials, and these deposits are sometimes labeled as just
+       <b>
+        Pre-Imbrian
+       </b>
+       .
+      </p>
+      <div class="thumb tmulti tnone center">
+       <div class="thumbinner" style="width:592px;max-width:592px">
+        <div style="clear:both;font-weight:bold;text-align:center;background-color:transparent">
+         Moon –
+         <a href="/wiki/Oceanus_Procellarum" title="Oceanus Procellarum">
+          Oceanus Procellarum
+         </a>
+         ("Ocean of Storms")
+        </div>
+        <div class="tsingle" style="float:left;margin:1px;width:359px;max-width:359px">
+         <div class="thumbimage" style="height:132px;overflow:hidden">
+          <a class="image" href="/wiki/File:14-236-LunarGrailMission-OceanusProcellarum-Rifts-Overall-20141001.jpg">
+           <img alt="" data-file-height="228" data-file-width="614" height="133" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/14-236-LunarGrailMission-OceanusProcellarum-Rifts-Overall-20141001.jpg/357px-14-236-LunarGrailMission-OceanusProcellarum-Rifts-Overall-20141001.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/14-236-LunarGrailMission-OceanusProcellarum-Rifts-Overall-20141001.jpg/536px-14-236-LunarGrailMission-OceanusProcellarum-Rifts-Overall-20141001.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/8/89/14-236-LunarGrailMission-OceanusProcellarum-Rifts-Overall-20141001.jpg 2x" width="357"/>
+          </a>
+         </div>
+         <div class="thumbcaption" style="clear:left">
+          Ancient
+          <a href="/wiki/Rift_valley" title="Rift valley">
+           rift valleys
+          </a>
+          – rectangular structure (visible – topography –
+          <a class="mw-redirect" href="/wiki/Gravity_Recovery_and_Interior_Laboratory" title="Gravity Recovery and Interior Laboratory">
+           GRAIL gravity gradients
+          </a>
+          ) (October 1, 2014).
+         </div>
+        </div>
+        <div class="tsingle" style="float:left;margin:1px;width:229px;max-width:229px">
+         <div class="thumbimage" style="height:132px;overflow:hidden">
+          <a class="image" href="/wiki/File:PIA18821-LunarGrailMission-OceanusProcellarum-Rifts-Closeup-20141001.jpg">
+           <img alt="" data-file-height="905" data-file-width="1546" height="133" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/PIA18821-LunarGrailMission-OceanusProcellarum-Rifts-Closeup-20141001.jpg/227px-PIA18821-LunarGrailMission-OceanusProcellarum-Rifts-Closeup-20141001.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/PIA18821-LunarGrailMission-OceanusProcellarum-Rifts-Closeup-20141001.jpg/341px-PIA18821-LunarGrailMission-OceanusProcellarum-Rifts-Closeup-20141001.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/67/PIA18821-LunarGrailMission-OceanusProcellarum-Rifts-Closeup-20141001.jpg/454px-PIA18821-LunarGrailMission-OceanusProcellarum-Rifts-Closeup-20141001.jpg 2x" width="227"/>
+          </a>
+         </div>
+         <div class="thumbcaption" style="clear:left">
+          Ancient
+          <a href="/wiki/Rift_valley" title="Rift valley">
+           rift valleys
+          </a>
+          – closeup (artist's concept).
+         </div>
+        </div>
+        <div style="clear:left">
+        </div>
+       </div>
+      </div>
+      <h3>
+       <span class="mw-headline" id="Pre-Nectarian">
+        Pre-Nectarian
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Lunar_geologic_timescale&amp;action=edit&amp;section=2" title="Edit section: Pre-Nectarian">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main article:
+       <a href="/wiki/Pre-Nectarian" title="Pre-Nectarian">
+        Pre-Nectarian
+       </a>
+      </div>
+      <p>
+       The
+       <a href="/wiki/Pre-Nectarian" title="Pre-Nectarian">
+        Pre-Nectarian
+       </a>
+       period is defined from the point at which the lunar crust formed, to the time of the Nectaris impact event.
+       <a href="/wiki/Mare_Nectaris" title="Mare Nectaris">
+        Nectaris
+       </a>
+       is a multi-ring impact basin that formed on the
+       <a href="/wiki/Near_side_of_the_Moon" title="Near side of the Moon">
+        near side of the Moon
+       </a>
+       , and its ejecta blanket serves as a useful stratigraphic marker. 30 impact basins from this period are recognized, the oldest of which is the
+       <a href="/wiki/South_Pole%E2%80%93Aitken_basin" title="South Pole–Aitken basin">
+        South Pole–Aitken basin
+       </a>
+       . This geological period has been informally subdivided into the
+       <a class="mw-redirect" href="/wiki/Cryptic_era" title="Cryptic era">
+        Cryptic
+       </a>
+       and
+       <a href="/wiki/Basin_Groups" title="Basin Groups">
+        Basin Groups
+       </a>
+       1-9,
+       <sup class="reference" id="cite_ref-W87_1-1">
+        <a href="#cite_note-W87-1">
+         [1]
+        </a>
+       </sup>
+       but these divisions are not used on any geological maps.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Nectarian">
+        Nectarian
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Lunar_geologic_timescale&amp;action=edit&amp;section=3" title="Edit section: Nectarian">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main article:
+       <a href="/wiki/Nectarian" title="Nectarian">
+        Nectarian
+       </a>
+      </div>
+      <p>
+       The
+       <a href="/wiki/Nectarian" title="Nectarian">
+        Nectarian
+       </a>
+       period encompasses all events that occurred between the formation of the
+       <a href="/wiki/Mare_Nectaris" title="Mare Nectaris">
+        Nectaris
+       </a>
+       and
+       <a href="/wiki/Mare_Imbrium" title="Mare Imbrium">
+        Imbrium
+       </a>
+       impact basins. 12 multi-ring impact basins are recognized in the Nectarian period, including the
+       <a href="/wiki/Mare_Serenitatis" title="Mare Serenitatis">
+        Serenitatis
+       </a>
+       and
+       <a href="/wiki/Mare_Crisium" title="Mare Crisium">
+        Crisium
+       </a>
+       basins. One of the scientific objectives of the
+       <a href="/wiki/Apollo_16" title="Apollo 16">
+        Apollo 16
+       </a>
+       mission was to date material excavated by the Nectaris impact basin. Nevertheless, the age of the Nectaris basin is somewhat contentious, with the most frequently cited numbers being 3.92 Ga, and less frequently 3.85 Ga. Recently, it has been suggested that the Nectaris basin could be, in fact, much older at ~4.1 Ga.
+       <sup class="reference" id="cite_ref-5">
+        <a href="#cite_note-5">
+         [5]
+        </a>
+       </sup>
+      </p>
+      <h3>
+       <span class="mw-headline" id="Imbrian">
+        Imbrian
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Lunar_geologic_timescale&amp;action=edit&amp;section=4" title="Edit section: Imbrian">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main articles:
+       <a class="mw-redirect" href="/wiki/Late_Imbrian" title="Late Imbrian">
+        Late Imbrian
+       </a>
+       and
+       <a class="mw-redirect" href="/wiki/Early_Imbrian" title="Early Imbrian">
+        Early Imbrian
+       </a>
+      </div>
+      <p>
+       The Imbrian period has been subdivided into
+       <a class="mw-redirect" href="/wiki/Late_Imbrian" title="Late Imbrian">
+        Late
+       </a>
+       and
+       <a class="mw-redirect" href="/wiki/Early_Imbrian" title="Early Imbrian">
+        Early
+       </a>
+       epochs. The Early Imbrian is defined as the time between the formation of the
+       <a href="/wiki/Mare_Imbrium" title="Mare Imbrium">
+        Imbrium
+       </a>
+       and
+       <a href="/wiki/Mare_Orientale" title="Mare Orientale">
+        Orientale
+       </a>
+       impact basins. The Imbrium basin is believed to have formed at 3.85 Ga, though a minority opinion places this event at 3.77 Ga. The
+       <a href="/wiki/Schr%C3%B6dinger_(crater)" title="Schrödinger (crater)">
+        Schrödinger basin
+       </a>
+       is the only other multi-ring basin that is Lower Imbrian in age, and no large multi-ring basins formed after this epoch.
+      </p>
+      <p>
+       The Late Imbrian is defined as the time between the formation of the Orientale basin, and the time at which craters of a certain size (D
+       <sub>
+        L
+       </sub>
+       ) have been obliterated by erosional processes. The age of the Orientale basin has not been directly determined, though it must be older than 3.72 Ga (based on Upper Imbrian ages of mare basalts) and could be as old as 3.84 Ga based on the size-frequency distributions of craters superposed on Orientale ejecta. About two-thirds of the Moon's mare basalts erupted within the Upper Imbrian Series, with many of these lavas filling the depressions associated with older impact basins.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Eratosthenian">
+        Eratosthenian
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Lunar_geologic_timescale&amp;action=edit&amp;section=5" title="Edit section: Eratosthenian">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main article:
+       <a href="/wiki/Eratosthenian" title="Eratosthenian">
+        Eratosthenian
+       </a>
+      </div>
+      <p>
+       The base of the
+       <a href="/wiki/Eratosthenian" title="Eratosthenian">
+        Eratosthenian
+       </a>
+       period is defined by the time at which craters on a geological unit of a certain size D
+       <sub>
+        L
+       </sub>
+       have been almost completely obliterated by erosional processes. The principal erosional agent on the Moon is impact cratering itself, though seismic modification could play a minor role as well. The absolute age of this boundary is not well defined, but is commonly quoted as being near 3.2 Ga. The younger boundary of this period is defined based on the recognition that freshly excavated materials on the lunar surface are generally bright and that they become darker over time as a result of
+       <a href="/wiki/Space_weathering" title="Space weathering">
+        space weathering
+       </a>
+       processes. Operationally, this period was originally defined as the time at which impact craters lost their bright
+       <a href="/wiki/Ray_system" title="Ray system">
+        ray systems
+       </a>
+       . This definition, however, has recently been subjected to some criticism as some crater rays are bright for compositional reasons that are unrelated to the amount of space weathering they have incurred. In particular, if the ejecta from a crater formed in the highlands (which is composed of bright anorthositic materials) is deposited on the low albedo mare, it will remain bright even after being space weathered.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Copernican">
+        Copernican
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Lunar_geologic_timescale&amp;action=edit&amp;section=6" title="Edit section: Copernican">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main article:
+       <a href="/wiki/Copernican_period" title="Copernican period">
+        Copernican period
+       </a>
+      </div>
+      <p>
+       The
+       <a href="/wiki/Copernican_period" title="Copernican period">
+        Copernican period
+       </a>
+       is the youngest geological period of the Moon. Originally, the presence of a bright ray system surrounding an impact crater was used to define Copernican units, but as mentioned above, this is complicated by the presence of compositional ray systems. The base of the Copernican period does not correspond to the formation of the impact crater Copernicus. The age of the base of the Copernican is not well constrained, but a commonly quoted number is 1.1 Ga. The Copernican extends until the present day.
+      </p>
+      <h2>
+       <span id="Relationship_to_Earth.27s_geologic_time_scale">
+       </span>
+       <span class="mw-headline" id="Relationship_to_Earth's_geologic_time_scale">
+        Relationship to Earth's geologic time scale
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Lunar_geologic_timescale&amp;action=edit&amp;section=7" title="Edit section: Relationship to Earth's geologic time scale">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       The divisions of the lunar geologic time scale are based on the recognition of a few convenient geomorphological markers. While these divisions are extremely useful for
+       <a href="/wiki/Relative_dating" title="Relative dating">
+        ordering geological events in a relative manner
+       </a>
+       , it is important to realize that the boundaries do not imply any fundamental change of geological processes. Furthermore, as the oldest geological periods of the Moon are based exclusively on the times of individual impact events (in particular, Nectaris, Imbrium, and Orientale), these punctual events will most likely not correspond to any specific geological event on the other terrestrial planets, such as
+       <a href="/wiki/Mercury_(planet)" title="Mercury (planet)">
+        Mercury
+       </a>
+       ,
+       <a href="/wiki/Venus" title="Venus">
+        Venus
+       </a>
+       ,
+       <a href="/wiki/Earth" title="Earth">
+        Earth
+       </a>
+       , or
+       <a href="/wiki/Mars" title="Mars">
+        Mars
+       </a>
+       .
+      </p>
+      <p>
+       Nevertheless, at least one notable scientific work
+       <sup class="reference" id="cite_ref-6">
+        <a href="#cite_note-6">
+         [6]
+        </a>
+       </sup>
+       has advocated using the lunar geological time scale to subdivide the
+       <a href="/wiki/Hadean" title="Hadean">
+        Hadean
+       </a>
+       eon of Earth's
+       <a href="/wiki/Geologic_time_scale" title="Geologic time scale">
+        geologic time scale
+       </a>
+       . In particular, it is sometimes found that the Hadean is subdivided into the
+       <a class="mw-redirect" href="/wiki/Cryptic_era" title="Cryptic era">
+        Cryptic
+       </a>
+       ,
+       <a href="/wiki/Basin_Groups" title="Basin Groups">
+        Basin Groups
+       </a>
+       1-9,
+       <a href="/wiki/Nectarian" title="Nectarian">
+        Nectarian
+       </a>
+       , and
+       <a class="mw-redirect" href="/wiki/Early_Imbrian" title="Early Imbrian">
+        Early Imbrian
+       </a>
+       . This notation is not entirely consistent with the above lunar geologic time scale in that the Cryptic and Basin Groups 1-9 (both of which are only informal terms that are not used in geologic maps) comprise the
+       <a href="/wiki/Pre-Nectarian" title="Pre-Nectarian">
+        Pre-Nectarian
+       </a>
+       period.
+      </p>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Lunar_geologic_timescale&amp;action=edit&amp;section=8" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+       <ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+        <li style="display:table-row">
+         <span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center">
+          <a class="image" href="/wiki/File:Moon-Mdf-2005.jpg">
+           <img alt="icon" class="noviewer" data-file-height="1024" data-file-width="1024" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Moon-Mdf-2005.jpg/28px-Moon-Mdf-2005.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Moon-Mdf-2005.jpg/42px-Moon-Mdf-2005.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Moon-Mdf-2005.jpg/56px-Moon-Mdf-2005.jpg 2x" width="28"/>
+          </a>
+         </span>
+         <span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle">
+          <a href="/wiki/Portal:Moon" title="Portal:Moon">
+           Moon portal
+          </a>
+         </span>
+        </li>
+       </ul>
+      </div>
+      <ul>
+       <li>
+        <a href="/wiki/Crater_counting" title="Crater counting">
+         Crater counting
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Geology_of_the_Moon" title="Geology of the Moon">
+         Geology of the Moon
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Geological_time_scale" title="Geological time scale">
+         Geologic time scale (Earth)
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Impact_crater" title="Impact crater">
+         Impact crater
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Late_Heavy_Bombardment" title="Late Heavy Bombardment">
+         Late Heavy Bombardment
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Lunar_geologic_timescale&amp;action=edit&amp;section=9" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       <b>
+        Cited references
+       </b>
+      </p>
+      <div class="reflist" style="list-style-type: decimal;">
+       <div class="mw-references-wrap">
+        <ol class="references">
+         <li id="cite_note-W87-1">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-W87_1-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-W87_1-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            Don Wilhelms (1987).
+            <a class="external text" href="http://ser.sese.asu.edu/GHM/" rel="nofollow">
+             <i>
+              Geologic History of the Moon
+             </i>
+            </a>
+            . U.S. Geological Survey Professional Paper 1348.
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Geologic+History+of+the+Moon&amp;rft.pub=U.S.+Geological+Survey++Professional+Paper+1348&amp;rft.date=1987&amp;rft.au=Don+Wilhelms&amp;rft_id=http%3A%2F%2Fser.sese.asu.edu%2FGHM%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+geologic+timescale">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-2">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-2">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            James Papike; Grahm Ryder &amp; Charles Shearer (1998). "Lunar Samples".
+            <i>
+             Reviews in Mineralogy and Geochemistry
+            </i>
+            .
+            <b>
+             36
+            </b>
+            : 5.1–5.234.
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Reviews+in+Mineralogy+and+Geochemistry&amp;rft.atitle=Lunar+Samples&amp;rft.volume=36&amp;rft.pages=5.1-5.234&amp;rft.date=1998&amp;rft.au=James+Papike&amp;rft.au=Grahm+Ryder&amp;rft.au=Charles+Shearer&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+geologic+timescale">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-3">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-3">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            H. Hiesinger, J. W. Head, U. Wolf, R. Jaumann, and G. Neukum, H. (2003). "Ages and stratigraphy of mare basalts in Oceanus Procellarum, Mare Numbium, Mare Cognitum, and Mare Insularum".
+            <i>
+             J. Geophys. Res
+            </i>
+            .
+            <b>
+             108
+            </b>
+            .
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/2003JGRE..108.5065H" rel="nofollow">
+             2003JGRE..108.5065H
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1029%2F2002JE001985" rel="nofollow">
+             10.1029/2002JE001985
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J.+Geophys.+Res.&amp;rft.atitle=Ages+and+stratigraphy+of+mare+basalts+in+Oceanus+Procellarum%2C+Mare+Numbium%2C+Mare+Cognitum%2C+and+Mare+Insularum&amp;rft.volume=108&amp;rft.date=2003&amp;rft_id=info%3Adoi%2F10.1029%2F2002JE001985&amp;rft_id=info%3Abibcode%2F2003JGRE..108.5065H&amp;rft.aulast=H.+Hiesinger%2C+J.+W.+Head%2C+U.+Wolf%2C+R.+Jaumann%2C+and+G.+Neukum&amp;rft.aufirst=H.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+geologic+timescale">
+            <span style="display:none;">
+            </span>
+           </span>
+           <span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">
+            CS1 maint: Multiple names: authors list (
+            <a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">
+             link
+            </a>
+            )
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-4">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-4">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            D. Stöffler and G. Ryder, D.; Ryder, G. (2001). "Stratigraphy and isotope ages of lunar geological units: chronological standards for the inner solar system".
+            <i>
+             Space Sci. Rev
+            </i>
+            .
+            <b>
+             96
+            </b>
+            : 9–54.
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1023%2FA%3A1011937020193" rel="nofollow">
+             10.1023/A:1011937020193
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Space+Sci.+Rev.&amp;rft.atitle=Stratigraphy+and+isotope+ages+of+lunar+geological+units%3A+chronological+standards+for+the+inner+solar+system&amp;rft.volume=96&amp;rft.pages=9-54&amp;rft.date=2001&amp;rft_id=info%3Adoi%2F10.1023%2FA%3A1011937020193&amp;rft.aulast=D.+St%C3%B6ffler++and+G.+Ryder&amp;rft.aufirst=D.&amp;rft.au=Ryder%2C+G.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+geologic+timescale">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-5">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-5">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            R. Korotev; J. Gillis; L. Haskin &amp; B. Jolliff (2002). "On the age of the Nectaris basin".
+            <i>
+             Workshop on Moon Beyond
+            </i>
+            : abstract 3029.
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Workshop+on+Moon+Beyond&amp;rft.atitle=On+the+age+of+the+Nectaris+basin&amp;rft.pages=abstract+3029&amp;rft.date=2002&amp;rft.au=R.+Korotev&amp;rft.au=J.+Gillis&amp;rft.au=L.+Haskin&amp;rft.au=B.+Jolliff&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+geologic+timescale">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-6">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-6">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            W. Harland; R. Armstrong; A. Cox; L. Craig; A. Smith; D. Smith (1990).
+            <i>
+             A Geologic time scale 1989
+            </i>
+            . Cambridge University Press.
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+Geologic+time+scale+1989&amp;rft.pub=Cambridge+University+Press&amp;rft.date=1990&amp;rft.au=W.+Harland&amp;rft.au=R.+Armstrong&amp;rft.au=A.+Cox&amp;rft.au=L.+Craig&amp;rft.au=A.+Smith&amp;rft.au=D.+Smith&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+geologic+timescale">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <p>
+       <b>
+        General references
+       </b>
+      </p>
+      <ul>
+       <li>
+        <cite class="citation web">
+         Martel, L.M.V. (September 28, 2004).
+         <a class="external text" href="http://www.psrd.hawaii.edu/Sept04/LunarRays.html" rel="nofollow">
+          "Lunar Crater Rays Point to a New Lunar Time Scale"
+         </a>
+         . Planetary Science Research Discoveries.
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Lunar+Crater+Rays+Point+to+a+New+Lunar+Time+Scale&amp;rft.pub=Planetary+Science+Research+Discoveries&amp;rft.date=2004-09-28&amp;rft.au=Martel%2C+L.M.V.&amp;rft_id=http%3A%2F%2Fwww.psrd.hawaii.edu%2FSept04%2FLunarRays.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+geologic+timescale">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+      </ul>
+      <div aria-labelledby="The_Moon" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="3" scope="col" style="text-align: center;">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:The_Moon" title="Template:The Moon">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a href="/wiki/Template_talk:The_Moon" title="Template talk:The Moon">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:The_Moon&amp;action=edit">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="The_Moon" style="font-size:114%;margin:0 4em">
+           The
+           <a href="/wiki/Moon" title="Moon">
+            Moon
+           </a>
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          Physical
+          <br/>
+          properties
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Internal_structure_of_the_Moon" title="Internal structure of the Moon">
+              Internal structure
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Topography_of_the_Moon" title="Topography of the Moon">
+              Topography
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Atmosphere_of_the_Moon" title="Atmosphere of the Moon">
+              Atmosphere
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Gravitation_of_the_Moon" title="Gravitation of the Moon">
+              Gravity field
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Hill_sphere" title="Hill sphere">
+                Hill sphere
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Magnetic_field_of_the_Moon" title="Magnetic field of the Moon">
+              Magnetic field
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Sodium_tail_of_the_Moon" title="Sodium tail of the Moon">
+              Sodium tail
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Moonlight" title="Moonlight">
+              Moonlight
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Earthlight_(astronomy)" title="Earthlight (astronomy)">
+                Earthshine
+               </a>
+              </li>
+             </ul>
+            </li>
+           </ul>
+          </div>
+         </td>
+         <td class="navbox-image" rowspan="8" style="width:1px;padding:0px 0px 0px 2px">
+          <div>
+           <a class="image" href="/wiki/File:FullMoon2010.jpg" title="A full moon">
+            <img alt="A full moon" data-file-height="2452" data-file-width="2580" height="114" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/FullMoon2010.jpg/120px-FullMoon2010.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/FullMoon2010.jpg/180px-FullMoon2010.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e1/FullMoon2010.jpg/240px-FullMoon2010.jpg 2x" width="120"/>
+           </a>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Orbit_of_the_Moon" title="Orbit of the Moon">
+           Orbit
+          </a>
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Orbital_elements" title="Orbital elements">
+              Orbital elements
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_distance_(astronomy)" title="Lunar distance (astronomy)">
+                Distance
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Apsis" title="Apsis">
+                  Perigee &amp; apogee
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li>
+               <a href="/wiki/Lunar_node" title="Lunar node">
+                Nodes
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Nodal_period" title="Nodal period">
+                  Nodal period
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li>
+               <a href="/wiki/Lunar_precession" title="Lunar precession">
+                Precession
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Syzygy_(astronomy)" title="Syzygy (astronomy)">
+              Syzygy
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/New_moon" title="New moon">
+                New moon
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Full_moon" title="Full moon">
+                Full moon
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Eclipse" title="Eclipse">
+                Eclipses
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Lunar_eclipse" title="Lunar eclipse">
+                  Lunar eclipse
+                 </a>
+                 <ul>
+                  <li>
+                   <a href="/wiki/Total_penumbral_lunar_eclipse" title="Total penumbral lunar eclipse">
+                    Total penumbral lunar eclipse
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Tetrad_(astronomy)" title="Tetrad (astronomy)">
+                    Tetrad
+                   </a>
+                  </li>
+                 </ul>
+                </li>
+                <li>
+                 <a href="/wiki/Solar_eclipse" title="Solar eclipse">
+                  Solar eclipse
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Solar_eclipses_on_the_Moon" title="Solar eclipses on the Moon">
+                  Solar eclipses on the Moon
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Eclipse_cycle" title="Eclipse cycle">
+                  Eclipse cycle
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li>
+               <a href="/wiki/Supermoon" title="Supermoon">
+                Supermoon
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Tide" title="Tide">
+              Tide
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Tidal_force" title="Tidal force">
+                Tidal force
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Tidal_locking" title="Tidal locking">
+                Tidal locking
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Tidal_acceleration" title="Tidal acceleration">
+                Tidal acceleration
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Tidal_range" title="Tidal range">
+                Tidal range
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_mansion" title="Lunar mansion">
+              Lunar mansion
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          Surface &amp;
+          <br/>
+          <a href="/wiki/List_of_lunar_features" title="List of lunar features">
+           features
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Selenography" title="Selenography">
+              Selenography
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Lunar_terminator" title="Lunar terminator">
+              Terminator
+             </a>
+            </li>
+            <li>
+             Hemispheres
+             <ul>
+              <li>
+               <a href="/wiki/Near_side_of_the_Moon" title="Near side of the Moon">
+                Near side
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Far_side_of_the_Moon" title="Far side of the Moon">
+                Far side
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             Poles
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_north_pole" title="Lunar north pole">
+                North pole
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Lunar_south_pole" title="Lunar south pole">
+                South pole
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Face_on_Moon_South_Pole" title="Face on Moon South Pole">
+                  Face
+                 </a>
+                </li>
+               </ul>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_mare" title="Lunar mare">
+              Maria
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/List_of_maria_on_the_Moon" title="List of maria on the Moon">
+                List
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/List_of_mountains_on_the_Moon" title="List of mountains on the Moon">
+              Mountains
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Peak_of_eternal_light" title="Peak of eternal light">
+                Peak of eternal light
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/List_of_valleys_on_the_Moon" title="List of valleys on the Moon">
+              Valleys
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Moon#Volcanic_features" title="Moon">
+              Volcanic features
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_dome" title="Lunar dome">
+                Domes
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Caldera#The_Moon" title="Caldera">
+                Calderas
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Lunar_crater" title="Lunar crater">
+              Craters
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/List_of_craters_on_the_Moon" title="List of craters on the Moon">
+                List
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Ray_system#Lunar_rays" title="Ray system">
+                Ray systems
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Crater_of_eternal_darkness" title="Crater of eternal darkness">
+                Crater of eternal darkness
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Shackleton_(crater)" title="Shackleton (crater)">
+                Shackleton crater
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/South_Pole%E2%80%93Aitken_basin" title="South Pole–Aitken basin">
+                South Pole–Aitken basin
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_soil" title="Lunar soil">
+              Soil
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_swirls" title="Lunar swirls">
+                Swirls
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Rille" title="Rille">
+              Rilles
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Wrinkle_ridge" title="Wrinkle ridge">
+              Wrinkle ridges
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Moon_rock" title="Moon rock">
+              Rocks
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_basalt_70017" title="Lunar basalt 70017">
+                Lunar basalt 70017
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_water" title="Lunar water">
+              Water
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Space_weathering" title="Space weathering">
+              Space weathering
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Micrometeorite" title="Micrometeorite">
+                Micrometeorite
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Sputtering" title="Sputtering">
+                Sputtering
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Quake_(natural_phenomenon)#Moonquake" title="Quake (natural phenomenon)">
+              Quakes
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Transient_lunar_phenomenon" title="Transient lunar phenomenon">
+              Transient lunar phenomenon
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          Science
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Lunar_observation" title="Lunar observation">
+              Observation
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Libration#Lunar_libration" title="Libration">
+              Libration
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_theory" title="Lunar theory">
+              Lunar theory
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Origin_of_the_Moon" title="Origin of the Moon">
+              Origin
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Giant-impact_hypothesis" title="Giant-impact hypothesis">
+                Giant-impact hypothesis
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Theia_(planet)" title="Theia (planet)">
+                  Theia
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Lunar_magma_ocean" title="Lunar magma ocean">
+                  Lunar magma ocean
+                 </a>
+                </li>
+               </ul>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Geology_of_the_Moon" title="Geology of the Moon">
+              Geology
+             </a>
+             <ul>
+              <li>
+               <a class="mw-selflink selflink">
+                Timescale
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Late_Heavy_Bombardment" title="Late Heavy Bombardment">
+                  Late Heavy Bombardment
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li>
+               <a href="/wiki/Lunar_meteorite" title="Lunar meteorite">
+                Lunar meteorites
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/KREEP" title="KREEP">
+                KREEP
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             Experiments
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_Laser_Ranging_experiment" title="Lunar Laser Ranging experiment">
+                Lunar laser ranging
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Apollo_Lunar_Surface_Experiments_Package" title="Apollo Lunar Surface Experiments Package">
+                ALSEP
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_sample_displays" title="Lunar sample displays">
+              Lunar sample displays
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Apollo_11_lunar_sample_display" title="Apollo 11 lunar sample display">
+                Apollo 11
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Apollo_17_lunar_sample_display" title="Apollo 17 lunar sample display">
+                Apollo 17
+               </a>
+              </li>
+             </ul>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Exploration_of_the_Moon" title="Exploration of the Moon">
+           Exploration
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/List_of_missions_to_the_Moon" title="List of missions to the Moon">
+              Missions
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Apollo_program" title="Apollo program">
+                Apollo program
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/List_of_lunar_probes" title="List of lunar probes">
+              Probes
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Moon_landing" title="Moon landing">
+              Landing
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Moon_landing_conspiracy_theories" title="Moon landing conspiracy theories">
+                Conspiracy theories
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Colonization_of_the_Moon" title="Colonization of the Moon">
+              Colonization
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tourism_on_the_Moon" title="Tourism on the Moon">
+              Tourism
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          Time-telling
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Lunar_calendar" title="Lunar calendar">
+              Lunar calendar
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Lunisolar_calendar" title="Lunisolar calendar">
+              Lunisolar calendar
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Month" title="Month">
+              Month
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_month" title="Lunar month">
+                Lunar month
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Nodal_period" title="Nodal period">
+                  Nodal period
+                 </a>
+                </li>
+               </ul>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Fortnight" title="Fortnight">
+              Fortnight
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Week" title="Week">
+              Sennight
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_mansion" title="Lunar mansion">
+              Lunar mansion
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Lunar_phase" title="Lunar phase">
+           Phases
+          </a>
+          &amp;
+          <br/>
+          names
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/New_moon" title="New moon">
+              New
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Full_moon" title="Full moon">
+              Full
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Full_moon#Full_moon_names" title="Full moon">
+                Names
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Crescent" title="Crescent">
+              Crescent
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Supermoon" title="Supermoon">
+              Super &amp; micro
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_eclipse" title="Lunar eclipse">
+              Blood
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Blue_moon" title="Blue moon">
+              Blue
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Black_moon" title="Black moon">
+              Black
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Dark_moon" title="Dark moon">
+              Dark
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Wet_moon" title="Wet moon">
+              Wet
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tetrad_(astronomy)" title="Tetrad (astronomy)">
+              Tetrad
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          Related
+          <br/>
+          topics
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             Psychology
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_effect" title="Lunar effect">
+                Lunar effect
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Moon_illusion" title="Moon illusion">
+                Moon illusion
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Pareidolia" title="Pareidolia">
+                Pareidolia
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Man_in_the_Moon" title="Man in the Moon">
+                  Man in the Moon
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Moon_rabbit" title="Moon rabbit">
+                  Moon rabbit
+                 </a>
+                </li>
+               </ul>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/List_of_people_with_craters_of_the_Moon_named_after_them" title="List of people with craters of the Moon named after them">
+              Craters named after people
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/List_of_extraterrestrial_memorials#The_Moon" title="List of extraterrestrial memorials">
+              Memorials on the Moon
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Moon_in_fiction" title="Moon in fiction">
+              Moon in fiction
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/List_of_lunar_deities" title="List of lunar deities">
+              Moon in mythology
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Hj%C3%BAki_and_Bil" title="Hjúki and Bil">
+                Hjúki and Bil
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             "
+             <a href="/wiki/The_Moon_is_made_of_green_cheese" title="The Moon is made of green cheese">
+              Moon is made of green cheese
+             </a>
+             "
+            </li>
+            <li>
+             <a href="/wiki/Natural_satellite" title="Natural satellite">
+              Natural satellite
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Double_planet" title="Double planet">
+              Double planet
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Planetary_objects_proposed_in_religion,_astrology,_ufology_and_pseudoscience#Lilith" title="Planetary objects proposed in religion, astrology, ufology and pseudoscience">
+              Lilith (hypothetical second moon)
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <td class="navbox-abovebelow" colspan="3" style="text-align: center;">
+          <div>
+           <ul>
+            <li>
+             <img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/>
+             <b>
+              <a href="/wiki/Category:Moon" title="Category:Moon">
+               Category
+              </a>
+             </b>
+            </li>
+            <li>
+             <img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/>
+             <b>
+              <a href="/wiki/Portal:Moon" title="Portal:Moon">
+               Moon portal
+              </a>
+             </b>
+            </li>
+            <li>
+             <img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/>
+             <b>
+              <a href="/wiki/Portal:Earth_sciences" title="Portal:Earth sciences">
+               Earth sciences portal
+              </a>
+             </b>
+            </li>
+            <li>
+             <img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/>
+             <b>
+              <a href="/wiki/Portal:Solar_System" title="Portal:Solar System">
+               Solar System portal
+              </a>
+             </b>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1261
+Cached time: 20180320140732
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.176 seconds
+Real time usage: 0.373 seconds
+Preprocessor visited node count: 607/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 39921/2097152 bytes
+Template argument size: 88/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 7319/5000000 bytes
+Lua time usage: 0.077/10.000 seconds
+Lua memory usage: 3.63 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  311.910      1 -total
+ 46.59%  145.304      1 Template:Timeline_Lunar_Geological_Timescale
+ 27.77%   86.619      1 Template:Reflist
+ 14.03%   43.754      2 Template:Cite_book
+  7.55%   23.535      1 Template:The_Moon
+  6.96%   21.711      4 Template:Cite_journal
+  6.74%   21.015      1 Template:Navbox
+  5.91%   18.449      5 Template:Main
+  4.60%   14.344      1 Template:Multiple_image
+  3.30%   10.297      4 Template:Icon
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:206589-0!canonical and timestamp 20180320140732 and revision id 765888465
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Lunar_geologic_timescale&amp;oldid=765888465">
+      https://en.wikipedia.org/w/index.php?title=Lunar_geologic_timescale&amp;oldid=765888465
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Lunar_geologic_periods" title="Category:Lunar geologic periods">
+         Lunar geologic periods
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Lunar_science" title="Category:Lunar science">
+         Lunar science
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Geology_timelines" title="Category:Geology timelines">
+         Geology timelines
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">
+         CS1 maint: Multiple names: authors list
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Pages_using_multiple_image_with_manual_scaled_images" title="Category:Pages using multiple image with manual scaled images">
+         Pages using multiple image with manual scaled images
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Lunar+geologic+timescale" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Lunar+geologic+timescale" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Lunar_geologic_timescale" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Lunar_geologic_timescale" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Lunar_geologic_timescale">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Lunar_geologic_timescale&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Lunar_geologic_timescale&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Lunar_geologic_timescale" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Lunar_geologic_timescale" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Lunar_geologic_timescale&amp;oldid=765888465" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Lunar_geologic_timescale&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q386638" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Lunar_geologic_timescale&amp;id=765888465" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Lunar+geologic+timescale">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Lunar+geologic+timescale&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Lunar_geologic_timescale&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%85%D9%82%D9%8A%D8%A7%D8%B3_%D8%B2%D9%85%D9%86%D9%8A_%D8%AC%D9%8A%D9%88%D9%84%D9%88%D8%AC%D9%8A_%D9%82%D9%85%D8%B1%D9%8A" hreflang="ar" lang="ar" title="مقياس زمني جيولوجي قمري – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Escala_de_temps_geol%C3%B2gics_de_la_Lluna" hreflang="ca" lang="ca" title="Escala de temps geològics de la Lluna – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Stratigrafie_M%C4%9Bs%C3%ADce" hreflang="cs" lang="cs" title="Stratigrafie Měsíce – Czech">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/M%C3%A5nens_geologiske_tidsaldre" hreflang="da" lang="da" title="Månens geologiske tidsaldre – Danish">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Lunare_Zeitskala" hreflang="de" lang="de" title="Lunare Zeitskala – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-el">
+        <a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%A3%CE%B5%CE%BB%CE%B7%CE%BD%CE%B9%CE%B1%CE%BA%CE%AE_%CE%B3%CE%B5%CF%89%CE%BB%CE%BF%CE%B3%CE%B9%CE%BA%CE%AE_%CF%87%CF%81%CE%BF%CE%BD%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BB%CE%AF%CE%BC%CE%B1%CE%BA%CE%B1" hreflang="el" lang="el" title="Σεληνιακή γεωλογική χρονολογική κλίμακα – Greek">
+         Ελληνικά
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Escala_de_tiempo_geol%C3%B3gico_lunar" hreflang="es" lang="es" title="Escala de tiempo geológico lunar – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%B2%D9%85%D8%A7%D9%86%E2%80%8C%D8%A8%D9%86%D8%AF%DB%8C_%D8%B2%D9%85%DB%8C%D9%86%E2%80%8C%D8%B4%D9%86%D8%A7%D8%B3%DB%8C_%D9%85%D8%A7%D9%87" hreflang="fa" lang="fa" title="زمان‌بندی زمین‌شناسی ماه – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/%C3%89chelle_des_temps_g%C3%A9ologiques_lunaires" hreflang="fr" lang="fr" title="Échelle des temps géologiques lunaires – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hr">
+        <a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Mjese%C4%8Deva_geolo%C5%A1ka_kronologija" hreflang="hr" lang="hr" title="Mjesečeva geološka kronologija – Croatian">
+         Hrvatski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Skala_waktu_geologi_Bulan" hreflang="id" lang="id" title="Skala waktu geologi Bulan – Indonesian">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Scala_dei_tempi_geologici_lunari" hreflang="it" lang="it" title="Scala dei tempi geologici lunari – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lt">
+        <a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Geologin%C4%97_M%C4%97nulio_laiko_skal%C4%97" hreflang="lt" lang="lt" title="Geologinė Mėnulio laiko skalė – Lithuanian">
+         Lietuvių
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Geologische_tijdschaal_van_de_Maan" hreflang="nl" lang="nl" title="Geologische tijdschaal van de Maan – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E6%9C%88%E3%81%AE%E5%9C%B0%E8%B3%AA%E5%B9%B4%E4%BB%A3%E5%B0%BA%E5%BA%A6" hreflang="ja" lang="ja" title="月の地質年代尺度 – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/M%C3%A5nens_geologiske_tidsskala" hreflang="no" lang="no" title="Månens geologiske tidsskala – Norwegian">
+         Norsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Escala_de_tempo_geol%C3%B3gico_lunar" hreflang="pt" lang="pt" title="Escala de tempo geológico lunar – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BB%D0%B5%D0%BD%D0%BE%D1%85%D1%80%D0%BE%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%88%D0%BA%D0%B0%D0%BB%D0%B0" hreflang="ru" lang="ru" title="Селенохронологическая шкала – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sh">
+        <a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Lunarna_geolo%C5%A1ka_kronologija" hreflang="sh" lang="sh" title="Lunarna geološka kronologija – Serbo-Croatian">
+         Srpskohrvatski / српскохрватски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Kuun_geologinen_ajanlasku" hreflang="fi" lang="fi" title="Kuun geologinen ajanlasku – Finnish">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ta">
+        <a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AF%81%E0%AE%B5%E0%AE%BF_%E0%AE%A8%E0%AE%BF%E0%AE%B2%E0%AE%BE%E0%AE%B5%E0%AE%BF%E0%AE%A9%E0%AF%8D_%E0%AE%A8%E0%AE%BF%E0%AE%B2%E0%AE%AE%E0%AF%8D_%E0%AE%9A%E0%AE%BE%E0%AE%B0%E0%AF%8D%E0%AE%A8%E0%AF%8D%E0%AE%A4_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AF%81%E0%AE%95%E0%AF%8D_%E0%AE%95%E0%AE%BE%E0%AE%B2%E0%AE%85%E0%AE%B3%E0%AE%B5%E0%AF%81%E0%AE%95%E0%AF%8B%E0%AE%B2%E0%AF%8D" hreflang="ta" lang="ta" title="புவி நிலாவின் நிலம் சார்ந்த வரலாற்றுக் காலஅளவுகோல் – Tamil">
+         தமிழ்
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E6%9C%88%E7%90%83%E5%9C%B0%E8%B4%A8%E5%B9%B4%E4%BB%A3" hreflang="zh" lang="zh" title="月球地质年代 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q386638#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 17 February 2017, at 00:12.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Lunar_geologic_timescale&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.176","walltime":"0.373","ppvisitednodes":{"value":607,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":39921,"limit":2097152},"templateargumentsize":{"value":88,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":7319,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  311.910      1 -total"," 46.59%  145.304      1 Template:Timeline_Lunar_Geological_Timescale"," 27.77%   86.619      1 Template:Reflist"," 14.03%   43.754      2 Template:Cite_book","  7.55%   23.535      1 Template:The_Moon","  6.96%   21.711      4 Template:Cite_journal","  6.74%   21.015      1 Template:Navbox","  5.91%   18.449      5 Template:Main","  4.60%   14.344      1 Template:Multiple_image","  3.30%   10.297      4 Template:Icon"]},"scribunto":{"limitreport-timeusage":{"value":"0.077","limit":"10.000"},"limitreport-memusage":{"value":3807678,"limit":52428800}},"cachereport":{"origin":"mw1261","timestamp":"20180320140732","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":88,"wgHostname":"mw1332"});});
+  </script>
+ </body>
+</html>

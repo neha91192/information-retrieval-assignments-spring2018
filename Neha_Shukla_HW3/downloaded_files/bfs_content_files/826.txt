@@ -1,0 +1,3404 @@
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Pareidolia - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Pareidolia","wgTitle":"Pareidolia","wgCurRevisionId":830274026,"wgRevisionId":830274026,"wgArticleId":649382,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with self-published sources","Articles with self-published sources from September 2015","All articles with unsourced statements","Articles with unsourced statements from July 2015","20th-century neologisms","Auditory illusions","Cognitive biases","Forteana","Optical illusions","Perception","Visual perception"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Pareidolia","wgRelevantArticleId":649382,"wgRequestId":"WrFTnQpAIC0AAKxohLoAAADH","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q506422","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.25" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/7/77/Martian_face_viking_cropped.jpg" property="og:image"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Pareidolia" rel="alternate"/>
+  <link href="/w/index.php?title=Pareidolia&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Pareidolia&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Pareidolia" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Pareidolia rootpage-Pareidolia skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Pareidolia
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:202px;">
+        <a class="image" href="/wiki/File:Martian_face_viking_cropped.jpg">
+         <img alt="" class="thumbimage" data-file-height="175" data-file-width="200" height="175" src="//upload.wikimedia.org/wikipedia/commons/7/77/Martian_face_viking_cropped.jpg" width="200"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Martian_face_viking_cropped.jpg" title="Enlarge">
+          </a>
+         </div>
+         Satellite photo of a
+         <a href="/wiki/Mesa" title="Mesa">
+          mesa
+         </a>
+         in the
+         <a href="/wiki/Cydonia_(region_of_Mars)" title="Cydonia (region of Mars)">
+          Cydonia region of Mars
+         </a>
+         , often called the "
+         <a href="/wiki/Cydonia_(region_of_Mars)" title="Cydonia (region of Mars)">
+          Face on Mars
+         </a>
+         " and cited as evidence of
+         <a href="/wiki/Extraterrestrial_life" title="Extraterrestrial life">
+          extraterrestrial
+         </a>
+         habitation. Subsequent higher-resolution photos from multiple viewpoints demonstrated that the "face" is in fact a natural rock formation.
+        </div>
+       </div>
+      </div>
+      <p>
+       <b>
+        Pareidolia
+       </b>
+       (
+       <span class="nowrap">
+        <span class="IPA nopopups noexcerpt">
+         <a href="/wiki/Help:IPA/English" title="Help:IPA/English">
+          /
+          <span style="border-bottom:1px dotted">
+           <span title="'p' in 'pie'">
+            p
+           </span>
+           <span title="/ær/: 'arr' in 'marry'">
+            ær
+           </span>
+           <span title="/ɪ/: 'i' in 'kit'">
+            ɪ
+           </span>
+           <span title="/ˈ/: primary stress follows">
+            ˈ
+           </span>
+           <span title="'d' in 'dye'">
+            d
+           </span>
+           <span title="/oʊ/: 'o' in 'code'">
+            oʊ
+           </span>
+           <span title="'l' in 'lie'">
+            l
+           </span>
+           <span title="/i/: 'y' in 'happy'">
+            i
+           </span>
+           <span title="/ə/: 'a' in 'about'">
+            ə
+           </span>
+          </span>
+          /
+         </a>
+        </span>
+       </span>
+       <a href="/wiki/Help:Pronunciation_respelling_key" title="Help:Pronunciation respelling key">
+        <i title="English pronunciation respelling">
+         parr-i-
+         <span style="font-size:90%">
+          DOH
+         </span>
+         -lee-ə
+        </i>
+       </a>
+       ) is a psychological phenomenon in which the mind responds to a
+       <a href="/wiki/Stimulation" title="Stimulation">
+        stimulus
+       </a>
+       , usually an image or a sound, by perceiving a familiar pattern where none exists.
+      </p>
+      <p>
+       Common examples are perceived images of animals, faces, or objects in cloud formations, the
+       <a href="/wiki/Man_in_the_Moon" title="Man in the Moon">
+        Man in the Moon
+       </a>
+       , the
+       <a href="/wiki/Moon_rabbit" title="Moon rabbit">
+        Moon rabbit
+       </a>
+       ,
+       <a href="/wiki/Hidden_message" title="Hidden message">
+        hidden messages
+       </a>
+       within recorded music played in reverse or at higher- or lower-than-normal speeds, and hearing indistinct voices in random noise such as that produced by air conditioners or fans.
+       <sup class="reference" id="cite_ref-1">
+        <a href="#cite_note-1">
+         [1]
+        </a>
+       </sup>
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Etymology">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Etymology
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#Explanations">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Explanations
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-3">
+         <a href="#Mimetoliths">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           Mimetoliths
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-4">
+         <a href="#Projective_tests">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           Projective tests
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-5">
+         <a href="#Art">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           Art
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-6">
+         <a href="#Religious">
+          <span class="tocnumber">
+           6
+          </span>
+          <span class="toctext">
+           Religious
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-7">
+         <a href="#Computer_vision">
+          <span class="tocnumber">
+           7
+          </span>
+          <span class="toctext">
+           Computer vision
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-8">
+         <a href="#Speech">
+          <span class="tocnumber">
+           8
+          </span>
+          <span class="toctext">
+           Speech
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-9">
+         <a href="#Related_phenomena">
+          <span class="tocnumber">
+           9
+          </span>
+          <span class="toctext">
+           Related phenomena
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-10">
+         <a href="#Famous_examples">
+          <span class="tocnumber">
+           10
+          </span>
+          <span class="toctext">
+           Famous examples
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-11">
+         <a href="#See_also">
+          <span class="tocnumber">
+           11
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-12">
+         <a href="#References">
+          <span class="tocnumber">
+           12
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-13">
+         <a href="#External_links">
+          <span class="tocnumber">
+           13
+          </span>
+          <span class="toctext">
+           External links
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Etymology">
+        Etymology
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Pareidolia&amp;action=edit&amp;section=1" title="Edit section: Etymology">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       The word derives from the Greek words
+       <i>
+        <a class="extiw" href="https://en.wiktionary.org/wiki/para-" title="wikt:para-">
+         para
+        </a>
+       </i>
+       (παρά, "beside, alongside, instead [of]" — in this context meaning something faulty or wrong) and the noun
+       <a class="extiw" href="https://en.wiktionary.org/wiki/%CE%B5%E1%BC%B4%CE%B4%CF%89%CE%BB%CE%BF%CE%BD" title="wikt:εἴδωλον">
+        <i>
+         eidōlon
+        </i>
+       </a>
+       (εἴδωλον "image, form, shape" — the diminutive of
+       <i>
+        <a class="mw-redirect" href="/wiki/Theory_of_Forms" title="Theory of Forms">
+         eidos
+        </a>
+       </i>
+       ).
+      </p>
+      <h2>
+       <span class="mw-headline" id="Explanations">
+        Explanations
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Pareidolia&amp;action=edit&amp;section=2" title="Edit section: Explanations">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Emojione_BW_1F611.svg">
+         <img alt="" class="thumbimage" data-file-height="512" data-file-width="512" height="220" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Emojione_BW_1F611.svg/220px-Emojione_BW_1F611.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Emojione_BW_1F611.svg/330px-Emojione_BW_1F611.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Emojione_BW_1F611.svg/440px-Emojione_BW_1F611.svg.png 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Emojione_BW_1F611.svg" title="Enlarge">
+          </a>
+         </div>
+         A simple collection of lines can be quickly perceived as a face, and even be interpreted as expressing a particular emotion
+        </div>
+       </div>
+      </div>
+      <p>
+       Pareidolia can cause people to interpret random images, or patterns of light and shadow, as faces.
+       <sup class="reference" id="cite_ref-2">
+        <a href="#cite_note-2">
+         [2]
+        </a>
+       </sup>
+       A 2009
+       <a href="/wiki/Magnetoencephalography" title="Magnetoencephalography">
+        magnetoencephalography
+       </a>
+       study found that objects perceived as faces evoke an early (165
+       <abbr title="millseconds">
+        ms
+       </abbr>
+       ) activation of the
+       <a href="/wiki/Fusiform_face_area" title="Fusiform face area">
+        fusiform face area
+       </a>
+       at a time and location similar to that evoked by faces, whereas other common objects do not evoke such activation. This activation is similar to a slightly faster time (130 ms) that is seen for images of real faces. The authors suggest that face perception evoked by face-like objects is a relatively early process, and not a late cognitive reinterpretation phenomenon.
+       <sup class="reference" id="cite_ref-pmid19218867_3-0">
+        <a href="#cite_note-pmid19218867-3">
+         [3]
+        </a>
+       </sup>
+       A
+       <a href="/wiki/Functional_magnetic_resonance_imaging" title="Functional magnetic resonance imaging">
+        functional magnetic resonance imaging
+       </a>
+       (fMRI) study in 2011 similarly showed that repeated presentation of novel visual shapes that were interpreted as meaningful led to decreased fMRI responses for real objects. These results indicate that the interpretation of ambiguous stimuli depends upon processes similar to those elicited by known objects.
+       <sup class="reference" id="cite_ref-pmid22079921_4-0">
+        <a href="#cite_note-pmid22079921-4">
+         [4]
+        </a>
+       </sup>
+      </p>
+      <p>
+       These studies help to explain why people identify a few circles and a line as a "face" so quickly and without hesitation.
+       <a href="/wiki/Cognition" title="Cognition">
+        Cognitive processes
+       </a>
+       are activated by the "face-like" object, which alert the observer to both the emotional state and
+       <a href="/wiki/Identity_(philosophy)" title="Identity (philosophy)">
+        identity
+       </a>
+       of the subject, even before the conscious mind begins to process or even receive the information. A "stick figure face", despite its simplicity, can convey mood information, and be drawn to indicate emotions such as happiness or anger. This robust and subtle capability is hypothesized to be the result of eons of natural selection favoring people most able to quickly identify the mental state, for example, of threatening people, thus providing the individual an opportunity to flee or attack pre-emptively. In other words, processing this information subcortically — therefore subconsciously — before it is passed on to the rest of the brain for detailed processing accelerates judgment and decision making when a fast reaction is needed.
+       <sup class="reference" id="cite_ref-recog_5-0">
+        <a href="#cite_note-recog-5">
+         [5]
+        </a>
+       </sup>
+       This ability, though highly specialized for the processing and
+       <a href="/wiki/Emotion_recognition" title="Emotion recognition">
+        recognition of
+        <i>
+         human
+        </i>
+        emotions
+       </a>
+       , also functions to determine the demeanor of wildlife.
+       <sup class="reference" id="cite_ref-dog_6-0">
+        <a href="#cite_note-dog-6">
+         [6]
+        </a>
+       </sup>
+      </p>
+      <p>
+       Pareidolia can be considered a subcategory of
+       <a href="/wiki/Apophenia" title="Apophenia">
+        Apophenia
+       </a>
+       .
+      </p>
+      <h2>
+       <span class="mw-headline" id="Mimetoliths">
+        Mimetoliths
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Pareidolia&amp;action=edit&amp;section=3" title="Edit section: Mimetoliths">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Rocks may come to mimic recognizable forms through the random processes of formation, weathering and erosion. Most often, the size scale of the rock is larger than the object it resembles, such as a cliff profile resembling a human face. Well-meaning people with a new interest in fossils can pick up
+       <a href="/wiki/Chert" title="Chert">
+        chert
+       </a>
+       nodules,
+       <a href="/wiki/Concretion" title="Concretion">
+        concretions
+       </a>
+       or pebbles resembling bones, skulls, turtle shells, dinosaur eggs, etc., in both size and shape.
+      </p>
+      <p>
+       In the late 1970s and early 1980s, Japanese researcher
+       <a href="/wiki/Chonosuke_Okamura" title="Chonosuke Okamura">
+        Chonosuke Okamura
+       </a>
+       self-published a series of reports titled
+       <i>
+        Original Report of the Okamura Fossil Laboratory
+       </i>
+       , in which he described tiny inclusions in polished
+       <a href="/wiki/Limestone" title="Limestone">
+        limestone
+       </a>
+       from the
+       <a href="/wiki/Silurian" title="Silurian">
+        Silurian
+       </a>
+       period (425
+       <a href="/wiki/Year#Mya" title="Year">
+        mya
+       </a>
+       ) as being preserved
+       <a href="/wiki/Fossil" title="Fossil">
+        fossil
+       </a>
+       remains of tiny humans, gorillas, dogs, dragons, dinosaurs and other organisms, all of them only millimeters long, leading him to claim, "There have been no changes in the bodies of mankind since the Silurian period... except for a growth in stature from 3.5 mm to 1,700 mm."
+       <sup class="reference" id="cite_ref-7">
+        <a href="#cite_note-7">
+         [7]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-8">
+        <a href="#cite_note-8">
+         [8]
+        </a>
+       </sup>
+       Okamura's research earned him an
+       <a href="/wiki/Ig_Nobel_Prize" title="Ig Nobel Prize">
+        Ig Nobel Prize
+       </a>
+       (a parody of the Nobel Prizes) in
+       <a href="/wiki/Biodiversity" title="Biodiversity">
+        biodiversity
+       </a>
+       in 1996.
+       <sup class="reference" id="cite_ref-9">
+        <a href="#cite_note-9">
+         [9]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-10">
+        <a href="#cite_note-10">
+         [10]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Projective_tests">
+        Projective tests
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Pareidolia&amp;action=edit&amp;section=4" title="Edit section: Projective tests">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main article:
+       <a href="/wiki/Rorschach_test" title="Rorschach test">
+        Rorschach test
+       </a>
+      </div>
+      <p>
+       The
+       <a href="/wiki/Rorschach_test" title="Rorschach test">
+        Rorschach inkblot test
+       </a>
+       uses pareidolia in an attempt to gain insight into a person's mental state. The Rorschach is a projective test, as it intentionally elicits the thoughts or feelings of respondents that are "projected" onto the ambiguous inkblot images. Projection in this instance is a form of "directed pareidolia".
+       <sup class="reference" id="cite_ref-zusne_11-0">
+        <a href="#cite_note-zusne-11">
+         [11]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Art">
+        Art
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Pareidolia&amp;action=edit&amp;section=5" title="Edit section: Art">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Giuseppe_Arcimboldo_-_The_Jurist_-_WGA00837.jpg">
+         <img alt="" class="thumbimage" data-file-height="1100" data-file-width="861" height="281" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Giuseppe_Arcimboldo_-_The_Jurist_-_WGA00837.jpg/220px-Giuseppe_Arcimboldo_-_The_Jurist_-_WGA00837.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Giuseppe_Arcimboldo_-_The_Jurist_-_WGA00837.jpg/330px-Giuseppe_Arcimboldo_-_The_Jurist_-_WGA00837.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Giuseppe_Arcimboldo_-_The_Jurist_-_WGA00837.jpg/440px-Giuseppe_Arcimboldo_-_The_Jurist_-_WGA00837.jpg 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Giuseppe_Arcimboldo_-_The_Jurist_-_WGA00837.jpg" title="Enlarge">
+          </a>
+         </div>
+         <i>
+          <a href="/wiki/The_Jurist_(painting)" title="The Jurist (painting)">
+           The Jurist
+          </a>
+         </i>
+         by
+         <a href="/wiki/Giuseppe_Arcimboldo" title="Giuseppe Arcimboldo">
+          Giuseppe Arcimboldo
+         </a>
+         , 1566. What appears to be its face is a collection of fish and poultry.
+        </div>
+       </div>
+      </div>
+      <p>
+       In his notebooks,
+       <a href="/wiki/Leonardo_da_Vinci" title="Leonardo da Vinci">
+        Leonardo da Vinci
+       </a>
+       wrote of pareidolia as a device for painters, writing, "If you look at any walls spotted with various stains or with a mixture of different kinds of stones, if you are about to invent some scene you will be able to see in it a resemblance to various different landscapes adorned with mountains, rivers, rocks, trees, plains, wide valleys, and various groups of hills. You will also be able to see divers combats and figures in quick movement, and strange expressions of faces, and outlandish costumes, and an infinite number of things which you can then reduce into separate and well conceived forms."
+       <sup class="reference" id="cite_ref-12">
+        <a href="#cite_note-12">
+         [12]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Religious">
+        Religious
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Pareidolia&amp;action=edit&amp;section=6" title="Edit section: Religious">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Further information:
+       <a href="/wiki/Perceptions_of_religious_imagery_in_natural_phenomena" title="Perceptions of religious imagery in natural phenomena">
+        Perceptions of religious imagery in natural phenomena
+       </a>
+      </div>
+      <p>
+       There have been many instances of perceptions of religious imagery and themes, especially the faces of religious figures, in ordinary phenomena. Many involve images of
+       <a href="/wiki/Jesus" title="Jesus">
+        Jesus
+       </a>
+       ,
+       <sup class="reference" id="cite_ref-zusne_11-1">
+        <a href="#cite_note-zusne-11">
+         [11]
+        </a>
+       </sup>
+       the
+       <a href="/wiki/Mary,_mother_of_Jesus" title="Mary, mother of Jesus">
+        Virgin Mary
+       </a>
+       ,
+       <sup class="reference" id="cite_ref-13">
+        <a href="#cite_note-13">
+         [13]
+        </a>
+       </sup>
+       the word
+       <a href="/wiki/Allah" title="Allah">
+        Allah
+       </a>
+       ,
+       <sup class="reference" id="cite_ref-14">
+        <a href="#cite_note-14">
+         [14]
+        </a>
+       </sup>
+       or other religious phenomena: in September 2007 in
+       <a href="/wiki/Singapore" title="Singapore">
+        Singapore
+       </a>
+       , for example, a
+       <a href="/wiki/Callus_(cell_biology)" title="Callus (cell biology)">
+        callus
+       </a>
+       on a tree resembled a
+       <a href="/wiki/Monkey" title="Monkey">
+        monkey
+       </a>
+       , leading believers to pay homage to the "Monkey god" (either
+       <a href="/wiki/Sun_Wukong" title="Sun Wukong">
+        Sun Wukong
+       </a>
+       or
+       <a href="/wiki/Hanuman" title="Hanuman">
+        Hanuman
+       </a>
+       ) in the
+       <a href="/wiki/Monkey_tree_phenomenon" title="Monkey tree phenomenon">
+        monkey tree phenomenon
+       </a>
+       .
+       <sup class="reference" id="cite_ref-Ng_Hui_Hui_15-0">
+        <a href="#cite_note-Ng_Hui_Hui-15">
+         [15]
+        </a>
+       </sup>
+      </p>
+      <p>
+       Publicity surrounding sightings of religious figures and other surprising images in ordinary objects has spawned a market for such items on online auctions like
+       <a href="/wiki/EBay" title="EBay">
+        eBay
+       </a>
+       . One famous instance was a grilled cheese sandwich with the face of the Virgin Mary.
+       <sup class="reference" id="cite_ref-16">
+        <a href="#cite_note-16">
+         [16]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Computer_vision">
+        Computer vision
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Pareidolia&amp;action=edit&amp;section=7" title="Edit section: Computer vision">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Aurelia-aurita-3-0049_(cropped).jpg">
+         <img alt="" class="thumbimage" data-file-height="448" data-file-width="610" height="162" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Aurelia-aurita-3-0049_%28cropped%29.jpg/220px-Aurelia-aurita-3-0049_%28cropped%29.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Aurelia-aurita-3-0049_%28cropped%29.jpg/330px-Aurelia-aurita-3-0049_%28cropped%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Aurelia-aurita-3-0049_%28cropped%29.jpg/440px-Aurelia-aurita-3-0049_%28cropped%29.jpg 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Aurelia-aurita-3-0049_(cropped).jpg" title="Enlarge">
+          </a>
+         </div>
+         Given an image of jellyfish swimming, the
+         <a href="/wiki/DeepDream" title="DeepDream">
+          DeepDream
+         </a>
+         program can be encouraged to "see" the faces and limbs of dogs
+        </div>
+       </div>
+      </div>
+      <p>
+       Pareidolia also arises in
+       <a href="/wiki/Computer_vision" title="Computer vision">
+        computer vision
+       </a>
+       ,
+       <sup class="reference" id="cite_ref-17">
+        <a href="#cite_note-17">
+         [17]
+        </a>
+       </sup>
+       specifically in
+       <a href="/wiki/Computer_vision#Recognition" title="Computer vision">
+        image recognition
+       </a>
+       programs, which can spuriously detect
+       <a href="/wiki/Feature_(machine_learning)" title="Feature (machine learning)">
+        features
+       </a>
+       . In the case of an
+       <a href="/wiki/Artificial_neural_network" title="Artificial neural network">
+        artificial neural network
+       </a>
+       , higher-level features correspond to more recognizable features, and enhancing these features brings out what the computer sees. These reflect the training set of images that the network has "seen" previously.
+      </p>
+      <p>
+       Striking visuals can be produced in this way, notably in the
+       <a href="/wiki/DeepDream" title="DeepDream">
+        DeepDream
+       </a>
+       software, which falsely detects and then exaggerates features such as eyes and faces in any image.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Speech">
+        Speech
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Pareidolia&amp;action=edit&amp;section=8" title="Edit section: Speech">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       In 1971
+       <a href="/wiki/Konstant%C4%ABns_Raudive" title="Konstantīns Raudive">
+        Konstantīns Raudive
+       </a>
+       wrote
+       <i>
+        Breakthrough
+       </i>
+       , detailing what he believed was the discovery of
+       <a href="/wiki/Electronic_voice_phenomenon" title="Electronic voice phenomenon">
+        electronic voice phenomena
+       </a>
+       (EVP). EVP has been described as auditory pareidolia.
+       <sup class="reference" id="cite_ref-zusne_11-2">
+        <a href="#cite_note-zusne-11">
+         [11]
+        </a>
+       </sup>
+       Allegations of
+       <a href="/wiki/Backmasking" title="Backmasking">
+        backmasking
+       </a>
+       in popular music, in which a listener claims a message has been recorded backward onto a track meant to be played forward, have also been described as auditory pareidolia.
+       <sup class="reference" id="cite_ref-zusne_11-3">
+        <a href="#cite_note-zusne-11">
+         [11]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-18">
+        <a href="#cite_note-18">
+         [18]
+        </a>
+       </sup>
+       In 1995, the psychologist
+       <a href="/wiki/Diana_Deutsch" title="Diana Deutsch">
+        Diana Deutsch
+       </a>
+       invented an algorithm for producing phantom words and phrases with the sounds coming from two stereo loudspeakers, with one to the listener's left and the other to his right. Each loudspeaker produces a phrase consisting of two words or syllables. The same sequence is presented repeatedly through both loudspeakers; however, they are offset in time so that one when the first sound (word or syllable) is coming from the speaker on the left, the second sound is coming from the speaker on the right, and vice versa. After listening for a while, phantom words and phrases suddenly emerge, and these often appear to reflect what is on the listener's mind, and they transform perceptually into different words and phrases as the sequence continues.
+       <sup class="reference" id="cite_ref-19">
+        <a href="#cite_note-19">
+         [19]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-20">
+        <a href="#cite_note-20">
+         [20]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Related_phenomena">
+        Related phenomena
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Pareidolia&amp;action=edit&amp;section=9" title="Edit section: Related phenomena">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Various European ancient
+       <a href="/wiki/Divination" title="Divination">
+        divination
+       </a>
+       practices involved the interpretation of shadows cast by objects. For example, in
+       <a href="/wiki/Molybdomancy" title="Molybdomancy">
+        molybdomancy
+       </a>
+       , a random shape produced by pouring molten tin into cold water is interpreted by the shadow it casts in candlelight.
+       <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+        [
+        <i>
+         <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+          <span title="This claim needs references to reliable sources. (July 2015)">
+           citation needed
+          </span>
+         </a>
+        </i>
+        ]
+       </sup>
+      </p>
+      <p>
+       A
+       <a href="/wiki/Shadow_person" title="Shadow person">
+        shadow person
+       </a>
+       (also known as a shadow figure, shadow being or black mass) is often attributed to pareidolia. It is the perception of a patch of shadow as a living, humanoid figure, particularly as interpreted by believers in the
+       <a href="/wiki/Paranormal" title="Paranormal">
+        paranormal
+       </a>
+       or
+       <a href="/wiki/Supernatural" title="Supernatural">
+        supernatural
+       </a>
+       as the presence of a spirit or other entity.
+       <sup class="reference" id="cite_ref-Idiot's_Guide_21-0">
+        <a href="#cite_note-Idiot's_Guide-21">
+         [21]
+        </a>
+       </sup>
+      </p>
+      <p>
+       Pareidolia is also what some skeptics believe causes people to believe that they have seen
+       <a href="/wiki/Ghost#Scientific_view" title="Ghost">
+        ghosts
+       </a>
+       .
+       <sup class="reference" id="cite_ref-22">
+        <a href="#cite_note-22">
+         [22]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Famous_examples">
+        Famous examples
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Pareidolia&amp;action=edit&amp;section=10" title="Edit section: Famous examples">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul class="gallery mw-gallery-traditional">
+       <li class="gallerybox" style="width: 155px">
+        <div style="width: 155px">
+         <div class="thumb" style="width: 150px;">
+          <div style="margin:15px auto;">
+           <a class="image" href="/wiki/File:Bucegi_Sphinx_-_Romania_-_August_2007.jpg">
+            <img alt="" data-file-height="2816" data-file-width="2112" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Bucegi_Sphinx_-_Romania_-_August_2007.jpg/90px-Bucegi_Sphinx_-_Romania_-_August_2007.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Bucegi_Sphinx_-_Romania_-_August_2007.jpg/135px-Bucegi_Sphinx_-_Romania_-_August_2007.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/72/Bucegi_Sphinx_-_Romania_-_August_2007.jpg/180px-Bucegi_Sphinx_-_Romania_-_August_2007.jpg 2x" width="90"/>
+           </a>
+          </div>
+         </div>
+         <div class="gallerytext">
+          <p>
+           The
+           <a href="/wiki/Sphinx_(Romania)" title="Sphinx (Romania)">
+            Romanian Sphinx
+           </a>
+           in Bucegi Mountains
+          </p>
+         </div>
+        </div>
+       </li>
+       <li class="gallerybox" style="width: 155px">
+        <div style="width: 155px">
+         <div class="thumb" style="width: 150px;">
+          <div style="margin:30px auto;">
+           <a class="image" href="/wiki/File:Pedra_da_Gavea_proche.jpg">
+            <img alt="" data-file-height="480" data-file-width="640" height="90" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Pedra_da_Gavea_proche.jpg/120px-Pedra_da_Gavea_proche.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Pedra_da_Gavea_proche.jpg/180px-Pedra_da_Gavea_proche.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Pedra_da_Gavea_proche.jpg/240px-Pedra_da_Gavea_proche.jpg 2x" width="120"/>
+           </a>
+          </div>
+         </div>
+         <div class="gallerytext">
+          <p>
+           <a href="/wiki/Archaeological_interest_of_Pedra_da_G%C3%A1vea" title="Archaeological interest of Pedra da Gávea">
+            Human face
+           </a>
+           on
+           <a href="/wiki/Pedra_da_G%C3%A1vea" title="Pedra da Gávea">
+            Pedra da Gavea
+           </a>
+           in Rio de Janeiro, Brazil, known as the "Head of the Emperor"
+          </p>
+         </div>
+        </div>
+       </li>
+       <li class="gallerybox" style="width: 155px">
+        <div style="width: 155px">
+         <div class="thumb" style="width: 150px;">
+          <div style="margin:30px auto;">
+           <a class="image" href="/wiki/File:Old_Man_of_the_Mountain_4-26-03.jpg">
+            <img alt="" data-file-height="768" data-file-width="1024" height="90" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Old_Man_of_the_Mountain_4-26-03.jpg/120px-Old_Man_of_the_Mountain_4-26-03.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Old_Man_of_the_Mountain_4-26-03.jpg/180px-Old_Man_of_the_Mountain_4-26-03.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/53/Old_Man_of_the_Mountain_4-26-03.jpg/240px-Old_Man_of_the_Mountain_4-26-03.jpg 2x" width="120"/>
+           </a>
+          </div>
+         </div>
+         <div class="gallerytext">
+          <p>
+           A late-April 2003 photo of The
+           <a href="/wiki/Old_Man_of_the_Mountain" title="Old Man of the Mountain">
+            Old Man of the Mountain
+           </a>
+           , only days before its collapse
+          </p>
+         </div>
+        </div>
+       </li>
+       <li class="gallerybox" style="width: 155px">
+        <div style="width: 155px">
+         <div class="thumb" style="width: 150px;">
+          <div style="margin:15px auto;">
+           <a class="image" href="/wiki/File:StampOldManMountain.jpg">
+            <img alt="" data-file-height="212" data-file-width="143" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/StampOldManMountain.jpg/81px-StampOldManMountain.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/StampOldManMountain.jpg/121px-StampOldManMountain.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/5/52/StampOldManMountain.jpg 2x" width="81"/>
+           </a>
+          </div>
+         </div>
+         <div class="gallerytext">
+          <p>
+           The
+           <a href="/wiki/Old_Man_of_the_Mountain" title="Old Man of the Mountain">
+            Old Man of the Mountain
+           </a>
+           in
+           <a href="/wiki/Franconia,_New_Hampshire" title="Franconia, New Hampshire">
+            Franconia, New Hampshire
+           </a>
+          </p>
+         </div>
+        </div>
+       </li>
+       <li class="gallerybox" style="width: 155px">
+        <div style="width: 155px">
+         <div class="thumb" style="width: 150px;">
+          <div style="margin:15px auto;">
+           <a class="image" href="/wiki/File:Par%C3%A9idolie_Cians.jpg">
+            <img alt="" data-file-height="1296" data-file-width="968" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Par%C3%A9idolie_Cians.jpg/90px-Par%C3%A9idolie_Cians.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Par%C3%A9idolie_Cians.jpg/134px-Par%C3%A9idolie_Cians.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/27/Par%C3%A9idolie_Cians.jpg/179px-Par%C3%A9idolie_Cians.jpg 2x" width="90"/>
+           </a>
+          </div>
+         </div>
+         <div class="gallerytext">
+          <p>
+           The "Grimacing human face" of red shale (
+           <a href="/wiki/Cians" title="Cians">
+            Cians
+           </a>
+           ,
+           <a href="/wiki/Mercantour_National_Park" title="Mercantour National Park">
+            Mercantour National Park
+           </a>
+           )
+          </p>
+         </div>
+        </div>
+       </li>
+       <li class="gallerybox" style="width: 155px">
+        <div style="width: 155px">
+         <div class="thumb" style="width: 150px;">
+          <div style="margin:15px auto;">
+           <a class="image" href="/wiki/File:Staclevenish.jpg">
+            <img alt="" data-file-height="640" data-file-width="480" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Staclevenish.jpg/90px-Staclevenish.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Staclevenish.jpg/135px-Staclevenish.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Staclevenish.jpg/180px-Staclevenish.jpg 2x" width="90"/>
+           </a>
+          </div>
+         </div>
+         <div class="gallerytext">
+          <p>
+           The profile of
+           <a href="/wiki/Stac_Levenish" title="Stac Levenish">
+            Stac Levenish
+           </a>
+           island (
+           <a href="/wiki/St_Kilda,_Scotland" title="St Kilda, Scotland">
+            St Kilda archipelago
+           </a>
+           ,
+           <a href="/wiki/Scotland" title="Scotland">
+            Scotland
+           </a>
+           )
+          </p>
+         </div>
+        </div>
+       </li>
+       <li class="gallerybox" style="width: 155px">
+        <div style="width: 155px">
+         <div class="thumb" style="width: 150px;">
+          <div style="margin:15px auto;">
+           <a class="image" href="/wiki/File:Baba_Yaga.jpg">
+            <img alt="" data-file-height="3072" data-file-width="2304" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Baba_Yaga.jpg/90px-Baba_Yaga.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Baba_Yaga.jpg/135px-Baba_Yaga.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Baba_Yaga.jpg/180px-Baba_Yaga.jpg 2x" width="90"/>
+           </a>
+          </div>
+         </div>
+         <div class="gallerytext">
+          <p>
+           <a href="/wiki/Baba_Yaga" title="Baba Yaga">
+            Baba Yaga
+           </a>
+           at the
+           <a href="/wiki/Bayanaul_National_Park" title="Bayanaul National Park">
+            Bayanaul National Park
+           </a>
+           in
+           <a href="/wiki/Kazakhstan" title="Kazakhstan">
+            Kazakhstan
+           </a>
+          </p>
+         </div>
+        </div>
+       </li>
+       <li class="gallerybox" style="width: 155px">
+        <div style="width: 155px">
+         <div class="thumb" style="width: 150px;">
+          <div style="margin:30px auto;">
+           <a class="image" href="/wiki/File:Gotland_Raukar-Hoburgsgubben.jpg">
+            <img alt="" data-file-height="1536" data-file-width="2048" height="90" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Gotland_Raukar-Hoburgsgubben.jpg/120px-Gotland_Raukar-Hoburgsgubben.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Gotland_Raukar-Hoburgsgubben.jpg/180px-Gotland_Raukar-Hoburgsgubben.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/44/Gotland_Raukar-Hoburgsgubben.jpg/240px-Gotland_Raukar-Hoburgsgubben.jpg 2x" width="120"/>
+           </a>
+          </div>
+         </div>
+         <div class="gallerytext">
+          <p>
+           <a href="/wiki/Hoburgen" title="Hoburgen">
+            Hoburgsgubben
+           </a>
+           "The Old Man of Hoburgen" a limestone formation on the island of
+           <a href="/wiki/Gotland" title="Gotland">
+            Gotland
+           </a>
+           in
+           <a href="/wiki/Sweden" title="Sweden">
+            Sweden
+           </a>
+          </p>
+         </div>
+        </div>
+       </li>
+       <li class="gallerybox" style="width: 155px">
+        <div style="width: 155px">
+         <div class="thumb" style="width: 150px;">
+          <div style="margin:32.5px auto;">
+           <a class="image" href="/wiki/File:Roca_del_elefante,_Heimaey,_Islas_Vestman,_Su%C3%B0urland,_Islandia,_2014-08-17,_DD_036.JPG">
+            <img alt="" data-file-height="3843" data-file-width="5444" height="85" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Roca_del_elefante%2C_Heimaey%2C_Islas_Vestman%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-17%2C_DD_036.JPG/120px-Roca_del_elefante%2C_Heimaey%2C_Islas_Vestman%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-17%2C_DD_036.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Roca_del_elefante%2C_Heimaey%2C_Islas_Vestman%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-17%2C_DD_036.JPG/180px-Roca_del_elefante%2C_Heimaey%2C_Islas_Vestman%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-17%2C_DD_036.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Roca_del_elefante%2C_Heimaey%2C_Islas_Vestman%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-17%2C_DD_036.JPG/240px-Roca_del_elefante%2C_Heimaey%2C_Islas_Vestman%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-17%2C_DD_036.JPG 2x" width="120"/>
+           </a>
+          </div>
+         </div>
+         <div class="gallerytext">
+          <p>
+           "Elephant Rock" on
+           <a href="/wiki/Heimaey" title="Heimaey">
+            Heimaey
+           </a>
+           , Iceland
+          </p>
+         </div>
+        </div>
+       </li>
+       <li class="gallerybox" style="width: 155px">
+        <div style="width: 155px">
+         <div class="thumb" style="width: 150px;">
+          <div style="margin:15px auto;">
+           <a class="image" href="/wiki/File:NASA-MarsCuriosityRover-20141007-CropEnlarge.jpg">
+            <img alt="" data-file-height="640" data-file-width="640" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/NASA-MarsCuriosityRover-20141007-CropEnlarge.jpg/120px-NASA-MarsCuriosityRover-20141007-CropEnlarge.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/NASA-MarsCuriosityRover-20141007-CropEnlarge.jpg/180px-NASA-MarsCuriosityRover-20141007-CropEnlarge.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/NASA-MarsCuriosityRover-20141007-CropEnlarge.jpg/240px-NASA-MarsCuriosityRover-20141007-CropEnlarge.jpg 2x" width="120"/>
+           </a>
+          </div>
+         </div>
+         <div class="gallerytext">
+          <p>
+           "
+           <a href="/wiki/Reclining_Buddha" title="Reclining Buddha">
+            Buddha-statue
+           </a>
+           "-like rock formation on
+           <a href="/wiki/Mars" title="Mars">
+            Mars
+           </a>
+           .
+           <sup class="reference" id="cite_ref-HP-20151019_23-0">
+            <a href="#cite_note-HP-20151019-23">
+             [23]
+            </a>
+           </sup>
+           (
+           <a href="/wiki/Curiosity_(rover)" title="Curiosity (rover)">
+            <i>
+             Curiosity
+            </i>
+            rover
+           </a>
+           ; October 7, 2014)
+          </p>
+         </div>
+        </div>
+       </li>
+       <li class="gallerybox" style="width: 155px">
+        <div style="width: 155px">
+         <div class="thumb" style="width: 150px;">
+          <div style="margin:20px auto;">
+           <a class="image" href="/wiki/File:Galle_crater.gif">
+            <img alt="" data-file-height="179" data-file-width="196" height="110" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Galle_crater.gif/120px-Galle_crater.gif" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Galle_crater.gif/180px-Galle_crater.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/d/d6/Galle_crater.gif 2x" width="120"/>
+           </a>
+          </div>
+         </div>
+         <div class="gallerytext">
+          <p>
+           "
+           <a href="/wiki/Smiley" title="Smiley">
+            Smiley face
+           </a>
+           " in
+           <a href="/wiki/Galle_(Martian_crater)" title="Galle (Martian crater)">
+            Galle Crater
+           </a>
+           on
+           <a href="/wiki/Mars" title="Mars">
+            Mars
+           </a>
+           .
+           <br/>
+           (
+           <a href="/wiki/Viking_1" title="Viking 1">
+            <i>
+             Viking 1
+            </i>
+            orbiter
+           </a>
+           ; 1970s)
+          </p>
+         </div>
+        </div>
+       </li>
+       <li class="gallerybox" style="width: 155px">
+        <div style="width: 155px">
+         <div class="thumb" style="width: 150px;">
+          <div style="margin:30px auto;">
+           <a class="image" href="/wiki/File:Tr%C3%A9beurden.-_Le_P%C3%A8re_Tr%C3%A9beurden_(Bretagne).jpg">
+            <img alt="" data-file-height="1536" data-file-width="2048" height="90" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Tr%C3%A9beurden.-_Le_P%C3%A8re_Tr%C3%A9beurden_%28Bretagne%29.jpg/120px-Tr%C3%A9beurden.-_Le_P%C3%A8re_Tr%C3%A9beurden_%28Bretagne%29.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Tr%C3%A9beurden.-_Le_P%C3%A8re_Tr%C3%A9beurden_%28Bretagne%29.jpg/180px-Tr%C3%A9beurden.-_Le_P%C3%A8re_Tr%C3%A9beurden_%28Bretagne%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Tr%C3%A9beurden.-_Le_P%C3%A8re_Tr%C3%A9beurden_%28Bretagne%29.jpg/240px-Tr%C3%A9beurden.-_Le_P%C3%A8re_Tr%C3%A9beurden_%28Bretagne%29.jpg 2x" width="120"/>
+           </a>
+          </div>
+         </div>
+         <div class="gallerytext">
+          <p>
+           Father Trebeurden
+           <a href="/wiki/Tr%C3%A9beurden" title="Trébeurden">
+            Trébeurden
+           </a>
+           in
+           <a href="/wiki/C%C3%B4tes-d%27Armor" title="Côtes-d'Armor">
+            Côtes-d'Armor
+           </a>
+           , France
+          </p>
+         </div>
+        </div>
+       </li>
+       <li class="gallerybox" style="width: 155px">
+        <div style="width: 155px">
+         <div class="thumb" style="width: 150px;">
+          <div style="margin:35px auto;">
+           <a class="image" href="/wiki/File:Saruiwa_2009A.jpg">
+            <img alt="" data-file-height="1333" data-file-width="2000" height="80" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Saruiwa_2009A.jpg/120px-Saruiwa_2009A.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Saruiwa_2009A.jpg/180px-Saruiwa_2009A.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Saruiwa_2009A.jpg/240px-Saruiwa_2009A.jpg 2x" width="120"/>
+           </a>
+          </div>
+         </div>
+         <div class="gallerytext">
+          <p>
+           Saruiwa ("Monkey rock") on
+           <a href="/wiki/Iki_Island" title="Iki Island">
+            Iki Island
+           </a>
+           ,
+           <a href="/wiki/Nagasaki_Prefecture" title="Nagasaki Prefecture">
+            Nagasaki Prefecture
+           </a>
+           ,
+           <a href="/wiki/Japan" title="Japan">
+            Japan
+           </a>
+          </p>
+         </div>
+        </div>
+       </li>
+       <li class="gallerybox" style="width: 155px">
+        <div style="width: 155px">
+         <div class="thumb" style="width: 150px;">
+          <div style="margin:35px auto;">
+           <a class="image" href="/wiki/File:Face_Rock_(Bandon,_Oregon).jpg">
+            <img alt="" data-file-height="2610" data-file-width="3915" height="80" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Face_Rock_%28Bandon%2C_Oregon%29.jpg/120px-Face_Rock_%28Bandon%2C_Oregon%29.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Face_Rock_%28Bandon%2C_Oregon%29.jpg/180px-Face_Rock_%28Bandon%2C_Oregon%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Face_Rock_%28Bandon%2C_Oregon%29.jpg/240px-Face_Rock_%28Bandon%2C_Oregon%29.jpg 2x" width="120"/>
+           </a>
+          </div>
+         </div>
+         <div class="gallerytext">
+          <p>
+           <a href="/wiki/Face_Rock_State_Scenic_Viewpoint" title="Face Rock State Scenic Viewpoint">
+            Face Rock State Scenic Viewpoint
+           </a>
+           near
+           <a href="/wiki/Bandon,_Oregon" title="Bandon, Oregon">
+            Bandon, Oregon
+           </a>
+          </p>
+         </div>
+        </div>
+       </li>
+       <li class="gallerybox" style="width: 155px">
+        <div style="width: 155px">
+         <div class="thumb" style="width: 150px;">
+          <div style="margin:33.5px auto;">
+           <a class="image" href="/wiki/File:DogRock.jpg">
+            <img alt="" data-file-height="379" data-file-width="547" height="83" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/DogRock.jpg/120px-DogRock.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/DogRock.jpg/180px-DogRock.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/DogRock.jpg/240px-DogRock.jpg 2x" width="120"/>
+           </a>
+          </div>
+         </div>
+         <div class="gallerytext">
+          <p>
+           <a href="/wiki/Dog_Rock" title="Dog Rock">
+            Dog Rock
+           </a>
+           in
+           <a href="/wiki/Albany,_Western_Australia" title="Albany, Western Australia">
+            Albany, Western Australia
+           </a>
+          </p>
+         </div>
+        </div>
+       </li>
+       <li class="gallerybox" style="width: 155px">
+        <div style="width: 155px">
+         <div class="thumb" style="width: 150px;">
+          <div style="margin:30px auto;">
+           <a class="image" href="/wiki/File:Lion_Rock_5.jpg">
+            <img alt="" data-file-height="1536" data-file-width="2048" height="90" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Lion_Rock_5.jpg/120px-Lion_Rock_5.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Lion_Rock_5.jpg/180px-Lion_Rock_5.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Lion_Rock_5.jpg/240px-Lion_Rock_5.jpg 2x" width="120"/>
+           </a>
+          </div>
+         </div>
+         <div class="gallerytext">
+          <p>
+           <a href="/wiki/Lion_Rock" title="Lion Rock">
+            Lion Rock
+           </a>
+           at the peak of Lion Rock Hill in Hong Kong
+          </p>
+         </div>
+        </div>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Pareidolia&amp;action=edit&amp;section=11" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div>
+       <table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+        <tr>
+         <td style="text-align: left; vertical-align: top;">
+          <ul>
+           <li>
+            <a href="/wiki/Asterism_(astronomy)" title="Asterism (astronomy)">
+             Asterism
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Autism_spectrum" title="Autism spectrum">
+             Autism spectrum
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Body_language" title="Body language">
+             Body language
+            </a>
+           </li>
+          </ul>
+          <ul>
+           <li>
+            <a href="/wiki/Chernoff_face" title="Chernoff face">
+             Chernoff faces
+            </a>
+            utilise the human affinity and expertise in facial recognition for data analysis
+           </li>
+           <li>
+            <a href="/wiki/Clustering_illusion" title="Clustering illusion">
+             Clustering illusion
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Confabulation" title="Confabulation">
+             Confabulation
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Cultural_bias" title="Cultural bias">
+             Cultural bias
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Depiction_of_Jesus" title="Depiction of Jesus">
+             Depiction of Jesus
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Eigenface" title="Eigenface">
+             Eigenface
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Face_perception" title="Face perception">
+             Face perception
+            </a>
+            , for the cognitive process
+           </li>
+           <li>
+            <a href="/wiki/Facial_Action_Coding_System" title="Facial Action Coding System">
+             Facial Action Coding System
+            </a>
+           </li>
+           <li>
+            <i>
+             <a href="/wiki/Fooled_by_Randomness" title="Fooled by Randomness">
+              Fooled by Randomness
+             </a>
+            </i>
+           </li>
+           <li>
+            <a href="/wiki/Jiong" title="Jiong">
+             Jiong
+            </a>
+            a Chinese character that resembles face of depressive emotion
+           </li>
+           <li>
+            <a href="/wiki/Makapansgat_pebble" title="Makapansgat pebble">
+             Makapansgat pebble
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Metaphor" title="Metaphor">
+             Metaphor
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Mirror_neuron" title="Mirror neuron">
+             Mirror neuron
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Mondegreen" title="Mondegreen">
+             Mondegreen
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Paranoiac-critical_method" title="Paranoiac-critical method">
+             Paranoiac-critical method
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Pathetic_fallacy" title="Pathetic fallacy">
+             Pathetic fallacy
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Perceptions_of_religious_imagery_in_natural_phenomena" title="Perceptions of religious imagery in natural phenomena">
+             Perceptions of religious imagery in natural phenomena
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Prosopagnosia" title="Prosopagnosia">
+             Prosopagnosia
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Psychological_projection" title="Psychological projection">
+             Psychological projection
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Shi_(kana)" title="Shi (kana)">
+             Shi
+            </a>
+            and
+            <a href="/wiki/Tsu_(kana)" title="Tsu (kana)">
+             Tsu
+            </a>
+            , Japanese
+            <a href="/wiki/Katakana" title="Katakana">
+             katakana
+            </a>
+            characters that resemble smiley faces.
+           </li>
+           <li>
+            <a href="/wiki/Simulacrum" title="Simulacrum">
+             Simulacrum
+            </a>
+            *
+            <a href="/wiki/Social_intelligence" title="Social intelligence">
+             Social intelligence
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Street_light_interference_phenomenon" title="Street light interference phenomenon">
+             Street light interference phenomenon
+            </a>
+           </li>
+          </ul>
+         </td>
+         <td style="text-align: left; vertical-align: top;">
+          <dl>
+           <dt>
+            Other natural examples
+           </dt>
+          </dl>
+          <ul>
+           <li>
+            <a href="/wiki/Ayu-Dag" title="Ayu-Dag">
+             Ayu-Dag
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Badlands_Guardian" title="Badlands Guardian">
+             Badlands Guardian
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Face_Rock_State_Scenic_Viewpoint" title="Face Rock State Scenic Viewpoint">
+             Face Rock State Scenic Viewpoint
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Gale%C5%A1njak" title="Galešnjak">
+             Galešnjak
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Heikegani" title="Heikegani">
+             Heikegani
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Horsehead_Nebula" title="Horsehead Nebula">
+             Horsehead Nebula
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Manicouagan_Reservoir" title="Manicouagan Reservoir">
+             Manicouagan Reservoir
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Mount_Timpanogos" title="Mount Timpanogos">
+             Mount Timpanogos
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Pedra_da_G%C3%A1vea" title="Pedra da Gávea">
+             Pedra da Gávea
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Runamo" title="Runamo">
+             Runamo
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sleeping_Giant_(Ontario)" title="Sleeping Giant (Ontario)">
+             Sleeping Giant (Ontario)
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Literal_and_figurative_language" title="Literal and figurative language">
+             Literal and figurative language
+            </a>
+           </li>
+          </ul>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Pareidolia&amp;action=edit&amp;section=12" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+       <ol class="references">
+        <li id="cite_note-1">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-1">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           Jaekel, Philip.
+           <a class="external text" href="http://nautil.us/blog/why-we-hear-voices-in-random-noise" rel="nofollow">
+            "Why we hear voices in random noise"
+           </a>
+           . Nautilus
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             April 1,
+            </span>
+            2017
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Why+we+hear+voices+in+random+noise&amp;rft.pub=Nautilus&amp;rft.aulast=Jaekel&amp;rft.aufirst=Philip&amp;rft_id=http%3A%2F%2Fnautil.us%2Fblog%2Fwhy-we-hear-voices-in-random-noise&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APareidolia">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-2">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-2">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation book">
+           Sagan, Carl (1995).
+           <i>
+            The Demon-Haunted World – Science as a Candle in the Dark
+           </i>
+           . New York: Random House.
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/0-394-53512-X" title="Special:BookSources/0-394-53512-X">
+            0-394-53512-X
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Demon-Haunted+World+%E2%80%93+Science+as+a+Candle+in+the+Dark&amp;rft.place=New+York&amp;rft.pub=Random+House&amp;rft.date=1995&amp;rft.isbn=0-394-53512-X&amp;rft.aulast=Sagan&amp;rft.aufirst=Carl&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APareidolia">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-pmid19218867-3">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-pmid19218867_3-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation journal">
+           Hadjikhani, Nouchine; Kveraga, Kestutis; Naik, Paulami; Ahlfors, Seppo P. (2009).
+           <a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2713437" rel="nofollow">
+            "Early (M170) activation of face-specific cortex by face-like objects"
+           </a>
+           .
+           <i>
+            NeuroReport
+           </i>
+           .
+           <b>
+            20
+           </b>
+           (4): 403–7.
+           <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+            doi
+           </a>
+           :
+           <a class="external text" href="//doi.org/10.1097%2FWNR.0b013e328325a8e1" rel="nofollow">
+            10.1097/WNR.0b013e328325a8e1
+           </a>
+           .
+           <a href="/wiki/PubMed_Central" title="PubMed Central">
+            PMC
+           </a>
+           <span class="plainlinks">
+            <a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2713437" rel="nofollow">
+             2713437
+            </a>
+            <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/>
+           </span>
+           .
+           <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">
+            PMID
+           </a>
+           <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/19218867" rel="nofollow">
+            19218867
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=NeuroReport&amp;rft.atitle=Early+%28M170%29+activation+of+face-specific+cortex+by+face-like+objects&amp;rft.volume=20&amp;rft.issue=4&amp;rft.pages=403-7&amp;rft.date=2009&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC2713437&amp;rft_id=info%3Apmid%2F19218867&amp;rft_id=info%3Adoi%2F10.1097%2FWNR.0b013e328325a8e1&amp;rft.aulast=Hadjikhani&amp;rft.aufirst=Nouchine&amp;rft.au=Kveraga%2C+Kestutis&amp;rft.au=Naik%2C+Paulami&amp;rft.au=Ahlfors%2C+Seppo+P.&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC2713437&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APareidolia">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-pmid22079921-4">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-pmid22079921_4-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation journal">
+           Voss, J. L.; Federmeier, K. D.; Paller, K. A. (2012).
+           <a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3432238" rel="nofollow">
+            "The Potato Chip Really Does Look Like Elvis! Neural Hallmarks of Conceptual Processing Associated with Finding Novel Shapes Subjectively Meaningful"
+           </a>
+           .
+           <i>
+            Cerebral Cortex
+           </i>
+           .
+           <b>
+            22
+           </b>
+           (10): 2354–64.
+           <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+            doi
+           </a>
+           :
+           <a class="external text" href="//doi.org/10.1093%2Fcercor%2Fbhr315" rel="nofollow">
+            10.1093/cercor/bhr315
+           </a>
+           .
+           <a href="/wiki/PubMed_Central" title="PubMed Central">
+            PMC
+           </a>
+           <span class="plainlinks">
+            <a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3432238" rel="nofollow">
+             3432238
+            </a>
+            <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/>
+           </span>
+           .
+           <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">
+            PMID
+           </a>
+           <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/22079921" rel="nofollow">
+            22079921
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Cerebral+Cortex&amp;rft.atitle=The+Potato+Chip+Really+Does+Look+Like+Elvis%21+Neural+Hallmarks+of+Conceptual+Processing+Associated+with+Finding+Novel+Shapes+Subjectively+Meaningful&amp;rft.volume=22&amp;rft.issue=10&amp;rft.pages=2354-64&amp;rft.date=2012&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC3432238&amp;rft_id=info%3Apmid%2F22079921&amp;rft_id=info%3Adoi%2F10.1093%2Fcercor%2Fbhr315&amp;rft.aulast=Voss&amp;rft.aufirst=J.+L.&amp;rft.au=Federmeier%2C+K.+D.&amp;rft.au=Paller%2C+K.+A.&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC3432238&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APareidolia">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-recog-5">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-recog_5-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation news">
+           Svoboda, Elizabeth (2007-02-13).
+           <a class="external text" href="https://www.nytimes.com/2007/02/13/health/psychology/13face.html" rel="nofollow">
+            "Facial Recognition – Brain – Faces, Faces Everywhere"
+           </a>
+           .
+           <i>
+            The New York Times
+           </i>
+           . The New York Times
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             July 3,
+            </span>
+            2010
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+New+York+Times&amp;rft.atitle=Facial+Recognition+%E2%80%93+Brain+%E2%80%93+Faces%2C+Faces+Everywhere&amp;rft.date=2007-02-13&amp;rft.aulast=Svoboda&amp;rft.aufirst=Elizabeth&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2007%2F02%2F13%2Fhealth%2Fpsychology%2F13face.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APareidolia">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-dog-6">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-dog_6-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           <a class="external text" href="http://www.paw-rescue.org/PAW/PETTIPS/DogTip_EmotionsInCaninesAndHumans.php" rel="nofollow">
+            "Dog Tips – Emotions in Canines and Humans"
+           </a>
+           . Partnership for Animal Welfare
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             July 3,
+            </span>
+            2010
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Dog+Tips+%E2%80%93+Emotions+in+Canines+and+Humans&amp;rft.pub=Partnership+for+Animal+Welfare&amp;rft_id=http%3A%2F%2Fwww.paw-rescue.org%2FPAW%2FPETTIPS%2FDogTip_EmotionsInCaninesAndHumans.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APareidolia">
+           <span style="display:none;">
+           </span>
+          </span>
+          <sup class="noprint Inline-Template" style="white-space:nowrap;">
+           [
+           <i>
+            <a href="/wiki/Wikipedia:Verifiability#Self-published_sources" title="Wikipedia:Verifiability">
+             <span title="The material near this tag may rely on a self-published source. (September 2015)">
+              self-published source?
+             </span>
+            </a>
+           </i>
+           ]
+          </sup>
+         </span>
+        </li>
+        <li id="cite_note-7">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-7">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           Spamer, E.
+           <a class="external text" href="http://improbable.com/airchives/paperair/volume6/v6i6/okamura-6-6.html" rel="nofollow">
+            "Chonosuke Okamura, Visionary"
+           </a>
+           . Philadelphia: Academy of Natural Sciences.
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Chonosuke+Okamura%2C+Visionary&amp;rft.place=Philadelphia&amp;rft.pub=Academy+of+Natural+Sciences&amp;rft.aulast=Spamer&amp;rft.aufirst=E.&amp;rft_id=http%3A%2F%2Fimprobable.com%2Fairchives%2Fpaperair%2Fvolume6%2Fv6i6%2Fokamura-6-6.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APareidolia">
+           <span style="display:none;">
+           </span>
+          </span>
+          archived at
+          <a class="external text" href="http://improbable.com/" rel="nofollow">
+           Improbable Research
+          </a>
+          .
+         </span>
+        </li>
+        <li id="cite_note-8">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-8">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation book">
+           Berenbaum, May (2009).
+           <i>
+            The earwig's tail: a modern bestiary of multi-legged legends
+           </i>
+           . Harvard University Press. pp. 72–73.
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/0-674-03540-2" title="Special:BookSources/0-674-03540-2">
+            0-674-03540-2
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+earwig%27s+tail%3A+a+modern+bestiary+of+multi-legged+legends&amp;rft.pages=72-73&amp;rft.pub=Harvard+University+Press&amp;rft.date=2009&amp;rft.isbn=0-674-03540-2&amp;rft.aulast=Berenbaum&amp;rft.aufirst=May&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APareidolia">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-9">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-9">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation news">
+           <a href="/wiki/Marc_Abrahams" title="Marc Abrahams">
+            Abrahams, Marc
+           </a>
+           (2004-03-16).
+           <a class="external text" href="https://www.theguardian.com/education/2004/mar/16/highereducation.research" rel="nofollow">
+            "Tiny tall tales: Marc Abrahams uncovers the minute, but astonishing, evidence of our fossilised past"
+           </a>
+           .
+           <i>
+            The Guardian
+           </i>
+           . London.
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Guardian&amp;rft.atitle=Tiny+tall+tales%3A+Marc+Abrahams+uncovers+the+minute%2C+but+astonishing%2C+evidence+of+our+fossilised+past&amp;rft.date=2004-03-16&amp;rft.aulast=Abrahams&amp;rft.aufirst=Marc&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Feducation%2F2004%2Fmar%2F16%2Fhighereducation.research&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APareidolia">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-10">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-10">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation book">
+           Conner, Susan; Kitchen, Linda (2002).
+           <i>
+            Science's most wanted: the top 10 book of outrageous innovators, deadly disasters, and shocking discoveries
+           </i>
+           . Most Wanted. Brassey's. p. 93.
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/1-57488-481-6" title="Special:BookSources/1-57488-481-6">
+            1-57488-481-6
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Science%27s+most+wanted%3A+the+top+10+book+of+outrageous+innovators%2C+deadly+disasters%2C+and+shocking+discoveries&amp;rft.series=Most+Wanted&amp;rft.pages=93&amp;rft.pub=Brassey%27s&amp;rft.date=2002&amp;rft.isbn=1-57488-481-6&amp;rft.aulast=Conner&amp;rft.aufirst=Susan&amp;rft.au=Kitchen%2C+Linda&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APareidolia">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-zusne-11">
+         <span class="mw-cite-backlink">
+          ^
+          <a href="#cite_ref-zusne_11-0">
+           <sup>
+            <i>
+             <b>
+              a
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-zusne_11-1">
+           <sup>
+            <i>
+             <b>
+              b
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-zusne_11-2">
+           <sup>
+            <i>
+             <b>
+              c
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-zusne_11-3">
+           <sup>
+            <i>
+             <b>
+              d
+             </b>
+            </i>
+           </sup>
+          </a>
+         </span>
+         <span class="reference-text">
+          <cite class="citation book">
+           Zusne, Leonard; Jones, Warren H (1989).
+           <a class="external text" href="https://books.google.com/books?isbn=0805805087" rel="nofollow">
+            <i>
+             Anomalistic Psychology: A Study of Magical Thinking
+            </i>
+           </a>
+           . Lawrence Erlbaum Associates. pp. 77–79.
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/0-8058-0508-7" title="Special:BookSources/0-8058-0508-7">
+            0-8058-0508-7
+           </a>
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             2007-04-06
+            </span>
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Anomalistic+Psychology%3A+A+Study+of+Magical+Thinking&amp;rft.pages=77-79&amp;rft.pub=Lawrence+Erlbaum+Associates&amp;rft.date=1989&amp;rft.isbn=0-8058-0508-7&amp;rft.aulast=Zusne&amp;rft.aufirst=Leonard&amp;rft.au=Jones%2C+Warren+H&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fisbn%3D0805805087&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APareidolia">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-12">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-12">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           Da Vinci, Leonardo (1923). John, R; Don Read, J, eds.
+           <a class="external text" href="https://archive.org/stream/leonardodavincis007918mbp/leonardodavincis007918mbp_djvu.txt" rel="nofollow">
+            "Note-Books Arranged And Rendered Into English"
+           </a>
+           . Empire State Book Co.
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Note-Books+Arranged+And+Rendered+Into+English&amp;rft.pub=Empire+State+Book+Co&amp;rft.date=1923&amp;rft.aulast=Da+Vinci&amp;rft.aufirst=Leonardo&amp;rft_id=https%3A%2F%2Farchive.org%2Fstream%2Fleonardodavincis007918mbp%2Fleonardodavincis007918mbp_djvu.txt&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APareidolia">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-13">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-13">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation">
+           <a class="external text" href="https://www.nytimes.com/2012/07/23/nyregion/in-a-tree-trunk-in-new-jersey-some-see-our-lady-of-guadalupe.html" rel="nofollow">
+            "In New Jersey, a Knot in a Tree Trunk Draws the Faithful and the Skeptical"
+           </a>
+           ,
+           <i>
+            The New York Times
+           </i>
+           , July 23, 2012
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+New+York+Times&amp;rft.atitle=In+New+Jersey%2C+a+Knot+in+a+Tree+Trunk+Draws+the+Faithful+and+the+Skeptical&amp;rft.date=2012-07-23&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2012%2F07%2F23%2Fnyregion%2Fin-a-tree-trunk-in-new-jersey-some-see-our-lady-of-guadalupe.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APareidolia">
+           <span style="display:none;">
+           </span>
+          </span>
+          .
+         </span>
+        </li>
+        <li id="cite_note-14">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-14">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation news">
+           Ibrahim, Yahaya (2011-01-02).
+           <a class="external text" href="https://web.archive.org/web/20121104031545/http://sundaytrust.com.ng/index.php?option=com_content&amp;view=article&amp;id=5698:in-maiduguri-a-tree-with-engraved-name-of-god-turns-spot-to-a-mecca-of-sorts&amp;catid=17:community-news-kanem-trust&amp;Itemid=28" rel="nofollow">
+            "In Maiduguri, a tree with engraved name of God turns spot to a Mecca of sorts"
+           </a>
+           .
+           <i>
+            Sunday Trust
+           </i>
+           . Media Trust Limited, Abuja. Archived from
+           <a class="external text" href="http://sundaytrust.com.ng/index.php?option=com_content&amp;view=article&amp;id=5698:in-maiduguri-a-tree-with-engraved-name-of-god-turns-spot-to-a-mecca-of-sorts&amp;catid=17:community-news-kanem-trust&amp;Itemid=28" rel="nofollow">
+            the original
+           </a>
+           on 2012-11-04
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             2012-03-21
+            </span>
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Sunday+Trust&amp;rft.atitle=In+Maiduguri%2C+a+tree+with+engraved+name+of+God+turns+spot+to+a+Mecca+of+sorts&amp;rft.date=2011-01-02&amp;rft.aulast=Ibrahim&amp;rft.aufirst=Yahaya&amp;rft_id=http%3A%2F%2Fsundaytrust.com.ng%2Findex.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D5698%3Ain-maiduguri-a-tree-with-engraved-name-of-god-turns-spot-to-a-mecca-of-sorts%26catid%3D17%3Acommunity-news-kanem-trust%26Itemid%3D28&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APareidolia">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-Ng_Hui_Hui-15">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-Ng_Hui_Hui_15-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation news">
+           Ng, Hui Hui (13 September 2007).
+           <a class="external text" href="https://web.archive.org/web/20071014083330/http://newpaper.asia1.com.sg/printfriendly/0,4139,141806,00.html" rel="nofollow">
+            "Monkey See, Monkey Do?"
+           </a>
+           .
+           <i>
+            <a href="/wiki/The_New_Paper" title="The New Paper">
+             The New Paper
+            </a>
+           </i>
+           . pp. 12–13. Archived from
+           <a class="external text" href="http://newpaper.asia1.com.sg/printfriendly/0,4139,141806,00.html" rel="nofollow">
+            the original
+           </a>
+           on 2007-10-14.
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+New+Paper&amp;rft.atitle=Monkey+See%2C+Monkey+Do%3F&amp;rft.pages=12-13&amp;rft.date=2007-09-13&amp;rft.aulast=Ng&amp;rft.aufirst=Hui+Hui&amp;rft_id=http%3A%2F%2Fnewpaper.asia1.com.sg%2Fprintfriendly%2F0%2C4139%2C141806%2C00.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APareidolia">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-16">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-16">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation news">
+           <a class="external text" href="http://news.bbc.co.uk/2/hi/americas/4034787.stm" rel="nofollow">
+            "
+            <span style="padding-left:0.2em;">
+             '
+            </span>
+            Virgin Mary' toast fetches $28,000"
+           </a>
+           . BBC News. 23 November 2004
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             2006-10-27
+            </span>
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=%27Virgin+Mary%27+toast+fetches+%2428%2C000&amp;rft.date=2004-11-23&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2F2%2Fhi%2Famericas%2F4034787.stm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APareidolia">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-17">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-17">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          Chalup, Stephan K., Kenny Hong, and Michael J. Ostwald. "
+          <a class="external text" href="https://www.researchgate.net/profile/Stephan_Chalup/publication/228735838_Simulating_Pareidolia_of_Faces_for_Architectural_Image_Analysis/links/0fcfd511b3ff280efe000000/Simulating-Pareidolia-of-Faces-for-Architectural-Image-Analysis.pdf" rel="nofollow">
+           Simulating pareidolia of faces for architectural image analysis
+          </a>
+          ." brain 26.91 (2010): 100.
+         </span>
+        </li>
+        <li id="cite_note-18">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-18">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation journal">
+           Vokey, John R.; Read, J. Don (1985). "Subliminal messages: Between the devil and the media".
+           <i>
+            American Psychologist
+           </i>
+           .
+           <b>
+            40
+           </b>
+           (11): 1231–9.
+           <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+            doi
+           </a>
+           :
+           <a class="external text" href="//doi.org/10.1037%2F0003-066X.40.11.1231" rel="nofollow">
+            10.1037/0003-066X.40.11.1231
+           </a>
+           .
+           <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">
+            PMID
+           </a>
+           <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/4083611" rel="nofollow">
+            4083611
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=American+Psychologist&amp;rft.atitle=Subliminal+messages%3A+Between+the+devil+and+the+media&amp;rft.volume=40&amp;rft.issue=11&amp;rft.pages=1231-9&amp;rft.date=1985&amp;rft_id=info%3Adoi%2F10.1037%2F0003-066X.40.11.1231&amp;rft_id=info%3Apmid%2F4083611&amp;rft.aulast=Vokey&amp;rft.aufirst=John+R.&amp;rft.au=Read%2C+J.+Don&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APareidolia">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-19">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-19">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation journal">
+           Deutsch, D. (1995).
+           <a class="external text" href="http://philomel.com/musical_illusions/" rel="nofollow">
+            "Musical Illusions and Paradoxes"
+           </a>
+           .
+           <i>
+            Philomel Records
+           </i>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Philomel+Records&amp;rft.atitle=Musical+Illusions+and+Paradoxes&amp;rft.date=1995&amp;rft.aulast=Deutsch&amp;rft.aufirst=D.&amp;rft_id=http%3A%2F%2Fphilomel.com%2Fmusical_illusions%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APareidolia">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-20">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-20">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation journal">
+           Deutsch, D. (2003).
+           <a class="external text" href="http://philomel.com/phantom_words/" rel="nofollow">
+            "Phantom Words and Other Curiosities"
+           </a>
+           .
+           <i>
+            Philomel Records
+           </i>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Philomel+Records&amp;rft.atitle=Phantom+Words+and+Other+Curiosities&amp;rft.date=2003&amp;rft.aulast=Deutsch&amp;rft.aufirst=D.&amp;rft_id=http%3A%2F%2Fphilomel.com%2Fphantom_words%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APareidolia">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-Idiot's_Guide-21">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-Idiot's_Guide_21-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation book">
+           Ahlquist, Diane (2007).
+           <a class="external text" href="https://books.google.com/?id=0lkscwxGSoAC&amp;pg=PA122&amp;dq=dark+shadow+entity+corner+eye#v=onepage&amp;q=dark%20shadow%20entity%20corner%20eye&amp;f=false" rel="nofollow">
+            <i>
+             The Complete Idiot's Guide to Life After Death
+            </i>
+           </a>
+           . USA: Penguin Group. p. 122.
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/978-1-59257-651-7" title="Special:BookSources/978-1-59257-651-7">
+            978-1-59257-651-7
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Complete+Idiot%27s+Guide+to+Life+After+Death&amp;rft.place=USA&amp;rft.pages=122&amp;rft.pub=Penguin+Group&amp;rft.date=2007&amp;rft.isbn=978-1-59257-651-7&amp;rft.aulast=Ahlquist&amp;rft.aufirst=Diane&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3D0lkscwxGSoAC%26pg%3DPA122%26dq%3Ddark%2Bshadow%2Bentity%2Bcorner%2Beye%23v%3Donepage%26q%3Ddark%2520shadow%2520entity%2520corner%2520eye%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APareidolia">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-22">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-22">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           Carroll, Robert Todd (June 2001).
+           <a class="external text" href="http://skepdic.com/pareidol.html" rel="nofollow">
+            "pareidolia"
+           </a>
+           .
+           <i>
+            skepdic.com
+           </i>
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             2007-09-19
+            </span>
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=skepdic.com&amp;rft.atitle=pareidolia&amp;rft.date=2001-06&amp;rft.aulast=Carroll&amp;rft.aufirst=Robert+Todd&amp;rft_id=http%3A%2F%2Fskepdic.com%2Fpareidol.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APareidolia">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-HP-20151019-23">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-HP-20151019_23-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation news">
+           Speigel, Lee (October 19, 2015).
+           <a class="external text" href="http://www.huffingtonpost.com/entry/buddha-statue-on-mars_561fbd92e4b050c6c4a47dec" rel="nofollow">
+            "Buddha Statue (Or Rock Formation) Spotted On Mars"
+           </a>
+           .
+           <i>
+            <a href="/wiki/HuffPost" title="HuffPost">
+             The Huffington Post
+            </a>
+           </i>
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             December 12,
+            </span>
+            2015
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Huffington+Post&amp;rft.atitle=Buddha+Statue+%28Or+Rock+Formation%29+Spotted+On+Mars&amp;rft.date=2015-10-19&amp;rft.aulast=Speigel&amp;rft.aufirst=Lee&amp;rft_id=http%3A%2F%2Fwww.huffingtonpost.com%2Fentry%2Fbuddha-statue-on-mars_561fbd92e4b050c6c4a47dec&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APareidolia">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+       </ol>
+      </div>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Pareidolia&amp;action=edit&amp;section=13" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+       <tr>
+        <td class="mbox-image">
+         <img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/>
+        </td>
+        <td class="mbox-text plainlist">
+         Wikimedia Commons has media related to
+         <i>
+          <b>
+           <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Pareidolias" title="commons:Category:Pareidolias">
+            Pareidolias
+           </a>
+          </b>
+         </i>
+         .
+        </td>
+       </tr>
+      </table>
+      <table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+       <tr>
+        <td class="mbox-image">
+         <img alt="" class="noviewer" data-file-height="391" data-file-width="391" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" width="40"/>
+        </td>
+        <td class="mbox-text plainlist">
+         Look up
+         <i>
+          <b>
+           <a class="extiw" href="https://en.wiktionary.org/wiki/Special:Search/pareidolia" title="wiktionary:Special:Search/pareidolia">
+            pareidolia
+           </a>
+          </b>
+         </i>
+         in Wiktionary, the free dictionary.
+        </td>
+       </tr>
+      </table>
+      <ul>
+       <li>
+        <a class="external text" href="https://web.archive.org/web/20091013143627/http://www.environmentalgraffiti.com/featured/33-creepiest-clouds-on-earth/1515" rel="nofollow">
+         Cloud pareidolia
+        </a>
+        33 examples of meteorological pareidolia.
+       </li>
+       <li>
+        <a class="external text" href="http://skepdic.com/pareidol.html" rel="nofollow">
+         Skepdic.com
+        </a>
+        Skeptic's Dictionary definition of pareidolia
+       </li>
+       <li>
+        <a class="external text" href="http://www.mnmuseumofthems.org/Faces/intro.html" rel="nofollow">
+         The Stone Face: Fragments of An Earlier World
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="https://www.nytimes.com/2007/02/13/health/psychology/13face.html" rel="nofollow">
+         Article in
+         <i>
+          The New York Times
+         </i>
+         , 13 February 2007, about cognitive science of face recognition
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://joebello.blogspot.com" rel="nofollow">
+         Joe Bello art
+        </a>
+        Example of contemporary pareidolic art
+       </li>
+       <li>
+        <a class="external text" href="http://www.snopes.com/rumors/wtcface.asp" rel="nofollow">
+         Snopes.com
+        </a>
+        Faces of "Satan" seen in World Trade Center smoke
+       </li>
+       <li>
+        <a class="external text" href="http://www.npr.org/blogs/thetwo-way/2013/05/29/187054424/tempest-over-a-teapot-jc-penney-removes-hitler-billboard" rel="nofollow">
+         NPR: Teapot on billboard looks like Hitler
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://www.onformative.com/lab/googlefaces/" rel="nofollow">
+         Google faces
+        </a>
+       </li>
+      </ul>
+      <div aria-labelledby="Hidden_messages" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="2" scope="col">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:Hidden_messages" title="Template:Hidden messages">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a href="/wiki/Template_talk:Hidden_messages" title="Template talk:Hidden messages">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Hidden_messages&amp;action=edit">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="Hidden_messages" style="font-size:114%;margin:0 4em">
+           <a href="/wiki/Hidden_message" title="Hidden message">
+            Hidden messages
+           </a>
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Main
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Hidden_message" title="Hidden message">
+              Hidden messages
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Subliminal_stimuli" title="Subliminal stimuli">
+              Subliminal message
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Audio
+         </th>
+         <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Backmasking" title="Backmasking">
+              Backmasking
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Reverse_speech" title="Reverse speech">
+              Reverse speech
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Numeric
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Numerology" title="Numerology">
+              Numerology
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Theomatics" title="Theomatics">
+              Theomatics
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Bible_code" title="Bible code">
+              Bible code
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Cryptography" title="Cryptography">
+              Cryptology
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Visual
+         </th>
+         <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Fnord" title="Fnord">
+              Fnord
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Paranoiac-critical_method" title="Paranoiac-critical method">
+              Paranoiac-critical method
+             </a>
+            </li>
+            <li>
+             <a class="mw-selflink selflink">
+              Pareidolia
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Sacred_geometry" title="Sacred geometry">
+              Sacred geometry
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Steganography" title="Steganography">
+              Steganography
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Visual_cryptography" title="Visual cryptography">
+              Visual cryptography
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Other
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Anagram" title="Anagram">
+              Anagram
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Apophenia" title="Apophenia">
+              Apophenia
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Asemic_writing" title="Asemic writing">
+              Asemic writing
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Easter_egg_(media)" title="Easter egg (media)">
+              Easter egg
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Clustering_illusion" title="Clustering illusion">
+              Clustering illusion
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Observer-expectancy_effect" title="Observer-expectancy effect">
+              Observer-expectancy effect
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Pattern_recognition_(psychology)" title="Pattern recognition (psychology)">
+              Pattern recognition
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Palindrome" title="Palindrome">
+              Palindrome
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Unconscious_mind" title="Unconscious mind">
+              Unconscious mind
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1339
+Cached time: 20180313204128
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.412 seconds
+Real time usage: 0.529 seconds
+Preprocessor visited node count: 1632/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 56178/2097152 bytes
+Template argument size: 1448/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 41381/5000000 bytes
+Lua time usage: 0.186/10.000 seconds
+Lua memory usage: 5.33 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  458.222      1 -total
+ 48.29%  221.277      1 Template:Reflist
+ 12.45%   57.030      5 Template:Cite_web
+ 11.47%   52.578      1 Template:IPAc-en
+  8.61%   39.451      6 Template:Cite_news
+  8.24%   37.740      2 Template:Fix
+  7.77%   35.603      1 Template:Commons_category
+  6.84%   31.344      1 Template:Citation_needed
+  6.80%   31.173      5 Template:Cite_journal
+  5.38%   24.643      5 Template:Cite_book
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:649382-0!canonical and timestamp 20180313204154 and revision id 830274026
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Pareidolia&amp;oldid=830274026">
+      https://en.wikipedia.org/w/index.php?title=Pareidolia&amp;oldid=830274026
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:20th-century_neologisms" title="Category:20th-century neologisms">
+         20th-century neologisms
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Auditory_illusions" title="Category:Auditory illusions">
+         Auditory illusions
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Cognitive_biases" title="Category:Cognitive biases">
+         Cognitive biases
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Forteana" title="Category:Forteana">
+         Forteana
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Optical_illusions" title="Category:Optical illusions">
+         Optical illusions
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Perception" title="Category:Perception">
+         Perception
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Visual_perception" title="Category:Visual perception">
+         Visual perception
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:All_articles_with_self-published_sources" title="Category:All articles with self-published sources">
+         All articles with self-published sources
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_self-published_sources_from_September_2015" title="Category:Articles with self-published sources from September 2015">
+         Articles with self-published sources from September 2015
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">
+         All articles with unsourced statements
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_unsourced_statements_from_July_2015" title="Category:Articles with unsourced statements from July 2015">
+         Articles with unsourced statements from July 2015
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Pareidolia" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Pareidolia" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Pareidolia" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Pareidolia" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Pareidolia">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Pareidolia&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Pareidolia&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Pareidolia" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Pareidolia" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Pareidolia&amp;oldid=830274026" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Pareidolia&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q506422" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Pareidolia&amp;id=830274026" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Pareidolia">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Pareidolia&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Pareidolia&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Category:Pareidolias" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B1%D9%8A%D8%AF%D9%88%D9%84%D9%8A%D8%A7" hreflang="ar" lang="ar" title="باريدوليا – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-az">
+        <a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/Pareidolia" hreflang="az" lang="az" title="Pareidolia – Azerbaijani">
+         Azərbaycanca
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bn">
+        <a class="interlanguage-link-target" href="https://bn.wikipedia.org/wiki/%E0%A6%AA%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%A1%E0%A7%8B%E0%A6%B2%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE" hreflang="bn" lang="bn" title="প্যারেডোলিয়া – Bangla">
+         বাংলা
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bg">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%B5%D0%B9%D0%B4%D0%BE%D0%BB%D0%B8%D1%8F" hreflang="bg" lang="bg" title="Парейдолия – Bulgarian">
+         Български
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Parid%C3%B2lia" hreflang="ca" lang="ca" title="Paridòlia – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Pareidolie" hreflang="cs" lang="cs" title="Pareidolie – Czech">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Pareidolia" hreflang="da" lang="da" title="Pareidolia – Danish">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Pareidolie" hreflang="de" lang="de" title="Pareidolie – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-et">
+        <a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Pareidoolia" hreflang="et" lang="et" title="Pareidoolia – Estonian">
+         Eesti
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-el">
+        <a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%A0%CE%B1%CF%81%CE%B5%CE%B9%CE%B4%CF%89%CE%BB%CE%AF%CE%B1" hreflang="el" lang="el" title="Παρειδωλία – Greek">
+         Ελληνικά
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Pareidolia" hreflang="es" lang="es" title="Pareidolia – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eu">
+        <a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Pareidolia" hreflang="eu" lang="eu" title="Pareidolia – Basque">
+         Euskara
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%BE%D8%A7%D8%B1%DB%8C%D8%AF%D9%88%D9%84%DB%8C%D8%A7" hreflang="fa" lang="fa" title="پاریدولیا – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Par%C3%A9idolie" hreflang="fr" lang="fr" title="Paréidolie – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gl">
+        <a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Pareidolia" hreflang="gl" lang="gl" title="Pareidolia – Galician">
+         Galego
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hy">
+        <a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D5%8A%D5%A1%D6%80%D5%A5%D5%B5%D5%A4%D5%B8%D5%AC%D5%AB%D5%A1" hreflang="hy" lang="hy" title="Պարեյդոլիա – Armenian">
+         Հայերեն
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Pareidolia" hreflang="id" lang="id" title="Pareidolia – Indonesian">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Pareidolia" hreflang="it" lang="it" title="Pareidolia – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he">
+        <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%A4%D7%A8%D7%90%D7%99%D7%93%D7%95%D7%9C%D7%99%D7%94" hreflang="he" lang="he" title="פראידוליה – Hebrew">
+         עברית
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lt">
+        <a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Pareidolija" hreflang="lt" lang="lt" title="Pareidolija – Lithuanian">
+         Lietuvių
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hu">
+        <a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Pareidolia" hreflang="hu" lang="hu" title="Pareidolia – Hungarian">
+         Magyar
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Pareidolie" hreflang="nl" lang="nl" title="Pareidolie – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AC%E3%82%A4%E3%83%89%E3%83%AA%E3%82%A2" hreflang="ja" lang="ja" title="パレイドリア – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Pareidoli" hreflang="no" lang="no" title="Pareidoli – Norwegian">
+         Norsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-oc">
+        <a class="interlanguage-link-target" href="https://oc.wikipedia.org/wiki/Pare%C3%AFd%C3%B2lia" hreflang="oc" lang="oc" title="Pareïdòlia – Occitan">
+         Occitan
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uz">
+        <a class="interlanguage-link-target" href="https://uz.wikipedia.org/wiki/Pareydoliya" hreflang="uz" lang="uz" title="Pareydoliya – Uzbek">
+         Oʻzbekcha/ўзбекча
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Pareidolia" hreflang="pl" lang="pl" title="Pareidolia – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Pareidolia" hreflang="pt" lang="pt" title="Pareidolia – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%B5%D0%B9%D0%B4%D0%BE%D0%BB%D0%B8%D1%8F" hreflang="ru" lang="ru" title="Парейдолия – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-simple">
+        <a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Pareidolia" hreflang="simple" lang="simple" title="Pareidolia – Simple English">
+         Simple English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sr">
+        <a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%B5%D0%B8%D0%B4%D0%BE%D0%BB%D0%B8%D1%98%D0%B0" hreflang="sr" lang="sr" title="Пареидолија – Serbian">
+         Српски / srpski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Pareidolia" hreflang="fi" lang="fi" title="Pareidolia – Finnish">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Pareidoli" hreflang="sv" lang="sv" title="Pareidoli – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-th">
+        <a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B9%81%E0%B8%9E%E0%B8%A3%E0%B8%B4%E0%B9%82%E0%B8%94%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B8%A2" hreflang="th" lang="th" title="แพริโดเลีย – Thai">
+         ไทย
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%B5%D0%B9%D0%B4%D0%BE%D0%BB%D1%96%D1%8F" hreflang="uk" lang="uk" title="Парейдолія – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vep">
+        <a class="interlanguage-link-target" href="https://vep.wikipedia.org/wiki/Pareidolii" hreflang="vep" lang="vep" title="Pareidolii – Veps">
+         Vepsän kel’
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E7%A9%BA%E6%83%B3%E6%80%A7%E9%94%99%E8%A7%86" hreflang="zh" lang="zh" title="空想性错视 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q506422#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 13 March 2018, at 20:41.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Pareidolia&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.412","walltime":"0.529","ppvisitednodes":{"value":1632,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":56178,"limit":2097152},"templateargumentsize":{"value":1448,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":41381,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  458.222      1 -total"," 48.29%  221.277      1 Template:Reflist"," 12.45%   57.030      5 Template:Cite_web"," 11.47%   52.578      1 Template:IPAc-en","  8.61%   39.451      6 Template:Cite_news","  8.24%   37.740      2 Template:Fix","  7.77%   35.603      1 Template:Commons_category","  6.84%   31.344      1 Template:Citation_needed","  6.80%   31.173      5 Template:Cite_journal","  5.38%   24.643      5 Template:Cite_book"]},"scribunto":{"limitreport-timeusage":{"value":"0.186","limit":"10.000"},"limitreport-memusage":{"value":5588972,"limit":52428800}},"cachereport":{"origin":"mw1339","timestamp":"20180313204128","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":96,"wgHostname":"mw1324"});});
+  </script>
+ </body>
+</html>

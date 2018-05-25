@@ -1,0 +1,4963 @@
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Screenwriting - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Screenwriting","wgTitle":"Screenwriting","wgCurRevisionId":826135774,"wgRevisionId":826135774,"wgArticleId":1137997,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from December 2017","Articles with permanently dead external links","Webarchive template wayback links","All articles with unsourced statements","Articles with unsourced statements from July 2017","Articles with unsourced statements from July 2014","Articles with Curlie links","Drama","Entertainment","Film","Film and video terminology","Filmmaking","Film production","Hollywood","How-to","Screenwriting","Performing arts","Plot (narrative)","Television terminology","Writing"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Screenwriting","wgRelevantArticleId":1137997,"wgRequestId":"WqnPFApAICgAAI@ph2UAAACO","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q3429919","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.24" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Screenwriting" rel="alternate"/>
+  <link href="/w/index.php?title=Screenwriting&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Screenwriting&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Screenwriting" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Screenwriting rootpage-Screenwriting skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Screenwriting
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <p>
+       <b>
+        Screenwriting
+       </b>
+       , also called
+       <b>
+        scriptwriting
+       </b>
+       , is the art and craft of writing
+       <a href="/wiki/Screenplay" title="Screenplay">
+        scripts
+       </a>
+       for
+       <a href="/wiki/Mass_media" title="Mass media">
+        mass media
+       </a>
+       such as
+       <a href="/wiki/Feature_film" title="Feature film">
+        feature films
+       </a>
+       ,
+       <a class="mw-redirect" href="/wiki/Television_production" title="Television production">
+        television productions
+       </a>
+       or
+       <a href="/wiki/Video_game" title="Video game">
+        video games
+       </a>
+       . It is frequently a
+       <a class="mw-redirect" href="/wiki/Freelance" title="Freelance">
+        freelance
+       </a>
+       profession.
+      </p>
+      <p>
+       Screenwriters are responsible for researching the story, developing the narrative, writing the screenplay and delivering it, in the required format, to development executives. Screenwriters therefore have great influence over the creative direction and emotional impact of the screenplay and, arguably, of the finished film. Screenwriters either pitch original ideas to producers, in the hope that they will be optioned or sold; or are commissioned by a producer to create a screenplay from a concept, true story, existing screen work or literary work, such as a novel, poem, play, comic book or short story.
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Types">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Types
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-2">
+           <a href="#Spec_script_writing">
+            <span class="tocnumber">
+             1.1
+            </span>
+            <span class="toctext">
+             Spec script writing
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-3">
+           <a href="#Commissioned_screenplay">
+            <span class="tocnumber">
+             1.2
+            </span>
+            <span class="toctext">
+             Commissioned screenplay
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-4">
+           <a href="#Feature_assignment_writing">
+            <span class="tocnumber">
+             1.3
+            </span>
+            <span class="toctext">
+             Feature assignment writing
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-5">
+           <a href="#Rewriting_and_script_doctoring">
+            <span class="tocnumber">
+             1.4
+            </span>
+            <span class="toctext">
+             Rewriting and script doctoring
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-6">
+           <a href="#Television_writing">
+            <span class="tocnumber">
+             1.5
+            </span>
+            <span class="toctext">
+             Television writing
+            </span>
+           </a>
+           <ul>
+            <li class="toclevel-3 tocsection-7">
+             <a href="#Writing_for_daily_series">
+              <span class="tocnumber">
+               1.5.1
+              </span>
+              <span class="toctext">
+               Writing for daily series
+              </span>
+             </a>
+            </li>
+            <li class="toclevel-3 tocsection-8">
+             <a href="#Writing_for_game_shows">
+              <span class="tocnumber">
+               1.5.2
+              </span>
+              <span class="toctext">
+               Writing for game shows
+              </span>
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class="toclevel-2 tocsection-9">
+           <a href="#Video_game_writing">
+            <span class="tocnumber">
+             1.6
+            </span>
+            <span class="toctext">
+             Video game writing
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-10">
+         <a href="#Theories_on_writing_a_screenplay">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Theories on writing a screenplay
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-11">
+           <a href="#Three-act_structure">
+            <span class="tocnumber">
+             2.1
+            </span>
+            <span class="toctext">
+             Three-act structure
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-12">
+           <a href="#The_Hero's_Journey">
+            <span class="tocnumber">
+             2.2
+            </span>
+            <span class="toctext">
+             The Hero's Journey
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-13">
+           <a href="#Syd_Field's_Paradigm">
+            <span class="tocnumber">
+             2.3
+            </span>
+            <span class="toctext">
+             Syd Field's Paradigm
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-14">
+           <a href="#The_sequence_approach">
+            <span class="tocnumber">
+             2.4
+            </span>
+            <span class="toctext">
+             The sequence approach
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-15">
+         <a href="#Dialogue_and_description">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           Dialogue and description
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-16">
+           <a href="#Imagery">
+            <span class="tocnumber">
+             3.1
+            </span>
+            <span class="toctext">
+             Imagery
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-17">
+           <a href="#Dialogue">
+            <span class="tocnumber">
+             3.2
+            </span>
+            <span class="toctext">
+             Dialogue
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-18">
+           <a href="#Plot">
+            <span class="tocnumber">
+             3.3
+            </span>
+            <span class="toctext">
+             Plot
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-19">
+         <a href="#Screenwriting_education">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           Screenwriting education
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-20">
+         <a href="#History">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           History
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-21">
+         <a href="#Portrayed_in_film">
+          <span class="tocnumber">
+           6
+          </span>
+          <span class="toctext">
+           Portrayed in film
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-22">
+         <a href="#Copyright_protection">
+          <span class="tocnumber">
+           7
+          </span>
+          <span class="toctext">
+           Copyright protection
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-23">
+           <a href="#United_States">
+            <span class="tocnumber">
+             7.1
+            </span>
+            <span class="toctext">
+             United States
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-24">
+         <a href="#See_also">
+          <span class="tocnumber">
+           8
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-25">
+         <a href="#References">
+          <span class="tocnumber">
+           9
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-26">
+         <a href="#External_links">
+          <span class="tocnumber">
+           10
+          </span>
+          <span class="toctext">
+           External links
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Types">
+        Types
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Screenwriting&amp;action=edit&amp;section=1" title="Edit section: Types">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       The act of screenwriting takes many forms across the entertainment industry. Often, multiple writers work on the same script at different stages of
+       <a class="mw-redirect" href="/wiki/Script_development" title="Script development">
+        development
+       </a>
+       with different tasks. Over the course of a successful career, a screenwriter might be hired to write in a wide variety of roles.
+      </p>
+      <p>
+       Some of the most common forms of screenwriting jobs include:
+      </p>
+      <h3>
+       <span class="mw-headline" id="Spec_script_writing">
+        Spec script writing
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Screenwriting&amp;action=edit&amp;section=2" title="Edit section: Spec script writing">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       <a href="/wiki/Spec_script" title="Spec script">
+        Spec scripts
+       </a>
+       are feature film or
+       <a class="mw-redirect" href="/wiki/Television_program" title="Television program">
+        television show
+       </a>
+       scripts written on speculation of sale, without the commission of a
+       <a href="/wiki/Film_studio" title="Film studio">
+        film studio
+       </a>
+       ,
+       <a href="/wiki/Production_company" title="Production company">
+        production company
+       </a>
+       or TV network. The content is usually invented solely by the screenwriter, though spec screenplays can also be based on established works or real people and events. The spec script is a Hollywood sales tool. The vast majority of scripts written each year are spec scripts, but only a small percentage make it to the screen.
+       <sup class="reference" id="cite_ref-1">
+        <a href="#cite_note-1">
+         [1]
+        </a>
+       </sup>
+       A spec script is usually a wholly original work, but can also be an
+       <a href="/wiki/Film_adaptation" title="Film adaptation">
+        adaptation
+       </a>
+       .
+      </p>
+      <p>
+       In television writing, a spec script is a sample teleplay written to demonstrate the writer's knowledge of a show and ability to imitate its style and conventions. It is submitted to the show's producers in hopes of being hired to write future episodes of the show. Budding screenwriters attempting to break into the business generally begin by writing one or more spec scripts.
+      </p>
+      <p>
+       Although writing spec scripts is part of any writer's career, the
+       <a href="/wiki/Writers_Guild_of_America" title="Writers Guild of America">
+        Writers Guild of America
+       </a>
+       forbids members to write "on speculation". The distinction is that a "spec script" is written as a sample by the writer on his or her own; what is forbidden is writing a script for a specific producer without a contract. In addition to writing a script on speculation, it is generally not advised to write camera angles or other directional terminology, as these are likely to be ignored. A director may write up a shooting script himself or herself, a script that guides the team in what to do in order to carry out the director's vision of how the script should look. The director may ask the original writer to co-write it with him or her, or to rewrite a script that satisfies both the director and producer of the film/TV show.
+      </p>
+      <p>
+       Spec writing is also unique in that the writer must pitch the idea to producers. In order to sell the script, it must have a killer title, good writing, and a great logline. A logline is one sentence that lays out what the movie is about. A well written logline will convey the tone of the film, introduce the main character, and touch on the primary conflict. Usually the logline and title work in tandem to draw people in, and it is highly suggested to incorporate irony into them when possible. These things, along with nice, clean writing will hugely impact whether or not a producer picks up the spec script.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Commissioned_screenplay">
+        Commissioned screenplay
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Screenwriting&amp;action=edit&amp;section=3" title="Edit section: Commissioned screenplay">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       A commissioned screenplay is written by a hired writer. The concept is usually developed long before the screenwriter is brought on, and often has multiple writers work on it before the script is given a
+       <a href="/wiki/Green-light" title="Green-light">
+        green light
+       </a>
+       .
+      </p>
+      <h3>
+       <span class="mw-headline" id="Feature_assignment_writing">
+        Feature assignment writing
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Screenwriting&amp;action=edit&amp;section=4" title="Edit section: Feature assignment writing">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       Scripts written on assignment are screenplays created under contract with a
+       <a class="mw-redirect" href="/wiki/Movie_studio" title="Movie studio">
+        studio
+       </a>
+       , production company, or producer. These are the most common assignments sought after in screenwriting. A screenwriter can get an assignment either exclusively or from "open" assignments. A screenwriter can also be approached and offered an assignment. Assignment scripts are generally adaptations of an existing idea or property owned by the hiring company,
+       <sup class="reference" id="cite_ref-2">
+        <a href="#cite_note-2">
+         [2]
+        </a>
+       </sup>
+       but can also be original works based on a concept created by the writer or producer.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Rewriting_and_script_doctoring">
+        Rewriting and script doctoring
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Screenwriting&amp;action=edit&amp;section=5" title="Edit section: Rewriting and script doctoring">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       Most produced films are rewritten to some extent during the development process. Frequently, they are not rewritten by the original writer of the script.
+       <sup class="reference" id="cite_ref-3">
+        <a href="#cite_note-3">
+         [3]
+        </a>
+       </sup>
+       Many established screenwriters, as well as new writers whose work shows promise but lacks marketability, make their living rewriting scripts.
+      </p>
+      <p>
+       When a script's central premise or characters are good but the script is otherwise unusable, a different writer or team of writers is contracted to do an entirely new draft, often referred to as a "page one rewrite".
+       <span id="polish">
+       </span>
+       When only small problems remain, such as bad dialogue or poor humor, a writer is hired to do a "polish" or "punch-up".
+      </p>
+      <p>
+       Depending on the size of the new writer's contributions,
+       <a class="mw-redirect" href="/wiki/Screen_credit" title="Screen credit">
+        screen credit
+       </a>
+       may or may not be given. For instance, in the American film industry, credit to rewriters is given only if 50% or more of the script is substantially changed.
+       <sup class="reference" id="cite_ref-4">
+        <a href="#cite_note-4">
+         [4]
+        </a>
+       </sup>
+       These standards can make it difficult to establish the identity and number of screenwriters who contributed to a film's creation.
+      </p>
+      <p>
+       When established writers are called in to rewrite portions of a script late in the development process, they are commonly referred to as
+       <a href="/wiki/Script_doctor" title="Script doctor">
+        script doctors
+       </a>
+       . Prominent script doctors include Christopher Keane,
+       <a class="mw-redirect" href="/wiki/Steve_Zaillian" title="Steve Zaillian">
+        Steve Zaillian
+       </a>
+       ,
+       <a href="/wiki/William_Goldman" title="William Goldman">
+        William Goldman
+       </a>
+       ,
+       <a href="/wiki/Robert_Towne" title="Robert Towne">
+        Robert Towne
+       </a>
+       ,
+       <a href="/wiki/Mort_Nathan" title="Mort Nathan">
+        Mort Nathan
+       </a>
+       , Quentin Tarantino and Peter Russell.
+       <sup class="reference" id="cite_ref-5">
+        <a href="#cite_note-5">
+         [5]
+        </a>
+       </sup>
+       Many up-and-coming screenwriters work as ghost writers.
+       <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+        [
+        <i>
+         <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+          <span title="This claim needs references to reliable sources. (July 2017)">
+           citation needed
+          </span>
+         </a>
+        </i>
+        ]
+       </sup>
+      </p>
+      <h3>
+       <span class="mw-headline" id="Television_writing">
+        Television writing
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Screenwriting&amp;action=edit&amp;section=6" title="Edit section: Television writing">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       A freelance television writer typically uses spec scripts or previous credits and reputation to obtain a contract to write one or more episodes for an existing television show. After an episode is submitted, rewriting or polishing may be required.
+      </p>
+      <p>
+       A staff writer for a TV show generally works in-house, writing and rewriting episodes. Staff writers—often given other titles, such as
+       <a href="/wiki/Story_editor" title="Story editor">
+        story editor
+       </a>
+       or
+       <a href="/wiki/Television_producer" title="Television producer">
+        producer
+       </a>
+       —work both as a group and individually on episode scripts to maintain the show's tone, style, characters, and plots.
+       <sup class="reference" id="cite_ref-6">
+        <a href="#cite_note-6">
+         [6]
+        </a>
+       </sup>
+      </p>
+      <p>
+       Television show creators write the
+       <a href="/wiki/Television_pilot" title="Television pilot">
+        television pilot
+       </a>
+       and
+       <a class="mw-redirect" href="/wiki/Bible_(writing)" title="Bible (writing)">
+        bible
+       </a>
+       of new television series. They are responsible for creating and managing all aspects of a show's characters, style, and plots. Frequently, a creator remains responsible for the show's day-to-day creative decisions throughout the series run as
+       <a class="mw-redirect" href="/wiki/Show_runner" title="Show runner">
+        show runner
+       </a>
+       ,
+       <a href="/wiki/Head_writer" title="Head writer">
+        head writer
+       </a>
+       or story editor.
+      </p>
+      <h4>
+       <span class="mw-headline" id="Writing_for_daily_series">
+        Writing for daily series
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Screenwriting&amp;action=edit&amp;section=7" title="Edit section: Writing for daily series">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h4>
+      <p>
+       The process of writing for
+       <a href="/wiki/Soap_opera" title="Soap opera">
+        soap operas
+       </a>
+       and
+       <a href="/wiki/Telenovela" title="Telenovela">
+        telenovelas
+       </a>
+       is different from that used by
+       <a href="/wiki/Prime_time" title="Prime time">
+        prime time
+       </a>
+       shows, due in part to the need to produce new episodes five days a week for several months. In one example cited by
+       <a href="/wiki/Jane_Espenson" title="Jane Espenson">
+        Jane Espenson
+       </a>
+       , screenwriting is a "sort of three-tiered system":
+       <sup class="reference" id="cite_ref-jane_7-0">
+        <a href="#cite_note-jane-7">
+         [7]
+        </a>
+       </sup>
+      </p>
+      <dl>
+       <dd>
+        a few top writers craft the overall
+        <a href="/wiki/Story_arc" title="Story arc">
+         story arcs
+        </a>
+        . Mid-level writers work with them to turn those arcs into things that look a lot like traditional episode outlines, and an array of writers below that (who do not even have to be local to Los Angeles), take those outlines and quickly generate the dialogue while adhering slavishly to the outlines.
+       </dd>
+      </dl>
+      <p>
+       Espenson notes that a recent trend has been to eliminate the role of the mid-level writer, relying on the senior writers to do rough outlines and giving the other writers a bit more freedom. Regardless, when the finished scripts are sent to the top writers, the latter do a final round of rewrites. Espenson also notes that a show that airs daily, with characters who have decades of history behind their voices, necessitates a writing staff without the distinctive voice that can sometimes be present in prime-time series.
+       <sup class="reference" id="cite_ref-jane_7-1">
+        <a href="#cite_note-jane-7">
+         [7]
+        </a>
+       </sup>
+      </p>
+      <h4>
+       <span class="mw-headline" id="Writing_for_game_shows">
+        Writing for game shows
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Screenwriting&amp;action=edit&amp;section=8" title="Edit section: Writing for game shows">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h4>
+      <p>
+       Game shows feature live contestants, but still use a team of writers as part of a specific format.
+       <sup class="reference" id="cite_ref-WGA_8-0">
+        <a href="#cite_note-WGA-8">
+         [8]
+        </a>
+       </sup>
+       This may involve the slate of questions and even specific phrasing or dialogue on the part of the host. Writers may not script the dialogue used by the contestants, but they work with the producers to create the actions, scenarios, and sequence of events that support the game show's concept.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Video_game_writing">
+        Video game writing
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Screenwriting&amp;action=edit&amp;section=9" title="Edit section: Video game writing">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       With the continued development and increased complexity of video games, many opportunities are available to employ screenwriters in the field of
+       <a href="/wiki/Video_game_design" title="Video game design">
+        video game design
+       </a>
+       . Video game writers work closely with the other game designers to create characters, scenarios, and dialogue.
+       <sup class="reference" id="cite_ref-9">
+        <a href="#cite_note-9">
+         [9]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Theories_on_writing_a_screenplay">
+        Theories on writing a screenplay
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Screenwriting&amp;action=edit&amp;section=10" title="Edit section: Theories on writing a screenplay">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+       <tr>
+        <th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em;padding-bottom:0">
+         <a href="/wiki/Literature" title="Literature">
+          Literature
+         </a>
+        </th>
+       </tr>
+       <tr>
+        <td style="padding:0.2em 0 0.4em">
+         <a class="image" href="/wiki/File:Liji2_no_bg.png">
+          <img alt="Liji2 no bg.png" data-file-height="1092" data-file-width="1881" height="102" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Liji2_no_bg.png/175px-Liji2_no_bg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Liji2_no_bg.png/263px-Liji2_no_bg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Liji2_no_bg.png/350px-Liji2_no_bg.png 2x" width="175"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-abovebelow" style="padding:0.1em">
+         Major forms
+        </th>
+       </tr>
+       <tr>
+        <td class="hlist" style="padding:0 0.1em 0.4em">
+         <ul>
+          <li>
+           <a href="/wiki/Novel" title="Novel">
+            Novel
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Poetry" title="Poetry">
+            Poem
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Drama" title="Drama">
+            Drama
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Short_story" title="Short story">
+            Short story
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Novella" title="Novella">
+            Novella
+           </a>
+          </li>
+         </ul>
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-abovebelow" style="padding:0.1em">
+         <a href="/wiki/Literary_genre" title="Literary genre">
+          Genres
+         </a>
+        </th>
+       </tr>
+       <tr>
+        <td class="hlist" style="padding:0 0.1em 0.4em">
+         <ul>
+          <li>
+           <a href="/wiki/Comedy" title="Comedy">
+            Comedy
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Drama" title="Drama">
+            Drama
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Epic_poetry" title="Epic poetry">
+            Epic
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Erotic_literature" title="Erotic literature">
+            Erotic
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Literary_nonsense" title="Literary nonsense">
+            Nonsense
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Lyric_poetry" title="Lyric poetry">
+            Lyric
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Mythopoeia" title="Mythopoeia">
+            Mythopoeia
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Chivalric_romance" title="Chivalric romance">
+            Romance
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Satire" title="Satire">
+            Satire
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Tragedy" title="Tragedy">
+            Tragedy
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Tragicomedy" title="Tragicomedy">
+            Tragicomedy
+           </a>
+          </li>
+         </ul>
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-abovebelow" style="padding:0.1em">
+         <a href="/wiki/Media_(communication)" title="Media (communication)">
+          Media
+         </a>
+        </th>
+       </tr>
+       <tr>
+        <td class="hlist" style="padding:0 0.1em 0.4em">
+         <ul>
+          <li>
+           <a href="/wiki/Performance" title="Performance">
+            Performance
+           </a>
+           <ul>
+            <li>
+             <a href="/wiki/Play_(theatre)" title="Play (theatre)">
+              play
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li>
+           <a href="/wiki/Book" title="Book">
+            Book
+           </a>
+          </li>
+         </ul>
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-abovebelow" style="padding:0.1em">
+         Techniques
+        </th>
+       </tr>
+       <tr>
+        <td class="hlist" style="padding:0 0.1em 0.4em">
+         <ul>
+          <li>
+           <a href="/wiki/Prose" title="Prose">
+            Prose
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Poetry" title="Poetry">
+            Poetry
+           </a>
+          </li>
+         </ul>
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-abovebelow" style="padding:0.1em">
+         History and lists
+        </th>
+       </tr>
+       <tr>
+        <td class="hlist" style="padding:0 0.1em 0.4em">
+         <ul>
+          <li>
+           <a href="/wiki/History_of_literature" title="History of literature">
+            History
+           </a>
+           <ul>
+            <li>
+             <a href="/wiki/History_of_modern_literature" title="History of modern literature">
+              modern
+             </a>
+            </li>
+           </ul>
+          </li>
+         </ul>
+         <ul>
+          <li>
+           <a href="/wiki/Outline_of_literature" title="Outline of literature">
+            Outline
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Glossary_of_literary_terms" title="Glossary of literary terms">
+            Glossary of terms
+           </a>
+          </li>
+         </ul>
+         <ul>
+          <li>
+           <a href="/wiki/Lists_of_books" title="Lists of books">
+            Books
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Lists_of_writers" title="Lists of writers">
+            Writers
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/List_of_literary_awards" title="List of literary awards">
+            Literary awards
+           </a>
+           <ul>
+            <li>
+             <a href="/wiki/List_of_poetry_awards" title="List of poetry awards">
+              poetry
+             </a>
+            </li>
+           </ul>
+          </li>
+         </ul>
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-abovebelow" style="padding:0.1em">
+         Discussion
+        </th>
+       </tr>
+       <tr>
+        <td class="hlist" style="padding:0 0.1em 0.4em">
+         <ul>
+          <li>
+           <a href="/wiki/Literary_criticism" title="Literary criticism">
+            Criticism
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Literary_theory" title="Literary theory">
+            Theory
+           </a>
+           (
+           <a href="/wiki/Critical_theory" title="Critical theory">
+            critical theory
+           </a>
+           )
+          </li>
+          <li>
+           <a href="/wiki/Sociology_of_literature" title="Sociology of literature">
+            Sociology
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Literary_magazine" title="Literary magazine">
+            Magazines
+           </a>
+          </li>
+         </ul>
+        </td>
+       </tr>
+       <tr>
+        <td style="padding:0.3em 0.4em 0.3em;font-weight:bold;display:block; margin-top:0.3em; border-top:1px solid #aaa; padding-top:0.15em; border-bottom:1px solid #aaa;">
+         <a class="image" href="/wiki/File:Books-aj.svg_aj_ashton_01.svg">
+          <img alt="Books-aj.svg aj ashton 01.svg" class="noviewer" data-file-height="274" data-file-width="309" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Books-aj.svg_aj_ashton_01.svg/16px-Books-aj.svg_aj_ashton_01.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Books-aj.svg_aj_ashton_01.svg/24px-Books-aj.svg_aj_ashton_01.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Books-aj.svg_aj_ashton_01.svg/32px-Books-aj.svg_aj_ashton_01.svg.png 2x" width="16"/>
+         </a>
+         <a href="/wiki/Portal:Literature" title="Portal:Literature">
+          Literature portal
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td style="text-align:right;font-size:115%">
+         <div class="plainlinks hlist navbar mini">
+          <ul>
+           <li class="nv-view">
+            <a href="/wiki/Template:Literature" title="Template:Literature">
+             <abbr title="View this template">
+              v
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-talk">
+            <a href="/wiki/Template_talk:Literature" title="Template talk:Literature">
+             <abbr title="Discuss this template">
+              t
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-edit">
+            <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Literature&amp;action=edit">
+             <abbr title="Edit this template">
+              e
+             </abbr>
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+      </table>
+      <p>
+       Fundamentally, the screenplay is a unique literary form. It is like a musical score, in that it is intended to be interpreted on the basis of other artists' performance, rather than serving as a finished product for the enjoyment of its audience. For this reason, a screenplay is written using technical jargon and tight, spare prose when describing stage directions. Unlike a
+       <a href="/wiki/Novel" title="Novel">
+        novel
+       </a>
+       or
+       <a href="/wiki/Short_story" title="Short story">
+        short story
+       </a>
+       , a screenplay focuses on describing the literal, visual aspects of the story, rather than on the internal thoughts of its characters. In screenwriting, the aim is to evoke those thoughts and emotions through subtext, action, and
+       <a href="/wiki/Symbolism_(arts)" title="Symbolism (arts)">
+        symbolism
+       </a>
+       .
+       <sup class="reference" id="cite_ref-10">
+        <a href="#cite_note-10">
+         [10]
+        </a>
+       </sup>
+      </p>
+      <p>
+       Several main screenwriting theories help writers approach the screenplay by systematizing the structure, goals and techniques of writing a script. The most common kinds of theories are structural. Screenwriter William Goldman is widely quoted as saying "Screenplays are structure".
+      </p>
+      <h3>
+       <span class="mw-headline" id="Three-act_structure">
+        Three-act structure
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Screenwriting&amp;action=edit&amp;section=11" title="Edit section: Three-act structure">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main article:
+       <a href="/wiki/Three-act_structure" title="Three-act structure">
+        Three-act structure
+       </a>
+      </div>
+      <p>
+       The three acts are setup (of the location and characters), confrontation (with an obstacle), and resolution (culminating in a climax and a dénouement). Usually, in a two-hour film, the first and third acts both typically last around 30 minutes, with the middle act lasting roughly an hour, but today many films start from the confrontation point and then goes to the setup act or they might even start at the last act and then go back to the start.
+      </p>
+      <p>
+       In
+       <i>
+        <a href="/wiki/Writing_Drama" title="Writing Drama">
+         Writing Drama
+        </a>
+       </i>
+       , French writer and director
+       <a href="/wiki/Yves_Lavandier" title="Yves Lavandier">
+        Yves Lavandier
+       </a>
+       shows a slightly different approach.
+       <sup class="reference" id="cite_ref-11">
+        <a href="#cite_note-11">
+         [11]
+        </a>
+       </sup>
+       As do most theorists, he maintains that every human action, whether fictitious or real, contains three logical parts: before the action, during the action, and after the action. But since the climax is part of the action, Yves Lavandier maintains that the second act must include the climax, which makes for a much shorter third act than is found in most screenwriting theories.
+      </p>
+      <p>
+       Besides the three-act structure, it is also common to use a four- or five-act structure in a screenplay, though certain screenplays may include as many as twenty separate acts.
+      </p>
+      <h3>
+       <span id="The_Hero.27s_Journey">
+       </span>
+       <span class="mw-headline" id="The_Hero's_Journey">
+        The Hero's Journey
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Screenwriting&amp;action=edit&amp;section=12" title="Edit section: The Hero's Journey">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       The hero's journey, also referred to as the
+       <a class="mw-redirect" href="/wiki/Monomyth" title="Monomyth">
+        monomyth
+       </a>
+       , is an idea formulated by noted mythologist
+       <a href="/wiki/Joseph_Campbell" title="Joseph Campbell">
+        Joseph Campbell
+       </a>
+       . The central concept of the monomyth is that a pattern can be seen in stories and myths across history. Campbell defined and explained that pattern in his book
+       <i>
+        <a href="/wiki/The_Hero_with_a_Thousand_Faces" title="The Hero with a Thousand Faces">
+         The Hero with a Thousand Faces
+        </a>
+       </i>
+       (1949).
+      </p>
+      <p>
+       Campbell's insight was that important myths from around the world, which have survived for thousands of years, all share a fundamental structure. This fundamental structure contains a number of stages, which include
+      </p>
+      <ol>
+       <li>
+        <b>
+         a call to adventure
+        </b>
+        , which the hero has to accept or decline,
+       </li>
+       <li>
+        <b>
+         a road of trials
+        </b>
+        , on which the hero succeeds or fails,
+       </li>
+       <li>
+        <b>
+         achieving the goal (or "boon")
+        </b>
+        , which often results in important self-knowledge,
+       </li>
+       <li>
+        <b>
+         a return to the ordinary world
+        </b>
+        , which again the hero can succeed or fail, and
+       </li>
+       <li>
+        <b>
+         application of the boon,
+        </b>
+        in which what the hero has gained can be used to improve the world.
+       </li>
+      </ol>
+      <p>
+       Later, screenwriter
+       <a href="/wiki/Christopher_Vogler" title="Christopher Vogler">
+        Christopher Vogler
+       </a>
+       refined and expanded the hero's journey for the screenplay form in his book,
+       <i>
+        <a href="/wiki/The_Writer%27s_Journey:_Mythic_Structure_for_Writers" title="The Writer's Journey: Mythic Structure for Writers">
+         The Writer's Journey: Mythic Structure for Writers
+        </a>
+       </i>
+       (1993).
+      </p>
+      <h3>
+       <span id="Syd_Field.27s_Paradigm">
+       </span>
+       <span class="mw-headline" id="Syd_Field's_Paradigm">
+        Syd Field's Paradigm
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Screenwriting&amp;action=edit&amp;section=13" title="Edit section: Syd Field's Paradigm">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       In his book
+       <i>
+        Screenplay
+       </i>
+       <a href="/wiki/Syd_Field" title="Syd Field">
+        Syd Field
+       </a>
+       posited a new theory, which he called the Paradigm. Field noticed that in a 120-page screenplay, Act Two was notoriously boring, and was also twice the length of Acts One and Three. He also noticed that an important dramatic event usually occurred at the middle of the picture, which implied to him that the middle act was actually two acts in one. So the Three Act Structure is notated 1, 2a, 2b, 3, resulting in
+       <a href="/wiki/Aristotle" title="Aristotle">
+        Aristotle
+       </a>
+       's Three Acts divided into four pieces.
+      </p>
+      <p>
+       Field also introduced the idea of
+       <a href="/wiki/Plot_point" title="Plot point">
+        Plot Points
+       </a>
+       into screenwriting theory. Plot Points are important structural functions that happen in approximately the same place in most successful movies, like the verses and choruses in a popular song. In subsequent books, Field has added to his original list, and students of his like Viki King and Linda Seger have added to the list of Plot Points. Here is a current list of the major Plot Points that are congruent with Field's Paradigm:
+      </p>
+      <p>
+       <b>
+        Opening Image
+       </b>
+       : The first image in the screenplay should summarize the entire film, especially its tone. Often, writers go back and redo this as the last thing before submitting the script.
+      </p>
+      <p>
+       <b>
+        Exposition
+       </b>
+       : Provides some background information to the audience about the plot, characters' histories, setting, and theme.
+      </p>
+      <p>
+       <b>
+        <a class="mw-redirect" href="/wiki/Inciting_Incident" title="Inciting Incident">
+         Inciting Incident
+        </a>
+       </b>
+       : Also called the catalyst, this is the point in the story when the Protagonist encounters the problem that will change their life. This is when the detective is assigned the case, where Boy meets Girl, and where the Comic Hero gets fired from his cushy job, forcing him into comic circumstances.
+      </p>
+      <p>
+       <b>
+        Plot Point 1
+       </b>
+       : The last scene in Act One, Plot Point 1 is a surprising development that radically changes the Protagonist's life, and forces him to confront the Opponent. In
+       <i>
+        <a href="/wiki/Star_Wars_(film)" title="Star Wars (film)">
+         Star Wars
+        </a>
+       </i>
+       , this is when
+       <a href="/wiki/Luke_Skywalker" title="Luke Skywalker">
+        Luke
+       </a>
+       's family is killed by the
+       <a href="/wiki/Galactic_Empire_(Star_Wars)" title="Galactic Empire (Star Wars)">
+        Empire
+       </a>
+       . He has no home to go back to, so he joins the
+       <a href="/wiki/Rebel_Alliance" title="Rebel Alliance">
+        Rebels
+       </a>
+       in opposing
+       <a href="/wiki/Darth_Vader" title="Darth Vader">
+        Darth Vader
+       </a>
+       .
+      </p>
+      <p>
+       <b>
+        Pinch 1
+       </b>
+       : A reminder scene at about 3/8 the way through the script (halfway through Act 2a) that brings up the central conflict of the drama, reminding us of the overall conflict. For example, in
+       <i>
+        Star Wars
+       </i>
+       , Pinch 1 is the
+       <a class="mw-redirect" href="/wiki/Imperial_stormtrooper" title="Imperial stormtrooper">
+        Stormtroopers
+       </a>
+       attacking the
+       <a href="/wiki/Millennium_Falcon" title="Millennium Falcon">
+        Millennium Falcon
+       </a>
+       in
+       <a href="/wiki/Mos_Eisley" title="Mos Eisley">
+        Mos Eisley
+       </a>
+       , reminding us the Empire is after the stolen plans to the
+       <a href="/wiki/Death_Star" title="Death Star">
+        Death Star
+       </a>
+       <a href="/wiki/R2-D2" title="R2-D2">
+        R2-D2
+       </a>
+       is carrying and Luke and
+       <a href="/wiki/Obi-Wan_Kenobi" title="Obi-Wan Kenobi">
+        Ben Kenobi
+       </a>
+       are trying to get to the Rebel Alliance (the main conflict).
+      </p>
+      <p>
+       <b>
+        Midpoint
+       </b>
+       : An important scene in the middle of the script, often a reversal of fortune or revelation that changes the direction of the story. Field suggests that driving the story towards the Midpoint keeps the second act from sagging.
+      </p>
+      <p>
+       <b>
+        Pinch 2
+       </b>
+       : Another reminder scene about 5/8 through the script (halfway through Act 2b) that is somehow linked to Pinch 1 in reminding the audience about the central conflict. In
+       <i>
+        Star Wars
+       </i>
+       , Pinch 2 is the Stormtroopers attacking them as they rescue the
+       <a href="/wiki/Princess_Leia" title="Princess Leia">
+        Princess
+       </a>
+       in the Death Star. Both scenes remind us of the Empire's opposition, and using the Stormtrooper attack
+       <a class="mw-redirect" href="/wiki/Motif_(literature)" title="Motif (literature)">
+        motif
+       </a>
+       unifies both Pinches.
+      </p>
+      <p>
+       <b>
+        Plot Point 2
+       </b>
+       : A dramatic reversal that ends Act 2 and begins Act 3, which is about confrontation and resolution. Sometimes Plot Point 2 is the moment when the Hero has had enough and is finally going to face the Opponent. Sometimes, like in
+       <i>
+        <a href="/wiki/Toy_Story" title="Toy Story">
+         Toy Story
+        </a>
+       </i>
+       , it's the low-point for the Hero, and he must bounce back to overcome the odds in Act 3.
+      </p>
+      <p>
+       <b>
+        Showdown
+       </b>
+       : About midway through Act 3, the Protagonist will confront the Main Problem of the story and either overcome it, or come to a tragic end.
+      </p>
+      <p>
+       <b>
+        Resolution
+       </b>
+       : The issues of the story are resolved.
+      </p>
+      <p>
+       <b>
+        Tag
+       </b>
+       : An epilogue, tying up the loose ends of the story, giving the audience closure. This is also known as
+       <a class="mw-redirect" href="/wiki/Denouement" title="Denouement">
+        denouement
+       </a>
+       . In general, films in recent decades have had longer denouements than films made in the 1970s or earlier.
+      </p>
+      <h3>
+       <span class="mw-headline" id="The_sequence_approach">
+        The sequence approach
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Screenwriting&amp;action=edit&amp;section=14" title="Edit section: The sequence approach">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       The sequence approach to screenwriting, sometimes known as "
+       <a class="mw-redirect" href="/wiki/Sequence_(film)" title="Sequence (film)">
+        eight-sequence structure
+       </a>
+       ," is a system developed by
+       <a href="/wiki/Frank_Daniel" title="Frank Daniel">
+        Frank Daniel
+       </a>
+       , while he was the head of the Graduate Screenwriting Program at
+       <a href="/wiki/University_of_Southern_California" title="University of Southern California">
+        USC
+       </a>
+       . It is based in part on the fact that, in the early days of cinema, technical matters forced screenwriters to divide their stories into sequences, each the length of a reel (about ten minutes).
+       <sup class="reference" id="cite_ref-12">
+        <a href="#cite_note-12">
+         [12]
+        </a>
+       </sup>
+      </p>
+      <p>
+       The sequence approach mimics that early style. The story is broken up into eight 10-15 minute sequences. The sequences serve as "mini-movies", each with their own compressed three-act structure. The first two sequences combine to form the film's first act. The next four create the film's second act. The final two sequences complete the resolution and dénouement of the story. Each sequence's resolution creates the situation which sets up the next sequence.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Dialogue_and_description">
+        Dialogue and description
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Screenwriting&amp;action=edit&amp;section=15" title="Edit section: Dialogue and description">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <h3>
+       <span class="mw-headline" id="Imagery">
+        Imagery
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Screenwriting&amp;action=edit&amp;section=16" title="Edit section: Imagery">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       Imagery can be used in many metaphoric ways. In
+       <i>
+        <a href="/wiki/The_Talented_Mr._Ripley_(film)" title="The Talented Mr. Ripley (film)">
+         The Talented Mr. Ripley
+        </a>
+       </i>
+       , the title character talked of wanting to close the door on himself sometime, and then, in the end, he did.
+       <a href="/wiki/Pathetic_fallacy" title="Pathetic fallacy">
+        Pathetic fallacy
+       </a>
+       is also frequently used; rain to express a character feeling depressed, sunny days promote a feeling of happiness and calm. Imagery can be used to sway the emotions of the audience and to clue them in to what is happening.
+      </p>
+      <p>
+       Imagery is well defined in
+       <i>
+        <a href="/wiki/City_of_God_(2002_film)" title="City of God (2002 film)">
+         City of God
+        </a>
+       </i>
+       . The opening image sequence sets the tone for the entire film. The film opens with the shimmer of a knife's blade on a sharpening stone. A drink is being prepared, The knife's blade shows again, juxtaposed is a shot of a chicken letting loose of its harness on its feet. All symbolising 'The One that got away'. The film is about life in the favelas in Rio - sprinkled with violence and games and ambition.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Dialogue">
+        Dialogue
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Screenwriting&amp;action=edit&amp;section=17" title="Edit section: Dialogue">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       Dialogue can be very important to the film industry, because there are no written words to explain the characters or plot; it all has to be explained through dialogue and imagery.
+       <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+        [
+        <i>
+         <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+          <span title="This claim needs references to reliable sources. (July 2014)">
+           citation needed
+          </span>
+         </a>
+        </i>
+        ]
+       </sup>
+       <a href="/wiki/Bollywood" title="Bollywood">
+        Bollywood
+       </a>
+       and other Indian film industries use separate dialogue writers in addition to the
+       <a class="mw-redirect" href="/wiki/Screenplay_writer" title="Screenplay writer">
+        screenplay writers
+       </a>
+       .
+       <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+        [
+        <i>
+         <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+          <span title="This claim needs references to reliable sources. (July 2014)">
+           citation needed
+          </span>
+         </a>
+        </i>
+        ]
+       </sup>
+      </p>
+      <h3>
+       <span class="mw-headline" id="Plot">
+        Plot
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Screenwriting&amp;action=edit&amp;section=18" title="Edit section: Plot">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <div class="hatnote navigation-not-searchable" role="note">
+       See also:
+       <a href="/wiki/Act_structure" title="Act structure">
+        Act structure
+       </a>
+      </div>
+      <p>
+       While the story is what will be told (narrative); the plot is how the story will be told (narration). This vocabulary is not indisputable for sometimes in literature stories and plots are used exactly the other way around.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Screenwriting_education">
+        Screenwriting education
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Screenwriting&amp;action=edit&amp;section=19" title="Edit section: Screenwriting education">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       A number of American universities offer specialized
+       <a href="/wiki/Master_of_Fine_Arts" title="Master of Fine Arts">
+        Master of Fine Arts
+       </a>
+       and undergraduate programs in screenwriting, including
+       <a href="/wiki/USC_School_of_Cinematic_Arts" title="USC School of Cinematic Arts">
+        USC
+       </a>
+       ,
+       <a href="/wiki/DePaul_University" title="DePaul University">
+        DePaul University
+       </a>
+       ,
+       <a href="/wiki/AFI_Conservatory" title="AFI Conservatory">
+        American Film Institute
+       </a>
+       ,
+       <a href="/wiki/Loyola_Marymount_University" title="Loyola Marymount University">
+        Loyola Marymount University
+       </a>
+       ,
+       <a href="/wiki/Chapman_University" title="Chapman University">
+        Chapman University
+       </a>
+       ,
+       <a href="/wiki/Tisch_School_of_the_Arts" title="Tisch School of the Arts">
+        NYU
+       </a>
+       ,
+       <a href="/wiki/University_of_California,_Los_Angeles" title="University of California, Los Angeles">
+        UCLA
+       </a>
+       ,
+       <a href="/wiki/Boston_University" title="Boston University">
+        Boston University
+       </a>
+       and the
+       <a href="/wiki/University_of_the_Arts_(Philadelphia)" title="University of the Arts (Philadelphia)">
+        University of the Arts
+       </a>
+       . In Europe, the United Kingdom has an extensive range of MA and BA Screenwriting Courses including
+       <a href="/wiki/London_College_of_Communication" title="London College of Communication">
+        London College of Communication
+       </a>
+       ,
+       <a href="/wiki/Bournemouth_University" title="Bournemouth University">
+        Bournemouth University
+       </a>
+       ,
+       <a class="mw-redirect" href="/wiki/Edinburgh_University" title="Edinburgh University">
+        Edinburgh University
+       </a>
+       , and
+       <a href="/wiki/Goldsmiths,_University_of_London" title="Goldsmiths, University of London">
+        Goldsmiths College (University of London)
+       </a>
+       .
+      </p>
+      <p>
+       Some schools offer non-degree screenwriting programs, such as the
+       <a href="/wiki/TheFilmSchool" title="TheFilmSchool">
+        TheFilmSchool
+       </a>
+       , The International Film and Television School Fast Track, and the UCLA Professional /
+       <a class="external text" href="http://writers.uclaextension.edu/" rel="nofollow">
+        Extension Programs in Screenwriting
+       </a>
+       .
+      </p>
+      <p>
+       <a href="/wiki/New_York_Film_Academy" title="New York Film Academy">
+        New York Film Academy
+       </a>
+       offers both degree and non-degree educational systems with campuses all around the world.
+      </p>
+      <p>
+       Many screenwriters choose to pursue screenwriting independently with free online educational resources such as ScreenCraft, Keanewords, NoFilmSchool, Film Daily,
+       <a href="/wiki/The_Black_List" title="The Black List">
+        The Black List
+       </a>
+       ,
+       <a href="/wiki/John_August" title="John August">
+        John August
+       </a>
+       and Craig Mazin's
+       <a href="/wiki/Scriptnotes" title="Scriptnotes">
+        Scriptnotes
+       </a>
+       podcast, and Julie Gray's Just Effing Entertain Me.
+       <sup class="reference" id="cite_ref-13">
+        <a href="#cite_note-13">
+         [13]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-14">
+        <a href="#cite_note-14">
+         [14]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-15">
+        <a href="#cite_note-15">
+         [15]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="History">
+        History
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Screenwriting&amp;action=edit&amp;section=20" title="Edit section: History">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       The first true screenplay is thought to be from
+       <a class="mw-redirect" href="/wiki/George_Melies" title="George Melies">
+        George Melies
+       </a>
+       ' 1902 film
+       <i>
+        <a href="/wiki/A_Trip_to_the_Moon" title="A Trip to the Moon">
+         A Trip to the Moon
+        </a>
+       </i>
+       . The movie is silent, but the screenplay still contains specific descriptions and action lines that resemble a modern-day script. As time went on and films became longer and more complex, the need for a screenplay became more prominent in the industry. The introduction of movie theaters also impacted the development of screenplays, as audiences became more widespread and sophisticated, so the stories had to be as well. Once the first non-silent movie was released in 1927, screenwriting became a hugely important position within Hollywood. The "studio system" of the 1930s only heightened this importance, as studio heads wanted productivity. Thus, having the "blueprint" (continuity screenplay) of the film beforehand became extremely optimal. Around 1970, the "spec script" was first created, and changed the industry for writers forever. Now, screenwriting for television (teleplays) is considered as difficult and competitive as writing is for feature films.
+       <sup class="reference" id="cite_ref-16">
+        <a href="#cite_note-16">
+         [16]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Portrayed_in_film">
+        Portrayed in film
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Screenwriting&amp;action=edit&amp;section=21" title="Edit section: Portrayed in film">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Screenwriting has been the focus of a number of films:
+      </p>
+      <ul>
+       <li>
+        <i>
+         <a href="/wiki/Crashing_Hollywood_(1931_film)" title="Crashing Hollywood (1931 film)">
+          Crashing Hollywood
+         </a>
+        </i>
+        (1931)—A screenwriter collaborates on a gangster movie with a real-life gangster. When the film is released, the mob doesn’t like how accurate the movie is.
+        <sup class="reference" id="cite_ref-17">
+         <a href="#cite_note-17">
+          [17]
+         </a>
+        </sup>
+       </li>
+       <li>
+        <i>
+         <a class="mw-redirect" href="/wiki/Sunset_Boulevard_(1950_film)" title="Sunset Boulevard (1950 film)">
+          Sunset Boulevard
+         </a>
+        </i>
+        (1950)—Actor
+        <a href="/wiki/William_Holden" title="William Holden">
+         William Holden
+        </a>
+        portrays a hack screenwriter forced to collaborate on a screenplay with a desperate, fading
+        <a href="/wiki/Silent_film" title="Silent film">
+         silent film
+        </a>
+        star, played by
+        <a href="/wiki/Gloria_Swanson" title="Gloria Swanson">
+         Gloria Swanson
+        </a>
+        .
+       </li>
+       <li>
+        <i>
+         <a href="/wiki/In_a_Lonely_Place" title="In a Lonely Place">
+          In a Lonely Place
+         </a>
+        </i>
+        (1950)—
+        <a href="/wiki/Humphrey_Bogart" title="Humphrey Bogart">
+         Humphrey Bogart
+        </a>
+        is a washed up screenwriter who gets framed for murder.
+       </li>
+       <li>
+        <i>
+         <a class="mw-redirect" href="/wiki/Paris,_When_it_Sizzles" title="Paris, When it Sizzles">
+          Paris, When it Sizzles
+         </a>
+        </i>
+        (1964)—
+        <a href="/wiki/William_Holden" title="William Holden">
+         William Holden
+        </a>
+        plays a drunk screenwriter who has wasted months partying and has just two days to finish his script. He hires
+        <a href="/wiki/Audrey_Hepburn" title="Audrey Hepburn">
+         Audrey Hepburn
+        </a>
+        to help.
+       </li>
+       <li>
+        <i>
+         <a href="/wiki/Barton_Fink" title="Barton Fink">
+          Barton Fink
+         </a>
+        </i>
+        (1991)—
+        <a href="/wiki/John_Turturro" title="John Turturro">
+         John Turturro
+        </a>
+        plays a naïve New York playwright who comes to Hollywood with high hopes and great ambition. While there, he meets one of his writing idols, a celebrated novelist from the past who has become a drunken hack screenwriter (a character based on
+        <a href="/wiki/William_Faulkner" title="William Faulkner">
+         William Faulkner
+        </a>
+        ).
+       </li>
+       <li>
+        <i>
+         <a href="/wiki/Mistress_(1992_film)" title="Mistress (1992 film)">
+          Mistress
+         </a>
+        </i>
+        (1992)—In this comedy written by
+        <a href="/wiki/Barry_Primus" title="Barry Primus">
+         Barry Primus
+        </a>
+        and
+        <a href="/wiki/J._F._Lawton" title="J. F. Lawton">
+         J. F. Lawton
+        </a>
+        ,
+        <a href="/wiki/Robert_Wuhl" title="Robert Wuhl">
+         Robert Wuhl
+        </a>
+        is a screenwriter/director who's got integrity, vision, and a serious script - but no career.
+        <a href="/wiki/Martin_Landau" title="Martin Landau">
+         Martin Landau
+        </a>
+        is a sleazy producer who introduces Wuhl to
+        <a href="/wiki/Robert_De_Niro" title="Robert De Niro">
+         Robert De Niro
+        </a>
+        ,
+        <a href="/wiki/Danny_Aiello" title="Danny Aiello">
+         Danny Aiello
+        </a>
+        and
+        <a href="/wiki/Eli_Wallach" title="Eli Wallach">
+         Eli Wallach
+        </a>
+        - three guys willing to invest in the movie, but with one catch: each one wants his mistress to be the star.
+       </li>
+       <li>
+        <i>
+         <a href="/wiki/The_Player_(film)" title="The Player (film)">
+          The Player
+         </a>
+        </i>
+        (1992)—In this satire of the Hollywood system,
+        <a href="/wiki/Tim_Robbins" title="Tim Robbins">
+         Tim Robbins
+        </a>
+        plays a movie producer who thinks he’s being blackmailed by a screenwriter whose script was rejected.
+       </li>
+       <li>
+        <i>
+         <a href="/wiki/Adaptation_(film)" title="Adaptation (film)">
+          Adaptation.
+         </a>
+        </i>
+        (2002)—
+        <a href="/wiki/Nicolas_Cage" title="Nicolas Cage">
+         Nicolas Cage
+        </a>
+        portrays real-life screenwriter
+        <a href="/wiki/Charlie_Kaufman" title="Charlie Kaufman">
+         Charlie Kaufman
+        </a>
+        (as well as his fictional brother, Donald) as Kaufman struggles to adapt an esoteric book (
+        <a href="/wiki/Susan_Orlean" title="Susan Orlean">
+         Susan Orlean
+        </a>
+        ’s real-life nonfiction work
+        <i>
+         <a href="/wiki/The_Orchid_Thief" title="The Orchid Thief">
+          The Orchid Thief
+         </a>
+        </i>
+        ) into an action-filled Hollywood screenplay.
+        <sup class="reference" id="cite_ref-18">
+         <a href="#cite_note-18">
+          [18]
+         </a>
+        </sup>
+       </li>
+       <li>
+        <i>
+         <a href="/wiki/Dreams_on_Spec" title="Dreams on Spec">
+          Dreams on Spec
+         </a>
+        </i>
+        (2007)—The only documentary to follow aspiring screenwriters as they struggle to turn their scripts into movies, the film also features wisdom from established scribes like
+        <a href="/wiki/James_L._Brooks" title="James L. Brooks">
+         James L. Brooks
+        </a>
+        ,
+        <a href="/wiki/Nora_Ephron" title="Nora Ephron">
+         Nora Ephron
+        </a>
+        ,
+        <a href="/wiki/Carrie_Fisher" title="Carrie Fisher">
+         Carrie Fisher
+        </a>
+        , and
+        <a href="/wiki/Gary_Ross" title="Gary Ross">
+         Gary Ross
+        </a>
+        .
+        <sup class="reference" id="cite_ref-19">
+         <a href="#cite_note-19">
+          [19]
+         </a>
+        </sup>
+       </li>
+       <li>
+        <i>
+         <a href="/wiki/Seven_Psychopaths" title="Seven Psychopaths">
+          Seven Psychopaths
+         </a>
+        </i>
+        (2012)—In this satire, written and directed by
+        <a href="/wiki/Martin_McDonagh" title="Martin McDonagh">
+         Martin McDonagh
+        </a>
+        ,
+        <a href="/wiki/Colin_Farrell" title="Colin Farrell">
+         Colin Farrell
+        </a>
+        plays a screenwriter who is struggling to finish his screenplay
+        <i>
+         Seven Psychopaths
+        </i>
+        , but finds unlikely inspiration after his best friend steals a Shih Tzu owned by a vicious gangster.
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="Copyright_protection">
+        Copyright protection
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Screenwriting&amp;action=edit&amp;section=22" title="Edit section: Copyright protection">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <h3>
+       <span class="mw-headline" id="United_States">
+        United States
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Screenwriting&amp;action=edit&amp;section=23" title="Edit section: United States">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       In the
+       <a href="/wiki/United_States" title="United States">
+        United States
+       </a>
+       , completed works may be
+       <a href="/wiki/Copyright" title="Copyright">
+        copyrighted
+       </a>
+       , but ideas and plots may not be. Any document written after 1978 in the U.S. is automatically copyrighted even without legal
+       <a href="/wiki/Register_of_Copyrights" title="Register of Copyrights">
+        registration
+       </a>
+       or notice. However, the
+       <a href="/wiki/Library_of_Congress" title="Library of Congress">
+        Library of Congress
+       </a>
+       will formally register a screenplay. U.S. Courts will not accept a lawsuit alleging that a defendant is infringing on the plaintiff's copyright in a work until the plaintiff registers the plaintiff's claim to those copyrights with the Copyright Office.
+       <sup class="reference" id="cite_ref-20">
+        <a href="#cite_note-20">
+         [20]
+        </a>
+       </sup>
+       This means that a plaintiff's attempts to remedy an infringement will be delayed during the registration process.
+       <sup class="reference" id="cite_ref-21">
+        <a href="#cite_note-21">
+         [21]
+        </a>
+       </sup>
+       Additionally, in many infringement cases, the plaintiff will not be able recoup
+       <a class="mw-redirect" href="/wiki/Attorney_fees" title="Attorney fees">
+        attorney fees
+       </a>
+       or collect
+       <a href="/wiki/Statutory_damages_for_copyright_infringement" title="Statutory damages for copyright infringement">
+        statutory damages for copyright infringement
+       </a>
+       , unless the plaintiff registered before the infringement began.
+       <sup class="reference" id="cite_ref-22">
+        <a href="#cite_note-22">
+         [22]
+        </a>
+       </sup>
+       For the purpose of establishing evidence that a screenwriter is the author of a particular screenplay (but not related to the legal copyrighting status of a work), the Writers Guild of America registers screenplays. However, since this service is one of record keeping and is not regulated by law, a variety of commercial and non-profit organizations exist for registering screenplays. Protection for teleplays, formats, as well as screenplays may be registered for instant proof-of-authorship by third-party assurance vendors, such as the
+       <a class="external text" href="http://www.creatorsvault.com/" rel="nofollow">
+        Creators Vault
+       </a>
+       .
+      </p>
+      <p>
+       There is a line of
+       <a href="/wiki/Precedent" title="Precedent">
+        precedent
+       </a>
+       in several states (including California and New York) that allows for "idea submission" claims, based on the notion that submission of a screenplay (or even a mere pitch for one) to a studio under very particular sets of factual circumstances could potentially give rise to an implied contract to pay for the ideas embedded in that screenplay, even if an alleged derivative work does not actually infringe the screenplay author's copyright.
+       <sup class="reference" id="cite_ref-Biederman_23-0">
+        <a href="#cite_note-Biederman-23">
+         [23]
+        </a>
+       </sup>
+       The unfortunate
+       <a href="/wiki/Side_effect" title="Side effect">
+        side effect
+       </a>
+       of such precedents (which were supposed to protect screenwriters) is that it is now that much harder to break into screenwriting. Naturally, motion picture and television production firms responded by categorically declining to read
+       <i>
+        all
+       </i>
+       unsolicited screenplays from unknown writers;
+       <sup class="reference" id="cite_ref-Rosman_24-0">
+        <a href="#cite_note-Rosman-24">
+         [24]
+        </a>
+       </sup>
+       accepting screenplays only through official channels like talent agents, managers, and attorneys; and forcing screenwriters to sign broad
+       <a href="/wiki/Legal_release" title="Legal release">
+        legal releases
+       </a>
+       before their screenplays will be actually accepted, read, or considered.
+       <sup class="reference" id="cite_ref-Biederman_23-1">
+        <a href="#cite_note-Biederman-23">
+         [23]
+        </a>
+       </sup>
+       In turn, agents, managers, and attorneys have become extremely powerful gatekeepers on behalf of the major film studios and media networks.
+       <sup class="reference" id="cite_ref-Rosman_24-1">
+        <a href="#cite_note-Rosman-24">
+         [24]
+        </a>
+       </sup>
+       One symptom of how hard it is to break into screenwriting as a result of such case law is that in 2008,
+       <a class="mw-redirect" href="/wiki/Universal_Studios" title="Universal Studios">
+        Universal Studios
+       </a>
+       resisted construction of a bike path along the
+       <a href="/wiki/Los_Angeles_River" title="Los Angeles River">
+        Los Angeles River
+       </a>
+       next to its studio lot because it would worsen their existing problem with desperate amateur screenwriters throwing copies of their work over the studio wall.
+       <sup class="reference" id="cite_ref-25">
+        <a href="#cite_note-25">
+         [25]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Screenwriting&amp;action=edit&amp;section=24" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+       <ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+        <li style="display:table-row">
+         <span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center">
+          <a class="image" href="/wiki/File:Blank_television_set.svg">
+           <img alt="icon" class="noviewer" data-file-height="92" data-file-width="138" height="21" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Blank_television_set.svg/32px-Blank_television_set.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Blank_television_set.svg/48px-Blank_television_set.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Blank_television_set.svg/64px-Blank_television_set.svg.png 2x" width="32"/>
+          </a>
+         </span>
+         <span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle">
+          <a href="/wiki/Portal:Television" title="Portal:Television">
+           Television portal
+          </a>
+         </span>
+        </li>
+        <li style="display:table-row">
+         <span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center">
+          <img alt="" class="noviewer" data-file-height="48" data-file-width="48" height="28" src="//upload.wikimedia.org/wikipedia/en/thumb/e/e7/Video-x-generic.svg/28px-Video-x-generic.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/e/e7/Video-x-generic.svg/42px-Video-x-generic.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/e/e7/Video-x-generic.svg/56px-Video-x-generic.svg.png 2x" width="28"/>
+         </span>
+         <span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle">
+          <a href="/wiki/Portal:Film" title="Portal:Film">
+           Film portal
+          </a>
+         </span>
+        </li>
+        <li style="display:table-row">
+         <span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center">
+          <img alt="" class="noviewer" data-file-height="249" data-file-width="249" height="28" src="//upload.wikimedia.org/wikipedia/en/thumb/e/e0/WPVG_icon_2016.svg/28px-WPVG_icon_2016.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/e/e0/WPVG_icon_2016.svg/42px-WPVG_icon_2016.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/e/e0/WPVG_icon_2016.svg/56px-WPVG_icon_2016.svg.png 2x" width="28"/>
+         </span>
+         <span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle">
+          <a class="mw-redirect" href="/wiki/Portal:Video_Games" title="Portal:Video Games">
+           Video Games portal
+          </a>
+         </span>
+        </li>
+        <li style="display:table-row">
+         <span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center">
+          <a class="image" href="/wiki/File:WPVA-khamsa.svg">
+           <img alt="icon" class="noviewer" data-file-height="160" data-file-width="124" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/WPVA-khamsa.svg/22px-WPVA-khamsa.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/WPVA-khamsa.svg/32px-WPVA-khamsa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/WPVA-khamsa.svg/43px-WPVA-khamsa.svg.png 2x" width="22"/>
+          </a>
+         </span>
+         <span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle">
+          <a href="/wiki/Portal:Visual_arts" title="Portal:Visual arts">
+           Visual arts portal
+          </a>
+         </span>
+        </li>
+       </ul>
+      </div>
+      <ul>
+       <li>
+        <a href="/wiki/Closet_screenplay" title="Closet screenplay">
+         Closet screenplay
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/List_of_film-related_topics" title="List of film-related topics">
+         List of film-related topics
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Outline_of_film" title="Outline of film">
+         Outline of film
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Prelap" title="Prelap">
+         Prelap
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Screenplay" title="Screenplay">
+         Screenplay
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Storyboard" title="Storyboard">
+         Storyboard
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Screenwriting&amp;action=edit&amp;section=25" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <dl>
+       <dt>
+        Specific references
+       </dt>
+      </dl>
+      <div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+       <ol class="references">
+        <li id="cite_note-1">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-1">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <a class="external text" href="http://www.seattlepi.com/movies/267279_screenplay07.html" rel="nofollow">
+           The Great American Screenplay now fuels wannabe authors
+          </a>
+          from seattlepi.nwsource.com
+         </span>
+        </li>
+        <li id="cite_note-2">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-2">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          Lydia Willen and Joan Willen,
+          <i>
+           How to Sell your Screenplay
+          </i>
+          , pg 242. Square One Publishers, 2001.
+         </span>
+        </li>
+        <li id="cite_note-3">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-3">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          Skip Press,
+          <i>
+           The Ultimate Writer's Guide to Hollywood
+          </i>
+          , pg xiii. Barnes and Noble Books, 2004.
+         </span>
+        </li>
+        <li id="cite_note-4">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-4">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <a class="external text" href="http://www.wga.org/subpage_writersresources.aspx?id=171-screen" rel="nofollow">
+           credits policy
+          </a>
+          <sup class="noprint Inline-Template">
+           <span style="white-space: nowrap;">
+            [
+            <i>
+             <a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot">
+              <span title=" Dead link since December 2017">
+               permanent dead link
+              </span>
+             </a>
+            </i>
+            ]
+           </span>
+          </sup>
+          from wga.org
+         </span>
+        </li>
+        <li id="cite_note-5">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-5">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          Virginia Wright Wetman. "Success Has 1,000 Fathers (So Do Films)".
+          <i>
+           <a href="/wiki/The_New_York_Times" title="The New York Times">
+            The New York Times
+           </a>
+          </i>
+          . May 28, 1995. Arts section, p.16.
+         </span>
+        </li>
+        <li id="cite_note-6">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-6">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <a class="external text" href="http://www.tvwriter.com/faq/faq.htm" rel="nofollow">
+           TV Writer.com
+          </a>
+          <a class="external text" href="https://web.archive.org/web/20070929034952/http://www.tvwriter.com/faq/faq.htm" rel="nofollow">
+           Archived
+          </a>
+          2007-09-29 at the
+          <a href="/wiki/Wayback_Machine" title="Wayback Machine">
+           Wayback Machine
+          </a>
+          . from tvwriter.com
+         </span>
+        </li>
+        <li id="cite_note-jane-7">
+         <span class="mw-cite-backlink">
+          ^
+          <a href="#cite_ref-jane_7-0">
+           <sup>
+            <i>
+             <b>
+              a
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-jane_7-1">
+           <sup>
+            <i>
+             <b>
+              b
+             </b>
+            </i>
+           </sup>
+          </a>
+         </span>
+         <span class="reference-text">
+          <a class="external text" href="http://www.janeespenson.com/archives/00000588.php" rel="nofollow">
+           08/13/2008: Soapy Scenes
+          </a>
+          , from "Jane in Progress" a blog for aspiring screenwriters by Jane Espenson
+         </span>
+        </li>
+        <li id="cite_note-WGA-8">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-WGA_8-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <a class="external text" href="http://www.wga.org/content/default.aspx?id=2630" rel="nofollow">
+           05/15/2010: Writers Guild of America, Reality &amp; Game Show Writers
+          </a>
+         </span>
+        </li>
+        <li id="cite_note-9">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-9">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          Skip Press,
+          <i>
+           The Ultimate Writer's Guide to Hollywood
+          </i>
+          , pg207. Barnes and Noble Books, 2004.
+         </span>
+        </li>
+        <li id="cite_note-10">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-10">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          Trottier, David: "The Screenwriter's Bible", pg4. Silman James, 1998.
+         </span>
+        </li>
+        <li id="cite_note-11">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-11">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <a class="external text" href="http://www.clown-enfant.com/leclown/eng/drama/livre.htm#1STRUC" rel="nofollow">
+           Excerpt on the three-act structure
+          </a>
+          from Yves Lavandier's
+          <i>
+           Writing Drama
+          </i>
+         </span>
+        </li>
+        <li id="cite_note-12">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-12">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          Gulino, Paul Joseph: "Screenwriting: The Sequence Approach", pg3. Continuum, 2003.
+         </span>
+        </li>
+        <li id="cite_note-13">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-13">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation book">
+           Gray, Julie (2013).
+           <i>
+            Just Effing Entertain Me
+           </i>
+           . Julie Gray.
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/9781304404831" title="Special:BookSources/9781304404831">
+            9781304404831
+           </a>
+           .
+           <q>
+            A comprehensive guide to screenwriting with proven methods to help you test your ideas BEFORE you write your script, outlining tricks that make every page fascinating, chapters on character development, dialogue, theme
+           </q>
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Just+Effing+Entertain+Me&amp;rft.pub=Julie+Gray&amp;rft.date=2013&amp;rft.isbn=9781304404831&amp;rft.aulast=Gray&amp;rft.aufirst=Julie&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScreenwriting">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-14">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-14">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation news">
+           <a class="external text" href="http://www.huffingtonpost.com/julie-gray/" rel="nofollow">
+            "Julie Gray"
+           </a>
+           . Huffington Post.
+           <q>
+            A Hollywood refugee living in the Middle East, Julie Gray has authored two books and is working on a memoir. A former Hollywood story analyst who has taught at Warner Bros., Julie now works with entrepreneurs, writers and innovators world wide-to shape narrative, edit stories and bridge the gap between art and commerce.
+           </q>
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Julie+Gray&amp;rft_id=http%3A%2F%2Fwww.huffingtonpost.com%2Fjulie-gray%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScreenwriting">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-15">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-15">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation news">
+           Brown, Hannah (September 4, 2014).
+           <a class="external text" href="http://www.jpost.com/Israel-News/Culture/A-global-flavor-with-a-coastal-breeze-378018" rel="nofollow">
+            "A global flavor with a coastal breeze"
+           </a>
+           . The Jerusalem Post.
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=A+global+flavor+with+a+coastal+breeze&amp;rft.date=2014-09-04&amp;rft.aulast=Brown&amp;rft.aufirst=Hannah&amp;rft_id=http%3A%2F%2Fwww.jpost.com%2FIsrael-News%2FCulture%2FA-global-flavor-with-a-coastal-breeze-378018&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScreenwriting">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-16">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-16">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           <a class="external text" href="http://screenwritingfacts.weebly.com/history.html" rel="nofollow">
+            "History"
+           </a>
+           .
+           <i>
+            The Art of Screenwriting
+           </i>
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             2016-04-18
+            </span>
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Art+of+Screenwriting&amp;rft.atitle=History&amp;rft_id=http%3A%2F%2Fscreenwritingfacts.weebly.com%2Fhistory.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScreenwriting">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-17">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-17">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           <a class="external text" href="http://www.imdb.com/title/tt0030022/" rel="nofollow">
+            "Internet Movie Database listing of Crashing Hollywood"
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Internet+Movie+Database+listing+of+Crashing+Hollywood&amp;rft_id=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0030022%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScreenwriting">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-18">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-18">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           <a class="external text" href="https://web.archive.org/web/20070810022733/http://chasingthefrog.com/reelfaces/adaptation_intview4.php" rel="nofollow">
+            "Interview with Charlie Kaufman"
+           </a>
+           . chasingthefrog.com. Archived from
+           <a class="external text" href="http://www.chasingthefrog.com/reelfaces/adaptation_intview4.php" rel="nofollow">
+            the original
+           </a>
+           on 2007-08-10.
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Interview+with+Charlie+Kaufman&amp;rft.pub=chasingthefrog.com&amp;rft_id=http%3A%2F%2Fwww.chasingthefrog.com%2Freelfaces%2Fadaptation_intview4.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScreenwriting">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-19">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-19">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation news">
+           Jay A. Fernandez (July 18, 2007).
+           <a class="external text" href="http://articles.latimes.com/2007/jul/18/entertainment/et-scriptland18" rel="nofollow">
+            "Producers, writers face huge chasm: Compensation for digital media and residuals for reuse of content are major issues as contract talks begin"
+           </a>
+           .
+           <i>
+            Los Angeles Times
+           </i>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Los+Angeles+Times&amp;rft.atitle=Producers%2C+writers+face+huge+chasm%3A+Compensation+for+digital+media+and+residuals+for+reuse+of+content+are+major+issues+as+contract+talks+begin&amp;rft.date=2007-07-18&amp;rft.au=Jay+A.+Fernandez&amp;rft_id=http%3A%2F%2Farticles.latimes.com%2F2007%2Fjul%2F18%2Fentertainment%2Fet-scriptland18&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScreenwriting">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-20">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-20">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <a class="external text" href="https://www.law.cornell.edu/uscode/text/17/411-" rel="nofollow">
+           17 USC 411 (United States Code, Title 17, Section 411)
+          </a>
+         </span>
+        </li>
+        <li id="cite_note-21">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-21">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <a class="external text" href="http://www.copyright.gov/circs/circ01.pdf" rel="nofollow">
+           U.S. Copyright Office Circular 1
+          </a>
+         </span>
+        </li>
+        <li id="cite_note-22">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-22">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <a class="external text" href="https://www.law.cornell.edu/uscode/text/17/412-" rel="nofollow">
+           17 USC 412
+          </a>
+         </span>
+        </li>
+        <li id="cite_note-Biederman-23">
+         <span class="mw-cite-backlink">
+          ^
+          <a href="#cite_ref-Biederman_23-0">
+           <sup>
+            <i>
+             <b>
+              a
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-Biederman_23-1">
+           <sup>
+            <i>
+             <b>
+              b
+             </b>
+            </i>
+           </sup>
+          </a>
+         </span>
+         <span class="reference-text">
+          <cite class="citation book">
+           Donald E. Biederman; Edward P. Pierson; Martin E. Silfen; Janna Glasser; Charles J. Biederman; Kenneth J. Abdo; Scott D. Sanders (November 2006).
+           <i>
+            Law and Business of the Entertainment Industries
+           </i>
+           (5th ed.). Greenwood Publishing Group. pp. 313–327.
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/9780275992057" title="Special:BookSources/9780275992057">
+            9780275992057
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Law+and+Business+of+the+Entertainment+Industries&amp;rft.pages=313-327&amp;rft.edition=5th&amp;rft.pub=Greenwood+Publishing+Group&amp;rft.date=2006-11&amp;rft.isbn=9780275992057&amp;rft.au=Donald+E.+Biederman&amp;rft.au=Edward+P.+Pierson&amp;rft.au=Martin+E.+Silfen&amp;rft.au=Janna+Glasser&amp;rft.au=Charles+J.+Biederman&amp;rft.au=Kenneth+J.+Abdo&amp;rft.au=Scott+D.+Sanders&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScreenwriting">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-Rosman-24">
+         <span class="mw-cite-backlink">
+          ^
+          <a href="#cite_ref-Rosman_24-0">
+           <sup>
+            <i>
+             <b>
+              a
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-Rosman_24-1">
+           <sup>
+            <i>
+             <b>
+              b
+             </b>
+            </i>
+           </sup>
+          </a>
+         </span>
+         <span class="reference-text">
+          <cite class="citation news">
+           Rosman, Kathleen (22 January 2010).
+           <a class="external text" href="https://www.wsj.com/articles/SB10001424052748703414504575001271351446274" rel="nofollow">
+            "The Death of the Slush Pile"
+           </a>
+           .
+           <i>
+            Wall Street Journal
+           </i>
+           . Dow Jones &amp; Company
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             27 January
+            </span>
+            2015
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Wall+Street+Journal&amp;rft.atitle=The+Death+of+the+Slush+Pile&amp;rft.date=2010-01-22&amp;rft.aulast=Rosman&amp;rft.aufirst=Kathleen&amp;rft_id=https%3A%2F%2Fwww.wsj.com%2Farticles%2FSB10001424052748703414504575001271351446274&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScreenwriting">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-25">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-25">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation news">
+           Hymon, Steve; Andrew Blankstein (27 February 2008).
+           <a class="external text" href="http://www.latimes.com/local/la-me-bikelane27feb27-story.html" rel="nofollow">
+            "Studio poses obstacle to riverfront bike path"
+           </a>
+           .
+           <i>
+            Los Angeles Times
+           </i>
+           . Tribune Company
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             27 January
+            </span>
+            2015
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Los+Angeles+Times&amp;rft.atitle=Studio+poses+obstacle+to+riverfront+bike+path&amp;rft.date=2008-02-27&amp;rft.aulast=Hymon&amp;rft.aufirst=Steve&amp;rft.au=Andrew+Blankstein&amp;rft_id=http%3A%2F%2Fwww.latimes.com%2Flocal%2Fla-me-bikelane27feb27-story.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScreenwriting">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+       </ol>
+      </div>
+      <dl>
+       <dt>
+        General references
+       </dt>
+      </dl>
+      <div class="refbegin" style="">
+       <ul>
+        <li>
+         <cite class="citation book">
+          Judith H. Haag, Hillis R. Cole (1980).
+          <i>
+           The Complete Guide to Standard Script Formats: The Screenplay
+          </i>
+          . CMC Publishing.
+          <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+           ISBN
+          </a>
+          <a href="/wiki/Special:BookSources/0-929583-00-0" title="Special:BookSources/0-929583-00-0">
+           0-929583-00-0
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Complete+Guide+to+Standard+Script+Formats%3A+The+Screenplay&amp;rft.pub=CMC+Publishing&amp;rft.date=1980&amp;rft.isbn=0-929583-00-0&amp;rft.au=Judith+H.+Haag%2C+Hillis+R.+Cole&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScreenwriting">
+          <span style="display:none;">
+          </span>
+         </span>
+         - Paperback
+        </li>
+        <li>
+         <cite class="citation book">
+          David Trottier (1998).
+          <i>
+           The Screenwriter's Bible: A Complete Guide to Writing, Formatting, and Selling Your Script
+          </i>
+          . Silman-James Press.
+          <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+           ISBN
+          </a>
+          <a href="/wiki/Special:BookSources/1-879505-44-4" title="Special:BookSources/1-879505-44-4">
+           1-879505-44-4
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Screenwriter%27s+Bible%3A+A+Complete+Guide+to+Writing%2C+Formatting%2C+and+Selling+Your+Script&amp;rft.pub=Silman-James+Press&amp;rft.date=1998&amp;rft.isbn=1-879505-44-4&amp;rft.au=David+Trottier&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScreenwriting">
+          <span style="display:none;">
+          </span>
+         </span>
+         - Paperback
+        </li>
+        <li>
+         <cite class="citation book">
+          <a href="/wiki/Yves_Lavandier" title="Yves Lavandier">
+           Yves Lavandier
+          </a>
+          (2005).
+          <i>
+           <a href="/wiki/Writing_Drama" title="Writing Drama">
+            Writing Drama
+           </a>
+           , A Comprehensive Guide for Playwrights and Scritpwriters
+          </i>
+          . Le Clown &amp; l'Enfant.
+          <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+           ISBN
+          </a>
+          <a href="/wiki/Special:BookSources/2-910606-04-X" title="Special:BookSources/2-910606-04-X">
+           2-910606-04-X
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Writing+Drama%2C+A+Comprehensive+Guide+for+Playwrights+and+Scritpwriters&amp;rft.pub=Le+Clown+%26+l%27Enfant&amp;rft.date=2005&amp;rft.isbn=2-910606-04-X&amp;rft.au=Yves+Lavandier&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScreenwriting">
+          <span style="display:none;">
+          </span>
+         </span>
+         - Paperback
+        </li>
+       </ul>
+      </div>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Screenwriting&amp;action=edit&amp;section=26" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <table class="vertical-navbox nowraplinks infobox" style="float:right;clear:right;width:auto;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+       <tr>
+        <td style="padding-top:0.4em;line-height:1.2em">
+         <a class="mw-redirect" href="/wiki/Wikipedia:LIBRARY" title="Wikipedia:LIBRARY">
+          Library resources
+         </a>
+         about
+         <br/>
+         <b>
+          Screenwriting
+         </b>
+         <hr/>
+        </td>
+       </tr>
+       <tr>
+        <td class="plainlist" style="padding:0 0.1em 0.4em;text-align:left;">
+         <ul>
+          <li>
+           <a class="external text" href="//tools.wmflabs.org/ftl/cgi-bin/ftl?st=wp&amp;su=screenwriting">
+            Resources in your library
+           </a>
+          </li>
+          <li>
+           <a class="external text" href="//tools.wmflabs.org/ftl/cgi-bin/ftl?st=wp&amp;su=screenwriting&amp;library=0CHOOSE0">
+            Resources in other libraries
+           </a>
+          </li>
+         </ul>
+        </td>
+       </tr>
+      </table>
+      <table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+       <tr>
+        <td class="mbox-image">
+         <img alt="" class="noviewer" data-file-height="355" data-file-width="300" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/51px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/68px-Wikiquote-logo.svg.png 2x" width="34"/>
+        </td>
+        <td class="mbox-text plainlist">
+         Wikiquote has quotations related to:
+         <i>
+          <b>
+           <a class="extiw" href="https://en.wikiquote.org/wiki/Special:Search/Screenwriting" title="q:Special:Search/Screenwriting">
+            Screenwriting
+           </a>
+          </b>
+         </i>
+        </td>
+       </tr>
+      </table>
+      <table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+       <tr>
+        <td class="mbox-image">
+         <img alt="" class="noviewer" data-file-height="800" data-file-width="1000" height="32" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/40px-Wikiversity-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/60px-Wikiversity-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/80px-Wikiversity-logo.svg.png 2x" width="40"/>
+        </td>
+        <td class="mbox-text plainlist">
+         Wikiversity has learning resources about
+         <i>
+          <b>
+           <a class="extiw" href="https://en.wikiversity.org/wiki/Special:Search/Screenwriting" title="v:Special:Search/Screenwriting">
+            Screenwriting
+           </a>
+          </b>
+         </i>
+        </td>
+       </tr>
+      </table>
+      <ul>
+       <li>
+        <a class="external text" href="https://curlie.org/Arts/Writers_Resources/Screenwriting/" rel="nofollow">
+         Screenwriting
+        </a>
+        at Curlie (based on
+        <a href="/wiki/DMOZ" title="DMOZ">
+         DMOZ
+        </a>
+        )
+       </li>
+       <li>
+        <a class="external text" href="http://www.bafta.org/access-all-areas/screenwriting/" rel="nofollow">
+         Screenwriters Lectures:
+        </a>
+        Screenwriters on Screenwriting Series at
+        <a class="external text" href="http://www.bafta.org/" rel="nofollow">
+         BAFTA
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://www.wga.org/" rel="nofollow">
+         The Writers Guild of America
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://www.americanscreenwriters.com/" rel="nofollow">
+         American Screenwriters Association
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://filmdaily.co/craft/" rel="nofollow">
+         Film Daily
+        </a>
+       </li>
+      </ul>
+      <div aria-labelledby="Filmmaking" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="2" scope="col" style="text-align: center;">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:Filmmaking" title="Template:Filmmaking">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a href="/wiki/Template_talk:Filmmaking" title="Template talk:Filmmaking">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Filmmaking&amp;action=edit">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="Filmmaking" style="font-size:114%;margin:0 4em">
+           <a href="/wiki/Filmmaking" title="Filmmaking">
+            Filmmaking
+           </a>
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Filmmaking#Development" title="Filmmaking">
+           Development
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Film_treatment" title="Film treatment">
+              Film treatment
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Film_producer" title="Film producer">
+              Producer
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Scriptment" title="Scriptment">
+                scriptment
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Step_outline" title="Step outline">
+              Step outline
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Screenplay" title="Screenplay">
+              Screenplay
+             </a>
+             <ul>
+              <li>
+               <a class="mw-selflink selflink">
+                process
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Spec_script" title="Spec script">
+                spec script
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Film_adaptation" title="Film adaptation">
+                film adaptation
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Hook_(filmmaking)" title="Hook (filmmaking)">
+                Hook
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Option_(filmmaking)" title="Option (filmmaking)">
+                Option
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Film_budgeting" title="Film budgeting">
+              Film budgeting
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Film_finance" title="Film finance">
+              Film finance
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Pitch_(filmmaking)" title="Pitch (filmmaking)">
+                pitch
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Green-light" title="Green-light">
+              Green-light
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Pre-production" title="Pre-production">
+           Pre-production
+          </a>
+         </th>
+         <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Script_breakdown" title="Script breakdown">
+              Script breakdown
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Breaking_down_the_script" title="Breaking down the script">
+                process
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Shooting_script" title="Shooting script">
+              Shooting script
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Storyboard" title="Storyboard">
+              Storyboard
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Casting_(performing_arts)" title="Casting (performing arts)">
+              Casting
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Scenography" title="Scenography">
+                Scenography
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Rehearsal" title="Rehearsal">
+                Rehearsal
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Production_board" title="Production board">
+              Production board
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Day_Out_of_Days" title="Day Out of Days">
+              Day Out of Days
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Production_schedule" title="Production schedule">
+              Production schedule
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Shooting_schedule" title="Shooting schedule">
+              Shooting schedule
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/One_liner_schedule" title="One liner schedule">
+                one-liner
+               </a>
+              </li>
+             </ul>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Filmmaking" title="Filmmaking">
+           Production
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Film_crew" title="Film crew">
+              Film crew
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Cinematic_techniques" title="Cinematic techniques">
+              Cinematic techniques
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Principal_photography" title="Principal photography">
+              Principal photography
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Cinematography" title="Cinematography">
+                Cinematography
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Videography" title="Videography">
+                Videography
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Daily_call_sheet" title="Daily call sheet">
+              Daily call sheet
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Dailies" title="Dailies">
+              Dailies (rushes)
+             </a>
+            </li>
+           </ul>
+          </div>
+          <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%">
+             Daily reports
+            </th>
+            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Film_inventory_report" title="Film inventory report">
+                 Film inventory
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Production_report" title="Production report">
+                 Production
+                </a>
+               </li>
+               <li>
+                <a class="mw-redirect" href="/wiki/Daily_production_report" title="Daily production report">
+                 Daily Production
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Daily_progress_report" title="Daily progress report">
+                 Progress
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Sound_report" title="Sound report">
+                 Sound
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Cost_report" title="Cost report">
+                 Cost
+                </a>
+               </li>
+               <li>
+                <a class="mw-redirect" href="/wiki/Daily_editor_log" title="Daily editor log">
+                 Editor log
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Post-production" title="Post-production">
+           Post-production
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Film_editing" title="Film editing">
+              Film editing
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Re-recording_(filmmaking)" title="Re-recording (filmmaking)">
+              Re-recording
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Sync_sound" title="Sync sound">
+              Sync sound
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Soundtrack" title="Soundtrack">
+              Soundtrack
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Film_score" title="Film score">
+              Music
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Special_effect" title="Special effect">
+              Special effects
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Sound_effect" title="Sound effect">
+                sound
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Visual_effects" title="Visual effects">
+                visual
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Negative_cost" title="Negative cost">
+              Negative cost
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Film_distribution" title="Film distribution">
+           Distribution
+          </a>
+         </th>
+         <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Film_distributor" title="Film distributor">
+              Film distributor
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/List_of_film_distributors_by_country" title="List of film distributors by country">
+                list
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Art_release" title="Art release">
+              Film release
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Wide_release" title="Wide release">
+                wide
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Limited_release" title="Limited release">
+                limited
+               </a>
+              </li>
+              <li>
+               <a class="mw-redirect" href="/wiki/Delayed_release_(film)" title="Delayed release (film)">
+                delayed
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Roadshow_theatrical_release" title="Roadshow theatrical release">
+              Roadshow
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Streaming_media" title="Streaming media">
+              Streaming media
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          Related
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Box_office" title="Box office">
+              Box office
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Guerrilla_filmmaking" title="Guerrilla filmmaking">
+              Guerrilla filmmaking
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Development_hell" title="Development hell">
+              Development hell
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Film" title="Film">
+              Film
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Filmography" title="Filmography">
+              Filmography
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Film_industry" title="Film industry">
+              Film industry
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Film_rights" title="Film rights">
+              Film rights
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Turnaround_(filmmaking)" title="Turnaround (filmmaking)">
+              Turnaround
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <div aria-labelledby="Narrative" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="2" scope="col">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:Narrative" title="Template:Narrative">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a href="/wiki/Template_talk:Narrative" title="Template talk:Narrative">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Narrative&amp;action=edit">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="Narrative" style="font-size:114%;margin:0 4em">
+           <a href="/wiki/Narrative" title="Narrative">
+            Narrative
+           </a>
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <a href="/wiki/Character_(arts)" title="Character (arts)">
+           Character
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Antagonist" title="Antagonist">
+              Antagonist
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Antihero" title="Antihero">
+              Antihero
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Archenemy" title="Archenemy">
+              Archenemy
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Character_arc" title="Character arc">
+              Character arc
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Characterization" title="Characterization">
+              Characterization
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Deuteragonist" title="Deuteragonist">
+              Deuteragonist
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/False_protagonist" title="False protagonist">
+              False protagonist
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Focal_character" title="Focal character">
+              Focal character
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Foil_(literature)" title="Foil (literature)">
+              Foil
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Protagonist" title="Protagonist">
+              Protagonist
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Stock_character" title="Stock character">
+              Stock character
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Supporting_character" title="Supporting character">
+              Supporting character
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tritagonist" title="Tritagonist">
+              Tritagonist
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Narration" title="Narration">
+              Narrator
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tragic_hero" title="Tragic hero">
+              Tragic hero
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <a href="/wiki/Plot_(narrative)" title="Plot (narrative)">
+           Plot
+          </a>
+         </th>
+         <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Action_(narrative)" title="Action (narrative)">
+              Action
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Backstory" title="Backstory">
+              Backstory
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Clich%C3%A9" title="Cliché">
+              Cliché
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Climax_(narrative)" title="Climax (narrative)">
+              Climax
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Cliffhanger" title="Cliffhanger">
+              Cliffhanger
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Conflict_(narrative)" title="Conflict (narrative)">
+              Conflict
+             </a>
+            </li>
+            <li>
+             <i>
+              <a href="/wiki/Deus_ex_machina" title="Deus ex machina">
+               Deus ex machina
+              </a>
+             </i>
+            </li>
+            <li>
+             <a href="/wiki/Dialogue_in_writing" title="Dialogue in writing">
+              Dialogue
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Dramatic_structure" title="Dramatic structure">
+              Dramatic structure
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Exposition_(narrative)" title="Exposition (narrative)">
+              Exposition
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Eucatastrophe" title="Eucatastrophe">
+              Eucatastrophe
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Foreshadowing" title="Foreshadowing">
+              Foreshadowing
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Flashback_(narrative)" title="Flashback (narrative)">
+              Flashback
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Flashforward" title="Flashforward">
+              Flashforward
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Frame_story" title="Frame story">
+              Frame story
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/In_medias_res" title="In medias res">
+              In medias res
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Pace_(narrative)" title="Pace (narrative)">
+              Pace
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Plot_device" title="Plot device">
+              Plot device
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Plot_twist" title="Plot twist">
+              Plot twist
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Poetic_justice" title="Poetic justice">
+              Poetic justice
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Reveal_(narrative)" title="Reveal (narrative)">
+              Reveal
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Self-fulfilling_prophecy" title="Self-fulfilling prophecy">
+              Self-fulfilling prophecy
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Subplot" title="Subplot">
+              Subplot
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Trope_(literature)" title="Trope (literature)">
+              Trope
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Kish%C5%8Dtenketsu" title="Kishōtenketsu">
+              Kishōtenketsu
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <a href="/wiki/Setting_(narrative)" title="Setting (narrative)">
+           Setting
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Backstory" title="Backstory">
+              Backstory
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Utopia" title="Utopia">
+              Utopia
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Dystopia" title="Dystopia">
+              Dystopia
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Alternate_history" title="Alternate history">
+              Alternate history
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Fictional_location" title="Fictional location">
+              Fictional location
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Fictional_city" title="Fictional city">
+                city
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Fictional_country" title="Fictional country">
+                country
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Fictional_universe" title="Fictional universe">
+                universe
+               </a>
+              </li>
+             </ul>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <a href="/wiki/Theme_(narrative)" title="Theme (narrative)">
+           Theme
+          </a>
+         </th>
+         <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Leitmotif" title="Leitmotif">
+              Leitmotif
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Metaphor" title="Metaphor">
+              Metaphor
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Moral" title="Moral">
+              Moral
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Motif_(narrative)" title="Motif (narrative)">
+              Motif
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Irony" title="Irony">
+              Irony
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <a href="/wiki/Writing_style" title="Writing style">
+           Style
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Allegory" title="Allegory">
+              Allegory
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Bathos" title="Bathos">
+              Bathos
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Diction" title="Diction">
+              Diction
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Figure_of_speech" title="Figure of speech">
+              Figure of speech
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Imagery" title="Imagery">
+              Imagery
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/List_of_narrative_techniques" title="List of narrative techniques">
+              Narrative techniques
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Narration" title="Narration">
+              Narration
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Stylistic_device" title="Stylistic device">
+              Stylistic device
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Suspension_of_disbelief" title="Suspension of disbelief">
+              Suspension of disbelief
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Symbolism_(arts)" title="Symbolism (arts)">
+              Symbolism
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tone_(literature)" title="Tone (literature)">
+              Tone
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Mode_(literature)" title="Mode (literature)">
+              Mode
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Mood_(literature)" title="Mood (literature)">
+              Mood
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <a href="/wiki/Narrative_structure" title="Narrative structure">
+           Structure
+          </a>
+         </th>
+         <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Narrative_structure" title="Narrative structure">
+              Linear narrative
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Nonlinear_narrative" title="Nonlinear narrative">
+              Nonlinear narrative
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/List_of_nonlinear_narrative_films" title="List of nonlinear narrative films">
+                films
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/List_of_nonlinear_narrative_television_series" title="List of nonlinear narrative television series">
+                television series
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Types_of_fiction_with_multiple_endings" title="Types of fiction with multiple endings">
+              Types of fiction with multiple endings
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <a href="/wiki/List_of_narrative_forms" title="List of narrative forms">
+           Form
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Comics" title="Comics">
+              Comics
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Epic_(genre)" title="Epic (genre)">
+              Epic
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Fable" title="Fable">
+              Fable
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Fabliau" title="Fabliau">
+              Fabliau
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Fairy_tale" title="Fairy tale">
+              Fairy tale
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Folklore" title="Folklore">
+              Folktale
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Flash_fiction" title="Flash fiction">
+              Flash fiction
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Legend" title="Legend">
+              Legend
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Novella" title="Novella">
+              Novella
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Novel" title="Novel">
+              Novel
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Parable" title="Parable">
+              Parable
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Play_(theatre)" title="Play (theatre)">
+              Play
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Poetry" title="Poetry">
+              Poem
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Screenplay" title="Screenplay">
+              Screenplay
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Short_story" title="Short story">
+              Short story
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <a href="/wiki/Literary_genre" title="Literary genre">
+           Genre
+          </a>
+         </th>
+         <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Action_fiction" title="Action fiction">
+              Action fiction
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Adventure_fiction" title="Adventure fiction">
+              Adventure
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Comic_novel" title="Comic novel">
+              Comic
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Crime_fiction" title="Crime fiction">
+              Crime
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Docufiction" title="Docufiction">
+              Docufiction
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Epistolary_novel" title="Epistolary novel">
+              Epistolary
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Erotic_literature" title="Erotic literature">
+              Erotic
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Non-fiction_novel" title="Non-fiction novel">
+              Fiction
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Fantasy" title="Fantasy">
+              Fantasy
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Gothic_fiction" title="Gothic fiction">
+              Gothic
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Historical_fiction" title="Historical fiction">
+              Historical
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Horror_fiction" title="Horror fiction">
+              Horror
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Magic_realism" title="Magic realism">
+              Magic realism
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Mystery_fiction" title="Mystery fiction">
+              Mystery
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Nautical_fiction" title="Nautical fiction">
+              Nautical
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Paranoid_fiction" title="Paranoid fiction">
+              Paranoid
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Philosophical_fiction" title="Philosophical fiction">
+              Philosophical
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Picaresque_novel" title="Picaresque novel">
+              Picaresque
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Political_fiction" title="Political fiction">
+              Political
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Psychological_novel" title="Psychological novel">
+              Psychological
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Romance_novel" title="Romance novel">
+              Romance
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Saga" title="Saga">
+              Saga
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Satire" title="Satire">
+              Satire
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Science_fiction" title="Science fiction">
+              Science
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Speculative_fiction" title="Speculative fiction">
+              Speculative
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Superhero_fiction" title="Superhero fiction">
+              Superhero
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Thriller_(genre)" title="Thriller (genre)">
+              Thriller
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Urban_fiction" title="Urban fiction">
+              Urban
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Western_fiction" title="Western fiction">
+              Western
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/List_of_writing_genres" title="List of writing genres">
+              List of writing genres
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <a href="/wiki/Narration" title="Narration">
+           Narration
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/First-person_narrative" title="First-person narrative">
+              First-person
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Multiperspectivity" title="Multiperspectivity">
+              Multiple narrators
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Stream_of_consciousness_(narrative_mode)" title="Stream of consciousness (narrative mode)">
+              Stream of consciousness
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Stream_of_unconsciousness_(narrative_mode)" title="Stream of unconsciousness (narrative mode)">
+              Stream of unconsciousness
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Unreliable_narrator" title="Unreliable narrator">
+              Unreliable
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <a href="/wiki/Grammatical_tense" title="Grammatical tense">
+           Tense
+          </a>
+         </th>
+         <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Past_tense" title="Past tense">
+              Past
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Present_tense" title="Present tense">
+              Present
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Future_tense" title="Future tense">
+              Future
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Related
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Audience" title="Audience">
+              Audience
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Author" title="Author">
+              Author
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Creative_nonfiction" title="Creative nonfiction">
+              Creative nonfiction
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Fiction_writing" title="Fiction writing">
+              Fiction writing
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Literary_theory" title="Literary theory">
+              Literary theory
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Literary_science" title="Literary science">
+              Literary science
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Narratology" title="Narratology">
+              Narratology
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Hero%27s_journey" title="Hero's journey">
+              Monomyth
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Rhetoric" title="Rhetoric">
+              Rhetoric
+             </a>
+            </li>
+            <li>
+             <a class="mw-selflink selflink">
+              Screenwriting
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Storytelling" title="Storytelling">
+              Storytelling
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tellability" title="Tellability">
+              Tellability
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <td class="navbox-abovebelow" colspan="2">
+          <div>
+           <b>
+            <a href="/wiki/Portal:Literature" title="Portal:Literature">
+             Literature portal
+            </a>
+           </b>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1325
+Cached time: 20180314010522
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.324 seconds
+Real time usage: 0.422 seconds
+Preprocessor visited node count: 2032/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 80778/2097152 bytes
+Template argument size: 2551/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 16581/5000000 bytes
+Lua time usage: 0.136/10.000 seconds
+Lua memory usage: 4.7 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  317.271      1 -total
+ 33.53%  106.378      1 Template:Reflist
+ 21.90%   69.484      3 Template:Citation_needed
+ 20.38%   64.647      4 Template:Fix
+ 15.43%   48.946      5 Template:Cite_book
+ 12.11%   38.413      8 Template:Category_handler
+  6.68%   21.202      3 Template:Delink
+  6.41%   20.347      1 Template:Anchor
+  6.33%   20.088      5 Template:Cite_news
+  6.01%   19.069      1 Template:Literature
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:1137997-0!canonical and timestamp 20180314010522 and revision id 826135774
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Screenwriting&amp;oldid=826135774">
+      https://en.wikipedia.org/w/index.php?title=Screenwriting&amp;oldid=826135774
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Drama" title="Category:Drama">
+         Drama
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Entertainment" title="Category:Entertainment">
+         Entertainment
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Film" title="Category:Film">
+         Film
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Film_and_video_terminology" title="Category:Film and video terminology">
+         Film and video terminology
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Filmmaking" title="Category:Filmmaking">
+         Filmmaking
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Film_production" title="Category:Film production">
+         Film production
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Hollywood" title="Category:Hollywood">
+         Hollywood
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:How-to" title="Category:How-to">
+         How-to
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Screenwriting" title="Category:Screenwriting">
+         Screenwriting
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Performing_arts" title="Category:Performing arts">
+         Performing arts
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Plot_(narrative)" title="Category:Plot (narrative)">
+         Plot (narrative)
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Television_terminology" title="Category:Television terminology">
+         Television terminology
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Writing" title="Category:Writing">
+         Writing
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">
+         All articles with dead external links
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_dead_external_links_from_December_2017" title="Category:Articles with dead external links from December 2017">
+         Articles with dead external links from December 2017
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_permanently_dead_external_links" title="Category:Articles with permanently dead external links">
+         Articles with permanently dead external links
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">
+         Webarchive template wayback links
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">
+         All articles with unsourced statements
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_unsourced_statements_from_July_2017" title="Category:Articles with unsourced statements from July 2017">
+         Articles with unsourced statements from July 2017
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_unsourced_statements_from_July_2014" title="Category:Articles with unsourced statements from July 2014">
+         Articles with unsourced statements from July 2014
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_Curlie_links" title="Category:Articles with Curlie links">
+         Articles with Curlie links
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Screenwriting" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Screenwriting" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Screenwriting" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Screenwriting" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Screenwriting">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Screenwriting&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Screenwriting&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Screenwriting" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Screenwriting" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Screenwriting&amp;oldid=826135774" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Screenwriting&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q3429919" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Screenwriting&amp;id=826135774" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Screenwriting">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Screenwriting&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Screenwriting&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Category:Screenwriters" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikiquote">
+        <a href="https://en.wikiquote.org/wiki/Screenwriting" hreflang="en">
+         Wikiquote
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%83%D8%AA%D8%A7%D8%A8%D8%A9_%D8%A7%D9%84%D8%B3%D9%8A%D9%86%D8%A7%D8%B1%D9%8A%D9%88" hreflang="ar" lang="ar" title="كتابة السيناريو – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Screenwriting" hreflang="ca" lang="ca" title="Screenwriting – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Escritura_de_guiones" hreflang="es" lang="es" title="Escritura de guiones – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Penulisan_skenario" hreflang="id" lang="id" title="Penulisan skenario – Indonesian">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-la">
+        <a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/Scriptio_cinematographica" hreflang="la" lang="la" title="Scriptio cinematographica – Latin">
+         Latina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mr">
+        <a class="interlanguage-link-target" href="https://mr.wikipedia.org/wiki/%E0%A4%AA%E0%A4%9F%E0%A4%95%E0%A4%A5%E0%A4%BE" hreflang="mr" lang="mr" title="पटकथा – Marathi">
+         मराठी
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-new">
+        <a class="interlanguage-link-target" href="https://new.wikipedia.org/wiki/%E0%A4%AC%E0%A4%BE%E0%A4%96%E0%A4%82%E0%A4%B8%E0%A4%AB%E0%A5%82" hreflang="new" lang="new" title="बाखंसफू – Newari">
+         नेपाल भाषा
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ckb">
+        <a class="interlanguage-link-target" href="https://ckb.wikipedia.org/wiki/%D9%86%D9%88%D9%88%D8%B3%DB%8C%D9%86%DB%8C_%D8%B3%DB%8C%D9%86%D8%A7%D8%B1%DB%8C%DB%86" hreflang="ckb" lang="ckb" title="نووسینی سیناریۆ – Central Kurdish">
+         کوردی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ur">
+        <a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%D9%85%D9%86%D8%B8%D8%B1_%D9%86%DA%AF%D8%A7%D8%B1%DB%8C" hreflang="ur" lang="ur" title="منظر نگاری – Urdu">
+         اردو
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q3429919#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 17 February 2018, at 11:44.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Screenwriting&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.324","walltime":"0.422","ppvisitednodes":{"value":2032,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":80778,"limit":2097152},"templateargumentsize":{"value":2551,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":16581,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  317.271      1 -total"," 33.53%  106.378      1 Template:Reflist"," 21.90%   69.484      3 Template:Citation_needed"," 20.38%   64.647      4 Template:Fix"," 15.43%   48.946      5 Template:Cite_book"," 12.11%   38.413      8 Template:Category_handler","  6.68%   21.202      3 Template:Delink","  6.41%   20.347      1 Template:Anchor","  6.33%   20.088      5 Template:Cite_news","  6.01%   19.069      1 Template:Literature"]},"scribunto":{"limitreport-timeusage":{"value":"0.136","limit":"10.000"},"limitreport-memusage":{"value":4924540,"limit":52428800}},"cachereport":{"origin":"mw1325","timestamp":"20180314010522","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":86,"wgHostname":"mw1319"});});
+  </script>
+ </body>
+</html>

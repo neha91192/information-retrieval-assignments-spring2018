@@ -1,0 +1,974 @@
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Wrinkle ridge - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Wrinkle_ridge","wgTitle":"Wrinkle ridge","wgCurRevisionId":822024791,"wgRevisionId":822024791,"wgArticleId":957903,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Geological features on the Moon"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Wrinkle_ridge","wgRelevantArticleId":957903,"wgRequestId":"WrMg0QpAIC0AAFTgqwcAAADE","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q667575","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.page.gallery.styles":"ready","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.25" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Dorsa_and_Suess_F_crater_AS12-54-8112.jpg/1200px-Dorsa_and_Suess_F_crater_AS12-54-8112.jpg" property="og:image"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Wrinkle_ridge" rel="alternate"/>
+  <link href="/w/index.php?title=Wrinkle_ridge&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Wrinkle_ridge&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Wrinkle_ridge" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Wrinkle_ridge rootpage-Wrinkle_ridge skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Wrinkle ridge
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Dorsa_and_Suess_F_crater_AS12-54-8112.jpg">
+         <img alt="" class="thumbimage" data-file-height="3900" data-file-width="3900" height="220" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Dorsa_and_Suess_F_crater_AS12-54-8112.jpg/220px-Dorsa_and_Suess_F_crater_AS12-54-8112.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Dorsa_and_Suess_F_crater_AS12-54-8112.jpg/330px-Dorsa_and_Suess_F_crater_AS12-54-8112.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Dorsa_and_Suess_F_crater_AS12-54-8112.jpg/440px-Dorsa_and_Suess_F_crater_AS12-54-8112.jpg 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Dorsa_and_Suess_F_crater_AS12-54-8112.jpg" title="Enlarge">
+          </a>
+         </div>
+         Unnamed wrinkle ridges north of the lunar crater
+         <a href="/wiki/Flamsteed_(crater)" title="Flamsteed (crater)">
+          Flamsteed
+         </a>
+         ,
+         <a href="/wiki/Oceanus_Procellarum" title="Oceanus Procellarum">
+          Oceanus Procellarum
+         </a>
+         , from
+         <a href="/wiki/Apollo_12" title="Apollo 12">
+          Apollo 12
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:AS15-90-12272.jpg">
+         <img alt="" class="thumbimage" data-file-height="913" data-file-width="904" height="222" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/AS15-90-12272.jpg/220px-AS15-90-12272.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/AS15-90-12272.jpg/330px-AS15-90-12272.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/AS15-90-12272.jpg/440px-AS15-90-12272.jpg 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:AS15-90-12272.jpg" title="Enlarge">
+          </a>
+         </div>
+         Lunar crater
+         <a href="/wiki/Krieger_(crater)" title="Krieger (crater)">
+          Krieger
+         </a>
+         and vicinity, showing wrinkle ridges in the surrounding mare and sinuous rilles along the left edge, from
+         <a href="/wiki/Apollo_15" title="Apollo 15">
+          Apollo 15
+         </a>
+        </div>
+       </div>
+      </div>
+      <p>
+       A
+       <b>
+        wrinkle ridge
+       </b>
+       is a type of feature commonly found on
+       <a class="mw-redirect" href="/wiki/Lunar_maria" title="Lunar maria">
+        lunar maria
+       </a>
+       . These features are low, sinuous
+       <a href="/wiki/Ridge" title="Ridge">
+        ridges
+       </a>
+       formed on the mare surface that can extend for up to several hundred kilometers. Wrinkle ridges are
+       <a class="mw-redirect" href="/wiki/Tectonic" title="Tectonic">
+        tectonic
+       </a>
+       features created when the
+       <a href="/wiki/Basalt" title="Basalt">
+        basaltic
+       </a>
+       <a href="/wiki/Lava" title="Lava">
+        lava
+       </a>
+       cooled and contracted. They frequently outline ring structures buried within the mare, follow circular patterns outlining the mare, or intersect protruding peaks. They are sometimes called
+       <i>
+        veins
+       </i>
+       due to their resemblance to the
+       <a href="/wiki/Vein" title="Vein">
+        veins
+       </a>
+       that protrude from beneath the skin. These are found near craters.
+      </p>
+      <p>
+       Wrinkle ridges are named with the Latin designation dorsum (plural dorsa). The standard
+       <a href="/wiki/International_Astronomical_Union" title="International Astronomical Union">
+        IAU
+       </a>
+       <a href="/wiki/Planetary_nomenclature" title="Planetary nomenclature">
+        nomenclature
+       </a>
+       uses the names of people to identify wrinkle ridges on the Moon. Thus the Dorsa Burnet are named for
+       <a href="/wiki/Thomas_Burnet" title="Thomas Burnet">
+        Thomas Burnet
+       </a>
+       , and the Dorsum Owen is named after
+       <a href="/wiki/George_Owen_of_Henllys" title="George Owen of Henllys">
+        George Owen of Henllys
+       </a>
+       .
+      </p>
+      <div class="thumb tleft">
+       <div class="thumbinner" style="width:172px;">
+        <a class="image" href="/wiki/File:Wikiflaugergues.jpg">
+         <img alt="" class="thumbimage" data-file-height="837" data-file-width="588" height="242" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Wikiflaugergues.jpg/170px-Wikiflaugergues.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Wikiflaugergues.jpg/255px-Wikiflaugergues.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/Wikiflaugergues.jpg/340px-Wikiflaugergues.jpg 2x" width="170"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Wikiflaugergues.jpg" title="Enlarge">
+          </a>
+         </div>
+         Floor and eroded south wall of the crater
+         <a href="/wiki/Flaugergues_(crater)" title="Flaugergues (crater)">
+          Flaugergues
+         </a>
+         on Mars. Arrows point to wrinkle ridges.
+        </div>
+       </div>
+      </div>
+      <ul class="gallery mw-gallery-traditional center">
+       <li class="gallerybox" style="width: 225px">
+        <div style="width: 225px">
+         <div class="thumb" style="width: 220px;">
+          <div style="margin:15px auto;">
+           <a class="image" href="/wiki/File:Viking_418S39_Hesperia.jpg">
+            <img alt="" data-file-height="1151" data-file-width="1056" height="180" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Viking_418S39_Hesperia.jpg/165px-Viking_418S39_Hesperia.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Viking_418S39_Hesperia.jpg/248px-Viking_418S39_Hesperia.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Viking_418S39_Hesperia.jpg/330px-Viking_418S39_Hesperia.jpg 2x" width="165"/>
+           </a>
+          </div>
+         </div>
+         <div class="gallerytext">
+          <p>
+           Wrinkle ridges in
+           <a href="/wiki/Hesperia_Planum" title="Hesperia Planum">
+            Hesperia Planum
+           </a>
+           , Mars, as seen by Viking The wrinkle ridges go in different directions so compressional forces may have changed direction over time.
+          </p>
+         </div>
+        </div>
+       </li>
+      </ul>
+      <ul class="gallery mw-gallery-traditional center">
+       <li class="gallerybox" style="width: 225px">
+        <div style="width: 225px">
+         <div class="thumb" style="width: 220px;">
+          <div style="margin:15px auto;">
+           <a class="image" href="/wiki/File:ESP_052935_1575wrinkletrough.jpg">
+            <img alt="" data-file-height="3911" data-file-width="2048" height="180" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/ESP_052935_1575wrinkletrough.jpg/94px-ESP_052935_1575wrinkletrough.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/ESP_052935_1575wrinkletrough.jpg/141px-ESP_052935_1575wrinkletrough.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/69/ESP_052935_1575wrinkletrough.jpg/188px-ESP_052935_1575wrinkletrough.jpg 2x" width="94"/>
+           </a>
+          </div>
+         </div>
+         <div class="gallerytext">
+          <p>
+           Trough cutting a wrinkle ridge, as seen by HiRISE under HiWish program Location is the
+           <a href="/wiki/Coprates_quadrangle" title="Coprates quadrangle">
+            Coprates quadrangle
+           </a>
+           , Mars.
+          </p>
+         </div>
+        </div>
+       </li>
+      </ul>
+      <p>
+       Wrinkle ridges can also be found on
+       <a href="/wiki/Mars" title="Mars">
+        Mars
+       </a>
+       , for example in
+       <a href="/wiki/Chryse_Planitia" title="Chryse Planitia">
+        Chryse Planitia
+       </a>
+       , as well as on several of the
+       <a class="mw-redirect" href="/wiki/Asteroids" title="Asteroids">
+        asteroids
+       </a>
+       that have been visited by spacecraft, as well as
+       <a href="/wiki/Mercury_(planet)" title="Mercury (planet)">
+        Mercury
+       </a>
+       , and a couple of moons of
+       <a href="/wiki/Jupiter" title="Jupiter">
+        Jupiter
+       </a>
+       and
+       <a href="/wiki/Saturn" title="Saturn">
+        Saturn
+       </a>
+       . Although several hypotheses have been advanced as causes of Martian wrinkle ridges, today they are generally considered to be of tectonic origin. They involve folding and faulting.
+       <sup class="reference" id="cite_ref-1">
+        <a href="#cite_note-1">
+         [1]
+        </a>
+       </sup>
+       They are evidence of compressional stresses in Mars’ crust. The stress created a crack (fault) where one side was pushed on top of the other side, also known as a thrust fault.
+       <sup class="reference" id="cite_ref-2">
+        <a href="#cite_note-2">
+         [2]
+        </a>
+       </sup>
+      </p>
+      <p>
+       <br/>
+      </p>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Wrinkle_ridge&amp;action=edit&amp;section=1" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a class="mw-redirect" href="/wiki/List_of_features_on_the_Moon" title="List of features on the Moon">
+         List of features on the Moon
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Planetary_nomenclature#The_Moon" title="Planetary nomenclature">
+         Planetary nomenclature
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Wrinkle_ridge&amp;action=edit&amp;section=2" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+       <tr>
+        <td class="mbox-image">
+         <img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/>
+        </td>
+        <td class="mbox-text plainlist">
+         Wikimedia Commons has media related to
+         <i>
+          <b>
+           <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Wrinkle_ridges" title="commons:Category:Wrinkle ridges">
+            Wrinkle ridges
+           </a>
+          </b>
+         </i>
+         .
+        </td>
+       </tr>
+      </table>
+      <div class="reflist" style="list-style-type: decimal;">
+       <div class="mw-references-wrap">
+        <ol class="references">
+         <li id="cite_note-1">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-1">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Kieffer, H, B. Jakosky, C. Snyder, M. Matthews (eds.). 1992. Mars. University of Arizona Press.
+          </span>
+         </li>
+         <li id="cite_note-2">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-2">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <a class="external free" href="http://www.uahirise.org/ESP_046817_1775" rel="nofollow">
+            http://www.uahirise.org/ESP_046817_1775
+           </a>
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <h2>
+       <span class="mw-headline" id="Notes">
+        Notes
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Wrinkle_ridge&amp;action=edit&amp;section=3" title="Edit section: Notes">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        Golombek, M. P., F. S. Anderson, and M. T. Zuber (2001), Martian wrinkle ridge topography: Evidence for subsurface faults from MOLA, J. Geophys. Res., 106, 23,811–23,821,
+        <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+         doi
+        </a>
+        :
+        <a class="external text" href="https://doi.org/10.1029%2F2000JE001308" rel="nofollow">
+         10.1029/2000JE001308
+        </a>
+        .
+       </li>
+       <li>
+        Montési, L. G. J., and M. T. Zuber (2003), Clues to the lithospheric structure of Mars from wrinkle ridge sets and localization instability, J. Geophys. Res., 108(E6), 5048,
+        <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+         doi
+        </a>
+        :
+        <a class="external text" href="https://doi.org/10.1029%2F2002JE001974" rel="nofollow">
+         10.1029/2002JE001974
+        </a>
+        .
+       </li>
+       <li>
+        Watters, T. R. (1988), Wrinkle Ridge Assemblages on the Terrestrial Planets, J. Geophys. Res., 93(B9), 10,236–10,254,
+        <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+         doi
+        </a>
+        :
+        <a class="external text" href="https://doi.org/10.1029%2FJB093iB09p10236" rel="nofollow">
+         10.1029/JB093iB09p10236
+        </a>
+        .
+       </li>
+       <li>
+        Watters, et al., Evidence of Recent Thrust Faulting on the Moon Revealed by the Lunar Reconnaissance Orbiter Camera. Science 20 August 2010: 936-940.
+        <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+         doi
+        </a>
+        :
+        <a class="external text" href="https://doi.org/10.1126%2Fscience.1189590" rel="nofollow">
+         10.1126/science.1189590
+        </a>
+       </li>
+      </ul>
+      <!-- 
+NewPP limit report
+Parsed by mw1331
+Cached time: 20180228123958
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.060 seconds
+Real time usage: 0.091 seconds
+Preprocessor visited node count: 350/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 3980/2097152 bytes
+Template argument size: 1099/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 0/500
+Lua time usage: 0.006/10.000 seconds
+Lua memory usage: 674 KB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   61.075      1 -total
+ 72.55%   44.312      1 Template:Commonscat
+ 35.85%   21.895      1 Template:Commons
+ 33.67%   20.566      1 Template:Sister_project
+ 29.85%   18.231      1 Template:Side_box
+ 14.27%    8.714      1 Template:Reflist
+ 12.63%    7.716      4 Template:Doi
+  6.70%    4.091      8 Template:Hide_in_print
+  3.37%    2.060      1 Template:Main_other
+  2.75%    1.677      4 Template:Str_left
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:957903-0!canonical and timestamp 20180228123958 and revision id 822024791
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Wrinkle_ridge&amp;oldid=822024791">
+      https://en.wikipedia.org/w/index.php?title=Wrinkle_ridge&amp;oldid=822024791
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Geological_features_on_the_Moon" title="Category:Geological features on the Moon">
+         Geological features on the Moon
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Wrinkle+ridge" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Wrinkle+ridge" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Wrinkle_ridge" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Wrinkle_ridge" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Wrinkle_ridge">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Wrinkle_ridge&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Wrinkle_ridge&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Wrinkle_ridge" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Wrinkle_ridge" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Wrinkle_ridge&amp;oldid=822024791" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Wrinkle_ridge&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q667575" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Wrinkle_ridge&amp;id=822024791" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Wrinkle+ridge">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Wrinkle+ridge&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Wrinkle_ridge&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Category:Wrinkle_ridges" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Dorsum" hreflang="ca" lang="ca" title="Dorsum – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Dorsum" hreflang="da" lang="da" title="Dorsum – Danish">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Dorsum_(Astrogeologie)" hreflang="de" lang="de" title="Dorsum (Astrogeologie) – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Dorsum" hreflang="es" lang="es" title="Dorsum – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Dorsum" hreflang="fr" lang="fr" title="Dorsum – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EB%A7%81%ED%81%B4_%EB%A6%AC%EC%A7%80" hreflang="ko" lang="ko" title="링클 리지 – Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Dorsum" hreflang="it" lang="it" title="Dorsum – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lb">
+        <a class="interlanguage-link-target" href="https://lb.wikipedia.org/wiki/Dorsum_(Planetologie)" hreflang="lb" lang="lb" title="Dorsum (Planetologie) – Luxembourgish">
+         Lëtzebuergesch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Marerug" hreflang="nl" lang="nl" title="Marerug – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%B3%E3%82%AF%E3%83%AB%E3%83%AA%E3%83%83%E3%82%B8" hreflang="ja" lang="ja" title="リンクルリッジ – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Dorsum" hreflang="no" lang="no" title="Dorsum – Norwegian">
+         Norsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Dorsum" hreflang="pl" lang="pl" title="Dorsum – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Dorsum" hreflang="pt" lang="pt" title="Dorsum – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%93%D1%80%D1%8F%D0%B4%D0%B0_(%D0%BF%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%BD%D0%B0%D1%8F_%D0%BD%D0%BE%D0%BC%D0%B5%D0%BD%D0%BA%D0%BB%D0%B0%D1%82%D1%83%D1%80%D0%B0)" hreflang="ru" lang="ru" title="Гряда (планетная номенклатура) – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%93%D1%80%D1%8F%D0%B4%D0%B0_(%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B3%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D1%96%D1%8F)" hreflang="uk" lang="uk" title="Гряда (астрогеологія) – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E7%9A%B1%E5%B2%AD" hreflang="zh" lang="zh" title="皱岭 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q667575#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 24 January 2018, at 00:05.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Wrinkle_ridge&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.060","walltime":"0.091","ppvisitednodes":{"value":350,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":3980,"limit":2097152},"templateargumentsize":{"value":1099,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%   61.075      1 -total"," 72.55%   44.312      1 Template:Commonscat"," 35.85%   21.895      1 Template:Commons"," 33.67%   20.566      1 Template:Sister_project"," 29.85%   18.231      1 Template:Side_box"," 14.27%    8.714      1 Template:Reflist"," 12.63%    7.716      4 Template:Doi","  6.70%    4.091      8 Template:Hide_in_print","  3.37%    2.060      1 Template:Main_other","  2.75%    1.677      4 Template:Str_left"]},"scribunto":{"limitreport-timeusage":{"value":"0.006","limit":"10.000"},"limitreport-memusage":{"value":690419,"limit":52428800}},"cachereport":{"origin":"mw1331","timestamp":"20180228123958","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":91,"wgHostname":"mw1324"});});
+  </script>
+ </body>
+</html>

@@ -1,0 +1,3595 @@
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Maurice Allais - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Maurice_Allais","wgTitle":"Maurice Allais","wgCurRevisionId":823220634,"wgRevisionId":823220634,"wgArticleId":414266,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Articles with hCards","Wikipedia articles needing clarification from August 2017","Find a Grave template with ID same as Wikidata","Interlanguage link template link number","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","Wikipedia articles with BIBSYS identifiers","École Polytechnique alumni","Mines ParisTech alumni","Corps des mines","Members of the United States National Academy of Sciences","Members of the Académie des sciences morales et politiques","Foreign Members of the Russian Academy of Sciences","Graduate Institute of International and Development Studies faculty","French economists","Lycée Lakanal alumni","Historians of science","French physicists","Nobel laureates in Economics","Fellows of the Econometric Society","French Nobel laureates","Grand Croix of the Légion d'honneur","1911 births","2010 deaths"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Maurice_Allais","wgRelevantArticleId":414266,"wgRequestId":"WrHAugpAICIAAHteoncAAABW","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q105962","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.math.scripts","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.25" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/1/12/ALLAIS_PN_Maurice-24x30-2001b.jpg" property="og:image"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Maurice_Allais" rel="alternate"/>
+  <link href="/w/index.php?title=Maurice_Allais&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Maurice_Allais&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Maurice_Allais" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Maurice_Allais rootpage-Maurice_Allais skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Maurice Allais
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <table class="infobox biography vcard" style="width:22em">
+       <tr>
+        <th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">
+         <span class="fn">
+          Maurice Allais
+         </span>
+        </th>
+       </tr>
+       <tr>
+        <td colspan="2" style="text-align:center">
+         <a class="image" href="/wiki/File:ALLAIS_PN_Maurice-24x30-2001b.jpg">
+          <img alt="ALLAIS PN Maurice-24x30-2001b.jpg" data-file-height="344" data-file-width="274" height="282" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/12/ALLAIS_PN_Maurice-24x30-2001b.jpg/225px-ALLAIS_PN_Maurice-24x30-2001b.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/1/12/ALLAIS_PN_Maurice-24x30-2001b.jpg 1.5x" width="225"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         Born
+        </th>
+        <td>
+         <span style="display:none">
+          (
+          <span class="bday">
+           1911-05-31
+          </span>
+          )
+         </span>
+         31 May 1911
+         <br/>
+         <span class="birthplace">
+          <a href="/wiki/Paris" title="Paris">
+           Paris
+          </a>
+          ,
+          <a href="/wiki/France" title="France">
+           France
+          </a>
+         </span>
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         Died
+        </th>
+        <td>
+         9 October 2010
+         <span style="display:none">
+          (
+          <span class="dday deathdate">
+           2010-10-09
+          </span>
+          )
+         </span>
+         (aged 99)
+         <br/>
+         <span class="deathplace">
+          <a href="/wiki/Saint-Cloud" title="Saint-Cloud">
+           Saint-Cloud
+          </a>
+          ,
+          <sup class="reference" id="cite_ref-1">
+           <a href="#cite_note-1">
+            [1]
+           </a>
+          </sup>
+          near Paris, France
+         </span>
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         Nationality
+        </th>
+        <td class="category">
+         <a href="/wiki/France" title="France">
+          French
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td colspan="2" style="text-align:center">
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         Field
+        </th>
+        <td class="category">
+         <a href="/wiki/Macroeconomics" title="Macroeconomics">
+          Macroeconomics
+         </a>
+         <br/>
+         <a href="/wiki/Behavioral_economics" title="Behavioral economics">
+          Behavioral economics
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         School or
+         <br/>
+         tradition
+        </th>
+        <td class="category">
+         <a class="mw-redirect" href="/wiki/Walrasian_economics" title="Walrasian economics">
+          Walrasian economics
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         Alma mater
+        </th>
+        <td>
+         <a href="/wiki/%C3%89cole_Polytechnique" title="École Polytechnique">
+          École Polytechnique
+         </a>
+         <br/>
+         <a class="mw-redirect" href="/wiki/%C3%89cole_Nationale_Sup%C3%A9rieure_des_Mines_de_Paris" title="École Nationale Supérieure des Mines de Paris">
+          École Nationale Supérieure des Mines de Paris
+         </a>
+         <br/>
+         <a href="/wiki/University_of_Paris" title="University of Paris">
+          University of Paris
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         Influences
+        </th>
+        <td>
+         <a href="/wiki/L%C3%A9on_Walras" title="Léon Walras">
+          Léon Walras
+         </a>
+         <br/>
+         <a href="/wiki/Irving_Fisher" title="Irving Fisher">
+          Irving Fisher
+         </a>
+         <br/>
+         <a href="/wiki/Vilfredo_Pareto" title="Vilfredo Pareto">
+          Vilfredo Pareto
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         Contributions
+        </th>
+        <td>
+         <a href="/wiki/Overlapping_generations_model" title="Overlapping generations model">
+          Overlapping generations model
+         </a>
+         <br/>
+         <a href="/wiki/Golden_Rule_savings_rate" title="Golden Rule savings rate">
+          golden rule of optimal growth
+         </a>
+         <br/>
+         Transaction demand for money rule
+         <br/>
+         <a href="/wiki/Allais_paradox" title="Allais paradox">
+          Allais paradox
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         Awards
+        </th>
+        <td>
+         <a href="/wiki/Nobel_Memorial_Prize_in_Economic_Sciences" title="Nobel Memorial Prize in Economic Sciences">
+          Nobel Prize in Economics
+         </a>
+         (1988)
+        </td>
+       </tr>
+       <tr>
+        <td colspan="2" style="text-align:center">
+         <a class="external text" href="https://ideas.repec.org/e/pal21.html" rel="nofollow">
+          Information
+         </a>
+         at
+         <a href="/wiki/Research_Papers_in_Economics" title="Research Papers in Economics">
+          IDEAS / RePEc
+         </a>
+        </td>
+       </tr>
+       <tr style="display:none">
+        <td colspan="2">
+        </td>
+       </tr>
+      </table>
+      <p>
+       <b>
+        Maurice Félix Charles Allais
+       </b>
+       <sup class="reference" id="cite_ref-2">
+        <a href="#cite_note-2">
+         [2]
+        </a>
+       </sup>
+       (31 May 1911 – 9 October 2010) was a French physicist and economist, the 1988 winner of the
+       <a href="/wiki/Nobel_Memorial_Prize_in_Economic_Sciences" title="Nobel Memorial Prize in Economic Sciences">
+        Nobel Memorial Prize in Economic Sciences
+       </a>
+       "for his pioneering contributions to the theory of markets and efficient utilization of resources". These pairs
+       <sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">
+        [
+        <i>
+         <a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify">
+          <span title="The text near this tag may need clarification or removal of jargon. (August 2017)">
+           clarification needed
+          </span>
+         </a>
+        </i>
+        ]
+       </sup>
+       considered that Maurice Allais could have been recognized, along with
+       <a href="/wiki/John_Hicks" title="John Hicks">
+        John Hicks
+       </a>
+       (Value and Capital, 1939) and
+       <a href="/wiki/Paul_Samuelson" title="Paul Samuelson">
+        Paul Samuelson
+       </a>
+       (The Foundations of Economic Analysis, 1947), as the principal architect of the neoclassical synthesis. They formalize the self-regulation of markets, that
+       <a class="mw-redirect" href="/wiki/Keynes" title="Keynes">
+        Keynes
+       </a>
+       refuted, while reiterating some of his ideas.
+      </p>
+      <p>
+       Born in
+       <a href="/wiki/Paris" title="Paris">
+        Paris
+       </a>
+       ,
+       <a href="/wiki/France" title="France">
+        France
+       </a>
+       , Allais attended the
+       <a href="/wiki/Lyc%C3%A9e_Lakanal" title="Lycée Lakanal">
+        Lycée Lakanal
+       </a>
+       , graduated from the
+       <a href="/wiki/%C3%89cole_Polytechnique" title="École Polytechnique">
+        École Polytechnique
+       </a>
+       in
+       <a href="/wiki/Paris" title="Paris">
+        Paris
+       </a>
+       and studied at the
+       <a class="mw-redirect" href="/wiki/%C3%89cole_nationale_sup%C3%A9rieure_des_mines_de_Paris" title="École nationale supérieure des mines de Paris">
+        École nationale supérieure des mines de Paris
+       </a>
+       . His academic and other posts have included being Professor of Economics at the École Nationale Supérieure des Mines de Paris (since 1944) and Director of its Economic Analysis Centre (since 1946). In 1949, he received the title of doctor-engineer from the
+       <a href="/wiki/University_of_Paris" title="University of Paris">
+        University of Paris
+       </a>
+       , Faculty of Science. He also held teaching positions at various institutions, including at the University of
+       <a class="mw-redirect" href="/wiki/Paris_X" title="Paris X">
+        Paris X
+       </a>
+       -Nanterre. His first works oriented him towards the sciences of the concrete and the experiments of fundamental physics, on which he will also publish numerous works, notably on pendular oscillations and the laws of gravitation. It's after a trip in 1933 to the United States during the Great Depression, that he decides to make the economy.
+       <sup class="reference" id="cite_ref-3">
+        <a href="#cite_note-3">
+         [3]
+        </a>
+       </sup>
+       Allais died at his home in
+       <a href="/wiki/Saint-Cloud" title="Saint-Cloud">
+        Saint-Cloud
+       </a>
+       , near Paris, at the age of 99.
+       <sup class="reference" id="cite_ref-bno20101010_4-0">
+        <a href="#cite_note-bno20101010-4">
+         [4]
+        </a>
+       </sup>
+      </p>
+      <p>
+       He considered, as his principal inspirers,
+       <a class="mw-redirect" href="/wiki/Leon_Walras" title="Leon Walras">
+        Leon Walras
+       </a>
+       ,
+       <a class="mw-redirect" href="/wiki/Wilfredo_Pareto" title="Wilfredo Pareto">
+        Wilfredo Pareto
+       </a>
+       and
+       <a href="/wiki/Irving_Fisher" title="Irving Fisher">
+        Irving Fisher
+       </a>
+       . He was reluctant to write in or translate his work into English, and many of his major contributions became known to the dominant community only when they were independently rediscovered or popularized by English-speaking economists. At the same time, he claimed Keynes's liberalism and declared himself in favor of an important public sector. Allais attended the inaugural meeting of the
+       <a href="/wiki/Mont_Pelerin_Society" title="Mont Pelerin Society">
+        Mont Pelerin Society
+       </a>
+       , but he was alone among the attendees to refuse to sign the statement of aims because of a disagreement over the extent of property rights. He exerted an important influence, at the end of the war, on French economists such as
+       <a href="/wiki/G%C3%A9rard_Debreu" title="Gérard Debreu">
+        Gérard Debreu
+       </a>
+       ,
+       <a href="/wiki/Edmond_Malinvaud" title="Edmond Malinvaud">
+        Edmond Malinvaud
+       </a>
+       and
+       <a class="new" href="/w/index.php?title=Marcel_Boiteux&amp;action=edit&amp;redlink=1" title="Marcel Boiteux (page does not exist)">
+        Marcel Boiteux
+       </a>
+       .
+      </p>
+      <p>
+       <a href="/wiki/Paul_Samuelson" title="Paul Samuelson">
+        Paul Samuelson
+       </a>
+       <sup class="reference" id="cite_ref-5">
+        <a href="#cite_note-5">
+         [5]
+        </a>
+       </sup>
+       said "
+       <i>
+        Had Allais earliest writings been in English, a generation of economic theory would have taken a different course"
+       </i>
+       and the Nobel Prize should have been awarded to him much earlier. Assar Lindbeck, the chairman of the selection committee considered Allais as "a giant within the world of economic analysis".
+       <sup class="reference" id="cite_ref-6">
+        <a href="#cite_note-6">
+         [6]
+        </a>
+       </sup>
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Contribution_as_an_economist">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Contribution as an economist
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-2">
+           <a href="#Inspired_at_first_by_Walras">
+            <span class="tocnumber">
+             1.1
+            </span>
+            <span class="toctext">
+             Inspired at first by Walras
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-3">
+           <a href="#Rejection_of_the_general_equilibrium_theory">
+            <span class="tocnumber">
+             1.2
+            </span>
+            <span class="toctext">
+             Rejection of the general equilibrium theory
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-4">
+           <a href="#Position_against_globalization">
+            <span class="tocnumber">
+             1.3
+            </span>
+            <span class="toctext">
+             Position against globalization
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-5">
+         <a href="#Contribution_in_physics">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Contribution in physics
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-6">
+         <a href="#Bibliography">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           Bibliography
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-7">
+         <a href="#Notes">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           Notes
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-8">
+         <a href="#References">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-9">
+         <a href="#External_links">
+          <span class="tocnumber">
+           6
+          </span>
+          <span class="toctext">
+           External links
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Contribution_as_an_economist">
+        Contribution as an economist
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Maurice_Allais&amp;action=edit&amp;section=1" title="Edit section: Contribution as an economist">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Author of several theoretical and applied economics studies,
+       <sup class="reference" id="cite_ref-7">
+        <a href="#cite_note-7">
+         [7]
+        </a>
+       </sup>
+       his work has focused on the development of mathematical economics, especially in the fields of general equilibrium theory, capital theory,
+       <a href="/wiki/Decision_theory" title="Decision theory">
+        decision theory
+       </a>
+       , and
+       <a href="/wiki/Monetary_policy" title="Monetary policy">
+        monetary policy
+       </a>
+       . A pioneer in macroeconomic monetary analyses, the economist has been authoritative for his theoretical studies of risk, illustrated by his famous paradox:
+       <i>
+        "the less the risk is, the more speculators flee."
+       </i>
+       He has also been a pioneer in various fields such as the role of central banks and the pricing of public services.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Inspired_at_first_by_Walras">
+        Inspired at first by Walras
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Maurice_Allais&amp;action=edit&amp;section=2" title="Edit section: Inspired at first by Walras">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       His first book develops the microeconomic aspect. With
+       <i>
+        Traité d'économie pure
+       </i>
+       , which he wrote between January 1941 and July 1943, these pairs considered that Maurice Allais could have been recognized, along with Hicks and Samuelson, as the principal architect of the
+       <a href="/wiki/Neoclassical_synthesis" title="Neoclassical synthesis">
+        neoclassical synthesis
+       </a>
+       . He anticipates several of the propositions and theorems put forward by Hicks, Samuelson and others, sometimes giving them a more general and rigorous formulation. In particular, he demonstrates the equivalence theorems that
+       <a href="/wiki/Kenneth_Arrow" title="Kenneth Arrow">
+        Kenneth Arrow
+       </a>
+       and Gerard Debreu will find in 1954: "Every equilibrium situation in a market economy is a situation of maximum efficiency, and reciprocally, every situation of maximum efficiency Is a equilibrium situation in a market economy. " The market thus ensures economic efficiency and optimal distribution of income in the nation. At the same time, Samuelson exposed the process of trial and error which leads to the equilibrium of markets.
+      </p>
+      <p>
+       In 1947, in the second part of his work
+       <i>
+        Économie et Intérêt
+       </i>
+       , Allais introduced time and currency and thus tackled the dynamics and growth of capitalist economies. Again, he made several proposals, Whose discovery will be later attributed to other economists. He introduced the first
+       <a href="/wiki/Overlapping_generations_model" title="Overlapping generations model">
+        overlapping generations model
+       </a>
+       (OLG model) (later popularized and attributed to
+       <a href="/wiki/Paul_Samuelson" title="Paul Samuelson">
+        Paul Samuelson
+       </a>
+       in 1958), introduced the
+       <a href="/wiki/Golden_Rule_savings_rate" title="Golden Rule savings rate">
+        golden rule of optimal growth
+       </a>
+       before
+       <a href="/wiki/Trevor_Swan" title="Trevor Swan">
+        Trevor Swan
+       </a>
+       and
+       <a href="/wiki/Edmund_Phelps" title="Edmund Phelps">
+        Edmund Phelps
+       </a>
+       , show that an interest rate equal to the growth rate maximizes consumption, he described the transaction demand for money rule before
+       <a href="/wiki/William_Baumol" title="William Baumol">
+        William Baumol
+       </a>
+       and
+       <a href="/wiki/James_Tobin" title="James Tobin">
+        James Tobin
+       </a>
+       <sup class="reference" id="cite_ref-8">
+        <a href="#cite_note-8">
+         [8]
+        </a>
+       </sup>
+       He was also responsible for early work in
+       <a href="/wiki/Behavioral_economics" title="Behavioral economics">
+        Behavioral economics
+       </a>
+       , which in the US is generally attributed to
+       <a href="/wiki/Daniel_Kahneman" title="Daniel Kahneman">
+        Daniel Kahneman
+       </a>
+       and
+       <a href="/wiki/Amos_Tversky" title="Amos Tversky">
+        Amos Tversky
+       </a>
+       .
+       <sup class="reference" id="cite_ref-9">
+        <a href="#cite_note-9">
+         [9]
+        </a>
+       </sup>
+      </p>
+      <p>
+       In the 1940s, Allais worked on "decision theory" (or "theory of choice") under uncertainty and developed a theory of
+       <a href="/wiki/Cardinal_utility" title="Cardinal utility">
+        cardinal utility
+       </a>
+       . Due to war conditions and his commitment to publish in French, his work was undertaken independently of
+       <a class="mw-redirect" href="/wiki/Theory_of_games_and_economic_behavior" title="Theory of games and economic behavior">
+        Theory of games and economic behavior
+       </a>
+       developed by
+       <a href="/wiki/John_von_Neumann" title="John von Neumann">
+        John von Neumann
+       </a>
+       and
+       <a href="/wiki/Oskar_Morgenstern" title="Oskar Morgenstern">
+        Oskar Morgenstern
+       </a>
+       . He formulated the
+       <a href="/wiki/Allais_paradox" title="Allais paradox">
+        Allais paradox
+       </a>
+       in 1953, which questions the traditional model of rationality of choices and contradicts the
+       <a href="/wiki/Expected_utility_hypothesis" title="Expected utility hypothesis">
+        expected utility hypothesis
+       </a>
+       . It shows that when confronted with a lottery, an individual does not maximize his hoped-for gains, but rather aims at security.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Rejection_of_the_general_equilibrium_theory">
+        Rejection of the general equilibrium theory
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Maurice_Allais&amp;action=edit&amp;section=3" title="Edit section: Rejection of the general equilibrium theory">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       Finally he criticizes the drifts of a discipline that privileges according to him, mathematical virtuosity at the expense of realism. With this "new scholastic totalitarianism" he moved away, in the 60s, from the analysis of the general equilibrium developed by Walras and replace it with a study focusing on real markets rather than a utopian market, favoring the study of imbalance and based on the idea of surplus. The economic dynamics are thus characterized by the research, the realization and the distribution of a surplus and there is a general equilibrium when there is no longer any realizable surplus.
+      </p>
+      <p>
+       Allais’s
+       <a class="mw-redirect" href="/wiki/Hereditary" title="Hereditary">
+        Hereditary
+       </a>
+       ,
+       <a class="mw-redirect" href="/wiki/Relativist" title="Relativist">
+        Relativist
+       </a>
+       and
+       <a href="/wiki/Logistic_function" title="Logistic function">
+        Logistic
+       </a>
+       (HRL) theory of
+       <a class="mw-redirect" href="/wiki/Monetary" title="Monetary">
+        monetary
+       </a>
+       <a href="/wiki/Monetary_economics" title="Monetary economics">
+        dynamics
+       </a>
+       contains an original theory of expectations formation that is a genuine alternative to both
+       <a class="mw-redirect" href="/wiki/Adaptive" title="Adaptive">
+        adaptive
+       </a>
+       and
+       <a class="mw-redirect" href="/wiki/Rational" title="Rational">
+        rational
+       </a>
+       expectations.
+       <sup class="reference" id="cite_ref-10">
+        <a href="#cite_note-10">
+         [10]
+        </a>
+       </sup>
+       It was praised by
+       <a href="/wiki/Milton_Friedman" title="Milton Friedman">
+        Milton Friedman
+       </a>
+       in 1968 with the following words: "
+       <i>
+        This work
+       </i>
+       [the HRL formulation]
+       <i>
+        introduces a very basic and important distinction between
+        <a class="mw-redirect" href="/wiki/Psychological" title="Psychological">
+         psychological
+        </a>
+        time and chronological
+        <a href="/wiki/Time" title="Time">
+         time
+        </a>
+        . It is one of the most important and original paper that has been written for a long time … for its consideration of the problem of the formation of expectations".
+        <sup class="reference" id="cite_ref-11">
+         <a href="#cite_note-11">
+          [11]
+         </a>
+        </sup>
+       </i>
+       Allais's contribution has nevertheless been "lost": it has been absent from the debate about expectations.
+       <sup class="reference" id="cite_ref-12">
+        <a href="#cite_note-12">
+         [12]
+        </a>
+       </sup>
+      </p>
+      <h3>
+       <span class="mw-headline" id="Position_against_globalization">
+        Position against globalization
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Maurice_Allais&amp;action=edit&amp;section=4" title="Edit section: Position against globalization">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       On the first page, he dedicates his book
+       <i>
+        La mondialisation: destruction des emplois et de la croissance
+       </i>
+       (1990),
+       <i>
+        Globalization: destruction of jobs and growth
+       </i>
+       ,
+       <i>
+        "To the countless victims worldwide of the free-trade ideology, ideology as fatal as it is erroneous, and to all those who are not blind to some partisan passion"
+       </i>
+       .
+       <sup class="reference" id="cite_ref-13">
+        <a href="#cite_note-13">
+         [13]
+        </a>
+       </sup>
+       Allais believes that Ricardo's theory is valid only in a steady state, but disappears when the specializations evolve and when the capital is mobile.
+      </p>
+      <p>
+       According to him
+       <sup class="reference" id="cite_ref-14">
+        <a href="#cite_note-14">
+         [14]
+        </a>
+       </sup>
+       , "Globalization can only bring everywhere instability, unemployment, injustices [...] and "widespread globalization is neither inevitable nor necessary nor desirable". He considers that
+       <sup class="reference" id="cite_ref-15">
+        <a href="#cite_note-15">
+         [15]
+        </a>
+       </sup>
+       "unemployment arise from the offshoring, themselves due to the excessive differences in wages"; "reasoned protectionism between countries with very different incomes, is not only justified but absolutely necessary"; and the absence of protection will destroy all activities of each country with higher incomes.
+      </p>
+      <p>
+       In his opinion, crisis and globalization are linked:
+       <i>
+        "The financial and banking crisis which, is only the spectacular symptom of a deeper economic crisis: the deregulation
+        <sup class="reference" id="cite_ref-16">
+         <a href="#cite_note-16">
+          [16]
+         </a>
+        </sup>
+        of competition in the global labor market
+        <sup class="reference" id="cite_ref-17">
+         <a href="#cite_note-17">
+          [17]
+         </a>
+        </sup>
+        "
+       </i>
+       . "Current unemployment is due to this total liberalization of trade[...] As such, it constitutes a major foolishness, starting from an unbelievable contradiction. Just as attributing the crisis of 1929 to protectionist causes is a historical contradiction. The true origin was already in the careless development of credit in the years preceding it."
+      </p>
+      <p>
+       In 1992, Maurice Allais criticised the
+       <a href="/wiki/Maastricht_Treaty" title="Maastricht Treaty">
+        Maastricht Treaty
+       </a>
+       for its excessive emphasis on
+       <a href="/wiki/Free_trade" title="Free trade">
+        free trade
+       </a>
+       . He also expressed reservations on the
+       <a href="/wiki/Economic_and_Monetary_Union_of_the_European_Union" title="Economic and Monetary Union of the European Union">
+        single European currency
+       </a>
+       .
+       <sup class="reference" id="cite_ref-18">
+        <a href="#cite_note-18">
+         [18]
+        </a>
+       </sup>
+       In 2005, he expressed similar reservations concerning the
+       <a class="mw-redirect" href="/wiki/European_constitution" title="European constitution">
+        European constitution
+       </a>
+       .
+       <sup class="reference" id="cite_ref-19">
+        <a href="#cite_note-19">
+         [19]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Contribution_in_physics">
+        Contribution in physics
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Maurice_Allais&amp;action=edit&amp;section=5" title="Edit section: Contribution in physics">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main article:
+       <a href="/wiki/Allais_effect" title="Allais effect">
+        Allais effect
+       </a>
+      </div>
+      <p>
+       Besides his career in economics, he performed experiments between 1952 and 1960 in the fields of
+       <a class="mw-redirect" href="/wiki/Gravitation" title="Gravitation">
+        gravitation
+       </a>
+       ,
+       <a href="/wiki/Special_relativity" title="Special relativity">
+        special relativity
+       </a>
+       and
+       <a href="/wiki/Electromagnetism" title="Electromagnetism">
+        electromagnetism
+       </a>
+       , to investigate possible links between the fields. He reported three effects:
+      </p>
+      <ol>
+       <li>
+        An unexpected anomalous effect in the angular velocity of the plane of oscillation of a
+        <a href="/wiki/Paraconical_pendulum" title="Paraconical pendulum">
+         paraconical pendulum
+        </a>
+        , detected during two partial
+        <a class="mw-redirect" href="/wiki/Solar_eclipses" title="Solar eclipses">
+         solar eclipses
+        </a>
+        in 1954 and 1959. The claimed effect is now called the
+        <a href="/wiki/Allais_effect" title="Allais effect">
+         Allais effect
+        </a>
+        .
+       </li>
+       <li>
+        Anomalous irregularities in the oscillation of the
+        <a href="/wiki/Paraconical_pendulum" title="Paraconical pendulum">
+         paraconical pendulum
+        </a>
+        with respect to a
+        <a href="/wiki/Sidereal_time" title="Sidereal time">
+         sidereal diurnal periodicity
+        </a>
+        of 23 hours 56 minutes and
+        <a class="mw-redirect" href="/wiki/Tidal" title="Tidal">
+         tidal
+        </a>
+        periodicity of 24 hours 50 minutes.
+       </li>
+       <li>
+        Anomalous irregularities in optical
+        <a href="/wiki/Theodolite" title="Theodolite">
+         theodolite
+        </a>
+        measurements, with the same
+        <a class="mw-redirect" href="/wiki/Lunisolar" title="Lunisolar">
+         lunisolar
+        </a>
+        periodicities.
+       </li>
+      </ol>
+      <p>
+       Over the years, a number of pendulum experiments were performed by scientists around the world to test his findings. However, the results were mixed.
+       <sup class="reference" id="cite_ref-NASA_1999_20-0">
+        <a href="#cite_note-NASA_1999-20">
+         [20]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-NASA_1999_B_21-0">
+        <a href="#cite_note-NASA_1999_B-21">
+         [21]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Bibliography">
+        Bibliography
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Maurice_Allais&amp;action=edit&amp;section=6" title="Edit section: Bibliography">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a class="external text" href="http://www.pse.ens.fr/adres/anciens/n14/vol14-01.pdf" rel="nofollow">
+         Les Lignes directrices de mon œuvre, Conférence Nobel prononcée devant l'Académie royale des Sciences de Suède
+        </a>
+        ;
+       </li>
+       <li>
+        <i>
+         À la recherche d'une discipline économique
+        </i>
+        (1943) ;
+       </li>
+       <li>
+        <i>
+         Économie pure et rendement social
+        </i>
+        (1945) ;
+       </li>
+       <li>
+        <i>
+         Abondance ou misère
+        </i>
+        (1946) ;
+       </li>
+       <li>
+        <i>
+         Économie et intérêt
+        </i>
+        , (1947) ;
+       </li>
+       <li>
+        <i>
+         La Gestion des houillères nationalisées et la théorie économique
+        </i>
+        (1949) ;
+       </li>
+       <li>
+        <i>
+         Le Comportement de l’homme rationnel devant le risque: critique des postulats et axiomes de l’école américaine
+        </i>
+        (1953) ;
+       </li>
+       <li>
+        <i>
+         Les Fondements comptables de la macro-économique
+        </i>
+        (1954) ;
+       </li>
+       <li>
+        <i>
+         L'Europe unie, route de la prospérité
+        </i>
+        (1959) ;
+       </li>
+       <li>
+        <i>
+         Le Tiers monde au carrefour
+        </i>
+        (1961) ;
+       </li>
+       <li>
+        <i>
+         L'Algérie d'Evian
+        </i>
+        (1962);
+        <sup class="reference" id="cite_ref-22">
+         <a href="#cite_note-22">
+          [22]
+         </a>
+        </sup>
+       </li>
+       <li>
+        <i>
+         The Role of Capital in Economic Development
+        </i>
+        (Rôle du capital dans le développement économique) (1963) ;
+       </li>
+       <li>
+        <i>
+         Reformulation de la théorie quantitative de la monnaie
+        </i>
+        (1965) ;
+       </li>
+       <li>
+        <i>
+         Growth Without Inflation
+        </i>
+        (Croissance sans inflation) (1967) ;
+       </li>
+       <li>
+        <i>
+         La Libéralisation des relations économiques internationales – Accords commerciaux ou intégration économique
+        </i>
+        (1970) ;
+       </li>
+       <li>
+        <i>
+         L'Inflation française et la croissance – Mythologies et réalité
+        </i>
+        (1974) ;
+       </li>
+       <li>
+        <i>
+         L'Impôt sur le capital et la réforme monétaire
+        </i>
+        (1976) ;
+       </li>
+       <li>
+        <i>
+         La Théorie générale des surplus
+        </i>
+        (1978) ;
+       </li>
+       <li>
+        <i>
+         Les Conditions monétaires d'une économie de marchés
+        </i>
+        (1987) ;
+       </li>
+       <li>
+        <i>
+         Autoportrait
+        </i>
+        (1989) ;
+       </li>
+       <li>
+        <i>
+         Pour l'indexation
+        </i>
+        (1990) ;
+       </li>
+       <li>
+        <i>
+         Les Bouleversements à l’Est. Que faire?
+        </i>
+        (1990) ;
+       </li>
+       <li>
+        <i>
+         La Théorie générale des surplus et l'économie de marchés" (1990 – trois mémoires de 1967, 1971, 1988) ;
+        </i>
+       </li>
+       <li>
+        <i>
+         Contributions à la théorie générale de l'efficacité maximale et des surplus
+        </i>
+        (1990 – quatre mémoires de 1964, 1965, 1973 et 1975) ;
+       </li>
+       <li>
+        <i>
+         Pour la réforme de la fiscalité
+        </i>
+        <sup class="reference" id="cite_ref-23">
+         <a href="#cite_note-23">
+          [23]
+         </a>
+        </sup>
+        (1990) ;
+       </li>
+       <li>
+        <i>
+         L'Europe face à son avenir. Que faire?
+        </i>
+        (1991) ;
+       </li>
+       <li>
+        <i>
+         Erreurs et impasses de la construction européenne
+        </i>
+        (1992) ;
+       </li>
+       <li>
+        <i>
+         Combats pour l'Europe. 1992–1994 (1994) ;
+        </i>
+       </li>
+       <li>
+        <i>
+         La Crise mondiale aujourd'hui
+        </i>
+        (Clément Juglar, 1999) ;
+       </li>
+       <li>
+        <i>
+         Nouveaux combats pour l'Europe. 1995–2002
+        </i>
+        (2002) ;
+       </li>
+       <li>
+        <i>
+         L'Europe en crise. Que faire?
+        </i>
+        (2005) ;
+       </li>
+       <li>
+        <i>
+         La Mondialisation, la destruction des emplois et de la croissance, l'évidence empirique
+        </i>
+        (Ed. Clément Juglar, 2007 -
+        <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+         ISBN
+        </a>
+        <a href="/wiki/Special:BookSources/978-2-908735-12-3" title="Special:BookSources/978-2-908735-12-3">
+         978-2-908735-12-3
+        </a>
+        ) ;
+       </li>
+       <li>
+        <a class="external text" href="https://web.archive.org/web/20120118023037/http://ensmp.net/pdf/2009/Maurice%20Allais%20Lettre%20aux%20Francais.pdf" rel="nofollow">
+         <i>
+          Lettre aux Français – CONTRE LES TABOUS INDISCUTÉS
+         </i>
+        </a>
+        (2009).
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="Notes">
+        Notes
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Maurice_Allais&amp;action=edit&amp;section=7" title="Edit section: Notes">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+       <ol class="references">
+        <li id="cite_note-1">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-1">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <a class="external autonumber" href="http://www.lefigaro.fr/actualite-france/2010/10/10/01016-20101010ARTFIG00155-le-prix-nobel-d-economie-maurice-allais-est-mort.php" rel="nofollow">
+           [1]
+          </a>
+         </span>
+        </li>
+        <li id="cite_note-2">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-2">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <a class="external free" href="http://www.fondationmauriceallais.org/the-economist/?lang=en" rel="nofollow">
+           http://www.fondationmauriceallais.org/the-economist/?lang=en
+          </a>
+         </span>
+        </li>
+        <li id="cite_note-3">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-3">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <a class="external free" href="http://www.liberation.fr/futurs/2010/10/11/deces-de-maurice-allais-prix-nobel-liberal-et-protectionniste_685598" rel="nofollow">
+           http://www.liberation.fr/futurs/2010/10/11/deces-de-maurice-allais-prix-nobel-liberal-et-protectionniste_685598
+          </a>
+         </span>
+        </li>
+        <li id="cite_note-bno20101010-4">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-bno20101010_4-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           <a class="external text" href="https://web.archive.org/web/20110722154829/http://wireupdate.com/wires/11117/french-nobel-prize-winner-maurice-allais-dies-in-paris/" rel="nofollow">
+            "French Nobel prize winner Maurice Allais dies in Paris"
+           </a>
+           .
+           <i>
+            <a href="/wiki/BNO_News" title="BNO News">
+             BNO News
+            </a>
+           </i>
+           . Archived from
+           <a class="external text" href="http://wireupdate.com/wires/11117/french-nobel-prize-winner-maurice-allais-dies-in-paris/" rel="nofollow">
+            the original
+           </a>
+           on 22 July 2011
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             10 October
+            </span>
+            2010
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=BNO+News&amp;rft.atitle=French+Nobel+prize+winner+Maurice+Allais+dies+in+Paris&amp;rft_id=http%3A%2F%2Fwireupdate.com%2Fwires%2F11117%2Ffrench-nobel-prize-winner-maurice-allais-dies-in-paris%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMaurice+Allais">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-5">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-5">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <a class="external free" href="https://www.nytimes.com/1988/10/19/business/a-french-economist-wins-nobel.html?scp=1&amp;sq=Allais&amp;st=Search" rel="nofollow">
+           https://www.nytimes.com/1988/10/19/business/a-french-economist-wins-nobel.html?scp=1&amp;sq=Allais&amp;st=Search
+          </a>
+         </span>
+        </li>
+        <li id="cite_note-6">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-6">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <a class="external free" href="http://econjwatch.org/ancillary/IPEL.html" rel="nofollow">
+           http://econjwatch.org/ancillary/IPEL.html
+          </a>
+         </span>
+        </li>
+        <li id="cite_note-7">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-7">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <a class="external free" href="http://www.fondationmauriceallais.org/the-economist/?lang=en" rel="nofollow">
+           http://www.fondationmauriceallais.org/the-economist/?lang=en
+          </a>
+         </span>
+        </li>
+        <li id="cite_note-8">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-8">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <a class="external text" href="https://web.archive.org/web/20101123191319/http://homepage.newschool.edu/het/profiles/allais.htm" rel="nofollow">
+           History of economic thought website
+          </a>
+          . Homepage.newschool.edu. Retrieved on 2011-07-04.
+         </span>
+        </li>
+        <li id="cite_note-9">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-9">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          John Kay,
+          <i>
+           Financial Times
+          </i>
+          , 25 August 2010 p 9.
+         </span>
+        </li>
+        <li id="cite_note-10">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-10">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          Allais, M. (1965),
+          <i>
+           Reformulation de la théorie quantitative de la monnaie
+          </i>
+          , Société d’études et de documentation économiques, industrielles et sociales (SEDEIS), Paris.
+         </span>
+        </li>
+        <li id="cite_note-11">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-11">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          Friedman, M. (1968),
+          <i>
+           Factors affecting the level of interest rates
+          </i>
+          , in Savings and residential financing: 1968 Conference Proceedings, Jacobs, D. P., and Pratt, R. T., (eds.), The United States Saving and Loan League, Chicago, IL, p. 375.
+         </span>
+        </li>
+        <li id="cite_note-12">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-12">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          Barthalon, E. (2014),
+          <i>
+           Uncertainty, Expectations and Financial Instability, Reviving Allais’s Lost Theory of Psychological Time
+          </i>
+          , Columbia University Press, New York.
+         </span>
+        </li>
+        <li id="cite_note-13">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-13">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <a class="external free" href="http://allais.maurice.free.fr/English/monde01.htm" rel="nofollow">
+           http://allais.maurice.free.fr/English/monde01.htm
+          </a>
+         </span>
+        </li>
+        <li id="cite_note-14">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-14">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <a class="external free" href="http://www.liberation.fr/futurs/2010/10/11/deces-de-maurice-allais-prix-nobel-liberal-et-protectionniste_685598" rel="nofollow">
+           http://www.liberation.fr/futurs/2010/10/11/deces-de-maurice-allais-prix-nobel-liberal-et-protectionniste_685598
+          </a>
+         </span>
+        </li>
+        <li id="cite_note-15">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-15">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <a class="external free" href="http://www.soyons-lucides.fr/documents/maurice_allais-contre_les_tabous_indiscutes.pdf" rel="nofollow">
+           http://www.soyons-lucides.fr/documents/maurice_allais-contre_les_tabous_indiscutes.pdf
+          </a>
+         </span>
+        </li>
+        <li id="cite_note-16">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-16">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <a class="external free" href="http://www.investopedia.com/terms/d/deregulate.asp" rel="nofollow">
+           http://www.investopedia.com/terms/d/deregulate.asp
+          </a>
+         </span>
+        </li>
+        <li id="cite_note-17">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-17">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <a class="external free" href="http://www.investopedia.com/terms/t/trade-liberalization.asp" rel="nofollow">
+           http://www.investopedia.com/terms/t/trade-liberalization.asp
+          </a>
+         </span>
+        </li>
+        <li id="cite_note-18">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-18">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <a class="external text" href="https://www.humanite.fr/1992-09-17_Articles_-MAURICE-ALLAIS-DERIVE-LIBRE-ECHANGISTE" rel="nofollow">
+           L'Humanité (French)
+          </a>
+          17 September 1992
+          <a class="external text" href="https://web.archive.org/web/20080309132107/http://www.humanite.fr/1992-09-17_Articles_-MAURICE-ALLAIS-DERIVE-LIBRE-ECHANGISTE" rel="nofollow">
+           Archived
+          </a>
+          March 9, 2008, at the
+          <a href="/wiki/Wayback_Machine" title="Wayback Machine">
+           Wayback Machine
+          </a>
+          .
+         </span>
+        </li>
+        <li id="cite_note-19">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-19">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <a class="external text" href="https://www.humanite.fr/2005-05-26_Politique_Maurice-Allais-La-constitution-n-est-pas-un-rempart-contre-les" rel="nofollow">
+           L'Humanité (French)
+          </a>
+          26 May 2005
+          <a class="external text" href="https://web.archive.org/web/20080307195652/http://www.humanite.fr/2005-05-26_Politique_Maurice-Allais-La-constitution-n-est-pas-un-rempart-contre-les" rel="nofollow">
+           Archived
+          </a>
+          March 7, 2008, at the
+          <a href="/wiki/Wayback_Machine" title="Wayback Machine">
+           Wayback Machine
+          </a>
+          .
+         </span>
+        </li>
+        <li id="cite_note-NASA_1999-20">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-NASA_1999_20-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           Leslie Mullen (1999).
+           <a class="external text" href="https://web.archive.org/web/20080516091554/http://home.t01.itscom.net/allais/blackprior/noever/decrypting.htm" rel="nofollow">
+            "Decrypting the Eclipse"
+           </a>
+           .
+           <i>
+            Archived copy of science.nasa.gov page
+           </i>
+           . Archived from
+           <a class="external text" href="http://home.t01.itscom.net/allais/blackprior/noever/decrypting.htm" rel="nofollow">
+            the original
+           </a>
+           on 2008-05-16.
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Archived+copy+of+science.nasa.gov+page&amp;rft.atitle=Decrypting+the+Eclipse&amp;rft.date=1999&amp;rft.au=Leslie+Mullen&amp;rft_id=http%3A%2F%2Fhome.t01.itscom.net%2Fallais%2Fblackprior%2Fnoever%2Fdecrypting.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMaurice+Allais">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-NASA_1999_B-21">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-NASA_1999_B_21-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           Dave Dooling (12 October 1999).
+           <a class="external text" href="https://science.nasa.gov/science-news/science-at-nasa/1999/ast12oct99_1" rel="nofollow">
+            "French Nobel Laureate turns back clock"
+           </a>
+           .
+           <i>
+            NASA
+           </i>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=NASA&amp;rft.atitle=French+Nobel+Laureate+turns+back+clock&amp;rft.date=1999-10-12&amp;rft.au=Dave+Dooling&amp;rft_id=https%3A%2F%2Fscience.nasa.gov%2Fscience-news%2Fscience-at-nasa%2F1999%2Fast12oct99_1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMaurice+Allais">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-22">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-22">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <a class="external text" href="http://pagesperso-orange.fr/jeunepiednoir/jpn.wst/Livres&amp;docJPN.htm" rel="nofollow">
+           Réédition
+          </a>
+          avec une nouvelle préface de Maurice Allais et son discours du 6 mars 1999 :
+          <i>
+           Les Harkis un impérieux devoir de mémoire
+          </i>
+         </span>
+        </li>
+        <li id="cite_note-23">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-23">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <a class="new" href="/w/index.php?title=Andr%C3%A9-Jacques_Holbecq&amp;action=edit&amp;redlink=1" title="André-Jacques Holbecq (page does not exist)">
+           André-Jacques Holbecq
+          </a>
+          ,
+          <a class="external text" href="https://archive.is/20120716030702/http://wiki.societal.org/tiki-index.php?page=Allais+Fiscalit%C3%A9" rel="nofollow">
+           <i>
+            Résumé synthétique de l'ouvrage « Pour la réforme de la fiscalité »
+           </i>
+          </a>
+          , societal, 2009.
+         </span>
+        </li>
+       </ol>
+      </div>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Maurice_Allais&amp;action=edit&amp;section=8" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        R. S. Shankland, S. W. McCuskey, F. C. Leone, and G. Kuerti, "New analysis of the interferometric observations of Dayton C. Miller", Rev. Mod. Phys. 27, 167–178 (1955).
+       </li>
+       <li>
+        R. S. Shankland, "Michelson's role in the development of relativity", Applied Optics 12 (10), 2280 (1973).
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Maurice_Allais&amp;action=edit&amp;section=9" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+       <tr>
+        <td class="mbox-image">
+         <img alt="" class="noviewer" data-file-height="355" data-file-width="300" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/51px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/68px-Wikiquote-logo.svg.png 2x" width="34"/>
+        </td>
+        <td class="mbox-text plainlist">
+         Wikiquote has quotations related to:
+         <i>
+          <b>
+           <a class="extiw" href="https://en.wikiquote.org/wiki/Special:Search/Maurice_Allais" title="q:Special:Search/Maurice Allais">
+            Maurice Allais
+           </a>
+          </b>
+         </i>
+        </td>
+       </tr>
+      </table>
+      <ul>
+       <li>
+        "
+        <i>
+         <a class="external text" href="https://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/1988/allais-bio.html" rel="nofollow">
+          Maurice Allais – Autobiography
+         </a>
+        </i>
+        "
+        <a href="/wiki/Nobel_Prize" title="Nobel Prize">
+         Nobel Prize
+        </a>
+        , nobel.se.
+       </li>
+       <li>
+        Eugene G. Garfield
+        <i>
+         <a class="external text" href="http://www.garfield.library.upenn.edu/essays/v12p274y1989.pdf" rel="nofollow">
+          The 1988 Nobel Prize in Economics
+         </a>
+        </i>
+       </li>
+       <li>
+        "
+        <i>
+         <a class="external text" href="http://allais.maurice.free.fr/English/index.htm" rel="nofollow">
+          Maurice Allais
+         </a>
+        </i>
+        " – Allais' website
+       </li>
+       <li>
+        <a class="external text" href="http://kilop.atspace.com/allais-cv.html" rel="nofollow">
+         Allais' CV, 1987
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="https://ideas.repec.org/e/pal21.html" rel="nofollow">
+         IDEAS/RePEc
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://econjwatch.org/ancillary/IPEL.html" rel="nofollow">
+         Ideological profile
+        </a>
+        from Econ Journal Watch
+       </li>
+       <li>
+        Maurice Allais, Ten Notes published in the Proceedings of the French Academy of Sciences (Comptes Rendus des Séances de l'Académie des Sciences), dated 4/11/57, 13/11/57, 18/11/57, 13/5/57, 4/12/57, 25/11/57, 3/11/58, 22/12/58, 9/2/59, and 19/1/59, available in French at www.allais.info/alltrans/allaisnot.htm, some also in English translation. (These were, of course, peer-reviewed physics publications.)
+       </li>
+       <li>
+        <a class="external text" href="http://homepage.newschool.edu/het//profiles/allais.htm" rel="nofollow">
+         Allais's entry on the History of economic thought website
+        </a>
+       </li>
+       <li>
+        Maurice Allais, "Should the Laws of Gravitation be Reconsidered?",
+        <i>
+         Aero/Space Engineering
+        </i>
+        <b>
+         9
+        </b>
+        , 46–55 (1959).
+       </li>
+       <li>
+        <cite class="citation book">
+         <a class="external text" href="http://www.econlib.org/library/Enc/bios/Allais.html" rel="nofollow">
+          <i>
+           Maurice Allais (1911–2010)
+          </i>
+         </a>
+         .
+         <i>
+          <a class="mw-redirect" href="/wiki/The_Concise_Encyclopedia_of_Economics" title="The Concise Encyclopedia of Economics">
+           The Concise Encyclopedia of Economics
+          </a>
+         </i>
+         .
+         <a class="mw-redirect" href="/wiki/Library_of_Economics_and_Liberty" title="Library of Economics and Liberty">
+          Library of Economics and Liberty
+         </a>
+         (2nd ed.).
+         <a href="/wiki/Liberty_Fund" title="Liberty Fund">
+          Liberty Fund
+         </a>
+         . 2010.
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Maurice+Allais+%281911%E2%80%932010%29&amp;rft.series=Library+of+Economics+and+Liberty&amp;rft.edition=2nd&amp;rft.pub=Liberty+Fund&amp;rft.date=2010&amp;rft_id=http%3A%2F%2Fwww.econlib.org%2Flibrary%2FEnc%2Fbios%2FAllais.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMaurice+Allais">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+       <li>
+        <a class="external text" href="https://www.findagrave.com/memorial/59900061" rel="nofollow">
+         Maurice Allais
+        </a>
+        at
+        <a href="/wiki/Find_a_Grave" title="Find a Grave">
+         Find a Grave
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="https://www.informs.org/content/view/full/272886" rel="nofollow">
+         Biography of Maurice Allais
+        </a>
+        from the Institute for Operations Research and the Management Sciences
+       </li>
+      </ul>
+      <div aria-labelledby="Neoclassical_economists" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="2" scope="col">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:Neoclassical_economists" title="Template:Neoclassical economists">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a href="/wiki/Template_talk:Neoclassical_economists" title="Template talk:Neoclassical economists">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Neoclassical_economists&amp;action=edit">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="Neoclassical_economists" style="font-size:114%;margin:0 4em">
+           <a href="/wiki/Neoclassical_economics" title="Neoclassical economics">
+            <em style="font-style:normal;">
+             Neoclassical economists
+            </em>
+           </a>
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/William_Stanley_Jevons" title="William Stanley Jevons">
+              William Stanley Jevons
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Francis_Ysidro_Edgeworth" title="Francis Ysidro Edgeworth">
+              Francis Ysidro Edgeworth
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Alfred_Marshall" title="Alfred Marshall">
+              Alfred Marshall
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/John_Bates_Clark" title="John Bates Clark">
+              John Bates Clark
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Irving_Fisher" title="Irving Fisher">
+              Irving Fisher
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <a href="/wiki/Neoclassical_economics" title="Neoclassical economics">
+           Walrasian economics
+          </a>
+         </th>
+         <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a class="mw-selflink selflink">
+              Maurice Allais
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/G%C3%A9rard_Debreu" title="Gérard Debreu">
+              Gérard Debreu
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Edmond_Malinvaud" title="Edmond Malinvaud">
+              Edmond Malinvaud
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Jacques_Dr%C3%A8ze" title="Jacques Drèze">
+              Jacques Drèze
+             </a>
+            </li>
+            <li>
+             <a class="new" href="/w/index.php?title=Jean-Michel_Grandmont&amp;action=edit&amp;redlink=1" title="Jean-Michel Grandmont (page does not exist)">
+              Jean-Michel Grandmont
+             </a>
+            </li>
+            <li>
+             <a class="new" href="/w/index.php?title=Guy_Laroque&amp;action=edit&amp;redlink=1" title="Guy Laroque (page does not exist)">
+              Guy Laroque
+             </a>
+             <span class="noprint" style="font-size:85%; font-style: normal;">
+              (
+              <a class="extiw" href="https://fr.wikipedia.org/wiki/Guy_Laroque" title="fr:Guy Laroque">
+               fr
+              </a>
+              )
+             </span>
+            </li>
+            <li>
+             <a class="new" href="/w/index.php?title=Jean-Pascal_Benassy&amp;action=edit&amp;redlink=1" title="Jean-Pascal Benassy (page does not exist)">
+              Jean-Pascal Benassy
+             </a>
+            </li>
+            <li>
+             <a class="new" href="/w/index.php?title=Yves_Younes&amp;action=edit&amp;redlink=1" title="Yves Younes (page does not exist)">
+              Yves Younes
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <a href="/wiki/New_classical_macroeconomics" title="New classical macroeconomics">
+           New classical macroeconomics
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Robert_Barro" title="Robert Barro">
+              Robert Barro
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Axel_Leijonhufvud" title="Axel Leijonhufvud">
+              Axel Leijonhufvud
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Robert_Lucas,_Jr." title="Robert Lucas, Jr.">
+              Robert Lucas, Jr.
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Bennett_McCallum" title="Bennett McCallum">
+              Bennett McCallum
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Patrick_Minford" title="Patrick Minford">
+              Patrick Minford
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Thomas_J._Sargent" title="Thomas J. Sargent">
+              Thomas J. Sargent
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Neil_Wallace" title="Neil Wallace">
+              Neil Wallace
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <a href="/wiki/Real_business-cycle_theory" title="Real business-cycle theory">
+           Real business cycle school
+          </a>
+         </th>
+         <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Robert_King_(economist)" title="Robert King (economist)">
+              Robert King
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Finn_E._Kydland" title="Finn E. Kydland">
+              Finn E. Kydland
+             </a>
+            </li>
+            <li>
+             <a class="new" href="/w/index.php?title=John_Long_(economist)&amp;action=edit&amp;redlink=1" title="John Long (economist) (page does not exist)">
+              John Long
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Charles_Plosser" title="Charles Plosser">
+              Charles Plosser
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Edward_C._Prescott" title="Edward C. Prescott">
+              Edward C. Prescott
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/S%C3%A9rgio_Rebelo" title="Sérgio Rebelo">
+              Sérgio Rebelo
+             </a>
+            </li>
+            <li>
+             <a class="new" href="/w/index.php?title=Alan_Stockman&amp;action=edit&amp;redlink=1" title="Alan Stockman (page does not exist)">
+              Alan Stockman
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <div aria-labelledby="Laureates_of_the_Nobel_Memorial_Prize_in_Economic_Sciences" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="3" scope="col">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:Nobel_laureates_in_economics" title="Template:Nobel laureates in economics">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a href="/wiki/Template_talk:Nobel_laureates_in_economics" title="Template talk:Nobel laureates in economics">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Nobel_laureates_in_economics&amp;action=edit">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="Laureates_of_the_Nobel_Memorial_Prize_in_Economic_Sciences" style="font-size:114%;margin:0 4em">
+           <a href="/wiki/List_of_Nobel_Memorial_Prize_laureates_in_Economics" title="List of Nobel Memorial Prize laureates in Economics">
+            Laureates
+           </a>
+           of the
+           <a href="/wiki/Nobel_Memorial_Prize_in_Economic_Sciences" title="Nobel Memorial Prize in Economic Sciences">
+            Nobel Memorial Prize in Economic Sciences
+           </a>
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          1969–1975
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <span style="font-size:90%;">
+              1969
+             </span>
+             <a href="/wiki/Ragnar_Frisch" title="Ragnar Frisch">
+              Ragnar Frisch
+             </a>
+             /
+             <a href="/wiki/Jan_Tinbergen" title="Jan Tinbergen">
+              Jan Tinbergen
+             </a>
+            </li>
+            <li>
+             <span style="font-size:90%;">
+              1970
+             </span>
+             <a href="/wiki/Paul_Samuelson" title="Paul Samuelson">
+              Paul Samuelson
+             </a>
+            </li>
+            <li>
+             <span style="font-size:90%;">
+              1971
+             </span>
+             <a href="/wiki/Simon_Kuznets" title="Simon Kuznets">
+              Simon Kuznets
+             </a>
+            </li>
+            <li>
+             <span style="font-size:90%;">
+              1972
+             </span>
+             <a href="/wiki/John_Hicks" title="John Hicks">
+              John Hicks
+             </a>
+             /
+             <a href="/wiki/Kenneth_Arrow" title="Kenneth Arrow">
+              Kenneth Arrow
+             </a>
+            </li>
+            <li>
+             <span style="font-size:90%;">
+              1973
+             </span>
+             <a href="/wiki/Wassily_Leontief" title="Wassily Leontief">
+              Wassily Leontief
+             </a>
+            </li>
+            <li>
+             <span style="font-size:90%;">
+              1974
+             </span>
+             <a href="/wiki/Gunnar_Myrdal" title="Gunnar Myrdal">
+              Gunnar Myrdal
+             </a>
+             /
+             <a href="/wiki/Friedrich_Hayek" title="Friedrich Hayek">
+              Friedrich Hayek
+             </a>
+            </li>
+            <li>
+             <span style="font-size:90%;">
+              1975
+             </span>
+             <a href="/wiki/Leonid_Kantorovich" title="Leonid Kantorovich">
+              Leonid Kantorovich
+             </a>
+             /
+             <a href="/wiki/Tjalling_Koopmans" title="Tjalling Koopmans">
+              Tjalling Koopmans
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+         <td class="navbox-image" rowspan="3" style="width:1px;padding:0px 0px 0px 2px">
+          <div>
+           <img alt="" data-file-height="492" data-file-width="500" height="79" src="//upload.wikimedia.org/wikipedia/en/thumb/e/ed/Nobel_Prize.png/80px-Nobel_Prize.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/e/ed/Nobel_Prize.png/120px-Nobel_Prize.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/e/ed/Nobel_Prize.png/160px-Nobel_Prize.png 2x" width="80"/>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          1976–2000
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <span style="font-size:90%;">
+              1976
+             </span>
+             <a href="/wiki/Milton_Friedman" title="Milton Friedman">
+              Milton Friedman
+             </a>
+            </li>
+            <li>
+             <span style="font-size:90%;">
+              1977
+             </span>
+             <a href="/wiki/Bertil_Ohlin" title="Bertil Ohlin">
+              Bertil Ohlin
+             </a>
+             /
+             <a href="/wiki/James_Meade" title="James Meade">
+              James Meade
+             </a>
+            </li>
+            <li>
+             <span style="font-size:90%;">
+              1978
+             </span>
+             <a href="/wiki/Herbert_A._Simon" title="Herbert A. Simon">
+              Herbert A. Simon
+             </a>
+            </li>
+            <li>
+             <span style="font-size:90%;">
+              1979
+             </span>
+             <a href="/wiki/Theodore_Schultz" title="Theodore Schultz">
+              Theodore Schultz
+             </a>
+             /
+             <a href="/wiki/W._Arthur_Lewis" title="W. Arthur Lewis">
+              Arthur Lewis
+             </a>
+            </li>
+            <li>
+             <span style="font-size:90%;">
+              1980
+             </span>
+             <a href="/wiki/Lawrence_Klein" title="Lawrence Klein">
+              Lawrence Klein
+             </a>
+            </li>
+            <li>
+             <span style="font-size:90%;">
+              1981
+             </span>
+             <a href="/wiki/James_Tobin" title="James Tobin">
+              James Tobin
+             </a>
+            </li>
+            <li>
+             <span style="font-size:90%;">
+              1982
+             </span>
+             <a href="/wiki/George_Stigler" title="George Stigler">
+              George Stigler
+             </a>
+            </li>
+            <li>
+             <span style="font-size:90%;">
+              1983
+             </span>
+             <a href="/wiki/G%C3%A9rard_Debreu" title="Gérard Debreu">
+              Gérard Debreu
+             </a>
+            </li>
+            <li>
+             <span style="font-size:90%;">
+              1984
+             </span>
+             <a href="/wiki/Richard_Stone" title="Richard Stone">
+              Richard Stone
+             </a>
+            </li>
+            <li>
+             <span style="font-size:90%;">
+              1985
+             </span>
+             <a href="/wiki/Franco_Modigliani" title="Franco Modigliani">
+              Franco Modigliani
+             </a>
+            </li>
+            <li>
+             <span style="font-size:90%;">
+              1986
+             </span>
+             <a href="/wiki/James_M._Buchanan" title="James M. Buchanan">
+              James M. Buchanan
+             </a>
+            </li>
+            <li>
+             <span style="font-size:90%;">
+              1987
+             </span>
+             <a href="/wiki/Robert_Solow" title="Robert Solow">
+              Robert Solow
+             </a>
+            </li>
+            <li>
+             <span style="font-size:90%;">
+              1988
+             </span>
+             <a class="mw-selflink selflink">
+              Maurice Allais
+             </a>
+            </li>
+            <li>
+             <span style="font-size:90%;">
+              1989
+             </span>
+             <a href="/wiki/Trygve_Haavelmo" title="Trygve Haavelmo">
+              Trygve Haavelmo
+             </a>
+            </li>
+            <li>
+             <span style="font-size:90%;">
+              1990
+             </span>
+             <a href="/wiki/Harry_Markowitz" title="Harry Markowitz">
+              Harry Markowitz
+             </a>
+             /
+             <a href="/wiki/Merton_Miller" title="Merton Miller">
+              Merton Miller
+             </a>
+             /
+             <a href="/wiki/William_F._Sharpe" title="William F. Sharpe">
+              William F. Sharpe
+             </a>
+            </li>
+            <li>
+             <span style="font-size:90%;">
+              1991
+             </span>
+             <a href="/wiki/Ronald_Coase" title="Ronald Coase">
+              Ronald Coase
+             </a>
+            </li>
+            <li>
+             <span style="font-size:90%;">
+              1992
+             </span>
+             <a href="/wiki/Gary_Becker" title="Gary Becker">
+              Gary Becker
+             </a>
+            </li>
+            <li>
+             <span style="font-size:90%;">
+              1993
+             </span>
+             <a href="/wiki/Robert_Fogel" title="Robert Fogel">
+              Robert Fogel
+             </a>
+             /
+             <a href="/wiki/Douglass_North" title="Douglass North">
+              Douglass North
+             </a>
+            </li>
+            <li>
+             <span style="font-size:90%;">
+              1994
+             </span>
+             <a href="/wiki/John_Harsanyi" title="John Harsanyi">
+              John Harsanyi
+             </a>
+             /
+             <a href="/wiki/John_Forbes_Nash_Jr." title="John Forbes Nash Jr.">
+              John Forbes Nash Jr.
+             </a>
+             /
+             <a href="/wiki/Reinhard_Selten" title="Reinhard Selten">
+              Reinhard Selten
+             </a>
+            </li>
+            <li>
+             <span style="font-size:90%;">
+              1995
+             </span>
+             <a href="/wiki/Robert_Lucas_Jr." title="Robert Lucas Jr.">
+              Robert Lucas Jr.
+             </a>
+            </li>
+            <li>
+             <span style="font-size:90%;">
+              1996
+             </span>
+             <a href="/wiki/James_Mirrlees" title="James Mirrlees">
+              James Mirrlees
+             </a>
+             /
+             <a href="/wiki/William_Vickrey" title="William Vickrey">
+              William Vickrey
+             </a>
+            </li>
+            <li>
+             <span style="font-size:90%;">
+              1997
+             </span>
+             <a href="/wiki/Robert_C._Merton" title="Robert C. Merton">
+              Robert C. Merton
+             </a>
+             /
+             <a href="/wiki/Myron_Scholes" title="Myron Scholes">
+              Myron Scholes
+             </a>
+            </li>
+            <li>
+             <span style="font-size:90%;">
+              1998
+             </span>
+             <a href="/wiki/Amartya_Sen" title="Amartya Sen">
+              Amartya Sen
+             </a>
+            </li>
+            <li>
+             <span style="font-size:90%;">
+              1999
+             </span>
+             <a href="/wiki/Robert_Mundell" title="Robert Mundell">
+              Robert Mundell
+             </a>
+            </li>
+            <li>
+             <span style="font-size:90%;">
+              2000
+             </span>
+             <a href="/wiki/James_Heckman" title="James Heckman">
+              James Heckman
+             </a>
+             /
+             <a href="/wiki/Daniel_McFadden" title="Daniel McFadden">
+              Daniel McFadden
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          2001–present
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <span style="font-size:90%;">
+              2001
+             </span>
+             <a href="/wiki/George_Akerlof" title="George Akerlof">
+              George Akerlof
+             </a>
+             /
+             <a href="/wiki/Michael_Spence" title="Michael Spence">
+              Michael Spence
+             </a>
+             /
+             <a href="/wiki/Joseph_Stiglitz" title="Joseph Stiglitz">
+              Joseph E. Stiglitz
+             </a>
+            </li>
+            <li>
+             <span style="font-size:90%;">
+              2002
+             </span>
+             <a href="/wiki/Daniel_Kahneman" title="Daniel Kahneman">
+              Daniel Kahneman
+             </a>
+             /
+             <a href="/wiki/Vernon_L._Smith" title="Vernon L. Smith">
+              Vernon L. Smith
+             </a>
+            </li>
+            <li>
+             <span style="font-size:90%;">
+              2003
+             </span>
+             <a href="/wiki/Robert_F._Engle" title="Robert F. Engle">
+              Robert F. Engle
+             </a>
+             /
+             <a href="/wiki/Clive_Granger" title="Clive Granger">
+              Clive Granger
+             </a>
+            </li>
+            <li>
+             <span style="font-size:90%;">
+              2004
+             </span>
+             <a href="/wiki/Finn_E._Kydland" title="Finn E. Kydland">
+              Finn E. Kydland
+             </a>
+             /
+             <a href="/wiki/Edward_C._Prescott" title="Edward C. Prescott">
+              Edward C. Prescott
+             </a>
+            </li>
+            <li>
+             <span style="font-size:90%;">
+              2005
+             </span>
+             <a href="/wiki/Robert_Aumann" title="Robert Aumann">
+              Robert Aumann
+             </a>
+             /
+             <a href="/wiki/Thomas_Schelling" title="Thomas Schelling">
+              Thomas Schelling
+             </a>
+            </li>
+            <li>
+             <span style="font-size:90%;">
+              2006
+             </span>
+             <a href="/wiki/Edmund_Phelps" title="Edmund Phelps">
+              Edmund Phelps
+             </a>
+            </li>
+            <li>
+             <span style="font-size:90%;">
+              2007
+             </span>
+             <a href="/wiki/Leonid_Hurwicz" title="Leonid Hurwicz">
+              Leonid Hurwicz
+             </a>
+             /
+             <a href="/wiki/Eric_Maskin" title="Eric Maskin">
+              Eric Maskin
+             </a>
+             /
+             <a href="/wiki/Roger_Myerson" title="Roger Myerson">
+              Roger Myerson
+             </a>
+            </li>
+            <li>
+             <span style="font-size:90%;">
+              2008
+             </span>
+             <a href="/wiki/Paul_Krugman" title="Paul Krugman">
+              Paul Krugman
+             </a>
+            </li>
+            <li>
+             <span style="font-size:90%;">
+              2009
+             </span>
+             <a href="/wiki/Elinor_Ostrom" title="Elinor Ostrom">
+              Elinor Ostrom
+             </a>
+             /
+             <a href="/wiki/Oliver_E._Williamson" title="Oliver E. Williamson">
+              Oliver E. Williamson
+             </a>
+            </li>
+            <li>
+             <span style="font-size:90%;">
+              2010
+             </span>
+             <a href="/wiki/Peter_Diamond" title="Peter Diamond">
+              Peter A. Diamond
+             </a>
+             /
+             <a href="/wiki/Dale_T._Mortensen" title="Dale T. Mortensen">
+              Dale T. Mortensen
+             </a>
+             /
+             <a href="/wiki/Christopher_A._Pissarides" title="Christopher A. Pissarides">
+              Christopher A. Pissarides
+             </a>
+            </li>
+            <li>
+             <span style="font-size:90%;">
+              2011
+             </span>
+             <a href="/wiki/Thomas_J._Sargent" title="Thomas J. Sargent">
+              Thomas J. Sargent
+             </a>
+             /
+             <a href="/wiki/Christopher_A._Sims" title="Christopher A. Sims">
+              Christopher A. Sims
+             </a>
+            </li>
+            <li>
+             <span style="font-size:90%;">
+              2012
+             </span>
+             <a href="/wiki/Alvin_E._Roth" title="Alvin E. Roth">
+              Alvin E. Roth
+             </a>
+             /
+             <a href="/wiki/Lloyd_Shapley" title="Lloyd Shapley">
+              Lloyd S. Shapley
+             </a>
+            </li>
+            <li>
+             <span style="font-size:90%;">
+              2013
+             </span>
+             <a href="/wiki/Eugene_Fama" title="Eugene Fama">
+              Eugene Fama
+             </a>
+             /
+             <a href="/wiki/Lars_Peter_Hansen" title="Lars Peter Hansen">
+              Lars Peter Hansen
+             </a>
+             /
+             <a href="/wiki/Robert_J._Shiller" title="Robert J. Shiller">
+              Robert J. Shiller
+             </a>
+            </li>
+            <li>
+             <span style="font-size:90%;">
+              2014
+             </span>
+             <a href="/wiki/Jean_Tirole" title="Jean Tirole">
+              Jean Tirole
+             </a>
+            </li>
+            <li>
+             <span style="font-size:90%;">
+              2015
+             </span>
+             <a href="/wiki/Angus_Deaton" title="Angus Deaton">
+              Angus Deaton
+             </a>
+            </li>
+            <li>
+             <span style="font-size:90%;">
+              2016
+             </span>
+             <a href="/wiki/Oliver_Hart_(economist)" title="Oliver Hart (economist)">
+              Oliver Hart
+             </a>
+             /
+             <a href="/wiki/Bengt_Holmstr%C3%B6m" title="Bengt Holmström">
+              Bengt Holmström
+             </a>
+            </li>
+            <li>
+             <span style="font-size:90%;">
+              2017
+             </span>
+             <a href="/wiki/Richard_Thaler" title="Richard Thaler">
+              Richard Thaler
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <div aria-label="Navbox" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <a href="/wiki/Help:Authority_control" title="Help:Authority control">
+           Authority control
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <span class="nowrap">
+              <a class="external text" href="https://www.worldcat.org/identities/containsVIAFID/54143476" rel="nofollow">
+               WorldCat Identities
+              </a>
+             </span>
+            </li>
+            <li>
+             <span class="nowrap">
+              <a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">
+               VIAF
+              </a>
+              :
+              <span class="uid">
+               <a class="external text" href="https://viaf.org/viaf/54143476" rel="nofollow">
+                54143476
+               </a>
+              </span>
+             </span>
+            </li>
+            <li>
+             <span class="nowrap">
+              <a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">
+               LCCN
+              </a>
+              :
+              <span class="uid">
+               <a class="external text" href="http://id.loc.gov/authorities/names/n79081406" rel="nofollow">
+                n79081406
+               </a>
+              </span>
+             </span>
+            </li>
+            <li>
+             <span class="nowrap">
+              <a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">
+               ISNI
+              </a>
+              :
+              <span class="uid">
+               <a class="external text" href="http://isni.org/isni/000000010901858X" rel="nofollow">
+                0000 0001 0901 858X
+               </a>
+              </span>
+             </span>
+            </li>
+            <li>
+             <span class="nowrap">
+              <a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">
+               GND
+              </a>
+              :
+              <span class="uid">
+               <a class="external text" href="https://d-nb.info/gnd/118971859" rel="nofollow">
+                118971859
+               </a>
+              </span>
+             </span>
+            </li>
+            <li>
+             <span class="nowrap">
+              <a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">
+               SUDOC
+              </a>
+              :
+              <span class="uid">
+               <a class="external text" href="https://www.idref.fr/026682265" rel="nofollow">
+                026682265
+               </a>
+              </span>
+             </span>
+            </li>
+            <li>
+             <span class="nowrap">
+              <a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">
+               BNF
+              </a>
+              :
+              <span class="uid">
+               <a class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb11888473k" rel="nofollow">
+                cb11888473k
+               </a>
+               <a class="external text" href="http://data.bnf.fr/ark:/12148/cb11888473k" rel="nofollow">
+                (data)
+               </a>
+              </span>
+             </span>
+            </li>
+            <li>
+             <span class="nowrap">
+              <a class="mw-redirect" href="/wiki/BIBSYS" title="BIBSYS">
+               BIBSYS
+              </a>
+              :
+              <span class="uid">
+               <a class="external text" href="https://authority.bibsys.no/authority/rest/authorities/html/90247150" rel="nofollow">
+                90247150
+               </a>
+              </span>
+             </span>
+            </li>
+            <li>
+             <span class="nowrap">
+              <a href="/wiki/National_Library_of_the_Czech_Republic" title="National Library of the Czech Republic">
+               NKC
+              </a>
+              :
+              <span class="uid">
+               <a class="external text" href="http://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=ola2002113837&amp;CON_LNG=ENG" rel="nofollow">
+                ola2002113837
+               </a>
+              </span>
+             </span>
+            </li>
+            <li>
+             <span class="nowrap">
+              <a href="/wiki/Biblioteca_Nacional_de_Espa%C3%B1a" title="Biblioteca Nacional de España">
+               BNE
+              </a>
+              :
+              <span class="uid">
+               <a class="external text" href="http://catalogo.bne.es/uhtbin/authoritybrowse.cgi?action=display&amp;authority_id=XX909131" rel="nofollow">
+                XX909131
+               </a>
+              </span>
+             </span>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1332
+Cached time: 20180321021730
+Cache expiry: 86400
+Dynamic content: true
+CPU time usage: 0.352 seconds
+Real time usage: 0.460 seconds
+Preprocessor visited node count: 3367/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 64233/2097152 bytes
+Template argument size: 5180/2097152 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 12382/5000000 bytes
+Lua time usage: 0.126/10.000 seconds
+Lua memory usage: 3.99 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  389.657      1 -total
+ 32.13%  125.202      1 Template:Infobox_economist
+ 30.53%  118.970      1 Template:Infobox_person
+ 22.72%   88.545      2 Template:Infobox
+ 16.53%   64.417      1 Template:Reflist
+ 12.00%   46.754      1 Template:Clarify
+ 10.99%   42.817      1 Template:Fix-span
+ 10.11%   39.404      3 Template:Cite_web
+  9.11%   35.504      1 Template:FAG
+  8.49%   33.101      2 Template:Navbox
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:414266-0!canonical and timestamp 20180321021730 and revision id 823220634
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Maurice_Allais&amp;oldid=823220634">
+      https://en.wikipedia.org/w/index.php?title=Maurice_Allais&amp;oldid=823220634
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:%C3%89cole_Polytechnique_alumni" title="Category:École Polytechnique alumni">
+         École Polytechnique alumni
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Mines_ParisTech_alumni" title="Category:Mines ParisTech alumni">
+         Mines ParisTech alumni
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Corps_des_mines" title="Category:Corps des mines">
+         Corps des mines
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Members_of_the_United_States_National_Academy_of_Sciences" title="Category:Members of the United States National Academy of Sciences">
+         Members of the United States National Academy of Sciences
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Members_of_the_Acad%C3%A9mie_des_sciences_morales_et_politiques" title="Category:Members of the Académie des sciences morales et politiques">
+         Members of the Académie des sciences morales et politiques
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Foreign_Members_of_the_Russian_Academy_of_Sciences" title="Category:Foreign Members of the Russian Academy of Sciences">
+         Foreign Members of the Russian Academy of Sciences
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Graduate_Institute_of_International_and_Development_Studies_faculty" title="Category:Graduate Institute of International and Development Studies faculty">
+         Graduate Institute of International and Development Studies faculty
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:French_economists" title="Category:French economists">
+         French economists
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Lyc%C3%A9e_Lakanal_alumni" title="Category:Lycée Lakanal alumni">
+         Lycée Lakanal alumni
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Historians_of_science" title="Category:Historians of science">
+         Historians of science
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:French_physicists" title="Category:French physicists">
+         French physicists
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Nobel_laureates_in_Economics" title="Category:Nobel laureates in Economics">
+         Nobel laureates in Economics
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Fellows_of_the_Econometric_Society" title="Category:Fellows of the Econometric Society">
+         Fellows of the Econometric Society
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:French_Nobel_laureates" title="Category:French Nobel laureates">
+         French Nobel laureates
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Grand_Croix_of_the_L%C3%A9gion_d%27honneur" title="Category:Grand Croix of the Légion d'honneur">
+         Grand Croix of the Légion d'honneur
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:1911_births" title="Category:1911 births">
+         1911 births
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:2010_deaths" title="Category:2010 deaths">
+         2010 deaths
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">
+         Webarchive template wayback links
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">
+         Articles with hCards
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_August_2017" title="Category:Wikipedia articles needing clarification from August 2017">
+         Wikipedia articles needing clarification from August 2017
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Find_a_Grave_template_with_ID_same_as_Wikidata" title="Category:Find a Grave template with ID same as Wikidata">
+         Find a Grave template with ID same as Wikidata
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Interlanguage_link_template_link_number" title="Category:Interlanguage link template link number">
+         Interlanguage link template link number
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">
+         Wikipedia articles with VIAF identifiers
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">
+         Wikipedia articles with LCCN identifiers
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">
+         Wikipedia articles with ISNI identifiers
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">
+         Wikipedia articles with GND identifiers
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">
+         Wikipedia articles with BNF identifiers
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_with_BIBSYS_identifiers" title="Category:Wikipedia articles with BIBSYS identifiers">
+         Wikipedia articles with BIBSYS identifiers
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Maurice+Allais" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Maurice+Allais" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Maurice_Allais" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Maurice_Allais" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Maurice_Allais">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Maurice_Allais&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Maurice_Allais&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Maurice_Allais" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Maurice_Allais" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Maurice_Allais&amp;oldid=823220634" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Maurice_Allais&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q105962" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Maurice_Allais&amp;id=823220634" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Maurice+Allais">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Maurice+Allais&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Maurice_Allais&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Category:Maurice_Allais" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikiquote">
+        <a href="https://en.wikiquote.org/wiki/Maurice_Allais" hreflang="en">
+         Wikiquote
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%85%D9%88%D8%B1%D9%8A%D8%B3_%D8%A2%D9%84%D9%8A%D8%A7%D8%B3" hreflang="ar" lang="ar" title="موريس آلياس – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-an">
+        <a class="interlanguage-link-target" href="https://an.wikipedia.org/wiki/Maurice_Allais" hreflang="an" lang="an" title="Maurice Allais – Aragonese">
+         Aragonés
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-az">
+        <a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/Moris_Allays" hreflang="az" lang="az" title="Moris Allays – Azerbaijani">
+         Azərbaycanca
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be">
+        <a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D1%8B%D1%81_%D0%90%D0%BB%D0%B5" hreflang="be" lang="be" title="Марыс Але – Belarusian">
+         Беларуская
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bg">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%9C%D0%BE%D1%80%D0%B8%D1%81_%D0%90%D0%BB%D0%B5" hreflang="bg" lang="bg" title="Морис Але – Bulgarian">
+         Български
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Maurice_Allais" hreflang="ca" lang="ca" title="Maurice Allais – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Maurice_Allais" hreflang="cs" lang="cs" title="Maurice Allais – Czech">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Maurice_Allais" hreflang="da" lang="da" title="Maurice Allais – Danish">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Maurice_Allais" hreflang="de" lang="de" title="Maurice Allais – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-et">
+        <a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Maurice_Allais" hreflang="et" lang="et" title="Maurice Allais – Estonian">
+         Eesti
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Maurice_Allais" hreflang="es" lang="es" title="Maurice Allais – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eo">
+        <a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Maurice_Allais" hreflang="eo" lang="eo" title="Maurice Allais – Esperanto">
+         Esperanto
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eu">
+        <a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Maurice_Allais" hreflang="eu" lang="eu" title="Maurice Allais – Basque">
+         Euskara
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%85%D9%88%D8%B1%DB%8C%D8%B3_%D8%A7%D9%84%D9%87" hreflang="fa" lang="fa" title="موریس اله – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Maurice_Allais" hreflang="fr" lang="fr" title="Maurice Allais – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gd">
+        <a class="interlanguage-link-target" href="https://gd.wikipedia.org/wiki/Maurice_Allais" hreflang="gd" lang="gd" title="Maurice Allais – Scottish Gaelic">
+         Gàidhlig
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EB%AA%A8%EB%A6%AC%EC%8A%A4_%EC%95%8C%EB%A0%88" hreflang="ko" lang="ko" title="모리스 알레 – Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hy">
+        <a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D5%84%D5%B8%D6%80%D5%AB%D5%BD_%D4%B1%D5%AC%D5%AC%D5%A5" hreflang="hy" lang="hy" title="Մորիս Ալլե – Armenian">
+         Հայերեն
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hr">
+        <a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Maurice_Allais" hreflang="hr" lang="hr" title="Maurice Allais – Croatian">
+         Hrvatski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-io">
+        <a class="interlanguage-link-target" href="https://io.wikipedia.org/wiki/Maurice_Allais" hreflang="io" lang="io" title="Maurice Allais – Ido">
+         Ido
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Maurice_Allais" hreflang="id" lang="id" title="Maurice Allais – Indonesian">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-is">
+        <a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/Maurice_Allais" hreflang="is" lang="is" title="Maurice Allais – Icelandic">
+         Íslenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Maurice_Allais" hreflang="it" lang="it" title="Maurice Allais – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he">
+        <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%9E%D7%95%D7%A8%D7%99%D7%A1_%D7%90%D7%9C%D7%94" hreflang="he" lang="he" title="מוריס אלה – Hebrew">
+         עברית
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-jv">
+        <a class="interlanguage-link-target" href="https://jv.wikipedia.org/wiki/Maurice_F%C3%A9lix_Charles_Allais" hreflang="jv" lang="jv" title="Maurice Félix Charles Allais – Javanese">
+         Basa Jawa
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-la">
+        <a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/Mauritius_Allais" hreflang="la" lang="la" title="Mauritius Allais – Latin">
+         Latina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hu">
+        <a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Maurice_Allais" hreflang="hu" lang="hu" title="Maurice Allais – Hungarian">
+         Magyar
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mk">
+        <a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%9C%D0%BE%D1%80%D0%B8%D1%81_%D0%90%D0%BB%D0%B5" hreflang="mk" lang="mk" title="Морис Але – Macedonian">
+         Македонски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mg">
+        <a class="interlanguage-link-target" href="https://mg.wikipedia.org/wiki/Maurice_Allais" hreflang="mg" lang="mg" title="Maurice Allais – Malagasy">
+         Malagasy
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Maurice_Allais" hreflang="nl" lang="nl" title="Maurice Allais – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%BC%E3%83%AA%E3%82%B9%E3%83%BB%E3%82%A2%E3%83%AC" hreflang="ja" lang="ja" title="モーリス・アレ – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Maurice_Allais" hreflang="no" lang="no" title="Maurice Allais – Norwegian">
+         Norsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-oc">
+        <a class="interlanguage-link-target" href="https://oc.wikipedia.org/wiki/Maurice_Allais" hreflang="oc" lang="oc" title="Maurice Allais – Occitan">
+         Occitan
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uz">
+        <a class="interlanguage-link-target" href="https://uz.wikipedia.org/wiki/Alle_Moris" hreflang="uz" lang="uz" title="Alle Moris – Uzbek">
+         Oʻzbekcha/ўзбекча
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pnb">
+        <a class="interlanguage-link-target" href="https://pnb.wikipedia.org/wiki/%D9%85%D8%A7%D8%B1%DB%8C%D8%B3_%D8%A7%DB%8C%D9%84%DB%8C%D8%B3" hreflang="pnb" lang="pnb" title="ماریس ایلیس – Western Punjabi">
+         پنجابی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nds">
+        <a class="interlanguage-link-target" href="https://nds.wikipedia.org/wiki/Maurice_Allais" hreflang="nds" lang="nds" title="Maurice Allais – Low German">
+         Plattdüütsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Maurice_Allais" hreflang="pl" lang="pl" title="Maurice Allais – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Maurice_Allais" hreflang="pt" lang="pt" title="Maurice Allais – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ro">
+        <a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Maurice_Allais" hreflang="ro" lang="ro" title="Maurice Allais – Romanian">
+         Română
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%BB%D0%B5,_%D0%9C%D0%BE%D1%80%D0%B8%D1%81" hreflang="ru" lang="ru" title="Алле, Морис – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sk">
+        <a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Maurice_Allais" hreflang="sk" lang="sk" title="Maurice Allais – Slovak">
+         Slovenčina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Maurice_Allais" hreflang="fi" lang="fi" title="Maurice Allais – Finnish">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Maurice_Allais" hreflang="sv" lang="sv" title="Maurice Allais – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tr">
+        <a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Maurice_Allais" hreflang="tr" lang="tr" title="Maurice Allais – Turkish">
+         Türkçe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9C%D0%BE%D1%80%D1%96%D1%81_%D0%90%D0%BB%D0%BB%D0%B5" hreflang="uk" lang="uk" title="Моріс Алле – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ur">
+        <a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%D9%85%D8%A7%D9%88%D8%B1%D8%B3_%D8%A2%D9%84%DB%8C%D8%B3" hreflang="ur" lang="ur" title="ماورس آلیس – Urdu">
+         اردو
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vi">
+        <a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Maurice_Allais" hreflang="vi" lang="vi" title="Maurice Allais – Vietnamese">
+         Tiếng Việt
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-yo">
+        <a class="interlanguage-link-target" href="https://yo.wikipedia.org/wiki/Maurice_Allais" hreflang="yo" lang="yo" title="Maurice Allais – Yoruba">
+         Yorùbá
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E8%8E%AB%E9%87%8C%E6%96%AF%C2%B7%E9%98%BF%E8%8E%B1" hreflang="zh" lang="zh" title="莫里斯·阿莱 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q105962#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 30 January 2018, at 23:31.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Maurice_Allais&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.352","walltime":"0.460","ppvisitednodes":{"value":3367,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":64233,"limit":2097152},"templateargumentsize":{"value":5180,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":12382,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  389.657      1 -total"," 32.13%  125.202      1 Template:Infobox_economist"," 30.53%  118.970      1 Template:Infobox_person"," 22.72%   88.545      2 Template:Infobox"," 16.53%   64.417      1 Template:Reflist"," 12.00%   46.754      1 Template:Clarify"," 10.99%   42.817      1 Template:Fix-span"," 10.11%   39.404      3 Template:Cite_web","  9.11%   35.504      1 Template:FAG","  8.49%   33.101      2 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.126","limit":"10.000"},"limitreport-memusage":{"value":4181212,"limit":52428800}},"cachereport":{"origin":"mw1332","timestamp":"20180321021730","ttl":86400,"transientcontent":true}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":548,"wgHostname":"mw1332"});});
+  </script>
+ </body>
+</html>

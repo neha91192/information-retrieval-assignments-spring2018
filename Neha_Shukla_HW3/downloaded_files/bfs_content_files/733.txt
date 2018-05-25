@@ -1,0 +1,1834 @@
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Topography of the Moon - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Topography_of_the_Moon","wgTitle":"Topography of the Moon","wgCurRevisionId":823772081,"wgRevisionId":823772081,"wgArticleId":8955468,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from June 2017","All articles needing additional references","Pages using multiple image with manual scaled images","Lunar science","Topography","Geodesy"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Topography_of_the_Moon","wgRelevantArticleId":8955468,"wgRequestId":"WrPIZApAAD4AACUXxn0AAADS","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q1029368","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.25" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/b/b0/MoonTopoLOLA.png" property="og:image"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Topography_of_the_Moon" rel="alternate"/>
+  <link href="/w/index.php?title=Topography_of_the_Moon&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Topography_of_the_Moon&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Topography_of_the_Moon" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Topography_of_the_Moon rootpage-Topography_of_the_Moon skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Topography of the Moon
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <table class="plainlinks metadata ambox ambox-content ambox-one_source" role="presentation">
+       <tr>
+        <td class="mbox-image">
+         <div style="width:52px">
+          <a class="image" href="/wiki/File:Question_book-new.svg">
+           <img alt="Question book-new.svg" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/>
+          </a>
+         </div>
+        </td>
+        <td class="mbox-text">
+         <div class="mbox-text-span">
+          This article
+          <b>
+           relies largely or entirely on a single
+           <a href="/wiki/Wikipedia:Identifying_reliable_sources" title="Wikipedia:Identifying reliable sources">
+            source
+           </a>
+          </b>
+          .
+          <span class="hide-when-compact">
+           Relevant discussion may be found on the
+           <a href="/wiki/Talk:Topography_of_the_Moon##" title="Talk:Topography of the Moon">
+            talk page
+           </a>
+           . Please help
+           <a class="external text" href="//en.wikipedia.org/w/index.php?title=Topography_of_the_Moon&amp;action=edit">
+            improve this article
+           </a>
+           by introducing
+           <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">
+            citations
+           </a>
+           to additional sources.
+          </span>
+          <small>
+           <i>
+            (June 2017)
+           </i>
+          </small>
+         </div>
+        </td>
+       </tr>
+      </table>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:347px;">
+        <a class="image" href="/wiki/File:MoonTopoLOLA.png">
+         <img alt="Topography of the Moon measured from the Lunar Orbiter Laser Altimeter on the mission Lunar Reconnaissance Orbiter, referenced to a sphere of radius 1737.4 km" class="thumbimage" data-file-height="551" data-file-width="800" height="238" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/MoonTopoLOLA.png/345px-MoonTopoLOLA.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/MoonTopoLOLA.png/518px-MoonTopoLOLA.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/MoonTopoLOLA.png/690px-MoonTopoLOLA.png 2x" width="345"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:MoonTopoLOLA.png" title="Enlarge">
+          </a>
+         </div>
+         Topography of the Moon.
+        </div>
+       </div>
+      </div>
+      <p>
+       The
+       <b>
+        <a href="/wiki/Topography" title="Topography">
+         topography
+        </a>
+        of the
+        <a href="/wiki/Moon" title="Moon">
+         Moon
+        </a>
+       </b>
+       has been measured by the methods of laser altimetry and stereo image analysis, most recently from data obtained during the
+       <a class="mw-redirect" href="/wiki/Clementine_mission" title="Clementine mission">
+        Clementine mission
+       </a>
+       . The most visible topographic feature is the giant far side
+       <a class="mw-redirect" href="/wiki/South_Pole-Aitken_basin" title="South Pole-Aitken basin">
+        South Pole-Aitken basin
+       </a>
+       , which possesses the lowest
+       <a href="/wiki/Elevation" title="Elevation">
+        elevations
+       </a>
+       of the Moon. The highest elevations are found just to the north-east of this basin, and it has been suggested that this area might represent thick
+       <a href="/wiki/Ejecta" title="Ejecta">
+        ejecta
+       </a>
+       deposits that were emplaced during an oblique South Pole-Aitken basin impact event. Other large impact basins, such as the
+       <a href="/wiki/Lunar_mare" title="Lunar mare">
+        maria
+       </a>
+       <a href="/wiki/Mare_Imbrium" title="Mare Imbrium">
+        Imbrium
+       </a>
+       ,
+       <a href="/wiki/Mare_Serenitatis" title="Mare Serenitatis">
+        Serenitatis
+       </a>
+       ,
+       <a href="/wiki/Mare_Crisium" title="Mare Crisium">
+        Crisium
+       </a>
+       ,
+       <a href="/wiki/Mare_Smythii" title="Mare Smythii">
+        Smythii
+       </a>
+       , and
+       <a href="/wiki/Mare_Orientale" title="Mare Orientale">
+        Orientale
+       </a>
+       , also possess regionally low elevations and elevated
+       <a href="/wiki/Rim_(craters)" title="Rim (craters)">
+        rims
+       </a>
+       .
+      </p>
+      <p>
+       Another distinguishing feature of the Moon's shape is that the elevations are on average about 1.9
+       <a href="/wiki/Kilometre" title="Kilometre">
+        km
+       </a>
+       higher on the far side than the near side. If it is assumed that the
+       <a href="/wiki/Crust_(geology)" title="Crust (geology)">
+        crust
+       </a>
+       is in
+       <a href="/wiki/Isostasy" title="Isostasy">
+        isostatic equilibrium
+       </a>
+       , and that the density of the crust is everywhere the same, then the higher elevations would be associated with a thicker crust. Using gravity, topography and
+       <a href="/wiki/Seismology" title="Seismology">
+        seismic
+       </a>
+       data, the crust is thought to be on average about
+       <span class="nowrap">
+        50 ± 15 km
+       </span>
+       thick, with the far-side crust being on average thicker than the near side by about 15 km.
+       <sup class="reference" id="cite_ref-W06_1-0">
+        <a href="#cite_note-W06-1">
+         [1]
+        </a>
+       </sup>
+      </p>
+      <div class="thumb tmulti tnone center">
+       <div class="thumbinner" style="width:592px;max-width:592px">
+        <div style="clear:both;font-weight:bold;text-align:center;background-color:transparent">
+         <a href="/wiki/Moon" title="Moon">
+          The Moon
+         </a>
+        </div>
+        <div class="tsingle" style="float:left;margin:1px;width:146px;max-width:146px">
+         <div class="thumbimage" style="height:144px;overflow:hidden">
+          <a class="image" href="/wiki/File:LRO_WAC_Nearside_Mosaic.jpg">
+           <img alt="" data-file-height="18000" data-file-width="18000" height="144" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/LRO_WAC_Nearside_Mosaic.jpg/144px-LRO_WAC_Nearside_Mosaic.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/LRO_WAC_Nearside_Mosaic.jpg/216px-LRO_WAC_Nearside_Mosaic.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cc/LRO_WAC_Nearside_Mosaic.jpg/288px-LRO_WAC_Nearside_Mosaic.jpg 2x" width="144"/>
+          </a>
+         </div>
+         <div class="thumbcaption" style="clear:left">
+          <a href="/wiki/Near_side_of_the_Moon" title="Near side of the Moon">
+           Lunar near side
+          </a>
+         </div>
+        </div>
+        <div class="tsingle" style="float:left;margin:1px;width:146px;max-width:146px">
+         <div class="thumbimage" style="height:144px;overflow:hidden">
+          <a class="image" href="/wiki/File:Moon_Farside_LRO.jpg">
+           <img alt="" data-file-height="18000" data-file-width="18000" height="144" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Moon_Farside_LRO.jpg/144px-Moon_Farside_LRO.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Moon_Farside_LRO.jpg/216px-Moon_Farside_LRO.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/04/Moon_Farside_LRO.jpg/288px-Moon_Farside_LRO.jpg 2x" width="144"/>
+          </a>
+         </div>
+         <div class="thumbcaption" style="clear:left">
+          <a href="/wiki/Far_side_of_the_Moon" title="Far side of the Moon">
+           Lunar far side
+          </a>
+         </div>
+        </div>
+        <div class="tsingle" style="float:left;margin:1px;width:146px;max-width:146px">
+         <div class="thumbimage" style="height:144px;overflow:hidden">
+          <a class="image" href="/wiki/File:LRO_WAC_North_Pole_Mosaic_(PIA14024).jpg">
+           <img alt="" data-file-height="18622" data-file-width="18622" height="144" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/LRO_WAC_North_Pole_Mosaic_%28PIA14024%29.jpg/144px-LRO_WAC_North_Pole_Mosaic_%28PIA14024%29.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/LRO_WAC_North_Pole_Mosaic_%28PIA14024%29.jpg/216px-LRO_WAC_North_Pole_Mosaic_%28PIA14024%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/86/LRO_WAC_North_Pole_Mosaic_%28PIA14024%29.jpg/288px-LRO_WAC_North_Pole_Mosaic_%28PIA14024%29.jpg 2x" width="144"/>
+          </a>
+         </div>
+         <div class="thumbcaption" style="clear:left">
+          <a href="/wiki/Lunar_north_pole" title="Lunar north pole">
+           Lunar north pole
+          </a>
+         </div>
+        </div>
+        <div class="tsingle" style="float:left;margin:1px;width:146px;max-width:146px">
+         <div class="thumbimage" style="height:144px;overflow:hidden">
+          <a class="image" href="/wiki/File:LRO_WAC_South_Pole_Mosaic.jpg">
+           <img alt="" data-file-height="6082" data-file-width="6082" height="144" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/LRO_WAC_South_Pole_Mosaic.jpg/144px-LRO_WAC_South_Pole_Mosaic.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/LRO_WAC_South_Pole_Mosaic.jpg/216px-LRO_WAC_South_Pole_Mosaic.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/40/LRO_WAC_South_Pole_Mosaic.jpg/288px-LRO_WAC_South_Pole_Mosaic.jpg 2x" width="144"/>
+          </a>
+         </div>
+         <div class="thumbcaption" style="clear:left">
+          <a href="/wiki/Lunar_south_pole" title="Lunar south pole">
+           Lunar south pole
+          </a>
+         </div>
+        </div>
+        <div style="clear:left">
+        </div>
+       </div>
+      </div>
+      <div class="thumb tmulti tnone center">
+       <div class="thumbinner" style="width:591px;max-width:591px">
+        <div style="clear:both;font-weight:bold;text-align:center;background-color:transparent">
+         Moon –
+         <a href="/wiki/Oceanus_Procellarum" title="Oceanus Procellarum">
+          Oceanus Procellarum
+         </a>
+         ("Ocean of Storms")
+        </div>
+        <div class="tsingle" style="float:left;margin:1px;width:291px;max-width:291px">
+         <div class="thumbimage" style="height:107px;overflow:hidden">
+          <a class="image" href="/wiki/File:14-236-LunarGrailMission-OceanusProcellarum-Rifts-Overall-20141001.jpg">
+           <img alt="" data-file-height="228" data-file-width="614" height="107" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/14-236-LunarGrailMission-OceanusProcellarum-Rifts-Overall-20141001.jpg/289px-14-236-LunarGrailMission-OceanusProcellarum-Rifts-Overall-20141001.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/14-236-LunarGrailMission-OceanusProcellarum-Rifts-Overall-20141001.jpg/434px-14-236-LunarGrailMission-OceanusProcellarum-Rifts-Overall-20141001.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/14-236-LunarGrailMission-OceanusProcellarum-Rifts-Overall-20141001.jpg/578px-14-236-LunarGrailMission-OceanusProcellarum-Rifts-Overall-20141001.jpg 2x" width="289"/>
+          </a>
+         </div>
+         <div class="thumbcaption" style="clear:left">
+          Ancient
+          <a href="/wiki/Rift_valley" title="Rift valley">
+           rift valleys
+          </a>
+          – rectangular structure (visible – topography –
+          <a class="mw-redirect" href="/wiki/Gravity_Recovery_and_Interior_Laboratory" title="Gravity Recovery and Interior Laboratory">
+           GRAIL gravity gradients
+          </a>
+          ) (October 1, 2014).
+         </div>
+        </div>
+        <div class="tsingle" style="float:left;margin:1px;width:109px;max-width:109px">
+         <div class="thumbimage" style="height:107px;overflow:hidden">
+          <a class="image" href="/wiki/File:PIA18822-LunarGrailMission-OceanusProcellarum-Rifts-Overall-20141001.jpg">
+           <img alt="" data-file-height="1500" data-file-width="1500" height="107" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/PIA18822-LunarGrailMission-OceanusProcellarum-Rifts-Overall-20141001.jpg/107px-PIA18822-LunarGrailMission-OceanusProcellarum-Rifts-Overall-20141001.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/PIA18822-LunarGrailMission-OceanusProcellarum-Rifts-Overall-20141001.jpg/161px-PIA18822-LunarGrailMission-OceanusProcellarum-Rifts-Overall-20141001.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8c/PIA18822-LunarGrailMission-OceanusProcellarum-Rifts-Overall-20141001.jpg/214px-PIA18822-LunarGrailMission-OceanusProcellarum-Rifts-Overall-20141001.jpg 2x" width="107"/>
+          </a>
+         </div>
+         <div class="thumbcaption" style="clear:left">
+          Ancient
+          <a href="/wiki/Rift_valley" title="Rift valley">
+           rift valleys
+          </a>
+          – context.
+         </div>
+        </div>
+        <div class="tsingle" style="float:left;margin:1px;width:185px;max-width:185px">
+         <div class="thumbimage" style="height:107px;overflow:hidden">
+          <a class="image" href="/wiki/File:PIA18821-LunarGrailMission-OceanusProcellarum-Rifts-Closeup-20141001.jpg">
+           <img alt="" data-file-height="905" data-file-width="1546" height="107" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/PIA18821-LunarGrailMission-OceanusProcellarum-Rifts-Closeup-20141001.jpg/183px-PIA18821-LunarGrailMission-OceanusProcellarum-Rifts-Closeup-20141001.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/PIA18821-LunarGrailMission-OceanusProcellarum-Rifts-Closeup-20141001.jpg/275px-PIA18821-LunarGrailMission-OceanusProcellarum-Rifts-Closeup-20141001.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/67/PIA18821-LunarGrailMission-OceanusProcellarum-Rifts-Closeup-20141001.jpg/366px-PIA18821-LunarGrailMission-OceanusProcellarum-Rifts-Closeup-20141001.jpg 2x" width="183"/>
+          </a>
+         </div>
+         <div class="thumbcaption" style="clear:left">
+          Ancient
+          <a href="/wiki/Rift_valley" title="Rift valley">
+           rift valleys
+          </a>
+          – closeup (artist's concept).
+         </div>
+        </div>
+        <div style="clear:left">
+        </div>
+       </div>
+      </div>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Topography_of_the_Moon&amp;action=edit&amp;section=1" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+       <ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+        <li style="display:table-row">
+         <span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center">
+          <a class="image" href="/wiki/File:Moon-Mdf-2005.jpg">
+           <img alt="icon" class="noviewer" data-file-height="1024" data-file-width="1024" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Moon-Mdf-2005.jpg/28px-Moon-Mdf-2005.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Moon-Mdf-2005.jpg/42px-Moon-Mdf-2005.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Moon-Mdf-2005.jpg/56px-Moon-Mdf-2005.jpg 2x" width="28"/>
+          </a>
+         </span>
+         <span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle">
+          <a href="/wiki/Portal:Moon" title="Portal:Moon">
+           Moon portal
+          </a>
+         </span>
+        </li>
+       </ul>
+      </div>
+      <ul>
+       <li>
+        <a href="/wiki/Gravitation_of_the_Moon" title="Gravitation of the Moon">
+         Gravitation of the Moon
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Topography_of_the_Moon&amp;action=edit&amp;section=2" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist" style="list-style-type: decimal;">
+       <div class="mw-references-wrap">
+        <ol class="references">
+         <li id="cite_note-W06-1">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-W06_1-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Mark Wieczorek, M. A.; et al. (2006). "The constitution and structure of the lunar interior".
+            <i>
+             Reviews in Mineralogy and Geochemistry
+            </i>
+            .
+            <b>
+             60
+            </b>
+            : 221–364.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/2006RvMG...60..221W" rel="nofollow">
+             2006RvMG...60..221W
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.2138%2Frmg.2006.60.3" rel="nofollow">
+             10.2138/rmg.2006.60.3
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Reviews+in+Mineralogy+and+Geochemistry&amp;rft.atitle=The+constitution+and+structure+of+the+lunar+interior&amp;rft.volume=60&amp;rft.pages=221-364&amp;rft.date=2006&amp;rft_id=info%3Adoi%2F10.2138%2Frmg.2006.60.3&amp;rft_id=info%3Abibcode%2F2006RvMG...60..221W&amp;rft.aulast=Mark+Wieczorek&amp;rft.aufirst=M.+A.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATopography+of+the+Moon">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <div aria-labelledby="The_Moon" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="3" scope="col" style="text-align: center;">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:The_Moon" title="Template:The Moon">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a href="/wiki/Template_talk:The_Moon" title="Template talk:The Moon">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:The_Moon&amp;action=edit">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="The_Moon" style="font-size:114%;margin:0 4em">
+           The
+           <a href="/wiki/Moon" title="Moon">
+            Moon
+           </a>
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          Physical
+          <br/>
+          properties
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Internal_structure_of_the_Moon" title="Internal structure of the Moon">
+              Internal structure
+             </a>
+            </li>
+            <li>
+             <a class="mw-selflink selflink">
+              Topography
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Atmosphere_of_the_Moon" title="Atmosphere of the Moon">
+              Atmosphere
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Gravitation_of_the_Moon" title="Gravitation of the Moon">
+              Gravity field
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Hill_sphere" title="Hill sphere">
+                Hill sphere
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Magnetic_field_of_the_Moon" title="Magnetic field of the Moon">
+              Magnetic field
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Sodium_tail_of_the_Moon" title="Sodium tail of the Moon">
+              Sodium tail
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Moonlight" title="Moonlight">
+              Moonlight
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Earthlight_(astronomy)" title="Earthlight (astronomy)">
+                Earthshine
+               </a>
+              </li>
+             </ul>
+            </li>
+           </ul>
+          </div>
+         </td>
+         <td class="navbox-image" rowspan="8" style="width:1px;padding:0px 0px 0px 2px">
+          <div>
+           <a class="image" href="/wiki/File:FullMoon2010.jpg" title="A full moon">
+            <img alt="A full moon" data-file-height="2452" data-file-width="2580" height="114" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/FullMoon2010.jpg/120px-FullMoon2010.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/FullMoon2010.jpg/180px-FullMoon2010.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e1/FullMoon2010.jpg/240px-FullMoon2010.jpg 2x" width="120"/>
+           </a>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Orbit_of_the_Moon" title="Orbit of the Moon">
+           Orbit
+          </a>
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Orbital_elements" title="Orbital elements">
+              Orbital elements
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_distance_(astronomy)" title="Lunar distance (astronomy)">
+                Distance
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Apsis" title="Apsis">
+                  Perigee &amp; apogee
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li>
+               <a href="/wiki/Lunar_node" title="Lunar node">
+                Nodes
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Nodal_period" title="Nodal period">
+                  Nodal period
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li>
+               <a href="/wiki/Lunar_precession" title="Lunar precession">
+                Precession
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Syzygy_(astronomy)" title="Syzygy (astronomy)">
+              Syzygy
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/New_moon" title="New moon">
+                New moon
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Full_moon" title="Full moon">
+                Full moon
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Eclipse" title="Eclipse">
+                Eclipses
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Lunar_eclipse" title="Lunar eclipse">
+                  Lunar eclipse
+                 </a>
+                 <ul>
+                  <li>
+                   <a href="/wiki/Total_penumbral_lunar_eclipse" title="Total penumbral lunar eclipse">
+                    Total penumbral lunar eclipse
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Tetrad_(astronomy)" title="Tetrad (astronomy)">
+                    Tetrad
+                   </a>
+                  </li>
+                 </ul>
+                </li>
+                <li>
+                 <a href="/wiki/Solar_eclipse" title="Solar eclipse">
+                  Solar eclipse
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Solar_eclipses_on_the_Moon" title="Solar eclipses on the Moon">
+                  Solar eclipses on the Moon
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Eclipse_cycle" title="Eclipse cycle">
+                  Eclipse cycle
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li>
+               <a href="/wiki/Supermoon" title="Supermoon">
+                Supermoon
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Tide" title="Tide">
+              Tide
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Tidal_force" title="Tidal force">
+                Tidal force
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Tidal_locking" title="Tidal locking">
+                Tidal locking
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Tidal_acceleration" title="Tidal acceleration">
+                Tidal acceleration
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Tidal_range" title="Tidal range">
+                Tidal range
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_mansion" title="Lunar mansion">
+              Lunar mansion
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          Surface &amp;
+          <br/>
+          <a href="/wiki/List_of_lunar_features" title="List of lunar features">
+           features
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Selenography" title="Selenography">
+              Selenography
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Lunar_terminator" title="Lunar terminator">
+              Terminator
+             </a>
+            </li>
+            <li>
+             Hemispheres
+             <ul>
+              <li>
+               <a href="/wiki/Near_side_of_the_Moon" title="Near side of the Moon">
+                Near side
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Far_side_of_the_Moon" title="Far side of the Moon">
+                Far side
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             Poles
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_north_pole" title="Lunar north pole">
+                North pole
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Lunar_south_pole" title="Lunar south pole">
+                South pole
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Face_on_Moon_South_Pole" title="Face on Moon South Pole">
+                  Face
+                 </a>
+                </li>
+               </ul>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_mare" title="Lunar mare">
+              Maria
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/List_of_maria_on_the_Moon" title="List of maria on the Moon">
+                List
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/List_of_mountains_on_the_Moon" title="List of mountains on the Moon">
+              Mountains
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Peak_of_eternal_light" title="Peak of eternal light">
+                Peak of eternal light
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/List_of_valleys_on_the_Moon" title="List of valleys on the Moon">
+              Valleys
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Moon#Volcanic_features" title="Moon">
+              Volcanic features
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_dome" title="Lunar dome">
+                Domes
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Caldera#The_Moon" title="Caldera">
+                Calderas
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Lunar_crater" title="Lunar crater">
+              Craters
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/List_of_craters_on_the_Moon" title="List of craters on the Moon">
+                List
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Ray_system#Lunar_rays" title="Ray system">
+                Ray systems
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Crater_of_eternal_darkness" title="Crater of eternal darkness">
+                Crater of eternal darkness
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Shackleton_(crater)" title="Shackleton (crater)">
+                Shackleton crater
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/South_Pole%E2%80%93Aitken_basin" title="South Pole–Aitken basin">
+                South Pole–Aitken basin
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_soil" title="Lunar soil">
+              Soil
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_swirls" title="Lunar swirls">
+                Swirls
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Rille" title="Rille">
+              Rilles
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Wrinkle_ridge" title="Wrinkle ridge">
+              Wrinkle ridges
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Moon_rock" title="Moon rock">
+              Rocks
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_basalt_70017" title="Lunar basalt 70017">
+                Lunar basalt 70017
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_water" title="Lunar water">
+              Water
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Space_weathering" title="Space weathering">
+              Space weathering
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Micrometeorite" title="Micrometeorite">
+                Micrometeorite
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Sputtering" title="Sputtering">
+                Sputtering
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Quake_(natural_phenomenon)#Moonquake" title="Quake (natural phenomenon)">
+              Quakes
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Transient_lunar_phenomenon" title="Transient lunar phenomenon">
+              Transient lunar phenomenon
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          Science
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Lunar_observation" title="Lunar observation">
+              Observation
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Libration#Lunar_libration" title="Libration">
+              Libration
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_theory" title="Lunar theory">
+              Lunar theory
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Origin_of_the_Moon" title="Origin of the Moon">
+              Origin
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Giant-impact_hypothesis" title="Giant-impact hypothesis">
+                Giant-impact hypothesis
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Theia_(planet)" title="Theia (planet)">
+                  Theia
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Lunar_magma_ocean" title="Lunar magma ocean">
+                  Lunar magma ocean
+                 </a>
+                </li>
+               </ul>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Geology_of_the_Moon" title="Geology of the Moon">
+              Geology
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_geologic_timescale" title="Lunar geologic timescale">
+                Timescale
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Late_Heavy_Bombardment" title="Late Heavy Bombardment">
+                  Late Heavy Bombardment
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li>
+               <a href="/wiki/Lunar_meteorite" title="Lunar meteorite">
+                Lunar meteorites
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/KREEP" title="KREEP">
+                KREEP
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             Experiments
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_Laser_Ranging_experiment" title="Lunar Laser Ranging experiment">
+                Lunar laser ranging
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Apollo_Lunar_Surface_Experiments_Package" title="Apollo Lunar Surface Experiments Package">
+                ALSEP
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_sample_displays" title="Lunar sample displays">
+              Lunar sample displays
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Apollo_11_lunar_sample_display" title="Apollo 11 lunar sample display">
+                Apollo 11
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Apollo_17_lunar_sample_display" title="Apollo 17 lunar sample display">
+                Apollo 17
+               </a>
+              </li>
+             </ul>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Exploration_of_the_Moon" title="Exploration of the Moon">
+           Exploration
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/List_of_missions_to_the_Moon" title="List of missions to the Moon">
+              Missions
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Apollo_program" title="Apollo program">
+                Apollo program
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/List_of_lunar_probes" title="List of lunar probes">
+              Probes
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Moon_landing" title="Moon landing">
+              Landing
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Moon_landing_conspiracy_theories" title="Moon landing conspiracy theories">
+                Conspiracy theories
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Colonization_of_the_Moon" title="Colonization of the Moon">
+              Colonization
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tourism_on_the_Moon" title="Tourism on the Moon">
+              Tourism
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          Time-telling
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Lunar_calendar" title="Lunar calendar">
+              Lunar calendar
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Lunisolar_calendar" title="Lunisolar calendar">
+              Lunisolar calendar
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Month" title="Month">
+              Month
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_month" title="Lunar month">
+                Lunar month
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Nodal_period" title="Nodal period">
+                  Nodal period
+                 </a>
+                </li>
+               </ul>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Fortnight" title="Fortnight">
+              Fortnight
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Week" title="Week">
+              Sennight
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_mansion" title="Lunar mansion">
+              Lunar mansion
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Lunar_phase" title="Lunar phase">
+           Phases
+          </a>
+          &amp;
+          <br/>
+          names
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/New_moon" title="New moon">
+              New
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Full_moon" title="Full moon">
+              Full
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Full_moon#Full_moon_names" title="Full moon">
+                Names
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Crescent" title="Crescent">
+              Crescent
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Supermoon" title="Supermoon">
+              Super &amp; micro
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_eclipse" title="Lunar eclipse">
+              Blood
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Blue_moon" title="Blue moon">
+              Blue
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Black_moon" title="Black moon">
+              Black
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Dark_moon" title="Dark moon">
+              Dark
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Wet_moon" title="Wet moon">
+              Wet
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tetrad_(astronomy)" title="Tetrad (astronomy)">
+              Tetrad
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          Related
+          <br/>
+          topics
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             Psychology
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_effect" title="Lunar effect">
+                Lunar effect
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Moon_illusion" title="Moon illusion">
+                Moon illusion
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Pareidolia" title="Pareidolia">
+                Pareidolia
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Man_in_the_Moon" title="Man in the Moon">
+                  Man in the Moon
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Moon_rabbit" title="Moon rabbit">
+                  Moon rabbit
+                 </a>
+                </li>
+               </ul>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/List_of_people_with_craters_of_the_Moon_named_after_them" title="List of people with craters of the Moon named after them">
+              Craters named after people
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/List_of_extraterrestrial_memorials#The_Moon" title="List of extraterrestrial memorials">
+              Memorials on the Moon
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Moon_in_fiction" title="Moon in fiction">
+              Moon in fiction
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/List_of_lunar_deities" title="List of lunar deities">
+              Moon in mythology
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Hj%C3%BAki_and_Bil" title="Hjúki and Bil">
+                Hjúki and Bil
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             "
+             <a href="/wiki/The_Moon_is_made_of_green_cheese" title="The Moon is made of green cheese">
+              Moon is made of green cheese
+             </a>
+             "
+            </li>
+            <li>
+             <a href="/wiki/Natural_satellite" title="Natural satellite">
+              Natural satellite
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Double_planet" title="Double planet">
+              Double planet
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Planetary_objects_proposed_in_religion,_astrology,_ufology_and_pseudoscience#Lilith" title="Planetary objects proposed in religion, astrology, ufology and pseudoscience">
+              Lilith (hypothetical second moon)
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <td class="navbox-abovebelow" colspan="3" style="text-align: center;">
+          <div>
+           <ul>
+            <li>
+             <img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/>
+             <b>
+              <a href="/wiki/Category:Moon" title="Category:Moon">
+               Category
+              </a>
+             </b>
+            </li>
+            <li>
+             <img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/>
+             <b>
+              <a href="/wiki/Portal:Moon" title="Portal:Moon">
+               Moon portal
+              </a>
+             </b>
+            </li>
+            <li>
+             <img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/>
+             <b>
+              <a href="/wiki/Portal:Earth_sciences" title="Portal:Earth sciences">
+               Earth sciences portal
+              </a>
+             </b>
+            </li>
+            <li>
+             <img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/>
+             <b>
+              <a href="/wiki/Portal:Solar_System" title="Portal:Solar System">
+               Solar System portal
+              </a>
+             </b>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1267
+Cached time: 20180322151444
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.140 seconds
+Real time usage: 0.197 seconds
+Preprocessor visited node count: 420/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 36991/2097152 bytes
+Template argument size: 106/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1341/5000000 bytes
+Lua time usage: 0.056/10.000 seconds
+Lua memory usage: 2.63 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  133.602      1 -total
+ 32.90%   43.957      1 Template:One_source
+ 32.01%   42.770      1 Template:Reflist
+ 25.19%   33.659      1 Template:Cite_journal
+ 22.89%   30.584      1 Template:The_Moon
+ 20.40%   27.252      1 Template:Ambox
+ 20.20%   26.985      1 Template:Navbox
+  9.17%   12.255      4 Template:Icon
+  5.33%    7.118      1 Template:Portal
+  4.84%    6.463      2 Template:Multiple_image
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:8955468-0!canonical and timestamp 20180322151444 and revision id 823772081
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Topography_of_the_Moon&amp;oldid=823772081">
+      https://en.wikipedia.org/w/index.php?title=Topography_of_the_Moon&amp;oldid=823772081
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Lunar_science" title="Category:Lunar science">
+         Lunar science
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Topography" title="Category:Topography">
+         Topography
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Geodesy" title="Category:Geodesy">
+         Geodesy
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Articles_needing_additional_references_from_June_2017" title="Category:Articles needing additional references from June 2017">
+         Articles needing additional references from June 2017
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">
+         All articles needing additional references
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Pages_using_multiple_image_with_manual_scaled_images" title="Category:Pages using multiple image with manual scaled images">
+         Pages using multiple image with manual scaled images
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Topography+of+the+Moon" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Topography+of+the+Moon" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Topography_of_the_Moon" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Topography_of_the_Moon" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Topography_of_the_Moon">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Topography_of_the_Moon&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Topography_of_the_Moon&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Topography_of_the_Moon" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Topography_of_the_Moon" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Topography_of_the_Moon&amp;oldid=823772081" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Topography_of_the_Moon&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1029368" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Topography_of_the_Moon&amp;id=823772081" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Topography+of+the+Moon">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Topography+of+the+Moon&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Topography_of_the_Moon&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%B7%D8%A8%D9%88%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D8%A7_%D8%A7%D9%84%D9%82%D9%85%D8%B1" hreflang="ar" lang="ar" title="طبوغرافيا القمر – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Topografia_de_la_Lluna" hreflang="ca" lang="ca" title="Topografia de la Lluna – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/M%C3%A5nens_topografi" hreflang="da" lang="da" title="Månens topografi – Danish">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E6%9C%88%E3%81%AE%E5%9C%B0%E8%AA%8C%E5%AD%A6" hreflang="ja" lang="ja" title="月の地誌学 – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/M%C3%A5nens_topografi" hreflang="no" lang="no" title="Månens topografi – Norwegian">
+         Norsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ro">
+        <a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Topografie_selenar%C4%83" hreflang="ro" lang="ro" title="Topografie selenară – Romanian">
+         Română
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BF%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F_%D0%9B%D1%83%D0%BD%D1%8B" hreflang="ru" lang="ru" title="Топография Луны – Russian">
+         Русский
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1029368#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 3 February 2018, at 08:51.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Topography_of_the_Moon&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.140","walltime":"0.197","ppvisitednodes":{"value":420,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":36991,"limit":2097152},"templateargumentsize":{"value":106,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1341,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  133.602      1 -total"," 32.90%   43.957      1 Template:One_source"," 32.01%   42.770      1 Template:Reflist"," 25.19%   33.659      1 Template:Cite_journal"," 22.89%   30.584      1 Template:The_Moon"," 20.40%   27.252      1 Template:Ambox"," 20.20%   26.985      1 Template:Navbox","  9.17%   12.255      4 Template:Icon","  5.33%    7.118      1 Template:Portal","  4.84%    6.463      2 Template:Multiple_image"]},"scribunto":{"limitreport-timeusage":{"value":"0.056","limit":"10.000"},"limitreport-memusage":{"value":2760411,"limit":52428800}},"cachereport":{"origin":"mw1267","timestamp":"20180322151444","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":282,"wgHostname":"mw1267"});});
+  </script>
+ </body>
+</html>

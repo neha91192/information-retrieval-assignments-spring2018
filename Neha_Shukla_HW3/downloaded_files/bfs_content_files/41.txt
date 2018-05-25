@@ -1,0 +1,1162 @@
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Focus (optics) - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Focus_(optics)","wgTitle":"Focus (optics)","wgCurRevisionId":826985655,"wgRevisionId":826985655,"wgArticleId":1032610,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from October 2015","All articles needing additional references","Geometrical optics","Science of photography"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Focus_(optics)","wgRelevantArticleId":1032610,"wgRequestId":"WrPwCgpAMFMAAJANwPAAAAAL","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q190909","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.25" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Focusing_on_retina.svg/1200px-Focusing_on_retina.svg.png" property="og:image"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Focus_(optics)" rel="alternate"/>
+  <link href="/w/index.php?title=Focus_(optics)&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Focus_(optics)&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Focus_(optics)" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Focus_optics rootpage-Focus_optics skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Focus (optics)
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+       <tr>
+        <td class="mbox-image">
+         <div style="width:52px">
+          <a class="image" href="/wiki/File:Question_book-new.svg">
+           <img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/>
+          </a>
+         </div>
+        </td>
+        <td class="mbox-text">
+         <div class="mbox-text-span">
+          This article
+          <b>
+           needs additional citations for
+           <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">
+            verification
+           </a>
+          </b>
+          .
+          <span class="hide-when-compact">
+           Please help
+           <a class="external text" href="//en.wikipedia.org/w/index.php?title=Focus_(optics)&amp;action=edit">
+            improve this article
+           </a>
+           by
+           <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">
+            adding citations to reliable sources
+           </a>
+           . Unsourced material may be challenged and removed.
+          </span>
+          <small>
+           <i>
+            (October 2015)
+           </i>
+          </small>
+          <small class="hide-when-compact">
+           <i>
+            (
+            <a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">
+             Learn how and when to remove this template message
+            </a>
+            )
+           </i>
+          </small>
+         </div>
+        </td>
+       </tr>
+      </table>
+      <div class="hatnote navigation-not-searchable" role="note">
+       For eye focus, see
+       <a href="/wiki/Accommodation_(eye)" title="Accommodation (eye)">
+        Accommodation (eye)
+       </a>
+       .
+      </div>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Focusing_on_retina.svg">
+         <img alt="" class="thumbimage" data-file-height="188" data-file-width="294" height="141" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Focusing_on_retina.svg/220px-Focusing_on_retina.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Focusing_on_retina.svg/330px-Focusing_on_retina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Focusing_on_retina.svg/440px-Focusing_on_retina.svg.png 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Focusing_on_retina.svg" title="Enlarge">
+          </a>
+         </div>
+         Eye focusing ideally collects all light rays from a point on an object into a corresponding point on the
+         <a href="/wiki/Retina" title="Retina">
+          retina
+         </a>
+         .
+        </div>
+       </div>
+      </div>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:FocusDemonstration-BambooRooftop.jpg">
+         <img alt="" class="thumbimage" data-file-height="2592" data-file-width="7744" height="74" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/FocusDemonstration-BambooRooftop.jpg/220px-FocusDemonstration-BambooRooftop.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/FocusDemonstration-BambooRooftop.jpg/330px-FocusDemonstration-BambooRooftop.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/22/FocusDemonstration-BambooRooftop.jpg/440px-FocusDemonstration-BambooRooftop.jpg 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:FocusDemonstration-BambooRooftop.jpg" title="Enlarge">
+          </a>
+         </div>
+         Demonstration of photography focus to different distances : Bamboo rooftop
+        </div>
+       </div>
+      </div>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:DOF-ShallowDepthofField.jpg">
+         <img alt="" class="thumbimage" data-file-height="717" data-file-width="997" height="158" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/DOF-ShallowDepthofField.jpg/220px-DOF-ShallowDepthofField.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/DOF-ShallowDepthofField.jpg/330px-DOF-ShallowDepthofField.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/38/DOF-ShallowDepthofField.jpg/440px-DOF-ShallowDepthofField.jpg 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:DOF-ShallowDepthofField.jpg" title="Enlarge">
+          </a>
+         </div>
+         An image that is partially in focus, but mostly out of focus in varying degrees.
+        </div>
+       </div>
+      </div>
+      <p>
+       In
+       <a href="/wiki/Geometrical_optics" title="Geometrical optics">
+        geometrical optics
+       </a>
+       , a
+       <b>
+        focus
+       </b>
+       , also called an
+       <b>
+        image point
+       </b>
+       , is the point where
+       <a href="/wiki/Ray_(optics)" title="Ray (optics)">
+        light rays
+       </a>
+       originating from a point on the object converge.
+       <sup class="reference" id="cite_ref-1">
+        <a href="#cite_note-1">
+         [1]
+        </a>
+       </sup>
+       Although the focus is conceptually a point, physically the focus has a spatial extent, called the
+       <i>
+        <a href="/wiki/Circle_of_confusion" title="Circle of confusion">
+         blur circle
+        </a>
+       </i>
+       . This non-ideal focusing may be caused by
+       <a href="/wiki/Optical_aberration" title="Optical aberration">
+        aberrations
+       </a>
+       of the imaging optics. In the absence of significant aberrations, the smallest possible blur circle is the
+       <a class="mw-redirect" href="/wiki/Airy_disc" title="Airy disc">
+        Airy disc
+       </a>
+       , which is caused by
+       <a href="/wiki/Diffraction" title="Diffraction">
+        diffraction
+       </a>
+       from the optical system's
+       <a href="/wiki/Aperture" title="Aperture">
+        aperture
+       </a>
+       . Aberrations tend to get worse as the aperture diameter increases, while the Airy circle is smallest for large apertures.
+      </p>
+      <p>
+       An image, or image point or region, is
+       <i>
+        <b>
+         in focus
+        </b>
+       </i>
+       if light from object points is converged almost as much as possible in the image, and
+       <i>
+        <b>
+         out of focus
+        </b>
+       </i>
+       if light is not well converged. The border between these is sometimes defined using a
+       <a href="/wiki/Circle_of_confusion" title="Circle of confusion">
+        circle of confusion
+       </a>
+       criterion.
+      </p>
+      <p>
+       A
+       <b>
+        principal focus
+       </b>
+       or
+       <b>
+        focal point
+       </b>
+       is a special focus:
+      </p>
+      <ul>
+       <li>
+        For a
+        <a href="/wiki/Lens_(optics)" title="Lens (optics)">
+         lens
+        </a>
+        , or a
+        <a href="/wiki/Sphere" title="Sphere">
+         spherical
+        </a>
+        or
+        <a href="/wiki/Parabola" title="Parabola">
+         parabolic
+        </a>
+        <a href="/wiki/Mirror" title="Mirror">
+         mirror
+        </a>
+        , it is a point onto which
+        <a href="/wiki/Collimated_light" title="Collimated light">
+         collimated light
+        </a>
+        parallel to the axis is focused. Since light can pass through a lens in either direction, a lens has two focal points—one on each side. The distance in air from the lens or mirror's
+        <a class="mw-redirect" href="/wiki/Principal_plane" title="Principal plane">
+         principal plane
+        </a>
+        to the focus is called the
+        <i>
+         <a href="/wiki/Focal_length" title="Focal length">
+          focal length
+         </a>
+        </i>
+        .
+       </li>
+       <li>
+        <a href="/wiki/Ellipse" title="Ellipse">
+         Elliptical
+        </a>
+        mirrors have two focal points: light that passes through one of these before striking the mirror is reflected such that it passes through the other.
+       </li>
+       <li>
+        The focus of a
+        <a href="/wiki/Hyperbola" title="Hyperbola">
+         hyperbolic
+        </a>
+        mirror is either of two points which have the property that light from one is reflected as if it came from the other.
+       </li>
+      </ul>
+      <p>
+       Diverging (negative) lenses and
+       <a class="mw-redirect" href="/wiki/Convex_mirrors" title="Convex mirrors">
+        convex mirrors
+       </a>
+       do not focus a collimated beam to a point. Instead, the focus is the point from which the light appears to be emanating, after it travels through the lens or reflects from the mirror. A convex parabolic mirror will reflect a beam of collimated light to make it appear as if it were radiating from the focal point, or conversely, reflect rays directed toward the
+       <a href="/wiki/Focus_(geometry)" title="Focus (geometry)">
+        focus
+       </a>
+       as a collimated beam. A convex elliptical mirror will reflect light directed towards one focus as if it were radiating from the other focus, both of which are behind the mirror. A convex
+       <a href="/wiki/Hyperbola" title="Hyperbola">
+        hyperbolic
+       </a>
+       mirror will reflect rays emanating from the
+       <a href="/wiki/Focus_(geometry)" title="Focus (geometry)">
+        focal point
+       </a>
+       in front of the mirror as if they were emanating from the focal point behind the mirror. Conversely, it can focus rays directed at the focal point that is behind the mirror towards the focal point that is in front of the mirror as in a
+       <a href="/wiki/Cassegrain_reflector" title="Cassegrain reflector">
+        Cassegrain telescope
+       </a>
+       .
+      </p>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Focus_(optics)&amp;action=edit&amp;section=1" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a href="/wiki/Autofocus" title="Autofocus">
+         Autofocus
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Cardinal_point_(optics)" title="Cardinal point (optics)">
+         Cardinal point (optics)
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Defocus_aberration" title="Defocus aberration">
+         Defocus aberration
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Depth_of_field" title="Depth of field">
+         Depth of field
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Depth_of_focus" title="Depth of focus">
+         Depth of focus
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Far_point" title="Far point">
+         Far point
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Focus_(geometry)" title="Focus (geometry)">
+         Focus (geometry)
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Fixed_focus" title="Fixed focus">
+         Fixed focus
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Bokeh" title="Bokeh">
+         Bokeh
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Focus_stacking" title="Focus stacking">
+         Focus stacking
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Focal_Plane" title="Focal Plane">
+         Focal Plane
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Focus_(optics)&amp;action=edit&amp;section=2" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="mw-references-wrap">
+       <ol class="references">
+        <li id="cite_note-1">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-1">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           <a class="external text" href="https://web.archive.org/web/20080302163401/http://www.charfac.umn.edu/glossary/f.html" rel="nofollow">
+            "Standard Microscopy Terminology"
+           </a>
+           .
+           <i>
+            University of Minnesota Characterization Facility website
+           </i>
+           . Archived from
+           <a class="external text" href="http://www.charfac.umn.edu/glossary/f.html" rel="nofollow">
+            the original
+           </a>
+           on 2008-03-02
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             2006-04-21
+            </span>
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=University+of+Minnesota+Characterization+Facility+website&amp;rft.atitle=Standard+Microscopy+Terminology&amp;rft_id=http%3A%2F%2Fwww.charfac.umn.edu%2Fglossary%2Ff.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFocus+%28optics%29">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+       </ol>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1319
+Cached time: 20180322131423
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.096 seconds
+Real time usage: 0.135 seconds
+Preprocessor visited node count: 147/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 5668/2097152 bytes
+Template argument size: 12/2097152 bytes
+Highest expansion depth: 6/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1205/5000000 bytes
+Lua time usage: 0.051/10.000 seconds
+Lua memory usage: 1.63 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  111.199      1 -total
+ 50.96%   56.665      1 Template:Refimprove
+ 38.08%   42.341      1 Template:Cite_web
+ 33.18%   36.891      1 Template:Ambox
+  9.17%   10.194      1 Template:For
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:1032610-0!canonical and timestamp 20180322131423 and revision id 826985655
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Focus_(optics)&amp;oldid=826985655">
+      https://en.wikipedia.org/w/index.php?title=Focus_(optics)&amp;oldid=826985655
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Geometrical_optics" title="Category:Geometrical optics">
+         Geometrical optics
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Science_of_photography" title="Category:Science of photography">
+         Science of photography
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Articles_needing_additional_references_from_October_2015" title="Category:Articles needing additional references from October 2015">
+         Articles needing additional references from October 2015
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">
+         All articles needing additional references
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Focus+%28optics%29" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Focus+%28optics%29" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Focus_(optics)" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Focus_(optics)" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Focus_(optics)">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Focus_(optics)&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Focus_(optics)&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Focus_(optics)" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Focus_(optics)" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Focus_(optics)&amp;oldid=826985655" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Focus_(optics)&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q190909" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Focus_%28optics%29&amp;id=826985655" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Focus+%28optics%29">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Focus+%28optics%29&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Focus_(optics)&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Category:Focus" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-af">
+        <a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Fokus" hreflang="af" lang="af" title="Fokus – Afrikaans">
+         Afrikaans
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%A8%D8%A4%D8%B1%D8%A9_%D8%A7%D9%84%D8%B9%D8%AF%D8%B3%D8%A9" hreflang="ar" lang="ar" title="بؤرة العدسة – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be">
+        <a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%A4%D0%BE%D0%BA%D1%83%D1%81_(%D1%84%D1%96%D0%B7%D1%96%D0%BA%D0%B0)" hreflang="be" lang="be" title="Фокус (фізіка) – Belarusian">
+         Беларуская
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bg">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%A4%D0%BE%D0%BA%D1%83%D1%81_(%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%B0)" hreflang="bg" lang="bg" title="Фокус (оптика) – Bulgarian">
+         Български
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bs">
+        <a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Fokus" hreflang="bs" lang="bs" title="Fokus – Bosnian">
+         Bosanski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Focus_(%C3%B2ptica)" hreflang="ca" lang="ca" title="Focus (òptica) – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Fokus" hreflang="de" lang="de" title="Fokus – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-et">
+        <a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Fookus" hreflang="et" lang="et" title="Fookus – Estonian">
+         Eesti
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Foco_(%C3%B3ptica)" hreflang="es" lang="es" title="Foco (óptica) – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eo">
+        <a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Fokuso_(optiko)" hreflang="eo" lang="eo" title="Fokuso (optiko) – Esperanto">
+         Esperanto
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eu">
+        <a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Foku_(optika)" hreflang="eu" lang="eu" title="Foku (optika) – Basque">
+         Euskara
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D9%86%D9%88%D9%86_%D8%B9%D8%AF%D8%B3%DB%8C" hreflang="fa" lang="fa" title="کانون عدسی – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Foyer_(optique)" hreflang="fr" lang="fr" title="Foyer (optique) – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ga">
+        <a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/F%C3%B3cas" hreflang="ga" lang="ga" title="Fócas – Irish">
+         Gaeilge
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%B4%88%EC%A0%90_(%EA%B4%91%ED%95%99)" hreflang="ko" lang="ko" title="초점 (광학) – Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hy">
+        <a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D4%BF%D5%AB%D5%A6%D5%A1%D5%AF%D5%A5%D5%BF" hreflang="hy" lang="hy" title="Կիզակետ – Armenian">
+         Հայերեն
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hr">
+        <a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/%C5%BDari%C5%A1te" hreflang="hr" lang="hr" title="Žarište – Croatian">
+         Hrvatski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-io">
+        <a class="interlanguage-link-target" href="https://io.wikipedia.org/wiki/Foko_(optiko)" hreflang="io" lang="io" title="Foko (optiko) – Ido">
+         Ido
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Titik_api" hreflang="id" lang="id" title="Titik api – Indonesian">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Fuoco_(ottica)" hreflang="it" lang="it" title="Fuoco (ottica) – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-kk">
+        <a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%A4%D0%BE%D0%BA%D1%83%D1%81_(%D1%84%D0%B8%D0%B7%D0%B8%D0%BA%D0%B0)" hreflang="kk" lang="kk" title="Фокус (физика) – Kazakh">
+         Қазақша
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lv">
+        <a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Fokuss_(optika)" hreflang="lv" lang="lv" title="Fokuss (optika) – Latvian">
+         Latviešu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lb">
+        <a class="interlanguage-link-target" href="https://lb.wikipedia.org/wiki/Fokus" hreflang="lb" lang="lb" title="Fokus – Luxembourgish">
+         Lëtzebuergesch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mk">
+        <a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%96%D0%B0%D1%80%D0%B8%D1%88%D1%82%D0%B5_(%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%B0)" hreflang="mk" lang="mk" title="Жариште (оптика) – Macedonian">
+         Македонски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mn">
+        <a class="interlanguage-link-target" href="https://mn.wikipedia.org/wiki/%D0%A4%D0%BE%D0%BA%D1%83%D1%81_(%D0%BE%D0%BF%D1%82%D0%B8%D0%BA)" hreflang="mn" lang="mn" title="Фокус (оптик) – Mongolian">
+         Монгол
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Brandpunt_(optica)" hreflang="nl" lang="nl" title="Brandpunt (optica) – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E7%84%A6%E7%82%B9_(%E5%85%89%E5%AD%A6)" hreflang="ja" lang="ja" title="焦点 (光学) – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Fokus_(optikk)" hreflang="no" lang="no" title="Fokus (optikk) – Norwegian">
+         Norsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nn">
+        <a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Fokus_i_fysikk" hreflang="nn" lang="nn" title="Fokus i fysikk – Norwegian Nynorsk">
+         Norsk nynorsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Ognisko_(optyka)" hreflang="pl" lang="pl" title="Ognisko (optyka) – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Foco" hreflang="pt" lang="pt" title="Foco – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ro">
+        <a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Focar_(optic%C4%83)" hreflang="ro" lang="ro" title="Focar (optică) – Romanian">
+         Română
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A4%D0%BE%D0%BA%D1%83%D1%81_(%D1%84%D0%B8%D0%B7%D0%B8%D0%BA%D0%B0)" hreflang="ru" lang="ru" title="Фокус (физика) – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-simple">
+        <a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Focus_(optics)" hreflang="simple" lang="simple" title="Focus (optics) – Simple English">
+         Simple English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sk">
+        <a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Ohnisko_(optika)" hreflang="sk" lang="sk" title="Ohnisko (optika) – Slovak">
+         Slovenčina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sl">
+        <a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Gori%C5%A1%C4%8De_(optika)" hreflang="sl" lang="sl" title="Gorišče (optika) – Slovenian">
+         Slovenščina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sr">
+        <a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%A4%D0%BE%D0%BA%D1%83%D1%81_(%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%B0)" hreflang="sr" lang="sr" title="Фокус (оптика) – Serbian">
+         Српски / srpski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sh">
+        <a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Fokus" hreflang="sh" lang="sh" title="Fokus – Serbo-Croatian">
+         Srpskohrvatski / српскохрватски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Polttopiste" hreflang="fi" lang="fi" title="Polttopiste – Finnish">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Fokus_(optik)" hreflang="sv" lang="sv" title="Fokus (optik) – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ta">
+        <a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%95%E0%AF%81%E0%AE%B5%E0%AE%BF%E0%AE%AF%E0%AE%AE%E0%AF%8D_(%E0%AE%92%E0%AE%B3%E0%AE%BF%E0%AE%AF%E0%AE%BF%E0%AE%AF%E0%AE%B2%E0%AF%8D)" hreflang="ta" lang="ta" title="குவியம் (ஒளியியல்) – Tamil">
+         தமிழ்
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-te">
+        <a class="interlanguage-link-target" href="https://te.wikipedia.org/wiki/%E0%B0%95%E0%B0%9F%E0%B0%95_%E0%B0%A8%E0%B0%BE%E0%B0%AD%E0%B0%BF" hreflang="te" lang="te" title="కటక నాభి – Telugu">
+         తెలుగు
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tr">
+        <a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Odak_(optik)" hreflang="tr" lang="tr" title="Odak (optik) – Turkish">
+         Türkçe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A4%D0%BE%D0%BA%D1%83%D1%81_(%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%B0)" hreflang="uk" lang="uk" title="Фокус (оптика) – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vi">
+        <a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Ti%C3%AAu_%C4%91i%E1%BB%83m" hreflang="vi" lang="vi" title="Tiêu điểm – Vietnamese">
+         Tiếng Việt
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E7%84%A6%E9%BB%9E" hreflang="zh" lang="zh" title="焦點 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q190909#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 22 February 2018, at 02:52.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Focus_(optics)&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.096","walltime":"0.135","ppvisitednodes":{"value":147,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":5668,"limit":2097152},"templateargumentsize":{"value":12,"limit":2097152},"expansiondepth":{"value":6,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1205,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  111.199      1 -total"," 50.96%   56.665      1 Template:Refimprove"," 38.08%   42.341      1 Template:Cite_web"," 33.18%   36.891      1 Template:Ambox","  9.17%   10.194      1 Template:For"]},"scribunto":{"limitreport-timeusage":{"value":"0.051","limit":"10.000"},"limitreport-memusage":{"value":1707292,"limit":52428800}},"cachereport":{"origin":"mw1319","timestamp":"20180322131423","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":78,"wgHostname":"mw1248"});});
+  </script>
+ </body>
+</html>

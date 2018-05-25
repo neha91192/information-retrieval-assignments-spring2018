@@ -1,0 +1,1817 @@
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Solar dynamo - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Solar_dynamo","wgTitle":"Solar dynamo","wgCurRevisionId":831857621,"wgRevisionId":831857621,"wgArticleId":4141406,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from August 2014","All articles needing additional references","Articles to be expanded from August 2014","Articles with multiple maintenance issues","Sun"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Solar_dynamo","wgRelevantArticleId":4141406,"wgRequestId":"WrPBdQpAMFYAAAGAqE0AAABG","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q2377388","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.25" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Solar_dynamo" rel="alternate"/>
+  <link href="/w/index.php?title=Solar_dynamo&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Solar_dynamo&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Solar_dynamo" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Solar_dynamo rootpage-Solar_dynamo skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Solar dynamo
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <table class="plainlinks metadata ambox ambox-content ambox-multiple_issues compact-ambox" role="presentation">
+       <tr>
+        <td class="mbox-image">
+         <div style="width:52px">
+          <img alt="" data-file-height="40" data-file-width="40" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" width="40"/>
+         </div>
+        </td>
+        <td class="mbox-text">
+         <div class="mbox-text-span">
+          <div class="mw-collapsible" style="width:95%; margin: 0.2em 0;">
+           <b>
+            This article has multiple issues.
+           </b>
+           Please help
+           <b>
+            <a class="external text" href="//en.wikipedia.org/w/index.php?title=Solar_dynamo&amp;action=edit">
+             improve it
+            </a>
+           </b>
+           or discuss these issues on the
+           <b>
+            <a href="/wiki/Talk:Solar_dynamo" title="Talk:Solar dynamo">
+             talk page
+            </a>
+           </b>
+           .
+           <small>
+            <i>
+             (
+             <a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">
+              Learn how and when to remove these template messages
+             </a>
+             )
+            </i>
+           </small>
+           <div class="mw-collapsible-content" style="margin-top: 0.3em;">
+            <table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+             <tr>
+              <td class="mbox-image">
+               <div style="width:52px">
+                <a class="image" href="/wiki/File:Question_book-new.svg">
+                 <img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/>
+                </a>
+               </div>
+              </td>
+              <td class="mbox-text">
+               <div class="mbox-text-span">
+                This article
+                <b>
+                 needs additional citations for
+                 <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">
+                  verification
+                 </a>
+                </b>
+                .
+                <span class="hide-when-compact">
+                 Please help
+                 <a class="external text" href="//en.wikipedia.org/w/index.php?title=Solar_dynamo&amp;action=edit">
+                  improve this article
+                 </a>
+                 by
+                 <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">
+                  adding citations to reliable sources
+                 </a>
+                 . Unsourced material may be challenged and removed.
+                </span>
+                <small>
+                 <i>
+                  (August 2014)
+                 </i>
+                </small>
+                <small class="hide-when-compact">
+                 <i>
+                  (
+                  <a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">
+                   Learn how and when to remove this template message
+                  </a>
+                  )
+                 </i>
+                </small>
+               </div>
+              </td>
+             </tr>
+            </table>
+            <table class="plainlinks metadata ambox ambox-content" role="presentation">
+             <tr>
+              <td class="mbox-image">
+               <div style="width:52px">
+                <a class="image" href="/wiki/File:Wiki_letter_w.svg">
+                 <img alt="Wiki letter w.svg" data-file-height="44" data-file-width="44" height="44" src="//upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/44px-Wiki_letter_w.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/66px-Wiki_letter_w.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/88px-Wiki_letter_w.svg.png 2x" width="44"/>
+                </a>
+               </div>
+              </td>
+              <td class="mbox-text">
+               <div class="mbox-text-span">
+                This article
+                <b>
+                 is missing information about further details, research, physics, etc.. there is significantly more information on the subject that could be of value but has yet to be touched upon
+                </b>
+                .
+                <span class="hide-when-compact">
+                 Please expand the article to include this information. Further details may exist on the
+                 <a href="/wiki/Talk:Solar_dynamo" title="Talk:Solar dynamo">
+                  talk page
+                 </a>
+                 .
+                </span>
+                <small>
+                 <i>
+                  (August 2014)
+                 </i>
+                </small>
+               </div>
+              </td>
+             </tr>
+            </table>
+           </div>
+          </div>
+          <small class="hide-when-compact">
+           <i>
+            (
+            <a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">
+             Learn how and when to remove this template message
+            </a>
+            )
+           </i>
+          </small>
+         </div>
+        </td>
+       </tr>
+      </table>
+      <p>
+       The
+       <b>
+        solar dynamo
+       </b>
+       is the
+       <a href="/wiki/Dynamo_theory" title="Dynamo theory">
+        physical process
+       </a>
+       that generates the
+       <a href="/wiki/Sun" title="Sun">
+        Sun
+       </a>
+       's
+       <a href="/wiki/Magnetic_field" title="Magnetic field">
+        magnetic field
+       </a>
+       . A dynamo, essentially a naturally occurring electric generator in the Sun's interior, produces
+       <a href="/wiki/Electric_current" title="Electric current">
+        electric currents
+       </a>
+       and a magnetic field, following the laws of
+       <a class="mw-redirect" href="/wiki/Amp%C3%A8re%27s_law" title="Ampère's law">
+        Ampère
+       </a>
+       ,
+       <a href="/wiki/Faraday%27s_law_of_induction" title="Faraday's law of induction">
+        Faraday
+       </a>
+       and
+       <a href="/wiki/Ohm%27s_law" title="Ohm's law">
+        Ohm
+       </a>
+       , as well as the laws of
+       <a class="mw-redirect" href="/wiki/Hydrodynamics" title="Hydrodynamics">
+        hydrodynamics
+       </a>
+       , which together form the laws of
+       <a href="/wiki/Magnetohydrodynamics" title="Magnetohydrodynamics">
+        magnetohydrodynamics
+       </a>
+       . The detailed mechanism of the solar dynamo is not known and is the subject of current research.
+       <sup class="reference" id="cite_ref-1">
+        <a href="#cite_note-1">
+         [1]
+        </a>
+       </sup>
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Mechanism">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Mechanism
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#Solar_cycle">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Solar cycle
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-3">
+         <a href="#See_also">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-4">
+         <a href="#References">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Mechanism">
+        Mechanism
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Solar_dynamo&amp;action=edit&amp;section=1" title="Edit section: Mechanism">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       A
+       <a href="/wiki/Dynamo_theory" title="Dynamo theory">
+        dynamo
+       </a>
+       converts
+       <a href="/wiki/Kinetic_energy" title="Kinetic energy">
+        kinetic energy
+       </a>
+       into electric-magnetic energy. An electrically conducting fluid with shear or more complicated motion, such as turbulence, can temporarily amplify a magnetic field through
+       <a href="/wiki/Lenz%27s_law" title="Lenz's law">
+        Lenz's law
+       </a>
+       : fluid motion relative to a magnetic field induces electric currents in the fluid that distort the initial field. If the fluid motion is sufficiently complicated, it can sustain its own magnetic field, with advective fluid amplification essentially balancing diffusive or ohmic decay. Such systems are called
+       <a class="mw-redirect" href="/wiki/MHD_dynamo" title="MHD dynamo">
+        self-sustaining dynamos
+       </a>
+       . The Sun is a self-sustaining dynamo that converts convective motion and differential rotation within the Sun to electric-magnetic energy.
+      </p>
+      <p>
+       Currently, the geometry and width of the
+       <a href="/wiki/Tachocline" title="Tachocline">
+        tachocline
+       </a>
+       are hypothesized to play an important role in models of the solar dynamo by winding up the weaker
+       <a href="/wiki/Toroidal_and_poloidal" title="Toroidal and poloidal">
+        poloidal
+       </a>
+       field to create a much stronger
+       <a href="/wiki/Toroidal_and_poloidal" title="Toroidal and poloidal">
+        toroidal
+       </a>
+       field. However, recent radio observations of cooler stars and
+       <a class="mw-redirect" href="/wiki/Brown_dwarfs" title="Brown dwarfs">
+        brown dwarfs
+       </a>
+       , which do not have a
+       <a href="/wiki/Solar_core" title="Solar core">
+        radiative core
+       </a>
+       and only have a
+       <a class="new" href="/w/index.php?title=Convectione_zone&amp;action=edit&amp;redlink=1" title="Convectione zone (page does not exist)">
+        convectione zone
+       </a>
+       , have demonstrated that they maintain large-scale, solar-strength magnetic fields and display solar-like activity despite the absence of tachoclines. This suggests that the convection zone alone may be responsible for the function of the solar dynamo.
+       <sup class="reference" id="cite_ref-2">
+        <a href="#cite_note-2">
+         [2]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Solar_cycle">
+        Solar cycle
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Solar_dynamo&amp;action=edit&amp;section=2" title="Edit section: Solar cycle">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main article:
+       <a href="/wiki/Solar_cycle" title="Solar cycle">
+        Solar cycle
+       </a>
+      </div>
+      <p>
+       The most prominent time variation of the solar magnetic field is related to the quasi-periodic 11-year
+       <a href="/wiki/Solar_cycle" title="Solar cycle">
+        solar cycle
+       </a>
+       , characterized by an increasing and decreasing number and size of
+       <a href="/wiki/Sunspot" title="Sunspot">
+        sunspots
+       </a>
+       .
+       <sup class="reference" id="cite_ref-doi10.1146/annurev-astro-081913-040012_3-0">
+        <a href="#cite_note-doi10.1146/annurev-astro-081913-040012-3">
+         [3]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-Zirker2002-119_4-0">
+        <a href="#cite_note-Zirker2002-119-4">
+         [4]
+        </a>
+       </sup>
+       Sunspots are visible as dark patches on the Sun's
+       <a href="/wiki/Photosphere" title="Photosphere">
+        photosphere
+       </a>
+       and correspond to concentrations of magnetic field. At a typical
+       <a href="/wiki/Solar_minimum" title="Solar minimum">
+        solar minimum
+       </a>
+       , few or no sunspots are visible. Those that do appear are at high solar latitudes. As the solar cycle progresses towards its
+       <a href="/wiki/Solar_maximum" title="Solar maximum">
+        maximum
+       </a>
+       , sunspots tend to form closer to the solar equator, following
+       <a href="/wiki/Sp%C3%B6rer%27s_law" title="Spörer's law">
+        Spörer's law
+       </a>
+       .
+      </p>
+      <p>
+       The 11-year sunspot cycle is half of a 22-year
+       <a href="/wiki/Babcock_Model" title="Babcock Model">
+        Babcock
+       </a>
+       –Leighton solar dynamo cycle, which corresponds to an oscillatory exchange of energy between
+       <a href="/wiki/Toroidal_and_poloidal" title="Toroidal and poloidal">
+        toroidal and poloidal
+       </a>
+       solar magnetic fields. At
+       <a href="/wiki/Solar_maximum" title="Solar maximum">
+        solar-cycle maximum
+       </a>
+       , the external poloidal dipolar magnetic field is near its dynamo-cycle minimum strength, but an internal
+       <a href="/wiki/Toroidal_and_poloidal" title="Toroidal and poloidal">
+        toroidal
+       </a>
+       quadrupolar field, generated through differential rotation within the
+       <a href="/wiki/Tachocline" title="Tachocline">
+        tachocline
+       </a>
+       , is near its maximum strength. At this point in the dynamo cycle, buoyant upwelling within the
+       <a href="/wiki/Convection_zone" title="Convection zone">
+        convection zone
+       </a>
+       forces emergence of the toroidal magnetic field through the photosphere, giving rise to pairs of sunspots, roughly aligned east–west with opposite magnetic polarities. The magnetic polarity of sunspot pairs alternates every solar cycle, a phenomenon known as the Hale cycle.
+       <sup class="reference" id="cite_ref-5">
+        <a href="#cite_note-5">
+         [5]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-solarcycle_6-0">
+        <a href="#cite_note-solarcycle-6">
+         [6]
+        </a>
+       </sup>
+      </p>
+      <p>
+       During the solar cycle’s declining phase, energy shifts from the internal toroidal magnetic field to the external poloidal field, and sunspots diminish in number. At solar minimum, the toroidal field is, correspondingly, at minimum strength, sunspots are relatively rare and the poloidal field is at maximum strength. During the next cycle, differential rotation converts magnetic energy back from the poloidal to the toroidal field, with a polarity that is opposite to the previous cycle. The process carries on continuously, and in an idealized, simplified scenario, each 11-year sunspot cycle corresponds to a change in the polarity of the Sun's large-scale magnetic field.
+       <sup class="reference" id="cite_ref-solarcycle_6-1">
+        <a href="#cite_note-solarcycle-6">
+         [6]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-7">
+        <a href="#cite_note-7">
+         [7]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-8">
+        <a href="#cite_note-8">
+         [8]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Solar_dynamo&amp;action=edit&amp;section=3" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a href="/wiki/Atmospheric_dynamo" title="Atmospheric dynamo">
+         Atmospheric dynamo
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Solar_activity" title="Solar activity">
+         Solar activity
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Solar_dynamo&amp;action=edit&amp;section=4" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist" style="list-style-type: decimal;">
+       <div class="mw-references-wrap">
+        <ol class="references">
+         <li id="cite_note-1">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-1">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Tobias, S.M. (2002).
+            <a class="external text" href="http://journals.royalsociety.org/content/r26tgja7p5yh4wu8/" rel="nofollow">
+             "The Solar Dynamo"
+            </a>
+            .
+            <i>
+             <a href="/wiki/Philosophical_Transactions_of_the_Royal_Society_A" title="Philosophical Transactions of the Royal Society A">
+              Philosophical Transactions of the Royal Society A
+             </a>
+            </i>
+            .
+            <b>
+             360
+            </b>
+            (1801): 2741–2756.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/2002RSPTA.360.2741T" rel="nofollow">
+             2002RSPTA.360.2741T
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1098%2Frsta.2002.1090" rel="nofollow">
+             10.1098/rsta.2002.1090
+            </a>
+            .
+            <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">
+             PMID
+            </a>
+            <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/12626264" rel="nofollow">
+             12626264
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Philosophical+Transactions+of+the+Royal+Society+A&amp;rft.atitle=The+Solar+Dynamo&amp;rft.volume=360&amp;rft.issue=1801&amp;rft.pages=2741-2756&amp;rft.date=2002&amp;rft_id=info%3Apmid%2F12626264&amp;rft_id=info%3Adoi%2F10.1098%2Frsta.2002.1090&amp;rft_id=info%3Abibcode%2F2002RSPTA.360.2741T&amp;rft.au=Tobias%2C+S.M.&amp;rft_id=http%3A%2F%2Fjournals.royalsociety.org%2Fcontent%2Fr26tgja7p5yh4wu8%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+dynamo">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-2">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-2">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Route, Matthew (October 20, 2016). "The Discovery of Solar-like Activity Cycles Beyond the End of the Main Sequence?".
+            <i>
+             The Astrophysical Journal Letters
+            </i>
+            .
+            <b>
+             830
+            </b>
+            : 27.
+            <a href="/wiki/ArXiv" title="ArXiv">
+             arXiv
+            </a>
+            :
+            <span class="plainlinks">
+             <a class="external text" href="//arxiv.org/abs/1609.07761" rel="nofollow">
+              1609.07761
+             </a>
+             <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/>
+            </span>
+            .
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/2016ApJ...830L..27R" rel="nofollow">
+             2016ApJ...830L..27R
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.3847%2F2041-8205%2F830%2F2%2FL27" rel="nofollow">
+             10.3847/2041-8205/830/2/L27
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Astrophysical+Journal+Letters&amp;rft.atitle=The+Discovery+of+Solar-like+Activity+Cycles+Beyond+the+End+of+the+Main+Sequence%3F&amp;rft.volume=830&amp;rft.pages=27&amp;rft.date=2016-10-20&amp;rft_id=info%3Aarxiv%2F1609.07761&amp;rft_id=info%3Adoi%2F10.3847%2F2041-8205%2F830%2F2%2FL27&amp;rft_id=info%3Abibcode%2F2016ApJ...830L..27R&amp;rft.aulast=Route&amp;rft.aufirst=Matthew&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+dynamo">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-doi10.1146/annurev-astro-081913-040012-3">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-doi10.1146/annurev-astro-081913-040012_3-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Charbonneau, P. (2014). "Solar Dynamo Theory".
+            <i>
+             Annual Review of Astronomy and Astrophysics
+            </i>
+            .
+            <b>
+             52
+            </b>
+            : 251.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/2014ARA&amp;A..52..251C" rel="nofollow">
+             2014ARA&amp;A..52..251C
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1146%2Fannurev-astro-081913-040012" rel="nofollow">
+             10.1146/annurev-astro-081913-040012
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Annual+Review+of+Astronomy+and+Astrophysics&amp;rft.atitle=Solar+Dynamo+Theory&amp;rft.volume=52&amp;rft.pages=251&amp;rft.date=2014&amp;rft_id=info%3Adoi%2F10.1146%2Fannurev-astro-081913-040012&amp;rft_id=info%3Abibcode%2F2014ARA%26A..52..251C&amp;rft.aulast=Charbonneau&amp;rft.aufirst=P.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+dynamo">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-Zirker2002-119-4">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-Zirker2002-119_4-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            Zirker, J. B. (2002).
+            <i>
+             Journey from the Center of the Sun
+            </i>
+            .
+            <a href="/wiki/Princeton_University_Press" title="Princeton University Press">
+             Princeton University Press
+            </a>
+            . pp. 119–120.
+            <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+             ISBN
+            </a>
+            <a href="/wiki/Special:BookSources/978-0-691-05781-1" title="Special:BookSources/978-0-691-05781-1">
+             978-0-691-05781-1
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Journey+from+the+Center+of+the+Sun&amp;rft.pages=119-120&amp;rft.pub=Princeton+University+Press&amp;rft.date=2002&amp;rft.isbn=978-0-691-05781-1&amp;rft.aulast=Zirker&amp;rft.aufirst=J.+B.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+dynamo">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-5">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-5">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Hale, G. E.; Ellerman, F.; Nicholson, S. B.; Joy, A. H. (1919). "The Magnetic Polarity of Sun-Spots".
+            <i>
+             The Astrophysical Journal
+            </i>
+            .
+            <b>
+             49
+            </b>
+            : 153.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/1919ApJ....49..153H" rel="nofollow">
+             1919ApJ....49..153H
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1086%2F142452" rel="nofollow">
+             10.1086/142452
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Astrophysical+Journal&amp;rft.atitle=The+Magnetic+Polarity+of+Sun-Spots&amp;rft.volume=49&amp;rft.pages=153&amp;rft.date=1919&amp;rft_id=info%3Adoi%2F10.1086%2F142452&amp;rft_id=info%3Abibcode%2F1919ApJ....49..153H&amp;rft.aulast=Hale&amp;rft.aufirst=G.+E.&amp;rft.au=Ellerman%2C+F.&amp;rft.au=Nicholson%2C+S.+B.&amp;rft.au=Joy%2C+A.+H.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+dynamo">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-solarcycle-6">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-solarcycle_6-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-solarcycle_6-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.physorg.com/news119271347.html" rel="nofollow">
+             "NASA Satellites Capture Start of New Solar Cycle"
+            </a>
+            .
+            <a class="mw-redirect" href="/wiki/PhysOrg" title="PhysOrg">
+             PhysOrg
+            </a>
+            . 4 January 2008
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              10 July
+             </span>
+             2009
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=NASA+Satellites+Capture+Start+of+New+Solar+Cycle&amp;rft.pub=PhysOrg&amp;rft.date=2008-01-04&amp;rft_id=http%3A%2F%2Fwww.physorg.com%2Fnews119271347.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+dynamo">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-7">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-7">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation news">
+            <a class="external text" href="http://archives.cnn.com/2001/TECH/space/02/16/sun.flips/index.html" rel="nofollow">
+             "Sun flips magnetic field"
+            </a>
+            .
+            <i>
+             <a href="/wiki/CNN" title="CNN">
+              CNN
+             </a>
+            </i>
+            . 16 February 2001
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              11 July
+             </span>
+             2009
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=CNN&amp;rft.atitle=Sun+flips+magnetic+field&amp;rft.date=2001-02-16&amp;rft_id=http%3A%2F%2Farchives.cnn.com%2F2001%2FTECH%2Fspace%2F02%2F16%2Fsun.flips%2Findex.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+dynamo">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-8">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-8">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            Phillips, T. (15 February 2001).
+            <a class="external text" href="https://science.nasa.gov/science-news/science-at-nasa/2001/ast15feb_1" rel="nofollow">
+             "The Sun Does a Flip"
+            </a>
+            .
+            <a href="/wiki/NASA" title="NASA">
+             NASA
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              11 July
+             </span>
+             2009
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Sun+Does+a+Flip&amp;rft.pub=NASA&amp;rft.date=2001-02-15&amp;rft.aulast=Phillips&amp;rft.aufirst=T.&amp;rft_id=https%3A%2F%2Fscience.nasa.gov%2Fscience-news%2Fscience-at-nasa%2F2001%2Fast15feb_1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+dynamo">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <div aria-labelledby="The_Sun" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="3" scope="col" style="text-align: center;">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:The_Sun" title="Template:The Sun">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a href="/wiki/Template_talk:The_Sun" title="Template talk:The Sun">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:The_Sun&amp;action=edit">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="The_Sun" style="font-size:114%;margin:0 4em">
+           <a href="/wiki/Sun" title="Sun">
+            The Sun
+           </a>
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Standard_solar_model" title="Standard solar model">
+           Internal structure
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Solar_core" title="Solar core">
+              Core
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Radiation_zone" title="Radiation zone">
+              Radiation zone
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tachocline" title="Tachocline">
+              Tachocline
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Convection_zone" title="Convection zone">
+              Convection zone
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+         <td class="navbox-image" rowspan="5" style="width:1px;padding:0px 0px 0px 2px">
+          <div>
+           <div class="floatright">
+            <a class="image" href="/wiki/File:Sun_in_February.jpg">
+             <img alt="Sun in February.jpg" class="thumbborder" data-file-height="2632" data-file-width="2632" height="155" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Sun_in_February.jpg/155px-Sun_in_February.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Sun_in_February.jpg/233px-Sun_in_February.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Sun_in_February.jpg/310px-Sun_in_February.jpg 2x" width="155"/>
+            </a>
+           </div>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Stellar_atmosphere" title="Stellar atmosphere">
+           Atmosphere
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+          </div>
+          <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%;text-align: center;">
+             <a href="/wiki/Photosphere" title="Photosphere">
+              Photosphere
+             </a>
+            </th>
+            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Supergranulation" title="Supergranulation">
+                 Supergranulation
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Granule_(solar_physics)" title="Granule (solar physics)">
+                 Granule
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Facula" title="Facula">
+                 Faculae
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Sunspot" title="Sunspot">
+                 Sunspot
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%;text-align: center;">
+             <a href="/wiki/Chromosphere" title="Chromosphere">
+              Chromosphere
+             </a>
+            </th>
+            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Plage_(astronomy)" title="Plage (astronomy)">
+                 Plage
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Spicule_(solar_physics)" title="Spicule (solar physics)">
+                 Spicule
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Moreton_wave" title="Moreton wave">
+                 Moreton wave
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%;text-align: center;">
+             <a href="/wiki/Corona" title="Corona">
+              Corona
+             </a>
+            </th>
+            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Solar_transition_region" title="Solar transition region">
+                 Transition region
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Coronal_hole" title="Coronal hole">
+                 Coronal hole
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Coronal_loop" title="Coronal loop">
+                 Coronal loop
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Coronal_mass_ejection" title="Coronal mass ejection">
+                 Coronal mass ejection
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Solar_prominence" title="Solar prominence">
+                 Prominence
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Helmet_streamer" title="Helmet streamer">
+                 Helmet streamer
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Supra-arcade_downflows" title="Supra-arcade downflows">
+                 Supra-arcade downflows
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a class="mw-redirect" href="/wiki/Solar_variation" title="Solar variation">
+           Variation
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Solar_cycle" title="Solar cycle">
+              Solar cycle
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/List_of_solar_cycles" title="List of solar cycles">
+                List of solar cycles
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Solar_maximum" title="Solar maximum">
+              Solar maximum
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_minimum" title="Solar minimum">
+              Solar minimum
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Wolf_number" title="Wolf number">
+              Wolf number
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_wind" title="Solar wind">
+              Solar wind
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_flare" title="Solar flare">
+              Flare
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Helioseismology" title="Helioseismology">
+              Helioseismology
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Heliosphere" title="Heliosphere">
+           Heliosphere
+          </a>
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Heliospheric_current_sheet" title="Heliospheric current sheet">
+              Current sheet
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Heliosphere#Termination_shock" title="Heliosphere">
+              Termination shock
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Heliosphere#Heliosheath" title="Heliosphere">
+              Heliosheath
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Heliosphere#Heliopause" title="Heliosphere">
+              Heliopause
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Bow_shock" title="Bow shock">
+              Bow shock
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          Related topics
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Heliophysics" title="Heliophysics">
+              Heliophysics
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Solar_activity" title="Solar activity">
+              Solar activity
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Solar_astronomy" title="Solar astronomy">
+              Solar astronomy
+             </a>
+            </li>
+            <li>
+             <a class="mw-selflink selflink">
+              Solar dynamo
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_eclipse" title="Solar eclipse">
+              Eclipse
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_energy" title="Solar energy">
+              Solar energy
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_neutrino" title="Solar neutrino">
+              Solar neutrino
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_observation" title="Solar observation">
+              Solar observation
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_phenomena" title="Solar phenomena">
+              Solar phenomena
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_physics" title="Solar physics">
+              Solar physics
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_System" title="Solar System">
+              Solar System
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_telescope" title="Solar telescope">
+              Solar telescope
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_time" title="Solar time">
+              Solar time
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Space_weather" title="Space weather">
+              Space weather
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Standard_solar_model" title="Standard solar model">
+              Standard solar model
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Sunlight" title="Sunlight">
+              Radiation
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <td class="navbox-abovebelow" colspan="3" style="text-align: center;">
+          <div>
+           <ul>
+            <li>
+             <a href="/wiki/Stellar_classification" title="Stellar classification">
+              Spectral class
+             </a>
+             :
+             <a href="/wiki/G-type_main-sequence_star" title="G-type main-sequence star">
+              G2V
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1343
+Cached time: 20180322143839
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.156 seconds
+Real time usage: 0.211 seconds
+Preprocessor visited node count: 718/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 49306/2097152 bytes
+Template argument size: 5231/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 10190/5000000 bytes
+Lua time usage: 0.076/10.000 seconds
+Lua memory usage: 3.82 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  178.776      1 -total
+ 46.28%   82.737      1 Template:Reflist
+ 41.60%   74.376      3 Template:Ambox
+ 35.03%   62.632      1 Template:Multiple_issues
+ 26.37%   47.148      4 Template:Cite_journal
+ 12.62%   22.566      1 Template:Refimprove
+  9.20%   16.454      1 Template:The_Sun
+  8.85%   15.815      2 Template:Navbox
+  5.31%    9.502      1 Template:Main
+  4.92%    8.804      2 Template:Cite_web
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:4141406-0!canonical and timestamp 20180322143849 and revision id 831857621
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Solar_dynamo&amp;oldid=831857621">
+      https://en.wikipedia.org/w/index.php?title=Solar_dynamo&amp;oldid=831857621
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Sun" title="Category:Sun">
+         Sun
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Articles_needing_additional_references_from_August_2014" title="Category:Articles needing additional references from August 2014">
+         Articles needing additional references from August 2014
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">
+         All articles needing additional references
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_to_be_expanded_from_August_2014" title="Category:Articles to be expanded from August 2014">
+         Articles to be expanded from August 2014
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_multiple_maintenance_issues" title="Category:Articles with multiple maintenance issues">
+         Articles with multiple maintenance issues
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Solar+dynamo" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Solar+dynamo" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Solar_dynamo" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Solar_dynamo" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Solar_dynamo">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Solar_dynamo&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Solar_dynamo&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Solar_dynamo" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Solar_dynamo" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Solar_dynamo&amp;oldid=831857621" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Solar_dynamo&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q2377388" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Solar_dynamo&amp;id=831857621" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Solar+dynamo">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Solar+dynamo&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Solar_dynamo&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AF%D9%8A%D9%86%D8%A7%D9%85%D9%88_%D8%B4%D9%85%D8%B3%D9%8A" hreflang="ar" lang="ar" title="دينامو شمسي – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be">
+        <a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D0%B5_%D0%B4%D1%8B%D0%BD%D0%B0%D0%BC%D0%B0" hreflang="be" lang="be" title="Сонечнае дынама – Belarusian">
+         Беларуская
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Dinamo_solar" hreflang="ca" lang="ca" title="Dinamo solar – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/D%C3%ADnamo_solar" hreflang="es" lang="es" title="Dínamo solar – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Dynamo_solaire" hreflang="fr" lang="fr" title="Dynamo solaire – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Dinamo_solare" hreflang="it" lang="it" title="Dinamo solare – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%A4%AA%E9%99%BD%E3%83%80%E3%82%A4%E3%83%8A%E3%83%A2" hreflang="ja" lang="ja" title="太陽ダイナモ – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/D%C3%ADnamo_solar" hreflang="pt" lang="pt" title="Dínamo solar – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%BE%D0%B5_%D0%B4%D0%B8%D0%BD%D0%B0%D0%BC%D0%BE" hreflang="ru" lang="ru" title="Солнечное динамо – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BD%D1%8F%D1%87%D0%BD%D0%B5_%D0%B4%D0%B8%D0%BD%D0%B0%D0%BC%D0%BE" hreflang="uk" lang="uk" title="Сонячне динамо – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vi">
+        <a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Dynamo_m%E1%BA%B7t_tr%E1%BB%9Di" hreflang="vi" lang="vi" title="Dynamo mặt trời – Vietnamese">
+         Tiếng Việt
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%A4%AA%E9%99%BD%E7%99%BC%E9%9B%BB%E6%A9%9F" hreflang="zh" lang="zh" title="太陽發電機 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q2377388#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 22 March 2018, at 14:38.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Solar_dynamo&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.156","walltime":"0.211","ppvisitednodes":{"value":718,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":49306,"limit":2097152},"templateargumentsize":{"value":5231,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":10190,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  178.776      1 -total"," 46.28%   82.737      1 Template:Reflist"," 41.60%   74.376      3 Template:Ambox"," 35.03%   62.632      1 Template:Multiple_issues"," 26.37%   47.148      4 Template:Cite_journal"," 12.62%   22.566      1 Template:Refimprove","  9.20%   16.454      1 Template:The_Sun","  8.85%   15.815      2 Template:Navbox","  5.31%    9.502      1 Template:Main","  4.92%    8.804      2 Template:Cite_web"]},"scribunto":{"limitreport-timeusage":{"value":"0.076","limit":"10.000"},"limitreport-memusage":{"value":4010270,"limit":52428800}},"cachereport":{"origin":"mw1343","timestamp":"20180322143839","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":69,"wgHostname":"mw1251"});});
+  </script>
+ </body>
+</html>

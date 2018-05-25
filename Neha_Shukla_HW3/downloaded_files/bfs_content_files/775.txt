@@ -1,0 +1,2509 @@
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   South Pole–Aitken basin - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"South_Pole–Aitken_basin","wgTitle":"South Pole–Aitken basin","wgCurRevisionId":830888631,"wgRevisionId":830888631,"wgArticleId":168118,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Unfit url","Coordinates on Wikidata","LQ24 quadrangle","Geological features on the Moon","Impact craters on the Moon"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"South_Pole–Aitken_basin","wgRelevantArticleId":168118,"wgRequestId":"WrP-GwpAME0AADfHAjgAAAAD","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCoordinates":{"lat":-53,"lon":-169},"wgWikibaseItemId":"Q936117","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.25" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Aitken_Kagu_big.jpg/1200px-Aitken_Kagu_big.jpg" property="og:image"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/South_Pole%E2%80%93Aitken_basin" rel="alternate"/>
+  <link href="/w/index.php?title=South_Pole%E2%80%93Aitken_basin&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=South_Pole%E2%80%93Aitken_basin&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/South_Pole%E2%80%93Aitken_basin" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-South_Pole–Aitken_basin rootpage-South_Pole–Aitken_basin skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    South Pole–Aitken basin
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <table class="infobox" style="width:22em">
+       <caption>
+        South Pole–Aitken basin
+       </caption>
+       <tr>
+        <td colspan="2" style="text-align:center">
+         <a class="image" href="/wiki/File:Aitken_Kagu_big.jpg">
+          <img alt="Aitken Kagu big.jpg" data-file-height="2880" data-file-width="2880" height="200" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Aitken_Kagu_big.jpg/200px-Aitken_Kagu_big.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Aitken_Kagu_big.jpg/300px-Aitken_Kagu_big.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Aitken_Kagu_big.jpg/400px-Aitken_Kagu_big.jpg 2x" width="200"/>
+         </a>
+         <div>
+          <a href="/wiki/Topographic_map" title="Topographic map">
+           Topographic map
+          </a>
+          of the South Pole–Aitken basin based on
+          <a href="/wiki/SELENE" title="SELENE">
+           Kaguya
+          </a>
+          data. Red represents high elevation, purple represents low elevation. The purple and grey elliptical rings trace the inner and outer walls of the basin. (The black ring is an old artifact of the image.)
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         <a href="/wiki/Selenographic_coordinates" title="Selenographic coordinates">
+          Coordinates
+         </a>
+        </th>
+        <td>
+         <span class="plainlinks nourlexpansion">
+          <a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=South_Pole%E2%80%93Aitken_basin&amp;params=53_S_169_W_globe:moon_type:landmark">
+           <span class="geo-default">
+            <span class="geo-dms" title="Maps, aerial photos, and other data for this location">
+             <span class="latitude">
+              53°S
+             </span>
+             <span class="longitude">
+              169°W
+             </span>
+            </span>
+           </span>
+           <span class="geo-multi-punct">
+            ﻿ / ﻿
+           </span>
+           <span class="geo-nondefault">
+            <span class="geo-dec" title="Maps, aerial photos, and other data for this location">
+             53°S 169°W
+            </span>
+            <span style="display:none">
+             ﻿ /
+             <span class="geo">
+              -53; -169
+             </span>
+            </span>
+           </span>
+          </a>
+         </span>
+         <span style="font-size: small;">
+          <span id="coordinates">
+           <a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">
+            Coordinates
+           </a>
+           :
+           <span class="plainlinks nourlexpansion">
+            <a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=South_Pole%E2%80%93Aitken_basin&amp;params=53_S_169_W_globe:moon_type:landmark">
+             <span class="geo-default">
+              <span class="geo-dms" title="Maps, aerial photos, and other data for this location">
+               <span class="latitude">
+                53°S
+               </span>
+               <span class="longitude">
+                169°W
+               </span>
+              </span>
+             </span>
+             <span class="geo-multi-punct">
+              ﻿ / ﻿
+             </span>
+             <span class="geo-nondefault">
+              <span class="geo-dec" title="Maps, aerial photos, and other data for this location">
+               53°S 169°W
+              </span>
+              <span style="display:none">
+               ﻿ /
+               <span class="geo">
+                -53; -169
+               </span>
+              </span>
+             </span>
+            </a>
+           </span>
+          </span>
+         </span>
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         <a href="/wiki/Diameter" title="Diameter">
+          Diameter
+         </a>
+        </th>
+        <td>
+         About 2,500 km (1,600 mi)
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         <a href="/wiki/Crater_depth" title="Crater depth">
+          Depth
+         </a>
+        </th>
+        <td>
+         About 13 km (8.1 mi)
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         <a href="/wiki/Eponym" title="Eponym">
+          Eponym
+         </a>
+        </th>
+        <td>
+         <a href="/wiki/Lunar_south_pole" title="Lunar south pole">
+          Lunar south pole
+         </a>
+         <br/>
+         <a href="/wiki/Aitken_(crater)" title="Aitken (crater)">
+          Aitken (crater)
+         </a>
+        </td>
+       </tr>
+      </table>
+      <p>
+       The
+       <b>
+        South Pole–Aitken basin
+       </b>
+       is an
+       <a href="/wiki/Impact_crater" title="Impact crater">
+        impact crater
+       </a>
+       on the
+       <a href="/wiki/Far_side_of_the_Moon" title="Far side of the Moon">
+        far side of the Moon
+       </a>
+       . At roughly 2,500 km (1,600 mi) in diameter and 13 km (8.1 mi) deep, it is one of the
+       <a href="/wiki/List_of_largest_craters_in_the_Solar_System" title="List of largest craters in the Solar System">
+        largest known impact craters
+       </a>
+       in the
+       <a href="/wiki/Solar_System" title="Solar System">
+        Solar System
+       </a>
+       . It is the largest, oldest, and deepest
+       <a href="/wiki/Depression_(geology)" title="Depression (geology)">
+        basin
+       </a>
+       recognized on the
+       <a href="/wiki/Moon" title="Moon">
+        Moon
+       </a>
+       .
+       <sup class="reference" id="cite_ref-Petro_1-0">
+        <a href="#cite_note-Petro-1">
+         [1]
+        </a>
+       </sup>
+       It was named for two features on opposing sides: the crater
+       <a href="/wiki/Aitken_(crater)" title="Aitken (crater)">
+        Aitken
+       </a>
+       on the northern end and the
+       <a href="/wiki/Lunar_south_pole" title="Lunar south pole">
+        lunar south pole
+       </a>
+       at the other end. The outer rim of this basin can be seen from Earth as a huge chain of
+       <a href="/wiki/Mountain" title="Mountain">
+        mountains
+       </a>
+       located on the Moon's southern limb, sometimes informally called "Leibnitz mountains".
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Discovery">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Discovery
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#Physical_characteristics">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Physical characteristics
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-3">
+         <a href="#Origin">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           Origin
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-4">
+         <a href="#See_also">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-5">
+         <a href="#References">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-6">
+         <a href="#External_links">
+          <span class="tocnumber">
+           6
+          </span>
+          <span class="toctext">
+           External links
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Discovery">
+        Discovery
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=South_Pole%E2%80%93Aitken_basin&amp;action=edit&amp;section=1" title="Edit section: Discovery">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="thumb tleft">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:South_Pole-Aitken_basin_rim_As08-13-2319hr.jpg">
+         <img alt="" class="thumbimage" data-file-height="2992" data-file-width="2992" height="220" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/South_Pole-Aitken_basin_rim_As08-13-2319hr.jpg/220px-South_Pole-Aitken_basin_rim_As08-13-2319hr.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/South_Pole-Aitken_basin_rim_As08-13-2319hr.jpg/330px-South_Pole-Aitken_basin_rim_As08-13-2319hr.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4f/South_Pole-Aitken_basin_rim_As08-13-2319hr.jpg/440px-South_Pole-Aitken_basin_rim_As08-13-2319hr.jpg 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:South_Pole-Aitken_basin_rim_As08-13-2319hr.jpg" title="Enlarge">
+          </a>
+         </div>
+         <a href="/wiki/Apollo_8" title="Apollo 8">
+          Apollo 8
+         </a>
+         photograph showing the mountains along the northern rim of the basin
+        </div>
+       </div>
+      </div>
+      <p>
+       The existence of a giant far side basin was suspected as early as 1962 based on early probe images (namely
+       <a href="/wiki/Luna_3" title="Luna 3">
+        Luna 3
+       </a>
+       and
+       <a href="/wiki/Zond_3" title="Zond 3">
+        Zond 3
+       </a>
+       ), but it was not until the acquisition of global photography by the
+       <a href="/wiki/Lunar_Orbiter_program" title="Lunar Orbiter program">
+        Lunar Orbiter program
+       </a>
+       in the mid-1960s that geologists recognized its true size. Laser altimeter data obtained during the Apollo 15 and 16 missions showed that the northern portion of this basin was very deep,
+       <sup class="reference" id="cite_ref-2">
+        <a href="#cite_note-2">
+         [2]
+        </a>
+       </sup>
+       but since these data were only available along the near-equatorial
+       <a href="/wiki/Ground_track" title="Ground track">
+        ground tracks
+       </a>
+       of the orbiting
+       <a class="mw-redirect" href="/wiki/Command_and_Service_Module" title="Command and Service Module">
+        Command and Service Modules
+       </a>
+       , the topography of the rest of the basin remained unknown. The geologic map showing the northern half of this basin and with its edge depicted was published in 1978 by the
+       <a href="/wiki/United_States_Geological_Survey" title="United States Geological Survey">
+        United States Geological Survey
+       </a>
+       .
+       <sup class="reference" id="cite_ref-3">
+        <a href="#cite_note-3">
+         [3]
+        </a>
+       </sup>
+       Little was known about the basin until the 1990s, when the spacecraft
+       <a href="/wiki/Galileo_(spacecraft)" title="Galileo (spacecraft)">
+        Galileo
+       </a>
+       and
+       <a href="/wiki/Clementine_(spacecraft)" title="Clementine (spacecraft)">
+        Clementine
+       </a>
+       visited the Moon. Multispectral images obtained from these missions showed that this basin contains more
+       <a class="mw-redirect" href="/wiki/FeO" title="FeO">
+        FeO
+       </a>
+       and
+       <a href="/wiki/Titanium_dioxide" title="Titanium dioxide">
+        TiO
+        <sub>
+         2
+        </sub>
+       </a>
+       than typical lunar highlands, and hence has a darker appearance. The topography of the basin was mapped in its entirety for the first time using altimeter data and the analysis of stereo image pairs taken during the Clementine mission. Most recently, the composition of this basin has been further constrained by the analysis of data obtained from a gamma-ray spectrometer that was on board the
+       <a href="/wiki/Lunar_Prospector" title="Lunar Prospector">
+        Lunar Prospector
+       </a>
+       mission.
+      </p>
+      <div style="clear:left;">
+      </div>
+      <h2>
+       <span class="mw-headline" id="Physical_characteristics">
+        Physical characteristics
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=South_Pole%E2%80%93Aitken_basin&amp;action=edit&amp;section=2" title="Edit section: Physical characteristics">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="thumb tleft">
+       <div class="thumbinner" style="width:202px;">
+        <a class="image" href="/wiki/File:Moon_back-view_(Clementine,_cropped).png">
+         <img alt="" class="thumbimage" data-file-height="2000" data-file-width="2000" height="200" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Moon_back-view_%28Clementine%2C_cropped%29.png/200px-Moon_back-view_%28Clementine%2C_cropped%29.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Moon_back-view_%28Clementine%2C_cropped%29.png/300px-Moon_back-view_%28Clementine%2C_cropped%29.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/32/Moon_back-view_%28Clementine%2C_cropped%29.png/400px-Moon_back-view_%28Clementine%2C_cropped%29.png 2x" width="200"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Moon_back-view_(Clementine,_cropped).png" title="Enlarge">
+          </a>
+         </div>
+         <a href="/wiki/Far_side_of_the_Moon" title="Far side of the Moon">
+          Far side of the Moon
+         </a>
+         . The South Pole–Aitken basin is the darker area at the bottom of this image.
+        </div>
+       </div>
+      </div>
+      <p>
+       The South Pole–Aitken basin is the largest, deepest and oldest basin recognized on the Moon.
+       <sup class="reference" id="cite_ref-Petro_1-1">
+        <a href="#cite_note-Petro-1">
+         [1]
+        </a>
+       </sup>
+       The lowest elevations of the Moon (about −6000 m) are located within the South Pole–Aitken basin, and the highest peaks (about +8000 m) are found on this basin's north-eastern rim, which are sometimes called the Leibnitz Mountains.
+       <sup class="reference" id="cite_ref-4">
+        <a href="#cite_note-4">
+         [4]
+        </a>
+       </sup>
+       Because of this basin's great size, the crust at this locale is expected to be thinner than typical as a result of the large amount of material that was excavated due to an impact. Crustal thickness maps constructed using the Moon's topography and gravity field imply a thickness of about 30 km beneath the floor of this basin, in comparison to 60–80 km around it and the global average of about 50 km.
+       <sup class="reference" id="cite_ref-Potter_2012_5-0">
+        <a href="#cite_note-Potter_2012-5">
+         [5]
+        </a>
+       </sup>
+      </p>
+      <p>
+       The composition of this basin, as estimated from the
+       <a href="/wiki/Galileo_(spacecraft)" title="Galileo (spacecraft)">
+        Galileo
+       </a>
+       ,
+       <a href="/wiki/Clementine_(spacecraft)" title="Clementine (spacecraft)">
+        Clementine
+       </a>
+       and
+       <a href="/wiki/Lunar_Prospector" title="Lunar Prospector">
+        Lunar Prospector
+       </a>
+       missions, show that it is different from typical highland regions. Most importantly, none of the samples obtained from the American
+       <a href="/wiki/Apollo_program" title="Apollo program">
+        Apollo
+       </a>
+       and Russian
+       <a href="/wiki/Luna_programme" title="Luna programme">
+        Luna
+       </a>
+       missions, nor the handful of identified
+       <a class="mw-redirect" href="/wiki/Lunar_meteorites" title="Lunar meteorites">
+        lunar meteorites
+       </a>
+       , have a composition that is comparable. The orbital data indicate that the floor of this basin has slightly elevated abundances of iron, titanium, and thorium. In terms of mineralogy, the basin floor is much richer in
+       <a class="mw-redirect" href="/wiki/Clinopyroxene" title="Clinopyroxene">
+        clinopyroxene
+       </a>
+       and
+       <a class="mw-redirect" href="/wiki/Orthopyroxene" title="Orthopyroxene">
+        orthopyroxene
+       </a>
+       than the surrounding highlands that are largely
+       <a href="/wiki/Anorthosite" title="Anorthosite">
+        anorthositic
+       </a>
+       .
+       <sup class="reference" id="cite_ref-L06_6-0">
+        <a href="#cite_note-L06-6">
+         [6]
+        </a>
+       </sup>
+       Several possibilities exist for this distinctive chemical signature. One is that this composition might simply represent lower crustal materials that are somewhat more rich in iron, titanium and thorium than the upper crust. Another possibility is that this composition reflects the widespread distribution of ponds of iron-rich
+       <a href="/wiki/Basalt" title="Basalt">
+        basalts
+       </a>
+       , similar to those that make up the
+       <a href="/wiki/Lunar_mare" title="Lunar mare">
+        lunar maria
+       </a>
+       . Alternatively, the rocks here could contain a component from the lunar mantle if the basin excavated all the way through the crust. The origin of the anomalous composition of this basin is not known with certainty at this time, however, and a sample return mission will most likely be required to settle this debate. Complicating matters is the fact that all three of the above hypotheses could contribute to the anomalous geochemical signature of this giant crater. Furthermore, it is possible that a large portion of the lunar surface in the vicinity of this basin was melted during the impact event, and differentiation of this impact melt sheet could have given rise to additional geochemical anomalies.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Origin">
+        Origin
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=South_Pole%E2%80%93Aitken_basin&amp;action=edit&amp;section=3" title="Edit section: Origin">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Lunar_Sample.jpg">
+         <img alt="" class="thumbimage" data-file-height="684" data-file-width="840" height="179" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Lunar_Sample.jpg/220px-Lunar_Sample.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Lunar_Sample.jpg/330px-Lunar_Sample.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Lunar_Sample.jpg/440px-Lunar_Sample.jpg 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Lunar_Sample.jpg" title="Enlarge">
+          </a>
+         </div>
+         A possible configuration of South Pole–Aitken basin sample return spacecraft
+        </div>
+       </div>
+      </div>
+      <p>
+       Simulations of near vertical impacts show that this basin should have dug up vast amounts of mantle materials from depths as great as 200 km below the surface. However, observations thus far do not favor a mantle composition for this basin, and crustal thickness maps seem to indicate the presence of about 10 kilometers of crustal materials beneath this basin's floor. This has suggested to some that the basin was not formed by a typical high-velocity impact, but may instead have been formed by a low-velocity projectile around 200 km in diameter that hit at a low angle (about 30 degrees or less), and hence did not dig very deeply into the Moon. Putative evidence for this comes from the high elevations north-east of the rim of the South Pole–Aitken basin that might represent ejecta from such an oblique impact. The impact theory would also account for magnetic anomalies on the moon.
+       <sup class="reference" id="cite_ref-7">
+        <a href="#cite_note-7">
+         [7]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=South_Pole%E2%80%93Aitken_basin&amp;action=edit&amp;section=4" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+       <ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+        <li style="display:table-row">
+         <span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center">
+          <a class="image" href="/wiki/File:Moon-Mdf-2005.jpg">
+           <img alt="icon" class="noviewer" data-file-height="1024" data-file-width="1024" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Moon-Mdf-2005.jpg/28px-Moon-Mdf-2005.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Moon-Mdf-2005.jpg/42px-Moon-Mdf-2005.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Moon-Mdf-2005.jpg/56px-Moon-Mdf-2005.jpg 2x" width="28"/>
+          </a>
+         </span>
+         <span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle">
+          <a href="/wiki/Portal:Moon" title="Portal:Moon">
+           Moon portal
+          </a>
+         </span>
+        </li>
+       </ul>
+      </div>
+      <ul>
+       <li>
+        <a href="/wiki/Far_side_of_the_Moon" title="Far side of the Moon">
+         Far side of the Moon
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Geology_of_the_Moon" title="Geology of the Moon">
+         Geology of the Moon
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Impact_crater" title="Impact crater">
+         Impact crater
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Lunar_craters" title="Lunar craters">
+         Lunar craters
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Lunar_south_pole" title="Lunar south pole">
+         Lunar south pole
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=South_Pole%E2%80%93Aitken_basin&amp;action=edit&amp;section=5" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="references">
+       <p>
+        <b>
+         Cited references
+        </b>
+       </p>
+       <div class="reflist" style="list-style-type: decimal;">
+        <div class="mw-references-wrap">
+         <ol class="references">
+          <li id="cite_note-Petro-1">
+           <span class="mw-cite-backlink">
+            ^
+            <a href="#cite_ref-Petro_1-0">
+             <sup>
+              <i>
+               <b>
+                a
+               </b>
+              </i>
+             </sup>
+            </a>
+            <a href="#cite_ref-Petro_1-1">
+             <sup>
+              <i>
+               <b>
+                b
+               </b>
+              </i>
+             </sup>
+            </a>
+           </span>
+           <span class="reference-text">
+            <cite class="citation" id="CITEREFPetroPieters2004">
+             Petro, Noah E.; Pieters, Carle M. (2004-05-05),
+             <a class="external text" href="http://www.planetary.brown.edu/pdfs/3110.pdf" rel="nofollow">
+              "Surviving the heavy bombardment: Ancient material at the surface of South Pole-Aitken Basin"
+             </a>
+             <span style="font-size:85%;">
+              (PDF)
+             </span>
+             ,
+             <i>
+              Journal of Geophysical Research
+             </i>
+             ,
+             <b>
+              109
+             </b>
+             ,
+             <a href="/wiki/Bibcode" title="Bibcode">
+              Bibcode
+             </a>
+             :
+             <a class="external text" href="http://adsabs.harvard.edu/abs/2004JGRE..109.6004P" rel="nofollow">
+              2004JGRE..109.6004P
+             </a>
+             ,
+             <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+              doi
+             </a>
+             :
+             <a class="external text" href="//doi.org/10.1029%2F2003je002182" rel="nofollow">
+              10.1029/2003je002182
+             </a>
+            </cite>
+            <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Geophysical+Research&amp;rft.atitle=Surviving+the+heavy+bombardment%3A+Ancient+material+at+the+surface+of+South+Pole-Aitken+Basin&amp;rft.volume=109&amp;rft.date=2004-05-05&amp;rft_id=info%3Adoi%2F10.1029%2F2003je002182&amp;rft_id=info%3Abibcode%2F2004JGRE..109.6004P&amp;rft.aulast=Petro&amp;rft.aufirst=Noah+E.&amp;rft.au=Pieters%2C+Carle+M.&amp;rft_id=http%3A%2F%2Fwww.planetary.brown.edu%2Fpdfs%2F3110.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASouth+Pole%E2%80%93Aitken+basin">
+             <span style="display:none;">
+             </span>
+            </span>
+           </span>
+          </li>
+          <li id="cite_note-2">
+           <span class="mw-cite-backlink">
+            <b>
+             <a href="#cite_ref-2">
+              ^
+             </a>
+            </b>
+           </span>
+           <span class="reference-text">
+            <cite class="citation journal">
+             W. M. Kaula; G. Schubert; R. E. Lingenfelter; W. L. Sjogren; et al. (1974). "Apollo laser altimetry and inferences as to lunar structure".
+             <i>
+              Proc. Lunar Planet. Sci. Conf
+             </i>
+             .
+             <b>
+              5
+             </b>
+             : 3049–3058.
+            </cite>
+            <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Proc.+Lunar+Planet.+Sci.+Conf.&amp;rft.atitle=Apollo+laser+altimetry+and+inferences+as+to+lunar+structure&amp;rft.volume=5&amp;rft.pages=3049-3058&amp;rft.date=1974&amp;rft.au=W.+M.+Kaula&amp;rft.au=G.+Schubert&amp;rft.au=R.+E.+Lingenfelter&amp;rft.au=W.+L.+Sjogren&amp;rft.au=W.+R.+Wollenhaupt&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASouth+Pole%E2%80%93Aitken+basin">
+             <span style="display:none;">
+             </span>
+            </span>
+           </span>
+          </li>
+          <li id="cite_note-3">
+           <span class="mw-cite-backlink">
+            <b>
+             <a href="#cite_ref-3">
+              ^
+             </a>
+            </b>
+           </span>
+           <span class="reference-text">
+            <cite class="citation journal">
+             D. E. Stuart-Alexander (1978).
+             <a class="external text" href="http://www.lpi.usra.edu/resources/mapcatalog/usgs/I1047" rel="nofollow">
+              "Geologic map of the central far side of the Moon"
+             </a>
+             .
+             <i>
+              U.S. Geological Survey
+             </i>
+             . I-1047.
+            </cite>
+            <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=U.S.+Geological+Survey&amp;rft.atitle=Geologic+map+of+the+central+far+side+of+the+Moon&amp;rft.volume=I-1047&amp;rft.date=1978&amp;rft.au=D.+E.+Stuart-Alexander&amp;rft_id=http%3A%2F%2Fwww.lpi.usra.edu%2Fresources%2Fmapcatalog%2Fusgs%2FI1047&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASouth+Pole%E2%80%93Aitken+basin">
+             <span style="display:none;">
+             </span>
+            </span>
+           </span>
+          </li>
+          <li id="cite_note-4">
+           <span class="mw-cite-backlink">
+            <b>
+             <a href="#cite_ref-4">
+              ^
+             </a>
+            </b>
+           </span>
+           <span class="reference-text">
+            [Flashback Friday: "The Moon - So Far" in 1958]. Google Lunar X Price. Astiles, August 27, 2010.
+           </span>
+          </li>
+          <li id="cite_note-Potter_2012-5">
+           <span class="mw-cite-backlink">
+            <b>
+             <a href="#cite_ref-Potter_2012_5-0">
+              ^
+             </a>
+            </b>
+           </span>
+           <span class="reference-text">
+            <cite class="citation journal">
+             Potter, R. W. K.; Collins, G. S.; Kiefer, W. S.; McGovern, P. J.; et al. (2012).
+             <a class="external text" href="https://web.archive.org/web/20141221162807/http://www.lpi.usra.edu/lpi/potter/publications/Potteretal2012.pdf" rel="nofollow">
+              "Constraining the size of the South Pole-Aitken basin impact"
+             </a>
+             <span style="font-size:85%;">
+              (PDF)
+             </span>
+             .
+             <i>
+              Icarus
+             </i>
+             .
+             <b>
+              220
+             </b>
+             (2): 730–743.
+             <a href="/wiki/Bibcode" title="Bibcode">
+              Bibcode
+             </a>
+             :
+             <a class="external text" href="http://adsabs.harvard.edu/abs/2012Icar..220..730P" rel="nofollow">
+              2012Icar..220..730P
+             </a>
+             .
+             <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+              doi
+             </a>
+             :
+             <a class="external text" href="//doi.org/10.1016%2Fj.icarus.2012.05.032" rel="nofollow">
+              10.1016/j.icarus.2012.05.032
+             </a>
+             . Archived from the original on December 21, 2014.
+            </cite>
+            <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Icarus&amp;rft.atitle=Constraining+the+size+of+the+South+Pole-Aitken+basin+impact&amp;rft.volume=220&amp;rft.issue=2&amp;rft.pages=730-743&amp;rft.date=2012&amp;rft_id=info%3Adoi%2F10.1016%2Fj.icarus.2012.05.032&amp;rft_id=info%3Abibcode%2F2012Icar..220..730P&amp;rft.au=Potter%2C+R.+W.+K.&amp;rft.au=Collins%2C+G.+S.&amp;rft.au=Kiefer%2C+W.+S.&amp;rft.au=McGovern%2C+P.+J.&amp;rft.au=Kring%2C+D.+A.&amp;rft_id=http%3A%2F%2Fwww.lpi.usra.edu%2Flpi%2Fpotter%2Fpublications%2FPotteretal2012.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASouth+Pole%E2%80%93Aitken+basin">
+             <span style="display:none;">
+             </span>
+            </span>
+            <span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">
+             CS1 maint: Unfit url (
+             <a href="/wiki/Category:CS1_maint:_Unfit_url" title="Category:CS1 maint: Unfit url">
+              link
+             </a>
+             )
+            </span>
+           </span>
+          </li>
+          <li id="cite_note-L06-6">
+           <span class="mw-cite-backlink">
+            <b>
+             <a href="#cite_ref-L06_6-0">
+              ^
+             </a>
+            </b>
+           </span>
+           <span class="reference-text">
+            <cite class="citation journal">
+             P. Lucey; et al. (2006). "Understanding the lunar surface and space-Moon interactions".
+             <i>
+              Reviews in Mineralogy and Geochemistry
+             </i>
+             .
+             <b>
+              60
+             </b>
+             : 83–219.
+             <a href="/wiki/Bibcode" title="Bibcode">
+              Bibcode
+             </a>
+             :
+             <a class="external text" href="http://adsabs.harvard.edu/abs/2006RvMG...60...83L" rel="nofollow">
+              2006RvMG...60...83L
+             </a>
+             .
+             <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+              doi
+             </a>
+             :
+             <a class="external text" href="//doi.org/10.2138%2Frmg.2006.60.2" rel="nofollow">
+              10.2138/rmg.2006.60.2
+             </a>
+             .
+            </cite>
+            <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Reviews+in+Mineralogy+and+Geochemistry&amp;rft.atitle=Understanding+the+lunar+surface+and+space-Moon+interactions&amp;rft.volume=60&amp;rft.pages=83-219&amp;rft.date=2006&amp;rft_id=info%3Adoi%2F10.2138%2Frmg.2006.60.2&amp;rft_id=info%3Abibcode%2F2006RvMG...60...83L&amp;rft.au=P.+Lucey&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASouth+Pole%E2%80%93Aitken+basin">
+             <span style="display:none;">
+             </span>
+            </span>
+           </span>
+          </li>
+          <li id="cite_note-7">
+           <span class="mw-cite-backlink">
+            <b>
+             <a href="#cite_ref-7">
+              ^
+             </a>
+            </b>
+           </span>
+           <span class="reference-text">
+            <cite class="citation journal">
+             Wieczorek MA; Weiss BP; Stewart ST (2012). "An impactor origin for lunar magnetic anomalies".
+             <i>
+              <a href="/wiki/Science_(journal)" title="Science (journal)">
+               Science
+              </a>
+             </i>
+             .
+             <b>
+              335
+             </b>
+             (6073): 1212–1215.
+             <a href="/wiki/Bibcode" title="Bibcode">
+              Bibcode
+             </a>
+             :
+             <a class="external text" href="http://adsabs.harvard.edu/abs/2012Sci...335.1212W" rel="nofollow">
+              2012Sci...335.1212W
+             </a>
+             .
+             <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+              doi
+             </a>
+             :
+             <a class="external text" href="//doi.org/10.1126%2Fscience.1214773" rel="nofollow">
+              10.1126/science.1214773
+             </a>
+             .
+             <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">
+              PMID
+             </a>
+             <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/22403388" rel="nofollow">
+              22403388
+             </a>
+             .
+            </cite>
+            <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Science&amp;rft.atitle=An+impactor+origin+for+lunar+magnetic+anomalies&amp;rft.volume=335&amp;rft.issue=6073&amp;rft.pages=1212-1215&amp;rft.date=2012&amp;rft_id=info%3Apmid%2F22403388&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.1214773&amp;rft_id=info%3Abibcode%2F2012Sci...335.1212W&amp;rft.au=Wieczorek+MA&amp;rft.au=Weiss+BP&amp;rft.au=Stewart+ST&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASouth+Pole%E2%80%93Aitken+basin">
+             <span style="display:none;">
+             </span>
+            </span>
+           </span>
+          </li>
+         </ol>
+        </div>
+       </div>
+       <p>
+        <b>
+         General references
+        </b>
+       </p>
+       <ul>
+        <li>
+         <cite class="citation web">
+          G. Jeffrey Taylor (1998).
+          <a class="external text" href="http://www.psrd.hawaii.edu/July98/spa.html" rel="nofollow">
+           "The biggest hole in the Solar System"
+          </a>
+          . Planetary Science Research Discoveries.
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+biggest+hole+in+the+Solar+System&amp;rft.pub=Planetary+Science+Research+Discoveries&amp;rft.date=1998&amp;rft.au=G.+Jeffrey+Taylor&amp;rft_id=http%3A%2F%2Fwww.psrd.hawaii.edu%2FJuly98%2Fspa.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASouth+Pole%E2%80%93Aitken+basin">
+          <span style="display:none;">
+          </span>
+         </span>
+        </li>
+       </ul>
+      </div>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=South_Pole%E2%80%93Aitken_basin&amp;action=edit&amp;section=6" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+       <tr>
+        <td class="mbox-image">
+         <img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/>
+        </td>
+        <td class="mbox-text plainlist">
+         Wikimedia Commons has media related to
+         <i>
+          <b>
+           <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:South_Pole%E2%80%93Aitken_basin" title="commons:Category:South Pole–Aitken basin">
+            South Pole–Aitken basin
+           </a>
+          </b>
+         </i>
+         .
+        </td>
+       </tr>
+      </table>
+      <ul>
+       <li>
+        <a class="external text" href="http://www.lpi.usra.edu/publications/slidesets/clem2nd/slide_26.html" rel="nofollow">
+         Albedo, Topography, and Mineral Concentrations
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://teams.kipr.org/2006/06-0001/research/AikenBasin.html" rel="nofollow">
+         Searching for water in the Aitken Basin
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="https://web.archive.org/web/20061209095723/http://www.cmf.nrl.navy.mil/clementine/" rel="nofollow">
+         The Clementine Mission found ice in the Aitken Basin while mapping southern lunar region
+        </a>
+       </li>
+      </ul>
+      <div aria-labelledby="The_Moon" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="3" scope="col" style="text-align: center;">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:The_Moon" title="Template:The Moon">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a href="/wiki/Template_talk:The_Moon" title="Template talk:The Moon">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:The_Moon&amp;action=edit">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="The_Moon" style="font-size:114%;margin:0 4em">
+           The
+           <a href="/wiki/Moon" title="Moon">
+            Moon
+           </a>
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          Physical
+          <br/>
+          properties
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Internal_structure_of_the_Moon" title="Internal structure of the Moon">
+              Internal structure
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Topography_of_the_Moon" title="Topography of the Moon">
+              Topography
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Atmosphere_of_the_Moon" title="Atmosphere of the Moon">
+              Atmosphere
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Gravitation_of_the_Moon" title="Gravitation of the Moon">
+              Gravity field
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Hill_sphere" title="Hill sphere">
+                Hill sphere
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Magnetic_field_of_the_Moon" title="Magnetic field of the Moon">
+              Magnetic field
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Sodium_tail_of_the_Moon" title="Sodium tail of the Moon">
+              Sodium tail
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Moonlight" title="Moonlight">
+              Moonlight
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Earthlight_(astronomy)" title="Earthlight (astronomy)">
+                Earthshine
+               </a>
+              </li>
+             </ul>
+            </li>
+           </ul>
+          </div>
+         </td>
+         <td class="navbox-image" rowspan="8" style="width:1px;padding:0px 0px 0px 2px">
+          <div>
+           <a class="image" href="/wiki/File:FullMoon2010.jpg" title="A full moon">
+            <img alt="A full moon" data-file-height="2452" data-file-width="2580" height="114" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/FullMoon2010.jpg/120px-FullMoon2010.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/FullMoon2010.jpg/180px-FullMoon2010.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e1/FullMoon2010.jpg/240px-FullMoon2010.jpg 2x" width="120"/>
+           </a>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Orbit_of_the_Moon" title="Orbit of the Moon">
+           Orbit
+          </a>
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Orbital_elements" title="Orbital elements">
+              Orbital elements
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_distance_(astronomy)" title="Lunar distance (astronomy)">
+                Distance
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Apsis" title="Apsis">
+                  Perigee &amp; apogee
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li>
+               <a href="/wiki/Lunar_node" title="Lunar node">
+                Nodes
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Nodal_period" title="Nodal period">
+                  Nodal period
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li>
+               <a href="/wiki/Lunar_precession" title="Lunar precession">
+                Precession
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Syzygy_(astronomy)" title="Syzygy (astronomy)">
+              Syzygy
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/New_moon" title="New moon">
+                New moon
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Full_moon" title="Full moon">
+                Full moon
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Eclipse" title="Eclipse">
+                Eclipses
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Lunar_eclipse" title="Lunar eclipse">
+                  Lunar eclipse
+                 </a>
+                 <ul>
+                  <li>
+                   <a href="/wiki/Total_penumbral_lunar_eclipse" title="Total penumbral lunar eclipse">
+                    Total penumbral lunar eclipse
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Tetrad_(astronomy)" title="Tetrad (astronomy)">
+                    Tetrad
+                   </a>
+                  </li>
+                 </ul>
+                </li>
+                <li>
+                 <a href="/wiki/Solar_eclipse" title="Solar eclipse">
+                  Solar eclipse
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Solar_eclipses_on_the_Moon" title="Solar eclipses on the Moon">
+                  Solar eclipses on the Moon
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Eclipse_cycle" title="Eclipse cycle">
+                  Eclipse cycle
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li>
+               <a href="/wiki/Supermoon" title="Supermoon">
+                Supermoon
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Tide" title="Tide">
+              Tide
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Tidal_force" title="Tidal force">
+                Tidal force
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Tidal_locking" title="Tidal locking">
+                Tidal locking
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Tidal_acceleration" title="Tidal acceleration">
+                Tidal acceleration
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Tidal_range" title="Tidal range">
+                Tidal range
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_mansion" title="Lunar mansion">
+              Lunar mansion
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          Surface &amp;
+          <br/>
+          <a href="/wiki/List_of_lunar_features" title="List of lunar features">
+           features
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Selenography" title="Selenography">
+              Selenography
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Lunar_terminator" title="Lunar terminator">
+              Terminator
+             </a>
+            </li>
+            <li>
+             Hemispheres
+             <ul>
+              <li>
+               <a href="/wiki/Near_side_of_the_Moon" title="Near side of the Moon">
+                Near side
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Far_side_of_the_Moon" title="Far side of the Moon">
+                Far side
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             Poles
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_north_pole" title="Lunar north pole">
+                North pole
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Lunar_south_pole" title="Lunar south pole">
+                South pole
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Face_on_Moon_South_Pole" title="Face on Moon South Pole">
+                  Face
+                 </a>
+                </li>
+               </ul>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_mare" title="Lunar mare">
+              Maria
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/List_of_maria_on_the_Moon" title="List of maria on the Moon">
+                List
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/List_of_mountains_on_the_Moon" title="List of mountains on the Moon">
+              Mountains
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Peak_of_eternal_light" title="Peak of eternal light">
+                Peak of eternal light
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/List_of_valleys_on_the_Moon" title="List of valleys on the Moon">
+              Valleys
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Moon#Volcanic_features" title="Moon">
+              Volcanic features
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_dome" title="Lunar dome">
+                Domes
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Caldera#The_Moon" title="Caldera">
+                Calderas
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Lunar_crater" title="Lunar crater">
+              Craters
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/List_of_craters_on_the_Moon" title="List of craters on the Moon">
+                List
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Ray_system#Lunar_rays" title="Ray system">
+                Ray systems
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Crater_of_eternal_darkness" title="Crater of eternal darkness">
+                Crater of eternal darkness
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Shackleton_(crater)" title="Shackleton (crater)">
+                Shackleton crater
+               </a>
+              </li>
+              <li>
+               <a class="mw-selflink selflink">
+                South Pole–Aitken basin
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_soil" title="Lunar soil">
+              Soil
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_swirls" title="Lunar swirls">
+                Swirls
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Rille" title="Rille">
+              Rilles
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Wrinkle_ridge" title="Wrinkle ridge">
+              Wrinkle ridges
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Moon_rock" title="Moon rock">
+              Rocks
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_basalt_70017" title="Lunar basalt 70017">
+                Lunar basalt 70017
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_water" title="Lunar water">
+              Water
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Space_weathering" title="Space weathering">
+              Space weathering
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Micrometeorite" title="Micrometeorite">
+                Micrometeorite
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Sputtering" title="Sputtering">
+                Sputtering
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Quake_(natural_phenomenon)#Moonquake" title="Quake (natural phenomenon)">
+              Quakes
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Transient_lunar_phenomenon" title="Transient lunar phenomenon">
+              Transient lunar phenomenon
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          Science
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Lunar_observation" title="Lunar observation">
+              Observation
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Libration#Lunar_libration" title="Libration">
+              Libration
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_theory" title="Lunar theory">
+              Lunar theory
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Origin_of_the_Moon" title="Origin of the Moon">
+              Origin
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Giant-impact_hypothesis" title="Giant-impact hypothesis">
+                Giant-impact hypothesis
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Theia_(planet)" title="Theia (planet)">
+                  Theia
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Lunar_magma_ocean" title="Lunar magma ocean">
+                  Lunar magma ocean
+                 </a>
+                </li>
+               </ul>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Geology_of_the_Moon" title="Geology of the Moon">
+              Geology
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_geologic_timescale" title="Lunar geologic timescale">
+                Timescale
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Late_Heavy_Bombardment" title="Late Heavy Bombardment">
+                  Late Heavy Bombardment
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li>
+               <a href="/wiki/Lunar_meteorite" title="Lunar meteorite">
+                Lunar meteorites
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/KREEP" title="KREEP">
+                KREEP
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             Experiments
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_Laser_Ranging_experiment" title="Lunar Laser Ranging experiment">
+                Lunar laser ranging
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Apollo_Lunar_Surface_Experiments_Package" title="Apollo Lunar Surface Experiments Package">
+                ALSEP
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_sample_displays" title="Lunar sample displays">
+              Lunar sample displays
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Apollo_11_lunar_sample_display" title="Apollo 11 lunar sample display">
+                Apollo 11
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Apollo_17_lunar_sample_display" title="Apollo 17 lunar sample display">
+                Apollo 17
+               </a>
+              </li>
+             </ul>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Exploration_of_the_Moon" title="Exploration of the Moon">
+           Exploration
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/List_of_missions_to_the_Moon" title="List of missions to the Moon">
+              Missions
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Apollo_program" title="Apollo program">
+                Apollo program
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/List_of_lunar_probes" title="List of lunar probes">
+              Probes
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Moon_landing" title="Moon landing">
+              Landing
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Moon_landing_conspiracy_theories" title="Moon landing conspiracy theories">
+                Conspiracy theories
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Colonization_of_the_Moon" title="Colonization of the Moon">
+              Colonization
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tourism_on_the_Moon" title="Tourism on the Moon">
+              Tourism
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          Time-telling
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Lunar_calendar" title="Lunar calendar">
+              Lunar calendar
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Lunisolar_calendar" title="Lunisolar calendar">
+              Lunisolar calendar
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Month" title="Month">
+              Month
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_month" title="Lunar month">
+                Lunar month
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Nodal_period" title="Nodal period">
+                  Nodal period
+                 </a>
+                </li>
+               </ul>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Fortnight" title="Fortnight">
+              Fortnight
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Week" title="Week">
+              Sennight
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_mansion" title="Lunar mansion">
+              Lunar mansion
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Lunar_phase" title="Lunar phase">
+           Phases
+          </a>
+          &amp;
+          <br/>
+          names
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/New_moon" title="New moon">
+              New
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Full_moon" title="Full moon">
+              Full
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Full_moon#Full_moon_names" title="Full moon">
+                Names
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Crescent" title="Crescent">
+              Crescent
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Supermoon" title="Supermoon">
+              Super &amp; micro
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_eclipse" title="Lunar eclipse">
+              Blood
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Blue_moon" title="Blue moon">
+              Blue
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Black_moon" title="Black moon">
+              Black
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Dark_moon" title="Dark moon">
+              Dark
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Wet_moon" title="Wet moon">
+              Wet
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tetrad_(astronomy)" title="Tetrad (astronomy)">
+              Tetrad
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          Related
+          <br/>
+          topics
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             Psychology
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_effect" title="Lunar effect">
+                Lunar effect
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Moon_illusion" title="Moon illusion">
+                Moon illusion
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Pareidolia" title="Pareidolia">
+                Pareidolia
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Man_in_the_Moon" title="Man in the Moon">
+                  Man in the Moon
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Moon_rabbit" title="Moon rabbit">
+                  Moon rabbit
+                 </a>
+                </li>
+               </ul>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/List_of_people_with_craters_of_the_Moon_named_after_them" title="List of people with craters of the Moon named after them">
+              Craters named after people
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/List_of_extraterrestrial_memorials#The_Moon" title="List of extraterrestrial memorials">
+              Memorials on the Moon
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Moon_in_fiction" title="Moon in fiction">
+              Moon in fiction
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/List_of_lunar_deities" title="List of lunar deities">
+              Moon in mythology
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Hj%C3%BAki_and_Bil" title="Hjúki and Bil">
+                Hjúki and Bil
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             "
+             <a href="/wiki/The_Moon_is_made_of_green_cheese" title="The Moon is made of green cheese">
+              Moon is made of green cheese
+             </a>
+             "
+            </li>
+            <li>
+             <a href="/wiki/Natural_satellite" title="Natural satellite">
+              Natural satellite
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Double_planet" title="Double planet">
+              Double planet
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Planetary_objects_proposed_in_religion,_astrology,_ufology_and_pseudoscience#Lilith" title="Planetary objects proposed in religion, astrology, ufology and pseudoscience">
+              Lilith (hypothetical second moon)
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <td class="navbox-abovebelow" colspan="3" style="text-align: center;">
+          <div>
+           <ul>
+            <li>
+             <img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/>
+             <b>
+              <a href="/wiki/Category:Moon" title="Category:Moon">
+               Category
+              </a>
+             </b>
+            </li>
+            <li>
+             <img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/>
+             <b>
+              <a href="/wiki/Portal:Moon" title="Portal:Moon">
+               Moon portal
+              </a>
+             </b>
+            </li>
+            <li>
+             <img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/>
+             <b>
+              <a href="/wiki/Portal:Earth_sciences" title="Portal:Earth sciences">
+               Earth sciences portal
+              </a>
+             </b>
+            </li>
+            <li>
+             <img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/>
+             <b>
+              <a href="/wiki/Portal:Solar_System" title="Portal:Solar System">
+               Solar System portal
+              </a>
+             </b>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1221
+Cached time: 20180317140323
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.224 seconds
+Real time usage: 0.299 seconds
+Preprocessor visited node count: 938/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 54630/2097152 bytes
+Template argument size: 8187/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 8737/5000000 bytes
+Lua time usage: 0.116/10.000 seconds
+Lua memory usage: 5.57 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  238.476      1 -total
+ 45.43%  108.346      1 Template:Infobox_lunar_crater_or_mare
+ 41.55%   99.080      1 Template:Infobox
+ 29.83%   71.149      1 Template:Reflist
+ 14.11%   33.644      1 Template:Citation
+ 13.86%   33.056      1 Template:Coord
+ 13.47%   32.113      4 Template:Convert
+  9.99%   23.816      5 Template:Cite_journal
+  8.79%   20.968      1 Template:The_Moon
+  7.63%   18.202      1 Template:Navbox
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:168118-0!canonical and timestamp 20180317140327 and revision id 830888631
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=South_Pole–Aitken_basin&amp;oldid=830888631">
+      https://en.wikipedia.org/w/index.php?title=South_Pole–Aitken_basin&amp;oldid=830888631
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:LQ24_quadrangle" title="Category:LQ24 quadrangle">
+         LQ24 quadrangle
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Geological_features_on_the_Moon" title="Category:Geological features on the Moon">
+         Geological features on the Moon
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Impact_craters_on_the_Moon" title="Category:Impact craters on the Moon">
+         Impact craters on the Moon
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:CS1_maint:_Unfit_url" title="Category:CS1 maint: Unfit url">
+         CS1 maint: Unfit url
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">
+         Coordinates on Wikidata
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=South+Pole%E2%80%93Aitken+basin" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=South+Pole%E2%80%93Aitken+basin" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/South_Pole%E2%80%93Aitken_basin" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:South_Pole%E2%80%93Aitken_basin" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/South_Pole%E2%80%93Aitken_basin">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=South_Pole%E2%80%93Aitken_basin&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=South_Pole%E2%80%93Aitken_basin&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/South_Pole%E2%80%93Aitken_basin" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/South_Pole%E2%80%93Aitken_basin" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=South_Pole%E2%80%93Aitken_basin&amp;oldid=830888631" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=South_Pole%E2%80%93Aitken_basin&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q936117" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=South_Pole%E2%80%93Aitken_basin&amp;id=830888631" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=South+Pole%E2%80%93Aitken+basin">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=South+Pole%E2%80%93Aitken+basin&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=South_Pole%E2%80%93Aitken_basin&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Category:South_Pole%E2%80%93Aitken_basin" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AD%D9%88%D8%B6_%D8%A3%D9%8A%D8%AA%D9%83%D9%8A%D9%86" hreflang="ar" lang="ar" title="حوض أيتكين – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be">
+        <a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%91%D0%B0%D1%81%D0%B5%D0%B9%D0%BD_%D0%9F%D0%B0%D1%9E%D0%B4%D0%BD%D1%91%D0%B2%D1%8B_%D0%BF%D0%BE%D0%BB%D1%8E%D1%81_%E2%80%94_%D0%AD%D0%B9%D1%82%D0%BA%D0%B5%D0%BD" hreflang="be" lang="be" title="Басейн Паўднёвы полюс — Эйткен – Belarusian">
+         Беларуская
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bg">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%91%D0%B0%D1%81%D0%B5%D0%B9%D0%BD_%D0%AE%D0%B6%D0%B5%D0%BD_%D0%BF%D0%BE%D0%BB%D1%8E%D1%81-%D0%95%D0%B9%D1%82%D0%BA%D1%8A%D0%BD" hreflang="bg" lang="bg" title="Басейн Южен полюс-Ейткън – Bulgarian">
+         Български
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Conca_del_pol_sud-Aitken" hreflang="ca" lang="ca" title="Conca del pol sud-Aitken – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/South_Pole-Aitken" hreflang="cs" lang="cs" title="South Pole-Aitken – Czech">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Sydpol-Aitkenbassinet" hreflang="da" lang="da" title="Sydpol-Aitkenbassinet – Danish">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/S%C3%BCdpol-Aitken-Becken" hreflang="de" lang="de" title="Südpol-Aitken-Becken – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Cuenca_Aitken" hreflang="es" lang="es" title="Cuenca Aitken – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eo">
+        <a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Sudpolusa_Aitken-baseno" hreflang="eo" lang="eo" title="Sudpolusa Aitken-baseno – Esperanto">
+         Esperanto
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%AD%D9%88%D8%B6%D9%87_%D9%82%D8%B7%D8%A8_%D8%AC%D9%86%D9%88%D8%A8_%E2%80%93_%D8%A2%DB%8C%D8%AA%DA%A9%D9%86" hreflang="fa" lang="fa" title="حوضه قطب جنوب – آیتکن – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Bassin_P%C3%B4le_Sud-Aitken" hreflang="fr" lang="fr" title="Bassin Pôle Sud-Aitken – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hi">
+        <a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%A6%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BF%E0%A4%A3_%E0%A4%A7%E0%A5%8D%E0%A4%B0%E0%A5%81%E0%A4%B5-%E0%A4%90%E0%A4%9F%E0%A4%95%E0%A5%87%E0%A4%A8_%E0%A4%98%E0%A4%BE%E0%A4%9F%E0%A5%80" hreflang="hi" lang="hi" title="दक्षिण ध्रुव-ऐटकेन घाटी – Hindi">
+         हिन्दी
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Basin_Kutub_Selatan_Aitken" hreflang="id" lang="id" title="Basin Kutub Selatan Aitken – Indonesian">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Bacino_Polo_Sud-Aitken" hreflang="it" lang="it" title="Bacino Polo Sud-Aitken – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lb">
+        <a class="interlanguage-link-target" href="https://lb.wikipedia.org/wiki/S%C3%BCdpol-Aitken-Becken" hreflang="lb" lang="lb" title="Südpol-Aitken-Becken – Luxembourgish">
+         Lëtzebuergesch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lt">
+        <a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Piet%C5%B3_a%C5%A1igalio-Eitkeno_baseinas" hreflang="lt" lang="lt" title="Pietų ašigalio-Eitkeno baseinas – Lithuanian">
+         Lietuvių
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Zuidpool-Aitken-bekken" hreflang="nl" lang="nl" title="Zuidpool-Aitken-bekken – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%8D%97%E6%A5%B5%E3%82%A8%E3%82%A4%E3%83%88%E3%82%B1%E3%83%B3%E7%9B%86%E5%9C%B0" hreflang="ja" lang="ja" title="南極エイトケン盆地 – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Sydpol-Aitkenbassenget" hreflang="no" lang="no" title="Sydpol-Aitkenbassenget – Norwegian">
+         Norsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Basen_Biegun_Po%C5%82udniowy_%E2%80%93_Aitken" hreflang="pl" lang="pl" title="Basen Biegun Południowy – Aitken – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Bacia_do_Polo_Sul-Aitken" hreflang="pt" lang="pt" title="Bacia do Polo Sul-Aitken – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D1%81%D1%81%D0%B5%D0%B9%D0%BD_%D0%AE%D0%B6%D0%BD%D1%8B%D0%B9_%D0%BF%D0%BE%D0%BB%D1%8E%D1%81_%E2%80%94_%D0%AD%D0%B9%D1%82%D0%BA%D0%B5%D0%BD" hreflang="ru" lang="ru" title="Бассейн Южный полюс — Эйткен – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-simple">
+        <a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/South_Pole%E2%80%93Aitken_basin" hreflang="simple" lang="simple" title="South Pole–Aitken basin – Simple English">
+         Simple English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sk">
+        <a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/South_Pole-Aitken" hreflang="sk" lang="sk" title="South Pole-Aitken – Slovak">
+         Slovenčina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Aitkenin_allas" hreflang="fi" lang="fi" title="Aitkenin allas – Finnish">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%91%D0%B0%D1%81%D0%B5%D0%B9%D0%BD_%D0%9F%D1%96%D0%B2%D0%B4%D0%B5%D0%BD%D0%BD%D0%B8%D0%B9_%D0%BF%D0%BE%D0%BB%D1%8E%D1%81_%E2%80%94_%D0%95%D0%B9%D1%82%D0%BA%D0%B5%D0%BD" hreflang="uk" lang="uk" title="Басейн Південний полюс — Ейткен – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%8D%97%E6%A5%B5-%E8%89%BE%E6%89%98%E8%82%AF%E7%9B%86%E5%9C%B0" hreflang="zh" lang="zh" title="南極-艾托肯盆地 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q936117#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 17 March 2018, at 14:03.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=South_Pole%E2%80%93Aitken_basin&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.224","walltime":"0.299","ppvisitednodes":{"value":938,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":54630,"limit":2097152},"templateargumentsize":{"value":8187,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":8737,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  238.476      1 -total"," 45.43%  108.346      1 Template:Infobox_lunar_crater_or_mare"," 41.55%   99.080      1 Template:Infobox"," 29.83%   71.149      1 Template:Reflist"," 14.11%   33.644      1 Template:Citation"," 13.86%   33.056      1 Template:Coord"," 13.47%   32.113      4 Template:Convert","  9.99%   23.816      5 Template:Cite_journal","  8.79%   20.968      1 Template:The_Moon","  7.63%   18.202      1 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.116","limit":"10.000"},"limitreport-memusage":{"value":5840895,"limit":52428800}},"cachereport":{"origin":"mw1221","timestamp":"20180317140323","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":103,"wgHostname":"mw1242"});});
+  </script>
+ </body>
+</html>

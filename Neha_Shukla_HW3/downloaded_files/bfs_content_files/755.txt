@@ -1,0 +1,2984 @@
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Selenography - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Selenography","wgTitle":"Selenography","wgCurRevisionId":821321252,"wgRevisionId":821321252,"wgArticleId":2212880,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Pages using multiple image with manual scaled images","All articles with unsourced statements","Articles with unsourced statements from May 2009","Lunar science","Space science","Planetary science","Selenographers","Cartography"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Selenography","wgRelevantArticleId":2212880,"wgRequestId":"WrCsGgpAMEwAAD2N@aYAAACB","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q1409625","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.25" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/2/22/Old_view_moon.jpg" property="og:image"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Selenography" rel="alternate"/>
+  <link href="/w/index.php?title=Selenography&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Selenography&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Selenography" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Selenography rootpage-Selenography skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Selenography
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <div class="hatnote navigation-not-searchable" role="note">
+       This article is about the study of lunar mapping. For the
+       <a href="/wiki/Rachel%27s" title="Rachel's">
+        Rachel's
+       </a>
+       album, see
+       <a href="/wiki/Selenography_(album)" title="Selenography (album)">
+        Selenography (album)
+       </a>
+       .
+      </div>
+      <div class="hatnote navigation-not-searchable" role="note">
+       See also:
+       <a href="/wiki/Geology_of_the_Moon" title="Geology of the Moon">
+        Geology of the Moon
+       </a>
+      </div>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:172px;">
+        <a class="image" href="/wiki/File:Old_view_moon.jpg">
+         <img alt="" class="thumbimage" data-file-height="771" data-file-width="519" height="253" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Old_view_moon.jpg/170px-Old_view_moon.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Old_view_moon.jpg/255px-Old_view_moon.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/22/Old_view_moon.jpg/340px-Old_view_moon.jpg 2x" width="170"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Old_view_moon.jpg" title="Enlarge">
+          </a>
+         </div>
+         "Lunar Day", from the book
+         <i>
+          Recreations in Astronomy
+         </i>
+         by H. D. Warren D. D., 1879. This represents a historical concept of the lunar surface appearance. Robotic missions to the Moon later showed that the surface features are much more rounded due to a long history of impacts.
+        </div>
+       </div>
+      </div>
+      <p>
+       <b>
+        Selenography
+       </b>
+       is the study of the surface and physical features of the
+       <a href="/wiki/Moon" title="Moon">
+        Moon
+       </a>
+       . Historically, the principal concern of selenographists was the mapping and naming of the lunar
+       <a href="/wiki/Lunar_mare" title="Lunar mare">
+        maria
+       </a>
+       ,
+       <a href="/wiki/Impact_crater" title="Impact crater">
+        craters
+       </a>
+       , mountain ranges, and other various features. This task was largely finished when high resolution images of the
+       <a href="/wiki/Near_side_of_the_Moon" title="Near side of the Moon">
+        near
+       </a>
+       and
+       <a href="/wiki/Far_side_of_the_Moon" title="Far side of the Moon">
+        far
+       </a>
+       sides of the Moon were obtained by orbiting spacecraft during the early space era. Nevertheless, some regions of the Moon remain poorly imaged (especially near the poles) and the exact locations of many features (like
+       <a href="/wiki/Crater_depth" title="Crater depth">
+        crater depths
+       </a>
+       ) are uncertain by several kilometers. Today, selenography is considered to be a subdiscipline of
+       <a class="mw-redirect" href="/wiki/Selenology" title="Selenology">
+        selenology
+       </a>
+       , which itself is most often referred to as simply "lunar science." The word selenography is derived from the
+       <a href="/wiki/Greek_language" title="Greek language">
+        Greek
+       </a>
+       lunar deity Σελήνη
+       <i>
+        <a href="/wiki/Selene" title="Selene">
+         Selene
+        </a>
+       </i>
+       and
+       <a class="extiw" href="https://en.wiktionary.org/wiki/%CE%B3%CF%81%CE%AC%CF%86%CF%89" title="wiktionary:γράφω">
+        γράφω
+       </a>
+       graphō, "I write".
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#History">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           History
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#Mapping_and_naming_the_Moon">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Mapping and naming the Moon
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-3">
+           <a href="#Satellite_craters">
+            <span class="tocnumber">
+             2.1
+            </span>
+            <span class="toctext">
+             Satellite craters
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-4">
+         <a href="#Historical_lunar_maps">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           Historical lunar maps
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-5">
+         <a href="#See_also">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-6">
+         <a href="#Notes">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           Notes
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-7">
+         <a href="#References">
+          <span class="tocnumber">
+           6
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-8">
+         <a href="#External_links">
+          <span class="tocnumber">
+           7
+          </span>
+          <span class="toctext">
+           External links
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="History">
+        History
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Selenography&amp;action=edit&amp;section=1" title="Edit section: History">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="hatnote navigation-not-searchable" role="note">
+       See also:
+       <a href="/wiki/Exploration_of_the_Moon" title="Exploration of the Moon">
+        Exploration of the Moon
+       </a>
+      </div>
+      <p>
+       The idea that the Moon was not perfectly smooth can be traced as far back as approximately 450 BC, when
+       <a href="/wiki/Democritus" title="Democritus">
+        Democritus
+       </a>
+       believed that there were "lofty mountains and hollow valleys" on the Moon. However, it was not until the end of the 15th century when serious study of selenography began. Around 1603,
+       <a href="/wiki/William_Gilbert_(astronomer)" title="William Gilbert (astronomer)">
+        William Gilbert
+       </a>
+       compiled the first lunar drawing based on naked-eye observations. Others soon followed, and when the
+       <a href="/wiki/Telescope" title="Telescope">
+        telescope
+       </a>
+       made its appearance, drawings were begun that at first were not very accurate, but soon became better as
+       <a href="/wiki/Optics" title="Optics">
+        optics
+       </a>
+       improved. In the early 18th century, the
+       <a href="/wiki/Libration" title="Libration">
+        librations
+       </a>
+       of the Moon were measured, showing that more than 50 percent of the lunar surface was visible to observers. In 1750,
+       <a class="new" href="/w/index.php?title=Johann_Meyer&amp;action=edit&amp;redlink=1" title="Johann Meyer (page does not exist)">
+        Johann Meyer
+       </a>
+       produced the first reliable set of lunar
+       <a href="/wiki/Coordinate_system" title="Coordinate system">
+        coordinates
+       </a>
+       that would enable astronomers to locate features on the Moon.
+      </p>
+      <p>
+       Moon mapping became systematic in 1779 when
+       <a href="/wiki/Johann_Hieronymus_Schr%C3%B6ter" title="Johann Hieronymus Schröter">
+        Johann Schröter
+       </a>
+       started making meticulous observations and measurements of the lunar features. The first published large map of the Moon, four sheets in size, was published in 1834 by
+       <a href="/wiki/Johann_Heinrich_von_M%C3%A4dler" title="Johann Heinrich von Mädler">
+        Johann Heinrich von Mädler
+       </a>
+       , who followed this up by publishing a book entitled, "The Universal Selenography".
+       <sup class="reference" id="cite_ref-1">
+        <a href="#cite_note-1">
+         [1]
+        </a>
+       </sup>
+       All measurements were done by direct observation until March 1840, when
+       <a class="new" href="/w/index.php?title=J.W._Draper&amp;action=edit&amp;redlink=1" title="J.W. Draper (page does not exist)">
+        J.W. Draper
+       </a>
+       , using a five-inch reflector, produced a
+       <a href="/wiki/Daguerreotype" title="Daguerreotype">
+        daguerreotype
+       </a>
+       of the Moon, thus introducing photography to the astronomical world. At first, the images were of very poor quality, but like with the telescope two hundred years earlier, they very quickly became better. By 1890 lunar photography had become a recognized branch of astronomical research.
+      </p>
+      <p>
+       The 20th century brought more advances to study of the Moon. In 1959, Russia's
+       <a href="/wiki/Luna_3" title="Luna 3">
+        Luna 3
+       </a>
+       sent back the first photographs of the
+       <a href="/wiki/Far_side_of_the_Moon" title="Far side of the Moon">
+        far side of the Moon
+       </a>
+       , giving the world the first glimpse of the until-then unseen side of our
+       <a href="/wiki/Natural_satellite" title="Natural satellite">
+        natural satellite
+       </a>
+       . The United States launched the
+       <a href="/wiki/Ranger_program" title="Ranger program">
+        Ranger
+       </a>
+       spacecraft between 1961 and 1965 to take photographs right down to the instant they impacted the surface, the
+       <a href="/wiki/Lunar_Orbiter_program" title="Lunar Orbiter program">
+        Lunar Orbiters
+       </a>
+       between 1966 and 1967 to photograph the Moon from orbit, and the
+       <a href="/wiki/Surveyor_program" title="Surveyor program">
+        Surveyors
+       </a>
+       between 1966 and 1968 to take photos and soft land on the lunar surface. The Russian
+       <a href="/wiki/Lunokhod_programme" title="Lunokhod programme">
+        Lunokhods
+       </a>
+       <a href="/wiki/Lunokhod_1" title="Lunokhod 1">
+        1
+       </a>
+       (1970) and
+       <a href="/wiki/Lunokhod_2" title="Lunokhod 2">
+        2
+       </a>
+       (1973) traversed almost 50 km of the lunar surface, obtaining detailed images of the lunar surface. The
+       <a class="mw-redirect" href="/wiki/Clementine_mission" title="Clementine mission">
+        Clementine
+       </a>
+       spacecraft obtained the first near global map of the Moon's topography, as well as multispectral images. All of these missions sent back photographs that were of increasingly better resolution.
+      </p>
+      <div class="thumb tmulti tnone center">
+       <div class="thumbinner" style="width:591px;max-width:591px">
+        <div style="clear:both;font-weight:bold;text-align:center;background-color:transparent">
+         Moon –
+         <a href="/wiki/Oceanus_Procellarum" title="Oceanus Procellarum">
+          Oceanus Procellarum
+         </a>
+         ("Ocean of Storms")
+        </div>
+        <div class="tsingle" style="float:left;margin:1px;width:291px;max-width:291px">
+         <div class="thumbimage" style="height:107px;overflow:hidden">
+          <a class="image" href="/wiki/File:14-236-LunarGrailMission-OceanusProcellarum-Rifts-Overall-20141001.jpg">
+           <img alt="" data-file-height="228" data-file-width="614" height="107" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/14-236-LunarGrailMission-OceanusProcellarum-Rifts-Overall-20141001.jpg/289px-14-236-LunarGrailMission-OceanusProcellarum-Rifts-Overall-20141001.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/14-236-LunarGrailMission-OceanusProcellarum-Rifts-Overall-20141001.jpg/434px-14-236-LunarGrailMission-OceanusProcellarum-Rifts-Overall-20141001.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/14-236-LunarGrailMission-OceanusProcellarum-Rifts-Overall-20141001.jpg/578px-14-236-LunarGrailMission-OceanusProcellarum-Rifts-Overall-20141001.jpg 2x" width="289"/>
+          </a>
+         </div>
+         <div class="thumbcaption" style="clear:left">
+          Ancient
+          <a href="/wiki/Rift_valley" title="Rift valley">
+           rift valleys
+          </a>
+          – rectangular structure (visible – topography –
+          <a class="mw-redirect" href="/wiki/Gravity_Recovery_and_Interior_Laboratory" title="Gravity Recovery and Interior Laboratory">
+           GRAIL gravity gradients
+          </a>
+          ) (October 1, 2014).
+         </div>
+        </div>
+        <div class="tsingle" style="float:left;margin:1px;width:109px;max-width:109px">
+         <div class="thumbimage" style="height:107px;overflow:hidden">
+          <a class="image" href="/wiki/File:PIA18822-LunarGrailMission-OceanusProcellarum-Rifts-Overall-20141001.jpg">
+           <img alt="" data-file-height="1500" data-file-width="1500" height="107" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/PIA18822-LunarGrailMission-OceanusProcellarum-Rifts-Overall-20141001.jpg/107px-PIA18822-LunarGrailMission-OceanusProcellarum-Rifts-Overall-20141001.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/PIA18822-LunarGrailMission-OceanusProcellarum-Rifts-Overall-20141001.jpg/161px-PIA18822-LunarGrailMission-OceanusProcellarum-Rifts-Overall-20141001.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8c/PIA18822-LunarGrailMission-OceanusProcellarum-Rifts-Overall-20141001.jpg/214px-PIA18822-LunarGrailMission-OceanusProcellarum-Rifts-Overall-20141001.jpg 2x" width="107"/>
+          </a>
+         </div>
+         <div class="thumbcaption" style="clear:left">
+          Ancient
+          <a href="/wiki/Rift_valley" title="Rift valley">
+           rift valleys
+          </a>
+          – context.
+         </div>
+        </div>
+        <div class="tsingle" style="float:left;margin:1px;width:185px;max-width:185px">
+         <div class="thumbimage" style="height:107px;overflow:hidden">
+          <a class="image" href="/wiki/File:PIA18821-LunarGrailMission-OceanusProcellarum-Rifts-Closeup-20141001.jpg">
+           <img alt="" data-file-height="905" data-file-width="1546" height="107" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/PIA18821-LunarGrailMission-OceanusProcellarum-Rifts-Closeup-20141001.jpg/183px-PIA18821-LunarGrailMission-OceanusProcellarum-Rifts-Closeup-20141001.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/PIA18821-LunarGrailMission-OceanusProcellarum-Rifts-Closeup-20141001.jpg/275px-PIA18821-LunarGrailMission-OceanusProcellarum-Rifts-Closeup-20141001.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/67/PIA18821-LunarGrailMission-OceanusProcellarum-Rifts-Closeup-20141001.jpg/366px-PIA18821-LunarGrailMission-OceanusProcellarum-Rifts-Closeup-20141001.jpg 2x" width="183"/>
+          </a>
+         </div>
+         <div class="thumbcaption" style="clear:left">
+          Ancient
+          <a href="/wiki/Rift_valley" title="Rift valley">
+           rift valleys
+          </a>
+          – closeup (artist's concept).
+         </div>
+        </div>
+        <div style="clear:left">
+        </div>
+       </div>
+      </div>
+      <h2>
+       <span class="mw-headline" id="Mapping_and_naming_the_Moon">
+        Mapping and naming the Moon
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Selenography&amp;action=edit&amp;section=2" title="Edit section: Mapping and naming the Moon">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="thumb tleft">
+       <div class="thumbinner" style="width:252px;">
+        <a class="image" href="/wiki/File:Hevelius_Map_of_the_Moon_1647.jpg">
+         <img alt="" class="thumbimage" data-file-height="3744" data-file-width="4244" height="221" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Hevelius_Map_of_the_Moon_1647.jpg/250px-Hevelius_Map_of_the_Moon_1647.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Hevelius_Map_of_the_Moon_1647.jpg/375px-Hevelius_Map_of_the_Moon_1647.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Hevelius_Map_of_the_Moon_1647.jpg/500px-Hevelius_Map_of_the_Moon_1647.jpg 2x" width="250"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Hevelius_Map_of_the_Moon_1647.jpg" title="Enlarge">
+          </a>
+         </div>
+         Map of the Moon by
+         <a href="/wiki/Johannes_Hevelius" title="Johannes Hevelius">
+          Johannes Hevelius
+         </a>
+         (1647)
+        </div>
+       </div>
+      </div>
+      <p>
+       The oldest known illustration of the Moon was found in a
+       <a href="/wiki/Passage_grave" title="Passage grave">
+        passage grave
+       </a>
+       in
+       <a href="/wiki/Knowth" title="Knowth">
+        Knowth
+       </a>
+       ,
+       <a href="/wiki/County_Meath" title="County Meath">
+        County Meath
+       </a>
+       ,
+       <a href="/wiki/Ireland" title="Ireland">
+        Ireland
+       </a>
+       . The tomb was
+       <a href="/wiki/Radiocarbon_dating" title="Radiocarbon dating">
+        carbon dated
+       </a>
+       to 3330–2790 B.C.
+       <sup class="reference" id="cite_ref-2">
+        <a href="#cite_note-2">
+         [2]
+        </a>
+       </sup>
+       <a href="/wiki/Leonardo_da_Vinci" title="Leonardo da Vinci">
+        Leonardo da Vinci
+       </a>
+       made and annotated a small number of sketches of the Moon around 1500.
+       <a href="/wiki/William_Gilbert_(astronomer)" title="William Gilbert (astronomer)">
+        William Gilbert
+       </a>
+       made a drawing in the late 16th century, in which he gave names to a dozen surface features, published posthumously in a volume called
+       <i>
+        De Mondo Nostro Sublunari Philosophia Nova
+       </i>
+       . Following the invention of the telescope, drawings of the Moon were made by
+       <a href="/wiki/Thomas_Harriot" title="Thomas Harriot">
+        Thomas Harriot
+       </a>
+       (1609),
+       <a href="/wiki/Galileo_Galilei" title="Galileo Galilei">
+        Galileo Galilei
+       </a>
+       (1609) and
+       <a class="new" href="/w/index.php?title=Charles_Scheiner&amp;action=edit&amp;redlink=1" title="Charles Scheiner (page does not exist)">
+        Charles Scheiner
+       </a>
+       (1614).
+       <sup class="reference" id="cite_ref-3">
+        <a href="#cite_note-3">
+         [3]
+        </a>
+       </sup>
+      </p>
+      <p>
+       The first serious attempts at naming the features of the Earth's Moon as seen through a telescope were made by
+       <a href="/wiki/Michael_van_Langren" title="Michael van Langren">
+        Michel Florent van Langren
+       </a>
+       in 1645. His work is considered the first true map of the Moon, as it portrayed the various
+       <a href="/wiki/Lunar_mare" title="Lunar mare">
+        lunar maria
+       </a>
+       ,
+       <a href="/wiki/Impact_crater" title="Impact crater">
+        craters
+       </a>
+       , and mountain peaks and ranges. Many of the features were given names that had a distinctly
+       <a class="mw-redirect" href="/wiki/Roman_Catholic_Church" title="Roman Catholic Church">
+        Catholic
+       </a>
+       religious character, using the period names of Catholic royalty for craters and the names of Catholic saints for the capes and promontories. The
+       <i>
+        maria
+       </i>
+       were given
+       <a href="/wiki/Latin" title="Latin">
+        Latin
+       </a>
+       names of seas and oceans. Minor craters were given the names of astronomers, mathematicians, and other notable scholars of the past and present periods.
+      </p>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Micrographia_Schem_38.jpg">
+         <img alt="" class="thumbimage" data-file-height="1683" data-file-width="1187" height="312" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Micrographia_Schem_38.jpg/220px-Micrographia_Schem_38.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Micrographia_Schem_38.jpg/330px-Micrographia_Schem_38.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/43/Micrographia_Schem_38.jpg/440px-Micrographia_Schem_38.jpg 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Micrographia_Schem_38.jpg" title="Enlarge">
+          </a>
+         </div>
+         A study of the moon from
+         <a href="/wiki/Robert_Hooke" title="Robert Hooke">
+          Robert Hooke's
+         </a>
+         <a href="/wiki/Micrographia" title="Micrographia">
+          Micrographia
+         </a>
+         , 1665
+        </div>
+       </div>
+      </div>
+      <p>
+       In 1647,
+       <a href="/wiki/Johannes_Hevelius" title="Johannes Hevelius">
+        Johannes Hevelius
+       </a>
+       produced the rival work titled
+       <i>
+        Selenographia
+       </i>
+       , which formed the first lunar atlas. Hevelius ignored the nomenclature of Van Langren, and instead adopted the names of terrestrial features. These were mapped in a manner that corresponded to their place names on the Earth, particularly with respect to the ancient world as known to the
+       <a href="/wiki/Ancient_Rome" title="Ancient Rome">
+        Roman
+       </a>
+       and
+       <a href="/wiki/Ancient_Greece" title="Ancient Greece">
+        Greek
+       </a>
+       civilizations. This work of Hevelius proved influential among European astronomers of the period, and the
+       <i>
+        Selenographia
+       </i>
+       served as the standard reference work for over a century.
+      </p>
+      <p>
+       The modern scheme of lunar nomenclature was devised by
+       <a class="mw-redirect" href="/wiki/Giambattista_Riccioli" title="Giambattista Riccioli">
+        Giambattista Riccioli
+       </a>
+       , a
+       <a href="/wiki/Society_of_Jesus" title="Society of Jesus">
+        Jesuit
+       </a>
+       priest and scholar who lived in northern
+       <a href="/wiki/Italy" title="Italy">
+        Italy
+       </a>
+       . His
+       <i>
+        Almagestum Novum
+       </i>
+       was published in 1651 as a defense of the Catholic views during the
+       <a class="mw-redirect" href="/wiki/Counter_Reformation" title="Counter Reformation">
+        Counter Reformation
+       </a>
+       . In particular he argued against the views espoused by
+       <a href="/wiki/Galileo_Galilei" title="Galileo Galilei">
+        Galileo
+       </a>
+       and
+       <a class="mw-redirect" href="/wiki/Copernicus" title="Copernicus">
+        Copernicus
+       </a>
+       that favored a heliocentric model with perfectly circular orbits. The work contained scientific reference material based on knowledge of the period and was widely used by Jesuit teachers of the time. However the only significant aspect of the work to survive to the present period is Riccioli's system of lunar nomenclature.
+      </p>
+      <p>
+       The lunar illustrations in the
+       <i>
+        Almagestum Novum
+       </i>
+       were drawn by a fellow Jesuit teacher by the name of
+       <a href="/wiki/Francesco_Maria_Grimaldi" title="Francesco Maria Grimaldi">
+        Francesco Grimaldi
+       </a>
+       . The nomenclature was devised based on a subdivision of the visible lunar surface into octants, numbered in the Roman style from I through VIII. Octant I formed the northwest section, and subsequent octants proceeded in a clockwise direction aligned with the compass directions. Thus the octant VI lay to the south and would include
+       <a href="/wiki/Clavius_(crater)" title="Clavius (crater)">
+        Clavius
+       </a>
+       and
+       <a class="mw-redirect" href="/wiki/Tycho_(crater)" title="Tycho (crater)">
+        Tycho
+       </a>
+       craters.
+      </p>
+      <p>
+       The naming scheme had two components, the first used for the broad features of land and seas and the second for the craters. Riccioli used the names of various historical effects and weather conditions attributed to the Moon throughout history. Thus there were the seas of crises (Mare Crisium), serenity (Mare Serenitatis), and fertility (Mare Fecunditatis). There were also the seas of rain (Mare Imbrium), clouds (Mare Nubium), and cold (Mare Frigoris). These were given their names in the
+       <a href="/wiki/Latin" title="Latin">
+        Latin
+       </a>
+       form.
+      </p>
+      <p>
+       The continental areas between the seas were given comparable names, but were opposite the names used for the seas. Thus there were the lands of sterility (Terra Sterilitatis), heat (Terra Caloris), and liveliness (Terra Vitae). However these names for the highland regions are no longer used on recent maps. See
+       <a class="mw-redirect" href="/wiki/List_of_features_on_the_Moon#Terra" title="List of features on the Moon">
+        List of features on the Moon#Terra
+       </a>
+       for a full list.
+      </p>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:172px;">
+        <a class="image" href="/wiki/File:Schr%C3%B6ter_selenotopographische_fragmente_beispiel_karten.png">
+         <img alt="" class="thumbimage" data-file-height="1015" data-file-width="800" height="216" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Schr%C3%B6ter_selenotopographische_fragmente_beispiel_karten.png/170px-Schr%C3%B6ter_selenotopographische_fragmente_beispiel_karten.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Schr%C3%B6ter_selenotopographische_fragmente_beispiel_karten.png/255px-Schr%C3%B6ter_selenotopographische_fragmente_beispiel_karten.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Schr%C3%B6ter_selenotopographische_fragmente_beispiel_karten.png/340px-Schr%C3%B6ter_selenotopographische_fragmente_beispiel_karten.png 2x" width="170"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Schr%C3%B6ter_selenotopographische_fragmente_beispiel_karten.png" title="Enlarge">
+          </a>
+         </div>
+         Samples of lunar maps in the
+         <i>
+          Selenetopographische Fragmente
+         </i>
+         by
+         <a href="/wiki/Johann_Hieronymus_Schr%C3%B6ter" title="Johann Hieronymus Schröter">
+          Johann Hieronymus Schröter
+         </a>
+         .
+        </div>
+       </div>
+      </div>
+      <p>
+       Many of the craters were named based on the octant in which they were found. Octants I, II, and III were use primarily for names from ancient Greece, such as
+       <a href="/wiki/Plato" title="Plato">
+        Plato
+       </a>
+       ,
+       <a href="/wiki/Atlas_(mythology)" title="Atlas (mythology)">
+        Atlas
+       </a>
+       , and
+       <a href="/wiki/Archimedes" title="Archimedes">
+        Archimedes
+       </a>
+       . Toward the middle in octants IV, V, and VI were names from the period of the ancient
+       <a class="mw-redirect" href="/wiki/Roman_empire" title="Roman empire">
+        Roman empire
+       </a>
+       , such as
+       <a href="/wiki/Julius_Caesar" title="Julius Caesar">
+        Julius Caesar
+       </a>
+       ,
+       <a class="mw-redirect" href="/wiki/Cornelius_Tacitus" title="Cornelius Tacitus">
+        Tacitus
+       </a>
+       , and
+       <a class="mw-redirect" href="/wiki/Lucius_Taruntius_Firmanus" title="Lucius Taruntius Firmanus">
+        Taruntius
+       </a>
+       . Toward the bottom half of the map were placed scholars, writers, and philosophers from medieval Europe and Arabic regions.
+      </p>
+      <p>
+       The outer extremes of octants V, VI, VII, as well as all of octant VIII were devoted to contemporaries of Riccioli. The last also contained features named for Copernicus, Kepler, and Galileo. These were "banished" here far from the "ancients", as a political gesture to the Catholic Church.
+       <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+        [
+        <i>
+         <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+          <span title="This claim needs references to reliable sources. (May 2009)">
+           citation needed
+          </span>
+         </a>
+        </i>
+        ]
+       </sup>
+       A number of craters around the
+       <a href="/wiki/Mare_Nectaris" title="Mare Nectaris">
+        Mare Nectaris
+       </a>
+       were given the names of saints of the Catholic Church, following the tradition of Van Langren. These, however, were all connected in some aspect with astronomy. Later maps dropped the "St." from the names of these craters.
+      </p>
+      <p>
+       Riccioli's system of nomenclature was widely adopted after the publication of his
+       <i>
+        Almagestum novum
+       </i>
+       , and many of the names remain in common use today. The system was scientifically inclusive and was considered elegant and poetic in style, so it appealed widely to the thinkers of the period. It was also readily extensible with new names following the same scheme. Thus it came to replace the nomenclature of Van Langren and Hevelius.
+      </p>
+      <p>
+       Later astronomers and lunar mappers augmented the nomenclature with additional names of features. The most notable among these contributors was
+       <a href="/wiki/Johann_Hieronymus_Schr%C3%B6ter" title="Johann Hieronymus Schröter">
+        Johann Schröter
+       </a>
+       who published a highly detailed map of the Moon in 1791: the
+       <i>
+        Selenotopografisches Fragmenten
+       </i>
+       . Schröter's adoption of Riccioli's often-used naming scheme effectively made it the standard system of lunar nomenclature. Riccioli's naming scheme was formally established as the doctrinal lunar nomenclature by a vote of the
+       <a href="/wiki/International_Astronomical_Union" title="International Astronomical Union">
+        IAU
+       </a>
+       in 1935, which gave standard names to 600 lunar features.
+      </p>
+      <p>
+       The system was later expanded and updated by the IAU during the 1960s, but new designations were limited to the names of deceased scientists. After
+       <a href="/wiki/Soviet_Union" title="Soviet Union">
+        Soviet
+       </a>
+       spacecraft photographed the
+       <a class="mw-redirect" href="/wiki/Far_side_(Moon)" title="Far side (Moon)">
+        far side
+       </a>
+       of the Moon, many of the newly discovered features were named after Soviet scientists and engineers. All subsequent names have been assigned by the
+       <a href="/wiki/International_Astronomical_Union" title="International Astronomical Union">
+        IAU
+       </a>
+       . Some craters were
+       <a href="/wiki/List_of_lunar_craters_named_for_space_explorers" title="List of lunar craters named for space explorers">
+        named for space explorers
+       </a>
+       .
+      </p>
+      <h3>
+       <span class="mw-headline" id="Satellite_craters">
+        Satellite craters
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Selenography&amp;action=edit&amp;section=3" title="Edit section: Satellite craters">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       The nomenclature system for identifying satellite craters was originally devised by
+       <a class="mw-redirect" href="/wiki/Johann_Heinrich_M%C3%A4dler" title="Johann Heinrich Mädler">
+        Johann Mädler
+       </a>
+       . The craters that surrounded a major crater were identified by means of a letter. These subsidiary craters were usually smaller than the crater with which they were associated, but there are some exceptions. The craters could be assigned letters A through Z, with I omitted. (As the large majority of crater names were masculine, the main craters were termed "
+       <a href="/wiki/Patronymic" title="Patronymic">
+        patronymic
+       </a>
+       " craters.)
+      </p>
+      <p>
+       The assignment of the letters to satellite craters was originally a somewhat haphazard process. Letters were typically assigned to craters in order of significance rather than by their location. Precedence depended on the angle of illumination from the Sun at the time of the telescope observation, which could change over the course of the lunar day. In many cases the assignments would seemingly be made at random.
+      </p>
+      <p>
+       In a number of cases the satellite crater would lie closer to a main crater with which it was not associated. To identify the patronymic crater, Mädler placed the identifying letter to the side of the feature midpoint closest to the associated main crater. This also had the advantage of allowing the names of the main craters to be omitted from the maps when identifying the subsidiary features.
+      </p>
+      <p>
+       Over the course of time, many of the satellite craters were assigned an
+       <a href="/wiki/Eponym" title="Eponym">
+        eponym
+       </a>
+       by lunar observers. The process of naming lunar features was assumed by the
+       <a href="/wiki/International_Astronomical_Union" title="International Astronomical Union">
+        International Astronomical Union
+       </a>
+       (IAU) in 1919. The commission for naming these features formally adopted the convention of using capital Roman letters to identify craters and valleys.
+      </p>
+      <p>
+       When suitable maps of the far side of the moon became available by 1966, Ewen A. Whitaker assigned the names to satellite features based on the angle of the location relative to the main crater. A satellite crater located due north of the main crater was given the identifier 'Z'. The full 360° circle about the crater was then subdivided evenly into 24 parts, like a 24-hour clock. Each "hour" angle running clockwise was assigned a letter, beginning with 'A' at 1 o'clock. (The letters I and O were omitted, resulting in only 24 letters.) Thus a crater due south of the main crater was given the letter 'M'.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Historical_lunar_maps">
+        Historical lunar maps
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Selenography&amp;action=edit&amp;section=4" title="Edit section: Historical lunar maps">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:302px;">
+        <a class="image" href="/wiki/File:MoonMap1.jpg">
+         <img alt="" class="thumbimage" data-file-height="1328" data-file-width="1758" height="227" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/MoonMap1.jpg/300px-MoonMap1.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/MoonMap1.jpg/450px-MoonMap1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/MoonMap1.jpg/600px-MoonMap1.jpg 2x" width="300"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:MoonMap1.jpg" title="Enlarge">
+          </a>
+         </div>
+         Map of the Moon from the
+         <i>
+          Andrees Allgemeiner Handatlas
+         </i>
+         (1881) by
+         <a href="/wiki/Richard_Andree" title="Richard Andree">
+          Richard Andree
+         </a>
+        </div>
+       </div>
+      </div>
+      <p>
+       The following is a list of historically-notable lunar maps and atlases, arranged in chronological order by publication date.
+      </p>
+      <ul>
+       <li>
+        <a class="mw-redirect" href="/wiki/Michel_Florent_van_Langren" title="Michel Florent van Langren">
+         Michel van Langren
+        </a>
+        , engraved map, 1645.
+       </li>
+       <li>
+        <a href="/wiki/Johannes_Hevelius" title="Johannes Hevelius">
+         Johannes Hevelius
+        </a>
+        ,
+        <i>
+         <a class="mw-redirect" href="/wiki/Selenographia" title="Selenographia">
+          Selenographia
+         </a>
+        </i>
+        , 1647.
+       </li>
+       <li>
+        <a href="/wiki/Giovanni_Battista_Riccioli" title="Giovanni Battista Riccioli">
+         Giovanni Riccioli
+        </a>
+        and
+        <a href="/wiki/Francesco_Maria_Grimaldi" title="Francesco Maria Grimaldi">
+         Francesco Grimaldi
+        </a>
+        ,
+        <i>
+         <a class="mw-redirect" href="/wiki/Almagestum_novum" title="Almagestum novum">
+          Almagestum novum
+         </a>
+        </i>
+        , 1651.
+       </li>
+       <li>
+        <a href="/wiki/Giovanni_Domenico_Cassini" title="Giovanni Domenico Cassini">
+         Giovanni Domenico Cassini
+        </a>
+        , engraved map, 1679 (reprinted in 1787).
+       </li>
+       <li>
+        <a href="/wiki/Tobias_Mayer" title="Tobias Mayer">
+         Tobias Mayer
+        </a>
+        , engraved map, 1749, published in 1775.
+       </li>
+       <li>
+        <a href="/wiki/Johann_Hieronymus_Schr%C3%B6ter" title="Johann Hieronymus Schröter">
+         Johann Hieronymus Schröter
+        </a>
+        ,
+        <i>
+         Selenotopografisches Fragmenten
+        </i>
+        , 1st volume 1791, 2nd volume 1802.
+       </li>
+       <li>
+        <a href="/wiki/John_Russell_(painter)" title="John Russell (painter)">
+         John Russell
+        </a>
+        , engraved images, 1805.
+       </li>
+       <li>
+        <a href="/wiki/Wilhelm_Gotthelf_Lohrmann" title="Wilhelm Gotthelf Lohrmann">
+         Wilhelm Lohrmann
+        </a>
+        ,
+        <i>
+         Topographie der sichtbaren Mondoberflaeche
+        </i>
+        , Leipzig, 1824.
+       </li>
+       <li>
+        <a href="/wiki/Wilhelm_Beer" title="Wilhelm Beer">
+         Wilhelm Beer
+        </a>
+        and
+        <a class="mw-redirect" href="/wiki/Johann_Heinrich_M%C3%A4dler" title="Johann Heinrich Mädler">
+         Johann Heinrich Mädler
+        </a>
+        ,
+        <i>
+         Mappa Selenographica totam Lunae hemisphaeram visibilem complectens
+        </i>
+        , Berlin, 1834-36.
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Edmund_Neville_Neison" title="Edmund Neville Neison">
+         Edmund Neison
+        </a>
+        ,
+        <i>
+         The Moon
+        </i>
+        , London, 1876.
+       </li>
+       <li>
+        <a href="/wiki/Johann_Friedrich_Julius_Schmidt" title="Johann Friedrich Julius Schmidt">
+         Julius Schmidt
+        </a>
+        ,
+        <i>
+         Charte der Gebirge des Mondes
+        </i>
+        , Berlin, 1878.
+       </li>
+       <li>
+        <a href="/wiki/Thomas_Gwyn_Elger" title="Thomas Gwyn Elger">
+         Thomas Gwyn Elger
+        </a>
+        ,
+        <i>
+         The Moon
+        </i>
+        , London, 1895.
+       </li>
+       <li>
+        <a href="/wiki/Johann_Nepomuk_Krieger" title="Johann Nepomuk Krieger">
+         Johann Krieger
+        </a>
+        ,
+        <i>
+         Mond-Atlas
+        </i>
+        , 1898. Two additional volumes were published posthumously in 1912 by the Vienna Academy of Sciences.
+       </li>
+       <li>
+        <a href="/wiki/Walter_Goodacre" title="Walter Goodacre">
+         Walter Goodacre
+        </a>
+        ,
+        <i>
+         Map of the Moon
+        </i>
+        , London, 1910.
+       </li>
+       <li>
+        <a href="/wiki/Mary_Adela_Blagg" title="Mary Adela Blagg">
+         Mary A. Blagg
+        </a>
+        and
+        <a href="/wiki/Karl_M%C3%BCller_(astronomer)" title="Karl Müller (astronomer)">
+         Karl Müller
+        </a>
+        ,
+        <i>
+         Named Lunar Formations
+        </i>
+        , 2 volumes, London, 1935.
+       </li>
+       <li>
+        <a href="/wiki/Philipp_Johann_Heinrich_Fauth" title="Philipp Johann Heinrich Fauth">
+         Philipp Fauth
+        </a>
+        ,
+        <i>
+         Unser Mond
+        </i>
+        , Bremen, 1936.
+       </li>
+       <li>
+        <a href="/wiki/Hugh_Percy_Wilkins" title="Hugh Percy Wilkins">
+         Hugh P. Wilkins
+        </a>
+        ,
+        <i>
+         300-inch Moon map
+        </i>
+        , 1951.
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Gerard_Peter_Kuiper" title="Gerard Peter Kuiper">
+         Gerard Kuiper
+        </a>
+        <i>
+         et al.
+        </i>
+        ,
+        <i>
+         Photographic Lunar Atlas
+        </i>
+        , Chicago, 1960.
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Ewen_A._Whitaker" title="Ewen A. Whitaker">
+         Ewen A. Whitaker
+        </a>
+        <i>
+         et al.
+        </i>
+        ,
+        <i>
+         Rectified Lunar Atlas
+        </i>
+        , Tucson, 1963.
+       </li>
+       <li>
+        Hermann Fauth and Philipp Fauth (posthumously),
+        <i>
+         Mondatlas
+        </i>
+        , 1964.
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Gerard_Peter_Kuiper" title="Gerard Peter Kuiper">
+         Gerard Kuiper
+        </a>
+        <i>
+         et al.
+        </i>
+        ,
+        <i>
+         System of Lunar Craters
+        </i>
+        , 1966.
+       </li>
+       <li>
+        Yu I. Efremov
+        <i>
+         et al.
+        </i>
+        ,
+        <i>
+         Atlas Obratnoi Storony Luny
+        </i>
+        , Moscow, 1967–1975.
+       </li>
+       <li>
+        <a href="/wiki/NASA" title="NASA">
+         NASA
+        </a>
+        ,
+        <i>
+         Lunar Topographic Orthophotomaps
+        </i>
+        , 1978.
+       </li>
+       <li>
+        <a href="/wiki/Anton%C3%ADn_R%C3%BCkl" title="Antonín Rükl">
+         Antonín Rükl
+        </a>
+        ,
+        <i>
+         Atlas of the Moon
+        </i>
+        , 2004.
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Selenography&amp;action=edit&amp;section=5" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div>
+       <table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+        <tr>
+         <td style="text-align: left; vertical-align: top;">
+          <ul>
+           <li>
+            <a href="/wiki/Geology_of_the_Moon" title="Geology of the Moon">
+             Geology of the Moon
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Google_Moon" title="Google Moon">
+             Google Moon
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Lunar_mare" title="Lunar mare">
+             Lunar mare
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Planetary_nomenclature" title="Planetary nomenclature">
+             Planetary nomenclature
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Planetary_science" title="Planetary science">
+             Planetary science
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Selenographic_coordinates" title="Selenographic coordinates">
+             Selenographic coordinates
+            </a>
+           </li>
+          </ul>
+         </td>
+         <td style="text-align: left; vertical-align: top;">
+          <div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+           <ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+            <li style="display:table-row">
+             <span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center">
+              <a class="image" href="/wiki/File:Moon-Mdf-2005.jpg">
+               <img alt="icon" class="noviewer" data-file-height="1024" data-file-width="1024" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Moon-Mdf-2005.jpg/28px-Moon-Mdf-2005.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Moon-Mdf-2005.jpg/42px-Moon-Mdf-2005.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Moon-Mdf-2005.jpg/56px-Moon-Mdf-2005.jpg 2x" width="28"/>
+              </a>
+             </span>
+             <span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle">
+              <a href="/wiki/Portal:Moon" title="Portal:Moon">
+               Moon portal
+              </a>
+             </span>
+            </li>
+           </ul>
+          </div>
+          <ul>
+           <li>
+            <a href="/wiki/List_of_maria_on_the_Moon" title="List of maria on the Moon">
+             List of maria on the Moon
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/List_of_craters_on_the_Moon" title="List of craters on the Moon">
+             List of craters on the Moon
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/List_of_features_on_the_Moon" title="List of features on the Moon">
+             List of features on the Moon
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/List_of_mountains_on_the_Moon" title="List of mountains on the Moon">
+             List of mountains on the Moon
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/List_of_valleys_on_the_Moon" title="List of valleys on the Moon">
+             List of valleys on the Moon
+            </a>
+           </li>
+          </ul>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <h2>
+       <span class="mw-headline" id="Notes">
+        Notes
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Selenography&amp;action=edit&amp;section=6" title="Edit section: Notes">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist" style="list-style-type: decimal;">
+       <div class="mw-references-wrap">
+        <ol class="references">
+         <li id="cite_note-1">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-1">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <a class="external text" href="http://www.reese.org/duneroller/content/unexplained/Oddities/wax_honeymoon.htm" rel="nofollow">
+            Wax and the Honey Moon
+           </a>
+           <a class="external text" href="https://web.archive.org/web/20070724101724/http://www.reese.org/duneroller/content/unexplained/Oddities/wax_honeymoon.htm" rel="nofollow">
+            Archived
+           </a>
+           2007-07-24 at the
+           <a href="/wiki/Wayback_Machine" title="Wayback Machine">
+            Wayback Machine
+           </a>
+           ., An account of Maedler's work and the creation of the first wax model of the Moon.
+          </span>
+         </li>
+         <li id="cite_note-2">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-2">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Stooke, Philip J. (February 1994). "Neolithic Lunar Maps at Knowth and Baltinglass, Ireland".
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/1994JHA....25...39S" rel="nofollow">
+             1994JHA....25...39S
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Neolithic+Lunar+Maps+at+Knowth+and+Baltinglass%2C+Ireland&amp;rft.date=1994-02&amp;rft_id=info%3Abibcode%2F1994JHA....25...39S&amp;rft.aulast=Stooke&amp;rft.aufirst=Philip+J.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASelenography">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-3">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-3">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            Taton, Reni (2003). Reni Taton; Curtis Wilson; Michael Hoskin, eds.
+            <i>
+             Planetary Astronomy from the Renaissance to the Rise of Astrophysics, Part A, Tycho Brahe to Newton
+            </i>
+            . General History of Astronomy.
+            <b>
+             2
+            </b>
+            .
+            <a href="/wiki/Cambridge_University_Press" title="Cambridge University Press">
+             Cambridge University Press
+            </a>
+            . pp. 119–126.
+            <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+             ISBN
+            </a>
+            <a href="/wiki/Special:BookSources/0-521-54205-7" title="Special:BookSources/0-521-54205-7">
+             0-521-54205-7
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Planetary+Astronomy+from+the+Renaissance+to+the+Rise+of+Astrophysics%2C+Part+A%2C+Tycho+Brahe+to+Newton&amp;rft.series=General+History+of+Astronomy&amp;rft.pages=119-126&amp;rft.pub=Cambridge+University+Press&amp;rft.date=2003&amp;rft.isbn=0-521-54205-7&amp;rft.aulast=Taton&amp;rft.aufirst=Reni&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASelenography">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Selenography&amp;action=edit&amp;section=7" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <cite class="citation book">
+         Scott L. Montgomery (1999).
+         <i>
+          The Moon and Western Imagination
+         </i>
+         .
+         <a href="/wiki/University_of_Arizona_Press" title="University of Arizona Press">
+          University of Arizona Press
+         </a>
+         .
+         <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+          ISBN
+         </a>
+         <a href="/wiki/Special:BookSources/0-8165-1711-8" title="Special:BookSources/0-8165-1711-8">
+          0-8165-1711-8
+         </a>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Moon+and+Western+Imagination&amp;rft.pub=University+of+Arizona+Press&amp;rft.date=1999&amp;rft.isbn=0-8165-1711-8&amp;rft.au=Scott+L.+Montgomery&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASelenography">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+       <li>
+        <cite class="citation book">
+         Ewen A. Whitaker (1999).
+         <i>
+          Mapping and Naming the Moon: A History of Lunar Cartography and Nomenclature
+         </i>
+         . Cambridge University Press.
+         <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+          ISBN
+         </a>
+         <a href="/wiki/Special:BookSources/0-521-62248-4" title="Special:BookSources/0-521-62248-4">
+          0-521-62248-4
+         </a>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Mapping+and+Naming+the+Moon%3A+A+History+of+Lunar+Cartography+and+Nomenclature&amp;rft.pub=Cambridge+University+Press&amp;rft.date=1999&amp;rft.isbn=0-521-62248-4&amp;rft.au=Ewen+A.+Whitaker&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASelenography">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+       <li>
+        <cite class="citation book">
+         William P. Sheehan; Thomas A. Dobbins (2001).
+         <i>
+          Epic Moon: A history of lunar exploration in the age of the telescope
+         </i>
+         . Willmann-Bell.
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Epic+Moon%3A+A+history+of+lunar+exploration+in+the+age+of+the+telescope&amp;rft.pub=Willmann-Bell&amp;rft.date=2001&amp;rft.au=William+P.+Sheehan&amp;rft.au=Thomas+A.+Dobbins&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASelenography">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Selenography&amp;action=edit&amp;section=8" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+       <tr>
+        <td class="mbox-image">
+         <img alt="" class="noviewer" data-file-height="391" data-file-width="391" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" width="40"/>
+        </td>
+        <td class="mbox-text plainlist">
+         Look up
+         <i>
+          <b>
+           <a class="extiw" href="https://en.wiktionary.org/wiki/selenography" title="wiktionary:selenography">
+            selenography
+           </a>
+          </b>
+         </i>
+         in Wiktionary, the free dictionary.
+        </td>
+       </tr>
+      </table>
+      <ul>
+       <li>
+        <a class="external text" href="http://planet4589.org/astro/lunar/RP-1097.pdf" rel="nofollow">
+         NASA Catalogue of Lunar Nomenclature
+        </a>
+        (1982), Leif E. Andersson and Ewen A. Whitaker
+       </li>
+       <li>
+        <a class="external text" href="http://galileo.rice.edu/sci/observations/moon.html" rel="nofollow">
+         The Galileo Project: The Moon
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://assets.cambridge.org/052162/2743/sample/0521622743ws.pdf" rel="nofollow">
+         Observing the Moon: The Modern Astronomer's Guide
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="https://astrogeology.usgs.gov/Projects/ControlNetworks/Moon/" rel="nofollow">
+         Lunar control networks (USGS)
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://www.astronomyguru.com/moon.html" rel="nofollow">
+         The Rise And Fall of Lunar Observing
+        </a>
+        , Kevin S. Jung
+       </li>
+       <li>
+        <a class="external text" href="http://www.lpi.usra.edu/resources/cla/" rel="nofollow">
+         Consolidated Lunar Atlas
+        </a>
+       </li>
+      </ul>
+      <div aria-labelledby="The_Moon" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="3" scope="col" style="text-align: center;">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:The_Moon" title="Template:The Moon">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a href="/wiki/Template_talk:The_Moon" title="Template talk:The Moon">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:The_Moon&amp;action=edit">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="The_Moon" style="font-size:114%;margin:0 4em">
+           The
+           <a href="/wiki/Moon" title="Moon">
+            Moon
+           </a>
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          Physical
+          <br/>
+          properties
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Internal_structure_of_the_Moon" title="Internal structure of the Moon">
+              Internal structure
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Topography_of_the_Moon" title="Topography of the Moon">
+              Topography
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Atmosphere_of_the_Moon" title="Atmosphere of the Moon">
+              Atmosphere
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Gravitation_of_the_Moon" title="Gravitation of the Moon">
+              Gravity field
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Hill_sphere" title="Hill sphere">
+                Hill sphere
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Magnetic_field_of_the_Moon" title="Magnetic field of the Moon">
+              Magnetic field
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Sodium_tail_of_the_Moon" title="Sodium tail of the Moon">
+              Sodium tail
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Moonlight" title="Moonlight">
+              Moonlight
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Earthlight_(astronomy)" title="Earthlight (astronomy)">
+                Earthshine
+               </a>
+              </li>
+             </ul>
+            </li>
+           </ul>
+          </div>
+         </td>
+         <td class="navbox-image" rowspan="8" style="width:1px;padding:0px 0px 0px 2px">
+          <div>
+           <a class="image" href="/wiki/File:FullMoon2010.jpg" title="A full moon">
+            <img alt="A full moon" data-file-height="2452" data-file-width="2580" height="114" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/FullMoon2010.jpg/120px-FullMoon2010.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/FullMoon2010.jpg/180px-FullMoon2010.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e1/FullMoon2010.jpg/240px-FullMoon2010.jpg 2x" width="120"/>
+           </a>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Orbit_of_the_Moon" title="Orbit of the Moon">
+           Orbit
+          </a>
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Orbital_elements" title="Orbital elements">
+              Orbital elements
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_distance_(astronomy)" title="Lunar distance (astronomy)">
+                Distance
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Apsis" title="Apsis">
+                  Perigee &amp; apogee
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li>
+               <a href="/wiki/Lunar_node" title="Lunar node">
+                Nodes
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Nodal_period" title="Nodal period">
+                  Nodal period
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li>
+               <a href="/wiki/Lunar_precession" title="Lunar precession">
+                Precession
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Syzygy_(astronomy)" title="Syzygy (astronomy)">
+              Syzygy
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/New_moon" title="New moon">
+                New moon
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Full_moon" title="Full moon">
+                Full moon
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Eclipse" title="Eclipse">
+                Eclipses
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Lunar_eclipse" title="Lunar eclipse">
+                  Lunar eclipse
+                 </a>
+                 <ul>
+                  <li>
+                   <a href="/wiki/Total_penumbral_lunar_eclipse" title="Total penumbral lunar eclipse">
+                    Total penumbral lunar eclipse
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Tetrad_(astronomy)" title="Tetrad (astronomy)">
+                    Tetrad
+                   </a>
+                  </li>
+                 </ul>
+                </li>
+                <li>
+                 <a href="/wiki/Solar_eclipse" title="Solar eclipse">
+                  Solar eclipse
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Solar_eclipses_on_the_Moon" title="Solar eclipses on the Moon">
+                  Solar eclipses on the Moon
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Eclipse_cycle" title="Eclipse cycle">
+                  Eclipse cycle
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li>
+               <a href="/wiki/Supermoon" title="Supermoon">
+                Supermoon
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Tide" title="Tide">
+              Tide
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Tidal_force" title="Tidal force">
+                Tidal force
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Tidal_locking" title="Tidal locking">
+                Tidal locking
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Tidal_acceleration" title="Tidal acceleration">
+                Tidal acceleration
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Tidal_range" title="Tidal range">
+                Tidal range
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_mansion" title="Lunar mansion">
+              Lunar mansion
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          Surface &amp;
+          <br/>
+          <a href="/wiki/List_of_lunar_features" title="List of lunar features">
+           features
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a class="mw-selflink selflink">
+              Selenography
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Lunar_terminator" title="Lunar terminator">
+              Terminator
+             </a>
+            </li>
+            <li>
+             Hemispheres
+             <ul>
+              <li>
+               <a href="/wiki/Near_side_of_the_Moon" title="Near side of the Moon">
+                Near side
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Far_side_of_the_Moon" title="Far side of the Moon">
+                Far side
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             Poles
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_north_pole" title="Lunar north pole">
+                North pole
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Lunar_south_pole" title="Lunar south pole">
+                South pole
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Face_on_Moon_South_Pole" title="Face on Moon South Pole">
+                  Face
+                 </a>
+                </li>
+               </ul>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_mare" title="Lunar mare">
+              Maria
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/List_of_maria_on_the_Moon" title="List of maria on the Moon">
+                List
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/List_of_mountains_on_the_Moon" title="List of mountains on the Moon">
+              Mountains
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Peak_of_eternal_light" title="Peak of eternal light">
+                Peak of eternal light
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/List_of_valleys_on_the_Moon" title="List of valleys on the Moon">
+              Valleys
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Moon#Volcanic_features" title="Moon">
+              Volcanic features
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_dome" title="Lunar dome">
+                Domes
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Caldera#The_Moon" title="Caldera">
+                Calderas
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Lunar_crater" title="Lunar crater">
+              Craters
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/List_of_craters_on_the_Moon" title="List of craters on the Moon">
+                List
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Ray_system#Lunar_rays" title="Ray system">
+                Ray systems
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Crater_of_eternal_darkness" title="Crater of eternal darkness">
+                Crater of eternal darkness
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Shackleton_(crater)" title="Shackleton (crater)">
+                Shackleton crater
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/South_Pole%E2%80%93Aitken_basin" title="South Pole–Aitken basin">
+                South Pole–Aitken basin
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_soil" title="Lunar soil">
+              Soil
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_swirls" title="Lunar swirls">
+                Swirls
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Rille" title="Rille">
+              Rilles
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Wrinkle_ridge" title="Wrinkle ridge">
+              Wrinkle ridges
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Moon_rock" title="Moon rock">
+              Rocks
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_basalt_70017" title="Lunar basalt 70017">
+                Lunar basalt 70017
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_water" title="Lunar water">
+              Water
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Space_weathering" title="Space weathering">
+              Space weathering
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Micrometeorite" title="Micrometeorite">
+                Micrometeorite
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Sputtering" title="Sputtering">
+                Sputtering
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Quake_(natural_phenomenon)#Moonquake" title="Quake (natural phenomenon)">
+              Quakes
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Transient_lunar_phenomenon" title="Transient lunar phenomenon">
+              Transient lunar phenomenon
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          Science
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Lunar_observation" title="Lunar observation">
+              Observation
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Libration#Lunar_libration" title="Libration">
+              Libration
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_theory" title="Lunar theory">
+              Lunar theory
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Origin_of_the_Moon" title="Origin of the Moon">
+              Origin
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Giant-impact_hypothesis" title="Giant-impact hypothesis">
+                Giant-impact hypothesis
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Theia_(planet)" title="Theia (planet)">
+                  Theia
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Lunar_magma_ocean" title="Lunar magma ocean">
+                  Lunar magma ocean
+                 </a>
+                </li>
+               </ul>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Geology_of_the_Moon" title="Geology of the Moon">
+              Geology
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_geologic_timescale" title="Lunar geologic timescale">
+                Timescale
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Late_Heavy_Bombardment" title="Late Heavy Bombardment">
+                  Late Heavy Bombardment
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li>
+               <a href="/wiki/Lunar_meteorite" title="Lunar meteorite">
+                Lunar meteorites
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/KREEP" title="KREEP">
+                KREEP
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             Experiments
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_Laser_Ranging_experiment" title="Lunar Laser Ranging experiment">
+                Lunar laser ranging
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Apollo_Lunar_Surface_Experiments_Package" title="Apollo Lunar Surface Experiments Package">
+                ALSEP
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_sample_displays" title="Lunar sample displays">
+              Lunar sample displays
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Apollo_11_lunar_sample_display" title="Apollo 11 lunar sample display">
+                Apollo 11
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Apollo_17_lunar_sample_display" title="Apollo 17 lunar sample display">
+                Apollo 17
+               </a>
+              </li>
+             </ul>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Exploration_of_the_Moon" title="Exploration of the Moon">
+           Exploration
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/List_of_missions_to_the_Moon" title="List of missions to the Moon">
+              Missions
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Apollo_program" title="Apollo program">
+                Apollo program
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/List_of_lunar_probes" title="List of lunar probes">
+              Probes
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Moon_landing" title="Moon landing">
+              Landing
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Moon_landing_conspiracy_theories" title="Moon landing conspiracy theories">
+                Conspiracy theories
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Colonization_of_the_Moon" title="Colonization of the Moon">
+              Colonization
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tourism_on_the_Moon" title="Tourism on the Moon">
+              Tourism
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          Time-telling
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Lunar_calendar" title="Lunar calendar">
+              Lunar calendar
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Lunisolar_calendar" title="Lunisolar calendar">
+              Lunisolar calendar
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Month" title="Month">
+              Month
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_month" title="Lunar month">
+                Lunar month
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Nodal_period" title="Nodal period">
+                  Nodal period
+                 </a>
+                </li>
+               </ul>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Fortnight" title="Fortnight">
+              Fortnight
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Week" title="Week">
+              Sennight
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_mansion" title="Lunar mansion">
+              Lunar mansion
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Lunar_phase" title="Lunar phase">
+           Phases
+          </a>
+          &amp;
+          <br/>
+          names
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/New_moon" title="New moon">
+              New
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Full_moon" title="Full moon">
+              Full
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Full_moon#Full_moon_names" title="Full moon">
+                Names
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Crescent" title="Crescent">
+              Crescent
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Supermoon" title="Supermoon">
+              Super &amp; micro
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_eclipse" title="Lunar eclipse">
+              Blood
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Blue_moon" title="Blue moon">
+              Blue
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Black_moon" title="Black moon">
+              Black
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Dark_moon" title="Dark moon">
+              Dark
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Wet_moon" title="Wet moon">
+              Wet
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tetrad_(astronomy)" title="Tetrad (astronomy)">
+              Tetrad
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          Related
+          <br/>
+          topics
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             Psychology
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_effect" title="Lunar effect">
+                Lunar effect
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Moon_illusion" title="Moon illusion">
+                Moon illusion
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Pareidolia" title="Pareidolia">
+                Pareidolia
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Man_in_the_Moon" title="Man in the Moon">
+                  Man in the Moon
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Moon_rabbit" title="Moon rabbit">
+                  Moon rabbit
+                 </a>
+                </li>
+               </ul>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/List_of_people_with_craters_of_the_Moon_named_after_them" title="List of people with craters of the Moon named after them">
+              Craters named after people
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/List_of_extraterrestrial_memorials#The_Moon" title="List of extraterrestrial memorials">
+              Memorials on the Moon
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Moon_in_fiction" title="Moon in fiction">
+              Moon in fiction
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/List_of_lunar_deities" title="List of lunar deities">
+              Moon in mythology
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Hj%C3%BAki_and_Bil" title="Hjúki and Bil">
+                Hjúki and Bil
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             "
+             <a href="/wiki/The_Moon_is_made_of_green_cheese" title="The Moon is made of green cheese">
+              Moon is made of green cheese
+             </a>
+             "
+            </li>
+            <li>
+             <a href="/wiki/Natural_satellite" title="Natural satellite">
+              Natural satellite
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Double_planet" title="Double planet">
+              Double planet
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Planetary_objects_proposed_in_religion,_astrology,_ufology_and_pseudoscience#Lilith" title="Planetary objects proposed in religion, astrology, ufology and pseudoscience">
+              Lilith (hypothetical second moon)
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <td class="navbox-abovebelow" colspan="3" style="text-align: center;">
+          <div>
+           <ul>
+            <li>
+             <img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/>
+             <b>
+              <a href="/wiki/Category:Moon" title="Category:Moon">
+               Category
+              </a>
+             </b>
+            </li>
+            <li>
+             <img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/>
+             <b>
+              <a href="/wiki/Portal:Moon" title="Portal:Moon">
+               Moon portal
+              </a>
+             </b>
+            </li>
+            <li>
+             <img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/>
+             <b>
+              <a href="/wiki/Portal:Earth_sciences" title="Portal:Earth sciences">
+               Earth sciences portal
+              </a>
+             </b>
+            </li>
+            <li>
+             <img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/>
+             <b>
+              <a href="/wiki/Portal:Solar_System" title="Portal:Solar System">
+               Solar System portal
+              </a>
+             </b>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1271
+Cached time: 20180314004308
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.220 seconds
+Real time usage: 0.294 seconds
+Preprocessor visited node count: 797/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 40359/2097152 bytes
+Template argument size: 658/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 2829/5000000 bytes
+Lua time usage: 0.080/10.000 seconds
+Lua memory usage: 3.62 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  197.553      1 -total
+ 32.98%   65.144      1 Template:Reflist
+ 19.42%   38.367      1 Template:Cite_journal
+ 19.10%   37.723      1 Template:Citation_needed
+ 16.77%   33.120      1 Template:Fix
+ 11.15%   22.033      1 Template:The_Moon
+ 10.84%   21.412      1 Template:About
+ 10.59%   20.913      2 Template:Category_handler
+  9.76%   19.278      1 Template:Navbox
+  9.51%   18.796      4 Template:Cite_book
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:2212880-0!canonical and timestamp 20180314004308 and revision id 821321252
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Selenography&amp;oldid=821321252">
+      https://en.wikipedia.org/w/index.php?title=Selenography&amp;oldid=821321252
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Lunar_science" title="Category:Lunar science">
+         Lunar science
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Space_science" title="Category:Space science">
+         Space science
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Planetary_science" title="Category:Planetary science">
+         Planetary science
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Selenographers" title="Category:Selenographers">
+         Selenographers
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Cartography" title="Category:Cartography">
+         Cartography
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">
+         Webarchive template wayback links
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Pages_using_multiple_image_with_manual_scaled_images" title="Category:Pages using multiple image with manual scaled images">
+         Pages using multiple image with manual scaled images
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">
+         All articles with unsourced statements
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2009" title="Category:Articles with unsourced statements from May 2009">
+         Articles with unsourced statements from May 2009
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Selenography" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Selenography" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Selenography" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Selenography" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Selenography">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Selenography&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Selenography&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Selenography" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Selenography" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Selenography&amp;oldid=821321252" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Selenography&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1409625" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Selenography&amp;id=821321252" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Selenography">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Selenography&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Selenography&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Category:Maps_of_the_Moon" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-af">
+        <a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Selenografie" hreflang="af" lang="af" title="Selenografie – Afrikaans">
+         Afrikaans
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh-min-nan">
+        <a class="interlanguage-link-target" href="https://zh-min-nan.wikipedia.org/wiki/Goa%CC%8Dt-l%C3%AD-ha%CC%8Dk" hreflang="zh-min-nan" lang="zh-min-nan" title="Goa̍t-lí-ha̍k – Chinese (Min Nan)">
+         Bân-lâm-gú
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Selenografia" hreflang="ca" lang="ca" title="Selenografia – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Selenografie" hreflang="cs" lang="cs" title="Selenografie – Czech">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Selenografi" hreflang="da" lang="da" title="Selenografi – Danish">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Selenografie" hreflang="de" lang="de" title="Selenografie – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-et">
+        <a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Selenograafia" hreflang="et" lang="et" title="Selenograafia – Estonian">
+         Eesti
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Selenograf%C3%ADa" hreflang="es" lang="es" title="Selenografía – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/S%C3%A9l%C3%A9nographie" hreflang="fr" lang="fr" title="Sélénographie – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hr">
+        <a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Selenografija" hreflang="hr" lang="hr" title="Selenografija – Croatian">
+         Hrvatski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Selenografi" hreflang="id" lang="id" title="Selenografi – Indonesian">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Selenografia" hreflang="it" lang="it" title="Selenografia – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lb">
+        <a class="interlanguage-link-target" href="https://lb.wikipedia.org/wiki/Selenographie" hreflang="lb" lang="lb" title="Selenographie – Luxembourgish">
+         Lëtzebuergesch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hu">
+        <a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Szelenogr%C3%A1fia" hreflang="hu" lang="hu" title="Szelenográfia – Hungarian">
+         Magyar
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Selenografie" hreflang="nl" lang="nl" title="Selenografie – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E6%9C%88%E7%90%86%E5%AD%A6" hreflang="ja" lang="ja" title="月理学 – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Selenografi" hreflang="no" lang="no" title="Selenografi – Norwegian">
+         Norsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nn">
+        <a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Selenografi" hreflang="nn" lang="nn" title="Selenografi – Norwegian Nynorsk">
+         Norsk nynorsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Selenografia" hreflang="pl" lang="pl" title="Selenografia – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Selenografia" hreflang="pt" lang="pt" title="Selenografia – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ro">
+        <a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Selenografie" hreflang="ro" lang="ro" title="Selenografie – Romanian">
+         Română
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BB%D0%B5%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F" hreflang="ru" lang="ru" title="Селенография – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-simple">
+        <a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Selenography" hreflang="simple" lang="simple" title="Selenography – Simple English">
+         Simple English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sk">
+        <a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Selenografia" hreflang="sk" lang="sk" title="Selenografia – Slovak">
+         Slovenčina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Selenografi" hreflang="sv" lang="sv" title="Selenografi – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BB%D0%B5%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D1%96%D1%8F" hreflang="uk" lang="uk" title="Селенографія – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E6%9C%88%E9%9D%A2%E5%AD%A6" hreflang="zh" lang="zh" title="月面学 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1409625#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 19 January 2018, at 19:03.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Selenography&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.220","walltime":"0.294","ppvisitednodes":{"value":797,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":40359,"limit":2097152},"templateargumentsize":{"value":658,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":2829,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  197.553      1 -total"," 32.98%   65.144      1 Template:Reflist"," 19.42%   38.367      1 Template:Cite_journal"," 19.10%   37.723      1 Template:Citation_needed"," 16.77%   33.120      1 Template:Fix"," 11.15%   22.033      1 Template:The_Moon"," 10.84%   21.412      1 Template:About"," 10.59%   20.913      2 Template:Category_handler","  9.76%   19.278      1 Template:Navbox","  9.51%   18.796      4 Template:Cite_book"]},"scribunto":{"limitreport-timeusage":{"value":"0.080","limit":"10.000"},"limitreport-memusage":{"value":3796036,"limit":52428800}},"cachereport":{"origin":"mw1271","timestamp":"20180314004308","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":89,"wgHostname":"mw1241"});});
+  </script>
+ </body>
+</html>

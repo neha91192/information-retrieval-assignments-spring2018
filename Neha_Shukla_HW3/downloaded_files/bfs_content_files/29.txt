@@ -1,0 +1,1688 @@
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Annulus (mathematics) - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Annulus_(mathematics)","wgTitle":"Annulus (mathematics)","wgCurRevisionId":815916873,"wgRevisionId":815916873,"wgArticleId":356158,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Elementary geometry","Geometric shapes"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Annulus_(mathematics)","wgRelevantArticleId":356158,"wgRequestId":"WrP83QpAICEAAHbjhYMAAABU","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q45926","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.25" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Annulus_area.svg/1200px-Annulus_area.svg.png" property="og:image"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Annulus_(mathematics)" rel="alternate"/>
+  <link href="/w/index.php?title=Annulus_(mathematics)&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Annulus_(mathematics)&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Annulus_(mathematics)" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Annulus_mathematics rootpage-Annulus_mathematics skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Annulus (mathematics)
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <div class="floatright">
+       <a class="image" href="/wiki/File:Annulus_area.svg" title="An annulus">
+        <img alt="An annulus" data-file-height="402" data-file-width="402" height="150" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Annulus_area.svg/150px-Annulus_area.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Annulus_area.svg/225px-Annulus_area.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Annulus_area.svg/300px-Annulus_area.svg.png 2x" width="150"/>
+       </a>
+      </div>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:172px;">
+        <a class="image" href="/wiki/File:Mamikon_annulus_area_visualisation.svg">
+         <img alt="" class="thumbimage" data-file-height="1024" data-file-width="512" height="340" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Mamikon_annulus_area_visualisation.svg/170px-Mamikon_annulus_area_visualisation.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Mamikon_annulus_area_visualisation.svg/255px-Mamikon_annulus_area_visualisation.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Mamikon_annulus_area_visualisation.svg/340px-Mamikon_annulus_area_visualisation.svg.png 2x" width="170"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Mamikon_annulus_area_visualisation.svg" title="Enlarge">
+          </a>
+         </div>
+         Illustration of Mamikon's
+         <a href="/wiki/Visual_calculus" title="Visual calculus">
+          visual calculus
+         </a>
+         method showing that the areas of two annuli with the same chord length are the same regardless of inner and outer radii.
+         <sup class="reference" id="cite_ref-1">
+          <a href="#cite_note-1">
+           [1]
+          </a>
+         </sup>
+        </div>
+       </div>
+      </div>
+      <p>
+       In
+       <a href="/wiki/Mathematics" title="Mathematics">
+        mathematics
+       </a>
+       , an
+       <b>
+        annulus
+       </b>
+       (the
+       <a href="/wiki/Latin" title="Latin">
+        Latin
+       </a>
+       word for "little ring" is
+       <i>
+        anulus
+       </i>
+       /
+       <i>
+        annulus
+       </i>
+       , with plural
+       <i>
+        anuli
+       </i>
+       /
+       <i>
+        annuli
+       </i>
+       ) is a ring-shaped object, a region bounded by two concentric circles. The adjectival form is
+       <b>
+        annular
+       </b>
+       (as in
+       <a class="mw-redirect" href="/wiki/Annular_eclipse" title="Annular eclipse">
+        annular eclipse
+       </a>
+       ).
+      </p>
+      <p>
+       The open annulus is
+       <a href="/wiki/Homeomorphism" title="Homeomorphism">
+        topologically equivalent
+       </a>
+       to both the open
+       <a class="mw-redirect" href="/wiki/Cylinder_(geometry)" title="Cylinder (geometry)">
+        cylinder
+       </a>
+       <span class="texhtml">
+        <i>
+         S
+        </i>
+        <sup>
+         1
+        </sup>
+        × (0,1)
+       </span>
+       and the
+       <a class="mw-redirect" href="/wiki/Punctured_plane" title="Punctured plane">
+        punctured plane
+       </a>
+       . Informally, it has the shape of a
+       <a href="/wiki/Washer_(hardware)" title="Washer (hardware)">
+        hardware washer
+       </a>
+       .
+      </p>
+      <p>
+       The area of an annulus is the difference in the areas of the larger
+       <a href="/wiki/Circle" title="Circle">
+        circle
+       </a>
+       of radius
+       <span class="texhtml">
+        <i>
+         R
+        </i>
+       </span>
+       and the smaller one of radius
+       <span class="texhtml">
+        <i>
+         r
+        </i>
+       </span>
+       :
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle A=\pi R^{2}-\pi r^{2}=\pi \left(R^{2}-r^{2}\right).}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               A
+              </mi>
+              <mo>
+               =
+              </mo>
+              <mi>
+               π
+               <!-- π -->
+              </mi>
+              <msup>
+               <mi>
+                R
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mn>
+                 2
+                </mn>
+               </mrow>
+              </msup>
+              <mo>
+               −
+               <!-- − -->
+              </mo>
+              <mi>
+               π
+               <!-- π -->
+              </mi>
+              <msup>
+               <mi>
+                r
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mn>
+                 2
+                </mn>
+               </mrow>
+              </msup>
+              <mo>
+               =
+              </mo>
+              <mi>
+               π
+               <!-- π -->
+              </mi>
+              <mrow>
+               <mo>
+                (
+               </mo>
+               <mrow>
+                <msup>
+                 <mi>
+                  R
+                 </mi>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mn>
+                   2
+                  </mn>
+                 </mrow>
+                </msup>
+                <mo>
+                 −
+                 <!-- − -->
+                </mo>
+                <msup>
+                 <mi>
+                  r
+                 </mi>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mn>
+                   2
+                  </mn>
+                 </mrow>
+                </msup>
+               </mrow>
+               <mo>
+                )
+               </mo>
+              </mrow>
+              <mo>
+               .
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle A=\pi R^{2}-\pi r^{2}=\pi \left(R^{2}-r^{2}\right).}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle A=\pi R^{2}-\pi r^{2}=\pi \left(R^{2}-r^{2}\right).}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fe27ac5fb742960b6011714988eb5e9df39fe812" style="vertical-align: -1.005ex; width:31.01ex; height:3.343ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       The area of an annulus is determined by the length of the longest
+       <a href="/wiki/Line_segment" title="Line segment">
+        line segment
+       </a>
+       within the annulus, which is the chord tangent to the inner circle,
+       <span class="texhtml">
+        2
+        <i>
+         d
+        </i>
+       </span>
+       in the accompanying diagram. That can be shown using the
+       <a href="/wiki/Pythagorean_theorem" title="Pythagorean theorem">
+        Pythagorean theorem
+       </a>
+       since this line is
+       <a href="/wiki/Tangent" title="Tangent">
+        tangent
+       </a>
+       to the smaller circle and perpendicular to its radius at that point, so
+       <span class="texhtml">
+        <i>
+         d
+        </i>
+       </span>
+       and
+       <span class="texhtml">
+        <i>
+         r
+        </i>
+       </span>
+       are sides of a right-angled triangle with hypotenuse
+       <span class="texhtml">
+        <i>
+         R
+        </i>
+       </span>
+       , and the area of the annulus is given by
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle A=\pi \left(R^{2}-r^{2}\right)=\pi d^{2}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               A
+              </mi>
+              <mo>
+               =
+              </mo>
+              <mi>
+               π
+               <!-- π -->
+              </mi>
+              <mrow>
+               <mo>
+                (
+               </mo>
+               <mrow>
+                <msup>
+                 <mi>
+                  R
+                 </mi>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mn>
+                   2
+                  </mn>
+                 </mrow>
+                </msup>
+                <mo>
+                 −
+                 <!-- − -->
+                </mo>
+                <msup>
+                 <mi>
+                  r
+                 </mi>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mn>
+                   2
+                  </mn>
+                 </mrow>
+                </msup>
+               </mrow>
+               <mo>
+                )
+               </mo>
+              </mrow>
+              <mo>
+               =
+              </mo>
+              <mi>
+               π
+               <!-- π -->
+              </mi>
+              <msup>
+               <mi>
+                d
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mn>
+                 2
+                </mn>
+               </mrow>
+              </msup>
+              <mo>
+               .
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle A=\pi \left(R^{2}-r^{2}\right)=\pi d^{2}.}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle A=\pi \left(R^{2}-r^{2}\right)=\pi d^{2}.}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/067b6e00bfb5466823442bd61dec894187ca35f6" style="vertical-align: -1.005ex; width:23.802ex; height:3.343ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       The area can also be obtained via
+       <a href="/wiki/Calculus" title="Calculus">
+        calculus
+       </a>
+       by dividing the annulus up into an infinite number of annuli of
+       <a href="/wiki/Infinitesimal" title="Infinitesimal">
+        infinitesimal
+       </a>
+       width
+       <span class="texhtml">
+        <i>
+         dρ
+        </i>
+       </span>
+       and area
+       <span class="texhtml">
+        2π
+        <i>
+         ρ dρ
+        </i>
+       </span>
+       and then
+       <a href="/wiki/Integral" title="Integral">
+        integrating
+       </a>
+       from
+       <span class="texhtml">
+        <i>
+         ρ
+        </i>
+        =
+        <i>
+         r
+        </i>
+       </span>
+       to
+       <span class="texhtml">
+        <i>
+         ρ
+        </i>
+        =
+        <i>
+         R
+        </i>
+       </span>
+       :
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle A=\int _{r}^{R}\!\!2\pi \rho \,d\rho =\pi \left(R^{2}-r^{2}\right).}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               A
+              </mi>
+              <mo>
+               =
+              </mo>
+              <msubsup>
+               <mo>
+                ∫
+                <!-- ∫ -->
+               </mo>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 r
+                </mi>
+               </mrow>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 R
+                </mi>
+               </mrow>
+              </msubsup>
+              <mspace width="negativethinmathspace">
+              </mspace>
+              <mspace width="negativethinmathspace">
+              </mspace>
+              <mn>
+               2
+              </mn>
+              <mi>
+               π
+               <!-- π -->
+              </mi>
+              <mi>
+               ρ
+               <!-- ρ -->
+              </mi>
+              <mspace width="thinmathspace">
+              </mspace>
+              <mi>
+               d
+              </mi>
+              <mi>
+               ρ
+               <!-- ρ -->
+              </mi>
+              <mo>
+               =
+              </mo>
+              <mi>
+               π
+               <!-- π -->
+              </mi>
+              <mrow>
+               <mo>
+                (
+               </mo>
+               <mrow>
+                <msup>
+                 <mi>
+                  R
+                 </mi>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mn>
+                   2
+                  </mn>
+                 </mrow>
+                </msup>
+                <mo>
+                 −
+                 <!-- − -->
+                </mo>
+                <msup>
+                 <mi>
+                  r
+                 </mi>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mn>
+                   2
+                  </mn>
+                 </mrow>
+                </msup>
+               </mrow>
+               <mo>
+                )
+               </mo>
+              </mrow>
+              <mo>
+               .
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle A=\int _{r}^{R}\!\!2\pi \rho \,d\rho =\pi \left(R^{2}-r^{2}\right).}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle A=\int _{r}^{R}\!\!2\pi \rho \,d\rho =\pi \left(R^{2}-r^{2}\right).}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/17fd9df4c1793d372c91149c9f2935622b19435e" style="vertical-align: -2.338ex; width:30.642ex; height:6.176ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       The area of an annulus sector of angle
+       <span class="texhtml">
+        <i>
+         θ
+        </i>
+       </span>
+       , with
+       <span class="texhtml">
+        <i>
+         θ
+        </i>
+       </span>
+       measured in radians, is given by
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle A={\frac {\theta }{2}}\left(R^{2}-r^{2}\right).}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               A
+              </mi>
+              <mo>
+               =
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mi>
+                 θ
+                 <!-- θ -->
+                </mi>
+                <mn>
+                 2
+                </mn>
+               </mfrac>
+              </mrow>
+              <mrow>
+               <mo>
+                (
+               </mo>
+               <mrow>
+                <msup>
+                 <mi>
+                  R
+                 </mi>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mn>
+                   2
+                  </mn>
+                 </mrow>
+                </msup>
+                <mo>
+                 −
+                 <!-- − -->
+                </mo>
+                <msup>
+                 <mi>
+                  r
+                 </mi>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mn>
+                   2
+                  </mn>
+                 </mrow>
+                </msup>
+               </mrow>
+               <mo>
+                )
+               </mo>
+              </mrow>
+              <mo>
+               .
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle A={\frac {\theta }{2}}\left(R^{2}-r^{2}\right).}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle A={\frac {\theta }{2}}\left(R^{2}-r^{2}\right).}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/090f420b948e6b3d259811c13c2b37aaac826413" style="vertical-align: -1.838ex; width:18.153ex; height:5.343ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Complex_structure">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Complex structure
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#See_also">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-3">
+         <a href="#References">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-4">
+         <a href="#External_links">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           External links
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Complex_structure">
+        Complex structure
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Annulus_(mathematics)&amp;action=edit&amp;section=1" title="Edit section: Complex structure">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       In
+       <a href="/wiki/Complex_analysis" title="Complex analysis">
+        complex analysis
+       </a>
+       an
+       <b>
+        annulus
+       </b>
+       <span class="texhtml">
+        ann(
+        <i>
+         a
+        </i>
+        ;
+        <i>
+         r
+        </i>
+        ,
+        <i>
+         R
+        </i>
+        )
+       </span>
+       in the
+       <a href="/wiki/Complex_plane" title="Complex plane">
+        complex plane
+       </a>
+       is an
+       <a class="mw-redirect" href="/wiki/Open_region" title="Open region">
+        open region
+       </a>
+       defined as
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle r&lt;|z-a|&lt;R.}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               r
+              </mi>
+              <mo>
+               &lt;
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mo stretchy="false">
+                |
+               </mo>
+              </mrow>
+              <mi>
+               z
+              </mi>
+              <mo>
+               −
+               <!-- − -->
+              </mo>
+              <mi>
+               a
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mo stretchy="false">
+                |
+               </mo>
+              </mrow>
+              <mo>
+               &lt;
+              </mo>
+              <mi>
+               R
+              </mi>
+              <mo>
+               .
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle r&lt;|z-a|&lt;R.}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle r&lt;|z-a|&lt;R.}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7067cf6785dc372d620df0d22be69e57d1cc21c0" style="vertical-align: -0.838ex; width:16.108ex; height:2.843ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       If
+       <span class="texhtml">
+        <i>
+         r
+        </i>
+       </span>
+       is
+       <span class="texhtml">
+        0
+       </span>
+       , the region is known as the
+       <b>
+        punctured disk
+       </b>
+       of radius
+       <span class="texhtml">
+        <i>
+         R
+        </i>
+       </span>
+       around the point
+       <span class="texhtml">
+        <i>
+         a
+        </i>
+       </span>
+       .
+      </p>
+      <p>
+       As a subset of the complex
+       <a class="mw-redirect" href="/wiki/Plane_(mathematics)" title="Plane (mathematics)">
+        plane
+       </a>
+       , an annulus can be considered as a
+       <a href="/wiki/Riemann_surface" title="Riemann surface">
+        Riemann surface
+       </a>
+       . The complex structure of an annulus depends only on the ratio
+       <span class="texhtml">
+        <span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;">
+         <span style="display:block; line-height:1em; margin:0 0.1em;">
+          <i>
+           r
+          </i>
+         </span>
+         <span class="visualhide">
+          /
+         </span>
+         <span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">
+          <i>
+           R
+          </i>
+         </span>
+        </span>
+       </span>
+       . Each annulus
+       <span class="texhtml">
+        ann(
+        <i>
+         a
+        </i>
+        ;
+        <i>
+         r
+        </i>
+        ,
+        <i>
+         R
+        </i>
+        )
+       </span>
+       can be
+       <a href="/wiki/Holomorphic_function" title="Holomorphic function">
+        holomorphically
+       </a>
+       mapped to a standard one centered at the origin and with outer radius 1 by the map
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle z\mapsto {\frac {z-a}{R}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               z
+              </mi>
+              <mo stretchy="false">
+               ↦
+               <!-- ↦ -->
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mrow>
+                 <mi>
+                  z
+                 </mi>
+                 <mo>
+                  −
+                  <!-- − -->
+                 </mo>
+                 <mi>
+                  a
+                 </mi>
+                </mrow>
+                <mi>
+                 R
+                </mi>
+               </mfrac>
+              </mrow>
+              <mo>
+               .
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle z\mapsto {\frac {z-a}{R}}.}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle z\mapsto {\frac {z-a}{R}}.}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ed4a0f2edf0bf8420fb9a4da1c25aab581750fad" style="vertical-align: -2.005ex; width:11.344ex; height:5.176ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       The inner radius is then
+       <span class="texhtml">
+        <span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;">
+         <span style="display:block; line-height:1em; margin:0 0.1em;">
+          <i>
+           r
+          </i>
+         </span>
+         <span class="visualhide">
+          /
+         </span>
+         <span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">
+          <i>
+           R
+          </i>
+         </span>
+        </span>
+        &lt; 1
+       </span>
+       .
+      </p>
+      <p>
+       The
+       <a href="/wiki/Hadamard_three-circle_theorem" title="Hadamard three-circle theorem">
+        Hadamard three-circle theorem
+       </a>
+       is a statement about the maximum value a holomorphic function may take inside an annulus.
+      </p>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Annulus_(mathematics)&amp;action=edit&amp;section=2" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a href="/wiki/Annulus_theorem" title="Annulus theorem">
+         Annulus theorem
+        </a>
+        (or conjecture)
+       </li>
+       <li>
+        <a href="/wiki/Visual_calculus#Description" title="Visual calculus">
+         Visual calculus#Description
+        </a>
+        , for an alternative approach to the area of the annulus
+       </li>
+       <li>
+        <a href="/wiki/Spherical_shell" title="Spherical shell">
+         Spherical shell
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Torus" title="Torus">
+         Torus
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/List_of_geometric_shapes" title="List of geometric shapes">
+         List of geometric shapes
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Annulus_(mathematics)&amp;action=edit&amp;section=3" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="mw-references-wrap">
+       <ol class="references">
+        <li id="cite_note-1">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-1">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           <a class="external text" href="https://books.google.com/books?id=I9oVP8TlyqIC&amp;pg=PA70" rel="nofollow">
+            "The Edge of the Universe: Celebrating Ten Years of Math Horizons"
+           </a>
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             9 May
+            </span>
+            2017
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Edge+of+the+Universe%3A+Celebrating+Ten+Years+of+Math+Horizons&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DI9oVP8TlyqIC%26pg%3DPA70&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnnulus+%28mathematics%29">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+       </ol>
+      </div>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Annulus_(mathematics)&amp;action=edit&amp;section=4" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a class="external text" href="http://www.mathopenref.com/annulus.html" rel="nofollow">
+         Annulus definition and properties
+        </a>
+        With interactive animation
+       </li>
+       <li>
+        <a class="external text" href="http://www.mathopenref.com/annulusarea.html" rel="nofollow">
+         Area of an annulus, formula
+        </a>
+        With interactive animation
+       </li>
+      </ul>
+      <!-- 
+NewPP limit report
+Parsed by mw1247
+Cached time: 20180311175740
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.060 seconds
+Real time usage: 0.188 seconds
+Preprocessor visited node count: 429/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 4071/2097152 bytes
+Template argument size: 868/2097152 bytes
+Highest expansion depth: 6/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1209/5000000 bytes
+Lua time usage: 0.018/10.000 seconds
+Lua memory usage: 1.29 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   46.984      1 -total
+ 58.44%   27.456      1 Template:Cite_web
+ 37.81%   17.762     21 Template:Math
+ 29.89%   14.043      2 Template:Sfrac
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:356158-0!canonical!math=5 and timestamp 20180311175740 and revision id 815916873
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Annulus_(mathematics)&amp;oldid=815916873">
+      https://en.wikipedia.org/w/index.php?title=Annulus_(mathematics)&amp;oldid=815916873
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Elementary_geometry" title="Category:Elementary geometry">
+         Elementary geometry
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Geometric_shapes" title="Category:Geometric shapes">
+         Geometric shapes
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Annulus+%28mathematics%29" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Annulus+%28mathematics%29" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Annulus_(mathematics)" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Annulus_(mathematics)" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Annulus_(mathematics)">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Annulus_(mathematics)&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Annulus_(mathematics)&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Annulus_(mathematics)" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Annulus_(mathematics)" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Annulus_(mathematics)&amp;oldid=815916873" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Annulus_(mathematics)&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q45926" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Annulus_%28mathematics%29&amp;id=815916873" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Annulus+%28mathematics%29">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Annulus+%28mathematics%29&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Annulus_(mathematics)&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Category:Annuli" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AD%D9%84%D9%82%D8%A9_(%D9%87%D9%86%D8%AF%D8%B3%D8%A9_%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9)" hreflang="ar" lang="ar" title="حلقة (هندسة رياضية) – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Corona_circular" hreflang="ca" lang="ca" title="Corona circular – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Mezikru%C5%BE%C3%AD" hreflang="cs" lang="cs" title="Mezikruží – Czech">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Annulus_(matematik)" hreflang="da" lang="da" title="Annulus (matematik) – Danish">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Kreisring" hreflang="de" lang="de" title="Kreisring – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-et">
+        <a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/R%C3%B5ngas" hreflang="et" lang="et" title="Rõngas – Estonian">
+         Eesti
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Corona_circular" hreflang="es" lang="es" title="Corona circular – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eu">
+        <a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Koroa_zirkular" hreflang="eu" lang="eu" title="Koroa zirkular – Basque">
+         Euskara
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Couronne_(math%C3%A9matiques)" hreflang="fr" lang="fr" title="Couronne (mathématiques) – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hy">
+        <a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D5%95%D5%B2%D5%A1%D5%AF_(%D5%A5%D6%80%D5%AF%D6%80%D5%A1%D5%B9%D5%A1%D6%83%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6)" hreflang="hy" lang="hy" title="Օղակ (երկրաչափություն) – Armenian">
+         Հայերեն
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Corona_circolare" hreflang="it" lang="it" title="Corona circolare – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he">
+        <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%98%D7%91%D7%A2%D7%AA_(%D7%92%D7%90%D7%95%D7%9E%D7%98%D7%A8%D7%99%D7%94)" hreflang="he" lang="he" title="טבעת (גאומטריה) – Hebrew">
+         עברית
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lv">
+        <a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Gredzens_(%C4%A3eometrija)" hreflang="lv" lang="lv" title="Gredzens (ģeometrija) – Latvian">
+         Latviešu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Cirkelring" hreflang="nl" lang="nl" title="Cirkelring – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%8B%E3%83%A5%E3%83%A9%E3%82%B9" hreflang="ja" lang="ja" title="アニュラス – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pms">
+        <a class="interlanguage-link-target" href="https://pms.wikipedia.org/wiki/Coron-a_sircolar" hreflang="pms" lang="pms" title="Coron-a sircolar – Piedmontese">
+         Piemontèis
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Pier%C5%9Bcie%C5%84_ko%C5%82owy" hreflang="pl" lang="pl" title="Pierścień kołowy – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Coroa_circular" hreflang="pt" lang="pt" title="Coroa circular – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ro">
+        <a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Coroan%C4%83_circular%C4%83" hreflang="ro" lang="ro" title="Coroană circulară – Romanian">
+         Română
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BB%D1%8C%D1%86%D0%BE_(%D0%B3%D0%B5%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%8F)" hreflang="ru" lang="ru" title="Кольцо (геометрия) – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sl">
+        <a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Kolobar" hreflang="sl" lang="sl" title="Kolobar – Slovenian">
+         Slovenščina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Annulus" hreflang="fi" lang="fi" title="Annulus – Finnish">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ta">
+        <a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%B5%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%B5%E0%AE%B2%E0%AF%88%E0%AE%AF%E0%AE%AE%E0%AF%8D" hreflang="ta" lang="ta" title="வட்டவலையம் – Tamil">
+         தமிழ்
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9A%D1%96%D0%BB%D1%8C%D1%86%D0%B5_(%D0%B3%D0%B5%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D1%96%D1%8F)" hreflang="uk" lang="uk" title="Кільце (геометрія) – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E7%8E%AF%E5%BD%A2" hreflang="zh" lang="zh" title="环形 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q45926#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 18 December 2017, at 01:33.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Annulus_(mathematics)&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.060","walltime":"0.188","ppvisitednodes":{"value":429,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":4071,"limit":2097152},"templateargumentsize":{"value":868,"limit":2097152},"expansiondepth":{"value":6,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1209,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   46.984      1 -total"," 58.44%   27.456      1 Template:Cite_web"," 37.81%   17.762     21 Template:Math"," 29.89%   14.043      2 Template:Sfrac"]},"scribunto":{"limitreport-timeusage":{"value":"0.018","limit":"10.000"},"limitreport-memusage":{"value":1352513,"limit":52428800}},"cachereport":{"origin":"mw1247","timestamp":"20180311175740","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":90,"wgHostname":"mw1331"});});
+  </script>
+ </body>
+</html>

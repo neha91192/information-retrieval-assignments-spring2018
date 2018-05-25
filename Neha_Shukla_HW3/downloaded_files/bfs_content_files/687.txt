@@ -1,0 +1,3119 @@
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Radiation zone - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Radiation_zone","wgTitle":"Radiation zone","wgCurRevisionId":824521232,"wgRevisionId":824521232,"wgArticleId":1235913,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Sun"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Radiation_zone","wgRelevantArticleId":1235913,"wgRequestId":"WrReAgpAAEYAAI@QVkQAAACB","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q127922","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.26" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Sun_poster.svg/1200px-Sun_poster.svg.png" property="og:image"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Radiation_zone" rel="alternate"/>
+  <link href="/w/index.php?title=Radiation_zone&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Radiation_zone&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Radiation_zone" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Radiation_zone rootpage-Radiation_zone skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Radiation zone
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:322px;">
+        <a class="image" href="/wiki/File:Sun_poster.svg">
+         <img alt="" class="thumbimage" data-file-height="2000" data-file-width="4000" height="160" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Sun_poster.svg/320px-Sun_poster.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Sun_poster.svg/480px-Sun_poster.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Sun_poster.svg/640px-Sun_poster.svg.png 2x" width="320"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Sun_poster.svg" title="Enlarge">
+          </a>
+         </div>
+         An illustration of the structure of the
+         <a href="/wiki/Sun" title="Sun">
+          Sun
+         </a>
+         <div class="div-col columns column-width" style="-moz-column-width: 8em; -webkit-column-width: 8em; column-width: 8em;">
+          <div>
+           <ul>
+            <li>
+             <a href="/wiki/Granule_(solar_physics)" title="Granule (solar physics)">
+              Granules
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Sunspot" title="Sunspot">
+              Sunspot
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Photosphere" title="Photosphere">
+              Photosphere
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Chromosphere" title="Chromosphere">
+              Chromosphere
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Convection_zone" title="Convection zone">
+              Convection zone
+             </a>
+            </li>
+            <li>
+             <a class="mw-selflink selflink">
+              Radiation zone
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tachocline" title="Tachocline">
+              Tachocline
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_core" title="Solar core">
+              Solar core
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Corona" title="Corona">
+              Corona
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_flare" title="Solar flare">
+              Flare
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_prominence" title="Solar prominence">
+              Prominence
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_wind" title="Solar wind">
+              Solar wind
+             </a>
+            </li>
+           </ul>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <p>
+       A
+       <b>
+        radiation zone
+       </b>
+       ,
+       <b>
+        radiative zone
+       </b>
+       or
+       <b>
+        radiative region
+       </b>
+       is a layer of a star's interior where energy is primarily transported toward the exterior by means of
+       <a href="/wiki/Radiation" title="Radiation">
+        radiative diffusion
+       </a>
+       and
+       <a href="/wiki/Thermal_conduction" title="Thermal conduction">
+        thermal conduction
+       </a>
+       , rather than by
+       <a href="/wiki/Convection" title="Convection">
+        convection
+       </a>
+       .
+       <sup class="reference" id="cite_ref-ryan_norton2010_1-0">
+        <a href="#cite_note-ryan_norton2010-1">
+         [1]
+        </a>
+       </sup>
+       Energy travels through the radiation zone in the form of
+       <a href="/wiki/Electromagnetic_radiation" title="Electromagnetic radiation">
+        electromagnetic radiation
+       </a>
+       as
+       <a href="/wiki/Photon" title="Photon">
+        photons
+       </a>
+       .
+      </p>
+      <p>
+       Matter in a radiation zone is so dense that photons can travel only a short distance before they are absorbed or scattered by another particle, gradually shifting to longer wavelength as they do so. For this reason, it takes an average of 171,000 years for
+       <a href="/wiki/Gamma_ray" title="Gamma ray">
+        gamma rays
+       </a>
+       from the core of the Sun to leave the radiation zone. Over this range, the temperature of the plasma drops from 15 million K near the core down to 1.5 million K at the base of the convection zone.
+       <sup class="reference" id="cite_ref-elkins_tanton2006_2-0">
+        <a href="#cite_note-elkins_tanton2006-2">
+         [2]
+        </a>
+       </sup>
+      </p>
+      <p>
+       In a radiative zone, the temperature gradient—the change in temperature (
+       <i>
+        T
+       </i>
+       ) as a function of radius (
+       <i>
+        r
+       </i>
+       )—is given by:
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle {\frac {{\text{d}}T(r)}{{\text{d}}r}}\ =\ -{\frac {3\kappa (r)\rho (r)L(r)}{(4\pi r^{2})(16\sigma )T^{3}(r)}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mrow>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mtext>
+                   d
+                  </mtext>
+                 </mrow>
+                 <mi>
+                  T
+                 </mi>
+                 <mo stretchy="false">
+                  (
+                 </mo>
+                 <mi>
+                  r
+                 </mi>
+                 <mo stretchy="false">
+                  )
+                 </mo>
+                </mrow>
+                <mrow>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mtext>
+                   d
+                  </mtext>
+                 </mrow>
+                 <mi>
+                  r
+                 </mi>
+                </mrow>
+               </mfrac>
+              </mrow>
+              <mtext>
+              </mtext>
+              <mo>
+               =
+              </mo>
+              <mtext>
+              </mtext>
+              <mo>
+               −
+               <!-- − -->
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mrow>
+                 <mn>
+                  3
+                 </mn>
+                 <mi>
+                  κ
+                  <!-- κ -->
+                 </mi>
+                 <mo stretchy="false">
+                  (
+                 </mo>
+                 <mi>
+                  r
+                 </mi>
+                 <mo stretchy="false">
+                  )
+                 </mo>
+                 <mi>
+                  ρ
+                  <!-- ρ -->
+                 </mi>
+                 <mo stretchy="false">
+                  (
+                 </mo>
+                 <mi>
+                  r
+                 </mi>
+                 <mo stretchy="false">
+                  )
+                 </mo>
+                 <mi>
+                  L
+                 </mi>
+                 <mo stretchy="false">
+                  (
+                 </mo>
+                 <mi>
+                  r
+                 </mi>
+                 <mo stretchy="false">
+                  )
+                 </mo>
+                </mrow>
+                <mrow>
+                 <mo stretchy="false">
+                  (
+                 </mo>
+                 <mn>
+                  4
+                 </mn>
+                 <mi>
+                  π
+                  <!-- π -->
+                 </mi>
+                 <msup>
+                  <mi>
+                   r
+                  </mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mn>
+                    2
+                   </mn>
+                  </mrow>
+                 </msup>
+                 <mo stretchy="false">
+                  )
+                 </mo>
+                 <mo stretchy="false">
+                  (
+                 </mo>
+                 <mn>
+                  16
+                 </mn>
+                 <mi>
+                  σ
+                  <!-- σ -->
+                 </mi>
+                 <mo stretchy="false">
+                  )
+                 </mo>
+                 <msup>
+                  <mi>
+                   T
+                  </mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mn>
+                    3
+                   </mn>
+                  </mrow>
+                 </msup>
+                 <mo stretchy="false">
+                  (
+                 </mo>
+                 <mi>
+                  r
+                 </mi>
+                 <mo stretchy="false">
+                  )
+                 </mo>
+                </mrow>
+               </mfrac>
+              </mrow>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle {\frac {{\text{d}}T(r)}{{\text{d}}r}}\ =\ -{\frac {3\kappa (r)\rho (r)L(r)}{(4\pi r^{2})(16\sigma )T^{3}(r)}}}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\frac  {{\text{d}}T(r)}{{\text{d}}r}}\ =\ -{\frac  {3\kappa (r)\rho (r)L(r)}{(4\pi r^{2})(16\sigma )T^{3}(r)}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/83860020f8a9f4722a7a63ed98ecf2c8e48ad0f1" style="vertical-align: -2.671ex; width:32.062ex; height:6.509ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       where
+       <i>
+        κ
+       </i>
+       (
+       <i>
+        r
+       </i>
+       ) is the
+       <a href="/wiki/Opacity_(optics)" title="Opacity (optics)">
+        opacity
+       </a>
+       ,
+       <i>
+        ρ
+       </i>
+       (
+       <i>
+        r
+       </i>
+       ) is the matter density,
+       <i>
+        L
+       </i>
+       (
+       <i>
+        r
+       </i>
+       ) is the luminosity, and
+       <i>
+        σ
+       </i>
+       is the
+       <a href="/wiki/Stefan%E2%80%93Boltzmann_constant" title="Stefan–Boltzmann constant">
+        Stefan–Boltzmann constant
+       </a>
+       .
+       <sup class="reference" id="cite_ref-ryan_norton2010_1-1">
+        <a href="#cite_note-ryan_norton2010-1">
+         [1]
+        </a>
+       </sup>
+       Hence the opacity (
+       <i>
+        κ
+       </i>
+       ) and radiation flux (
+       <i>
+        L
+       </i>
+       ) within a given layer of a star are important factors in determining how effective radiative diffusion is at transporting energy. A high opacity or high luminosity can cause a high temperature gradient, which results from a slow flow of energy. Those layers where convection is more effective than radiative diffusion at transporting energy, thereby creating a lower temperature gradient, will become
+       <a href="/wiki/Convection_zone" title="Convection zone">
+        convection zones
+       </a>
+       .
+       <sup class="reference" id="cite_ref-leblanc2010_3-0">
+        <a href="#cite_note-leblanc2010-3">
+         [3]
+        </a>
+       </sup>
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Main_sequence_stars">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Main sequence stars
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#The_Sun">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           The Sun
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-3">
+         <a href="#Notes_and_references">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           Notes and references
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-4">
+         <a href="#External_links">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           External links
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Main_sequence_stars">
+        Main sequence stars
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Radiation_zone&amp;action=edit&amp;section=1" title="Edit section: Main sequence stars">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       For
+       <a href="/wiki/Main_sequence" title="Main sequence">
+        main sequence
+       </a>
+       stars—those stars that are generating energy through the
+       <a href="/wiki/Thermonuclear_fusion" title="Thermonuclear fusion">
+        thermonuclear fusion
+       </a>
+       of hydrogen at the core, the presence and location of radiative regions depends on the star's mass. Main sequence stars below about 0.3
+       <a href="/wiki/Solar_mass" title="Solar mass">
+        solar masses
+       </a>
+       are entirely convective, meaning they do not have a radiative zone. From 0.3 to 1.2 solar masses, the region around the stellar core is a radiation zone, separated from the overlying convection zone by the
+       <a href="/wiki/Tachocline" title="Tachocline">
+        tachocline
+       </a>
+       . The radius of the radiative zone increases
+       <a href="/wiki/Monotonic_function" title="Monotonic function">
+        monotonically
+       </a>
+       with mass, with stars around 1.2 solar masses being almost entirely radiative. Above 1.2 solar masses, the core region becomes a convection zone and the overlying region is a radiation zone, with the amount of mass within the convective zone increasing with the mass of the star.
+       <sup class="reference" id="cite_ref-padmanabhan2001_4-0">
+        <a href="#cite_note-padmanabhan2001-4">
+         [4]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="The_Sun">
+        The Sun
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Radiation_zone&amp;action=edit&amp;section=2" title="Edit section: The Sun">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       In the Sun, the region between the
+       <a href="/wiki/Solar_core" title="Solar core">
+        solar core
+       </a>
+       at 0.2 of the Sun's radius and the outer
+       <a href="/wiki/Convection_zone" title="Convection zone">
+        convection zone
+       </a>
+       at 0.71 of the Sun's radius is referred to as the radiation zone, although the core is also a radiative region.
+       <sup class="reference" id="cite_ref-ryan_norton2010_1-2">
+        <a href="#cite_note-ryan_norton2010-1">
+         [1]
+        </a>
+       </sup>
+       The
+       <a href="/wiki/Convection_zone" title="Convection zone">
+        convection zone
+       </a>
+       and the radiation zone are divided by the
+       <a href="/wiki/Tachocline" title="Tachocline">
+        tachocline
+       </a>
+       , another part of the
+       <a href="/wiki/Sun" title="Sun">
+        Sun
+       </a>
+       .
+      </p>
+      <h2>
+       <span class="mw-headline" id="Notes_and_references">
+        Notes and references
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Radiation_zone&amp;action=edit&amp;section=3" title="Edit section: Notes and references">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist" style="list-style-type: decimal;">
+       <div class="mw-references-wrap">
+        <ol class="references">
+         <li id="cite_note-ryan_norton2010-1">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-ryan_norton2010_1-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-ryan_norton2010_1-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-ryan_norton2010_1-2">
+            <sup>
+             <i>
+              <b>
+               c
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           <cite class="citation" id="CITEREFRyanNorton2010">
+            Ryan, Sean G.; Norton, Andrew J. (2010),
+            <a class="external text" href="https://books.google.com/books?id=V8rBIudlniAC&amp;pg=PA19" rel="nofollow">
+             <i>
+              Stellar Evolution and Nucleosynthesis
+             </i>
+            </a>
+            ,
+            <a href="/wiki/Cambridge_University_Press" title="Cambridge University Press">
+             Cambridge University Press
+            </a>
+            , p. 19,
+            <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+             ISBN
+            </a>
+            <a href="/wiki/Special:BookSources/0-521-19609-4" title="Special:BookSources/0-521-19609-4">
+             0-521-19609-4
+            </a>
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Stellar+Evolution+and+Nucleosynthesis&amp;rft.pages=19&amp;rft.pub=Cambridge+University+Press&amp;rft.date=2010&amp;rft.isbn=0-521-19609-4&amp;rft.aulast=Ryan&amp;rft.aufirst=Sean+G.&amp;rft.au=Norton%2C+Andrew+J.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DV8rBIudlniAC%26pg%3DPA19&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARadiation+zone">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-elkins_tanton2006-2">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-elkins_tanton2006_2-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation" id="CITEREFElkins-Tanton2006">
+            Elkins-Tanton, Linda T. (2006),
+            <a class="external text" href="https://books.google.com/books?id=Kx6q_fyqIKYC&amp;pg=PA24" rel="nofollow">
+             <i>
+              The Sun, Mercury, and Venus
+             </i>
+            </a>
+            ,
+            <a href="/wiki/Infobase_Publishing" title="Infobase Publishing">
+             Infobase Publishing
+            </a>
+            , p. 24,
+            <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+             ISBN
+            </a>
+            <a href="/wiki/Special:BookSources/0-8160-5193-3" title="Special:BookSources/0-8160-5193-3">
+             0-8160-5193-3
+            </a>
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Sun%2C+Mercury%2C+and+Venus&amp;rft.pages=24&amp;rft.pub=Infobase+Publishing&amp;rft.date=2006&amp;rft.isbn=0-8160-5193-3&amp;rft.aulast=Elkins-Tanton&amp;rft.aufirst=Linda+T.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DKx6q_fyqIKYC%26pg%3DPA24&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARadiation+zone">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-leblanc2010-3">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-leblanc2010_3-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation" id="CITEREFLeBlanc2010">
+            LeBlanc, Francis (2010),
+            <a class="external text" href="https://books.google.com/books?id=jAe4P3GIZRoC&amp;pg=PA168" rel="nofollow">
+             <i>
+              An Introduction to Stellar Astrophysics
+             </i>
+            </a>
+            (1st ed.), John Wiley and Sons, p. 168,
+            <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+             ISBN
+            </a>
+            <a href="/wiki/Special:BookSources/1-119-96497-0" title="Special:BookSources/1-119-96497-0">
+             1-119-96497-0
+            </a>
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=An+Introduction+to+Stellar+Astrophysics&amp;rft.pages=168&amp;rft.edition=1st&amp;rft.pub=John+Wiley+and+Sons&amp;rft.date=2010&amp;rft.isbn=1-119-96497-0&amp;rft.aulast=LeBlanc&amp;rft.aufirst=Francis&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DjAe4P3GIZRoC%26pg%3DPA168&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARadiation+zone">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-padmanabhan2001-4">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-padmanabhan2001_4-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation" id="CITEREFPadmanabhan2001">
+            Padmanabhan, Thanu (2001),
+            <a class="external text" href="https://books.google.com/books?id=TOjwtYYb63cC&amp;pg=PA80" rel="nofollow">
+             <i>
+              Theoretical Astrophysics: Stars and stellar systems
+             </i>
+            </a>
+            , Theoretical Astrophysics,
+            <b>
+             2
+            </b>
+            , Cambridge University Press, p. 80,
+            <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+             ISBN
+            </a>
+            <a href="/wiki/Special:BookSources/0-521-56631-2" title="Special:BookSources/0-521-56631-2">
+             0-521-56631-2
+            </a>
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Theoretical+Astrophysics%3A+Stars+and+stellar+systems&amp;rft.series=Theoretical+Astrophysics&amp;rft.pages=80&amp;rft.pub=Cambridge+University+Press&amp;rft.date=2001&amp;rft.isbn=0-521-56631-2&amp;rft.aulast=Padmanabhan&amp;rft.aufirst=Thanu&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DTOjwtYYb63cC%26pg%3DPA80&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARadiation+zone">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Radiation_zone&amp;action=edit&amp;section=4" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a class="external text" href="http://sohowww.nascom.nasa.gov/" rel="nofollow">
+         SOHO ...
+         <b>
+          So
+         </b>
+         lar and
+         <b>
+          H
+         </b>
+         eliospheric
+         <b>
+          O
+         </b>
+         bservatory
+        </a>
+        — official site of this
+        <a href="/wiki/NASA" title="NASA">
+         NASA
+        </a>
+        and
+        <a href="/wiki/European_Space_Agency" title="European Space Agency">
+         ESA
+        </a>
+        joint project.
+       </li>
+       <li>
+        <a class="external text" href="http://alienworlds.southwales.ac.uk/sunStructure.html#/radiativezone" rel="nofollow">
+         Animated explanation of the Radiation zone
+        </a>
+        (University of South Wales).
+       </li>
+       <li>
+        <a class="external text" href="http://alienworlds.southwales.ac.uk/sunStructure.html#/radiativetempden" rel="nofollow">
+         Animated explanation of the temperature and density of the Radiation zone
+        </a>
+        (University of South Wales).
+       </li>
+      </ul>
+      <div aria-labelledby="The_Sun" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks hlist collapsible uncollapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="3" scope="col" style="text-align: center;">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:The_Sun" title="Template:The Sun">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a href="/wiki/Template_talk:The_Sun" title="Template talk:The Sun">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:The_Sun&amp;action=edit">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="The_Sun" style="font-size:114%;margin:0 4em">
+           <a href="/wiki/Sun" title="Sun">
+            The Sun
+           </a>
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Standard_solar_model" title="Standard solar model">
+           Internal structure
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Solar_core" title="Solar core">
+              Core
+             </a>
+            </li>
+            <li>
+             <a class="mw-selflink selflink">
+              Radiation zone
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tachocline" title="Tachocline">
+              Tachocline
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Convection_zone" title="Convection zone">
+              Convection zone
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+         <td class="navbox-image" rowspan="5" style="width:1px;padding:0px 0px 0px 2px">
+          <div>
+           <div class="floatright">
+            <a class="image" href="/wiki/File:Sun_in_February.jpg">
+             <img alt="Sun in February.jpg" class="thumbborder" data-file-height="2632" data-file-width="2632" height="155" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Sun_in_February.jpg/155px-Sun_in_February.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Sun_in_February.jpg/233px-Sun_in_February.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Sun_in_February.jpg/310px-Sun_in_February.jpg 2x" width="155"/>
+            </a>
+           </div>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Stellar_atmosphere" title="Stellar atmosphere">
+           Atmosphere
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+          </div>
+          <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%;text-align: center;">
+             <a href="/wiki/Photosphere" title="Photosphere">
+              Photosphere
+             </a>
+            </th>
+            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Supergranulation" title="Supergranulation">
+                 Supergranulation
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Granule_(solar_physics)" title="Granule (solar physics)">
+                 Granule
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Facula" title="Facula">
+                 Faculae
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Sunspot" title="Sunspot">
+                 Sunspot
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%;text-align: center;">
+             <a href="/wiki/Chromosphere" title="Chromosphere">
+              Chromosphere
+             </a>
+            </th>
+            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Plage_(astronomy)" title="Plage (astronomy)">
+                 Plage
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Spicule_(solar_physics)" title="Spicule (solar physics)">
+                 Spicule
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Moreton_wave" title="Moreton wave">
+                 Moreton wave
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%;text-align: center;">
+             <a href="/wiki/Corona" title="Corona">
+              Corona
+             </a>
+            </th>
+            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Solar_transition_region" title="Solar transition region">
+                 Transition region
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Coronal_hole" title="Coronal hole">
+                 Coronal hole
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Coronal_loop" title="Coronal loop">
+                 Coronal loop
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Coronal_mass_ejection" title="Coronal mass ejection">
+                 Coronal mass ejection
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Solar_prominence" title="Solar prominence">
+                 Prominence
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Helmet_streamer" title="Helmet streamer">
+                 Helmet streamer
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Supra-arcade_downflows" title="Supra-arcade downflows">
+                 Supra-arcade downflows
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a class="mw-redirect" href="/wiki/Solar_variation" title="Solar variation">
+           Variation
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Solar_cycle" title="Solar cycle">
+              Solar cycle
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/List_of_solar_cycles" title="List of solar cycles">
+                List of solar cycles
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Solar_maximum" title="Solar maximum">
+              Solar maximum
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_minimum" title="Solar minimum">
+              Solar minimum
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Wolf_number" title="Wolf number">
+              Wolf number
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_wind" title="Solar wind">
+              Solar wind
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_flare" title="Solar flare">
+              Flare
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Helioseismology" title="Helioseismology">
+              Helioseismology
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Heliosphere" title="Heliosphere">
+           Heliosphere
+          </a>
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Heliospheric_current_sheet" title="Heliospheric current sheet">
+              Current sheet
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Heliosphere#Termination_shock" title="Heliosphere">
+              Termination shock
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Heliosphere#Heliosheath" title="Heliosphere">
+              Heliosheath
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Heliosphere#Heliopause" title="Heliosphere">
+              Heliopause
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Bow_shock" title="Bow shock">
+              Bow shock
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          Related topics
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Heliophysics" title="Heliophysics">
+              Heliophysics
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Solar_activity" title="Solar activity">
+              Solar activity
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Solar_astronomy" title="Solar astronomy">
+              Solar astronomy
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_dynamo" title="Solar dynamo">
+              Solar dynamo
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_eclipse" title="Solar eclipse">
+              Eclipse
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_energy" title="Solar energy">
+              Solar energy
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_neutrino" title="Solar neutrino">
+              Solar neutrino
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_observation" title="Solar observation">
+              Solar observation
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_phenomena" title="Solar phenomena">
+              Solar phenomena
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_physics" title="Solar physics">
+              Solar physics
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_System" title="Solar System">
+              Solar System
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_telescope" title="Solar telescope">
+              Solar telescope
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_time" title="Solar time">
+              Solar time
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Space_weather" title="Space weather">
+              Space weather
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Standard_solar_model" title="Standard solar model">
+              Standard solar model
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Sunlight" title="Sunlight">
+              Radiation
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <td class="navbox-abovebelow" colspan="3" style="text-align: center;">
+          <div>
+           <ul>
+            <li>
+             <a href="/wiki/Stellar_classification" title="Stellar classification">
+              Spectral class
+             </a>
+             :
+             <a href="/wiki/G-type_main-sequence_star" title="G-type main-sequence star">
+              G2V
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <div aria-labelledby="Star" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="2" scope="col" style="text-align: center;">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:Star" title="Template:Star">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a href="/wiki/Template_talk:Star" title="Template talk:Star">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Star&amp;action=edit">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="Star" style="font-size:114%;margin:0 4em">
+           <a href="/wiki/Star" title="Star">
+            Star
+           </a>
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Star_formation" title="Star formation">
+           Formation
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Accretion_(astrophysics)" title="Accretion (astrophysics)">
+              Accretion
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Molecular_cloud" title="Molecular cloud">
+              Molecular cloud
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Bok_globule" title="Bok globule">
+              Bok globule
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Young_stellar_object" title="Young stellar object">
+              Young stellar object
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Protostar" title="Protostar">
+              Protostar
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Pre-main-sequence_star" title="Pre-main-sequence star">
+              Pre-main-sequence star
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Herbig_Ae/Be_star" title="Herbig Ae/Be star">
+                Herbig Ae/Be
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Orion_variable" title="Orion variable">
+                Orion
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/T_Tauri_star" title="T Tauri star">
+                  T Tauri
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/FU_Orionis_star" title="FU Orionis star">
+                  FU Orionis
+                 </a>
+                </li>
+               </ul>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Herbig%E2%80%93Haro_object" title="Herbig–Haro object">
+              Herbig–Haro object
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Hayashi_track" title="Hayashi track">
+              Hayashi track
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Henyey_track" title="Henyey track">
+              Henyey track
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Stellar_evolution" title="Stellar evolution">
+           Evolution
+          </a>
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Main_sequence" title="Main sequence">
+              Main sequence
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Red_giant_branch" title="Red giant branch">
+              Red giant branch
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Horizontal_branch" title="Horizontal branch">
+              Horizontal branch
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Red_clump" title="Red clump">
+                Red clump
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Asymptotic_giant_branch" title="Asymptotic giant branch">
+              Asymptotic giant branch
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Protoplanetary_nebula" title="Protoplanetary nebula">
+              Protoplanetary nebula
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Planetary_nebula" title="Planetary nebula">
+              Planetary nebula
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/PG_1159_star" title="PG 1159 star">
+              PG1159 star
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Dredge-up" title="Dredge-up">
+              Dredge-up
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Instability_strip" title="Instability strip">
+              Instability strip
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Luminous_blue_variable" title="Luminous blue variable">
+              Luminous blue variable
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Blue_straggler" title="Blue straggler">
+              Blue straggler
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Stellar_population" title="Stellar population">
+              Stellar population
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Supernova" title="Supernova">
+              Supernova
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Supernova_impostor" title="Supernova impostor">
+              Supernova impostor
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Hypernova" title="Hypernova">
+              Hypernova
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Hertzsprung%E2%80%93Russell_diagram" title="Hertzsprung–Russell diagram">
+              Hertzsprung–Russell diagram
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Color%E2%80%93color_diagram" title="Color–color diagram">
+              Color–color diagram
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          Luminosity class
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Subdwarf" title="Subdwarf">
+              Subdwarf
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Dwarf_star" title="Dwarf star">
+              Dwarf
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Blue_dwarf_(red-dwarf_stage)" title="Blue dwarf (red-dwarf stage)">
+                Blue
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Red_dwarf" title="Red dwarf">
+                Red
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/White_dwarf" title="White dwarf">
+                White
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/G-type_main-sequence_star" title="G-type main-sequence star">
+                Yellow
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Brown_dwarf" title="Brown dwarf">
+                Brown
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Subgiant" title="Subgiant">
+              Subgiant
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Giant_star" title="Giant star">
+              Giant
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Blue_giant" title="Blue giant">
+                Blue
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Red_giant" title="Red giant">
+                Red
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Yellow_giant" title="Yellow giant">
+                Yellow
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Bright_giant" title="Bright giant">
+              Bright giant
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Supergiant" title="Supergiant">
+              Supergiant
+             </a>
+             <ul>
+              <li>
+               <a class="mw-redirect" href="/wiki/Blue_supergiant" title="Blue supergiant">
+                Blue
+               </a>
+              </li>
+              <li>
+               <a class="mw-redirect" href="/wiki/Red_supergiant" title="Red supergiant">
+                Red
+               </a>
+              </li>
+              <li>
+               <a class="mw-redirect" href="/wiki/Yellow_supergiant" title="Yellow supergiant">
+                Yellow
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Hypergiant" title="Hypergiant">
+              Hypergiant
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Yellow_hypergiant" title="Yellow hypergiant">
+                Yellow
+               </a>
+              </li>
+             </ul>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Stellar_classification" title="Stellar classification">
+           Spectral
+           <br/>
+           classification
+          </a>
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/O-type_main-sequence_star" title="O-type main-sequence star">
+              O
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/B-type_main-sequence_star" title="B-type main-sequence star">
+              B
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/A-type_main-sequence_star" title="A-type main-sequence star">
+              A
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/F-type_main-sequence_star" title="F-type main-sequence star">
+              F
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/G-type_main-sequence_star" title="G-type main-sequence star">
+              G
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/K-type_main-sequence_star" title="K-type main-sequence star">
+              K
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Red_dwarf" title="Red dwarf">
+              M
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Wolf%E2%80%93Rayet_star" title="Wolf–Rayet star">
+              WR
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/B(e)_star" title="B(e) star">
+              Be
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/OB_star" title="OB star">
+              OB
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Subdwarf_O_star" title="Subdwarf O star">
+              Subdwarf O
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Subdwarf_B_star" title="Subdwarf B star">
+              Subdwarf B
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Late-type_star" title="Late-type star">
+              Late-type
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Chemically_peculiar_star" title="Chemically peculiar star">
+              Chemically peculiar
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Am_star" title="Am star">
+                Am
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Ap_and_Bp_stars" title="Ap and Bp stars">
+                Ap/Bp
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Barium_star" title="Barium star">
+                Barium
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Carbon_star" title="Carbon star">
+                Carbon
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/CH_star" title="CH star">
+                CH
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/CN_star" title="CN star">
+                CN
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Extreme_helium_star" title="Extreme helium star">
+                Extreme helium
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Lambda_Bo%C3%B6tis_star" title="Lambda Boötis star">
+                Lambda Boötis
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Lead_star" title="Lead star">
+                Lead
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Mercury-manganese_star" title="Mercury-manganese star">
+                HgMn
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/S-type_star" title="S-type star">
+                S
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Technetium_star" title="Technetium star">
+                Technetium
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Shell_star" title="Shell star">
+              Shell
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Compact_star" title="Compact star">
+           Remnants
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/White_dwarf" title="White dwarf">
+              White dwarf
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Helium_planet" title="Helium planet">
+                Helium planet
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Neutron_star" title="Neutron star">
+              Neutron star
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Radio-quiet_neutron_star" title="Radio-quiet neutron star">
+                Radio-quiet
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Pulsar" title="Pulsar">
+                Pulsar
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Binary_pulsar" title="Binary pulsar">
+                  Binary
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/X-ray_pulsar" title="X-ray pulsar">
+                  X-ray
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li>
+               <a href="/wiki/Magnetar" title="Magnetar">
+                Magnetar
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Stellar_black_hole" title="Stellar black hole">
+              Stellar black hole
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/X-ray_binary" title="X-ray binary">
+              X-ray binary
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/X-ray_burster" title="X-ray burster">
+                Burster
+               </a>
+              </li>
+             </ul>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          Theoretical stars
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Black_dwarf" title="Black dwarf">
+              Black dwarf
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Exotic_star" title="Exotic star">
+              Exotic
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Quark_star" title="Quark star">
+                Quark
+               </a>
+              </li>
+              <li>
+               <a class="mw-redirect" href="/wiki/Strange_star" title="Strange star">
+                Strange
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Preon_star" title="Preon star">
+                Preon
+               </a>
+              </li>
+              <li>
+               <a class="mw-redirect" href="/wiki/Planck_star" title="Planck star">
+                Planck
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Electroweak_star" title="Electroweak star">
+                Electroweak star
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Dark_star_(dark_matter)" title="Dark star (dark matter)">
+              Dark-matter star
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Dark-energy_star" title="Dark-energy star">
+              Dark-energy star
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Black_star_(semiclassical_gravity)" title="Black star (semiclassical gravity)">
+              Black star
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Gravastar" title="Gravastar">
+              Gravastar
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Frozen_star_(hypothetical_star)" title="Frozen star (hypothetical star)">
+              Frozen star
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Q_star" title="Q star">
+              Q star
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Quasi-star" title="Quasi-star">
+              Quasi-star
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Thorne%E2%80%93%C5%BBytkow_object" title="Thorne–Żytkow object">
+              Thorne–Żytkow object
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Iron_star" title="Iron star">
+              Iron star
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Blitzar" title="Blitzar">
+              Blitzar
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Stellar_nucleosynthesis" title="Stellar nucleosynthesis">
+           Nucleosynthesis
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a class="mw-redirect" href="/wiki/Deuterium_burning" title="Deuterium burning">
+              Deuterium burning
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Lithium_burning" title="Lithium burning">
+              Lithium burning
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Proton%E2%80%93proton_chain_reaction" title="Proton–proton chain reaction">
+              Proton–proton chain
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/CNO_cycle" title="CNO cycle">
+              CNO cycle
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Helium_flash" title="Helium flash">
+              Helium flash
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Triple-alpha_process" title="Triple-alpha process">
+              Triple-alpha process
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Alpha_process" title="Alpha process">
+              Alpha process
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Carbon-burning_process" title="Carbon-burning process">
+              Carbon burning
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Neon-burning_process" title="Neon-burning process">
+              Neon burning
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Oxygen-burning_process" title="Oxygen-burning process">
+              Oxygen burning
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Silicon-burning_process" title="Silicon-burning process">
+              Silicon burning
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/S-process" title="S-process">
+              S-process
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/R-process" title="R-process">
+              R-process
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Fusor_(astronomy)" title="Fusor (astronomy)">
+              Fusor
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Nova" title="Nova">
+              Nova
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Symbiotic_nova" title="Symbiotic nova">
+                Symbiotic
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Nova_remnant" title="Nova remnant">
+                Remnant
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Luminous_red_nova" title="Luminous red nova">
+                Luminous red nova
+               </a>
+              </li>
+             </ul>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Stellar_structure" title="Stellar structure">
+           Structure
+          </a>
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Solar_core" title="Solar core">
+              Core
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Convection_zone" title="Convection zone">
+              Convection zone
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Microturbulence" title="Microturbulence">
+                Microturbulence
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Solar-like_oscillations" title="Solar-like oscillations">
+                Oscillations
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a class="mw-selflink selflink">
+              Radiation zone
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Stellar_atmosphere" title="Stellar atmosphere">
+              Atmosphere
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Photosphere" title="Photosphere">
+                Photosphere
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Starspot" title="Starspot">
+                Starspot
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Chromosphere" title="Chromosphere">
+                Chromosphere
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Corona" title="Corona">
+                Corona
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Stellar_wind" title="Stellar wind">
+              Stellar wind
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Stellar-wind_bubble" title="Stellar-wind bubble">
+                Bubble
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Bipolar_outflow" title="Bipolar outflow">
+                Bipolar outflow
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Accretion_disk" title="Accretion disk">
+              Accretion disk
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Asteroseismology" title="Asteroseismology">
+              Asteroseismology
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Helioseismology" title="Helioseismology">
+                Helioseismology
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Eddington_luminosity" title="Eddington luminosity">
+              Eddington luminosity
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Kelvin%E2%80%93Helmholtz_mechanism" title="Kelvin–Helmholtz mechanism">
+              Kelvin–Helmholtz mechanism
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          Properties
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a class="mw-redirect" href="/wiki/Stellar_designation" title="Stellar designation">
+              Designation
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Stellar_dynamics" title="Stellar dynamics">
+              Dynamics
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Effective_temperature" title="Effective temperature">
+              Effective temperature
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Stellar_kinematics" title="Stellar kinematics">
+              Kinematics
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Stellar_magnetic_field" title="Stellar magnetic field">
+              Magnetic field
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Absolute_magnitude" title="Absolute magnitude">
+              Absolute magnitude
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Stellar_mass" title="Stellar mass">
+              Mass
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Metallicity" title="Metallicity">
+              Metallicity
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Stellar_rotation" title="Stellar rotation">
+              Rotation
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/UBV_photometric_system" title="UBV photometric system">
+              UBV color
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Variable_star" title="Variable star">
+              Variable star
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Mira_variable" title="Mira variable">
+                Mira variable
+               </a>
+              </li>
+             </ul>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Star_system" title="Star system">
+           Star systems
+          </a>
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Binary_star" title="Binary star">
+              Binary
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Contact_binary" title="Contact binary">
+                Contact
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Common_envelope" title="Common envelope">
+                Common envelope
+               </a>
+              </li>
+              <li>
+               <a class="mw-redirect" href="/wiki/Eclipsing_binary" title="Eclipsing binary">
+                Eclipsing
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Symbiotic_binary" title="Symbiotic binary">
+                Symbiotic
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Star_system" title="Star system">
+              Multiple
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Star_cluster" title="Star cluster">
+              Star cluster
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Open_cluster" title="Open cluster">
+                Open cluster
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Globular_cluster" title="Globular cluster">
+                Globular cluster
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Super_star_cluster" title="Super star cluster">
+                Super star cluster
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Planetary_system" title="Planetary system">
+              Planetary system
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_System" title="Solar System">
+              Earth's Solar System
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          Earth-centric
+          <br/>
+          observation of
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Pole_star" title="Pole star">
+              Pole star
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Circumpolar_star" title="Circumpolar star">
+              Circumpolar star
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Constellation" title="Constellation">
+              Constellation
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Asterism_(astronomy)" title="Asterism (astronomy)">
+              Asterism
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Magnitude_(astronomy)" title="Magnitude (astronomy)">
+              Magnitude
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Apparent_magnitude" title="Apparent magnitude">
+                Apparent
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Extinction_(astronomy)" title="Extinction (astronomy)">
+                Extinction
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Photographic_magnitude" title="Photographic magnitude">
+                Photographic
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Radial_velocity" title="Radial velocity">
+              Radial velocity
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Proper_motion" title="Proper motion">
+              Proper motion
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Stellar_parallax" title="Stellar parallax">
+              Parallax
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Photometric-standard_star" title="Photometric-standard star">
+              Photometric-standard star
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Lists_of_stars" title="Lists of stars">
+           Lists
+          </a>
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/List_of_proper_names_of_stars" title="List of proper names of stars">
+              Star names
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/List_of_Arabic_star_names" title="List of Arabic star names">
+                Arabic
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Traditional_Chinese_star_names" title="Traditional Chinese star names">
+                Chinese
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/List_of_star_extremes" title="List of star extremes">
+              Extremes
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/List_of_most_massive_stars" title="List of most massive stars">
+              Most massive
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/List_of_hottest_stars" title="List of hottest stars">
+              Highest temperature
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/List_of_largest_stars" title="List of largest stars">
+              Largest volume
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/List_of_least_voluminous_stars" title="List of least voluminous stars">
+              Smallest volume
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/List_of_brightest_stars" title="List of brightest stars">
+              Brightest
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Historical_brightest_stars" title="Historical brightest stars">
+                Historical
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/List_of_most_luminous_stars" title="List of most luminous stars">
+              Most luminous
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/List_of_nearest_stars_and_brown_dwarfs" title="List of nearest stars and brown dwarfs">
+              Nearest
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/List_of_nearest_bright_stars" title="List of nearest bright stars">
+                Nearest bright
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/List_of_exoplanetary_host_stars" title="List of exoplanetary host stars">
+              Stars with exoplanets
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/List_of_brown_dwarfs" title="List of brown dwarfs">
+              Brown dwarfs
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/List_of_white_dwarfs" title="List of white dwarfs">
+              White dwarfs
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/List_of_novae_in_the_Milky_Way_galaxy" title="List of novae in the Milky Way galaxy">
+              Milky Way novae
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/List_of_supernovae" title="List of supernovae">
+              Notable supernovae
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/List_of_supernova_candidates" title="List of supernova candidates">
+                Supernova candidates
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/List_of_supernova_remnants" title="List of supernova remnants">
+              Supernova remnants
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/List_of_planetary_nebulae" title="List of planetary nebulae">
+              Planetary nebulae
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Timeline_of_stellar_astronomy" title="Timeline of stellar astronomy">
+              Timeline of stellar astronomy
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          Related articles
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Substellar_object" title="Substellar object">
+              Substellar object
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Brown_dwarf" title="Brown dwarf">
+                Brown dwarf
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Sub-brown_dwarf" title="Sub-brown dwarf">
+                Sub-brown dwarf
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Planet" title="Planet">
+                Planet
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Galactic_year" title="Galactic year">
+              Galactic year
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Galaxy" title="Galaxy">
+              Galaxy
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Supercluster" title="Supercluster">
+              Supercluster
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Guest_star_(astronomy)" title="Guest star (astronomy)">
+              Guest star
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Gravity" title="Gravity">
+              Gravity
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Intergalactic_star" title="Intergalactic star">
+              Intergalactic star
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Infrared_dark_cloud" title="Infrared dark cloud">
+              Infrared dark cloud
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Starfield_(astronomy)" title="Starfield (astronomy)">
+              Starfield
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <td class="navbox-abovebelow" colspan="2" style="text-align: center;">
+          <div>
+           <img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/>
+           <b>
+            <a href="/wiki/Category:Stars" title="Category:Stars">
+             Category:Stars
+            </a>
+           </b>
+           <b>
+            ·
+           </b>
+           <b>
+            <a class="image" href="/wiki/File:He1523a.jpg">
+             <img alt="He1523a.jpg" class="noviewer" data-file-height="207" data-file-width="180" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/He1523a.jpg/14px-He1523a.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/He1523a.jpg/21px-He1523a.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/He1523a.jpg/28px-He1523a.jpg 2x" width="14"/>
+            </a>
+            <a href="/wiki/Portal:Star" title="Portal:Star">
+             Star portal
+            </a>
+           </b>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1254
+Cached time: 20180311155529
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.180 seconds
+Real time usage: 0.260 seconds
+Preprocessor visited node count: 691/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 63463/2097152 bytes
+Template argument size: 355/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 5467/5000000 bytes
+Lua time usage: 0.066/10.000 seconds
+Lua memory usage: 2.49 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  159.824      1 -total
+ 47.37%   75.712      1 Template:Reflist
+ 35.66%   56.989      4 Template:Citation
+ 29.72%   47.504      3 Template:Navbox
+ 19.13%   30.577      1 Template:Structure_of_the_Sun
+ 18.69%   29.872      1 Template:Star
+ 12.29%   19.649      1 Template:The_Sun
+ 11.16%   17.837      1 Template:Div_col
+  5.65%    9.033      1 Template:Unordered_list
+  5.18%    8.281      1 Template:Portal-inline
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:1235913-0!canonical!math=5 and timestamp 20180311155528 and revision id 824521232
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Radiation_zone&amp;oldid=824521232">
+      https://en.wikipedia.org/w/index.php?title=Radiation_zone&amp;oldid=824521232
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Sun" title="Category:Sun">
+         Sun
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Radiation+zone" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Radiation+zone" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Radiation_zone" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Radiation_zone" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Radiation_zone">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Radiation_zone&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Radiation_zone&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Radiation_zone" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Radiation_zone" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Radiation_zone&amp;oldid=824521232" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Radiation_zone&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q127922" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Radiation_zone&amp;id=824521232" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Radiation+zone">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Radiation+zone&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Radiation_zone&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%85%D9%86%D8%B7%D9%82%D8%A9_%D8%A7%D9%84%D8%A5%D8%B4%D8%B9%D8%A7%D8%B9" hreflang="ar" lang="ar" title="منطقة الإشعاع – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be">
+        <a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%97%D0%BE%D0%BD%D0%B0_%D0%BF%D1%80%D0%B0%D0%BC%D1%8F%D0%BD%D1%96%D1%81%D1%82%D0%B0%D0%B3%D0%B0_%D0%BF%D0%B5%D1%80%D0%B0%D0%BD%D0%BE%D1%81%D1%83" hreflang="be" lang="be" title="Зона прамяністага пераносу – Belarusian">
+         Беларуская
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Zona_de_radiaci%C3%B3" hreflang="ca" lang="ca" title="Zona de radiació – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Vrstva_v_z%C3%A1%C5%99iv%C3%A9_rovnov%C3%A1ze" hreflang="cs" lang="cs" title="Vrstva v zářivé rovnováze – Czech">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Zona_de_radiaci%C3%B3n" hreflang="es" lang="es" title="Zona de radiación – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%86%D8%A7%D8%AD%DB%8C%D9%87_%D8%AA%D8%A7%D8%A8%D8%B4%DB%8C" hreflang="fa" lang="fa" title="ناحیه تابشی – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EB%B3%B5%EC%82%AC%EC%B8%B5" hreflang="ko" lang="ko" title="복사층 – Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Zona_radiasi" hreflang="id" lang="id" title="Zona radiasi – Indonesian">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Zona_radiativa" hreflang="it" lang="it" title="Zona radiativa – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mk">
+        <a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%97%D1%80%D0%B0%D1%87%D0%B5%D0%BD_%D1%81%D0%BB%D0%BE%D1%98" hreflang="mk" lang="mk" title="Зрачен слој – Macedonian">
+         Македонски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E6%94%BE%E5%B0%84%E5%B1%A4" hreflang="ja" lang="ja" title="放射層 – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Str%C3%A5lingssone" hreflang="no" lang="no" title="Strålingssone – Norwegian">
+         Norsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Strefa_promienista" hreflang="pl" lang="pl" title="Strefa promienista – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Zona_de_radia%C3%A7%C3%A3o" hreflang="pt" lang="pt" title="Zona de radiação – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%97%D0%BE%D0%BD%D0%B0_%D0%BB%D1%83%D1%87%D0%B8%D1%81%D1%82%D0%BE%D0%B3%D0%BE_%D0%BF%D0%B5%D1%80%D0%B5%D0%BD%D0%BE%D1%81%D0%B0" hreflang="ru" lang="ru" title="Зона лучистого переноса – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sk">
+        <a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Oblas%C5%A5_%C5%BEiarivej_rovnov%C3%A1hy" hreflang="sk" lang="sk" title="Oblasť žiarivej rovnováhy – Slovak">
+         Slovenčina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sr">
+        <a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/Radijativna_zona" hreflang="sr" lang="sr" title="Radijativna zona – Serbian">
+         Српски / srpski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-th">
+        <a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%82%E0%B8%95%E0%B9%81%E0%B8%9C%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%B5" hreflang="th" lang="th" title="เขตแผ่รังสี – Thai">
+         ไทย
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tr">
+        <a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/I%C5%9F%C4%B1n%C4%B1m_b%C3%B6lgesi" hreflang="tr" lang="tr" title="Işınım bölgesi – Turkish">
+         Türkçe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%97%D0%BE%D0%BD%D0%B0_%D0%BF%D1%80%D0%BE%D0%BC%D0%B5%D0%BD%D0%B8%D1%81%D1%82%D0%BE%D0%B3%D0%BE_%D0%BF%D0%B5%D1%80%D0%B5%D0%BD%D0%BE%D1%81%D1%83" hreflang="uk" lang="uk" title="Зона променистого переносу – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E8%BC%BB%E5%B0%84%E5%B1%A4" hreflang="zh" lang="zh" title="輻射層 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q127922#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 7 February 2018, at 21:08.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Radiation_zone&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.180","walltime":"0.260","ppvisitednodes":{"value":691,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":63463,"limit":2097152},"templateargumentsize":{"value":355,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":5467,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  159.824      1 -total"," 47.37%   75.712      1 Template:Reflist"," 35.66%   56.989      4 Template:Citation"," 29.72%   47.504      3 Template:Navbox"," 19.13%   30.577      1 Template:Structure_of_the_Sun"," 18.69%   29.872      1 Template:Star"," 12.29%   19.649      1 Template:The_Sun"," 11.16%   17.837      1 Template:Div_col","  5.65%    9.033      1 Template:Unordered_list","  5.18%    8.281      1 Template:Portal-inline"]},"scribunto":{"limitreport-timeusage":{"value":"0.066","limit":"10.000"},"limitreport-memusage":{"value":2613920,"limit":52428800}},"cachereport":{"origin":"mw1254","timestamp":"20180311155529","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":97,"wgHostname":"mw1275"});});
+  </script>
+ </body>
+</html>

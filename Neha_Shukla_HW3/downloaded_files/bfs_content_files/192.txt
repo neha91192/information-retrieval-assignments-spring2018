@@ -1,0 +1,2726 @@
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Physical Review - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Physical_Review","wgTitle":"Physical Review","wgCurRevisionId":814414907,"wgRevisionId":814414907,"wgArticleId":419663,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["ISSN needed","Physics journals","Publications established in 1893","English-language journals","American Physical Society academic journals"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Physical_Review","wgRelevantArticleId":419663,"wgRequestId":"Wq7RVwpAIC0AABcm9bgAAABL","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Physical_Review_D","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Physical_Review","wgWikibaseItemId":"Q869847","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.25" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Physical_Review" rel="alternate"/>
+  <link href="/w/index.php?title=Physical_Review&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Physical_Review&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Physical_Review" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Physical_Review rootpage-Physical_Review skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    <i>
+     Physical Review
+    </i>
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+     <span class="mw-redirectedfrom">
+      (Redirected from
+      <a class="mw-redirect" href="/w/index.php?title=Physical_Review_D&amp;redirect=no" title="Physical Review D">
+       Physical Review D
+      </a>
+      )
+     </span>
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <table class="infobox hproduct" style="width:22em">
+       <caption style="font-size:130%;">
+        <i>
+         <span class="fn">
+          Physical Review
+         </span>
+        </i>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.jtitle=Physical+Review&amp;rft.stitle=Phys.+Rev.&amp;rft_id=http%3A%2F%2Fjournals.aps.org%2F">
+        </span>
+       </caption>
+       <tr>
+        <th scope="row">
+         <div style="padding:0.1em 0;line-height:1.2em;">
+          <a href="/wiki/ISO_4" title="ISO 4">
+           ISO 4 abbreviation
+          </a>
+         </div>
+        </th>
+        <td class="identifier" style="text-align:left;">
+         <i>
+          Phys. Rev.
+         </i>
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         <a href="/wiki/Outline_of_academic_disciplines" title="Outline of academic disciplines">
+          Discipline
+         </a>
+        </th>
+        <td class="category" style="text-align:left;">
+         <a href="/wiki/Physics" title="Physics">
+          Physics
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         Language
+        </th>
+        <td style="text-align:left;">
+         English
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         Edited by
+        </th>
+        <td style="text-align:left;">
+         <a class="new" href="/w/index.php?title=Michael_Thoennessen&amp;action=edit&amp;redlink=1" title="Michael Thoennessen (page does not exist)">
+          Michael Thoennessen
+         </a>
+         (Editor in Chief)
+        </td>
+       </tr>
+       <tr>
+        <th colspan="2" style="text-align:center;background:#dfc;">
+         Publication details
+        </th>
+       </tr>
+       <tr>
+        <th scope="row">
+         Publisher
+        </th>
+        <td style="text-align:left;">
+         <div style="padding:0.1em 0;line-height:1.2em;">
+          <a href="/wiki/American_Physical_Society" title="American Physical Society">
+           American Physical Society
+          </a>
+          <span style="font-size:90%;">
+           (
+           <a href="/wiki/United_States" title="United States">
+            United States
+           </a>
+           )
+          </span>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         <div style="padding:0.1em 0;line-height:1.2em;">
+          Publication history
+         </div>
+        </th>
+        <td style="text-align:left;">
+         1893–1913
+         <i>
+          Series I
+         </i>
+         <br/>
+         1913–1970
+         <i>
+          Series II
+         </i>
+         <br/>
+         <span class="nowrap">
+          1970–present
+          <i>
+           Series III
+          </i>
+         </span>
+         <br/>
+         <span class="nowrap">
+          1970–present
+          <i>
+           Phys. Rev. A
+          </i>
+          ,
+          <i>
+           B
+          </i>
+          ,
+          <i>
+           C
+          </i>
+          ,
+          <i>
+           D
+          </i>
+         </span>
+         <br/>
+         1993–present
+         <i>
+          Phys. Rev. E
+         </i>
+         <br/>
+         1998–present
+         <i>
+          Phys. Rev. AB
+         </i>
+         <br/>
+         2005–present
+         <i>
+          Phys. Rev. PER
+         </i>
+         <br/>
+         2008–present
+         <i>
+          Physics
+         </i>
+         <br/>
+         2011–present
+         <i>
+          Phys. Rev. X
+         </i>
+         <br/>
+         2014–present
+         <i>
+          Phys. Rev. Applied
+         </i>
+         <br/>
+         2016–present
+         <i>
+          Phys. Rev. Fluids
+         </i>
+         <br/>
+         2017–present
+         <i>
+          Phys. Rev. Materials
+         </i>
+        </td>
+       </tr>
+       <tr>
+        <th colspan="2" style="text-align:center;background:#dfc;">
+         Links
+        </th>
+       </tr>
+       <tr>
+        <td colspan="2" style="text-align:center;text-align:left;">
+         <ul>
+          <li>
+           <a class="external text" href="http://journals.aps.org/" rel="nofollow">
+            Journal homepage
+           </a>
+          </li>
+         </ul>
+        </td>
+       </tr>
+      </table>
+      <p>
+       <i>
+        <b>
+         Physical Review
+        </b>
+       </i>
+       is an American
+       <a href="/wiki/Peer_review" title="Peer review">
+        peer-reviewed
+       </a>
+       <a href="/wiki/Scientific_journal" title="Scientific journal">
+        scientific journal
+       </a>
+       established in 1893 by
+       <a href="/wiki/Edward_Leamington_Nichols" title="Edward Leamington Nichols">
+        Edward Nichols
+       </a>
+       . It publishes
+       <a class="mw-redirect" href="/wiki/Original_research" title="Original research">
+        original research
+       </a>
+       as well as
+       <a class="mw-redirect" href="/wiki/Scientific_review" title="Scientific review">
+        scientific
+       </a>
+       and
+       <a href="/wiki/Literature_review" title="Literature review">
+        literature reviews
+       </a>
+       on all aspects of
+       <a href="/wiki/Physics" title="Physics">
+        physics
+       </a>
+       . It is published by the
+       <a href="/wiki/American_Physical_Society" title="American Physical Society">
+        American Physical Society
+       </a>
+       (APS). The journal is in its third series, and is split in several sub-journals each covering a particular field of physics. It has a sister journal,
+       <i>
+        <a href="/wiki/Physical_Review_Letters" title="Physical Review Letters">
+         Physical Review Letters
+        </a>
+       </i>
+       , which publishes shorter articles of broader interest.
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#History">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           History
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#Journals">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Journals
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-3">
+         <a href="#Notes_and_references">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           Notes and references
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-4">
+         <a href="#External_links">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           External links
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="History">
+        History
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Physical_Review&amp;action=edit&amp;section=1" title="Edit section: History">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       <i>
+        Physical Review
+       </i>
+       commenced publication in July 1893, organized by
+       <a href="/wiki/Cornell_University" title="Cornell University">
+        Cornell University
+       </a>
+       professor
+       <a href="/wiki/Edward_Leamington_Nichols" title="Edward Leamington Nichols">
+        Edward Nichols
+       </a>
+       and helped by the new president of Cornell,
+       <a class="new" href="/w/index.php?title=J._Gould_Schurman&amp;action=edit&amp;redlink=1" title="J. Gould Schurman (page does not exist)">
+        J. Gould Schurman
+       </a>
+       . The journal was managed and edited at Cornell in upstate
+       <a href="/wiki/New_York_(state)" title="New York (state)">
+        New York
+       </a>
+       from 1893 to 1913 by Nichols,
+       <a href="/wiki/Ernest_Merritt" title="Ernest Merritt">
+        Ernest Merritt
+       </a>
+       , and
+       <a class="new" href="/w/index.php?title=Frederick_Bedell&amp;action=edit&amp;redlink=1" title="Frederick Bedell (page does not exist)">
+        Frederick Bedell
+       </a>
+       . The 33 volumes published during this time constitute
+       <i>
+        Physical Review Series I
+       </i>
+       .
+      </p>
+      <p>
+       The
+       <a href="/wiki/American_Physical_Society" title="American Physical Society">
+        American Physical Society
+       </a>
+       (APS), founded in 1899, took over its publication in 1913 and started
+       <i>
+        Physical Review Series II
+       </i>
+       . The journal remained at Cornell under
+       <a href="/wiki/Editor-in-chief" title="Editor-in-chief">
+        editor-in-chief
+       </a>
+       <a class="new" href="/w/index.php?title=G._S._Fulcher&amp;action=edit&amp;redlink=1" title="G. S. Fulcher (page does not exist)">
+        G. S. Fulcher
+       </a>
+       from 1913 to 1926, before relocating to the location of editor
+       <a class="mw-redirect" href="/wiki/John_Torrence_Tate,_Sr." title="John Torrence Tate, Sr.">
+        John Torrence Tate, Sr.
+       </a>
+       <sup class="reference" id="cite_ref-1">
+        <a href="#cite_note-1">
+         [nb 1]
+        </a>
+       </sup>
+       at the
+       <a href="/wiki/University_of_Minnesota" title="University of Minnesota">
+        University of Minnesota
+       </a>
+       . In 1929, the APS started publishing
+       <i>
+        <a href="/wiki/Reviews_of_Modern_Physics" title="Reviews of Modern Physics">
+         Reviews of Modern Physics
+        </a>
+       </i>
+       , a venue for longer review articles.
+      </p>
+      <p>
+       During the
+       <a href="/wiki/Great_Depression" title="Great Depression">
+        Great Depression
+       </a>
+       , wealthy scientist
+       <a href="/wiki/Alfred_Lee_Loomis" title="Alfred Lee Loomis">
+        Alfred Loomis
+       </a>
+       anonymously paid the journal's fees for authors who could not afford them.
+       <sup class="reference" id="cite_ref-2">
+        <a href="#cite_note-2">
+         [1]
+        </a>
+       </sup>
+      </p>
+      <p>
+       After Tate's death in 1950, the journals were managed on an interim basis still in Minnesota by
+       <a class="new" href="/w/index.php?title=E._L._Hill&amp;action=edit&amp;redlink=1" title="E. L. Hill (page does not exist)">
+        E. L. Hill
+       </a>
+       and
+       <a class="new" href="/w/index.php?title=J._William_Buchta&amp;action=edit&amp;redlink=1" title="J. William Buchta (page does not exist)">
+        J. William Buchta
+       </a>
+       until
+       <a href="/wiki/Samuel_Goudsmit" title="Samuel Goudsmit">
+        Samuel Goudsmit
+       </a>
+       and Simon Pasternack were appointed and the editorial office moved to
+       <a href="/wiki/Brookhaven_National_Laboratory" title="Brookhaven National Laboratory">
+        Brookhaven National Laboratory
+       </a>
+       on Eastern
+       <a href="/wiki/Long_Island" title="Long Island">
+        Long Island
+       </a>
+       ,
+       <a href="/wiki/New_York_(state)" title="New York (state)">
+        New York
+       </a>
+       . In July 1958, the sister journal
+       <i>
+        <a href="/wiki/Physical_Review_Letters" title="Physical Review Letters">
+         Physical Review Letters
+        </a>
+       </i>
+       was introduced to publish short articles of particularly broad interest, initially edited by
+       <a class="new" href="/w/index.php?title=George_L._Trigg&amp;action=edit&amp;redlink=1" title="George L. Trigg (page does not exist)">
+        George L. Trigg
+       </a>
+       , who remained as editor until 1988.
+      </p>
+      <p>
+       In 1970,
+       <i>
+        Physical Review
+       </i>
+       split into sub-journals
+       <i>
+        Physical Review A
+       </i>
+       ,
+       <i>
+        B
+       </i>
+       ,
+       <i>
+        C
+       </i>
+       , and
+       <i>
+        D
+       </i>
+       . A fifth member of the family,
+       <i>
+        Physical Review E
+       </i>
+       , was introduced in 1993 to a large part to accommodate the huge amount of new research in
+       <a class="mw-redirect" href="/wiki/Nonlinear_dynamics" title="Nonlinear dynamics">
+        nonlinear dynamics
+       </a>
+       . Combined, these constitute
+       <i>
+        Physical Review Series III
+       </i>
+       .
+      </p>
+      <p>
+       The editorial office moved in 1980 to its present location across the expressway from Brookhaven National Laboratory. Goudsmit retired in 1974 and Pasternack in the mid-1970s. Past Editors in Chief include
+       <a class="new" href="/w/index.php?title=David_Lazarus_(physicist)&amp;action=edit&amp;redlink=1" title="David Lazarus (physicist) (page does not exist)">
+        David Lazarus
+       </a>
+       (1980–1990;
+       <a class="mw-redirect" href="/wiki/University_of_Illinois_at_Urbana-Champaign" title="University of Illinois at Urbana-Champaign">
+        University of Illinois at Urbana-Champaign
+       </a>
+       ),
+       <a class="new" href="/w/index.php?title=Benjamin_Bederson&amp;action=edit&amp;redlink=1" title="Benjamin Bederson (page does not exist)">
+        Benjamin Bederson
+       </a>
+       (1990–1996;
+       <a href="/wiki/New_York_University" title="New York University">
+        New York University
+       </a>
+       ),
+       <a class="new" href="/w/index.php?title=Martin_Blume&amp;action=edit&amp;redlink=1" title="Martin Blume (page does not exist)">
+        Martin Blume
+       </a>
+       (1996–2007; Brookhaven National Laboratory), and
+       <a class="mw-redirect" href="/wiki/Gene_Sprouse" title="Gene Sprouse">
+        Gene Sprouse
+       </a>
+       (2007–2015;
+       <a class="mw-redirect" href="/wiki/SUNY_Stony_Brook" title="SUNY Stony Brook">
+        SUNY Stony Brook
+       </a>
+       ). The current Editor in Chief is
+       <a class="new" href="/w/index.php?title=Michael_Thoennessen&amp;action=edit&amp;redlink=1" title="Michael Thoennessen (page does not exist)">
+        Michael Thoennessen
+       </a>
+       , whose term began in September 2017.
+       <sup class="reference" id="cite_ref-3">
+        <a href="#cite_note-3">
+         [2]
+        </a>
+       </sup>
+      </p>
+      <p>
+       To celebrate the hundredth anniversary of the journal, a memoir was published jointly by the APS and AIP.
+       <sup class="reference" id="cite_ref-4">
+        <a href="#cite_note-4">
+         [3]
+        </a>
+       </sup>
+      </p>
+      <p>
+       In 1998, the first issue of
+       <i>
+        Physical Review Special Topics: Accelerators and Beams
+       </i>
+       was published, and in 2005,
+       <i>
+        Physical Review Special Topics: Physics Education Research
+       </i>
+       was launched. In January 2016 the names of both journals were changed to remove "Special Topics".
+       <sup class="reference" id="cite_ref-special-topics-change_5-0">
+        <a href="#cite_note-special-topics-change-5">
+         [4]
+        </a>
+       </sup>
+       <i>
+        Physical Review
+       </i>
+       also started an online magazine,
+       <i>
+        <a href="/wiki/Physical_Review_Focus" title="Physical Review Focus">
+         Physical Review Focus
+        </a>
+       </i>
+       , in 1998 to explain and provide historical context for selected articles from
+       <i>
+        Physical Review
+       </i>
+       and
+       <i>
+        Physical Review Letters
+       </i>
+       . This was merged into
+       <i>
+        <a class="mw-redirect" href="/wiki/Physics_(American_Physical_Society_journal)" title="Physics (American Physical Society journal)">
+         Physics
+        </a>
+       </i>
+       in 2011. The Special Topics journals are
+       <a href="/wiki/Open_access" title="Open access">
+        open access
+       </a>
+       ;
+       <i>
+        Physics Education Research
+       </i>
+       requires page charges from the authors, but
+       <i>
+        Accelerators and Beams
+       </i>
+       does not. Though not fully open access,
+       <i>
+        Physical Review Letters
+       </i>
+       also requires an author page charge, although this is voluntary. The other journals require such a charge only if manuscripts are not prepared in one of the preferred formats.
+       <sup class="reference" id="cite_ref-6">
+        <a href="#cite_note-6">
+         [5]
+        </a>
+       </sup>
+       Authors can pay extra charges to make their papers open access.
+       <sup class="reference" id="cite_ref-oa_7-0">
+        <a href="#cite_note-oa-7">
+         [6]
+        </a>
+       </sup>
+       Such papers are published under the terms of the
+       <a class="mw-redirect" href="/wiki/Creative_Commons_Attribution_3.0_License" title="Creative Commons Attribution 3.0 License">
+        Creative Commons Attribution 3.0 License
+       </a>
+       (CC-BY).
+       <sup class="reference" id="cite_ref-8">
+        <a href="#cite_note-8">
+         [7]
+        </a>
+       </sup>
+       <i>
+        Physical Review Letters
+       </i>
+       celebrated their 50th birthday in 2008.
+       <sup class="reference" id="cite_ref-9">
+        <a href="#cite_note-9">
+         [8]
+        </a>
+       </sup>
+       The APS has a
+       <a href="/wiki/Copyright" title="Copyright">
+        copyright
+       </a>
+       policy to permit the author to reuse parts of the published article in a derivative or new work, including on
+       <a href="/wiki/Wikipedia" title="Wikipedia">
+        Wikipedia
+       </a>
+       .
+       <sup class="reference" id="cite_ref-10">
+        <a href="#cite_note-10">
+         [9]
+        </a>
+       </sup>
+      </p>
+      <p>
+       The APS has an online publication entitled
+       <i>
+        Physics
+       </i>
+       ,
+       <sup class="reference" id="cite_ref-11">
+        <a href="#cite_note-11">
+         [10]
+        </a>
+       </sup>
+       aiming to help physicists and physics students to learn about new developments outside of their own subfield. This now includes the general-interest articles that appeared as
+       <i>
+        Physical Review Focus
+       </i>
+       . It also publishes
+       <i>
+        Physical Review X
+       </i>
+       ,
+       <sup class="reference" id="cite_ref-12">
+        <a href="#cite_note-12">
+         [11]
+        </a>
+       </sup>
+       an online-only gold
+       <a href="/wiki/Open_access_journal" title="Open access journal">
+        open access journal
+       </a>
+       . It is a peer-reviewed journal that publishes, as timely as possible, original research papers from all areas of pure, applied, and interdisciplinary physics. In 2014
+       <i>
+        Physical Review Applied
+       </i>
+       <sup class="reference" id="cite_ref-13">
+        <a href="#cite_note-13">
+         [12]
+        </a>
+       </sup>
+       began publishing research across all aspects of experimental and theoretical applications of physics, including their interactions with other sciences, engineering, and industry. In 2016 the APS launched
+       <i>
+        Physical Review Fluids
+       </i>
+       "to include additional areas of
+       <a href="/wiki/Fluid_dynamics" title="Fluid dynamics">
+        fluid dynamics
+       </a>
+       research",
+       <sup class="reference" id="cite_ref-14">
+        <a href="#cite_note-14">
+         [13]
+        </a>
+       </sup>
+       and in 2017 it launched
+       <i>
+        Physical Review Materials
+       </i>
+       "to fill a gap" in the coverage of materials research.
+       <sup class="reference" id="cite_ref-15">
+        <a href="#cite_note-15">
+         [14]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Journals">
+        Journals
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Physical_Review&amp;action=edit&amp;section=2" title="Edit section: Journals">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <table class="wikitable">
+       <tr>
+        <th>
+         Journal
+        </th>
+        <th>
+         Abbreviation
+        </th>
+        <th>
+         Editor(s)
+        </th>
+        <th>
+         <a href="/wiki/Impact_factor" title="Impact factor">
+          Impact factor
+         </a>
+         (2016)
+        </th>
+        <th>
+         Published
+        </th>
+        <th>
+         Scope
+        </th>
+        <th>
+         ISSN
+        </th>
+        <th>
+         Website
+        </th>
+       </tr>
+       <tr>
+        <td>
+         <i>
+          Physical Review Series I
+         </i>
+        </td>
+        <td>
+         Phys. Rev.
+        </td>
+        <td>
+        </td>
+        <td>
+        </td>
+        <td>
+         1893–1912
+        </td>
+        <td>
+         All of
+         <a href="/wiki/Physics" title="Physics">
+          Physics
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         <a class="external text" href="https://journals.aps.org/archive/" rel="nofollow">
+          All volumes
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <i>
+          Physical Review Series II
+         </i>
+         <sup class="reference" id="cite_ref-ser2-ab_17-0">
+          <a href="#cite_note-ser2-ab-17">
+           [nb 2]
+          </a>
+         </sup>
+        </td>
+        <td>
+         Phys. Rev.
+        </td>
+        <td>
+        </td>
+        <td>
+        </td>
+        <td>
+         1913–1969
+        </td>
+        <td>
+         All of Physics
+        </td>
+        <td>
+        </td>
+        <td>
+         <a class="external text" href="https://journals.aps.org/archive/" rel="nofollow">
+          Archive of All volumes
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <i>
+          <a href="/wiki/Physical_Review_Letters" title="Physical Review Letters">
+           Physical Review Letters
+          </a>
+         </i>
+        </td>
+        <td>
+         <a class="external text" href="http://journals.aps.org/prl/" rel="nofollow">
+          Phys. Rev. Lett.
+         </a>
+        </td>
+        <td>
+         <a class="new" href="/w/index.php?title=Hugues_Chate&amp;action=edit&amp;redlink=1" title="Hugues Chate (page does not exist)">
+          Hugues Chate
+         </a>
+         <br/>
+         <span class="nowrap">
+          <a class="new" href="/w/index.php?title=Reinhardt_B._Schuhmann&amp;action=edit&amp;redlink=1" title="Reinhardt B. Schuhmann (page does not exist)">
+           Reinhardt B. Schuhmann
+          </a>
+         </span>
+         <br/>
+         <span class="nowrap">
+          <a class="new" href="/w/index.php?title=Robert_Garisto&amp;action=edit&amp;redlink=1" title="Robert Garisto (page does not exist)">
+           Robert Garisto
+          </a>
+         </span>
+         <br/>
+         <a class="new" href="/w/index.php?title=Sami_Mitra&amp;action=edit&amp;redlink=1" title="Sami Mitra (page does not exist)">
+          Sami Mitra
+         </a>
+        </td>
+        <td>
+         8.462
+        </td>
+        <td>
+         1958–present
+        </td>
+        <td>
+         Important fundamental research in all fields of physics
+        </td>
+        <td>
+         <span class="nowrap">
+          <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">
+           ISSN
+          </a>
+          <a class="external text" href="https://www.worldcat.org/search?fq=x0:jrnl&amp;q=n2:0031-9007" rel="nofollow">
+           0031-9007
+          </a>
+          (print)
+         </span>
+         <br/>
+         <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">
+          ISSN
+         </a>
+         <a class="external text" href="https://www.worldcat.org/search?fq=x0:jrnl&amp;q=n2:1079-7114" rel="nofollow">
+          1079-7114
+         </a>
+         (web)
+        </td>
+        <td>
+         <a class="external text" href="https://journals.aps.org/archive/" rel="nofollow">
+          1958–2002
+         </a>
+         <br/>
+         <a class="external text" href="https://journals.aps.org/prl/" rel="nofollow">
+          2003–present
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <i>
+          <a href="/wiki/Physical_Review_A" title="Physical Review A">
+           Physical Review A
+          </a>
+         </i>
+         <sup class="reference" id="cite_ref-ser2-ab_17-1">
+          <a href="#cite_note-ser2-ab-17">
+           [nb 2]
+          </a>
+         </sup>
+        </td>
+        <td>
+         <a class="external text" href="https://journals.aps.org/pra/" rel="nofollow">
+          Phys. Rev. A
+         </a>
+        </td>
+        <td>
+         <a class="new" href="/w/index.php?title=Gordon_W._F._Drake&amp;action=edit&amp;redlink=1" title="Gordon W. F. Drake (page does not exist)">
+          Gordon W. F. Drake
+         </a>
+         <br/>
+         <a class="new" href="/w/index.php?title=Thomas_Pattard&amp;action=edit&amp;redlink=1" title="Thomas Pattard (page does not exist)">
+          Thomas Pattard
+         </a>
+        </td>
+        <td>
+         2.925
+        </td>
+        <td>
+         1970–present
+        </td>
+        <td>
+         <a href="/wiki/Atomic,_molecular,_and_optical_physics" title="Atomic, molecular, and optical physics">
+          Atomic, molecular, and optical physics
+         </a>
+         and
+         <a href="/wiki/Quantum_information" title="Quantum information">
+          quantum information
+         </a>
+        </td>
+        <td>
+         <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">
+          ISSN
+         </a>
+         <a class="external text" href="https://www.worldcat.org/search?fq=x0:jrnl&amp;q=n2:1050-2947" rel="nofollow">
+          1050-2947
+         </a>
+         (print)
+         <br/>
+         <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">
+          ISSN
+         </a>
+         <a class="external text" href="https://www.worldcat.org/search?fq=x0:jrnl&amp;q=n2:1094-1622" rel="nofollow">
+          1094-1622
+         </a>
+         (web)
+        </td>
+        <td>
+         <a class="external text" href="https://journals.aps.org/archive/" rel="nofollow">
+          1970–2002
+         </a>
+         <br/>
+         <a class="external text" href="https://journals.aps.org/pra/" rel="nofollow">
+          2003–present
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <i>
+          <a href="/wiki/Physical_Review_B" title="Physical Review B">
+           Physical Review B
+          </a>
+         </i>
+         <sup class="reference" id="cite_ref-ser2-ab_17-2">
+          <a href="#cite_note-ser2-ab-17">
+           [nb 2]
+          </a>
+         </sup>
+        </td>
+        <td>
+         <a class="external text" href="https://journals.aps.org/prb/" rel="nofollow">
+          Phys. Rev. B
+         </a>
+        </td>
+        <td>
+         <a href="/wiki/Laurens_W._Molenkamp" title="Laurens W. Molenkamp">
+          Laurens W. Molenkamp
+         </a>
+         <br/>
+         <a class="new" href="/w/index.php?title=Anthony_M._Begley&amp;action=edit&amp;redlink=1" title="Anthony M. Begley (page does not exist)">
+          Anthony M. Begley
+         </a>
+        </td>
+        <td>
+         3.836
+        </td>
+        <td>
+         1970–present
+        </td>
+        <td>
+         <a href="/wiki/Condensed_matter_physics" title="Condensed matter physics">
+          Condensed matter
+         </a>
+         and
+         <a href="/wiki/Materials_science" title="Materials science">
+          materials physics
+         </a>
+        </td>
+        <td>
+         <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">
+          ISSN
+         </a>
+         <a class="external text" href="https://www.worldcat.org/search?fq=x0:jrnl&amp;q=n2:1098-0121" rel="nofollow">
+          1098-0121
+         </a>
+         (print)
+         <br/>
+         <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">
+          ISSN
+         </a>
+         <a class="external text" href="https://www.worldcat.org/search?fq=x0:jrnl&amp;q=n2:1550-235X" rel="nofollow">
+          1550-235X
+         </a>
+         (web)
+        </td>
+        <td>
+         <a class="external text" href="https://journals.aps.org/archive/" rel="nofollow">
+          1970–2002
+         </a>
+         <br/>
+         <a class="external text" href="https://journals.aps.org/prb/" rel="nofollow">
+          2003–present
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <i>
+          <a class="mw-redirect" href="/wiki/Physical_Review_C" title="Physical Review C">
+           Physical Review C
+          </a>
+         </i>
+        </td>
+        <td>
+         <a class="external text" href="https://journals.aps.org/prc/" rel="nofollow">
+          Phys. Rev. C
+         </a>
+        </td>
+        <td>
+         <a class="new" href="/w/index.php?title=Benjamin_F._Gibson_(physicist)&amp;action=edit&amp;redlink=1" title="Benjamin F. Gibson (physicist) (page does not exist)">
+          Benjamin F. Gibson
+         </a>
+         <br/>
+         <a class="new" href="/w/index.php?title=Christopher_Wesselborg&amp;action=edit&amp;redlink=1" title="Christopher Wesselborg (page does not exist)">
+          Christopher Wesselborg
+         </a>
+        </td>
+        <td>
+         3.820
+        </td>
+        <td>
+         1970–present
+        </td>
+        <td>
+         <a href="/wiki/Nuclear_physics" title="Nuclear physics">
+          Nuclear physics
+         </a>
+        </td>
+        <td>
+         <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">
+          ISSN
+         </a>
+         <a class="external text" href="https://www.worldcat.org/search?fq=x0:jrnl&amp;q=n2:0556-2813" rel="nofollow">
+          0556-2813
+         </a>
+         (print)
+         <br/>
+         <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">
+          ISSN
+         </a>
+         <a class="external text" href="https://www.worldcat.org/search?fq=x0:jrnl&amp;q=n2:1089-490X" rel="nofollow">
+          1089-490X
+         </a>
+         (web)
+        </td>
+        <td>
+         <a class="external text" href="https://journals.aps.org/archive/" rel="nofollow">
+          1970–2002
+         </a>
+         <br/>
+         <a class="external text" href="https://journals.aps.org/prc/" rel="nofollow">
+          2003–present
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <i>
+          <a class="mw-redirect" href="/wiki/Physical_Review_D" title="Physical Review D">
+           Physical Review D
+          </a>
+         </i>
+        </td>
+        <td>
+         <a class="external text" href="https://journals.aps.org/prd/" rel="nofollow">
+          Phys. Rev. D
+         </a>
+        </td>
+        <td>
+         <a class="mw-redirect" href="/wiki/Erick_J._Weinberg" title="Erick J. Weinberg">
+          Erick J. Weinberg
+         </a>
+         <br/>
+         <a class="new" href="/w/index.php?title=Urs_Heller&amp;action=edit&amp;redlink=1" title="Urs Heller (page does not exist)">
+          Urs Heller
+         </a>
+        </td>
+        <td>
+         4.506
+        </td>
+        <td>
+         1970–present
+        </td>
+        <td>
+         <a href="/wiki/Particle_physics" title="Particle physics">
+          Particles
+         </a>
+         ,
+         <a href="/wiki/Quantum_field_theory" title="Quantum field theory">
+          fields
+         </a>
+         ,
+         <a class="mw-redirect" href="/wiki/Gravitation" title="Gravitation">
+          gravitation
+         </a>
+         , and
+         <a href="/wiki/Physical_cosmology" title="Physical cosmology">
+          cosmology
+         </a>
+        </td>
+        <td>
+         <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">
+          ISSN
+         </a>
+         <a class="external text" href="https://www.worldcat.org/search?fq=x0:jrnl&amp;q=n2:1550-7998" rel="nofollow">
+          1550-7998
+         </a>
+         (print)
+         <br/>
+         <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">
+          ISSN
+         </a>
+         <a class="external text" href="https://www.worldcat.org/search?fq=x0:jrnl&amp;q=n2:1550-2368" rel="nofollow">
+          1550-2368
+         </a>
+         (web)
+        </td>
+        <td>
+         <a class="external text" href="https://journals.aps.org/archive/" rel="nofollow">
+          1970–2002
+         </a>
+         <br/>
+         <a class="external text" href="https://journals.aps.org/prd/" rel="nofollow">
+          2003–present
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <i>
+          <a href="/wiki/Physical_Review_E" title="Physical Review E">
+           Physical Review E
+          </a>
+         </i>
+        </td>
+        <td>
+         <a class="external text" href="https://journals.aps.org/pre/" rel="nofollow">
+          Phys. Rev. E
+         </a>
+        </td>
+        <td>
+         <a class="new" href="/w/index.php?title=Eli_Ben-Naim&amp;action=edit&amp;redlink=1" title="Eli Ben-Naim (page does not exist)">
+          Eli Ben-Naim
+         </a>
+         <br/>
+         <a class="new" href="/w/index.php?title=Dirk_Jan_Bukman&amp;action=edit&amp;redlink=1" title="Dirk Jan Bukman (page does not exist)">
+          Dirk Jan Bukman
+         </a>
+        </td>
+        <td>
+         2.366
+        </td>
+        <td>
+         1993–present
+        </td>
+        <td>
+         <a href="/wiki/Statistical_physics" title="Statistical physics">
+          Statistical
+         </a>
+         ,
+         <a href="/wiki/Chaos_theory" title="Chaos theory">
+          nonlinear
+         </a>
+         ,
+         <a href="/wiki/Biology" title="Biology">
+          biological
+         </a>
+         and
+         <a href="/wiki/Soft_matter" title="Soft matter">
+          soft matter physics
+         </a>
+        </td>
+        <td>
+         <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">
+          ISSN
+         </a>
+         <a class="external text" href="https://www.worldcat.org/search?fq=x0:jrnl&amp;q=n2:1539-3755" rel="nofollow">
+          1539-3755
+         </a>
+         (print)
+         <br/>
+         <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">
+          ISSN
+         </a>
+         <a class="external text" href="https://www.worldcat.org/search?fq=x0:jrnl&amp;q=n2:1550-2376" rel="nofollow">
+          1550-2376
+         </a>
+         (web)
+        </td>
+        <td>
+         <a class="external text" href="https://journals.aps.org/archive/" rel="nofollow">
+          1970–2002
+         </a>
+         <br/>
+         <a class="external text" href="https://journals.aps.org/pre/" rel="nofollow">
+          2003–present
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <i>
+          <a href="/wiki/Physical_Review_X" title="Physical Review X">
+           Physical Review X
+          </a>
+         </i>
+        </td>
+        <td>
+         <a class="external text" href="https://journals.aps.org/prx/" rel="nofollow">
+          Phys. Rev. X
+         </a>
+        </td>
+        <td>
+         <a class="new" href="/w/index.php?title=Cristina_Marchetti&amp;action=edit&amp;redlink=1" title="Cristina Marchetti (page does not exist)">
+          Cristina Marchetti
+         </a>
+         <br/>
+         <a href="/wiki/Jean-Michel_Raimond" title="Jean-Michel Raimond">
+          Jean-Michel Raimond
+         </a>
+         <br/>
+         <a class="new" href="/w/index.php?title=Ling_Miao&amp;action=edit&amp;redlink=1" title="Ling Miao (page does not exist)">
+          Ling Miao
+         </a>
+        </td>
+        <td>
+         12.789
+        </td>
+        <td>
+         2011–present
+        </td>
+        <td>
+         "Broad subject coverage encouraging communication across related fields"
+        </td>
+        <td>
+         <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">
+          ISSN
+         </a>
+         <a class="external text" href="https://www.worldcat.org/search?fq=x0:jrnl&amp;q=n2:2160-3308" rel="nofollow">
+          2160-3308
+         </a>
+         (web)
+        </td>
+        <td>
+         <a class="external text" href="https://journals.aps.org/prx/" rel="nofollow">
+          All volumes
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <i>
+          <a class="mw-redirect" href="/wiki/Physical_Review_Accelerators_and_Beams" title="Physical Review Accelerators and Beams">
+           Physical Review Accelerators and Beams
+          </a>
+         </i>
+        </td>
+        <td>
+         <a class="external text" href="http://journals.aps.org/prab/" rel="nofollow">
+          Phys. Rev. AB
+         </a>
+        </td>
+        <td>
+         <a class="new" href="/w/index.php?title=Frank_Zimmermann&amp;action=edit&amp;redlink=1" title="Frank Zimmermann (page does not exist)">
+          Frank Zimmermann
+         </a>
+        </td>
+        <td>
+         1.444
+        </td>
+        <td>
+         1998–present
+        </td>
+        <td>
+         <a href="/wiki/Particle_accelerator" title="Particle accelerator">
+          Particle accelerators
+         </a>
+         and beams
+        </td>
+        <td>
+         <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">
+          ISSN
+         </a>
+         <a class="external text" href="https://www.worldcat.org/search?fq=x0:jrnl&amp;q=n2:2469-9888" rel="nofollow">
+          2469-9888
+         </a>
+         (web)
+        </td>
+        <td>
+         <a class="external text" href="http://journals.aps.org/prab/" rel="nofollow">
+          All volumes
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <i>
+          <a class="mw-redirect" href="/wiki/Physical_Review_Physics_Education_Research" title="Physical Review Physics Education Research">
+           Physical Review Physics Education Research
+          </a>
+         </i>
+        </td>
+        <td>
+         <a class="external text" href="http://journals.aps.org/prper/" rel="nofollow">
+          Phys. Rev. PER
+         </a>
+        </td>
+        <td>
+         Charles Henderson
+        </td>
+        <td>
+         2.083
+        </td>
+        <td>
+         2005–present
+        </td>
+        <td>
+         <a class="mw-redirect" href="/wiki/Physics_education_research" title="Physics education research">
+          Physics education research
+         </a>
+        </td>
+        <td>
+         <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">
+          ISSN
+         </a>
+         <a class="external text" href="https://www.worldcat.org/search?fq=x0:jrnl&amp;q=n2:2469-9896" rel="nofollow">
+          2469-9896
+         </a>
+         (web)
+        </td>
+        <td>
+         <a class="external text" href="http://journals.aps.org/prper/" rel="nofollow">
+          All volumes
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <i>
+          <a class="mw-redirect" href="/wiki/Physics_(American_Physical_Society_journal)" title="Physics (American Physical Society journal)">
+           Physics
+          </a>
+         </i>
+        </td>
+        <td>
+         <a class="external text" href="http://physics.aps.org/" rel="nofollow">
+          Physics
+         </a>
+        </td>
+        <td>
+         Jessica Thomas
+        </td>
+        <td>
+        </td>
+        <td>
+         2008–present
+        </td>
+        <td>
+         All of
+         <a href="/wiki/Physics" title="Physics">
+          Physics
+         </a>
+        </td>
+        <td>
+         <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">
+          ISSN
+         </a>
+         <a class="external text" href="https://www.worldcat.org/search?fq=x0:jrnl&amp;q=n2:1943-2879" rel="nofollow">
+          1943-2879
+         </a>
+         (web)
+        </td>
+        <td>
+         <a class="external text" href="http://physics.aps.org/" rel="nofollow">
+          All volumes
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <i>
+          <a href="/wiki/Physical_Review_Applied" title="Physical Review Applied">
+           Physical Review Applied
+          </a>
+         </i>
+        </td>
+        <td>
+         <a class="external text" href="http://journals.aps.org/prapplied/" rel="nofollow">
+          Phys. Rev. Appl.
+         </a>
+        </td>
+        <td>
+         Stephan Forrest
+         <p>
+          <a class="new" href="/w/index.php?title=Julie_Kim-Zajonz&amp;action=edit&amp;redlink=1" title="Julie Kim-Zajonz (page does not exist)">
+           Julie Kim-Zajonz
+          </a>
+         </p>
+        </td>
+        <td>
+         4.808
+        </td>
+        <td>
+         2014–present
+        </td>
+        <td>
+         "All aspects of experimental and theoretical applications of physics"
+        </td>
+        <td>
+         <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">
+          ISSN
+         </a>
+         <a class="external text" href="https://www.worldcat.org/search?fq=x0:jrnl&amp;q=n2:2331-7019" rel="nofollow">
+          2331-7019
+         </a>
+         (web)
+        </td>
+        <td>
+         <a class="external text" href="http://journals.aps.org/prapplied/" rel="nofollow">
+          All volumes
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <i>
+          Physical Review Fluids
+         </i>
+        </td>
+        <td>
+         <a class="external text" href="http://journals.aps.org/prfluids/" rel="nofollow">
+          Phys. Rev. Fluids
+         </a>
+        </td>
+        <td>
+         <a href="/wiki/John_Kim_(professor)" title="John Kim (professor)">
+          John Kim
+         </a>
+         <br/>
+         <a href="/wiki/L._Gary_Leal" title="L. Gary Leal">
+          L. Gary Leal
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         2016–present
+        </td>
+        <td>
+         "Innovative research that will significantly advance the fundamental understanding of fluid dynamics"
+        </td>
+        <td>
+         <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">
+          ISSN
+         </a>
+         <a class="external text" href="https://www.worldcat.org/search?fq=x0:jrnl&amp;q=n2:2469-990X" rel="nofollow">
+          2469-990X
+         </a>
+         (web)
+        </td>
+        <td>
+         <a class="external text" href="http://journals.aps.org/prfluids/" rel="nofollow">
+          All volumes
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <i>
+          Physical Review Materials
+         </i>
+        </td>
+        <td>
+         <a class="external text" href="http://journals.aps.org/prmaterials/" rel="nofollow">
+          Phys. Rev. Materials
+         </a>
+        </td>
+        <td>
+         <a class="new" href="/w/index.php?title=Chris_Leighton&amp;action=edit&amp;redlink=1" title="Chris Leighton (page does not exist)">
+          Chris Leighton
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         2017–present
+        </td>
+        <td>
+         "high-quality original research in materials"
+        </td>
+        <td>
+         <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">
+          ISSN
+         </a>
+         <a class="external text" href="https://www.worldcat.org/search?fq=x0:jrnl&amp;q=n2:2475-9953" rel="nofollow">
+          2475-9953
+         </a>
+         (web)
+        </td>
+        <td>
+         <a class="external text" href="http://journals.aps.org/prmaterials/" rel="nofollow">
+          All volumes
+         </a>
+        </td>
+       </tr>
+      </table>
+      <h2>
+       <span class="mw-headline" id="Notes_and_references">
+        Notes and references
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Physical_Review&amp;action=edit&amp;section=3" title="Edit section: Notes and references">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <dl>
+       <dt>
+        Notes
+       </dt>
+      </dl>
+      <div class="reflist" style="list-style-type: decimal;">
+       <div class="mw-references-wrap">
+        <ol class="references">
+         <li id="cite_note-1">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-1">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Not to be confused with his son, the
+           <a href="/wiki/Number_theory" title="Number theory">
+            number theorist
+           </a>
+           <a class="mw-redirect" href="/wiki/John_Torrence_Tate" title="John Torrence Tate">
+            John Torrence Tate Jr.
+           </a>
+          </span>
+         </li>
+         <li id="cite_note-ser2-ab-17">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-ser2-ab_17-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-ser2-ab_17-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-ser2-ab_17-2">
+            <sup>
+             <i>
+              <b>
+               c
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           Volumes 133-140 of the Series II in years 1964 and 1965 were split into issues A and B. Later they were unified into a single series again.
+           <sup class="reference" id="cite_ref-16">
+            <a href="#cite_note-16">
+             [15]
+            </a>
+           </sup>
+           They are different from
+           <i>
+            Phys. Rev. A
+           </i>
+           and
+           <i>
+            B
+           </i>
+           of the third series. For example "
+           <a class="external text" href="http://journals.aps.org/pr/abstract/10.1103/PhysRev.133.A1" rel="nofollow">
+            Phys. Rev.
+            <b>
+             133
+            </b>
+            A1 (1964)
+           </a>
+           " is an article of Ser. II, while "
+           <a class="external text" href="http://journals.aps.org/pra/abstract/10.1103/PhysRevA.1.1" rel="nofollow">
+            Phys. Rev. A
+            <b>
+             1
+            </b>
+            1 (1970)
+           </a>
+           is of Phys. Rev. A.
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <dl>
+       <dt>
+        References
+       </dt>
+      </dl>
+      <div class="reflist" style="list-style-type: decimal;">
+       <div class="mw-references-wrap mw-references-columns">
+        <ol class="references">
+         <li id="cite_note-2">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-2">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            Conant, Jennet (2002).
+            <i>
+             Tuxedo Park
+            </i>
+            . New York:
+            <a href="/wiki/Simon_%26_Schuster" title="Simon &amp; Schuster">
+             Simon &amp; Schuster
+            </a>
+            . p. 106.
+            <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+             ISBN
+            </a>
+            <a href="/wiki/Special:BookSources/0-684-87287-0" title="Special:BookSources/0-684-87287-0">
+             0-684-87287-0
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Tuxedo+Park&amp;rft.place=New+York&amp;rft.pages=106&amp;rft.pub=Simon+%26+Schuster&amp;rft.date=2002&amp;rft.isbn=0-684-87287-0&amp;rft.aulast=Conant&amp;rft.aufirst=Jennet&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhysical+Review">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-3">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-3">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            David Voss (June 2017).
+            <a class="external text" href="https://www.aps.org/publications/apsnews/updates/thoennessen.cfm" rel="nofollow">
+             "Michael Thoennessen Appointed New APS Editor in Chief"
+            </a>
+            .
+            <a href="/wiki/American_Physical_Society" title="American Physical Society">
+             American Physical Society
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Michael+Thoennessen+Appointed+New+APS+Editor+in+Chief&amp;rft.pub=American+Physical+Society&amp;rft.date=2017-06&amp;rft.au=David+Voss&amp;rft_id=https%3A%2F%2Fwww.aps.org%2Fpublications%2Fapsnews%2Fupdates%2Fthoennessen.cfm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhysical+Review">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-4">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-4">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            Hartman, Paul (1994).
+            <i>
+             A Memoir on The Physical Review: A history of the first hundred years
+            </i>
+            . New York:
+            <a href="/wiki/American_Physical_Society" title="American Physical Society">
+             American Physical Society
+            </a>
+            &amp;
+            <a href="/wiki/American_Institute_of_Physics" title="American Institute of Physics">
+             American Institute of Physics
+            </a>
+            . p. 212.
+            <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+             ISBN
+            </a>
+            <a href="/wiki/Special:BookSources/1-56396-282-9" title="Special:BookSources/1-56396-282-9">
+             1-56396-282-9
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+Memoir+on+The+Physical+Review%3A+A+history+of+the+first+hundred+years&amp;rft.place=New+York&amp;rft.pages=212&amp;rft.pub=American+Physical+Society+%26+American+Institute+of+Physics&amp;rft.date=1994&amp;rft.isbn=1-56396-282-9&amp;rft.aulast=Hartman&amp;rft.aufirst=Paul&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhysical+Review">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-special-topics-change-5">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-special-topics-change_5-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <a class="external autonumber" href="http://journals.aps.org/edannounce/renaming-the-aps-special-topics-series" rel="nofollow">
+            [1]
+           </a>
+           Renaming the APS Special Topics Series, American Physical Society, December 31, 2015
+          </span>
+         </li>
+         <li id="cite_note-6">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-6">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://authors.aps.org/esubs/guidelines.html" rel="nofollow">
+             "Submission guidelines"
+            </a>
+            . March 2008.
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Submission+guidelines&amp;rft.date=2008-03&amp;rft_id=http%3A%2F%2Fauthors.aps.org%2Fesubs%2Fguidelines.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhysical+Review">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-oa-7">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-oa_7-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <a class="external autonumber" href="http://publish.aps.org/edannounce/CC-launch-press-release" rel="nofollow">
+            [2]
+           </a>
+           APS Open Access announcement, American Physical Society, 15 February 2011
+          </span>
+         </li>
+         <li id="cite_note-8">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-8">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <a class="external autonumber" href="https://creativecommons.org/licenses/by/3.0/" rel="nofollow">
+            [3]
+           </a>
+           Details of Creative Commons license
+          </span>
+         </li>
+         <li id="cite_note-9">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-9">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://journals.aps.org/prl/50years" rel="nofollow">
+             "
+             <i>
+              Physical Review Letters
+             </i>
+             Celebrates 50 Years"
+            </a>
+            .
+            <a href="/wiki/American_Physical_Society" title="American Physical Society">
+             American Physical Society
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Physical+Review+Letters+Celebrates+50+Years&amp;rft.pub=American+Physical+Society&amp;rft_id=https%3A%2F%2Fjournals.aps.org%2Fprl%2F50years&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhysical+Review">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-10">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-10">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            Gene D. Sprouse (1 October 2008).
+            <a class="external text" href="http://publish.aps.org/edannounce/PhysRevLett.101.140001" rel="nofollow">
+             "APS now leaves copyright with authors for derivative works"
+            </a>
+            .
+            <a href="/wiki/American_Physical_Society" title="American Physical Society">
+             American Physical Society
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=APS+now+leaves+copyright+with+authors+for+derivative+works&amp;rft.pub=American+Physical+Society&amp;rft.date=2008-10-01&amp;rft.au=Gene+D.+Sprouse&amp;rft_id=http%3A%2F%2Fpublish.aps.org%2Fedannounce%2FPhysRevLett.101.140001&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhysical+Review">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-11">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-11">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://physics.aps.org/" rel="nofollow">
+             "
+             <i>
+              Physics
+             </i>
+             "
+            </a>
+            .
+            <a href="/wiki/American_Physical_Society" title="American Physical Society">
+             American Physical Society
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Physics&amp;rft.pub=American+Physical+Society&amp;rft_id=http%3A%2F%2Fphysics.aps.org%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhysical+Review">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-12">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-12">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://journals.aps.org/prx/" rel="nofollow">
+             "
+             <i>
+              Physical Review X
+             </i>
+             "
+            </a>
+            .
+            <a href="/wiki/American_Physical_Society" title="American Physical Society">
+             American Physical Society
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Physical+Review+X&amp;rft.pub=American+Physical+Society&amp;rft_id=https%3A%2F%2Fjournals.aps.org%2Fprx%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhysical+Review">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-13">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-13">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://journals.aps.org/prapplied/" rel="nofollow">
+             "
+             <i>
+              Physical Review Applied
+             </i>
+             "
+            </a>
+            .
+            <a href="/wiki/American_Physical_Society" title="American Physical Society">
+             American Physical Society
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Physical+Review+Applied&amp;rft.pub=American+Physical+Society&amp;rft_id=http%3A%2F%2Fjournals.aps.org%2Fprapplied%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhysical+Review">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-14">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-14">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://journals.aps.org/prfluids/" rel="nofollow">
+             "
+             <i>
+              Physical Review Fluids
+             </i>
+             "
+            </a>
+            .
+            <a href="/wiki/American_Physical_Society" title="American Physical Society">
+             American Physical Society
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Physical+Review+Fluids&amp;rft.pub=American+Physical+Society&amp;rft_id=http%3A%2F%2Fjournals.aps.org%2Fprfluids%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhysical+Review">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-15">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-15">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://journals.aps.org/prmaterials/" rel="nofollow">
+             "
+             <i>
+              Physical Review Materials
+             </i>
+             "
+            </a>
+            .
+            <a href="/wiki/American_Physical_Society" title="American Physical Society">
+             American Physical Society
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Physical+Review+Materials&amp;rft.pub=American+Physical+Society&amp;rft_id=http%3A%2F%2Fjournals.aps.org%2Fprmaterials%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhysical+Review">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-16">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-16">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://ci.nii.ac.jp/ncid/AA00773577?l=en" rel="nofollow">
+             "The Physical Review. Second Series. A"
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Physical+Review.+Second+Series.+A&amp;rft_id=http%3A%2F%2Fci.nii.ac.jp%2Fncid%2FAA00773577%3Fl%3Den&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhysical+Review">
+            <span style="display:none;">
+            </span>
+           </span>
+           <cite class="citation web">
+            <a class="external text" href="http://ci.nii.ac.jp/ncid/AA00773588?l=en" rel="nofollow">
+             "The Physical Review. Second Series. B"
+            </a>
+            .
+            <a href="/wiki/National_Institute_of_Informatics" title="National Institute of Informatics">
+             National Institute of Informatics
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              2016-12-28
+             </span>
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Physical+Review.+Second+Series.+B&amp;rft.pub=National+Institute+of+Informatics&amp;rft_id=http%3A%2F%2Fci.nii.ac.jp%2Fncid%2FAA00773588%3Fl%3Den&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhysical+Review">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Physical_Review&amp;action=edit&amp;section=4" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a class="external text" href="http://www.aps.org/" rel="nofollow">
+         American Physical Society
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://journals.aps.org/" rel="nofollow">
+         Journals of the APS
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://physics.aps.org/" rel="nofollow">
+         APS online publication
+         <i>
+          Physics
+         </i>
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://journals.aps.org/archive/" rel="nofollow">
+         Online archive of all back issues of
+         <i>
+          Physical Review
+         </i>
+         (subscription required)
+        </a>
+       </li>
+      </ul>
+      <!-- 
+NewPP limit report
+Parsed by mw1274
+Cached time: 20180318011903
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.340 seconds
+Real time usage: 0.392 seconds
+Preprocessor visited node count: 5684/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 43510/2097152 bytes
+Template argument size: 10668/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 13517/5000000 bytes
+Lua time usage: 0.134/10.000 seconds
+Lua memory usage: 3.79 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  341.587      1 -total
+ 32.83%  112.130      2 Template:Reflist
+ 31.43%  107.361      1 Template:Infobox_journal
+ 21.78%   74.413     13 Template:ISSN
+ 15.35%   52.433      1 Template:Infobox
+ 13.12%   44.805     11 Template:Cite_web
+ 12.88%   43.998      2 Template:Cite_book
+ 12.78%   43.667      2 Template:Namespace_detect
+ 10.92%   37.305     19 Template:Catalog_lookup_link
+ 10.06%   34.374      6 Template:EISSN
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:419663-0!canonical and timestamp 20180318011902 and revision id 814414907
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Physical_Review&amp;oldid=814414907">
+      https://en.wikipedia.org/w/index.php?title=Physical_Review&amp;oldid=814414907
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Physics_journals" title="Category:Physics journals">
+         Physics journals
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Publications_established_in_1893" title="Category:Publications established in 1893">
+         Publications established in 1893
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:English-language_journals" title="Category:English-language journals">
+         English-language journals
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:American_Physical_Society_academic_journals" title="Category:American Physical Society academic journals">
+         American Physical Society academic journals
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:ISSN_needed" title="Category:ISSN needed">
+         ISSN needed
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Physical+Review" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Physical+Review" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Physical_Review" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Physical_Review" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Physical_Review">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Physical_Review&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Physical_Review&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Physical_Review" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Physical_Review" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Physical_Review&amp;oldid=814414907" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Physical_Review&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q869847" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Physical_Review&amp;id=814414907" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Physical+Review">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Physical+Review&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Physical_Review&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-bg">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/Physical_Review" hreflang="bg" lang="bg" title="Physical Review – Bulgarian">
+         Български
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Physical_Review" hreflang="de" lang="de" title="Physical Review – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Physical_Review" hreflang="es" lang="es" title="Physical Review – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Physical_Review" hreflang="fr" lang="fr" title="Physical Review – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%ED%94%BC%EC%A7%80%EC%BB%AC_%EB%A6%AC%EB%B7%B0" hreflang="ko" lang="ko" title="피지컬 리뷰 – Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Physical_Review" hreflang="id" lang="id" title="Physical Review – Indonesian">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Physical_Review" hreflang="it" lang="it" title="Physical Review – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he">
+        <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/Physical_Review" hreflang="he" lang="he" title="Physical Review – Hebrew">
+         עברית
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hu">
+        <a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Physical_Review" hreflang="hu" lang="hu" title="Physical Review – Hungarian">
+         Magyar
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Physical_Review" hreflang="nl" lang="nl" title="Physical Review – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%82%B8%E3%82%AB%E3%83%AB%E3%83%BB%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC" hreflang="ja" lang="ja" title="フィジカル・レビュー – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Physical_Review" hreflang="pl" lang="pl" title="Physical Review – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Physical_Review" hreflang="pt" lang="pt" title="Physical Review – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ro">
+        <a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Physical_Review" hreflang="ro" lang="ro" title="Physical Review – Romanian">
+         Română
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/Physical_Review" hreflang="ru" lang="ru" title="Physical Review – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sl">
+        <a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Physical_Review" hreflang="sl" lang="sl" title="Physical Review – Slovenian">
+         Slovenščina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Physical_Review" hreflang="fi" lang="fi" title="Physical Review – Finnish">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Physical_Review" hreflang="sv" lang="sv" title="Physical Review – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/Physical_Review" hreflang="uk" lang="uk" title="Physical Review – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vi">
+        <a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Physical_Review" hreflang="vi" lang="vi" title="Physical Review – Vietnamese">
+         Tiếng Việt
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E7%89%A9%E7%90%86%E8%AF%84%E8%AE%BA" hreflang="zh" lang="zh" title="物理评论 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q869847#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 8 December 2017, at 18:04.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Physical_Review&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.340","walltime":"0.392","ppvisitednodes":{"value":5684,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":43510,"limit":2097152},"templateargumentsize":{"value":10668,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":13517,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  341.587      1 -total"," 32.83%  112.130      2 Template:Reflist"," 31.43%  107.361      1 Template:Infobox_journal"," 21.78%   74.413     13 Template:ISSN"," 15.35%   52.433      1 Template:Infobox"," 13.12%   44.805     11 Template:Cite_web"," 12.88%   43.998      2 Template:Cite_book"," 12.78%   43.667      2 Template:Namespace_detect"," 10.92%   37.305     19 Template:Catalog_lookup_link"," 10.06%   34.374      6 Template:EISSN"]},"scribunto":{"limitreport-timeusage":{"value":"0.134","limit":"10.000"},"limitreport-memusage":{"value":3969460,"limit":52428800}},"cachereport":{"origin":"mw1274","timestamp":"20180318011903","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":73,"wgHostname":"mw1324"});});
+  </script>
+ </body>
+</html>

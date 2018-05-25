@@ -1,0 +1,2494 @@
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Matte painting - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Matte_painting","wgTitle":"Matte painting","wgCurRevisionId":816140094,"wgRevisionId":816140094,"wgArticleId":1353830,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from January 2015","All articles needing additional references","Film and video technology","Cinematic techniques","Background artists","Painting techniques"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Matte_painting","wgRelevantArticleId":1353830,"wgRequestId":"WrU8SApAAD0AAARBsUYAAACU","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q1753854","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.26" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/en/d/d5/Government_Warehouse.jpg" property="og:image"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Matte_painting" rel="alternate"/>
+  <link href="/w/index.php?title=Matte_painting&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Matte_painting&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Matte_painting" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Matte_painting rootpage-Matte_painting skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Matte painting
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+       <tr>
+        <td class="mbox-image">
+         <div style="width:52px">
+          <a class="image" href="/wiki/File:Question_book-new.svg">
+           <img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/>
+          </a>
+         </div>
+        </td>
+        <td class="mbox-text">
+         <div class="mbox-text-span">
+          This article
+          <b>
+           needs additional citations for
+           <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">
+            verification
+           </a>
+          </b>
+          .
+          <span class="hide-when-compact">
+           Please help
+           <a class="external text" href="//en.wikipedia.org/w/index.php?title=Matte_painting&amp;action=edit">
+            improve this article
+           </a>
+           by
+           <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">
+            adding citations to reliable sources
+           </a>
+           . Unsourced material may be challenged and removed.
+          </span>
+          <small>
+           <i>
+            (January 2015)
+           </i>
+          </small>
+          <small class="hide-when-compact">
+           <i>
+            (
+            <a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">
+             Learn how and when to remove this template message
+            </a>
+            )
+           </i>
+          </small>
+         </div>
+        </td>
+       </tr>
+      </table>
+      <div class="hatnote navigation-not-searchable" role="note">
+       "Glass painting" redirects here. For stained glass, see
+       <a href="/wiki/Stained_glass" title="Stained glass">
+        Stained glass
+       </a>
+       .
+      </div>
+      <div class="hatnote navigation-not-searchable" role="note">
+       For the paint terminology, see
+       <a href="/wiki/Paint_sheen" title="Paint sheen">
+        Paint sheen
+       </a>
+       .
+      </div>
+      <dl>
+       <dd>
+        <i>
+         For the technique used in photography and special effects filmmaking to combine two or more image elements into a single, final image, see
+         <a href="/wiki/Matte_(filmmaking)" title="Matte (filmmaking)">
+          Matte (filmmaking)
+         </a>
+        </i>
+        .
+       </dd>
+      </dl>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:252px;">
+        <a class="image" href="/wiki/File:Government_Warehouse.jpg">
+         <img alt="" class="thumbimage" data-file-height="256" data-file-width="389" height="165" src="//upload.wikimedia.org/wikipedia/en/thumb/d/d5/Government_Warehouse.jpg/250px-Government_Warehouse.jpg" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/d5/Government_Warehouse.jpg/375px-Government_Warehouse.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/d/d5/Government_Warehouse.jpg 2x" width="250"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Government_Warehouse.jpg" title="Enlarge">
+          </a>
+         </div>
+         The government warehouse in
+         <i>
+          <a href="/wiki/Raiders_of_the_Lost_Ark" title="Raiders of the Lost Ark">
+           Raiders of the Lost Ark
+          </a>
+         </i>
+         (1981) was painted on glass by
+         <a href="/wiki/Michael_Pangrazio" title="Michael Pangrazio">
+          Michael Pangrazio
+         </a>
+         at
+         <a href="/wiki/Industrial_Light_%26_Magic" title="Industrial Light &amp; Magic">
+          Industrial Light &amp; Magic
+         </a>
+         , and combined with live-action footage of a government worker, pushing his
+         <a href="/wiki/Ark_of_the_Covenant" title="Ark of the Covenant">
+          cargo
+         </a>
+         up the center aisle.
+        </div>
+       </div>
+      </div>
+      <p>
+       A
+       <b>
+        matte painting
+       </b>
+       is a painted representation of a landscape, set, or distant location that allows filmmakers to create the illusion of an environment that is not present at the filming location. Historically, matte painters and film technicians have used various techniques to combine a matte-painted image with live-action footage. At its best, depending on the skill levels of the artists and technicians, the effect is "seamless" and creates environments that would otherwise be impossible or expensive to film. In the scenes the painting part is static and movements are integrated on it.
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Background">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Background
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#New_technologies">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           New technologies
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-3">
+         <a href="#Significant_uses">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           Significant uses
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-4">
+         <a href="#Important_traditional_matte_painters_and_technicians">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           Important traditional matte painters and technicians
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-5">
+         <a href="#See_also">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-6">
+         <a href="#References">
+          <span class="tocnumber">
+           6
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-7">
+         <a href="#Books">
+          <span class="tocnumber">
+           7
+          </span>
+          <span class="toctext">
+           Books
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Background">
+        Background
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Matte_painting&amp;action=edit&amp;section=1" title="Edit section: Background">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Traditionally, matte paintings were made by artists using paints or pastels on large sheets of glass for integrating with the live-action footage.
+       <sup class="reference" id="cite_ref-1">
+        <a href="#cite_note-1">
+         [1]
+        </a>
+       </sup>
+       The first known matte painting shot was made in 1907 by
+       <a href="/wiki/Norman_Dawn" title="Norman Dawn">
+        Norman Dawn
+       </a>
+       <a href="/wiki/American_Society_of_Cinematographers" title="American Society of Cinematographers">
+        (ASC)
+       </a>
+       , who improvised the crumbling California Missions by painting them on glass for the movie
+       <i>
+        Missions of California
+       </i>
+       .
+       <sup class="reference" id="cite_ref-2">
+        <a href="#cite_note-2">
+         [2]
+        </a>
+       </sup>
+       Notable traditional matte-painting shots include Dorothy’s approach to the Emerald City in
+       <i>
+        <a href="/wiki/The_Wizard_of_Oz_(1939_film)" title="The Wizard of Oz (1939 film)">
+         The Wizard of Oz
+        </a>
+       </i>
+       , Charles Foster Kane’s Xanadu in
+       <i>
+        <a href="/wiki/Citizen_Kane" title="Citizen Kane">
+         Citizen Kane
+        </a>
+       </i>
+       , and the seemingly bottomless tractor-beam set of
+       <i>
+        <a class="mw-redirect" href="/wiki/Star_Wars_Episode_IV:_A_New_Hope" title="Star Wars Episode IV: A New Hope">
+         Star Wars Episode IV: A New Hope
+        </a>
+       </i>
+       . The first
+       <i>
+        Star Wars
+       </i>
+       <a class="mw-redirect" href="/wiki/Documentary" title="Documentary">
+        documentary
+       </a>
+       ever made (
+       <i>
+        <a href="/wiki/The_Making_of_Star_Wars" title="The Making of Star Wars">
+         The Making of Star Wars
+        </a>
+       </i>
+       , directed by
+       <a href="/wiki/Robert_Guenette" title="Robert Guenette">
+        Robert Guenette
+       </a>
+       in 1977 for television) mentioned the technique used for the tractor beam scene as being a
+       <b>
+        glass painting
+       </b>
+       .
+       <sup class="reference" id="cite_ref-3">
+        <a href="#cite_note-3">
+         [3]
+        </a>
+       </sup>
+      </p>
+      <p>
+       By the mid-1980s, advancements in computer graphics programs allowed matte painters to work in the digital realm. The first digital matte shot was created by painter
+       <a href="/wiki/Christopher_Leith_Evans" title="Christopher Leith Evans">
+        Chris Evans
+       </a>
+       in 1985 for
+       <i>
+        <a href="/wiki/Young_Sherlock_Holmes" title="Young Sherlock Holmes">
+         Young Sherlock Holmes
+        </a>
+       </i>
+       for a scene featuring a computer-graphics (CG) animation of a knight leaping from a stained-glass window. Evans first painted the window in acrylics, then scanned the painting into LucasFilm’s Pixar system for further digital manipulation. The
+       <a href="/wiki/Computer_animation" title="Computer animation">
+        computer animation
+       </a>
+       (another first) blended perfectly with the digital matte, which could not have been accomplished using a traditional matte painting.
+       <sup class="reference" id="cite_ref-4">
+        <a href="#cite_note-4">
+         [4]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="New_technologies">
+        New technologies
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Matte_painting&amp;action=edit&amp;section=2" title="Edit section: New technologies">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Throughout the 1990s, traditional matte paintings were still in use, but more often in conjunction with digital compositing.
+       <i>
+        <a href="/wiki/Die_Hard_2" title="Die Hard 2">
+         Die Hard 2
+        </a>
+       </i>
+       (1990) was the first film to use digitally composited live-action footage with a traditional glass matte painting that had been photographed and scanned into a computer. It was for the last scene, which took place on an airport runway.
+       <sup class="reference" id="cite_ref-5">
+        <a href="#cite_note-5">
+         [5]
+        </a>
+       </sup>
+       By the end of the decade, the time of hand-painted matte paintings was drawing to a close, although as late as 1997 some traditional paintings were still being made, notably
+       <a href="/wiki/Christopher_Leith_Evans" title="Christopher Leith Evans">
+        Chris Evans
+       </a>
+       ’ painting of the Carpathia rescue ship in
+       <a href="/wiki/James_Cameron" title="James Cameron">
+        James Cameron
+       </a>
+       ’s
+       <i>
+        <a href="/wiki/Titanic_(1997_film)" title="Titanic (1997 film)">
+         Titanic
+        </a>
+       </i>
+       .
+       <sup class="reference" id="cite_ref-6">
+        <a href="#cite_note-6">
+         [6]
+        </a>
+       </sup>
+      </p>
+      <p>
+       Paint has now been superseded by digital images created using photo references, 3-D models, and drawing tablets. Matte painters combine their digitally matte painted textures within computer-generated 3-D environments, allowing for 3-D camera movement.
+       <sup class="reference" id="cite_ref-7">
+        <a href="#cite_note-7">
+         [7]
+        </a>
+       </sup>
+       Lighting algorithms used to simulate lighting sources expanded in scope in 1995, when
+       <a href="/wiki/Radiosity_(computer_graphics)" title="Radiosity (computer graphics)">
+        radiosity rendering
+       </a>
+       was applied to film for the first time in Martin Scorsese’s
+       <i>
+        <a href="/wiki/Casino_(film)" title="Casino (film)">
+         Casino
+        </a>
+       </i>
+       .
+       <a href="/wiki/Matte_World_Digital" title="Matte World Digital">
+        Matte World Digital
+       </a>
+       collaborated with LightScape to simulate the indirect bounce-light effect
+       <sup class="reference" id="cite_ref-8">
+        <a href="#cite_note-8">
+         [8]
+        </a>
+       </sup>
+       of millions of neon lights of the 70s-era Las Vegas strip.
+       <sup class="reference" id="cite_ref-9">
+        <a href="#cite_note-9">
+         [9]
+        </a>
+       </sup>
+       Lower computer processing times continue to alter and expand matte painting technologies and techniques.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Significant_uses">
+        Significant uses
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Matte_painting&amp;action=edit&amp;section=3" title="Edit section: Significant uses">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+       <tr>
+        <td class="mbox-image">
+         <div style="width:52px">
+          <a class="image" href="/wiki/File:Question_book-new.svg">
+           <img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/>
+          </a>
+         </div>
+        </td>
+        <td class="mbox-text">
+         <div class="mbox-text-span">
+          This section
+          <b>
+           needs additional citations for
+           <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">
+            verification
+           </a>
+          </b>
+          .
+          <span class="hide-when-compact">
+           Please help
+           <a class="external text" href="//en.wikipedia.org/w/index.php?title=Matte_painting&amp;action=edit">
+            improve this article
+           </a>
+           by
+           <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">
+            adding citations to reliable sources
+           </a>
+           . Unsourced material may be challenged and removed.
+          </span>
+          <small>
+           <i>
+            (January 2015)
+           </i>
+          </small>
+          <small class="hide-when-compact">
+           <i>
+            (
+            <a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">
+             Learn how and when to remove this template message
+            </a>
+            )
+           </i>
+          </small>
+         </div>
+        </td>
+       </tr>
+      </table>
+      <ul>
+       <li>
+        The army barracks in
+        <i>
+         <a href="/wiki/All_Quiet_on_the_Western_Front_(1930_film)" title="All Quiet on the Western Front (1930 film)">
+          All Quiet On The Western Front
+         </a>
+        </i>
+        (1930).
+       </li>
+       <li>
+        Count Dracula's castle exteriors in
+        <i>
+         <a href="/wiki/Dracula_(1931_English-language_film)" title="Dracula (1931 English-language film)">
+          Dracula
+         </a>
+        </i>
+        (1931) and other scenes.
+       </li>
+       <li>
+        The view of Skull Island in
+        <i>
+         <a href="/wiki/King_Kong_(1933_film)" title="King Kong (1933 film)">
+          King Kong
+         </a>
+        </i>
+        (1933).
+       </li>
+       <li>
+        Charlie Chaplin′s blindfold roller-skating beside the illusory drop in
+        <i>
+         <a href="/wiki/Modern_Times_(film)" title="Modern Times (film)">
+          Modern Times
+         </a>
+        </i>
+        (1936).
+       </li>
+       <li>
+        The view of Nottingham Castle in
+        <i>
+         <a class="mw-redirect" href="/wiki/The_Adventures_of_Robin_Hood_(film)" title="The Adventures of Robin Hood (film)">
+          The Adventures of Robin Hood
+         </a>
+        </i>
+        (1938).
+       </li>
+       <li>
+        The 1942 spy thriller
+        <a href="/wiki/Saboteur_(film)" title="Saboteur (film)">
+         Saboteur
+        </a>
+        , directed by
+        <a href="/wiki/Alfred_Hitchcock" title="Alfred Hitchcock">
+         Alfred Hitchcock
+        </a>
+        , is enhanced by numerous matte shots, ranging from a
+        <a href="/wiki/California" title="California">
+         California
+        </a>
+        aircraft factory to the climactic scene atop
+        <a href="/wiki/New_York_City" title="New York City">
+         New York
+        </a>
+        's
+        <a href="/wiki/Statue_of_Liberty" title="Statue of Liberty">
+         Statue of Liberty
+        </a>
+        .
+        <sup class="reference" id="cite_ref-10">
+         <a href="#cite_note-10">
+          [10]
+         </a>
+        </sup>
+       </li>
+       <li>
+        In Alfred Hitchcock's
+        <i>
+         <a href="/wiki/North_by_Northwest" title="North by Northwest">
+          North by Northwest
+         </a>
+        </i>
+        (1959) shots of
+        <a class="mw-redirect" href="/wiki/United_Nations_Headquarters" title="United Nations Headquarters">
+         The United Nations building
+        </a>
+        ,
+        <a href="/wiki/Mount_Rushmore" title="Mount Rushmore">
+         Mount Rushmore
+        </a>
+        and the Mount Rushmore house.
+       </li>
+       <li>
+        Birds flying over Bodega Bay, looking down at the town below, in Alfred Hitchcock's
+        <i>
+         <a href="/wiki/The_Birds_(film)" title="The Birds (film)">
+          The Birds
+         </a>
+        </i>
+        (1963).
+       </li>
+       <li>
+        <i>
+         <a href="/wiki/Mary_Poppins" title="Mary Poppins">
+          Mary Poppins
+         </a>
+        </i>
+        gliding over London with her umbrella (1964), the
+        <a href="/wiki/St_Paul%27s_Cathedral" title="St Paul's Cathedral">
+         St Paul's Cathedral
+        </a>
+        and
+        <a href="/wiki/London" title="London">
+         London's
+        </a>
+        rooftops and aerial views.
+       </li>
+       <li>
+        The iconic image of the
+        <a href="/wiki/Statue_of_Liberty" title="Statue of Liberty">
+         Statue of Liberty
+        </a>
+        at the end of
+        <i>
+         <a href="/wiki/Planet_of_the_Apes_(1968_film)" title="Planet of the Apes (1968 film)">
+          Planet of the Apes
+         </a>
+        </i>
+        (1968).
+       </li>
+       <li>
+        The rooftops of
+        <a href="/wiki/Portobello_Road" title="Portobello Road">
+         Portobello Road
+        </a>
+        , the English landscape, Miss Price's house and other scenes in
+        <i>
+         <a href="/wiki/Bedknobs_and_Broomsticks" title="Bedknobs and Broomsticks">
+          Bedknobs and Broomsticks
+         </a>
+        </i>
+        (1971) (special effects won an
+        <a class="mw-redirect" href="/wiki/Academy_Award" title="Academy Award">
+         Academy Award
+        </a>
+        ).
+       </li>
+       <li>
+        The city railway line in
+        <i>
+         <a href="/wiki/The_Sting" title="The Sting">
+          The Sting
+         </a>
+        </i>
+        (1973).
+       </li>
+       <li>
+        Views of a destroyed Los Angeles in
+        <i>
+         <a class="mw-redirect" href="/wiki/Earthquake_(film)" title="Earthquake (film)">
+          Earthquake
+         </a>
+        </i>
+        (1974) for which
+        <a href="/wiki/Albert_Whitlock" title="Albert Whitlock">
+         Albert Whitlock
+        </a>
+        won an Academy Award.
+       </li>
+       <li>
+        Virtually all of the exterior shots of San Francisco in
+        <i>
+         <a href="/wiki/The_Love_Bug" title="The Love Bug">
+          The Love Bug
+         </a>
+        </i>
+        (1974).
+       </li>
+       <li>
+        The stone column demolished by the locomotive in the Chicago station in the film
+        <i>
+         <a class="mw-redirect" href="/wiki/Silver_Streak_(1976_film)" title="Silver Streak (1976 film)">
+          Silver Streak
+         </a>
+        </i>
+        .
+       </li>
+       <li>
+        The Death Star's laser tunnel in
+        <i>
+         <a href="/wiki/Star_Wars_(film)" title="Star Wars (film)">
+          Star Wars
+         </a>
+        </i>
+        (1977).
+       </li>
+       <li>
+        The Starfleet headquarters in
+        <i>
+         <a class="mw-redirect" href="/wiki/Star_Trek_The_Motion_Picture" title="Star Trek The Motion Picture">
+          Star Trek The Motion Picture
+         </a>
+        </i>
+        (1979).
+       </li>
+       <li>
+        The background for all scenes featuring Imperial walkers in
+        <i>
+         <a href="/wiki/The_Empire_Strikes_Back" title="The Empire Strikes Back">
+          The Empire Strikes Back
+         </a>
+        </i>
+        (1980).
+       </li>
+       <li>
+        The final scene of the secret government warehouse in Steven Spielberg's
+        <i>
+         <a href="/wiki/Raiders_of_the_Lost_Ark" title="Raiders of the Lost Ark">
+          Raiders of the Lost Ark
+         </a>
+        </i>
+        (1981).
+       </li>
+       <li>
+        The Batty and Deckard chase scene in
+        <i>
+         <a href="/wiki/Blade_Runner" title="Blade Runner">
+          Blade Runner
+         </a>
+        </i>
+        (1982).
+       </li>
+       <li>
+        The view of the crashed space ship in
+        <i>
+         <a href="/wiki/The_Thing_(1982_film)" title="The Thing (1982 film)">
+          The Thing
+         </a>
+        </i>
+        (1982).
+       </li>
+       <li>
+        The view of the OCP tower in
+        <i>
+         <a href="/wiki/RoboCop" title="RoboCop">
+          RoboCop
+         </a>
+        </i>
+        (1987) and other scenes.
+       </li>
+       <li>
+        Gotham City street scene in
+        <a href="/wiki/Batman_(1989_film)" title="Batman (1989 film)">
+         <i>
+          Batman
+         </i>
+        </a>
+        (1989).
+       </li>
+       <li>
+        The
+        <a class="mw-redirect" href="/wiki/Karl_G._Jansky_Very_Large_Array" title="Karl G. Jansky Very Large Array">
+         Karl G. Jansky Very Large Array
+        </a>
+        in
+        <i>
+         <a href="/wiki/Contact_(1997_American_film)" title="Contact (1997 American film)">
+          Contact
+         </a>
+        </i>
+        (1997).
+       </li>
+       <li>
+        The Magic Railroad in
+        <i>
+         <a href="/wiki/Thomas_and_the_Magic_Railroad" title="Thomas and the Magic Railroad">
+          Thomas and the Magic Railroad
+         </a>
+        </i>
+        (2000).
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="Important_traditional_matte_painters_and_technicians">
+        Important traditional matte painters and technicians
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Matte_painting&amp;action=edit&amp;section=4" title="Edit section: Important traditional matte painters and technicians">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a href="/wiki/Michael_Pangrazio" title="Michael Pangrazio">
+         Michael Pangrazio
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Walter_Percy_Day" title="Walter Percy Day">
+         Walter Percy Day
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Norman_Dawn" title="Norman Dawn">
+         Norman Dawn
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Linwood_G._Dunn" title="Linwood G. Dunn">
+         Linwood G. Dunn
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Emilio_Ruiz_del_R%C3%ADo" title="Emilio Ruiz del Río">
+         Emilio Ruiz del Rio
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Harrison_Ellenshaw" title="Harrison Ellenshaw">
+         Harrison Ellenshaw
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Peter_Ellenshaw" title="Peter Ellenshaw">
+         Peter Ellenshaw
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Albert_Whitlock" title="Albert Whitlock">
+         Albert Whitlock
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Matthew_Yuricich" title="Matthew Yuricich">
+         Matthew Yuricich
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Mathieu_Raynault" title="Mathieu Raynault">
+         Mathieu Raynault
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Matte_painting&amp;action=edit&amp;section=5" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a href="/wiki/Bipack" title="Bipack">
+         Bipack
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Chroma_key" title="Chroma key">
+         Chroma key
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Compositing" title="Compositing">
+         Compositing
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Digital_matte_artist" title="Digital matte artist">
+         Digital matte artist
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Optical_printing" title="Optical printing">
+         Optical printing
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Matte_painting&amp;action=edit&amp;section=6" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist" style="list-style-type: decimal;">
+       <div class="mw-references-wrap">
+        <ol class="references">
+         <li id="cite_note-1">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-1">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <a class="external text" href="http://www.matteworld.com/projects/siggraph_1.html" rel="nofollow">
+            Matte World Digital | SIGGRAPH 1998 – Matte Painting in the Digital Age | Traditional Matte Paintings | Craig Barron
+           </a>
+          </span>
+         </li>
+         <li id="cite_note-2">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-2">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <i>
+            The Invisible Art: The Legends of Movie Matte Painting
+           </i>
+           by
+           <a href="/wiki/Mark_Cotta_Vaz" title="Mark Cotta Vaz">
+            Mark Cotta Vaz
+           </a>
+           and
+           <a href="/wiki/Craig_Barron" title="Craig Barron">
+            Craig Barron
+           </a>
+           , Chronicle Books, 2002; p. 33
+          </span>
+         </li>
+         <li id="cite_note-3">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-3">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <a class="external text" href="https://www.youtube.com/watch?v=g7Yu_gRTO1I" rel="nofollow">
+            <i>
+             The Making of Star Wars as told by C-3PO and R2-D2
+            </i>
+            , 1977, directed by Robert Guenette (glass painting technique explained at point 4'45'')
+           </a>
+          </span>
+         </li>
+         <li id="cite_note-4">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-4">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <i>
+            The Invisible Art
+           </i>
+           , Cotta Vaz/Barron, pp. 213, 217
+          </span>
+         </li>
+         <li id="cite_note-5">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-5">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <i>
+            The Invisible Art
+           </i>
+           , Cotta Vaz/Barron, p. 227
+          </span>
+         </li>
+         <li id="cite_note-6">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-6">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <i>
+            The Invisible Art
+           </i>
+           , Cotta Vaz/Barron, p. 19
+          </span>
+         </li>
+         <li id="cite_note-7">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-7">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <a class="external text" href="http://www.matteworld.com/projects/siggraph_2.html" rel="nofollow">
+            Matte World Digital | SIGGRAPH 1998 – Matte Painting in the Digital Age | Great Expectations: Creating Movement | Craig Barron
+           </a>
+          </span>
+         </li>
+         <li id="cite_note-8">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-8">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <a class="external text" href="http://www.matteworld.com/projects/siggraph_3.html" rel="nofollow">
+            Matte World Digital | SIGGRAPH 1998 – Matte Painting in the Digital Age | 3-D Lighting Techniques | Craig Barron
+           </a>
+          </span>
+         </li>
+         <li id="cite_note-9">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-9">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <i>
+            The Invisible Art
+           </i>
+           , Cotta Vaz/Barron, pp. 244–248
+          </span>
+         </li>
+         <li id="cite_note-10">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-10">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <a class="external text" href="http://nzpetesmatteshot.blogspot.com/2010/06/saboteur-showcase-of-dazzling-matte.html" rel="nofollow">
+            Saboteur – a showcase of dazzling matte shots and excitement. 22 June 2010.
+           </a>
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <h2>
+       <span class="mw-headline" id="Books">
+        Books
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Matte_painting&amp;action=edit&amp;section=7" title="Edit section: Books">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a href="/wiki/Mark_Cotta_Vaz" title="Mark Cotta Vaz">
+         Mark Cotta Vaz
+        </a>
+        ;
+        <a href="/wiki/Craig_Barron" title="Craig Barron">
+         Craig Barron
+        </a>
+        :
+        <i>
+         The Invisible Art: The Legends of Movie Matte Painting,
+        </i>
+        Chronicle Books, 2002;
+        <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+         ISBN
+        </a>
+        <a href="/wiki/Special:BookSources/0-8118-4515-X" title="Special:BookSources/0-8118-4515-X">
+         0-8118-4515-X
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Peter_Ellenshaw" title="Peter Ellenshaw">
+         Peter Ellenshaw
+        </a>
+        ;
+        <i>
+         <a class="external text" href="http://www.ellenshaw.com/bk_Under_Glass.htm" rel="nofollow">
+          Ellenshaw Under Glass – Going to the Matte for Disney
+         </a>
+        </i>
+       </li>
+       <li>
+        Richard Rickitt:
+        <i>
+         Special Effects: The History and Technique.
+        </i>
+        Billboard Books; 2nd edition, 2007;
+        <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+         ISBN
+        </a>
+        <a href="/wiki/Special:BookSources/0-8230-8408-6" title="Special:BookSources/0-8230-8408-6">
+         0-8230-8408-6
+        </a>
+        (Chapter 5 covers the history and techniques of movie matte painting.)
+       </li>
+      </ul>
+      <div aria-labelledby="Cinematic_techniques" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="2" scope="col">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:Cinematic_techniques" title="Template:Cinematic techniques">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a href="/wiki/Template_talk:Cinematic_techniques" title="Template talk:Cinematic techniques">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cinematic_techniques&amp;action=edit">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="Cinematic_techniques" style="font-size:114%;margin:0 4em">
+           <a href="/wiki/Cinematic_techniques" title="Cinematic techniques">
+            Cinematic techniques
+           </a>
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:5.0em">
+          <a href="/wiki/Stage_lighting" title="Stage lighting">
+           Lighting
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Background_light" title="Background light">
+              Background
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Cameo_lighting" title="Cameo lighting">
+              Cameo
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Fill_light" title="Fill light">
+              Fill
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Stage_lighting_instrument#Floodlights" title="Stage lighting instrument">
+              Flood
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/High-key_lighting" title="High-key lighting">
+              High-key
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Key_light" title="Key light">
+              Key
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Lens_flare" title="Lens flare">
+              Lens flare
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Low-key_lighting" title="Low-key lighting">
+              Low-key
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Mood_lighting" title="Mood lighting">
+              Mood
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Rembrandt_lighting" title="Rembrandt lighting">
+              Rembrandt
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Stage_lighting" title="Stage lighting">
+              Stage
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Soft_light" title="Soft light">
+              Soft
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:5.0em">
+          <a href="/wiki/Sound" title="Sound">
+           Sound
+          </a>
+         </th>
+         <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Cinematic_techniques#Diegetic_sound" title="Cinematic techniques">
+              Diegetic
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Cinematic_techniques#Non-diegetic_sound" title="Cinematic techniques">
+              Non-diegetic
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Narrative" title="Narrative">
+                Narration
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Film_score" title="Film score">
+                Film score
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Sound_effect" title="Sound effect">
+                Sound effects
+               </a>
+              </li>
+             </ul>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:5.0em">
+          <a href="/wiki/Shot_(filmmaking)" title="Shot (filmmaking)">
+           Shooting
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+          <div style="padding:0em 0.25em">
+          </div>
+          <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%;font-weight:normal;">
+             Field size
+            </th>
+            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Long_shot" title="Long shot">
+                 Long / Extreme long / Full
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/American_shot" title="American shot">
+                 American
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Medium_shot" title="Medium shot">
+                 Medium
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Close-up" title="Close-up">
+                 Close-up
+                </a>
+               </li>
+               <li>
+                <a class="mw-redirect" href="/wiki/Italian_shot" title="Italian shot">
+                 Italian
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Two_shot" title="Two shot">
+                 Two shot
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%;font-weight:normal;">
+             Camera placement
+            </th>
+            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+             </div>
+             <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+              <tr>
+               <td class="navbox-list navbox-even" colspan="2" style="width:100%;padding:0px">
+                <div style="padding:0em 0.25em">
+                 <ul>
+                  <li>
+                   <a href="/wiki/Perspective_(graphical)" title="Perspective (graphical)">
+                    Perspective
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Over_the_shoulder_shot" title="Over the shoulder shot">
+                    Over-the-shoulder
+                   </a>
+                  </li>
+                  <li>
+                   <a class="mw-redirect" href="/wiki/Point_of_view_shot" title="Point of view shot">
+                    Point-of-view
+                    <span style="font-size:90%;">
+                     (POV)
+                    </span>
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Shot_reverse_shot" title="Shot reverse shot">
+                    Reverse
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Trunk_shot" title="Trunk shot">
+                    Trunk
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Single-camera_setup" title="Single-camera setup">
+                    Single
+                   </a>
+                   /
+                   <a href="/wiki/Multiple-camera_setup" title="Multiple-camera setup">
+                    multiple-camera setup
+                   </a>
+                  </li>
+                 </ul>
+                </div>
+               </td>
+              </tr>
+              <tr>
+               <th class="navbox-group" scope="row" style="width:1%;font-weight:normal;">
+                <a href="/wiki/Camera_angle" title="Camera angle">
+                 Camera angle
+                </a>
+               </th>
+               <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                <div style="padding:0em 0.25em">
+                 <ul>
+                  <li>
+                   <a href="/wiki/Tilt_(camera)" title="Tilt (camera)">
+                    Tilt
+                   </a>
+                  </li>
+                  <li>
+                   <a class="mw-redirect" href="/wiki/Aerial_shot" title="Aerial shot">
+                    Aerial
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/High-angle_shot" title="High-angle shot">
+                    High-angle
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Bird%27s-eye_view" title="Bird's-eye view">
+                    Bird's-eye
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Crane_shot" title="Crane shot">
+                    Crane shot
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Jib_(camera)" title="Jib (camera)">
+                    Jib
+                   </a>
+                   /
+                   <a href="/wiki/Boom_shot" title="Boom shot">
+                    boom shot
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Low-angle_shot" title="Low-angle shot">
+                    Low-angle
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Worm%27s-eye_view" title="Worm's-eye view">
+                    Worm's-eye view
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Dutch_angle" title="Dutch angle">
+                    Dutch angle
+                   </a>
+                  </li>
+                 </ul>
+                </div>
+               </td>
+              </tr>
+             </table>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%;font-weight:normal;">
+             Camera movement
+            </th>
+            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Tilt_(camera)" title="Tilt (camera)">
+                 Tilting
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Panning_(camera)" title="Panning (camera)">
+                 Panning
+                </a>
+                <ul>
+                 <li>
+                  <a href="/wiki/Whip_pan" title="Whip pan">
+                   Whip pan
+                  </a>
+                 </li>
+                </ul>
+               </li>
+               <li>
+                <a href="/wiki/Hand-held_camera" title="Hand-held camera">
+                 Hand-held
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Shaky_camera" title="Shaky camera">
+                 Shaky
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Tracking_shot" title="Tracking shot">
+                 Tracking
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Camera_dolly" title="Camera dolly">
+                 Dolly
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Steadicam" title="Steadicam">
+                 Steadicam
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/SnorriCam" title="SnorriCam">
+                 SnorriCam
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Walk_and_talk" title="Walk and talk">
+                 Walk and talk
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Follow_shot" title="Follow shot">
+                 Follow
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Dolly_zoom" title="Dolly zoom">
+                 Dolly zoom
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%;font-weight:normal;">
+             Lens effects
+            </th>
+            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Focus_(optics)" title="Focus (optics)">
+                 Focus
+                </a>
+                <ul>
+                 <li>
+                  <a href="/wiki/Racking_focus" title="Racking focus">
+                   Racking
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Depth_of_field" title="Depth of field">
+                   Depth of field
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Shallow_focus" title="Shallow focus">
+                   Shallow
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Deep_focus" title="Deep focus">
+                   Deep
+                  </a>
+                 </li>
+                </ul>
+               </li>
+               <li>
+                <a href="/wiki/Zooming_(filmmaking)" title="Zooming (filmmaking)">
+                 Zooming
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%;font-weight:normal;">
+             Other techniques
+            </th>
+            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Establishing_shot" title="Establishing shot">
+                 Establishing shot
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Master_shot" title="Master shot">
+                 Master shot
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/B-roll" title="B-roll">
+                 B-roll
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Freeze-frame_shot" title="Freeze-frame shot">
+                 Freeze-frame shot
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Long_take" title="Long take">
+                 Long take
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Insert_(filmmaking)" title="Insert (filmmaking)">
+                 Insert
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+        <tr>
+         <td class="navbox-list navbox-odd hlist" colspan="2" style="padding:0px">
+          <div style="padding:0em 0.25em">
+          </div>
+          <table class="nowraplinks collapsible expanded navbox-subgroup" style="border-spacing:0">
+           <tr>
+            <th class="navbox-title" colspan="2" scope="col" style="text-align: center;">
+             <div class="plainlinks hlist navbar mini">
+              <ul>
+               <li class="nv-view">
+                <a href="/wiki/Template:Special_effects" title="Template:Special effects">
+                 <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+                  v
+                 </abbr>
+                </a>
+               </li>
+               <li class="nv-talk">
+                <a href="/wiki/Template_talk:Special_effects" title="Template talk:Special effects">
+                 <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+                  t
+                 </abbr>
+                </a>
+               </li>
+               <li class="nv-edit">
+                <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Special_effects&amp;action=edit">
+                 <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+                  e
+                 </abbr>
+                </a>
+               </li>
+              </ul>
+             </div>
+             <div id="Special_effects" style="font-size:114%;margin:0 4em">
+              <a href="/wiki/Special_effect" title="Special effect">
+               Special effects
+              </a>
+             </div>
+            </th>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="text-align: center;;width:5.0em">
+             <a href="/wiki/Practical_effect" title="Practical effect">
+              Practical
+             </a>
+            </th>
+            <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Prosthetic_makeup" title="Prosthetic makeup">
+                 Prosthetic makeup
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Animatronics" title="Animatronics">
+                 Animatronics
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Puppetry" title="Puppetry">
+                 Puppetry
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Creature_suit" title="Creature suit">
+                 Creature suit
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Miniature_effect" title="Miniature effect">
+                 Miniature effect
+                </a>
+                (
+                <a href="/wiki/Hanging_miniature" title="Hanging miniature">
+                 hanging
+                </a>
+                )
+               </li>
+               <li>
+                <a href="/wiki/Pyrotechnics" title="Pyrotechnics">
+                 Pyrotechnics
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Aerial_rigging" title="Aerial rigging">
+                 Aerial rigging
+                </a>
+                (
+                <a href="/wiki/Wire-flying" title="Wire-flying">
+                 Wire-flying
+                </a>
+                )
+               </li>
+               <li>
+                <a href="/wiki/Squib_(explosive)" title="Squib (explosive)">
+                 Squib
+                </a>
+               </li>
+               <li>
+                <a class="mw-selflink selflink">
+                 Matte painting
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Sugar_glass" title="Sugar glass">
+                 Sugar glass
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Theatrical_blood" title="Theatrical blood">
+                 Theatrical blood
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="text-align: center;;width:5.0em">
+             <a href="/wiki/In-camera_effect" title="In-camera effect">
+              In-camera
+             </a>
+            </th>
+            <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Tilted_plane_focus" title="Tilted plane focus">
+                 Tilted plane focus
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Forced_perspective" title="Forced perspective">
+                 Forced perspective
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Sch%C3%BCfftan_process" title="Schüfftan process">
+                 Schüfftan process
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Dolly_zoom" title="Dolly zoom">
+                 Dolly zoom
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Lens_flare" title="Lens flare">
+                 Lens flares
+                </a>
+               </li>
+               <li>
+                <a class="mw-redirect" href="/wiki/Lighting_effects" title="Lighting effects">
+                 Lighting effects
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Photographic_filter" title="Photographic filter">
+                 Filtration
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Shutter_(photography)" title="Shutter (photography)">
+                 Shutter effects
+                </a>
+               </li>
+               <li>
+                <a class="mw-redirect" href="/wiki/Time-lapse" title="Time-lapse">
+                 Time-lapse
+                </a>
+                <ul>
+                 <li>
+                  <a href="/wiki/Slow_motion" title="Slow motion">
+                   Slow motion
+                  </a>
+                 </li>
+                 <li>
+                  <a class="mw-redirect" href="/wiki/Fast_motion" title="Fast motion">
+                   Fast motion
+                  </a>
+                 </li>
+                 <li>
+                  <a class="mw-redirect" href="/wiki/Speed_ramping" title="Speed ramping">
+                   Speed ramping
+                  </a>
+                 </li>
+                </ul>
+               </li>
+               <li>
+                <a href="/wiki/Bipack" title="Bipack">
+                 Bipacks
+                </a>
+               </li>
+               <li>
+                <a class="mw-redirect" href="/wiki/Slit-scan" title="Slit-scan">
+                 Slit-scan
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Reverse_motion" title="Reverse motion">
+                 Reverse motion
+                </a>
+               </li>
+               <li>
+                <a class="mw-redirect" href="/wiki/Front_projection" title="Front projection">
+                 Front projection
+                </a>
+               </li>
+               <li>
+                <a class="mw-redirect" href="/wiki/Rear_projection" title="Rear projection">
+                 Rear projection
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Multiple_exposure" title="Multiple exposure">
+                 Multiple exposure
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Infrared_photography" title="Infrared photography">
+                 Infrared photography
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Bullet_time" title="Bullet time">
+                 Bullet time
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="text-align: center;;width:5.0em">
+             <a href="/wiki/Visual_effects" title="Visual effects">
+              Visual
+             </a>
+            </th>
+            <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Computer-generated_imagery" title="Computer-generated imagery">
+                 Computer-generated imagery
+                </a>
+               </li>
+               <li>
+                <a class="mw-redirect" href="/wiki/Split_screen_(filmmaking)" title="Split screen (filmmaking)">
+                 Split screen
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Stop_motion" title="Stop motion">
+                 Stop motion
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Go_motion" title="Go motion">
+                 Go motion
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Chroma_key" title="Chroma key">
+                 Chroma key
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Compositing" title="Compositing">
+                 Compositing
+                </a>
+                (
+                <a href="/wiki/Digital_compositing" title="Digital compositing">
+                 digital
+                </a>
+                )
+               </li>
+               <li>
+                <a href="/wiki/Optical_printer" title="Optical printer">
+                 Optical printing
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Introvision" title="Introvision">
+                 Introvision
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Smallgantics" title="Smallgantics">
+                 Smallgantics
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Match_moving" title="Match moving">
+                 Match moving
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1254
+Cached time: 20180322131756
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.124 seconds
+Real time usage: 0.185 seconds
+Preprocessor visited node count: 1051/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 54964/2097152 bytes
+Template argument size: 950/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 3772/5000000 bytes
+Lua time usage: 0.036/10.000 seconds
+Lua memory usage: 1.69 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  133.021      1 -total
+ 35.31%   46.974      2 Template:Refimprove
+ 27.89%   37.096      4 Template:Navbox
+ 23.00%   30.590      2 Template:Ambox
+ 20.21%   26.882      2 Template:ISBN
+ 18.13%   24.110      1 Template:Cinematic_techniques
+  9.32%   12.395      1 Template:Redirect
+  8.98%   11.950      1 Template:Reflist
+  8.50%   11.307      2 Template:Catalog_lookup_link
+  4.78%    6.360      2 Template:Error-small
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:1353830-0!canonical and timestamp 20180322131756 and revision id 816140094
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Matte_painting&amp;oldid=816140094">
+      https://en.wikipedia.org/w/index.php?title=Matte_painting&amp;oldid=816140094
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Film_and_video_technology" title="Category:Film and video technology">
+         Film and video technology
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Cinematic_techniques" title="Category:Cinematic techniques">
+         Cinematic techniques
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Background_artists" title="Category:Background artists">
+         Background artists
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Painting_techniques" title="Category:Painting techniques">
+         Painting techniques
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Articles_needing_additional_references_from_January_2015" title="Category:Articles needing additional references from January 2015">
+         Articles needing additional references from January 2015
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">
+         All articles needing additional references
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Matte+painting" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Matte+painting" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Matte_painting" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Matte_painting" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Matte_painting">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Matte_painting&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Matte_painting&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Matte_painting" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Matte_painting" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Matte_painting&amp;oldid=816140094" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Matte_painting&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1753854" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Matte_painting&amp;id=816140094" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Matte+painting">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Matte+painting&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Matte_painting&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-br">
+        <a class="interlanguage-link-target" href="https://br.wikipedia.org/wiki/Matte_painting" hreflang="br" lang="br" title="Matte painting – Breton">
+         Brezhoneg
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Matte_Painting" hreflang="de" lang="de" title="Matte Painting – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Matte_painting" hreflang="fr" lang="fr" title="Matte painting – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Lukisan_matte" hreflang="id" lang="id" title="Lukisan matte – Indonesian">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Matte_painting" hreflang="it" lang="it" title="Matte painting – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%83%E3%83%88%E3%83%9A%E3%82%A4%E3%83%B3%E3%83%88" hreflang="ja" lang="ja" title="マットペイント – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Matte_painting" hreflang="no" lang="no" title="Matte painting – Norwegian">
+         Norsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-oc">
+        <a class="interlanguage-link-target" href="https://oc.wikipedia.org/wiki/Projeccion_frontala" hreflang="oc" lang="oc" title="Projeccion frontala – Occitan">
+         Occitan
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2%D0%BA%D0%B0" hreflang="ru" lang="ru" title="Дорисовка – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Matte_painting" hreflang="sv" lang="sv" title="Matte painting – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-th">
+        <a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/Matte_painting" hreflang="th" lang="th" title="Matte painting – Thai">
+         ไทย
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tr">
+        <a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Mat_boyama" hreflang="tr" lang="tr" title="Mat boyama – Turkish">
+         Türkçe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/Matte_Painting" hreflang="uk" lang="uk" title="Matte Painting – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E6%8E%A5%E6%99%AF" hreflang="zh" lang="zh" title="接景 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1753854#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 19 December 2017, at 15:09.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Matte_painting&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.124","walltime":"0.185","ppvisitednodes":{"value":1051,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":54964,"limit":2097152},"templateargumentsize":{"value":950,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":3772,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  133.021      1 -total"," 35.31%   46.974      2 Template:Refimprove"," 27.89%   37.096      4 Template:Navbox"," 23.00%   30.590      2 Template:Ambox"," 20.21%   26.882      2 Template:ISBN"," 18.13%   24.110      1 Template:Cinematic_techniques","  9.32%   12.395      1 Template:Redirect","  8.98%   11.950      1 Template:Reflist","  8.50%   11.307      2 Template:Catalog_lookup_link","  4.78%    6.360      2 Template:Error-small"]},"scribunto":{"limitreport-timeusage":{"value":"0.036","limit":"10.000"},"limitreport-memusage":{"value":1767584,"limit":52428800}},"cachereport":{"origin":"mw1254","timestamp":"20180322131756","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":100,"wgHostname":"mw1266"});});
+  </script>
+ </body>
+</html>

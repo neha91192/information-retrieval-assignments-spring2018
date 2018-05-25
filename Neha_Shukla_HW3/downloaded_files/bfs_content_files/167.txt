@@ -1,0 +1,4769 @@
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Watt - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Watt","wgTitle":"Watt","wgCurRevisionId":829259801,"wgRevisionId":829259801,"wgArticleId":21347693,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 French-language sources (fr)","Articles needing additional references from May 2017","All articles needing additional references","All articles with unsourced statements","Articles with unsourced statements from June 2017","SI derived units","Units of power","James Watt"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Watt","wgRelevantArticleId":21347693,"wgRequestId":"Wq-PUQpAMEoAAHbtf3cAAABH","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":["sysop"],"wgRedirectedFrom":"Gigawatt","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Watt#Gigawatt","wgWikibaseItemId":"Q25236","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.25" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Watt#Gigawatt" rel="alternate"/>
+  <link href="/w/index.php?title=Watt&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Watt&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Watt#Gigawatt" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Watt rootpage-Watt skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Watt
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+     <span class="mw-redirectedfrom">
+      (Redirected from
+      <a class="mw-redirect" href="/w/index.php?title=Gigawatt&amp;redirect=no" title="Gigawatt">
+       Gigawatt
+      </a>
+      )
+     </span>
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <div class="hatnote navigation-not-searchable" role="note">
+       This article is about the unit of power. For other uses, see
+       <a class="mw-disambig" href="/wiki/Watt_(disambiguation)" title="Watt (disambiguation)">
+        Watt (disambiguation)
+       </a>
+       .
+      </div>
+      <table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+       <tr>
+        <td class="mbox-image">
+         <div style="width:52px">
+          <a class="image" href="/wiki/File:Question_book-new.svg">
+           <img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/>
+          </a>
+         </div>
+        </td>
+        <td class="mbox-text">
+         <div class="mbox-text-span">
+          This article
+          <b>
+           needs additional citations for
+           <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">
+            verification
+           </a>
+          </b>
+          .
+          <span class="hide-when-compact">
+           Please help
+           <a class="external text" href="//en.wikipedia.org/w/index.php?title=Watt&amp;action=edit">
+            improve this article
+           </a>
+           by
+           <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">
+            adding citations to reliable sources
+           </a>
+           . Unsourced material may be challenged and removed.
+          </span>
+          <small>
+           <i>
+            (May 2017)
+           </i>
+          </small>
+          <small class="hide-when-compact">
+           <i>
+            (
+            <a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">
+             Learn how and when to remove this template message
+            </a>
+            )
+           </i>
+          </small>
+         </div>
+        </td>
+       </tr>
+      </table>
+      <table class="infobox" style="width:22em;background:;">
+       <tr>
+        <th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">
+         Watt
+        </th>
+       </tr>
+       <tr>
+        <th scope="row">
+         <a href="/wiki/System_of_measurement" title="System of measurement">
+          Unit system
+         </a>
+        </th>
+        <td>
+         <a href="/wiki/SI_derived_unit" title="SI derived unit">
+          SI derived unit
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         Unit of
+        </th>
+        <td>
+         <a href="/wiki/Power_(physics)" title="Power (physics)">
+          Power
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         Symbol
+        </th>
+        <td>
+         W
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         Named after
+        </th>
+        <td>
+         <a href="/wiki/James_Watt" title="James Watt">
+          James Watt
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <th colspan="2" style="text-align:center">
+         Unit conversions
+        </th>
+       </tr>
+       <tr class="nowrap">
+        <td>
+         <i>
+          1 W in ...
+         </i>
+        </td>
+        <td>
+         <i>
+          ... is equal to ...
+         </i>
+        </td>
+       </tr>
+       <tr style="display:none">
+        <th colspan="2">
+        </th>
+       </tr>
+       <tr>
+        <th scope="row">
+         <span class="nowrap">
+         </span>
+         <a href="/wiki/SI_base_unit" title="SI base unit">
+          SI base units
+         </a>
+        </th>
+        <td>
+         <span class="nowrap">
+         </span>
+         1
+         <a href="/wiki/Kilogram" title="Kilogram">
+          kg
+         </a>
+         ⋅
+         <a href="/wiki/Metre" title="Metre">
+          m
+         </a>
+         <sup>
+          2
+         </sup>
+         ⋅
+         <a href="/wiki/Second" title="Second">
+          s
+         </a>
+         <sup>
+          −3
+         </sup>
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         <span class="nowrap">
+         </span>
+         <a class="mw-redirect" href="/wiki/CGS_unit" title="CGS unit">
+          CGS units
+         </a>
+        </th>
+        <td>
+         <span class="nowrap">
+         </span>
+         <span class="nowrap">
+          <span class="sortkey" style="display:none">
+           7007100000000000000♠
+          </span>
+          1
+          <span style="margin-left:0.25em;margin-right:0.15em;">
+           ×
+          </span>
+          10
+          <sup>
+           7
+          </sup>
+         </span>
+         <a href="/wiki/Erg" title="Erg">
+          erg
+         </a>
+         <a href="/wiki/Second" title="Second">
+          s
+         </a>
+         <sup>
+          −1
+         </sup>
+        </td>
+       </tr>
+      </table>
+      <p>
+       The
+       <b>
+        watt
+       </b>
+       (symbol:
+       <b>
+        W
+       </b>
+       ) is a unit of
+       <a href="/wiki/Power_(physics)" title="Power (physics)">
+        power
+       </a>
+       . In the
+       <a href="/wiki/International_System_of_Units" title="International System of Units">
+        International System of Units
+       </a>
+       (SI) it is defined as a
+       <a href="/wiki/SI_derived_unit" title="SI derived unit">
+        derived unit
+       </a>
+       of 1
+       <a href="/wiki/Joule" title="Joule">
+        joule
+       </a>
+       per
+       <a href="/wiki/Second" title="Second">
+        second
+       </a>
+       ,
+       <sup class="reference" id="cite_ref-1">
+        <a href="#cite_note-1">
+         [1]
+        </a>
+       </sup>
+       and is used to
+       <a href="/wiki/Quantification_(science)" title="Quantification (science)">
+        quantify
+       </a>
+       the rate of
+       <a href="/wiki/Energy_transformation" title="Energy transformation">
+        energy transfer
+       </a>
+       . In
+       <a href="/wiki/Dimensional_analysis" title="Dimensional analysis">
+        dimensional analysis
+       </a>
+       it is described by
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle {\mathsf {ML}}^{2}{\mathsf {T}}^{-3}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msup>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="sans-serif">
+                 M
+                </mi>
+                <mi mathvariant="sans-serif">
+                 L
+                </mi>
+               </mrow>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mn>
+                2
+               </mn>
+              </mrow>
+             </msup>
+             <msup>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="sans-serif">
+                 T
+                </mi>
+               </mrow>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mo>
+                −
+                <!-- − -->
+               </mo>
+               <mn>
+                3
+               </mn>
+              </mrow>
+             </msup>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle {\mathsf {ML}}^{2}{\mathsf {T}}^{-3}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="{\displaystyle {\mathsf {ML}}^{2}{\mathsf {T}}^{-3}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/18eee5b0611c6b4da156b8d4ddb774c7787811a0" style="vertical-align: -0.338ex; width:8.263ex; height:2.676ex;"/>
+       </span>
+       .
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Examples">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Examples
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#Origin_and_adoption_as_an_SI_unit">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Origin and adoption as an SI unit
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-3">
+         <a href="#Multiples">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           Multiples
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-4">
+           <a href="#Attowatt">
+            <span class="tocnumber">
+             3.1
+            </span>
+            <span class="toctext">
+             Attowatt
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-5">
+           <a href="#Femtowatt">
+            <span class="tocnumber">
+             3.2
+            </span>
+            <span class="toctext">
+             Femtowatt
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-6">
+           <a href="#Picowatt">
+            <span class="tocnumber">
+             3.3
+            </span>
+            <span class="toctext">
+             Picowatt
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-7">
+           <a href="#Nanowatt">
+            <span class="tocnumber">
+             3.4
+            </span>
+            <span class="toctext">
+             Nanowatt
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-8">
+           <a href="#Microwatt">
+            <span class="tocnumber">
+             3.5
+            </span>
+            <span class="toctext">
+             Microwatt
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-9">
+           <a href="#Milliwatt">
+            <span class="tocnumber">
+             3.6
+            </span>
+            <span class="toctext">
+             Milliwatt
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-10">
+           <a href="#Kilowatt">
+            <span class="tocnumber">
+             3.7
+            </span>
+            <span class="toctext">
+             Kilowatt
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-11">
+           <a href="#Megawatt">
+            <span class="tocnumber">
+             3.8
+            </span>
+            <span class="toctext">
+             Megawatt
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-12">
+           <a href="#Gigawatt">
+            <span class="tocnumber">
+             3.9
+            </span>
+            <span class="toctext">
+             Gigawatt
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-13">
+           <a href="#Terawatt">
+            <span class="tocnumber">
+             3.10
+            </span>
+            <span class="toctext">
+             Terawatt
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-14">
+           <a href="#Petawatt">
+            <span class="tocnumber">
+             3.11
+            </span>
+            <span class="toctext">
+             Petawatt
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-15">
+         <a href="#Conventions_in_the_electric_power_industry">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           Conventions in the electric power industry
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-16">
+         <a href="#Radio_transmission">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           Radio transmission
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-17">
+         <a href="#Distinction_between_watts_and_watt-hours">
+          <span class="tocnumber">
+           6
+          </span>
+          <span class="toctext">
+           Distinction between watts and watt-hours
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-18">
+         <a href="#See_also">
+          <span class="tocnumber">
+           7
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-19">
+         <a href="#Notes">
+          <span class="tocnumber">
+           8
+          </span>
+          <span class="toctext">
+           Notes
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-20">
+         <a href="#References">
+          <span class="tocnumber">
+           9
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-21">
+         <a href="#External_links">
+          <span class="tocnumber">
+           10
+          </span>
+          <span class="toctext">
+           External links
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Examples">
+        Examples
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Watt&amp;action=edit&amp;section=1" title="Edit section: Examples">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       When an object's
+       <a href="/wiki/Velocity" title="Velocity">
+        velocity
+       </a>
+       is held constant at one
+       <a class="mw-redirect" href="/wiki/Meter_per_second" title="Meter per second">
+        meter per second
+       </a>
+       against a constant opposing force of one
+       <a href="/wiki/Newton_(unit)" title="Newton (unit)">
+        newton
+       </a>
+       , the rate at which
+       <a href="/wiki/Work_(physics)" title="Work (physics)">
+        work
+       </a>
+       is done is 1 watt.
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle \mathrm {1~W=1~{\frac {J}{s}}=1~{\frac {N{\cdot }m}{s}}=1~{\frac {kg{\cdot }m^{2}}{s^{3}}}} }" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mrow class="MJX-TeXAtom-ORD">
+               <mn>
+                1
+               </mn>
+               <mtext>
+               </mtext>
+               <mi mathvariant="normal">
+                W
+               </mi>
+               <mo>
+                =
+               </mo>
+               <mn>
+                1
+               </mn>
+               <mtext>
+               </mtext>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mfrac>
+                 <mi mathvariant="normal">
+                  J
+                 </mi>
+                 <mi mathvariant="normal">
+                  s
+                 </mi>
+                </mfrac>
+               </mrow>
+               <mo>
+                =
+               </mo>
+               <mn>
+                1
+               </mn>
+               <mtext>
+               </mtext>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mfrac>
+                 <mrow>
+                  <mi mathvariant="normal">
+                   N
+                  </mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mo>
+                    ⋅
+                    <!-- ⋅ -->
+                   </mo>
+                  </mrow>
+                  <mi mathvariant="normal">
+                   m
+                  </mi>
+                 </mrow>
+                 <mi mathvariant="normal">
+                  s
+                 </mi>
+                </mfrac>
+               </mrow>
+               <mo>
+                =
+               </mo>
+               <mn>
+                1
+               </mn>
+               <mtext>
+               </mtext>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mfrac>
+                 <mrow>
+                  <mi mathvariant="normal">
+                   k
+                  </mi>
+                  <mi mathvariant="normal">
+                   g
+                  </mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mo>
+                    ⋅
+                    <!-- ⋅ -->
+                   </mo>
+                  </mrow>
+                  <msup>
+                   <mi mathvariant="normal">
+                    m
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mn>
+                     2
+                    </mn>
+                   </mrow>
+                  </msup>
+                 </mrow>
+                 <msup>
+                  <mi mathvariant="normal">
+                   s
+                  </mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mn>
+                    3
+                   </mn>
+                  </mrow>
+                 </msup>
+                </mfrac>
+               </mrow>
+              </mrow>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle \mathrm {1~W=1~{\frac {J}{s}}=1~{\frac {N{\cdot }m}{s}}=1~{\frac {kg{\cdot }m^{2}}{s^{3}}}} }
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle \mathrm {1~W=1~{\frac {J}{s}}=1~{\frac {N{\cdot }m}{s}}=1~{\frac {kg{\cdot }m^{2}}{s^{3}}}} }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7c37efcd85a526172e9ee7d3c6bd1edb3d715a42" style="vertical-align: -2.171ex; width:32.713ex; height:6.009ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       In terms of
+       <a href="/wiki/Electromagnetism" title="Electromagnetism">
+        electromagnetism
+       </a>
+       , one watt is the rate at which
+       <a class="mw-redirect" href="/wiki/Electrical_work" title="Electrical work">
+        electrical work
+       </a>
+       is performed when a current of one
+       <a href="/wiki/Ampere" title="Ampere">
+        ampere
+       </a>
+       (A) flows across an electrical
+       <a class="mw-redirect" href="/wiki/Potential_difference" title="Potential difference">
+        potential difference
+       </a>
+       of one
+       <a href="/wiki/Volt" title="Volt">
+        volt
+       </a>
+       (V).
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle \mathrm {1~W=1~V\cdot 1~A} }" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mrow class="MJX-TeXAtom-ORD">
+               <mn>
+                1
+               </mn>
+               <mtext>
+               </mtext>
+               <mi mathvariant="normal">
+                W
+               </mi>
+               <mo>
+                =
+               </mo>
+               <mn>
+                1
+               </mn>
+               <mtext>
+               </mtext>
+               <mi mathvariant="normal">
+                V
+               </mi>
+               <mo>
+                ⋅
+                <!-- ⋅ -->
+               </mo>
+               <mn>
+                1
+               </mn>
+               <mtext>
+               </mtext>
+               <mi mathvariant="normal">
+                A
+               </mi>
+              </mrow>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle \mathrm {1~W=1~V\cdot 1~A} }
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle \mathrm {1~W=1~V\cdot 1~A} }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0f6b8a40bc84f54cbedf11ae40b4ae532478b0da" style="vertical-align: -0.338ex; width:15.882ex; height:2.176ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       Two additional
+       <a href="/wiki/Conversion_of_units" title="Conversion of units">
+        unit conversions
+       </a>
+       for watt can be found using the above equation and
+       <a class="mw-redirect" href="/wiki/Ohm%27s_Law" title="Ohm's Law">
+        Ohm's Law
+       </a>
+       .
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle \mathrm {1~W=1~{\frac {V^{2}}{\Omega }}=1~A^{2}{\cdot }\Omega } }" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mrow class="MJX-TeXAtom-ORD">
+               <mn>
+                1
+               </mn>
+               <mtext>
+               </mtext>
+               <mi mathvariant="normal">
+                W
+               </mi>
+               <mo>
+                =
+               </mo>
+               <mn>
+                1
+               </mn>
+               <mtext>
+               </mtext>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mfrac>
+                 <msup>
+                  <mi mathvariant="normal">
+                   V
+                  </mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mn>
+                    2
+                   </mn>
+                  </mrow>
+                 </msup>
+                 <mi mathvariant="normal">
+                  Ω
+                  <!-- Ω -->
+                 </mi>
+                </mfrac>
+               </mrow>
+               <mo>
+                =
+               </mo>
+               <mn>
+                1
+               </mn>
+               <mtext>
+               </mtext>
+               <msup>
+                <mi mathvariant="normal">
+                 A
+                </mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                 <mn>
+                  2
+                 </mn>
+                </mrow>
+               </msup>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mo>
+                 ⋅
+                 <!-- ⋅ -->
+                </mo>
+               </mrow>
+               <mi mathvariant="normal">
+                Ω
+                <!-- Ω -->
+               </mi>
+              </mrow>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle \mathrm {1~W=1~{\frac {V^{2}}{\Omega }}=1~A^{2}{\cdot }\Omega } }
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle \mathrm {1~W=1~{\frac {V^{2}}{\Omega }}=1~A^{2}{\cdot }\Omega } }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/80be7efc6e5eabc366d1cf0cf602d0e8e8fd355a" style="vertical-align: -2.005ex; width:22.571ex; height:5.843ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       Where
+       <a href="/wiki/Ohm" title="Ohm">
+        ohm
+       </a>
+       (
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \Omega }" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi mathvariant="normal">
+              Ω
+              <!-- Ω -->
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \Omega }
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\Omega " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/24b0d5ca6f381068d756f6337c08e0af9d1eeb6f" style="vertical-align: -0.338ex; width:1.678ex; height:2.176ex;"/>
+       </span>
+       ) is the
+       <a href="/wiki/SI_derived_unit" title="SI derived unit">
+        SI derived unit
+       </a>
+       of
+       <a class="mw-redirect" href="/wiki/Electrical_resistance" title="Electrical resistance">
+        electrical resistance
+       </a>
+       .
+      </p>
+      <ul>
+       <li>
+        A person having a mass of 100 kilograms who climbs a 3-meter-high ladder in 5 seconds is doing work at a rate of about 600 watts. Mass times acceleration due to gravity times height divided by the time it takes to lift the object to the given height gives the
+        <i>
+         rate of doing work
+        </i>
+        or
+        <i>
+         power
+        </i>
+        .
+        <sup class="reference" id="cite_ref-2">
+         <a href="#cite_note-2">
+          [i]
+         </a>
+        </sup>
+       </li>
+       <li>
+        A laborer over the course of an 8-hour day can sustain an average output of about 75 watts; higher power levels can be achieved for short intervals and by athletes.
+        <sup class="reference" id="cite_ref-3">
+         <a href="#cite_note-3">
+          [2]
+         </a>
+        </sup>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="Origin_and_adoption_as_an_SI_unit">
+        Origin and adoption as an SI unit
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Watt&amp;action=edit&amp;section=2" title="Edit section: Origin and adoption as an SI unit">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       The watt is named after the Scottish inventor
+       <a href="/wiki/James_Watt" title="James Watt">
+        James Watt
+       </a>
+       for his contributions to the development of the
+       <a href="/wiki/Steam_engine" title="Steam engine">
+        steam engine
+       </a>
+       . The measurement unit was recognized by the Second Congress of the
+       <a href="/wiki/British_Science_Association" title="British Science Association">
+        British Association for the Advancement of Science
+       </a>
+       in 1882, concurrent with the start of commercial power production from both
+       <a href="/wiki/Hydroelectricity" title="Hydroelectricity">
+        water
+       </a>
+       and
+       <a class="mw-redirect" href="/wiki/Thermal_power_plant" title="Thermal power plant">
+        steam
+       </a>
+       . In 1960 the 11th
+       <a href="/wiki/General_Conference_on_Weights_and_Measures" title="General Conference on Weights and Measures">
+        General Conference on Weights and Measures
+       </a>
+       adopted it for the measurement of power into the
+       <a href="/wiki/International_System_of_Units" title="International System of Units">
+        International System of Units
+       </a>
+       (SI).
+      </p>
+      <h2>
+       <span class="mw-headline" id="Multiples">
+        Multiples
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Watt&amp;action=edit&amp;section=3" title="Edit section: Multiples">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <dl>
+       <dd>
+        <i>
+         For additional examples of magnitude for multiples and submultiples of the watt, see
+         <a href="/wiki/Orders_of_magnitude_(power)" title="Orders of magnitude (power)">
+          Orders of magnitude (power)
+         </a>
+        </i>
+       </dd>
+      </dl>
+      <table class="infobox">
+       <tr>
+        <td>
+         <table class="wikitable" style="text-align:center; margin:0 auto;">
+          <caption>
+           SI multiples for watt (W)
+          </caption>
+          <tr>
+           <th colspan="3">
+            Submultiples
+           </th>
+           <td rowspan="12">
+           </td>
+           <th colspan="3">
+            Multiples
+           </th>
+          </tr>
+          <tr style="background:#d4d4d4;">
+           <th>
+            Value
+           </th>
+           <th>
+            SI symbol
+           </th>
+           <th>
+            Name
+           </th>
+           <th>
+            Value
+           </th>
+           <th>
+            SI symbol
+           </th>
+           <th>
+            Name
+           </th>
+          </tr>
+          <tr>
+           <td>
+            10
+            <sup>
+             −1
+            </sup>
+            W
+           </td>
+           <td>
+            dW
+           </td>
+           <td>
+            deciwatt
+           </td>
+           <td>
+            10
+            <sup>
+             1
+            </sup>
+            W
+           </td>
+           <td>
+            daW
+           </td>
+           <td>
+            decawatt
+           </td>
+          </tr>
+          <tr>
+           <td>
+            10
+            <sup>
+             −2
+            </sup>
+            W
+           </td>
+           <td>
+            cW
+           </td>
+           <td>
+            centiwatt
+           </td>
+           <td>
+            10
+            <sup>
+             2
+            </sup>
+            W
+           </td>
+           <td>
+            hW
+           </td>
+           <td>
+            hectowatt
+           </td>
+          </tr>
+          <tr>
+           <td>
+            10
+            <sup>
+             −3
+            </sup>
+            W
+           </td>
+           <td>
+            <b>
+             mW
+            </b>
+           </td>
+           <td>
+            <b>
+             milliwatt
+            </b>
+           </td>
+           <td>
+            10
+            <sup>
+             3
+            </sup>
+            W
+           </td>
+           <td>
+            <b>
+             kW
+            </b>
+           </td>
+           <td>
+            <b>
+             kilowatt
+            </b>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            10
+            <sup>
+             −6
+            </sup>
+            W
+           </td>
+           <td>
+            <b>
+             µW
+            </b>
+           </td>
+           <td>
+            <b>
+             microwatt
+            </b>
+           </td>
+           <td>
+            10
+            <sup>
+             6
+            </sup>
+            W
+           </td>
+           <td>
+            <b>
+             MW
+            </b>
+           </td>
+           <td>
+            <b>
+             megawatt
+            </b>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            10
+            <sup>
+             −9
+            </sup>
+            W
+           </td>
+           <td>
+            <b>
+             nW
+            </b>
+           </td>
+           <td>
+            <b>
+             nanowatt
+            </b>
+           </td>
+           <td>
+            10
+            <sup>
+             9
+            </sup>
+            W
+           </td>
+           <td>
+            <b>
+             GW
+            </b>
+           </td>
+           <td>
+            <b>
+             gigawatt
+            </b>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            10
+            <sup>
+             −12
+            </sup>
+            W
+           </td>
+           <td>
+            <b>
+             pW
+            </b>
+           </td>
+           <td>
+            <b>
+             picowatt
+            </b>
+           </td>
+           <td>
+            10
+            <sup>
+             12
+            </sup>
+            W
+           </td>
+           <td>
+            <b>
+             TW
+            </b>
+           </td>
+           <td>
+            <b>
+             terawatt
+            </b>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            10
+            <sup>
+             −15
+            </sup>
+            W
+           </td>
+           <td>
+            fW
+           </td>
+           <td>
+            femtowatt
+           </td>
+           <td>
+            10
+            <sup>
+             15
+            </sup>
+            W
+           </td>
+           <td>
+            <b>
+             PW
+            </b>
+           </td>
+           <td>
+            <b>
+             petawatt
+            </b>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            10
+            <sup>
+             −18
+            </sup>
+            W
+           </td>
+           <td>
+            aW
+           </td>
+           <td>
+            attowatt
+           </td>
+           <td>
+            10
+            <sup>
+             18
+            </sup>
+            W
+           </td>
+           <td>
+            EW
+           </td>
+           <td>
+            exawatt
+           </td>
+          </tr>
+          <tr>
+           <td>
+            10
+            <sup>
+             −21
+            </sup>
+            W
+           </td>
+           <td>
+            zW
+           </td>
+           <td>
+            zeptowatt
+           </td>
+           <td>
+            10
+            <sup>
+             21
+            </sup>
+            W
+           </td>
+           <td>
+            ZW
+           </td>
+           <td>
+            zettawatt
+           </td>
+          </tr>
+          <tr>
+           <td>
+            10
+            <sup>
+             −24
+            </sup>
+            W
+           </td>
+           <td>
+            yW
+           </td>
+           <td>
+            yoctowatt
+           </td>
+           <td>
+            10
+            <sup>
+             24
+            </sup>
+            W
+           </td>
+           <td>
+            YW
+           </td>
+           <td>
+            yottawatt
+           </td>
+          </tr>
+          <tr>
+           <td colspan="7">
+            Common multiples are in
+            <b>
+             bold
+            </b>
+            face
+           </td>
+          </tr>
+         </table>
+        </td>
+       </tr>
+      </table>
+      <h3>
+       <span class="mw-headline" id="Attowatt">
+        Attowatt
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Watt&amp;action=edit&amp;section=4" title="Edit section: Attowatt">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       The
+       <b>
+        attowatt (aW)
+       </b>
+       is equal to 10
+       <sup>
+        −18
+       </sup>
+       watt. The sound intensity in water corresponding to the international standard reference sound pressure of 1 μPa is approximately 0.65 aW/m
+       <sup>
+        2
+       </sup>
+       .
+       <sup class="reference" id="cite_ref-4">
+        <a href="#cite_note-4">
+         [3]
+        </a>
+       </sup>
+      </p>
+      <h3>
+       <span class="mw-headline" id="Femtowatt">
+        Femtowatt
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Watt&amp;action=edit&amp;section=5" title="Edit section: Femtowatt">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       The
+       <b>
+        femtowatt (fW)
+       </b>
+       is equal to one
+       <a href="/wiki/Orders_of_magnitude_(numbers)#10−15" title="Orders of magnitude (numbers)">
+        quadrillionth
+       </a>
+       (10
+       <sup>
+        −15
+       </sup>
+       ) of a watt. Technologically important powers that are measured in femtowatts are typically found in reference(s) to
+       <a href="/wiki/Radio" title="Radio">
+        radio
+       </a>
+       and
+       <a href="/wiki/Radar" title="Radar">
+        radar
+       </a>
+       receivers. For example, meaningful FM tuner performance figures for sensitivity, quieting and signal-to-noise require that the RF energy applied to the antenna input be specified. These input levels are often stated in dBf (
+       <a href="/wiki/Decibel" title="Decibel">
+        decibels
+       </a>
+       referenced to 1 femtowatt). This is 0.2739 microvolt across a 75-ohm load or 0.5477 microvolt across a 300-ohm load; the specification takes into account the RF input impedance of the tuner.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Picowatt">
+        Picowatt
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Watt&amp;action=edit&amp;section=6" title="Edit section: Picowatt">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       The
+       <b>
+        picowatt (pW)
+       </b>
+       , not to be confused with the much larger
+       <a href="/wiki/Watt#Petawatt" title="Watt">
+        petawatt
+       </a>
+       (PW), is equal to one trillionth (10
+       <sup>
+        −12
+       </sup>
+       ) of a watt. Technologically important powers that are measured in picowatts are typically used in reference to radio and radar receivers, acoustics and in the science of
+       <a href="/wiki/Radio_astronomy" title="Radio astronomy">
+        radio astronomy
+       </a>
+       . One picowatt is the international standard reference value of
+       <a href="/wiki/Sound_power" title="Sound power">
+        sound power
+       </a>
+       when this quantity is expressed as a level in
+       <a href="/wiki/Decibel" title="Decibel">
+        decibels
+       </a>
+       .
+       <sup class="reference" id="cite_ref-5">
+        <a href="#cite_note-5">
+         [4]
+        </a>
+       </sup>
+      </p>
+      <h3>
+       <span class="mw-headline" id="Nanowatt">
+        Nanowatt
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Watt&amp;action=edit&amp;section=7" title="Edit section: Nanowatt">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       The
+       <b>
+        nanowatt (nW)
+       </b>
+       is equal to one billionth (10
+       <sup>
+        −9
+       </sup>
+       ) of a watt. Important powers that are measured in nanowatts are also typically used in reference to radio and radar receivers.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Microwatt">
+        Microwatt
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Watt&amp;action=edit&amp;section=8" title="Edit section: Microwatt">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       The
+       <b>
+        microwatt (µW)
+       </b>
+       is equal to one millionth (10
+       <sup>
+        −6
+       </sup>
+       ) of a watt. Important powers that are measured in microwatts are typically stated in
+       <a class="mw-redirect" href="/wiki/Medical_instrument" title="Medical instrument">
+        medical instrumentation
+       </a>
+       systems such as the
+       <a class="mw-redirect" href="/wiki/EEG" title="EEG">
+        EEG
+       </a>
+       and the
+       <a href="/wiki/Electrocardiography" title="Electrocardiography">
+        ECG
+       </a>
+       , in a wide variety of scientific and engineering instruments and also in reference to radio and radar receivers. Compact
+       <a class="mw-redirect" href="/wiki/Solar_cells" title="Solar cells">
+        solar cells
+       </a>
+       for devices such as calculators and watches are typically measured in microwatts.
+       <sup class="reference" id="cite_ref-6">
+        <a href="#cite_note-6">
+         [5]
+        </a>
+       </sup>
+      </p>
+      <h3>
+       <span class="mw-headline" id="Milliwatt">
+        Milliwatt
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Watt&amp;action=edit&amp;section=9" title="Edit section: Milliwatt">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       The
+       <b>
+        milliwatt (mW)
+       </b>
+       is equal to one thousandth (10
+       <sup>
+        −3
+       </sup>
+       ) of a watt. A typical
+       <a href="/wiki/Laser_pointer" title="Laser pointer">
+        laser pointer
+       </a>
+       outputs about five milliwatts of light power, whereas a typical
+       <a href="/wiki/Hearing_aid" title="Hearing aid">
+        hearing aid
+       </a>
+       for people uses less than one milliwatt.
+       <sup class="reference" id="cite_ref-7">
+        <a href="#cite_note-7">
+         [6]
+        </a>
+       </sup>
+       <a href="/wiki/Audio_signal" title="Audio signal">
+        Audio signals
+       </a>
+       and other electronic signal levels are often measured in
+       <a href="/wiki/DBm" title="DBm">
+        dBm
+       </a>
+       , referenced to one milliwatt.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Kilowatt">
+        Kilowatt
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Watt&amp;action=edit&amp;section=10" title="Edit section: Kilowatt">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <div class="hatnote navigation-not-searchable" role="note">
+       "Kilowatt" and "Kilowatts" redirect here. For the place in the United States, see
+       <a href="/wiki/Kilowatt,_California" title="Kilowatt, California">
+        Kilowatt, California
+       </a>
+       . For the musician James Watts, see
+       <a href="/wiki/KiloWatts_(musician)" title="KiloWatts (musician)">
+        KiloWatts (musician)
+       </a>
+       .
+      </div>
+      <div class="hatnote navigation-not-searchable" role="note">
+       "kW" redirects here. For other uses, see
+       <a class="mw-redirect mw-disambig" href="/wiki/KW_(disambiguation)" title="KW (disambiguation)">
+        kW (disambiguation)
+       </a>
+       .
+      </div>
+      <p>
+       The
+       <b>
+        kilowatt (kW)
+       </b>
+       is equal to one thousand (10
+       <sup>
+        3
+       </sup>
+       ) watts. This unit is typically used to express the output power of
+       <a href="/wiki/Engine" title="Engine">
+        engines
+       </a>
+       and the power of electric motors, tools, machines, and heaters. It is also a common unit used to express the
+       <a href="/wiki/Electromagnetic_radiation" title="Electromagnetic radiation">
+        electromagnetic
+       </a>
+       power output of broadcast radio and television
+       <a href="/wiki/Transmitter" title="Transmitter">
+        transmitters
+       </a>
+       .
+      </p>
+      <p>
+       One kilowatt is approximately equal to 1.34
+       <a href="/wiki/Horsepower" title="Horsepower">
+        horsepower
+       </a>
+       . A small electric heater with one heating element can use 1.0 kilowatt. The average electric power consumption of a household in the United States is about one kilowatt.
+       <sup class="reference" id="cite_ref-9">
+        <a href="#cite_note-9">
+         [ii]
+        </a>
+       </sup>
+      </p>
+      <p>
+       A surface area of one square meter on Earth receives typically about one kilowatt of
+       <a href="/wiki/Sunlight" title="Sunlight">
+        sunlight
+       </a>
+       from the sun (the
+       <a href="/wiki/Solar_irradiance" title="Solar irradiance">
+        solar irradiance
+       </a>
+       ) (on a clear day at mid day, close to the equator).
+       <sup class="reference" id="cite_ref-10">
+        <a href="#cite_note-10">
+         [8]
+        </a>
+       </sup>
+      </p>
+      <h3>
+       <span class="mw-headline" id="Megawatt">
+        Megawatt
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Watt&amp;action=edit&amp;section=11" title="Edit section: Megawatt">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       The
+       <b>
+        megawatt (MW)
+       </b>
+       is equal to one million (10
+       <sup>
+        6
+       </sup>
+       ) watts. Many events or machines produce or sustain the conversion of energy on this scale, including large electric motors; large
+       <a href="/wiki/Warship" title="Warship">
+        warships
+       </a>
+       such as
+       <a href="/wiki/Aircraft_carrier" title="Aircraft carrier">
+        aircraft carriers
+       </a>
+       ,
+       <a href="/wiki/Cruiser" title="Cruiser">
+        cruisers
+       </a>
+       , and
+       <a href="/wiki/Submarine" title="Submarine">
+        submarines
+       </a>
+       ; large
+       <a href="/wiki/Server_farm" title="Server farm">
+        server farms
+       </a>
+       or
+       <a href="/wiki/Data_center#Energy_use" title="Data center">
+        data centers
+       </a>
+       ; and some scientific research equipment, such as
+       <a class="mw-redirect" href="/wiki/Supercollider" title="Supercollider">
+        supercolliders
+       </a>
+       , and the output pulses of very large lasers. A large residential or commercial building may use several megawatts in electric power and heat. On railways, modern high-powered
+       <a class="mw-redirect" href="/wiki/Electric_locomotives" title="Electric locomotives">
+        electric locomotives
+       </a>
+       typically have a peak power output of 5 or 6 MW, although some produce much more. The
+       <a href="/wiki/British_Rail_Class_373" title="British Rail Class 373">
+        Eurostar
+       </a>
+       , for example, uses more than 12 MW, while heavy
+       <a class="mw-redirect" href="/wiki/Diesel-electric_transmission" title="Diesel-electric transmission">
+        diesel-electric
+       </a>
+       <a href="/wiki/Locomotive" title="Locomotive">
+        locomotives
+       </a>
+       typically produce/use 3 to 5 MW. U.S.
+       <a href="/wiki/Nuclear_power_plant" title="Nuclear power plant">
+        nuclear power plants
+       </a>
+       have net summer capacities between about 500 and 1300 MW.
+       <sup class="reference" id="cite_ref-11">
+        <a href="#cite_note-11">
+         [9]
+        </a>
+       </sup>
+      </p>
+      <p>
+       The earliest citing of the megawatt in the
+       <i>
+        <a href="/wiki/Oxford_English_Dictionary" title="Oxford English Dictionary">
+         Oxford English Dictionary
+        </a>
+       </i>
+       (OED) is a reference in the 1900
+       <a href="/wiki/Webster%27s_Dictionary" title="Webster's Dictionary">
+        <i>
+         Webster's International Dictionary of English Language
+        </i>
+       </a>
+       . The OED also states that megawatt appeared in a 28 November 1947 article in the journal
+       <i>
+        <a href="/wiki/Science_(journal)" title="Science (journal)">
+         Science
+        </a>
+       </i>
+       (506:2).
+      </p>
+      <h3>
+       <span class="mw-headline" id="Gigawatt">
+        Gigawatt
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Watt&amp;action=edit&amp;section=12" title="Edit section: Gigawatt">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       The
+       <b>
+        gigawatt (GW)
+       </b>
+       is equal to one billion (10
+       <sup>
+        9
+       </sup>
+       ) watts or 1 gigawatt = 1000 megawatts. This unit is often used for large power plants or power grids. For example, by the end of 2010 power shortages in China's Shanxi province were expected to increase to 5–6 GW
+       <sup class="reference" id="cite_ref-12">
+        <a href="#cite_note-12">
+         [10]
+        </a>
+       </sup>
+       and the installed capacity of wind power in Germany was 25.8 GW.
+       <sup class="reference" id="cite_ref-13">
+        <a href="#cite_note-13">
+         [11]
+        </a>
+       </sup>
+       The largest unit (out of four) of the Belgian
+       <a href="/wiki/Doel_Nuclear_Power_Station" title="Doel Nuclear Power Station">
+        Doel Nuclear Power Station
+       </a>
+       has a peak output of 1.04 GW.
+       <sup class="reference" id="cite_ref-14">
+        <a href="#cite_note-14">
+         [12]
+        </a>
+       </sup>
+       <a href="/wiki/HVDC_converter" title="HVDC converter">
+        HVDC converters
+       </a>
+       have been built with power ratings of up to 2 GW.
+       <sup class="reference" id="cite_ref-15">
+        <a href="#cite_note-15">
+         [13]
+        </a>
+       </sup>
+      </p>
+      <h3>
+       <span class="mw-headline" id="Terawatt">
+        Terawatt
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Watt&amp;action=edit&amp;section=13" title="Edit section: Terawatt">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       The
+       <b>
+        terawatt (TW)
+       </b>
+       is equal to one trillion (10
+       <sup>
+        12
+       </sup>
+       ) watts. The total power used by humans worldwide is commonly measured in terawatts (see
+       <a href="/wiki/World_energy_consumption#Primary_energy" title="World energy consumption">
+        primary energy
+       </a>
+       ). The most powerful
+       <a href="/wiki/Laser" title="Laser">
+        lasers
+       </a>
+       from the mid-1960s to the mid-1990s produced power in terawatts, but only for
+       <a href="/wiki/Nanosecond" title="Nanosecond">
+        nanosecond
+       </a>
+       time frames. The average
+       <a href="/wiki/Lightning" title="Lightning">
+        lightning
+       </a>
+       strike peaks at 1 terawatt, but these strikes only last for 30
+       <a href="/wiki/Microsecond" title="Microsecond">
+        microseconds
+       </a>
+       .
+      </p>
+      <h3>
+       <span class="mw-headline" id="Petawatt">
+        Petawatt
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Watt&amp;action=edit&amp;section=14" title="Edit section: Petawatt">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       The
+       <b>
+        petawatt (PW)
+       </b>
+       is equal to one quadrillion (10
+       <sup>
+        <span style="white-space:nowrap">
+         15
+        </span>
+       </sup>
+       ) watts and can be produced by the current generation of lasers for time scales on the order of picoseconds (10
+       <sup>
+        −
+        <span style="white-space:nowrap">
+         12
+        </span>
+       </sup>
+       s). One such laser is the Lawrence Livermore's
+       <a href="/wiki/Nova_(laser)" title="Nova (laser)">
+        Nova laser
+       </a>
+       , which achieved a power output of 1.25 PW (
+       <span class="nowrap">
+        <span class="sortkey" style="display:none">
+         7015125000000000000♠
+        </span>
+        1.25
+        <span style="margin-left:0.25em;margin-right:0.15em;">
+         ×
+        </span>
+        10
+        <sup>
+         15
+        </sup>
+       </span>
+       W) by a process called
+       <a href="/wiki/Chirped_pulse_amplification" title="Chirped pulse amplification">
+        chirped pulse amplification
+       </a>
+       . The duration of the pulse was roughly 0.5
+       <a href="/wiki/Picosecond" title="Picosecond">
+        ps
+       </a>
+       (
+       <span class="nowrap">
+        <span class="sortkey" style="display:none">
+         6987500000000000000♠
+        </span>
+        5
+        <span style="margin-left:0.25em;margin-right:0.15em;">
+         ×
+        </span>
+        10
+        <sup>
+         −13
+        </sup>
+       </span>
+       s), giving a total energy of 600 J.
+       <sup class="reference" id="cite_ref-16">
+        <a href="#cite_note-16">
+         [14]
+        </a>
+       </sup>
+       Another example is the Laser for Fast Ignition Experiments (LFEX) at the Institute of Laser Engineering (ILE),
+       <a href="/wiki/Osaka_University" title="Osaka University">
+        Osaka University
+       </a>
+       , which achieved a power output of 2 PW for a duration of approximately 1
+       <a href="/wiki/Picosecond" title="Picosecond">
+        ps
+       </a>
+       .
+       <sup class="reference" id="cite_ref-17">
+        <a href="#cite_note-17">
+         [15]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-18">
+        <a href="#cite_note-18">
+         [16]
+        </a>
+       </sup>
+      </p>
+      <p>
+       Based on the average
+       <a class="mw-redirect" href="/wiki/Total_solar_irradiance" title="Total solar irradiance">
+        total solar irradiance
+       </a>
+       <sup class="reference" id="cite_ref-TSI_19-0">
+        <a href="#cite_note-TSI-19">
+         [17]
+        </a>
+       </sup>
+       of 1.366 kW/m
+       <sup>
+        2
+       </sup>
+       , the total power of
+       <a href="/wiki/Sunlight" title="Sunlight">
+        sunlight
+       </a>
+       striking Earth's atmosphere is estimated at 174 PW (see:
+       <a href="/wiki/Solar_constant" title="Solar constant">
+        solar constant
+       </a>
+       ).
+      </p>
+      <h2>
+       <span class="mw-headline" id="Conventions_in_the_electric_power_industry">
+        <span id="MWe">
+        </span>
+        <span id="MWt">
+        </span>
+        <span id="Conventions_in_the_electric_power_industry">
+        </span>
+        Conventions in the electric power industry
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Watt&amp;action=edit&amp;section=15" title="Edit section: Conventions in the electric power industry">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       In the electric power industry,
+       <i>
+        megawatt electrical
+       </i>
+       (
+       <b>
+        MWe
+       </b>
+       <sup class="reference" id="cite_ref-20">
+        <a href="#cite_note-20">
+         [18]
+        </a>
+       </sup>
+       or MW
+       <sub>
+        e
+       </sub>
+       <sup class="reference" id="cite_ref-21">
+        <a href="#cite_note-21">
+         [19]
+        </a>
+       </sup>
+       ) refers by convention to the
+       <a href="/wiki/Electric_power" title="Electric power">
+        electric power
+       </a>
+       produced by a generator, while
+       <i>
+        megawatt thermal
+       </i>
+       or
+       <i>
+        thermal megawatt
+       </i>
+       <sup class="reference" id="cite_ref-22">
+        <a href="#cite_note-22">
+         [20]
+        </a>
+       </sup>
+       (
+       <b>
+        MWt
+       </b>
+       , MW
+       <sub>
+        t
+       </sub>
+       , or
+       <b>
+        MWth
+       </b>
+       , MW
+       <sub>
+        th
+       </sub>
+       ) refers to thermal power produced by the plant. For example, the
+       <a class="mw-redirect" href="/wiki/Embalse_nuclear_power_plant" title="Embalse nuclear power plant">
+        Embalse nuclear power plant
+       </a>
+       in Argentina uses a
+       <a class="mw-redirect" href="/wiki/Fission_reactor" title="Fission reactor">
+        fission reactor
+       </a>
+       to generate 2109 MW
+       <sub>
+        t
+       </sub>
+       (i.e. heat), which creates steam to drive a turbine, which generates 648 MW
+       <sub>
+        e
+       </sub>
+       (i.e. electricity). Other
+       <a class="mw-redirect" href="/wiki/SI_prefix" title="SI prefix">
+        SI prefixes
+       </a>
+       are sometimes used, for example
+       <i>
+        gigawatt electrical
+       </i>
+       (
+       <b>
+        GW
+        <sub>
+         e
+        </sub>
+       </b>
+       ). The
+       <a href="/wiki/International_Bureau_of_Weights_and_Measures" title="International Bureau of Weights and Measures">
+        International Bureau of Weights and Measures
+       </a>
+       , which maintains the SI-standard, states that further information about a quantity should not be attached to the unit symbol but instead to the quantity symbol (i.e.,
+       <i>
+        P
+       </i>
+       <sub>
+        thermal
+       </sub>
+       = 270 W rather than
+       <i>
+        P
+       </i>
+       = 270 W
+       <sub>
+        th
+       </sub>
+       ) and so these units are non-SI.
+       <sup class="reference" id="cite_ref-23">
+        <a href="#cite_note-23">
+         [21]
+        </a>
+       </sup>
+       In compliance with SI the energy company
+       <a class="mw-redirect" href="/wiki/DONG_Energy" title="DONG Energy">
+        DONG Energy
+       </a>
+       uses the unit megawatt for produced electrical power and the equivalent unit
+       <a class="mw-redirect" href="/wiki/Megajoule" title="Megajoule">
+        megajoule
+       </a>
+       /s for delivered heating power in a
+       <a class="mw-redirect" href="/wiki/Combined_heat_and_power" title="Combined heat and power">
+        combined heat and power
+       </a>
+       station such as
+       <a href="/wiki/Aved%C3%B8re_Power_Station" title="Avedøre Power Station">
+        Avedøre Power Station
+       </a>
+       .
+       <sup class="reference" id="cite_ref-24">
+        <a href="#cite_note-24">
+         [22]
+        </a>
+       </sup>
+      </p>
+      <p>
+       When describing
+       <a href="/wiki/Alternating_current" title="Alternating current">
+        alternating current
+       </a>
+       (AC) electricity, another distinction is made between the watt and the
+       <a href="/wiki/Volt-ampere" title="Volt-ampere">
+        volt-ampere
+       </a>
+       . While these units are equivalent for simple
+       <a href="/wiki/Resistor" title="Resistor">
+        resistive
+       </a>
+       <a href="/wiki/Electrical_network" title="Electrical network">
+        circuits
+       </a>
+       , they differ when loads exhibit
+       <a href="/wiki/Electrical_reactance" title="Electrical reactance">
+        electrical reactance
+       </a>
+       .
+      </p>
+      <h2>
+       <span class="mw-headline" id="Radio_transmission">
+        Radio transmission
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Watt&amp;action=edit&amp;section=16" title="Edit section: Radio transmission">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main article:
+       <a href="/wiki/Effective_radiated_power" title="Effective radiated power">
+        Effective radiated power
+       </a>
+      </div>
+      <p>
+       <a class="mw-redirect" href="/wiki/Radio_stations" title="Radio stations">
+        Radio stations
+       </a>
+       usually report the power of their transmitters in units of watts, referring to the
+       <a href="/wiki/Effective_radiated_power" title="Effective radiated power">
+        effective radiated power
+       </a>
+       . It refers to the relative power of the transmission when it is directed towards the horizon for maximum geographic coverage, rather than uniformly broadcast in all directions.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Distinction_between_watts_and_watt-hours">
+        Distinction between watts and watt-hours
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Watt&amp;action=edit&amp;section=17" title="Edit section: Distinction between watts and watt-hours">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       The terms
+       <a href="/wiki/Power_(physics)" title="Power (physics)">
+        power
+       </a>
+       and
+       <a href="/wiki/Energy" title="Energy">
+        energy
+       </a>
+       are frequently confused. Power is the rate at which energy is generated or consumed and hence is measured in units (e.g. watts) that represent energy
+       <i>
+        per unit time
+       </i>
+       .
+      </p>
+      <p>
+       For example, when a light bulb with a power rating of
+       <span style="white-space:nowrap">
+        100
+        <span style="margin-left:0.25em">
+         W
+        </span>
+       </span>
+       is turned on for one hour, the energy used is 100
+       <a class="mw-redirect" href="/wiki/Watt_hour" title="Watt hour">
+        watt hours
+       </a>
+       (W·h), 0.1 kilowatt hour, or 360
+       <a href="/wiki/Joule#Kilojoule" title="Joule">
+        kJ
+       </a>
+       . This same amount of energy would light a 40-watt bulb for 2.5 hours, or a 50-watt bulb for 2 hours.
+      </p>
+      <p>
+       Power stations are rated using units of power, typically megawatts or gigawatts (for example, the
+       <a href="/wiki/Three_Gorges_Dam" title="Three Gorges Dam">
+        Three Gorges Dam
+       </a>
+       is rated at approximately 22 gigawatts). This reflects the maximum power output it can achieve at any point in time. A power station's annual energy output, however, would be recorded using units of energy (not power), typically gigawatt hours. Major energy production or consumption is often expressed as
+       <a class="mw-redirect" href="/wiki/Terawatt_hour" title="Terawatt hour">
+        terawatt hours
+       </a>
+       for a given period; often a calendar year or financial year. One terawatt hour of energy is equal to a sustained power delivery of one terawatt for one hour, or approximately 114 megawatts for a period of one year.
+      </p>
+      <p>
+       The
+       <a href="/wiki/Watt_second" title="Watt second">
+        watt second
+       </a>
+       is a unit of energy, equal to the
+       <a href="/wiki/Joule" title="Joule">
+        joule
+       </a>
+       . One kilowatt hour is 3,600,000 watt seconds. The watt second is used, for example, to rate the energy storage of
+       <a href="/wiki/Flash_(photography)" title="Flash (photography)">
+        flash lamps
+       </a>
+       used in photography, although the term
+       <i>
+        joule
+       </i>
+       is generally employed.
+       <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+        [
+        <i>
+         <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+          <span title="This claim needs references to reliable sources. (June 2017)">
+           citation needed
+          </span>
+         </a>
+        </i>
+        ]
+       </sup>
+      </p>
+      <p>
+       While a watt per hour exists in principle (as a unit of rate of change of power with time
+       <sup class="reference" id="cite_ref-25">
+        <a href="#cite_note-25">
+         [iii]
+        </a>
+       </sup>
+       ), it is not correct to refer to a watt (or watt hour) as a "watt per hour".
+       <sup class="reference" id="cite_ref-26">
+        <a href="#cite_note-26">
+         [23]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Watt&amp;action=edit&amp;section=18" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a href="/wiki/Power_factor" title="Power factor">
+         Power factor
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Volt-ampere" title="Volt-ampere">
+         Volt-ampere
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Watt_balance" title="Watt balance">
+         Watt balance
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Watt-peak" title="Watt-peak">
+         Watt-peak
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Wattmeter" title="Wattmeter">
+         Wattmeter
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="Notes">
+        Notes
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Watt&amp;action=edit&amp;section=19" title="Edit section: Notes">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist" style="list-style-type: lower-roman;">
+       <div class="mw-references-wrap">
+        <ol class="references">
+         <li id="cite_note-2">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-2">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           The energy in climbing the stairs is given by
+           <i>
+            mgh
+           </i>
+           . Setting
+           <i>
+            m
+           </i>
+           = 100 kg,
+           <i>
+            g
+           </i>
+           = 9.8 m/s
+           <sup>
+            2
+           </sup>
+           and
+           <i>
+            h
+           </i>
+           = 3 m gives 2940 J. Dividing this by the time taken (5 s) gives a power of 588 W.
+          </span>
+         </li>
+         <li id="cite_note-9">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-9">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Average household electric power consumption is 1.19 kW in the US, 0.53 kW in the UK. In India it is 0.13 kW (urban) and 0.03 kW (rural) – computed from GJ figures quoted by Nakagami, Murakoshi and Iwafune.
+           <sup class="reference" id="cite_ref-8">
+            <a href="#cite_note-8">
+             [7]
+            </a>
+           </sup>
+          </span>
+         </li>
+         <li id="cite_note-25">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-25">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Watts per hour would properly refer to a
+           <i>
+            rate of change
+           </i>
+           of power being used (or generated). Watts per hour might be useful to characterize the ramp-up behavior of
+           <a class="mw-redirect" href="/wiki/Power_plant" title="Power plant">
+            power plants
+           </a>
+           , or slow-reacting plant where their power could only change slowly. For example, a power plant that changes its power output from 1 MW to 2 MW in 15 minutes would have a ramp-up rate of 4 MW/h.
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Watt&amp;action=edit&amp;section=20" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist" style="list-style-type: decimal;">
+       <div class="mw-references-wrap mw-references-columns">
+        <ol class="references">
+         <li id="cite_note-1">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-1">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation" id="CITEREFInternational_Bureau_of_Weights_and_Measures2006">
+            <a href="/wiki/International_Bureau_of_Weights_and_Measures" title="International Bureau of Weights and Measures">
+             International Bureau of Weights and Measures
+            </a>
+            (2006),
+            <a class="external text" href="http://www.bipm.org/utils/common/pdf/si_brochure_8_en.pdf" rel="nofollow">
+             <i>
+              The International System of Units (SI)
+             </i>
+            </a>
+            <span style="font-size:85%;">
+             (PDF)
+            </span>
+            (8th ed.), pp. 118, 144,
+            <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+             ISBN
+            </a>
+            <a href="/wiki/Special:BookSources/92-822-2213-6" title="Special:BookSources/92-822-2213-6">
+             92-822-2213-6
+            </a>
+            ,
+            <a class="external text" href="https://web.archive.org/web/20170814094625/http://www.bipm.org/utils/common/pdf/si_brochure_8_en.pdf" rel="nofollow">
+             archived
+            </a>
+            <span style="font-size:85%;">
+             (PDF)
+            </span>
+            from the original on 2017-08-14
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+International+System+of+Units+%28SI%29&amp;rft.pages=118%2C+144&amp;rft.edition=8th&amp;rft.date=2006&amp;rft.isbn=92-822-2213-6&amp;rft.au=International+Bureau+of+Weights+and+Measures&amp;rft_id=http%3A%2F%2Fwww.bipm.org%2Futils%2Fcommon%2Fpdf%2Fsi_brochure_8_en.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWatt">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-3">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-3">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation" id="CITEREFAvalloneet._al2007">
+            Avallone, Eugene A; et. al, eds. (2007),
+            <i>
+             Marks' Standard Handbook for Mechanical Engineers
+            </i>
+            (11th ed.), New York: Mc-Graw Hill, pp. 9–4,
+            <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+             ISBN
+            </a>
+            <a href="/wiki/Special:BookSources/0-07-142867-4" title="Special:BookSources/0-07-142867-4">
+             0-07-142867-4
+            </a>
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Marks%27+Standard+Handbook+for+Mechanical+Engineers&amp;rft.place=New+York&amp;rft.pages=9-4&amp;rft.edition=11th&amp;rft.pub=Mc-Graw+Hill&amp;rft.date=2007&amp;rft.isbn=0-07-142867-4&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWatt">
+            <span style="display:none;">
+            </span>
+           </span>
+           .
+          </span>
+         </li>
+         <li id="cite_note-4">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-4">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Ainslie, M. A. (2015). A century of sonar: Planetary oceanography, underwater noise monitoring, and the terminology of underwater sound. Acoustics Today.
+          </span>
+         </li>
+         <li id="cite_note-5">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-5">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Morfey, C.L. (2001). Dictionary of Acoustics.
+          </span>
+         </li>
+         <li id="cite_note-6">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-6">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation">
+            <a class="external text" href="https://www.nytimes.com/2010/07/18/business/18novel.html" rel="nofollow">
+             "Bye-Bye Batteries: Radio Waves as a Low-Power Source"
+            </a>
+            ,
+            <i>
+             The New York Times
+            </i>
+            , Jul 18, 2010,
+            <a class="external text" href="https://web.archive.org/web/20170321231716/http://www.nytimes.com/2010/07/18/business/18novel.html" rel="nofollow">
+             archived
+            </a>
+            from the original on 2017-03-21
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+New+York+Times&amp;rft.atitle=Bye-Bye+Batteries%3A+Radio+Waves+as+a+Low-Power+Source&amp;rft.date=2010-07-18&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2010%2F07%2F18%2Fbusiness%2F18novel.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWatt">
+            <span style="display:none;">
+            </span>
+           </span>
+           .
+          </span>
+         </li>
+         <li id="cite_note-7">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-7">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            Stetzler, Trudy; Magotra, Neeraj; Gelabert, Pedro; Kasthuri, Preethi; Bangalore, Sridevi.
+            <a class="external text" href="http://www.datasheetarchive.com/datasheet-pdf/019/DSA00333218.html" rel="nofollow">
+             "Low-Power Real-Time Programmable DSP Development Platform for Digital Hearing Aids"
+            </a>
+            . Datasheet Archive.
+            <a class="external text" href="https://web.archive.org/web/20110303094710/http://www.datasheetarchive.com/datasheet-pdf/019/DSA00333218.html" rel="nofollow">
+             Archived
+            </a>
+            from the original on 3 March 2011
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              8 February
+             </span>
+             2010
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Low-Power+Real-Time+Programmable+DSP+Development+Platform+for+Digital+Hearing+Aids&amp;rft.pub=Datasheet+Archive&amp;rft.aulast=Stetzler&amp;rft.aufirst=Trudy&amp;rft.au=Magotra%2C+Neeraj&amp;rft.au=Gelabert%2C+Pedro&amp;rft.au=Kasthuri%2C+Preethi&amp;rft.au=Bangalore%2C+Sridevi&amp;rft_id=http%3A%2F%2Fwww.datasheetarchive.com%2Fdatasheet-pdf%2F019%2FDSA00333218.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWatt">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-8">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-8">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation conference">
+            Nakagami, Hidetoshi; Murakoshi, Chiharu; Iwafune, Yumiko (2008).
+            <a class="external text" href="http://www.aceee.org/files/proceedings/2008/data/papers/8_24.pdf" rel="nofollow">
+             <i>
+              International Comparison of Household Energy Consumption and Its Indicator
+             </i>
+            </a>
+            <span style="font-size:85%;">
+             (PDF)
+            </span>
+            .
+            <a class="external text" href="http://aceee.org/conferences/2008/ssb" rel="nofollow">
+             ACEEE Summer Study on Energy Efficiency in Buildings
+            </a>
+            .
+            <a href="/wiki/Pacific_Grove,_California" title="Pacific Grove, California">
+             Pacific Grove, California
+            </a>
+            : American Council for an Energy-Efficient Economy. Figure 3. Energy Consumption per Household by Fuel Type. 8:214–8:224.
+            <a class="external text" href="https://web.archive.org/web/20150109012214/http://www.aceee.org/files/proceedings/2008/data/papers/8_24.pdf" rel="nofollow">
+             Archived
+            </a>
+            <span style="font-size:85%;">
+             (PDF)
+            </span>
+            from the original on 9 January 2015
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              14 February
+             </span>
+             2013
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=conference&amp;rft.btitle=International+Comparison+of+Household+Energy+Consumption+and+Its+Indicator&amp;rft.place=Pacific+Grove%2C+California&amp;rft.pages=Figure+3.+Energy+Consumption+per+Household+by+Fuel+Type.+8%3A214-8%3A224&amp;rft.pub=American+Council+for+an+Energy-Efficient+Economy&amp;rft.date=2008&amp;rft.aulast=Nakagami&amp;rft.aufirst=Hidetoshi&amp;rft.au=Murakoshi%2C+Chiharu&amp;rft.au=Iwafune%2C+Yumiko&amp;rft_id=http%3A%2F%2Fwww.aceee.org%2Ffiles%2Fproceedings%2F2008%2Fdata%2Fpapers%2F8_24.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWatt">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-10">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-10">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Elena Papadopoulou,
+           <i>
+            Photovoltaic Industrial Systems: An Environmental Approach
+           </i>
+           Springer 2011
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/3642163017" title="Special:BookSources/3642163017">
+            3642163017
+           </a>
+           , p.153
+          </span>
+         </li>
+         <li id="cite_note-11">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-11">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1350/v19/sr1350v19.pdf" rel="nofollow">
+             "2007–2008 Information Digest, Appendix A"
+            </a>
+            <span style="font-size:85%;">
+             (
+             <a class="mw-redirect" href="/wiki/Portable_document_format" title="Portable document format">
+              PDF
+             </a>
+             )
+            </span>
+            .
+            <a href="/wiki/Nuclear_Regulatory_Commission" title="Nuclear Regulatory Commission">
+             Nuclear Regulatory Commission
+            </a>
+            . 2007.
+            <a class="external text" href="https://web.archive.org/web/20080216073347/http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1350/v19/sr1350v19.pdf" rel="nofollow">
+             Archived
+            </a>
+            <span style="font-size:85%;">
+             (PDF)
+            </span>
+            from the original on 16 February 2008
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              27 January
+             </span>
+             2008
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2007%E2%80%932008+Information+Digest%2C+Appendix+A&amp;rft.pub=Nuclear+Regulatory+Commission&amp;rft.date=2007&amp;rft_id=https%3A%2F%2Fwww.nrc.gov%2Freading-rm%2Fdoc-collections%2Fnuregs%2Fstaff%2Fsr1350%2Fv19%2Fsr1350v19.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWatt">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-12">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-12">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            Bai, Jim; Chen, Aizhu (11 November 2010). Lewis, Chris, ed.
+            <a class="external text" href="http://in.reuters.com/article/idINTOE6AA0AD20101111" rel="nofollow">
+             "China's Shanxi to face 5–6 GW power shortage by yr-end – paper"
+            </a>
+            . Peking: Reuters.
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=China%27s+Shanxi+to+face+5%E2%80%936+GW+power+shortage+by+yr-end+%E2%80%93+paper&amp;rft.place=Peking&amp;rft.pub=Reuters&amp;rft.date=2010-11-11&amp;rft.aulast=Bai&amp;rft.aufirst=Jim&amp;rft.au=Chen%2C+Aizhu&amp;rft_id=http%3A%2F%2Fin.reuters.com%2Farticle%2FidINTOE6AA0AD20101111&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWatt">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-13">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-13">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.economist.com/node/16846774" rel="nofollow">
+             "Not on my beach, please"
+            </a>
+            .
+            <i>
+             The Economist
+            </i>
+            . 19 August 2010.
+            <a class="external text" href="https://web.archive.org/web/20100824080835/http://www.economist.com/node/16846774" rel="nofollow">
+             Archived
+            </a>
+            from the original on 24 August 2010.
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Economist&amp;rft.atitle=Not+on+my+beach%2C+please&amp;rft.date=2010-08-19&amp;rft_id=http%3A%2F%2Fwww.economist.com%2Fnode%2F16846774&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWatt">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-14">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-14">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://web.archive.org/web/20110710180653/http://www.electrabel.com/whoarewe/nuclear/keyfigures_doel.aspx" rel="nofollow">
+             "Chiffres clés"
+            </a>
+            [Key numbers].
+            <i>
+             Electrabel
+            </i>
+            . Who are we: Nuclear (in French). 2011. Archived from
+            <a class="external text" href="http://www.electrabel.com/whoarewe/nuclear/keyfigures_doel.aspx" rel="nofollow">
+             the original
+            </a>
+            on 2011-07-10.
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Electrabel&amp;rft.atitle=Chiffres+cl%C3%A9s&amp;rft.date=2011&amp;rft_id=http%3A%2F%2Fwww.electrabel.com%2Fwhoarewe%2Fnuclear%2Fkeyfigures_doel.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWatt">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-15">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-15">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation" id="CITEREFDavidsonPreedyCaoZhou2010">
+            Davidson, CC; Preedy, RM; Cao, J; Zhou, C; Fu, J (October 2010), "Ultra-High-Power Thyristor Valves for HVDC in Developing Countries",
+            <i>
+             9th International Conference on AC/DC Power Transmission
+            </i>
+            , London:
+            <a href="/wiki/Institution_of_Engineering_and_Technology" title="Institution of Engineering and Technology">
+             IET
+            </a>
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Ultra-High-Power+Thyristor+Valves+for+HVDC+in+Developing+Countries&amp;rft.btitle=9th+International+Conference+on+AC%2FDC+Power+Transmission&amp;rft.place=London&amp;rft.pub=IET&amp;rft.date=2010-10&amp;rft.aulast=Davidson&amp;rft.aufirst=CC&amp;rft.au=Preedy%2C+RM&amp;rft.au=Cao%2C+J&amp;rft.au=Zhou%2C+C&amp;rft.au=Fu%2C+J&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWatt">
+            <span style="display:none;">
+            </span>
+           </span>
+           .
+          </span>
+         </li>
+         <li id="cite_note-16">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-16">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://www.llnl.gov/str/Petawatt.html" rel="nofollow">
+             "Crossing the Petawatt threshold"
+            </a>
+            .
+            <a href="/wiki/Livermore,_California" title="Livermore, California">
+             Livermore
+            </a>
+            ,
+            <a href="/wiki/California" title="California">
+             CA
+            </a>
+            : Lawrence Livermore National Laboratory.
+            <a class="external text" href="https://web.archive.org/web/20120915212555/https://www.llnl.gov/str/Petawatt.html" rel="nofollow">
+             Archived
+            </a>
+            from the original on 15 September 2012
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              19 June
+             </span>
+             2012
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Crossing+the+Petawatt+threshold&amp;rft.place=Livermore%2C+CA&amp;rft.pub=Lawrence+Livermore+National+Laboratory&amp;rft_id=https%3A%2F%2Fwww.llnl.gov%2Fstr%2FPetawatt.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWatt">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-17">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-17">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation">
+            <a class="external text" href="http://www.iflscience.com/technology/world-s-most-powerful-laser-2000-trillion-watts-what-s-it" rel="nofollow">
+             <i>
+              World’s most powerful laser: 2 000 trillion watts. What’s it?
+             </i>
+            </a>
+            , IFL Science,
+            <a class="external text" href="https://web.archive.org/web/20150822093000/http://www.iflscience.com/technology/world-s-most-powerful-laser-2000-trillion-watts-what-s-it" rel="nofollow">
+             archived
+            </a>
+            from the original on 2015-08-22
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=World%E2%80%99s+most+powerful+laser%3A+2+000+trillion+watts.++What%E2%80%99s+it%3F&amp;rft.pub=IFL+Science&amp;rft_id=http%3A%2F%2Fwww.iflscience.com%2Ftechnology%2Fworld-s-most-powerful-laser-2000-trillion-watts-what-s-it&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWatt">
+            <span style="display:none;">
+            </span>
+           </span>
+           .
+          </span>
+         </li>
+         <li id="cite_note-18">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-18">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation">
+            <a class="external text" href="http://www.eurekalert.org/pub_releases/2015-08/ou-wpl080615.php" rel="nofollow">
+             <i>
+              Eureka alert
+             </i>
+            </a>
+            (publicity release), Aug 2015,
+            <a class="external text" href="https://web.archive.org/web/20150808055653/http://www.eurekalert.org/pub_releases/2015-08/ou-wpl080615.php" rel="nofollow">
+             archived
+            </a>
+            from the original on 2015-08-08
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Eureka+alert&amp;rft.date=2015-08&amp;rft_id=http%3A%2F%2Fwww.eurekalert.org%2Fpub_releases%2F2015-08%2Fou-wpl080615.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWatt">
+            <span style="display:none;">
+            </span>
+           </span>
+           .
+          </span>
+         </li>
+         <li id="cite_note-TSI-19">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-TSI_19-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.pmodwrc.ch/pmod.php?topic=tsi/composite/SolarConstant" rel="nofollow">
+             "Construction of a Composite Total Solar Irradiance (TSI) Time Series from 1978 to present"
+            </a>
+            .
+            <a href="/wiki/Switzerland" title="Switzerland">
+             CH
+            </a>
+            : PMODWRC.
+            <a class="external text" href="https://www.webcitation.org/618JfjgmL?url=http://www.pmodwrc.ch/pmod.php?topic=tsi%2Fcomposite%2FSolarConstant" rel="nofollow">
+             Archived
+            </a>
+            from the original on 2011-08-22
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              2005-10-05
+             </span>
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Construction+of+a+Composite+Total+Solar+Irradiance+%28TSI%29+Time+Series+from+1978+to+present&amp;rft.place=CH&amp;rft.pub=PMODWRC&amp;rft_id=http%3A%2F%2Fwww.pmodwrc.ch%2Fpmod.php%3Ftopic%3Dtsi%2Fcomposite%2FSolarConstant&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWatt">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-20">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-20">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            Rowlett, Russ.
+            <a class="external text" href="http://www.unc.edu/~rowlett/units/dictM.html" rel="nofollow">
+             "How Many? A Dictionary of Units of Measurement. M"
+            </a>
+            .
+            <a href="/wiki/University_of_North_Carolina_at_Chapel_Hill" title="University of North Carolina at Chapel Hill">
+             University of North Carolina at Chapel Hill
+            </a>
+            .
+            <a class="external text" href="https://www.webcitation.org/6187JnbhD?url=http://www.unc.edu/~rowlett/units/dictM.html" rel="nofollow">
+             Archived
+            </a>
+            from the original on 2011-08-22
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              2017-03-04
+             </span>
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=How+Many%3F+A+Dictionary+of+Units+of+Measurement.+M&amp;rft.pub=University+of+North+Carolina+at+Chapel+Hill&amp;rft.aulast=Rowlett&amp;rft.aufirst=Russ&amp;rft_id=http%3A%2F%2Fwww.unc.edu%2F~rowlett%2Funits%2FdictM.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWatt">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-21">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-21">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            Cleveland, CJ (2007).
+            <a class="external text" href="http://editors.eol.org/eoearth/wiki/Watt_(Energy)" rel="nofollow">
+             "Watt"
+            </a>
+            .
+            <i>
+             <a href="/wiki/Encyclopedia_of_Earth" title="Encyclopedia of Earth">
+              Encyclopedia of Earth
+             </a>
+            </i>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Encyclopedia+of+Earth&amp;rft.atitle=Watt&amp;rft.date=2007&amp;rft.aulast=Cleveland&amp;rft.aufirst=CJ&amp;rft_id=http%3A%2F%2Feditors.eol.org%2Feoearth%2Fwiki%2FWatt_%28Energy%29&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWatt">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-22">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-22">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://apps1.eere.energy.gov/news/news_detail.cfm/news_id=12362" rel="nofollow">
+             "Solar Energy Grew at a Record Pace in 2008 (excerpt from EERE Network News"
+            </a>
+            .
+            <a class="mw-redirect" href="/wiki/United_States_of_America" title="United States of America">
+             US
+            </a>
+            : Department of Energy). 25 March 2009.
+            <a class="external text" href="https://web.archive.org/web/20111018094231/http://apps1.eere.energy.gov/news/news_detail.cfm/news_id=12362" rel="nofollow">
+             Archived
+            </a>
+            from the original on 18 October 2011.
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Solar+Energy+Grew+at+a+Record+Pace+in+2008+%28excerpt+from+EERE+Network+News&amp;rft.place=US&amp;rft.pub=Department+of+Energy%29&amp;rft.date=2009-03-25&amp;rft_id=http%3A%2F%2Fapps1.eere.energy.gov%2Fnews%2Fnews_detail.cfm%2Fnews_id%3D12362&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWatt">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-23">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-23">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation" id="CITEREFInternational_Bureau_of_Weights_and_Measures2006">
+            <a href="/wiki/International_Bureau_of_Weights_and_Measures" title="International Bureau of Weights and Measures">
+             International Bureau of Weights and Measures
+            </a>
+            (2006),
+            <a class="external text" href="http://www.bipm.org/utils/common/pdf/si_brochure_8_en.pdf" rel="nofollow">
+             <i>
+              The International System of Units (SI)
+             </i>
+            </a>
+            <span style="font-size:85%;">
+             (PDF)
+            </span>
+            (8th ed.), p. 132,
+            <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+             ISBN
+            </a>
+            <a href="/wiki/Special:BookSources/92-822-2213-6" title="Special:BookSources/92-822-2213-6">
+             92-822-2213-6
+            </a>
+            ,
+            <a class="external text" href="https://web.archive.org/web/20170814094625/http://www.bipm.org/utils/common/pdf/si_brochure_8_en.pdf" rel="nofollow">
+             archived
+            </a>
+            <span style="font-size:85%;">
+             (PDF)
+            </span>
+            from the original on 2017-08-14
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+International+System+of+Units+%28SI%29&amp;rft.pages=132&amp;rft.edition=8th&amp;rft.date=2006&amp;rft.isbn=92-822-2213-6&amp;rft.au=International+Bureau+of+Weights+and+Measures&amp;rft_id=http%3A%2F%2Fwww.bipm.org%2Futils%2Fcommon%2Fpdf%2Fsi_brochure_8_en.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWatt">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-24">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-24">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://web.archive.org/web/20140317181930/http://www.dongenergy.com/en/business%20activities/generation/activities/central_power_stations/pages/avedoere_power_station.aspx" rel="nofollow">
+             "Avedøre Power Station (
+             <i>
+              Avedøre værket
+             </i>
+             )"
+            </a>
+            .
+            <a class="mw-redirect" href="/wiki/DONG_Energy" title="DONG Energy">
+             DONG Energy
+            </a>
+            . Archived from
+            <a class="external text" href="http://www.dongenergy.com/en/business%20activities/generation/activities/central_power_stations/pages/avedoere_power_station.aspx" rel="nofollow">
+             the original
+            </a>
+            on 2014-03-17
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              2014-03-17
+             </span>
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Aved%C3%B8re+Power+Station+%28Aved%C3%B8re+v%C3%A6rket%29&amp;rft.pub=DONG+Energy&amp;rft_id=http%3A%2F%2Fwww.dongenergy.com%2Fen%2Fbusiness%2520activities%2Fgeneration%2Factivities%2Fcentral_power_stations%2Fpages%2Favedoere_power_station.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWatt">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-26">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-26">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.windsun.com/Inverters/Inverter_selection.htm" rel="nofollow">
+             "Inverter Selection"
+            </a>
+            . Northern Arizona Wind and Sun.
+            <a class="external text" href="https://web.archive.org/web/20090501140617/http://www.windsun.com/Inverters/Inverter_selection.htm" rel="nofollow">
+             Archived
+            </a>
+            from the original on 1 May 2009
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              27 March
+             </span>
+             2009
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Inverter+Selection&amp;rft.pub=Northern+Arizona+Wind+and+Sun&amp;rft_id=http%3A%2F%2Fwww.windsun.com%2FInverters%2FInverter_selection.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWatt">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Watt&amp;action=edit&amp;section=21" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+       <tr>
+        <td class="mbox-image">
+         <img alt="" class="noviewer" data-file-height="391" data-file-width="391" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" width="40"/>
+        </td>
+        <td class="mbox-text plainlist">
+         Look up
+         <i>
+          <b>
+           <a class="extiw" href="https://en.wiktionary.org/wiki/Special:Search/watt" title="wiktionary:Special:Search/watt">
+            watt
+           </a>
+          </b>
+         </i>
+         in Wiktionary, the free dictionary.
+        </td>
+       </tr>
+      </table>
+      <ul>
+       <li>
+        <cite class="citation" id="CITEREFBorvon">
+         Borvon, Gérard,
+         <a class="external text" href="http://seaus.free.fr/spip.php?article964" rel="nofollow">
+          <i>
+           History of the electrical units
+          </i>
+         </a>
+         ,
+         <a href="/wiki/France" title="France">
+          FR
+         </a>
+         : Free
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=History+of+the+electrical+units&amp;rft.place=FR&amp;rft.pub=Free&amp;rft.aulast=Borvon&amp;rft.aufirst=G%C3%A9rard&amp;rft_id=http%3A%2F%2Fseaus.free.fr%2Fspip.php%3Farticle964&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWatt">
+         <span style="display:none;">
+         </span>
+        </span>
+        .
+       </li>
+       <li>
+        <cite class="citation" id="CITEREFNelson2000">
+         Nelson, Robert A (February 2000),
+         <a class="external text" href="http://www.aticourses.com/international_system_units.htm" rel="nofollow">
+          <i>
+           The International System of Units: Its History and Use in Science and Industry
+          </i>
+         </a>
+         , Via Satellite, ATI courses
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+International+System+of+Units%3A+Its+History+and+Use+in+Science+and+Industry&amp;rft.series=Via+Satellite&amp;rft.pub=ATI+courses&amp;rft.date=2000-02&amp;rft.aulast=Nelson&amp;rft.aufirst=Robert+A&amp;rft_id=http%3A%2F%2Fwww.aticourses.com%2Finternational_system_units.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWatt">
+         <span style="display:none;">
+         </span>
+        </span>
+        .
+       </li>
+      </ul>
+      <div aria-labelledby="SI_units" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="3" scope="col">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:SI_units" title="Template:SI units">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a href="/wiki/Template_talk:SI_units" title="Template talk:SI units">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:SI_units&amp;action=edit">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="SI_units" style="font-size:114%;margin:0 4em">
+           <a href="/wiki/International_System_of_Units" title="International System of Units">
+            SI units
+           </a>
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <td class="navbox-abovebelow" colspan="3">
+          <div>
+           Authority:
+           <a href="/wiki/International_System_of_Units" title="International System of Units">
+            International System of Units
+           </a>
+           <span style="font-weight:normal;">
+            (BIPM)
+           </span>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%;text-align:center;">
+          <a href="/wiki/SI_base_unit" title="SI base unit">
+           Base units
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Ampere" title="Ampere">
+              ampere
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Candela" title="Candela">
+              candela
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Kelvin" title="Kelvin">
+              kelvin
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Kilogram" title="Kilogram">
+              kilogram
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Metre" title="Metre">
+              metre
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Mole_(unit)" title="Mole (unit)">
+              mole
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Second" title="Second">
+              second
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+         <td class="navbox-image" rowspan="4" style="width:1px;padding:0px 0px 0px 2px">
+          <div>
+           <a class="image" href="/wiki/File:SI_base_units.svg" title="SI base unit">
+            <img alt="SI base unit" data-file-height="600" data-file-width="600" height="125" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/SI_base_units.svg/125px-SI_base_units.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/SI_base_units.svg/188px-SI_base_units.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/38/SI_base_units.svg/250px-SI_base_units.svg.png 2x" width="125"/>
+           </a>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%;text-align:center;">
+          <a href="/wiki/SI_derived_unit" title="SI derived unit">
+           Derived units
+           <br/>
+           with special names
+          </a>
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Becquerel" title="Becquerel">
+              becquerel
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Coulomb" title="Coulomb">
+              coulomb
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Celsius" title="Celsius">
+              degree Celsius
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Farad" title="Farad">
+              farad
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Gray_(unit)" title="Gray (unit)">
+              gray
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Henry_(unit)" title="Henry (unit)">
+              henry
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Hertz" title="Hertz">
+              hertz
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Joule" title="Joule">
+              joule
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Katal" title="Katal">
+              katal
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Lumen_(unit)" title="Lumen (unit)">
+              lumen
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Lux" title="Lux">
+              lux
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Newton_(unit)" title="Newton (unit)">
+              newton
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Ohm" title="Ohm">
+              ohm
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Pascal_(unit)" title="Pascal (unit)">
+              pascal
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Radian" title="Radian">
+              radian
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Siemens_(unit)" title="Siemens (unit)">
+              siemens
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Sievert" title="Sievert">
+              sievert
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Steradian" title="Steradian">
+              steradian
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tesla_(unit)" title="Tesla (unit)">
+              tesla
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Volt" title="Volt">
+              volt
+             </a>
+            </li>
+            <li>
+             <a class="mw-selflink selflink">
+              watt
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Weber_(unit)" title="Weber (unit)">
+              weber
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%;text-align:center;">
+          <a href="/wiki/Non-SI_units_mentioned_in_the_SI" title="Non-SI units mentioned in the SI">
+           Other accepted units
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Astronomical_unit" title="Astronomical unit">
+              astronomical unit
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Bar_(unit)" title="Bar (unit)">
+              bar
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Atomic_mass_unit" title="Atomic mass unit">
+              dalton
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Day" title="Day">
+              day
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Decibel" title="Decibel">
+              decibel
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Degree_(angle)" title="Degree (angle)">
+              degree of arc
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Electronvolt" title="Electronvolt">
+              electronvolt
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Hectare" title="Hectare">
+              hectare
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Hour" title="Hour">
+              hour
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Litre" title="Litre">
+              litre
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Minute" title="Minute">
+              minute
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Minute_and_second_of_arc" title="Minute and second of arc">
+              minute of arc
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Neper" title="Neper">
+              neper
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Minute_and_second_of_arc" title="Minute and second of arc">
+              second of arc
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tonne" title="Tonne">
+              tonne
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Atomic_units" title="Atomic units">
+              atomic units
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Natural_units" title="Natural units">
+              natural units
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%;text-align:center;">
+          See also
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Conversion_of_units" title="Conversion of units">
+              Conversion of units
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Metric_prefix" title="Metric prefix">
+              Metric prefixes
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Proposed_redefinition_of_SI_base_units" title="Proposed redefinition of SI base units">
+              Proposed redefinitions
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/System_of_measurement" title="System of measurement">
+              Systems of measurement
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <td class="navbox-abovebelow" colspan="3">
+          <div>
+           <ul>
+            <li>
+             <b>
+              <img alt="Wikipedia book" data-file-height="185" data-file-width="180" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" title="Wikipedia book" width="16"/>
+              <a href="/wiki/Book:International_System_of_Units" title="Book:International System of Units">
+               Book
+              </a>
+             </b>
+            </li>
+            <li>
+             <b>
+              <img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/>
+              <a href="/wiki/Category:SI_units" title="Category:SI units">
+               Category
+              </a>
+             </b>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <div aria-label="Portals" class="noprint metadata navbox" role="navigation" style="font-weight:bold;padding:0.4em 2em">
+       <ul style="margin:0.1em 0 0">
+        <li style="display:inline">
+         <span style="display:inline-block;white-space:nowrap">
+          <span style="margin:0 0.5em">
+           <a class="image" href="/wiki/File:Crystal_energy.svg">
+            <img alt="Crystal energy.svg" data-file-height="124" data-file-width="130" height="21" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/22px-Crystal_energy.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/34px-Crystal_energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/44px-Crystal_energy.svg.png 2x" width="22"/>
+           </a>
+          </span>
+          <a href="/wiki/Portal:Energy" title="Portal:Energy">
+           Energy portal
+          </a>
+         </span>
+        </li>
+       </ul>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1240
+Cached time: 20180312125006
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.488 seconds
+Real time usage: 0.665 seconds
+Preprocessor visited node count: 3172/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 78474/2097152 bytes
+Template argument size: 4422/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 26987/5000000 bytes
+Lua time usage: 0.247/10.000 seconds
+Lua memory usage: 7.69 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  549.231      1 -total
+ 41.55%  228.208      2 Template:Reflist
+ 15.18%   83.346      9 Template:Citation
+ 14.43%   79.256      1 Template:Infobox_Unit
+ 13.99%   76.830     12 Template:Cite_web
+ 12.86%   70.605      1 Template:Infobox
+  8.74%   47.976      2 Template:SIBrochure8th
+  7.37%   40.504      1 Template:Refimprove
+  6.63%   36.433      3 Template:Val
+  6.14%   33.713      1 Template:Ambox
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:21347693-0!canonical!math=5 and timestamp 20180312125005 and revision id 829259801
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Watt&amp;oldid=829259801#Gigawatt">
+      https://en.wikipedia.org/w/index.php?title=Watt&amp;oldid=829259801#Gigawatt
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:SI_derived_units" title="Category:SI derived units">
+         SI derived units
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Units_of_power" title="Category:Units of power">
+         Units of power
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:James_Watt" title="Category:James Watt">
+         James Watt
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:CS1_French-language_sources_(fr)" title="Category:CS1 French-language sources (fr)">
+         CS1 French-language sources (fr)
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_needing_additional_references_from_May_2017" title="Category:Articles needing additional references from May 2017">
+         Articles needing additional references from May 2017
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">
+         All articles needing additional references
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">
+         All articles with unsourced statements
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_unsourced_statements_from_June_2017" title="Category:Articles with unsourced statements from June 2017">
+         Articles with unsourced statements from June 2017
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Watt" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Watt" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Watt" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Watt" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Watt">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Watt&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Watt&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Watt" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Watt" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Watt&amp;oldid=829259801" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Watt&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q25236" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Watt&amp;id=829259801" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Watt">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Watt&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Watt&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%88%D8%A7%D8%B7" hreflang="ar" lang="ar" title="واط – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-an">
+        <a class="interlanguage-link-target" href="https://an.wikipedia.org/wiki/Watt" hreflang="an" lang="an" title="Watt – Aragonese">
+         Aragonés
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ast">
+        <a class="interlanguage-link-target" href="https://ast.wikipedia.org/wiki/Vatiu" hreflang="ast" lang="ast" title="Vatiu – Asturian">
+         Asturianu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-az">
+        <a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/Vatt" hreflang="az" lang="az" title="Vatt – Azerbaijani">
+         Azərbaycanca
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bn">
+        <a class="interlanguage-link-target" href="https://bn.wikipedia.org/wiki/%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%9F_(%E0%A6%8F%E0%A6%95%E0%A6%95)" hreflang="bn" lang="bn" title="ওয়াট (একক) – Bangla">
+         বাংলা
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh-min-nan">
+        <a class="interlanguage-link-target" href="https://zh-min-nan.wikipedia.org/wiki/%C3%93a" hreflang="zh-min-nan" lang="zh-min-nan" title="Óa – Chinese (Min Nan)">
+         Bân-lâm-gú
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ba">
+        <a class="interlanguage-link-target" href="https://ba.wikipedia.org/wiki/%D0%92%D0%B0%D1%82%D1%82" hreflang="ba" lang="ba" title="Ватт – Bashkir">
+         Башҡортса
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be">
+        <a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%92%D0%B0%D1%82_(%D0%B0%D0%B4%D0%B7%D1%96%D0%BD%D0%BA%D0%B0_%D0%B2%D1%8B%D0%BC%D1%8F%D1%80%D1%8D%D0%BD%D0%BD%D1%8F)" hreflang="be" lang="be" title="Ват (адзінка вымярэння) – Belarusian">
+         Беларуская
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be-x-old">
+        <a class="interlanguage-link-target" href="https://be-x-old.wikipedia.org/wiki/%D0%92%D0%B0%D1%82" hreflang="be-x-old" lang="be-x-old" title="Ват – Belarusian (Taraškievica orthography)">
+         Беларуская (тарашкевіца)‎
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bg">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%92%D0%B0%D1%82" hreflang="bg" lang="bg" title="Ват – Bulgarian">
+         Български
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bo">
+        <a class="interlanguage-link-target" href="https://bo.wikipedia.org/wiki/%E0%BD%9D%E0%BC%8B%E0%BD%90%E0%BD%B2%E0%BC%8D" hreflang="bo" lang="bo" title="ཝ་ཐི། – Tibetan">
+         བོད་ཡིག
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bs">
+        <a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Vat" hreflang="bs" lang="bs" title="Vat – Bosnian">
+         Bosanski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-br">
+        <a class="interlanguage-link-target" href="https://br.wikipedia.org/wiki/Watt" hreflang="br" lang="br" title="Watt – Breton">
+         Brezhoneg
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Watt" hreflang="ca" lang="ca" title="Watt – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cv">
+        <a class="interlanguage-link-target" href="https://cv.wikipedia.org/wiki/%D0%92%D0%B0%D1%82%D1%82" hreflang="cv" lang="cv" title="Ватт – Chuvash">
+         Чӑвашла
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Watt" hreflang="cs" lang="cs" title="Watt – Czech">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cy">
+        <a class="interlanguage-link-target" href="https://cy.wikipedia.org/wiki/Wat" hreflang="cy" lang="cy" title="Wat – Welsh">
+         Cymraeg
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Watt" hreflang="da" lang="da" title="Watt – Danish">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Watt_(Einheit)" hreflang="de" lang="de" title="Watt (Einheit) – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-et">
+        <a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Vatt" hreflang="et" lang="et" title="Vatt – Estonian">
+         Eesti
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-el">
+        <a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%92%CE%B1%CF%84_(%CE%BC%CE%BF%CE%BD%CE%AC%CE%B4%CE%B1_%CE%BC%CE%AD%CF%84%CF%81%CE%B7%CF%83%CE%B7%CF%82)" hreflang="el" lang="el" title="Βατ (μονάδα μέτρησης) – Greek">
+         Ελληνικά
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Vatio" hreflang="es" lang="es" title="Vatio – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eo">
+        <a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Vato_(mezurunuo)" hreflang="eo" lang="eo" title="Vato (mezurunuo) – Esperanto">
+         Esperanto
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eu">
+        <a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Watt" hreflang="eu" lang="eu" title="Watt – Basque">
+         Euskara
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%88%D8%A7%D8%AA" hreflang="fa" lang="fa" title="وات – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hif">
+        <a class="interlanguage-link-target" href="https://hif.wikipedia.org/wiki/Watt" hreflang="hif" lang="hif" title="Watt – Fiji Hindi">
+         Fiji Hindi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Watt" hreflang="fr" lang="fr" title="Watt – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fy">
+        <a class="interlanguage-link-target" href="https://fy.wikipedia.org/wiki/Watt_(ienheid)" hreflang="fy" lang="fy" title="Watt (ienheid) – Western Frisian">
+         Frysk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fur">
+        <a class="interlanguage-link-target" href="https://fur.wikipedia.org/wiki/Wat" hreflang="fur" lang="fur" title="Wat – Friulian">
+         Furlan
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ga">
+        <a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/Vata" hreflang="ga" lang="ga" title="Vata – Irish">
+         Gaeilge
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gl">
+        <a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Watt" hreflang="gl" lang="gl" title="Watt – Galician">
+         Galego
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gan">
+        <a class="interlanguage-link-target" href="https://gan.wikipedia.org/wiki/%E7%93%A6" hreflang="gan" lang="gan" title="瓦 – Gan Chinese">
+         贛語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%99%80%ED%8A%B8" hreflang="ko" lang="ko" title="와트 – Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hy">
+        <a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D5%8E%D5%A1%D5%BF%D5%BF_(%D5%B9%D5%A1%D6%83%D5%B4%D5%A1%D5%B6_%D5%B4%D5%AB%D5%A1%D5%BE%D5%B8%D6%80)" hreflang="hy" lang="hy" title="Վատտ (չափման միավոր) – Armenian">
+         Հայերեն
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hi">
+        <a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%B5%E0%A5%89%E0%A4%9F" hreflang="hi" lang="hi" title="वॉट – Hindi">
+         हिन्दी
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hr">
+        <a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Vat" hreflang="hr" lang="hr" title="Vat – Croatian">
+         Hrvatski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Watt" hreflang="id" lang="id" title="Watt – Indonesian">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ia">
+        <a class="interlanguage-link-target" href="https://ia.wikipedia.org/wiki/Watt" hreflang="ia" lang="ia" title="Watt – Interlingua">
+         Interlingua
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-is">
+        <a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/Vatt" hreflang="is" lang="is" title="Vatt – Icelandic">
+         Íslenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Watt" hreflang="it" lang="it" title="Watt – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he">
+        <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%95%D7%90%D7%98" hreflang="he" lang="he" title="ואט – Hebrew">
+         עברית
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-krc">
+        <a class="interlanguage-link-target" href="https://krc.wikipedia.org/wiki/%D0%92%D0%B0%D1%82%D1%82" hreflang="krc" lang="krc" title="Ватт – Karachay-Balkar">
+         Къарачай-малкъар
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ka">
+        <a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%95%E1%83%90%E1%83%A2%E1%83%98" hreflang="ka" lang="ka" title="ვატი – Georgian">
+         ქართული
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-kk">
+        <a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%92%D0%B0%D1%82%D1%82" hreflang="kk" lang="kk" title="Ватт – Kazakh">
+         Қазақша
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sw">
+        <a class="interlanguage-link-target" href="https://sw.wikipedia.org/wiki/Wati" hreflang="sw" lang="sw" title="Wati – Swahili">
+         Kiswahili
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ht">
+        <a class="interlanguage-link-target" href="https://ht.wikipedia.org/wiki/Wat" hreflang="ht" lang="ht" title="Wat – Haitian Creole">
+         Kreyòl ayisyen
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ku">
+        <a class="interlanguage-link-target" href="https://ku.wikipedia.org/wiki/Wat" hreflang="ku" lang="ku" title="Wat – Kurdish">
+         Kurdî
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-la">
+        <a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/Vattium" hreflang="la" lang="la" title="Vattium – Latin">
+         Latina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lv">
+        <a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Vats" hreflang="lv" lang="lv" title="Vats – Latvian">
+         Latviešu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lt">
+        <a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Vatas" hreflang="lt" lang="lt" title="Vatas – Lithuanian">
+         Lietuvių
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-li">
+        <a class="interlanguage-link-target" href="https://li.wikipedia.org/wiki/Watt" hreflang="li" lang="li" title="Watt – Limburgish">
+         Limburgs
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lmo">
+        <a class="interlanguage-link-target" href="https://lmo.wikipedia.org/wiki/Watt" hreflang="lmo" lang="lmo" title="Watt – Lombard">
+         Lumbaart
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hu">
+        <a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Watt_(m%C3%A9rt%C3%A9kegys%C3%A9g)" hreflang="hu" lang="hu" title="Watt (mértékegység) – Hungarian">
+         Magyar
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mk">
+        <a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%92%D0%B0%D1%82" hreflang="mk" lang="mk" title="Ват – Macedonian">
+         Македонски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ml">
+        <a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%B5%E0%B4%BE%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B5%8D" hreflang="ml" lang="ml" title="വാട്ട് – Malayalam">
+         മലയാളം
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mr">
+        <a class="interlanguage-link-target" href="https://mr.wikipedia.org/wiki/%E0%A4%B5%E0%A5%85%E0%A4%9F" hreflang="mr" lang="mr" title="वॅट – Marathi">
+         मराठी
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-arz">
+        <a class="interlanguage-link-target" href="https://arz.wikipedia.org/wiki/%D9%88%D8%A7%D8%AA" hreflang="arz" lang="arz" title="وات – Egyptian Arabic">
+         مصرى
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ms">
+        <a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Watt" hreflang="ms" lang="ms" title="Watt – Malay">
+         Bahasa Melayu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mn">
+        <a class="interlanguage-link-target" href="https://mn.wikipedia.org/wiki/%D0%92%D0%B0%D1%82%D1%82_(%D0%BD%D1%8D%D0%B3%D0%B6)" hreflang="mn" lang="mn" title="Ватт (нэгж) – Mongolian">
+         Монгол
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-my">
+        <a class="interlanguage-link-target" href="https://my.wikipedia.org/wiki/%E1%80%9D%E1%80%95%E1%80%BA" hreflang="my" lang="my" title="ဝပ် – Burmese">
+         မြန်မာဘာသာ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Watt_(eenheid)" hreflang="nl" lang="nl" title="Watt (eenheid) – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-new">
+        <a class="interlanguage-link-target" href="https://new.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%9F" hreflang="new" lang="new" title="वाट – Newari">
+         नेपाल भाषा
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%83%AF%E3%83%83%E3%83%88" hreflang="ja" lang="ja" title="ワット – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-frr">
+        <a class="interlanguage-link-target" href="https://frr.wikipedia.org/wiki/Watt_(ianhaid)" hreflang="frr" lang="frr" title="Watt (ianhaid) – Northern Frisian">
+         Nordfriisk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Watt" hreflang="no" lang="no" title="Watt – Norwegian">
+         Norsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nn">
+        <a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Watt" hreflang="nn" lang="nn" title="Watt – Norwegian Nynorsk">
+         Norsk nynorsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-oc">
+        <a class="interlanguage-link-target" href="https://oc.wikipedia.org/wiki/Watt" hreflang="oc" lang="oc" title="Watt – Occitan">
+         Occitan
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uz">
+        <a class="interlanguage-link-target" href="https://uz.wikipedia.org/wiki/Vatt" hreflang="uz" lang="uz" title="Vatt – Uzbek">
+         Oʻzbekcha/ўзбекча
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pa">
+        <a class="interlanguage-link-target" href="https://pa.wikipedia.org/wiki/%E0%A8%B5%E0%A8%BE%E0%A8%9F" hreflang="pa" lang="pa" title="ਵਾਟ – Punjabi">
+         ਪੰਜਾਬੀ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pnb">
+        <a class="interlanguage-link-target" href="https://pnb.wikipedia.org/wiki/%D9%88%D8%A7%D9%B9" hreflang="pnb" lang="pnb" title="واٹ – Western Punjabi">
+         پنجابی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-jam">
+        <a class="interlanguage-link-target" href="https://jam.wikipedia.org/wiki/Wat" hreflang="jam" lang="jam" title="Wat – Jamaican Creole English">
+         Patois
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pms">
+        <a class="interlanguage-link-target" href="https://pms.wikipedia.org/wiki/Watt" hreflang="pms" lang="pms" title="Watt – Piedmontese">
+         Piemontèis
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Wat" hreflang="pl" lang="pl" title="Wat – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Watt" hreflang="pt" lang="pt" title="Watt – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ro">
+        <a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Watt" hreflang="ro" lang="ro" title="Watt – Romanian">
+         Română
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D1%82%D1%82" hreflang="ru" lang="ru" title="Ватт – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sco">
+        <a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Watt" hreflang="sco" lang="sco" title="Watt – Scots">
+         Scots
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sq">
+        <a class="interlanguage-link-target" href="https://sq.wikipedia.org/wiki/Watt" hreflang="sq" lang="sq" title="Watt – Albanian">
+         Shqip
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-scn">
+        <a class="interlanguage-link-target" href="https://scn.wikipedia.org/wiki/Watt" hreflang="scn" lang="scn" title="Watt – Sicilian">
+         Sicilianu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-simple">
+        <a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Watt" hreflang="simple" lang="simple" title="Watt – Simple English">
+         Simple English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sk">
+        <a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Watt_(jednotka)" hreflang="sk" lang="sk" title="Watt (jednotka) – Slovak">
+         Slovenčina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sl">
+        <a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Vat" hreflang="sl" lang="sl" title="Vat – Slovenian">
+         Slovenščina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ckb">
+        <a class="interlanguage-link-target" href="https://ckb.wikipedia.org/wiki/%D9%88%D8%A7%D8%AA" hreflang="ckb" lang="ckb" title="وات – Central Kurdish">
+         کوردی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sr">
+        <a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%92%D0%B0%D1%82" hreflang="sr" lang="sr" title="Ват – Serbian">
+         Српски / srpski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sh">
+        <a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Vat" hreflang="sh" lang="sh" title="Vat – Serbo-Croatian">
+         Srpskohrvatski / српскохрватски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Watti" hreflang="fi" lang="fi" title="Watti – Finnish">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Watt" hreflang="sv" lang="sv" title="Watt – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tl">
+        <a class="interlanguage-link-target" href="https://tl.wikipedia.org/wiki/Watt" hreflang="tl" lang="tl" title="Watt – Tagalog">
+         Tagalog
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ta">
+        <a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%B5%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81_(%E0%AE%85%E0%AE%B2%E0%AE%95%E0%AF%81)" hreflang="ta" lang="ta" title="வாட்டு (அலகு) – Tamil">
+         தமிழ்
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-roa-tara">
+        <a class="interlanguage-link-target" href="https://roa-tara.wikipedia.org/wiki/Watt" hreflang="roa-Tara" lang="roa-Tara" title="Watt – Tarantino">
+         Tarandíne
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tt">
+        <a class="interlanguage-link-target" href="https://tt.wikipedia.org/wiki/%D0%92%D0%B0%D1%82%D1%82" hreflang="tt" lang="tt" title="Ватт – Tatar">
+         Татарча/tatarça
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-te">
+        <a class="interlanguage-link-target" href="https://te.wikipedia.org/wiki/%E0%B0%B5%E0%B0%BE%E0%B0%9F%E0%B1%8D" hreflang="te" lang="te" title="వాట్ – Telugu">
+         తెలుగు
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-th">
+        <a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%95%E0%B9%8C" hreflang="th" lang="th" title="วัตต์ – Thai">
+         ไทย
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tr">
+        <a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Watt" hreflang="tr" lang="tr" title="Watt – Turkish">
+         Türkçe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tyv">
+        <a class="interlanguage-link-target" href="https://tyv.wikipedia.org/wiki/%D0%92%D0%B0%D1%82%D1%82" hreflang="tyv" lang="tyv" title="Ватт – Tuvinian">
+         Тыва дыл
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%92%D0%B0%D1%82" hreflang="uk" lang="uk" title="Ват – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ur">
+        <a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%D9%88%D8%A7%D9%B9" hreflang="ur" lang="ur" title="واٹ – Urdu">
+         اردو
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vec">
+        <a class="interlanguage-link-target" href="https://vec.wikipedia.org/wiki/Watt" hreflang="vec" lang="vec" title="Watt – Venetian">
+         Vèneto
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vi">
+        <a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Watt" hreflang="vi" lang="vi" title="Watt – Vietnamese">
+         Tiếng Việt
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-war">
+        <a class="interlanguage-link-target" href="https://war.wikipedia.org/wiki/Watt" hreflang="war" lang="war" title="Watt – Waray">
+         Winaray
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh-yue">
+        <a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E7%93%A6_(%E5%96%AE%E4%BD%8D)" hreflang="zh-yue" lang="zh-yue" title="瓦 (單位) – Cantonese">
+         粵語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bat-smg">
+        <a class="interlanguage-link-target" href="https://bat-smg.wikipedia.org/wiki/Vats" hreflang="bat-smg" lang="bat-smg" title="Vats – Samogitian">
+         Žemaitėška
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E7%93%A6%E7%89%B9" hreflang="zh" lang="zh" title="瓦特 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q25236#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 7 March 2018, at 15:30.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Watt&amp;mobileaction=toggle_view_mobile#Gigawatt">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.488","walltime":"0.665","ppvisitednodes":{"value":3172,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":78474,"limit":2097152},"templateargumentsize":{"value":4422,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":26987,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  549.231      1 -total"," 41.55%  228.208      2 Template:Reflist"," 15.18%   83.346      9 Template:Citation"," 14.43%   79.256      1 Template:Infobox_Unit"," 13.99%   76.830     12 Template:Cite_web"," 12.86%   70.605      1 Template:Infobox","  8.74%   47.976      2 Template:SIBrochure8th","  7.37%   40.504      1 Template:Refimprove","  6.63%   36.433      3 Template:Val","  6.14%   33.713      1 Template:Ambox"]},"scribunto":{"limitreport-timeusage":{"value":"0.247","limit":"10.000"},"limitreport-memusage":{"value":8065823,"limit":52428800}},"cachereport":{"origin":"mw1240","timestamp":"20180312125006","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":96,"wgHostname":"mw1239"});});
+  </script>
+ </body>
+</html>

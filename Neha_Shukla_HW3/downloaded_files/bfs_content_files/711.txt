@@ -1,0 +1,2544 @@
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Heliospheric current sheet - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Heliospheric_current_sheet","wgTitle":"Heliospheric current sheet","wgCurRevisionId":808228051,"wgRevisionId":808228051,"wgArticleId":3205338,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","CS1 maint: BOT: original-url status unknown","Plasma physics","Sun","Space plasmas"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Heliospheric_current_sheet","wgRelevantArticleId":3205338,"wgRequestId":"WrQydQpAMFQAALIIjRUAAABU","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q619081","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.26" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/b/b6/Heliospheric-current-sheet.gif" property="og:image"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Heliospheric_current_sheet" rel="alternate"/>
+  <link href="/w/index.php?title=Heliospheric_current_sheet&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Heliospheric_current_sheet&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Heliospheric_current_sheet" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Heliospheric_current_sheet rootpage-Heliospheric_current_sheet skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Heliospheric current sheet
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:302px;">
+        <a class="image" href="/wiki/File:Heliospheric-current-sheet.gif">
+         <img alt="" class="thumbimage" data-file-height="676" data-file-width="866" height="234" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Heliospheric-current-sheet.gif/300px-Heliospheric-current-sheet.gif" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Heliospheric-current-sheet.gif/450px-Heliospheric-current-sheet.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Heliospheric-current-sheet.gif/600px-Heliospheric-current-sheet.gif 2x" width="300"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Heliospheric-current-sheet.gif" title="Enlarge">
+          </a>
+         </div>
+         Heliospheric current sheet
+        </div>
+       </div>
+      </div>
+      <p>
+       The
+       <b>
+        heliospheric current sheet
+       </b>
+       <sup class="reference" id="cite_ref-1">
+        <a href="#cite_note-1">
+         [1]
+        </a>
+       </sup>
+       is the surface within the
+       <a href="/wiki/Solar_System" title="Solar System">
+        Solar System
+       </a>
+       where the
+       <a href="/wiki/Magnet" title="Magnet">
+        polarity
+       </a>
+       of the
+       <a href="/wiki/Sun" title="Sun">
+        Sun
+       </a>
+       's
+       <a href="/wiki/Magnetic_field" title="Magnetic field">
+        magnetic field
+       </a>
+       changes from north to south. This field extends throughout the Sun's
+       <a class="mw-redirect" href="/wiki/Equatorial_plane" title="Equatorial plane">
+        equatorial plane
+       </a>
+       in the
+       <a href="/wiki/Heliosphere" title="Heliosphere">
+        heliosphere
+       </a>
+       .
+       <sup class="reference" id="cite_ref-2">
+        <a href="#cite_note-2">
+         [2]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-3">
+        <a href="#cite_note-3">
+         [3]
+        </a>
+       </sup>
+       The shape of the
+       <a href="/wiki/Current_sheet" title="Current sheet">
+        current sheet
+       </a>
+       results from the influence of the Sun's
+       <a href="/wiki/Rotating_magnetic_field" title="Rotating magnetic field">
+        rotating magnetic field
+       </a>
+       on the
+       <a href="/wiki/Plasma_(physics)" title="Plasma (physics)">
+        plasma
+       </a>
+       in the
+       <a href="/wiki/Interplanetary_medium" title="Interplanetary medium">
+        interplanetary medium
+       </a>
+       (
+       <a class="mw-redirect" href="/wiki/Solar_Wind" title="Solar Wind">
+        Solar Wind
+       </a>
+       ).
+       <sup class="reference" id="cite_ref-4">
+        <a href="#cite_note-4">
+         [4]
+        </a>
+       </sup>
+       A small
+       <a class="mw-redirect" href="/wiki/Electrical_current" title="Electrical current">
+        electrical current
+       </a>
+       flows within the sheet, about 10
+       <sup>
+        −10
+       </sup>
+       <a href="/wiki/Ampere" title="Ampere">
+        A
+       </a>
+       /m². The thickness of the current sheet is about 10,000 km near the orbit of the Earth.
+      </p>
+      <p>
+       The underlying magnetic field is called the
+       <a href="/wiki/Interplanetary_magnetic_field" title="Interplanetary magnetic field">
+        interplanetary magnetic field
+       </a>
+       , and the resulting electric current forms part of the heliospheric current circuit.
+       <sup class="reference" id="cite_ref-israelevich2001_5-0">
+        <a href="#cite_note-israelevich2001-5">
+         [5]
+        </a>
+       </sup>
+       The heliospheric current sheet is also sometimes called the
+       <i>
+        interplanetary current sheet
+       </i>
+       .
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Characteristics">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Characteristics
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-2">
+           <a href="#Ballerina's_skirt_shape">
+            <span class="tocnumber">
+             1.1
+            </span>
+            <span class="toctext">
+             Ballerina's skirt shape
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-3">
+           <a href="#Magnetic_field">
+            <span class="tocnumber">
+             1.2
+            </span>
+            <span class="toctext">
+             Magnetic field
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-4">
+           <a href="#Electric_current">
+            <span class="tocnumber">
+             1.3
+            </span>
+            <span class="toctext">
+             Electric current
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-5">
+         <a href="#History">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           History
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-6">
+         <a href="#See_also">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-7">
+         <a href="#References">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-8">
+         <a href="#External_links">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           External links
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Characteristics">
+        Characteristics
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Heliospheric_current_sheet&amp;action=edit&amp;section=1" title="Edit section: Characteristics">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <h3>
+       <span id="Ballerina.27s_skirt_shape">
+       </span>
+       <span class="mw-headline" id="Ballerina's_skirt_shape">
+        Ballerina's skirt shape
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Heliospheric_current_sheet&amp;action=edit&amp;section=2" title="Edit section: Ballerina's skirt shape">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:302px;">
+        <a class="image" href="/wiki/File:Parker_spiral.gif">
+         <img alt="" class="thumbimage" data-file-height="268" data-file-width="360" height="223" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Parker_spiral.gif/300px-Parker_spiral.gif" srcset="//upload.wikimedia.org/wikipedia/commons/c/c4/Parker_spiral.gif 1.5x" width="300"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Parker_spiral.gif" title="Enlarge">
+          </a>
+         </div>
+         The Parker Spiral
+        </div>
+       </div>
+      </div>
+      <p>
+       As the Sun rotates, its magnetic field twists into a Parker spiral, a form of an
+       <a href="/wiki/Archimedean_spiral" title="Archimedean spiral">
+        Archimedean spiral
+       </a>
+       , as it extends through the solar system. This phenomenon is named after
+       <a href="/wiki/Eugene_Parker" title="Eugene Parker">
+        Eugene Parker
+       </a>
+       's work:
+       <sup class="reference" id="cite_ref-parker1958_6-0">
+        <a href="#cite_note-parker1958-6">
+         [6]
+        </a>
+       </sup>
+       he predicted the solar wind and many of its associated phenomena in the 1950s. The spiral nature of the heliospheric magnetic field had been noted earlier by
+       <a href="/wiki/Hannes_Alfv%C3%A9n" title="Hannes Alfvén">
+        Hannes Alfvén
+       </a>
+       ,
+       <sup class="reference" id="cite_ref-7">
+        <a href="#cite_note-7">
+         [7]
+        </a>
+       </sup>
+       based on the structure of comet tails.
+      </p>
+      <p>
+       The influence of this spiral-shaped magnetic field on the
+       <a href="/wiki/Interplanetary_medium" title="Interplanetary medium">
+        interplanetary medium
+       </a>
+       (
+       <a href="/wiki/Solar_wind" title="Solar wind">
+        solar wind
+       </a>
+       ) creates the largest structure in the Solar System, the heliospheric current sheet. Parker's spiral magnetic field was divided in two by a
+       <a href="/wiki/Current_sheet" title="Current sheet">
+        current sheet
+       </a>
+       ,
+       <sup class="reference" id="cite_ref-8">
+        <a href="#cite_note-8">
+         [8]
+        </a>
+       </sup>
+       a mathematical model first developed in the early 1970s by Schatten. It warps into a wavy spiral shape that has been likened to a ballerina's skirt.
+       <sup class="reference" id="cite_ref-rosenberg1969_9-0">
+        <a href="#cite_note-rosenberg1969-9">
+         [9]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-wilcox1980_10-0">
+        <a href="#cite_note-wilcox1980-10">
+         [10]
+        </a>
+       </sup>
+       The waviness of the current sheet is because of the magnetic field dipole axis' tilt angle to the solar rotation axis and variations from an ideal dipole field.
+       <sup class="reference" id="cite_ref-11">
+        <a href="#cite_note-11">
+         [11]
+        </a>
+       </sup>
+      </p>
+      <p>
+       Unlike the familiar shape of the field from a bar
+       <a href="/wiki/Magnet" title="Magnet">
+        magnet
+       </a>
+       , the Sun's extended field is twisted into an
+       <a class="mw-redirect" href="/wiki/Arithmetic_spiral" title="Arithmetic spiral">
+        arithmetic spiral
+       </a>
+       by the
+       <a class="mw-redirect" href="/wiki/Magnetohydrodynamic" title="Magnetohydrodynamic">
+        magnetohydrodynamic
+       </a>
+       influence of the
+       <a href="/wiki/Solar_wind" title="Solar wind">
+        solar wind
+       </a>
+       . The
+       <a href="/wiki/Solar_wind" title="Solar wind">
+        solar wind
+       </a>
+       travels outward from the Sun at a uniform rate, but an individual jet of solar wind from a particular feature on the Sun's surface rotates with the
+       <a href="/wiki/Solar_rotation" title="Solar rotation">
+        solar rotation
+       </a>
+       , making a spiral pattern in space. Unlike the jet from a sprinkler, the solar wind is tied to the
+       <a href="/wiki/Magnetic_field" title="Magnetic field">
+        magnetic field
+       </a>
+       by
+       <a href="/wiki/Magnetohydrodynamics" title="Magnetohydrodynamics">
+        MHD
+       </a>
+       effects, so that magnetic field lines are tied to the material in the jet and take on an arithmetic spiral shape. The cause of the ballerina spiral shape has sometimes been called the "garden sprinkler effect" or "garden hose effect",
+       <sup class="reference" id="cite_ref-Louise_K._Harra_2004_12-0">
+        <a href="#cite_note-Louise_K._Harra_2004-12">
+         [12]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-trs-new.jpl.nasa.gov_13-0">
+        <a href="#cite_note-trs-new.jpl.nasa.gov-13">
+         [13]
+        </a>
+       </sup>
+       because it is likened to a
+       <a href="/wiki/Irrigation_sprinkler" title="Irrigation sprinkler">
+        lawn sprinkler
+       </a>
+       with nozzle that moves up and down while it spins. The stream of water represents the solar wind.
+      </p>
+      <p>
+       The Parker spiral shape of the solar wind changes the shape of the Sun's magnetic field in the outer solar system: beyond about 10-20
+       <a class="mw-redirect" href="/wiki/Astronomical_units" title="Astronomical units">
+        astronomical units
+       </a>
+       from the Sun, the magnetic field is nearly
+       <a class="mw-redirect" href="/wiki/Toroid_(geometry)" title="Toroid (geometry)">
+        toroidal
+       </a>
+       (pointed around the equator of the Sun) rather than
+       <a class="mw-redirect" href="/wiki/Poloidal" title="Poloidal">
+        poloidal
+       </a>
+       (pointed from the North to the South pole, as in a bar magnet) or
+       <a class="extiw" href="https://en.wiktionary.org/wiki/radial" title="wikt:radial">
+        radial
+       </a>
+       (pointed outward or inward, as might be expected from the flow of the solar wind if the Sun were not rotating). The spiral shape also greatly amplifies the strength of the solar magnetic field in the outer solar system.
+      </p>
+      <p>
+       The Parker spiral may be responsible for the differential
+       <a href="/wiki/Solar_rotation" title="Solar rotation">
+        solar rotation
+       </a>
+       , in which the Sun's poles rotate more slowly (about a 35-day rotation period) than the equator (about a 27-day rotation period). The solar wind is guided by the Sun's magnetic field and hence largely emanates from the polar regions of the Sun; the induced spiral shape of the field causes a drag torque on the poles due to the
+       <a href="/wiki/Magnetic_tension_force" title="Magnetic tension force">
+        magnetic tension
+       </a>
+       force.
+      </p>
+      <p>
+       During
+       <a href="/wiki/Solar_maximum" title="Solar maximum">
+        solar maximum
+       </a>
+       the entire magnetic field of the sun flips, thus alternating the polarity of the field every solar cycle.
+       <sup class="reference" id="cite_ref-nasaSolarmag_14-0">
+        <a href="#cite_note-nasaSolarmag-14">
+         [14]
+        </a>
+       </sup>
+      </p>
+      <h3>
+       <span class="mw-headline" id="Magnetic_field">
+        Magnetic field
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Heliospheric_current_sheet&amp;action=edit&amp;section=3" title="Edit section: Magnetic field">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       The heliospheric current sheet rotates along with the Sun with a period of about 25 days, during which time the peaks and troughs of the skirt pass through the Earth's magnetosphere, interacting with it. Near the surface of the Sun, the magnetic field produced by the radial electric current in the sheet is of the order of 5×10
+       <sup>
+        −6
+       </sup>
+       T.
+       <sup class="reference" id="cite_ref-israelevich2001_5-1">
+        <a href="#cite_note-israelevich2001-5">
+         [5]
+        </a>
+       </sup>
+      </p>
+      <p>
+       The magnetic field at the surface of the Sun is about 10
+       <sup>
+        −4
+       </sup>
+       <a href="/wiki/Tesla_(unit)" title="Tesla (unit)">
+        teslas
+       </a>
+       . If the form of the field were a
+       <a href="/wiki/Magnetic_dipole" title="Magnetic dipole">
+        magnetic dipole
+       </a>
+       , the strength would decrease with the cube of the distance, resulting in about 10
+       <sup>
+        −11
+       </sup>
+       teslas at the Earth's orbit. The heliospheric current sheet results in higher order multipole components so that the actual magnetic field at the Earth due to the Sun is 100 times greater.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Electric_current">
+        Electric current
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Heliospheric_current_sheet&amp;action=edit&amp;section=4" title="Edit section: Electric current">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       The electric current in the heliospheric current sheet has a radial component (directed inward) as well as an
+       <a class="mw-redirect" href="/wiki/Azimuthal" title="Azimuthal">
+        azimuthal
+       </a>
+       component, the radial circuit being closed by outward currents aligned with the Sun's magnetic field in the solar polar regions. The radial current in the circuit is on the order of 3×10
+       <sup>
+        9
+       </sup>
+       <a href="/wiki/Ampere" title="Ampere">
+        amperes
+       </a>
+       .
+       <sup class="reference" id="cite_ref-israelevich2001_5-2">
+        <a href="#cite_note-israelevich2001-5">
+         [5]
+        </a>
+       </sup>
+       As a comparison with other astrophysical electric currents, the
+       <a href="/wiki/Birkeland_current" title="Birkeland current">
+        Birkeland currents
+       </a>
+       that supply the Earth's
+       <a class="mw-redirect" href="/wiki/Aurora_(astronomy)" title="Aurora (astronomy)">
+        aurora
+       </a>
+       are about a thousand times weaker at a million amperes. The maximum current density in the sheet is on the order of 10
+       <sup>
+        −10
+       </sup>
+       A/m² (10
+       <sup>
+        −4
+       </sup>
+       A/km²).
+      </p>
+      <h2>
+       <span class="mw-headline" id="History">
+        History
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Heliospheric_current_sheet&amp;action=edit&amp;section=5" title="Edit section: History">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       The heliospheric current sheet was discovered by
+       <a href="/wiki/John_M._Wilcox" title="John M. Wilcox">
+        John M. Wilcox
+       </a>
+       and
+       <a href="/wiki/Norman_F._Ness" title="Norman F. Ness">
+        Norman F. Ness
+       </a>
+       , who published their finding in 1965.
+       <sup class="reference" id="cite_ref-wilcox1965_15-0">
+        <a href="#cite_note-wilcox1965-15">
+         [15]
+        </a>
+       </sup>
+       <a href="/wiki/Hannes_Alfv%C3%A9n" title="Hannes Alfvén">
+        Hannes Alfvén
+       </a>
+       and
+       <a href="/wiki/Per_Carlqvist" title="Per Carlqvist">
+        Per Carlqvist
+       </a>
+       speculate on the existence of a
+       <a class="new" href="/w/index.php?title=Galactic_current_sheet&amp;action=edit&amp;redlink=1" title="Galactic current sheet (page does not exist)">
+        galactic current sheet
+       </a>
+       , a counterpart of the heliospheric current sheet, with an estimated galactic current of 10
+       <sup>
+        17
+       </sup>
+       to 10
+       <sup>
+        19
+       </sup>
+       amperes, that might flow in the plane of symmetry of the galaxy.
+       <sup class="reference" id="cite_ref-alfven1978_16-0">
+        <a href="#cite_note-alfven1978-16">
+         [16]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Heliospheric_current_sheet&amp;action=edit&amp;section=6" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a class="mw-redirect" href="/wiki/Interplanetary_Magnetic_Field" title="Interplanetary Magnetic Field">
+         Interplanetary Magnetic Field
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/List_of_plasma_(physics)_articles" title="List of plasma (physics) articles">
+         List of plasma (physics) articles
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Heliospheric_current_sheet&amp;action=edit&amp;section=7" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+       <ol class="references">
+        <li id="cite_note-1">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-1">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          "
+          <a class="external text" href="http://adsabs.harvard.edu/abs/2001JGR...10615819S" rel="nofollow">
+           The heliospheric current sheet
+          </a>
+          " Smith, E. J, Journal of Geophysical Research 106, A8, 15819, 2001.
+         </span>
+        </li>
+        <li id="cite_note-2">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-2">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <a class="external text" href="https://science.nasa.gov/headlines/y2003/22apr_currentsheet.htm" rel="nofollow">
+           A Star with two North Poles
+          </a>
+          <a class="external text" href="https://web.archive.org/web/20090718014855/https://science.nasa.gov/headlines/y2003/22apr_currentsheet.htm" rel="nofollow">
+           Archived
+          </a>
+          2009-07-18 at the
+          <a href="/wiki/Wayback_Machine" title="Wayback Machine">
+           Wayback Machine
+          </a>
+          ., April 22, 2003, Science @ NASA
+         </span>
+        </li>
+        <li id="cite_note-3">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-3">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          Riley, Pete; Linker, J. A.; Mikić, Z., "
+          <a class="external text" href="http://adsabs.harvard.edu/abs/2002JGRA.107g.SSH8R" rel="nofollow">
+           Modeling the heliospheric current sheet: Solar cycle variations
+          </a>
+          ", (2002)
+          <i>
+           Journal of Geophysical Research
+          </i>
+          (Space Physics), Volume 107, Issue A7, pp. SSH 8-1, CiteID 1136, DOI 10.1029/2001JA000299. (
+          <a class="external text" href="http://ulysses.jpl.nasa.gov/science/monthly_highlights/2002-July-2001JA000299.pdf" rel="nofollow">
+           Full text
+          </a>
+          <a class="external text" href="https://web.archive.org/web/20090814052347/http://ulysses.jpl.nasa.gov/science/monthly_highlights/2002-July-2001JA000299.pdf" rel="nofollow">
+           Archived
+          </a>
+          2009-08-14 at the
+          <a href="/wiki/Wayback_Machine" title="Wayback Machine">
+           Wayback Machine
+          </a>
+          .)
+         </span>
+        </li>
+        <li id="cite_note-4">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-4">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           <a class="external text" href="https://web.archive.org/web/20060901124602/http://quake.stanford.edu/~wso/gifs/HCS.html" rel="nofollow">
+            "Artist's Conception of the Heliospheric Current Sheet"
+           </a>
+           . Archived from the original on September 1, 2006
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             2005-11-20
+            </span>
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Artist%27s+Conception+of+the+Heliospheric+Current+Sheet&amp;rft_id=http%3A%2F%2Fquake.stanford.edu%2F~wso%2Fgifs%2FHCS.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHeliospheric+current+sheet">
+           <span style="display:none;">
+           </span>
+          </span>
+          <span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">
+           CS1 maint: BOT: original-url status unknown (
+           <a href="/wiki/Category:CS1_maint:_BOT:_original-url_status_unknown" title="Category:CS1 maint: BOT: original-url status unknown">
+            link
+           </a>
+           )
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-israelevich2001-5">
+         <span class="mw-cite-backlink">
+          ^
+          <a href="#cite_ref-israelevich2001_5-0">
+           <sup>
+            <i>
+             <b>
+              a
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-israelevich2001_5-1">
+           <sup>
+            <i>
+             <b>
+              b
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-israelevich2001_5-2">
+           <sup>
+            <i>
+             <b>
+              c
+             </b>
+            </i>
+           </sup>
+          </a>
+         </span>
+         <span class="reference-text">
+          Israelevich, P. L.,
+          <i>
+           et al.
+          </i>
+          , "
+          <a class="external text" href="http://aanda.u-strasbg.fr/articles/aa/abs/2001/34/aah2814/aah2814.html" rel="nofollow">
+           MHD simulation of the three-dimensional structure of the heliospheric current sheet
+          </a>
+          " (2001)
+          <i>
+           Astronomy and Astrophysics
+          </i>
+          , v.376, p.288-291
+         </span>
+        </li>
+        <li id="cite_note-parker1958-6">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-parker1958_6-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          Parker, E. N., "
+          <a class="external text" href="http://cdsads.u-strasbg.fr/cgi-bin/nph-bib_query?1958ApJ...128..664P" rel="nofollow">
+           Dynamics of the Interplanetary Gas and Magnetic Fields
+          </a>
+          ", (1958)
+          <i>
+           Astrophysical Journal
+          </i>
+          , vol. 128, p.664
+         </span>
+        </li>
+        <li id="cite_note-7">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-7">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          "
+          <a class="external text" href="http://adsabs.harvard.edu/abs/1957Tell....9...92A" rel="nofollow">
+           On the theory of comet tails
+          </a>
+          ", H. Alfvén, Tellus 9, 92, 1957.
+         </span>
+        </li>
+        <li id="cite_note-8">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-8">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          "
+          <a class="external text" href="http://www.nature.com/nature/journal/v264/n5588/abs/264730a0.html;jsessionid=55DC5F768647B390C384E7AF83122081" rel="nofollow">
+           Current Sheet Magnetic Model for the Solar Corona
+          </a>
+          ", K. H. Schatten, Cosmic Electrodynamics, 2, 232-245, 1971.
+         </span>
+        </li>
+        <li id="cite_note-rosenberg1969-9">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-rosenberg1969_9-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          Rosenberg, R. L. and P. J. Coleman, Jr., Heliographic latitude dependence of the dominant polarity of the interplanetary magnetic field,
+          <i>
+           J. Geophys. Res.
+          </i>
+          , 74 (24), 5611-5622, 1969.
+         </span>
+        </li>
+        <li id="cite_note-wilcox1980-10">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-wilcox1980_10-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          Wilcox, J. M.; Scherrer, P. H.; Hoeksema, J. T., "
+          <a class="external text" href="http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=1980STIN...8133113W&amp;db_key=AST&amp;data_type=HTML&amp;format=&amp;high=42ca922c9c12139" rel="nofollow">
+           The origin of the warped heliospheric current sheet
+          </a>
+          " (1980)
+         </span>
+        </li>
+        <li id="cite_note-11">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-11">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation journal">
+           Owens, M. J.; Forsyth, R. J. (2013).
+           <a class="external text" href="http://adsabs.harvard.edu/abs/2013LRSP...10....5O" rel="nofollow">
+            "The Heliospheric Magnetic Field"
+           </a>
+           .
+           <i>
+            Living Reviews in Solar Physics
+           </i>
+           .
+           <b>
+            10
+           </b>
+           : 11.
+           <a href="/wiki/Bibcode" title="Bibcode">
+            Bibcode
+           </a>
+           :
+           <a class="external text" href="http://adsabs.harvard.edu/abs/2013LRSP...10....5O" rel="nofollow">
+            2013LRSP...10....5O
+           </a>
+           .
+           <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+            doi
+           </a>
+           :
+           <a class="external text" href="//doi.org/10.12942%2Flrsp-2013-5" rel="nofollow">
+            10.12942/lrsp-2013-5
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Living+Reviews+in+Solar+Physics&amp;rft.atitle=The+Heliospheric+Magnetic+Field&amp;rft.volume=10&amp;rft.pages=11&amp;rft.date=2013&amp;rft_id=info%3Adoi%2F10.12942%2Flrsp-2013-5&amp;rft_id=info%3Abibcode%2F2013LRSP...10....5O&amp;rft.aulast=Owens&amp;rft.aufirst=M.+J.&amp;rft.au=Forsyth%2C+R.+J.&amp;rft_id=http%3A%2F%2Fadsabs.harvard.edu%2Fabs%2F2013LRSP...10....5O&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHeliospheric+current+sheet">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-Louise_K._Harra_2004-12">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-Louise_K._Harra_2004_12-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          Louise K. Harra, Keith O. Mason,
+          <i>
+           Space Science
+          </i>
+          2004, Imperial College Press,
+          <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+           ISBN
+          </a>
+          <a href="/wiki/Special:BookSources/1-86094-361-6" title="Special:BookSources/1-86094-361-6">
+           1-86094-361-6
+          </a>
+         </span>
+        </li>
+        <li id="cite_note-trs-new.jpl.nasa.gov-13">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-trs-new.jpl.nasa.gov_13-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          Smith, E., "
+          <a class="external text" href="http://trs-new.jpl.nasa.gov/dspace/handle/2014/18860?mode=simple" rel="nofollow">
+           The Sun, Solar Wind, and Magnetic Field
+          </a>
+          <a class="external text" href="https://web.archive.org/web/20080205054035/http://trs-new.jpl.nasa.gov/dspace/handle/2014/18860?mode=simple" rel="nofollow">
+           Archived
+          </a>
+          2008-02-05 at the
+          <a href="/wiki/Wayback_Machine" title="Wayback Machine">
+           Wayback Machine
+          </a>
+          .", Jul 1999, Proceedings of the International School of Physics Enrico FERMI Varenna, Italy
+         </span>
+        </li>
+        <li id="cite_note-nasaSolarmag-14">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-nasaSolarmag_14-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           Barbier, Beth.
+           <a class="external text" href="http://helios.gsfc.nasa.gov/solarmag.html" rel="nofollow">
+            "NASA's Cosmicopia -- Sun -- Sun's Magnetic Field"
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=NASA%27s+Cosmicopia+--+Sun+--+Sun%27s+Magnetic+Field&amp;rft.aulast=Barbier&amp;rft.aufirst=Beth&amp;rft_id=http%3A%2F%2Fhelios.gsfc.nasa.gov%2Fsolarmag.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHeliospheric+current+sheet">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-wilcox1965-15">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-wilcox1965_15-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation journal">
+           Wilcox, John M.; Ness, Norman F. (1965). "Quasi-Stationary Corotating Structure in the Interplanetary Medium".
+           <i>
+            <a href="/wiki/Journal_of_Geophysical_Research" title="Journal of Geophysical Research">
+             Journal of Geophysical Research
+            </a>
+           </i>
+           .
+           <b>
+            70
+           </b>
+           (23): 5793–5805.
+           <a href="/wiki/Bibcode" title="Bibcode">
+            Bibcode
+           </a>
+           :
+           <a class="external text" href="http://adsabs.harvard.edu/abs/1965JGR....70.5793W" rel="nofollow">
+            1965JGR....70.5793W
+           </a>
+           .
+           <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+            doi
+           </a>
+           :
+           <a class="external text" href="//doi.org/10.1029%2FJZ070i023p05793" rel="nofollow">
+            10.1029/JZ070i023p05793
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Geophysical+Research&amp;rft.atitle=Quasi-Stationary+Corotating+Structure+in+the+Interplanetary+Medium&amp;rft.volume=70&amp;rft.issue=23&amp;rft.pages=5793-5805&amp;rft.date=1965&amp;rft_id=info%3Adoi%2F10.1029%2FJZ070i023p05793&amp;rft_id=info%3Abibcode%2F1965JGR....70.5793W&amp;rft.aulast=Wilcox&amp;rft.aufirst=John+M.&amp;rft.au=Ness%2C+Norman+F.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHeliospheric+current+sheet">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-alfven1978-16">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-alfven1978_16-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation journal">
+           Alfvén, Hannes; Carlqvist, Per (1978). "Interstellar clouds and the formation of stars".
+           <i>
+            Astrophysics and Space Science
+           </i>
+           .
+           <b>
+            55
+           </b>
+           (2): 487–509.
+           <a href="/wiki/Bibcode" title="Bibcode">
+            Bibcode
+           </a>
+           :
+           <a class="external text" href="http://adsabs.harvard.edu/abs/1978Ap&amp;SS..55..487A" rel="nofollow">
+            1978Ap&amp;SS..55..487A
+           </a>
+           .
+           <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+            doi
+           </a>
+           :
+           <a class="external text" href="//doi.org/10.1007%2Fbf00642272" rel="nofollow">
+            10.1007/bf00642272
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Astrophysics+and+Space+Science&amp;rft.atitle=Interstellar+clouds+and+the+formation+of+stars&amp;rft.volume=55&amp;rft.issue=2&amp;rft.pages=487-509&amp;rft.date=1978&amp;rft_id=info%3Adoi%2F10.1007%2Fbf00642272&amp;rft_id=info%3Abibcode%2F1978Ap%26SS..55..487A&amp;rft.aulast=Alfv%C3%A9n&amp;rft.aufirst=Hannes&amp;rft.au=Carlqvist%2C+Per&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHeliospheric+current+sheet">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+       </ol>
+      </div>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Heliospheric_current_sheet&amp;action=edit&amp;section=8" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a class="external text" href="https://web.archive.org/web/20060721120205/http://www.izmiran.rssi.ru/magnetism/SSIMF/SB/mfi/hcs.html" rel="nofollow">
+         The Heliospheric Current Sheet
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://www.firstscience.com/site/articles/north.asp" rel="nofollow">
+         A Star With Two North Poles
+        </a>
+        (features animation)
+       </li>
+       <li>
+        <a class="external text" href="http://pluto.space.swri.edu/IMAGE/glossary/IMF.html" rel="nofollow">
+         The interplanetary magnetic field
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="https://web.archive.org/web/20111113225043/http://gse.gi.alaska.edu/recent/3DHCS.html" rel="nofollow">
+         3-Dimensional View of the Heliospheric Current Sheet
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?db_key=AST&amp;sim_query=YES&amp;aut_xct=NO&amp;aut_logic=OR&amp;obj_logic=OR&amp;author=&amp;object=&amp;start_mon=&amp;start_year=&amp;end_mon=&amp;end_year=&amp;ttl_logic=OR&amp;title=%22Heliospheric+Current+Sheet%22&amp;txt_logic=OR&amp;text=&amp;nr_to_return=100&amp;start_nr=1&amp;jou_pick=ALL&amp;ref_stems=&amp;data_and=ALL&amp;group_and=ALL&amp;start_entry_day=&amp;start_entry_mon=&amp;start_entry_year=&amp;end_entry_day=&amp;end_entry_mon=&amp;end_entry_year=&amp;min_score=&amp;sort=SCORE&amp;data_type=SHORT&amp;aut_syn=YES&amp;ttl_syn=YES&amp;txt_syn=YES&amp;aut_wt=1.0&amp;obj_wt=1.0&amp;ttl_wt=0.3&amp;txt_wt=3.0&amp;aut_wgt=YES&amp;obj_wgt=YES&amp;ttl_wgt=YES&amp;txt_wgt=YES&amp;ttl_sco=YES&amp;txt_sco=YES&amp;version=1" rel="nofollow">
+         NASA Astrophysics Data System article references
+        </a>
+        (
+        <a class="external text" href="http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?db_key=AST&amp;sim_query=YES&amp;aut_xct=NO&amp;aut_logic=OR&amp;obj_logic=OR&amp;author=&amp;object=&amp;start_mon=&amp;start_year=&amp;end_mon=&amp;end_year=&amp;ttl_logic=OR&amp;title=%22Heliospheric+Current+Sheet%22&amp;txt_logic=OR&amp;text=&amp;nr_to_return=100&amp;start_nr=1&amp;jou_pick=ALL&amp;ref_stems=&amp;data_and=YES&amp;gif_link=YES&amp;group_and=ALL&amp;start_entry_day=&amp;start_entry_mon=&amp;start_entry_year=&amp;end_entry_day=&amp;end_entry_mon=&amp;end_entry_year=&amp;min_score=&amp;sort=SCORE&amp;data_type=SHORT&amp;aut_syn=YES&amp;ttl_syn=YES&amp;txt_syn=YES&amp;aut_wt=1.0&amp;obj_wt=1.0&amp;ttl_wt=0.3&amp;txt_wt=3.0&amp;aut_wgt=YES&amp;obj_wgt=YES&amp;ttl_wgt=YES&amp;txt_wgt=YES&amp;ttl_sco=YES&amp;txt_sco=YES&amp;version=1" rel="nofollow">
+         Online full text articles
+        </a>
+        )
+       </li>
+      </ul>
+      <div aria-labelledby="Magnetospherics" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="2" scope="col">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:Magnetospherics" title="Template:Magnetospherics">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a href="/wiki/Template_talk:Magnetospherics" title="Template talk:Magnetospherics">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Magnetospherics&amp;action=edit">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="Magnetospherics" style="font-size:114%;margin:0 4em">
+           <a href="/wiki/Magnetosphere" title="Magnetosphere">
+            Magnetospherics
+           </a>
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Submagnetosphere
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Atmospheric_circulation" title="Atmospheric circulation">
+              Atmospheric circulation
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Aurora" title="Aurora">
+              Aurora
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Earth%27s_magnetic_field" title="Earth's magnetic field">
+              Earth's magnetic field
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Geosphere" title="Geosphere">
+              Geosphere
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Jet_stream" title="Jet stream">
+              Jet stream
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Polar_wind" title="Polar wind">
+              Polar wind
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Earth's magnetosphere
+         </th>
+         <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Birkeland_current" title="Birkeland current">
+              Birkeland current
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Ionosphere" title="Ionosphere">
+              Ionosphere
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Magnetopause" title="Magnetopause">
+              Magnetopause
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Magnetosheath" title="Magnetosheath">
+              Magnetosheath
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Magnetosphere" title="Magnetosphere">
+              Magnetosphere
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Magnetosphere_chronology" title="Magnetosphere chronology">
+              Magnetosphere chronology
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Magnetosphere_particle_motion" title="Magnetosphere particle motion">
+              Magnetosphere particle motion
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Plasmasphere" title="Plasmasphere">
+              Plasmasphere
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Ring_current" title="Ring current">
+              Ring current
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Van_Allen_radiation_belt" title="Van Allen radiation belt">
+              Van Allen radiation belt
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <a href="/wiki/Solar_wind" title="Solar wind">
+           Solar wind
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Coronal_cloud" title="Coronal cloud">
+              Coronal cloud
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Coronal_mass_ejection" title="Coronal mass ejection">
+              Coronal mass ejection
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_flare" title="Solar flare">
+              Solar flare
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Geomagnetic_storm" title="Geomagnetic storm">
+              Geomagnetic storm
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Heliosphere" title="Heliosphere">
+              Heliosphere
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Interplanetary_magnetic_field" title="Interplanetary magnetic field">
+              Interplanetary magnetic field
+             </a>
+            </li>
+            <li>
+             <a class="mw-selflink selflink">
+              Heliospheric current sheet
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Heliopause_(astronomy)" title="Heliopause (astronomy)">
+              Heliopause
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Space_weather" title="Space weather">
+              Space weather
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Satellites
+         </th>
+         <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/List_of_satellites_which_have_provided_data_on_Earth%27s_magnetosphere" title="List of satellites which have provided data on Earth's magnetosphere">
+              Full list
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Arase_(satellite)" title="Arase (satellite)">
+              Arase
+             </a>
+             <small>
+              (2016)
+             </small>
+            </li>
+            <li>
+             <a href="/wiki/Cluster_II_(spacecraft)" title="Cluster II (spacecraft)">
+              Cluster II
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Double_Star_(satellite)" title="Double Star (satellite)">
+              Double Star
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Geotail" title="Geotail">
+              Geotail
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/IMAGE" title="IMAGE">
+              IMAGE
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Magnetospheric_Multiscale_Mission" title="Magnetospheric Multiscale Mission">
+              MMS
+             </a>
+             <small>
+              (2015)
+             </small>
+            </li>
+            <li>
+             <a href="/wiki/Polar_(satellite)" title="Polar (satellite)">
+              Polar
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/THEMIS" title="THEMIS">
+              THEMIS
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Van_Allen_Probes" title="Van Allen Probes">
+              Van Allen Probes
+             </a>
+            </li>
+            <li>
+             <i>
+              <a href="/wiki/WIND_(spacecraft)" title="WIND (spacecraft)">
+               WIND
+              </a>
+             </i>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Research projects
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/High_Frequency_Active_Auroral_Research_Program" title="High Frequency Active Auroral Research Program">
+              HAARP
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Southern_Hemisphere_Auroral_Radar_Experiment" title="Southern Hemisphere Auroral Radar Experiment">
+              SHARE
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Unwin_Radar" title="Unwin Radar">
+                Unwin Radar
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Super_Dual_Auroral_Radar_Network" title="Super Dual Auroral Radar Network">
+              SuperDARN
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Other magnetospheres
+         </th>
+         <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Mercury%27s_magnetic_field" title="Mercury's magnetic field">
+              Hermian
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Magnetic_field_of_the_Moon" title="Magnetic field of the Moon">
+              Lunar
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Magnetosphere_of_Jupiter" title="Magnetosphere of Jupiter">
+              Jovian
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Ganymede_(moon)#Magnetosphere" title="Ganymede (moon)">
+              Ganymedian
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Magnetosphere_of_Saturn" title="Magnetosphere of Saturn">
+              Saturnian
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Uranus#Magnetosphere" title="Uranus">
+              Uranian
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Neptune#Magnetosphere" title="Neptune">
+              Neptunian
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Related topics
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Flux_tube" title="Flux tube">
+              Flux tube
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Gas_torus" title="Gas torus">
+              Gas torus
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_swirls" title="Lunar swirls">
+              Lunar swirls
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Planetary_ring" title="Planetary ring">
+              Planetary rings
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Rings_of_Jupiter" title="Rings of Jupiter">
+                Jupiter
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Rings_of_Saturn" title="Rings of Saturn">
+                Saturn
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Rings_of_Uranus" title="Rings of Uranus">
+                Uranus
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Rings_of_Neptune" title="Rings of Neptune">
+                Neptune
+               </a>
+              </li>
+             </ul>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <div aria-labelledby="The_Sun" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="3" scope="col" style="text-align: center;">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:The_Sun" title="Template:The Sun">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a href="/wiki/Template_talk:The_Sun" title="Template talk:The Sun">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:The_Sun&amp;action=edit">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="The_Sun" style="font-size:114%;margin:0 4em">
+           <a href="/wiki/Sun" title="Sun">
+            The Sun
+           </a>
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Standard_solar_model" title="Standard solar model">
+           Internal structure
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Solar_core" title="Solar core">
+              Core
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Radiation_zone" title="Radiation zone">
+              Radiation zone
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tachocline" title="Tachocline">
+              Tachocline
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Convection_zone" title="Convection zone">
+              Convection zone
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+         <td class="navbox-image" rowspan="5" style="width:1px;padding:0px 0px 0px 2px">
+          <div>
+           <div class="floatright">
+            <a class="image" href="/wiki/File:Sun_in_February.jpg">
+             <img alt="Sun in February.jpg" class="thumbborder" data-file-height="2632" data-file-width="2632" height="155" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Sun_in_February.jpg/155px-Sun_in_February.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Sun_in_February.jpg/233px-Sun_in_February.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Sun_in_February.jpg/310px-Sun_in_February.jpg 2x" width="155"/>
+            </a>
+           </div>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Stellar_atmosphere" title="Stellar atmosphere">
+           Atmosphere
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+          </div>
+          <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%;text-align: center;">
+             <a href="/wiki/Photosphere" title="Photosphere">
+              Photosphere
+             </a>
+            </th>
+            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Supergranulation" title="Supergranulation">
+                 Supergranulation
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Granule_(solar_physics)" title="Granule (solar physics)">
+                 Granule
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Facula" title="Facula">
+                 Faculae
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Sunspot" title="Sunspot">
+                 Sunspot
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%;text-align: center;">
+             <a href="/wiki/Chromosphere" title="Chromosphere">
+              Chromosphere
+             </a>
+            </th>
+            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Plage_(astronomy)" title="Plage (astronomy)">
+                 Plage
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Spicule_(solar_physics)" title="Spicule (solar physics)">
+                 Spicule
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Moreton_wave" title="Moreton wave">
+                 Moreton wave
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%;text-align: center;">
+             <a href="/wiki/Corona" title="Corona">
+              Corona
+             </a>
+            </th>
+            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Solar_transition_region" title="Solar transition region">
+                 Transition region
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Coronal_hole" title="Coronal hole">
+                 Coronal hole
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Coronal_loop" title="Coronal loop">
+                 Coronal loop
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Coronal_mass_ejection" title="Coronal mass ejection">
+                 Coronal mass ejection
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Solar_prominence" title="Solar prominence">
+                 Prominence
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Helmet_streamer" title="Helmet streamer">
+                 Helmet streamer
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Supra-arcade_downflows" title="Supra-arcade downflows">
+                 Supra-arcade downflows
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a class="mw-redirect" href="/wiki/Solar_variation" title="Solar variation">
+           Variation
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Solar_cycle" title="Solar cycle">
+              Solar cycle
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/List_of_solar_cycles" title="List of solar cycles">
+                List of solar cycles
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Solar_maximum" title="Solar maximum">
+              Solar maximum
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_minimum" title="Solar minimum">
+              Solar minimum
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Wolf_number" title="Wolf number">
+              Wolf number
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_wind" title="Solar wind">
+              Solar wind
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_flare" title="Solar flare">
+              Flare
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Helioseismology" title="Helioseismology">
+              Helioseismology
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Heliosphere" title="Heliosphere">
+           Heliosphere
+          </a>
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a class="mw-selflink selflink">
+              Current sheet
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Heliosphere#Termination_shock" title="Heliosphere">
+              Termination shock
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Heliosphere#Heliosheath" title="Heliosphere">
+              Heliosheath
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Heliosphere#Heliopause" title="Heliosphere">
+              Heliopause
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Bow_shock" title="Bow shock">
+              Bow shock
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          Related topics
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Heliophysics" title="Heliophysics">
+              Heliophysics
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Solar_activity" title="Solar activity">
+              Solar activity
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Solar_astronomy" title="Solar astronomy">
+              Solar astronomy
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_dynamo" title="Solar dynamo">
+              Solar dynamo
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_eclipse" title="Solar eclipse">
+              Eclipse
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_energy" title="Solar energy">
+              Solar energy
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_neutrino" title="Solar neutrino">
+              Solar neutrino
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_observation" title="Solar observation">
+              Solar observation
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_phenomena" title="Solar phenomena">
+              Solar phenomena
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_physics" title="Solar physics">
+              Solar physics
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_System" title="Solar System">
+              Solar System
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_telescope" title="Solar telescope">
+              Solar telescope
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_time" title="Solar time">
+              Solar time
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Space_weather" title="Space weather">
+              Space weather
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Standard_solar_model" title="Standard solar model">
+              Standard solar model
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Sunlight" title="Sunlight">
+              Radiation
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <td class="navbox-abovebelow" colspan="3" style="text-align: center;">
+          <div>
+           <ul>
+            <li>
+             <a href="/wiki/Stellar_classification" title="Stellar classification">
+              Spectral class
+             </a>
+             :
+             <a href="/wiki/G-type_main-sequence_star" title="G-type main-sequence star">
+              G2V
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <p>
+       <a href="/wiki/Category:Dynamics_of_the_Solar_System" title="Category:Dynamics of the Solar System">
+        Category:Dynamics of the Solar System
+       </a>
+       <a href="/wiki/Category:Solar_phenomena" title="Category:Solar phenomena">
+        Category:Solar phenomena
+       </a>
+       <a href="/wiki/Category:Spirals" title="Category:Spirals">
+        Category:Spirals
+       </a>
+      </p>
+      <!-- 
+NewPP limit report
+Parsed by mw1333
+Cached time: 20180314003302
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.184 seconds
+Real time usage: 0.245 seconds
+Preprocessor visited node count: 891/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 43292/2097152 bytes
+Template argument size: 509/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 12805/5000000 bytes
+Lua time usage: 0.057/10.000 seconds
+Lua memory usage: 2.48 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  156.775      1 -total
+ 84.33%  132.215      1 Template:Reflist
+ 23.33%   36.580      2 Template:Cite_web
+ 18.63%   29.205      1 Template:ISBN
+ 15.91%   24.938      3 Template:Webarchive
+ 14.10%   22.104      3 Template:Navbox
+ 10.41%   16.322      1 Template:Magnetospherics
+  9.16%   14.362      3 Template:Cite_journal
+  6.63%   10.391      1 Template:Catalog_lookup_link
+  5.11%    8.008      1 Template:The_Sun
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:3205338-0!canonical and timestamp 20180314003301 and revision id 808228051
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Heliospheric_current_sheet&amp;oldid=808228051">
+      https://en.wikipedia.org/w/index.php?title=Heliospheric_current_sheet&amp;oldid=808228051
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Plasma_physics" title="Category:Plasma physics">
+         Plasma physics
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Sun" title="Category:Sun">
+         Sun
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Space_plasmas" title="Category:Space plasmas">
+         Space plasmas
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">
+         Webarchive template wayback links
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:CS1_maint:_BOT:_original-url_status_unknown" title="Category:CS1 maint: BOT: original-url status unknown">
+         CS1 maint: BOT: original-url status unknown
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Heliospheric+current+sheet" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Heliospheric+current+sheet" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Heliospheric_current_sheet" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Heliospheric_current_sheet" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Heliospheric_current_sheet">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Heliospheric_current_sheet&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Heliospheric_current_sheet&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Heliospheric_current_sheet" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Heliospheric_current_sheet" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Heliospheric_current_sheet&amp;oldid=808228051" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Heliospheric_current_sheet&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q619081" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Heliospheric_current_sheet&amp;id=808228051" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Heliospheric+current+sheet">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Heliospheric+current+sheet&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Heliospheric_current_sheet&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AD%D9%84%D8%B2%D9%88%D9%86_%D8%A8%D8%A7%D8%B1%D9%83%D8%B1" hreflang="ar" lang="ar" title="حلزون باركر – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be">
+        <a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%93%D0%B5%D0%BB%D1%96%D1%8F%D1%81%D1%84%D0%B5%D1%80%D0%BD%D1%8B_%D1%82%D0%BE%D0%BA%D0%B0%D0%B2%D1%8B_%D1%81%D0%BB%D0%BE%D0%B9" hreflang="be" lang="be" title="Геліясферны токавы слой – Belarusian">
+         Беларуская
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Corrent_heliosf%C3%A8ric_dif%C3%BAs" hreflang="ca" lang="ca" title="Corrent heliosfèric difús – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Heliosph%C3%A4rische_Stromschicht" hreflang="de" lang="de" title="Heliosphärische Stromschicht – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Espiral_de_Parker" hreflang="es" lang="es" title="Espiral de Parker – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Spirale_de_Parker" hreflang="fr" lang="fr" title="Spirale de Parker – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%ED%83%9C%EC%96%91%EA%B6%8C_%EC%A0%84%EB%A5%98%ED%8E%B8" hreflang="ko" lang="ko" title="태양권 전류편 – Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Corrente_eliosferica_diffusa" hreflang="it" lang="it" title="Corrente eliosferica diffusa – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Parkerspiraal" hreflang="nl" lang="nl" title="Parkerspiraal – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%A4%AA%E9%99%BD%E5%9C%8F%E9%9B%BB%E6%B5%81%E3%82%B7%E3%83%BC%E3%83%88" hreflang="ja" lang="ja" title="太陽圏電流シート – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Parkerspiral" hreflang="no" lang="no" title="Parkerspiral – Norwegian">
+         Norsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Espiral_de_Parker" hreflang="pt" lang="pt" title="Espiral de Parker – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D0%BB%D0%B8%D0%BE%D1%81%D1%84%D0%B5%D1%80%D0%BD%D1%8B%D0%B9_%D1%82%D0%BE%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_%D1%81%D0%BB%D0%BE%D0%B9" hreflang="ru" lang="ru" title="Гелиосферный токовый слой – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ta">
+        <a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AE%BE%E0%AE%B0%E0%AF%8D%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%B0%E0%AF%8D_%E0%AE%9A%E0%AF%81%E0%AE%B0%E0%AF%81%E0%AE%B3%E0%AF%8D" hreflang="ta" lang="ta" title="பார்க்கர் சுருள் – Tamil">
+         தமிழ்
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%A4%AA%E9%99%BD%E5%9C%88%E9%9B%BB%E6%B5%81%E7%89%87" hreflang="zh" lang="zh" title="太陽圈電流片 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q619081#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 1 November 2017, at 17:05.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Heliospheric_current_sheet&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.184","walltime":"0.245","ppvisitednodes":{"value":891,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":43292,"limit":2097152},"templateargumentsize":{"value":509,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":12805,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  156.775      1 -total"," 84.33%  132.215      1 Template:Reflist"," 23.33%   36.580      2 Template:Cite_web"," 18.63%   29.205      1 Template:ISBN"," 15.91%   24.938      3 Template:Webarchive"," 14.10%   22.104      3 Template:Navbox"," 10.41%   16.322      1 Template:Magnetospherics","  9.16%   14.362      3 Template:Cite_journal","  6.63%   10.391      1 Template:Catalog_lookup_link","  5.11%    8.008      1 Template:The_Sun"]},"scribunto":{"limitreport-timeusage":{"value":"0.057","limit":"10.000"},"limitreport-memusage":{"value":2595551,"limit":52428800}},"cachereport":{"origin":"mw1333","timestamp":"20180314003302","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":77,"wgHostname":"mw1249"});});
+  </script>
+ </body>
+</html>

@@ -1,0 +1,2359 @@
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Scriptment - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Scriptment","wgTitle":"Scriptment","wgCurRevisionId":803436029,"wgRevisionId":803436029,"wgArticleId":10378060,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 errors: dates","All articles with unsourced statements","Articles with unsourced statements from December 2016","Cinematic techniques","Film production","Screenwriting"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Scriptment","wgRelevantArticleId":10378060,"wgRequestId":"WrKXfgpAAEIAAIorMgIAAAAK","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q4923854","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.25" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Scriptment" rel="alternate"/>
+  <link href="/w/index.php?title=Scriptment&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Scriptment&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Scriptment" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Scriptment rootpage-Scriptment skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Scriptment
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <p>
+       A
+       <b>
+        scriptment
+       </b>
+       is a written work by a movie or television
+       <a href="/wiki/Screenwriter" title="Screenwriter">
+        screenwriter
+       </a>
+       that combines elements of a
+       <a href="/wiki/Screenplay" title="Screenplay">
+        script
+       </a>
+       and
+       <a href="/wiki/Film_treatment" title="Film treatment">
+        treatment
+       </a>
+       , especially the dialogue elements, which are formatted the same as in a screenplay. It is a more elaborate document than a standard draft treatment. Some films have been shot using only a scriptment.
+       <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+        [
+        <i>
+         <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+          <span title="This claim needs references to reliable sources. (December 2016)">
+           citation needed
+          </span>
+         </a>
+        </i>
+        ]
+       </sup>
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Origin">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Origin
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#Elements">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Elements
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-3">
+         <a href="#Work-in-progress_manuscript">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           Work-in-progress manuscript
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-4">
+         <a href="#Presentation_manuscript">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           Presentation manuscript
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-5">
+         <a href="#References">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-6">
+         <a href="#External_links">
+          <span class="tocnumber">
+           6
+          </span>
+          <span class="toctext">
+           External links
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Origin">
+        Origin
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Scriptment&amp;action=edit&amp;section=1" title="Edit section: Origin">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       The term "scriptment" was originally coined by filmmaker
+       <a href="/wiki/James_Cameron" title="James Cameron">
+        James Cameron
+       </a>
+       , possibly during his early involvement in the development of the
+       <i>
+        <a href="/wiki/Spider-Man_in_film" title="Spider-Man in film">
+         Spider-Man
+        </a>
+       </i>
+       film series. In that effort, after the success of his 1984 film
+       <i>
+        <a href="/wiki/The_Terminator" title="The Terminator">
+         The Terminator
+        </a>
+       </i>
+       , Cameron wrote a 57-page scriptment for the first proposed
+       <i>
+        Spider-Man
+       </i>
+       film, which was used by screenwriter
+       <a href="/wiki/David_Koepp" title="David Koepp">
+        David Koepp
+       </a>
+       to write the first draft, incorporating it nearly word for word.
+       <sup class="reference" id="cite_ref-TotalFilmJan10_1-0">
+        <a href="#cite_note-TotalFilmJan10-1">
+         [1]
+        </a>
+       </sup>
+      </p>
+      <p>
+       Cameron's scriptment for
+       <i>
+        <a href="/wiki/Titanic_(1997_film)" title="Titanic (1997 film)">
+         Titanic
+        </a>
+       </i>
+       (1997) was 131 pages.
+       <sup class="reference" id="cite_ref-2">
+        <a href="#cite_note-2">
+         [2]
+        </a>
+       </sup>
+       The term became more widely known when Cameron's 1994 scriptment for the 2009 film
+       <a href="/wiki/Avatar_(2009_film)" title="Avatar (2009 film)">
+        <i>
+         Avatar
+        </i>
+       </a>
+       was leaked on the internet during pre-production, although other directors, such as
+       <a href="/wiki/John_Hughes_(filmmaker)" title="John Hughes (filmmaker)">
+        John Hughes
+       </a>
+       and
+       <a href="/wiki/Zak_Penn" title="Zak Penn">
+        Zak Penn
+       </a>
+       , had written scriptments before. The scriptment for
+       <i>
+        <a href="/wiki/Avatar_(2009_film)" title="Avatar (2009 film)">
+         Avatar
+        </a>
+       </i>
+       (2009) and its notoriety caused the spread of the term.
+       <sup class="reference" id="cite_ref-3">
+        <a href="#cite_note-3">
+         [3]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Elements">
+        Elements
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Scriptment&amp;action=edit&amp;section=2" title="Edit section: Elements">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       A scriptment borrows characteristics from both a regular
+       <a href="/wiki/Screenplay" title="Screenplay">
+        screenplay
+       </a>
+       and a film treatment and is comparable to a
+       <a href="/wiki/Step_outline" title="Step outline">
+        step outline
+       </a>
+       : the main text body is similar to an elaborate draft treatment, while usually only major sequences receive scene location headings (
+       <a class="mw-redirect" href="/wiki/Screenplay_slug_line" title="Screenplay slug line">
+        slug lines
+       </a>
+       ), which is different from the extensive slug line formatting in standard screenplays, where every new scene or shot begins with an INT./EXT. DAY/NIGHT slug line set above the description or dialogue. However, just as a treatment can be short or long, a scriptment can exist in various degrees of completion depending on how much time the writer has devoted to it and a more fully developed one could have all slug lines in place, a great deal of dialogue, and only require the producer's (or a writing partner's) okay on the direction the finished script should take before proceeding further.
+      </p>
+      <p>
+       In a scriptment, scenes and shots may be separated as paragraphs or sentences and, if it is the writer's style, can also include an occasional explanatory note, such as might be important in an adaptation or a sequel. As with standard treatments, much of the dialogue is summarized in action. The longer the scriptment, however, the more likely it contains dialog scenes that are fully developed. Single words or brief phrases of dialogue can be included within the description and lengthier exchanges are formatted exactly as a regular screenplay, which is the main reason for the "script" part of the term.
+      </p>
+      <p>
+       The longer the scriptment, the more likely it is written shot to shot as opposed to scene by scene; thus, a long, detailed scriptment does not necessarily equate to a longer movie, as a typical 90-120 page screenplay written with master scenes contains many more individual shots than are immediately apparent.
+      </p>
+      <p>
+       A scriptment can begin with FADE IN: top left and conclude with a centered THE END. It can have a title page like a script and lengthier treatment. It is written single spaced with an empty space between paragraphs and other elements and the pages are numbered in the upper right corner, just as in a screenplay.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Work-in-progress_manuscript">
+        Work-in-progress manuscript
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Scriptment&amp;action=edit&amp;section=3" title="Edit section: Work-in-progress manuscript">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Directors and screenwriters write scriptments as an intermediate stage in development from the draft treatment to the first draft of the screenplay. Like a draft treatment, a scriptment can be anywhere from 20 to 80 or more pages, while regular presentation treatments or
+       <a href="/wiki/Step_outline" title="Step outline">
+        outlines
+       </a>
+       only summarize the plot, typically in not more than 30 pages.
+      </p>
+      <ul>
+       <li>
+        For the
+        <a href="/wiki/Batman" title="Batman">
+         Batman
+        </a>
+        feature film
+        <i>
+         <a href="/wiki/The_Dark_Knight_(film)" title="The Dark Knight (film)">
+          The Dark Knight
+         </a>
+        </i>
+        (2008), writer
+        <a href="/wiki/David_S._Goyer" title="David S. Goyer">
+         David S. Goyer
+        </a>
+        and the film's director
+        <a href="/wiki/Christopher_Nolan" title="Christopher Nolan">
+         Christopher Nolan
+        </a>
+        wrote a scriptment that was then used by Nolan and his brother
+        <a href="/wiki/Jonathan_Nolan" title="Jonathan Nolan">
+         Jonathan Nolan
+        </a>
+        to expand further into a finished screenplay. "I wrote what you'd call a 'scriptment' with Chris over an accelerated month long period, and then we handed it off to his brother [Jonathan], who did the first pass," explains Goyer.
+        <sup class="reference" id="cite_ref-4">
+         <a href="#cite_note-4">
+          [4]
+         </a>
+        </sup>
+       </li>
+      </ul>
+      <ul>
+       <li>
+        The sci-fi movie
+        <i>
+         <a href="/wiki/Transformers:_Revenge_of_the_Fallen" title="Transformers: Revenge of the Fallen">
+          Transformers: Revenge of the Fallen
+         </a>
+        </i>
+        (2009) reportedly used a scriptment during the screenplay writing process by
+        <a href="/wiki/Roberto_Orci" title="Roberto Orci">
+         Roberto Orci
+        </a>
+        ,
+        <a href="/wiki/Alex_Kurtzman" title="Alex Kurtzman">
+         Alex Kurtzman
+        </a>
+        ,
+        <a href="/wiki/Ehren_Kruger" title="Ehren Kruger">
+         Ehren Kruger
+        </a>
+        and director
+        <a href="/wiki/Michael_Bay" title="Michael Bay">
+         Michael Bay
+        </a>
+        .
+        <sup class="reference" id="cite_ref-5">
+         <a href="#cite_note-5">
+          [5]
+         </a>
+        </sup>
+       </li>
+      </ul>
+      <ul>
+       <li>
+        Filmmaker
+        <a href="/wiki/Wayne_Spitzer" title="Wayne Spitzer">
+         Wayne Spitzer
+        </a>
+        used a scriptment while writing the adaptation of author Algernon Blackwood’s 1907 supernatural short story "
+        <a href="/wiki/The_Willows_(story)" title="The Willows (story)">
+         The Willows
+        </a>
+        ".
+        <sup class="reference" id="cite_ref-6">
+         <a href="#cite_note-6">
+          [6]
+         </a>
+        </sup>
+       </li>
+      </ul>
+      <ul>
+       <li>
+        Comic book writer
+        <a href="/wiki/Warren_Ellis" title="Warren Ellis">
+         Warren Ellis
+        </a>
+        has written that he sometimes works in the scriptment style.
+        <sup class="reference" id="cite_ref-7">
+         <a href="#cite_note-7">
+          [7]
+         </a>
+        </sup>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="Presentation_manuscript">
+        Presentation manuscript
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Scriptment&amp;action=edit&amp;section=4" title="Edit section: Presentation manuscript">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       A scriptment can also be a presentation document; that is, one that is sold or handed in as the finished work.
+      </p>
+      <ul>
+       <li>
+        Writer-director-producer James Cameron delivered a 57-page scriptment that he was contracted to write during the development phase of the first
+        <i>
+         Spider-Man
+        </i>
+        (2002) theatrical movie, which he was also going to direct. When Cameron left the project, screenwriter David Koepp expanded it into a first draft script, which was later worked on by other uncredited writers.
+        <sup class="reference" id="cite_ref-TotalFilmJan10_1-1">
+         <a href="#cite_note-TotalFilmJan10-1">
+          [1]
+         </a>
+        </sup>
+       </li>
+       <li>
+        In 2005,
+        <a href="/wiki/Sony_Pictures" title="Sony Pictures">
+         Sony Pictures
+        </a>
+        paid screenwriter Ken Nolan US $3 million for his 75-page scriptment that was an adaptation of the then-unpublished
+        <a href="/wiki/Whitley_Strieber" title="Whitley Strieber">
+         Whitley Strieber
+        </a>
+        novel
+        <i>
+         The Grays
+        </i>
+        .
+        <sup class="reference" id="cite_ref-8">
+         <a href="#cite_note-8">
+          [8]
+         </a>
+        </sup>
+        Nolan had only one produced writing credit at the time, the screenplay for the military film
+        <i>
+         <a href="/wiki/Black_Hawk_Down_(film)" title="Black Hawk Down (film)">
+          Black Hawk Down
+         </a>
+        </i>
+        , a project for which he had submitted three different scriptments to producer
+        <a href="/wiki/Jerry_Bruckheimer" title="Jerry Bruckheimer">
+         Jerry Bruckheimer
+        </a>
+        and executive producers Mike Stenson, and Chad Oman for approval during the writing process.
+        <sup class="reference" id="cite_ref-9">
+         <a href="#cite_note-9">
+          [9]
+         </a>
+        </sup>
+       </li>
+      </ul>
+      <ul>
+       <li>
+        Filmmakers Kriv Stenders and Richard Green used the scripment format to make their 2007 film
+        <i>
+         Boxing Day
+        </i>
+        .
+        <sup class="reference" id="cite_ref-10">
+         <a href="#cite_note-10">
+          [10]
+         </a>
+        </sup>
+       </li>
+      </ul>
+      <ul>
+       <li>
+        The 2008 movie
+        <i>
+         <a href="/wiki/Cloverfield" title="Cloverfield">
+          Cloverfield
+         </a>
+        </i>
+        written by
+        <a href="/wiki/Drew_Goddard" title="Drew Goddard">
+         Drew Goddard
+        </a>
+        , directed by
+        <a href="/wiki/Matt_Reeves" title="Matt Reeves">
+         Matt Reeves
+        </a>
+        , and produced by
+        <a href="/wiki/J._J._Abrams" title="J. J. Abrams">
+         J. J. Abrams
+        </a>
+        , was greenlighted for production by
+        <a href="/wiki/Paramount_Pictures" title="Paramount Pictures">
+         Paramount Pictures
+        </a>
+        President of Production Brad Weston and
+        <a href="/wiki/Brad_Grey" title="Brad Grey">
+         Brad Grey
+        </a>
+        , Chairman, based on a 65-page scriptment.
+        <sup class="reference" id="cite_ref-11">
+         <a href="#cite_note-11">
+          [11]
+         </a>
+        </sup>
+        The film was also shot using the scriptment.
+        <sup class="reference" id="cite_ref-12">
+         <a href="#cite_note-12">
+          [12]
+         </a>
+        </sup>
+       </li>
+      </ul>
+      <ul>
+       <li>
+        The 2008 improv comedy movie
+        <i>
+         <a href="/wiki/The_Grand_(film)" title="The Grand (film)">
+          The Grand
+         </a>
+        </i>
+        , written by
+        <a href="/wiki/Zak_Penn" title="Zak Penn">
+         Zak Penn
+        </a>
+        and Matt Bierman, was filmed using a scriptment.
+        <sup class="reference" id="cite_ref-13">
+         <a href="#cite_note-13">
+          [13]
+         </a>
+        </sup>
+        Penn said their scriptment "started at about 25 pages and it was just a document that explained who the characters were and what the scenes were."
+        <sup class="reference" id="cite_ref-14">
+         <a href="#cite_note-14">
+          [14]
+         </a>
+        </sup>
+       </li>
+      </ul>
+      <ul>
+       <li>
+        Also using a scriptment for filming was the 2008 comedy
+        <i>
+         <a href="/wiki/Reno_911!:_Miami" title="Reno 911!: Miami">
+          Reno 911!: Miami
+         </a>
+        </i>
+        ,
+        <sup class="reference" id="cite_ref-15">
+         <a href="#cite_note-15">
+          [15]
+         </a>
+        </sup>
+        written by Robert Ben Garant,
+        <a class="mw-redirect" href="/wiki/Thomas_Lennon_(actor)" title="Thomas Lennon (actor)">
+         Thomas Lennon
+        </a>
+        , and
+        <a href="/wiki/Kerri_Kenney-Silver" title="Kerri Kenney-Silver">
+         Kerri Kenney-Silver
+        </a>
+        .
+       </li>
+      </ul>
+      <ul>
+       <li>
+        It was reported on the movie news website
+        <a href="/wiki/Ain%27t_It_Cool_News" title="Ain't It Cool News">
+         Ain't It Cool News
+        </a>
+        on December 1, 2008 that a scriptment was involved in developing a possible new
+        <i>
+         <a href="/wiki/Speed_(1994_film)" title="Speed (1994 film)">
+          Speed
+         </a>
+        </i>
+        sequel or remake: "There's a scriptment floating around that reintroduces Jack Traven. So the studios are hoping to get Keanu back on board."
+        <sup class="reference" id="cite_ref-16">
+         <a href="#cite_note-16">
+          [16]
+         </a>
+        </sup>
+       </li>
+      </ul>
+      <ul>
+       <li>
+        Director-producer-writer
+        <a href="/wiki/John_Hughes_(filmmaker)" title="John Hughes (filmmaker)">
+         John Hughes
+        </a>
+        wrote a 70-page scriptment for the Owen Wilson-starring comedy
+        <i>
+         <a href="/wiki/Drillbit_Taylor" title="Drillbit Taylor">
+          Drillbit Taylor
+         </a>
+        </i>
+        (2008) that was used years later by screenwriters
+        <a href="/wiki/Kristofor_Brown" title="Kristofor Brown">
+         Kristofor Brown
+        </a>
+        and
+        <a href="/wiki/Seth_Rogen" title="Seth Rogen">
+         Seth Rogen
+        </a>
+        as the basis for a revised finished screenplay.
+        <sup class="reference" id="cite_ref-17">
+         <a href="#cite_note-17">
+          [17]
+         </a>
+        </sup>
+        <sup class="reference" id="cite_ref-18">
+         <a href="#cite_note-18">
+          [18]
+         </a>
+        </sup>
+       </li>
+      </ul>
+      <ul>
+       <li>
+        The 2009 comedy film
+        <i>
+         <a href="/wiki/I_Love_You,_Beth_Cooper_(film)" title="I Love You, Beth Cooper (film)">
+          I Love You, Beth Cooper
+         </a>
+        </i>
+        , written by
+        <a href="/wiki/Larry_Doyle_(writer)" title="Larry Doyle (writer)">
+         Larry Doyle
+        </a>
+        , originated as an 85-page scriptment that was shopped around Hollywood and then subsequently turned into a book manuscript.
+        <sup class="reference" id="cite_ref-19">
+         <a href="#cite_note-19">
+          [19]
+         </a>
+        </sup>
+        <sup class="reference" id="cite_ref-20">
+         <a href="#cite_note-20">
+          [20]
+         </a>
+        </sup>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Scriptment&amp;action=edit&amp;section=5" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+       <ol class="references">
+        <li id="cite_note-TotalFilmJan10-1">
+         <span class="mw-cite-backlink">
+          ^
+          <a href="#cite_ref-TotalFilmJan10_1-0">
+           <sup>
+            <i>
+             <b>
+              a
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-TotalFilmJan10_1-1">
+           <sup>
+            <i>
+             <b>
+              b
+             </b>
+            </i>
+           </sup>
+          </a>
+         </span>
+         <span class="reference-text">
+          <cite class="citation journal">
+           "King of the World: The Complete Works of James Cameron".
+           <i>
+            Total Film (special supplement)
+           </i>
+           . London UK: Future Publishing Ltd: 30. January 2010 issue (pub. Dec 2009).
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Total+Film+%28special+supplement%29&amp;rft.atitle=King+of+the+World%3A+The+Complete+Works+of+James+Cameron&amp;rft.chron=January+2010+issue+%28pub.+Dec+2009%29&amp;rft.pages=30&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScriptment">
+           <span style="display:none;">
+           </span>
+          </span>
+          <span class="error citation-comment" style="font-size:100%">
+           Check date values in:
+           <code style="color:inherit; border:inherit; padding:inherit;">
+            |date=
+           </code>
+           (
+           <a href="/wiki/Help:CS1_errors#bad_date" title="Help:CS1 errors">
+            help
+           </a>
+           )
+          </span>
+          "After the success of
+          <i>
+           The Terminator,
+          </i>
+          Cameron was announced as writer and director of a $60 m big-screen adaptation of the comic book classic. But thanks to a tangled web of litigation, studio bankrupticies, and wrangling over screenplay credits, that movie never saw light. . . . What remains, however, is Cameron's tantalising 57-page Spidey 'scriptment', a compacted screenplay-cum-narrative that mapped out his entire film in brief. . . . Koepp's first draft is taken often word-for-word from Cameron's story, though later versions were heavily rewritten by numerous screenwriters. Despite this&amp;#151;and much to Cameron's chagrin&amp;#151; Koepp's name is the only one on the screenplay."
+         </span>
+        </li>
+        <li id="cite_note-2">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-2">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation book">
+           Jermyn, Deborah; Redmond, Sean (2003).
+           <i>
+            The Cinema of Kathryn Bigelow: Hollywood Transgressor
+           </i>
+           . London UK: Wallflower Press. p. 190.
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/1-903364-42-6" title="Special:BookSources/1-903364-42-6">
+            1-903364-42-6
+           </a>
+           .
+           <q>
+            Cocks (
+            <i>
+             Last Temptation of Christ
+            </i>
+            ,
+            <i>
+             Age of Innocence
+            </i>
+            , [uncredited]
+            <i>
+             Titanic
+            </i>
+            ) entered into the writing process when Cameron finished his 131-page 'scriptment' and turned his attention to
+            <i>
+             True Lies
+            </i>
+            .
+           </q>
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Cinema+of+Kathryn+Bigelow%3A+Hollywood+Transgressor&amp;rft.place=London+UK&amp;rft.pages=190&amp;rft.pub=Wallflower+Press&amp;rft.date=2003&amp;rft.isbn=1-903364-42-6&amp;rft.au=Jermyn%2C+Deborah&amp;rft.au=Redmond%2C+Sean&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScriptment">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-3">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-3">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation magazine">
+           "Revolution 09: Avatar".
+           <i>
+            Total Film magazine
+           </i>
+           . London UK: Future Publishing Ltd. January 2010 issue (pub. Dec 2009), cover story. p. 74.
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Revolution+09%3A+Avatar&amp;rft.place=London+UK&amp;rft.pages=74&amp;rft.pub=Future+Publishing+Ltd&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScriptment">
+           <span style="display:none;">
+           </span>
+          </span>
+          <span class="error citation-comment" style="font-size:100%">
+           Check date values in:
+           <code style="color:inherit; border:inherit; padding:inherit;">
+            |date=
+           </code>
+           (
+           <a href="/wiki/Help:CS1_errors#bad_date" title="Help:CS1 errors">
+            help
+           </a>
+           )
+          </span>
+          "This 80-page scriptment was about a paralysed man who can control an alien body with his mind. It flowed out of him, wrote itself in just two weeks."
+         </span>
+        </li>
+        <li id="cite_note-4">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-4">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           <a class="external text" href="http://www.batman-movie-buzz.com/news/47/two-face-not-necessarily-in-the-dark-knight.html" rel="nofollow">
+            "Two-Face Not Necessarily in the Dark Knight"
+           </a>
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             May 9,
+            </span>
+            2009
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Two-Face+Not+Necessarily+in+the+Dark+Knight&amp;rft_id=http%3A%2F%2Fwww.batman-movie-buzz.com%2Fnews%2F47%2Ftwo-face-not-necessarily-in-the-dark-knight.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScriptment">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-5">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-5">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           <a class="external text" href="http://www.intro2u.net/new/2009/03/revenge-of-the-fallen-transformers" rel="nofollow">
+            "Revenge of the Fallen Transformers"
+           </a>
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             May 9,
+            </span>
+            2009
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Revenge+of+the+Fallen+Transformers&amp;rft_id=http%3A%2F%2Fwww.intro2u.net%2Fnew%2F2009%2F03%2Frevenge-of-the-fallen-transformers&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScriptment">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-6">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-6">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           <a class="external text" href="http://waynespitzer.wordpress.com/2008/02/19/%e2%80%9calgernon-blackwood%e2%80%99s-the-willows%e2%80%9d-by-wayne-spitzer-early-scriptment/" rel="nofollow">
+            "
+            <i>
+             Algernon Blackwood's The Willows
+            </i>
+            by Wayne Spitzer"
+           </a>
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             April 18,
+            </span>
+            2009
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Algernon+Blackwood%E2%80%99s+The+Willows+by+Wayne+Spitzer&amp;rft_id=http%3A%2F%2Fwaynespitzer.wordpress.com%2F2008%2F02%2F19%2F%25e2%2580%259calgernon-blackwood%25e2%2580%2599s-the-willows%25e2%2580%259d-by-wayne-spitzer-early-scriptment%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScriptment">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-7">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-7">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           <a class="external text" href="http://www.warrenellis.com/?p=6196&amp;start=70&amp;" rel="nofollow">
+            "Gravel: Scriptment Writing"
+           </a>
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             April 17,
+            </span>
+            2009
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Gravel%3A+Scriptment+Writing&amp;rft_id=http%3A%2F%2Fwww.warrenellis.com%2F%3Fp%3D6196%26start%3D70%26&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScriptment">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-8">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-8">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation magazine">
+           Brodesser, Claude (August 23, 2005).
+           <a class="external text" href="http://www.variety.com/article/VR1117927980.html?categoryid=13&amp;cs=1" rel="nofollow">
+            "Sony ponies up 'Gray' pay: Little green men means big green for Nolan"
+           </a>
+           .
+           <i>
+            Variety
+           </i>
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             April 17,
+            </span>
+            2009
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Sony+ponies+up+%27Gray%27+pay%3A+Little+green+men+means+big+green+for+Nolan&amp;rft.date=2005-08-23&amp;rft.aulast=Brodesser&amp;rft.aufirst=Claude&amp;rft_id=http%3A%2F%2Fwww.variety.com%2Farticle%2FVR1117927980.html%3Fcategoryid%3D13%26cs%3D1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScriptment">
+           <span style="display:none;">
+           </span>
+          </span>
+          <i>
+           Variety
+          </i>
+          , August 23, 2005, reported by Claude Brodesser. "Sony Pictures will pay
+          <i>
+           Black Hawk Down
+          </i>
+          screenwriter Ken Nolan $3 million for his 75-page 'script-ment' (less than a script but more than a treatment) of Whitley Strieber's as-yet-unpublished alien sci-fi novel
+          <i>
+           The Grays
+          </i>
+          , marking one of the studio's largest payments for a treatment."
+         </span>
+        </li>
+        <li id="cite_note-9">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-9">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation book">
+           Cohen, David S. (2008).
+           <i>
+            Screenplays
+           </i>
+           . New York: HarperCollins. p. 82.
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/978-0-06-143157-9" title="Special:BookSources/978-0-06-143157-9">
+            978-0-06-143157-9
+           </a>
+           .
+           <q>
+            He'd heard that James Cameron would write detailed fifty- to sixty-page treatments he called 'scriptlets [sic],' including dialogue and action. ... He [Nolan] did three drafts of the [
+            <i>
+             Black Hawk Down
+            </i>
+            ] scriptlet [sic], taking notes from Jerry Bruckheimer and his lieutenants Mike Stenson and Chad Oman on each draft, before actually turning it into a screenplay.
+           </q>
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Screenplays&amp;rft.place=New+York&amp;rft.pages=82&amp;rft.pub=HarperCollins&amp;rft.date=2008&amp;rft.isbn=978-0-06-143157-9&amp;rft.au=Cohen%2C+David+S.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScriptment">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-10">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-10">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           <a class="external text" href="http://archive.sensesofcinema.com/contents/08/46/kriv-stenders-boxing-day.html" rel="nofollow">
+            "Boxing Day Scriptment, Stenders &amp; Green"
+           </a>
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             April 17,
+            </span>
+            2009
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Boxing+Day+Scriptment%2C+Stenders+%26+Green&amp;rft_id=http%3A%2F%2Farchive.sensesofcinema.com%2Fcontents%2F08%2F46%2Fkriv-stenders-boxing-day.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScriptment">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-11">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-11">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation news">
+           Cieply, Michael (January 13, 2008).
+           <a class="external text" href="https://www.nytimes.com/2008/01/13/movies/13ciep.html?_r=1&amp;ex=1357966800&amp;en=c6068bf57265935b&amp;ei=5088&amp;partner=rssnyt&amp;emc=rss" rel="nofollow">
+            "Remaking Paramount by the Seat of His Pants"
+           </a>
+           .
+           <i>
+            The New York Times
+           </i>
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             April 18,
+            </span>
+            2009
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+New+York+Times&amp;rft.atitle=Remaking+Paramount+by+the+Seat+of+His+Pants&amp;rft.date=2008-01-13&amp;rft.aulast=Cieply&amp;rft.aufirst=Michael&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2008%2F01%2F13%2Fmovies%2F13ciep.html%3F_r%3D1%26ex%3D1357966800%26en%3Dc6068bf57265935b%26ei%3D5088%26partner%3Drssnyt%26emc%3Drss&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScriptment">
+           <span style="display:none;">
+           </span>
+          </span>
+          <i>
+           New York Times
+          </i>
+          , January 13, 2008; interview with Brad Grey, the Chairman of Paramount Pictures discussing the film
+          <i>
+           Cloverfield
+          </i>
+          . Quote: “What do you mean, you’re going to greenlight the movie with a kid named Matt directing?” Mr. Grey said, according to Mr. Weston. Yet with just a 65-page “scriptment” (more than a treatment, less than a script) laying out a film about a bunch of friends who happen to capture on camera the utter destruction of New York by a monster, he went with Mr. Weston’s judgment, hedged by Mr. Abrams’s assurance that he would be closely involved with the film.
+         </span>
+        </li>
+        <li id="cite_note-12">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-12">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           <a class="external text" href="http://www.portfolio.com/executives/features/2008/02/21/Top-Hollywood-Execs/index.html" rel="nofollow">
+            "The New Masters of Hollywood"
+           </a>
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             December 10,
+            </span>
+            2009
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+New+Masters+of+Hollywood&amp;rft_id=http%3A%2F%2Fwww.portfolio.com%2Fexecutives%2Ffeatures%2F2008%2F02%2F21%2FTop-Hollywood-Execs%2Findex.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScriptment">
+           <span style="display:none;">
+           </span>
+          </span>
+          Portfolio.com interview with Producer and director J.J. Abrams. February 21, 2008. Quote: "Abrams hired a relative unknown, Matt Reeves, to direct the film, which was shot handheld from a 'scriptment,' an outline around which dialogue was improvised."
+         </span>
+        </li>
+        <li id="cite_note-13">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-13">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           <a class="external text" href="http://www.movingpicturesmagazine.com/departments/offscreen/mattbierman" rel="nofollow">
+            "Moving Pictures Magazine - A Sure Bet"
+           </a>
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             May 9,
+            </span>
+            2009
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Moving+Pictures+Magazine+-+A+Sure+Bet&amp;rft_id=http%3A%2F%2Fwww.movingpicturesmagazine.com%2Fdepartments%2Foffscreen%2Fmattbierman&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScriptment">
+           <span style="display:none;">
+           </span>
+          </span>
+          Quote: "Now that we had assembled our leads, Zak and I actually sat down to write the scriptment."
+         </span>
+        </li>
+        <li id="cite_note-14">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-14">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           Grove, Martin (March 12, 2008).
+           <a class="external text" href="https://archive.is/20130125135608/http://www.hollywoodreporter.com/hr/content_display/features/columns/e3i28f93d938052f66a0625ff728620d8be" rel="nofollow">
+            "In 'Grand' scheme of things we improvise"
+           </a>
+           . Hollywood Reporter. Archived from
+           <a class="external text" href="http://www.hollywoodreporter.com/hr/content_display/features/columns/e3i28f93d938052f66a0625ff728620d8be" rel="nofollow">
+            the original
+           </a>
+           on January 25, 2013
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             August 6,
+            </span>
+            2010
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=In+%27Grand%27+scheme+of+things+we+improvise&amp;rft.pub=Hollywood+Reporter&amp;rft.date=2008-03-12&amp;rft.aulast=Grove&amp;rft.aufirst=Martin&amp;rft_id=http%3A%2F%2Fwww.hollywoodreporter.com%2Fhr%2Fcontent_display%2Ffeatures%2Fcolumns%2Fe3i28f93d938052f66a0625ff728620d8be&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScriptment">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-15">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-15">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           <a class="external text" href="http://www.cracked.com/article_15335_reno-911s-carlos-alzaraqui.html" rel="nofollow">
+            "Reno: 911!'s Carlos Alzaraqui"
+           </a>
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             May 9,
+            </span>
+            2009
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Reno%3A+911%21%27s+Carlos+Alzaraqui&amp;rft_id=http%3A%2F%2Fwww.cracked.com%2Farticle_15335_reno-911s-carlos-alzaraqui.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScriptment">
+           <span style="display:none;">
+           </span>
+          </span>
+          Cracked.com, February 22, 2007 article. Quote: "With the movie there was something they called a scriptment, a combination of a script and a treatment, which was to please both the Fox and Paramount executives."
+         </span>
+        </li>
+        <li id="cite_note-16">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-16">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           <a class="external text" href="http://www.aintitcool.com/node/39284" rel="nofollow">
+            "Seems There's A New SPEED Project Zooming Around Out There..."
+           </a>
+           <span class="reference-accessdate">
+            Retrieved
+            <span class="nowrap">
+             May 9,
+            </span>
+            2009
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Seems+There%27s+A+New+SPEED+Project+Zooming+Around+Out+There...&amp;rft_id=http%3A%2F%2Fwww.aintitcool.com%2Fnode%2F39284&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScriptment">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-17">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-17">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           <a class="external text" href="http://www.empiremovies.com/?p=11749" rel="nofollow">
+            "Owen Wilson is Drillbit Taylor"
+           </a>
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             May 9,
+            </span>
+            2009
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Owen+Wilson+is+Drillbit+Taylor&amp;rft_id=http%3A%2F%2Fwww.empiremovies.com%2F%3Fp%3D11749&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScriptment">
+           <span style="display:none;">
+           </span>
+          </span>
+          EmpireMovies.com June 20, 2006. Quote: "The story is based on an original idea by John Hughes who wrote a 70-page scriptment a couple of years ago."
+         </span>
+        </li>
+        <li id="cite_note-18">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-18">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           <a class="external text" href="https://web.archive.org/web/20090503075833/http://movies.yahoo.com/movie/contributor/1804494942/bio" rel="nofollow">
+            "Seth Rogan Bio - movies.yahoo.com"
+           </a>
+           . Archived from
+           <a class="external text" href="https://movies.yahoo.com/movie/contributor/1804494942/bio" rel="nofollow">
+            the original
+           </a>
+           on May 3, 2009
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             May 9,
+            </span>
+            2009
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Seth+Rogan+Bio+-+movies.yahoo.com&amp;rft_id=https%3A%2F%2Fmovies.yahoo.com%2Fmovie%2Fcontributor%2F1804494942%2Fbio&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScriptment">
+           <span style="display:none;">
+           </span>
+          </span>
+          Quote excerpt: "...co-wrote the screenplay based on a John Hughes scriptment of the high school comedy, “Drillbit Taylor” (2008)..."
+         </span>
+        </li>
+        <li id="cite_note-19">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-19">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation journal">
+           Stoval, Adam (July–August 2009). "Now Playing: I Love You, Beth Cooper, Screenplay by Larry Doyle".
+           <i>
+            Creative Screenwriting
+           </i>
+           . Los Angeles: 63.
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Creative+Screenwriting&amp;rft.atitle=Now+Playing%3A+I+Love+You%2C+Beth+Cooper%2C+Screenplay+by+Larry+Doyle&amp;rft.pages=63&amp;rft.date=2009-07%2F2009-08&amp;rft.aulast=Stoval&amp;rft.aufirst=Adam&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScriptment">
+           <span style="display:none;">
+           </span>
+          </span>
+          "Doyle quickly had his theme, characters and obviously his inciting event&amp;#151;which led him to write an 85-page combination script and outline that everyone passed on. ... In between meetings [with New York publishers], his film agent called to tell him that Hollywood had read the hundred pages as well and wanted to make the movie."
+         </span>
+        </li>
+        <li id="cite_note-20">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-20">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           <a class="external text" href="http://www.chicagoreader.com/features/stories/springbooks07/reviews" rel="nofollow">
+            "Chicago Reader - Review: I Love You, Beth Cooper"
+           </a>
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             July 16,
+            </span>
+            2009
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Chicago+Reader+-+Review%3A+I+Love+You%2C+Beth+Cooper&amp;rft_id=http%3A%2F%2Fwww.chicagoreader.com%2Ffeatures%2Fstories%2Fspringbooks07%2Freviews&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScriptment">
+           <span style="display:none;">
+           </span>
+          </span>
+          "Ironically, I Love You, Beth Cooper had its origin in a 'scriptment' by Larry Doyle that an LA talent agency rejected as uncastable. Now it’s been optioned by Chris Columbus and picked up by a studio;"
+         </span>
+        </li>
+       </ol>
+      </div>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Scriptment&amp;action=edit&amp;section=6" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       <a class="image" href="/wiki/File:Wiktionary-logo-en-v2.svg">
+        <img alt="" class="noviewer" data-file-height="391" data-file-width="391" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/16px-Wiktionary-logo-en-v2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/24px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/32px-Wiktionary-logo-en-v2.svg.png 2x" width="16"/>
+       </a>
+       The dictionary definition of
+       <a class="extiw" href="https://en.wiktionary.org/wiki/scriptment" title="wiktionary:scriptment">
+        scriptment
+       </a>
+       at Wiktionary
+      </p>
+      <div aria-labelledby="Filmmaking" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="2" scope="col" style="text-align: center;">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:Filmmaking" title="Template:Filmmaking">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a href="/wiki/Template_talk:Filmmaking" title="Template talk:Filmmaking">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Filmmaking&amp;action=edit">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="Filmmaking" style="font-size:114%;margin:0 4em">
+           <a href="/wiki/Filmmaking" title="Filmmaking">
+            Filmmaking
+           </a>
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Filmmaking#Development" title="Filmmaking">
+           Development
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Film_treatment" title="Film treatment">
+              Film treatment
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Film_producer" title="Film producer">
+              Producer
+             </a>
+             <ul>
+              <li>
+               <a class="mw-selflink selflink">
+                scriptment
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Step_outline" title="Step outline">
+              Step outline
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Screenplay" title="Screenplay">
+              Screenplay
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Screenwriting" title="Screenwriting">
+                process
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Spec_script" title="Spec script">
+                spec script
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Film_adaptation" title="Film adaptation">
+                film adaptation
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Hook_(filmmaking)" title="Hook (filmmaking)">
+                Hook
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Option_(filmmaking)" title="Option (filmmaking)">
+                Option
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Film_budgeting" title="Film budgeting">
+              Film budgeting
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Film_finance" title="Film finance">
+              Film finance
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Pitch_(filmmaking)" title="Pitch (filmmaking)">
+                pitch
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Green-light" title="Green-light">
+              Green-light
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Pre-production" title="Pre-production">
+           Pre-production
+          </a>
+         </th>
+         <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Script_breakdown" title="Script breakdown">
+              Script breakdown
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Breaking_down_the_script" title="Breaking down the script">
+                process
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Shooting_script" title="Shooting script">
+              Shooting script
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Storyboard" title="Storyboard">
+              Storyboard
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Casting_(performing_arts)" title="Casting (performing arts)">
+              Casting
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Scenography" title="Scenography">
+                Scenography
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Rehearsal" title="Rehearsal">
+                Rehearsal
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Production_board" title="Production board">
+              Production board
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Day_Out_of_Days" title="Day Out of Days">
+              Day Out of Days
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Production_schedule" title="Production schedule">
+              Production schedule
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Shooting_schedule" title="Shooting schedule">
+              Shooting schedule
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/One_liner_schedule" title="One liner schedule">
+                one-liner
+               </a>
+              </li>
+             </ul>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Filmmaking" title="Filmmaking">
+           Production
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Film_crew" title="Film crew">
+              Film crew
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Cinematic_techniques" title="Cinematic techniques">
+              Cinematic techniques
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Principal_photography" title="Principal photography">
+              Principal photography
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Cinematography" title="Cinematography">
+                Cinematography
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Videography" title="Videography">
+                Videography
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Daily_call_sheet" title="Daily call sheet">
+              Daily call sheet
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Dailies" title="Dailies">
+              Dailies (rushes)
+             </a>
+            </li>
+           </ul>
+          </div>
+          <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%">
+             Daily reports
+            </th>
+            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Film_inventory_report" title="Film inventory report">
+                 Film inventory
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Production_report" title="Production report">
+                 Production
+                </a>
+               </li>
+               <li>
+                <a class="mw-redirect" href="/wiki/Daily_production_report" title="Daily production report">
+                 Daily Production
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Daily_progress_report" title="Daily progress report">
+                 Progress
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Sound_report" title="Sound report">
+                 Sound
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Cost_report" title="Cost report">
+                 Cost
+                </a>
+               </li>
+               <li>
+                <a class="mw-redirect" href="/wiki/Daily_editor_log" title="Daily editor log">
+                 Editor log
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Post-production" title="Post-production">
+           Post-production
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Film_editing" title="Film editing">
+              Film editing
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Re-recording_(filmmaking)" title="Re-recording (filmmaking)">
+              Re-recording
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Sync_sound" title="Sync sound">
+              Sync sound
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Soundtrack" title="Soundtrack">
+              Soundtrack
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Film_score" title="Film score">
+              Music
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Special_effect" title="Special effect">
+              Special effects
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Sound_effect" title="Sound effect">
+                sound
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Visual_effects" title="Visual effects">
+                visual
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Negative_cost" title="Negative cost">
+              Negative cost
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Film_distribution" title="Film distribution">
+           Distribution
+          </a>
+         </th>
+         <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Film_distributor" title="Film distributor">
+              Film distributor
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/List_of_film_distributors_by_country" title="List of film distributors by country">
+                list
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Art_release" title="Art release">
+              Film release
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Wide_release" title="Wide release">
+                wide
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Limited_release" title="Limited release">
+                limited
+               </a>
+              </li>
+              <li>
+               <a class="mw-redirect" href="/wiki/Delayed_release_(film)" title="Delayed release (film)">
+                delayed
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Roadshow_theatrical_release" title="Roadshow theatrical release">
+              Roadshow
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Streaming_media" title="Streaming media">
+              Streaming media
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          Related
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Box_office" title="Box office">
+              Box office
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Guerrilla_filmmaking" title="Guerrilla filmmaking">
+              Guerrilla filmmaking
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Development_hell" title="Development hell">
+              Development hell
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Film" title="Film">
+              Film
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Filmography" title="Filmography">
+              Filmography
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Film_industry" title="Film industry">
+              Film industry
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Film_rights" title="Film rights">
+              Film rights
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Turnaround_(filmmaking)" title="Turnaround (filmmaking)">
+              Turnaround
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1324
+Cached time: 20180303193502
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.244 seconds
+Real time usage: 0.299 seconds
+Preprocessor visited node count: 1080/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 47351/2097152 bytes
+Template argument size: 661/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 1/500
+Lua time usage: 0.124/10.000 seconds
+Lua memory usage: 3.76 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  256.520      1 -total
+ 62.79%  161.073      1 Template:Reflist
+ 22.93%   58.811      1 Template:Citation_needed
+ 21.71%   55.684     13 Template:Cite_web
+ 17.03%   43.675      1 Template:Fix
+ 15.92%   40.835      2 Template:Cite_journal
+ 12.35%   31.671      2 Template:Category_handler
+  7.47%   19.160      1 Template:Filmmaking_paper_trail
+  6.36%   16.307      2 Template:Navbox
+  3.78%    9.684      2 Template:Cite_magazine
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:10378060-0!canonical and timestamp 20180303193502 and revision id 803436029
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Scriptment&amp;oldid=803436029">
+      https://en.wikipedia.org/w/index.php?title=Scriptment&amp;oldid=803436029
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Cinematic_techniques" title="Category:Cinematic techniques">
+         Cinematic techniques
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Film_production" title="Category:Film production">
+         Film production
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Screenwriting" title="Category:Screenwriting">
+         Screenwriting
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:CS1_errors:_dates" title="Category:CS1 errors: dates">
+         CS1 errors: dates
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">
+         All articles with unsourced statements
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_unsourced_statements_from_December_2016" title="Category:Articles with unsourced statements from December 2016">
+         Articles with unsourced statements from December 2016
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Scriptment" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Scriptment" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Scriptment" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Scriptment" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Scriptment">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Scriptment&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Scriptment&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Scriptment" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Scriptment" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Scriptment&amp;oldid=803436029" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Scriptment&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q4923854" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Scriptment&amp;id=803436029" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Scriptment">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Scriptment&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Scriptment&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Soggetto_(cinema)" hreflang="it" lang="it" title="Soggetto (cinema) – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-km">
+        <a class="interlanguage-link-target" href="https://km.wikipedia.org/wiki/%E1%9E%9A%E1%9E%94%E1%9F%80%E1%9E%94%E1%9E%9F%E1%9E%9F%E1%9F%81%E1%9E%9A%E1%9E%9F%E1%9F%92%E1%9E%82%E1%9F%92%E1%9E%9A%E1%9E%B8%E1%9E%94" hreflang="km" lang="km" title="របៀបសសេរស្គ្រីប – Khmer">
+         ភាសាខ្មែរ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ur">
+        <a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%D8%A7%D8%B3%DA%A9%D8%B1%D9%BE%D9%B9%D9%85%D9%86%D9%B9" hreflang="ur" lang="ur" title="اسکرپٹمنٹ – Urdu">
+         اردو
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%8A%87%E6%9C%AC%E8%AB%96%E8%BF%B0" hreflang="zh" lang="zh" title="劇本論述 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q4923854#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 2 October 2017, at 14:39.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Scriptment&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.244","walltime":"0.299","ppvisitednodes":{"value":1080,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":47351,"limit":2097152},"templateargumentsize":{"value":661,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  256.520      1 -total"," 62.79%  161.073      1 Template:Reflist"," 22.93%   58.811      1 Template:Citation_needed"," 21.71%   55.684     13 Template:Cite_web"," 17.03%   43.675      1 Template:Fix"," 15.92%   40.835      2 Template:Cite_journal"," 12.35%   31.671      2 Template:Category_handler","  7.47%   19.160      1 Template:Filmmaking_paper_trail","  6.36%   16.307      2 Template:Navbox","  3.78%    9.684      2 Template:Cite_magazine"]},"scribunto":{"limitreport-timeusage":{"value":"0.124","limit":"10.000"},"limitreport-memusage":{"value":3937538,"limit":52428800}},"cachereport":{"origin":"mw1324","timestamp":"20180303193502","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":82,"wgHostname":"mw1271"});});
+  </script>
+ </body>
+</html>

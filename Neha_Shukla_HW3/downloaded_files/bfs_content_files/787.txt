@@ -1,0 +1,3667 @@
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Transient lunar phenomenon - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Transient_lunar_phenomenon","wgTitle":"Transient lunar phenomenon","wgCurRevisionId":823772718,"wgRevisionId":823772718,"wgArticleId":231249,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from July 2011","Good articles","Astronomical imaging","Lunar science","Observational astronomy","Lunar observation"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Transient_lunar_phenomenon","wgRelevantArticleId":231249,"wgRequestId":"WrPh3wpAAEMAAJ9me-sAAAAR","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q1754615","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.25" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/4/4c/Map_of_tlp.jpg" property="og:image"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Transient_lunar_phenomenon" rel="alternate"/>
+  <link href="/w/index.php?title=Transient_lunar_phenomenon&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Transient_lunar_phenomenon&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Transient_lunar_phenomenon" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Transient_lunar_phenomenon rootpage-Transient_lunar_phenomenon skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+    <div class="mw-indicator" id="mw-indicator-good-star">
+     <a href="/wiki/Wikipedia:Good_articles" title="This is a good article. Follow the link for more information.">
+      <img alt="This is a good article. Follow the link for more information." data-file-height="185" data-file-width="180" height="20" src="//upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/19px-Symbol_support_vote.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/29px-Symbol_support_vote.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/39px-Symbol_support_vote.svg.png 2x" width="19"/>
+     </a>
+    </div>
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Transient lunar phenomenon
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:202px;">
+        <a class="image" href="/wiki/File:Map_of_tlp.jpg">
+         <img alt="" class="thumbimage" data-file-height="284" data-file-width="281" height="202" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Map_of_tlp.jpg/200px-Map_of_tlp.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/4/4c/Map_of_tlp.jpg 1.5x" width="200"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Map_of_tlp.jpg" title="Enlarge">
+          </a>
+         </div>
+         This map, based on a survey of 300 TLPs by Barbara Middlehurst and
+         <a href="/wiki/Patrick_Moore" title="Patrick Moore">
+          Patrick Moore
+         </a>
+         , shows the approximate distribution of observed events. Red-hued events are in red; the remainder are in yellow.
+        </div>
+       </div>
+      </div>
+      <p>
+       A
+       <b>
+        transient lunar phenomenon
+       </b>
+       (
+       <b>
+        TLP
+       </b>
+       ) or
+       <b>
+        lunar transient phenomenon
+       </b>
+       (
+       <b>
+        LTP
+       </b>
+       ) is a short-lived light, color, or change in appearance on the surface of the
+       <a href="/wiki/Moon" title="Moon">
+        Moon
+       </a>
+       .
+      </p>
+      <p>
+       Claims of short-lived lunar phenomena go back at least 1,000 years, with some having been observed independently by multiple witnesses or reputable scientists. Nevertheless, the majority of transient lunar phenomenon reports are
+       <a href="/wiki/Reproducibility" title="Reproducibility">
+        irreproducible
+       </a>
+       and do not possess adequate
+       <a class="mw-redirect" href="/wiki/Experimental_control" title="Experimental control">
+        control experiments
+       </a>
+       that could be used to distinguish among alternative
+       <a class="mw-redirect" href="/wiki/Hypotheses" title="Hypotheses">
+        hypotheses
+       </a>
+       to explain their origins.
+      </p>
+      <p>
+       Most lunar scientists will acknowledge that transient events such as
+       <a href="/wiki/Outgassing" title="Outgassing">
+        outgassing
+       </a>
+       and
+       <a class="mw-redirect" href="/wiki/Impact_craters" title="Impact craters">
+        impact cratering
+       </a>
+       do occur over
+       <a href="/wiki/Lunar_geologic_timescale" title="Lunar geologic timescale">
+        geologic time
+       </a>
+       : the controversy lies in the frequency of such events.
+      </p>
+      <p>
+       The term was created by
+       <a href="/wiki/Patrick_Moore" title="Patrick Moore">
+        Patrick Moore
+       </a>
+       in his co-authorship of NASA Technical Report R-277
+       <i>
+        Chronological Catalog of Reported Lunar Events
+       </i>
+       , published in 1968.
+       <sup class="reference" id="cite_ref-:0_1-0">
+        <a href="#cite_note-:0-1">
+         [1]
+        </a>
+       </sup>
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Description_of_events">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Description of events
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#Explanations">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Explanations
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-3">
+           <a href="#Outgassing">
+            <span class="tocnumber">
+             2.1
+            </span>
+            <span class="toctext">
+             Outgassing
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-4">
+           <a href="#Impact_events">
+            <span class="tocnumber">
+             2.2
+            </span>
+            <span class="toctext">
+             Impact events
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-5">
+           <a href="#Electrostatic_phenomena">
+            <span class="tocnumber">
+             2.3
+            </span>
+            <span class="toctext">
+             Electrostatic phenomena
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-6">
+           <a href="#Unfavourable_observation_conditions">
+            <span class="tocnumber">
+             2.4
+            </span>
+            <span class="toctext">
+             Unfavourable observation conditions
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-7">
+         <a href="#Debated_status_of_TLPs">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           Debated status of TLPs
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-8">
+         <a href="#See_also">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-9">
+         <a href="#References">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-10">
+         <a href="#External_links">
+          <span class="tocnumber">
+           6
+          </span>
+          <span class="toctext">
+           External links
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Description_of_events">
+        Description of events
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Transient_lunar_phenomenon&amp;action=edit&amp;section=1" title="Edit section: Description of events">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Reports of transient lunar phenomena range from foggy patches to permanent changes of the lunar landscape. Cameron
+       <sup class="reference" id="cite_ref-c1_2-0">
+        <a href="#cite_note-c1-2">
+         [2]
+        </a>
+       </sup>
+       classifies these as (1) gaseous, involving mists and other forms of obscuration, (2) reddish colorations, (3) green, blue or violet colorations, (4) brightenings, and (5) darkening. Two extensive catalogs of transient lunar phenomena exist,
+       <sup class="reference" id="cite_ref-:0_1-1">
+        <a href="#cite_note-:0-1">
+         [1]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-c1_2-1">
+        <a href="#cite_note-c1-2">
+         [2]
+        </a>
+       </sup>
+       with the most recent tallying 2,254 events going back to the 6th century. Of the most reliable of these events, at least one-third come from the vicinity of the
+       <a href="/wiki/Aristarchus_(crater)" title="Aristarchus (crater)">
+        Aristarchus plateau
+       </a>
+       .
+      </p>
+      <p>
+       A few of the more famous historical accounts of transient phenomena include the following:
+      </p>
+      <ul>
+       <li>
+        On June 18, 1178, five or more monks from
+        <a href="/wiki/Canterbury" title="Canterbury">
+         Canterbury
+        </a>
+        reported an upheaval on the Moon shortly after sunset. "There was a bright new moon, and as usual in that phase its horns were tilted toward the east; and suddenly the upper horn split in two. From the midpoint of this division a flaming torch sprang up, spewing out, over a considerable distance, fire, hot coals, and sparks. Meanwhile the body of the moon which was below writhed, as it were, in anxiety, and, to put it in the words of those who reported it to me and saw it with their own eyes, the moon throbbed like a wounded snake. Afterwards it resumed its proper state. This phenomenon was repeated a dozen times or more, the flame assuming various twisting shapes at random and then returning to normal. Then after these transformations the moon from horn to horn, that is along its whole length, took on a blackish appearance." This description appears outlandish perhaps due to lacking public understanding of astronomical phenomena.
+        <sup class="reference" id="cite_ref-3">
+         <a href="#cite_note-3">
+          [3]
+         </a>
+        </sup>
+        <sup class="reference" id="cite_ref-4">
+         <a href="#cite_note-4">
+          [4]
+         </a>
+        </sup>
+        In 1976, Jack Hartung proposed that this described the formation of the
+        <a class="mw-redirect" href="/wiki/Giordano_Bruno_crater" title="Giordano Bruno crater">
+         Giordano Bruno crater
+        </a>
+        . However, more recent studies suggest that it appears very unlikely the 1178 event was related to the formation of Crater Giordano Bruno, or was even a true transient lunar phenomenon at all. The millions of tons of lunar debris ejected from an impact large enough to leave a 22-km-wide crater would have resulted in an unprecedentedly intense, week-long
+        <a class="mw-redirect" href="/wiki/Meteor_storm" title="Meteor storm">
+         meteor storm
+        </a>
+        on Earth. No accounts of such a memorable storm have been found in any known historical records, including several astronomical archives from around the world.
+        <sup class="reference" id="cite_ref-5">
+         <a href="#cite_note-5">
+          [5]
+         </a>
+        </sup>
+        In light of this, it is suspected that the group of monks (the event's only known witnesses) saw the atmospheric explosion of a directly oncoming meteor in chance alignment, from their specific vantage point, with the far more distant moon.
+        <sup class="reference" id="cite_ref-6">
+         <a href="#cite_note-6">
+          [6]
+         </a>
+        </sup>
+       </li>
+       <li>
+        During the night of April 19, 1787, the British astronomer Sir
+        <a href="/wiki/William_Herschel" title="William Herschel">
+         William Herschel
+        </a>
+        noticed three red glowing spots on the dark part of the Moon.
+        <sup class="reference" id="cite_ref-7">
+         <a href="#cite_note-7">
+          [7]
+         </a>
+        </sup>
+        He informed King
+        <a class="mw-redirect" href="/wiki/George_III" title="George III">
+         George III
+        </a>
+        and other astronomers of his observations. Herschel attributed the phenomena to erupting volcanoes and perceived the luminosity of the brightest of the three as greater than the brightness of a comet that had been discovered on April 10. His observations were made while an
+        <a class="mw-redirect" href="/wiki/Aurora_borealis" title="Aurora borealis">
+         aurora borealis
+        </a>
+        (northern lights) rippled above
+        <a href="/wiki/Padua" title="Padua">
+         Padua
+        </a>
+        , Italy.
+        <sup class="reference" id="cite_ref-8">
+         <a href="#cite_note-8">
+          [8]
+         </a>
+        </sup>
+        Aurora activity that far south from the Arctic Circle was very rare. Padua's display and Herschel's observations had happened a few days before the number of
+        <a href="/wiki/Sunspot" title="Sunspot">
+         sunspots
+        </a>
+        had peaked in May 1787.
+       </li>
+       <li>
+        In 1866, the experienced lunar observer and mapmaker
+        <a href="/wiki/Johann_Friedrich_Julius_Schmidt" title="Johann Friedrich Julius Schmidt">
+         J. F. Julius Schmidt
+        </a>
+        claimed that the
+        <a href="/wiki/Linn%C3%A9_(crater)" title="Linné (crater)">
+         Linné crater
+        </a>
+        had changed its appearance. Based on drawings made earlier by
+        <a href="/wiki/Johann_Hieronymus_Schr%C3%B6ter" title="Johann Hieronymus Schröter">
+         J. H. Schröter
+        </a>
+        , as well as personal observations and drawings made between 1841 and 1843, he stated that the crater "at the time of oblique illumination
+        <i>
+         cannot at all be seen
+        </i>
+        "
+        <sup class="reference" id="cite_ref-9">
+         <a href="#cite_note-9">
+          [9]
+         </a>
+        </sup>
+        (his emphasis), whereas at high illumination, it was visible as a bright spot. Based on repeat observations, he further stated that "Linné can never be seen under any illumination as a crater of the normal type" and that "a local change has taken place". Today, Linné is visible as a normal young impact crater with a diameter of about 1.5 miles (2.4 km).
+       </li>
+       <li>
+        On November 2, 1958, the Russian astronomer
+        <a href="/wiki/Nikolai_Aleksandrovich_Kozyrev" title="Nikolai Aleksandrovich Kozyrev">
+         Nikolai A. Kozyrev
+        </a>
+        observed an apparent half-hour "eruption" that took place on the central peak of
+        <a href="/wiki/Alphonsus_(crater)" title="Alphonsus (crater)">
+         Alphonsus crater
+        </a>
+        using a 48-inch (122-cm) reflector telescope equipped with a
+        <a href="/wiki/Spectrometer" title="Spectrometer">
+         spectrometer
+        </a>
+        . During this time, the obtained spectra showed evidence for bright gaseous emission bands due to the molecules C
+        <sub>
+         2
+        </sub>
+        and C
+        <sub>
+         3
+        </sub>
+        .
+        <sup class="reference" id="cite_ref-10">
+         <a href="#cite_note-10">
+          [10]
+         </a>
+        </sup>
+        While exposing his second spectrogram, he noticed "a marked increase in the brightness of the central region and an unusual white colour." Then, "all of a sudden the brightness started to decrease" and the resulting spectrum was normal.
+       </li>
+       <li>
+        On October 29, 1963, two Aeronautical Chart and Information Center cartographers, James Clarke Greenacre and Edward M. Barr,
+        <sup class="reference" id="cite_ref-11">
+         <a href="#cite_note-11">
+          [11]
+         </a>
+        </sup>
+        at the
+        <a href="/wiki/Lowell_Observatory" title="Lowell Observatory">
+         Lowell Observatory
+        </a>
+        , Flagstaff, Arizona, manually recorded very bright red, orange, and pink colour phenomena on the southwest side of Cobra Head; a hill southeast of the lunar valley
+        <a class="mw-redirect" href="/wiki/Vallis_Schr%C3%B6teri" title="Vallis Schröteri">
+         Vallis Schröteri
+        </a>
+        ; and the southwest interior rim of the
+        <a href="/wiki/Aristarchus_(crater)" title="Aristarchus (crater)">
+         Aristarchus crater
+        </a>
+        .
+        <sup class="reference" id="cite_ref-12">
+         <a href="#cite_note-12">
+          [12]
+         </a>
+        </sup>
+        <sup class="reference" id="cite_ref-13">
+         <a href="#cite_note-13">
+          [13]
+         </a>
+        </sup>
+        This event sparked a major change in attitude towards TLP reports. According to
+        <a href="/wiki/Willy_Ley" title="Willy Ley">
+         Willy Ley
+        </a>
+        : "The first reaction in professional circles was, naturally, surprise, and hard on the heels of the surprise there followed an apologetic attitude, the apologies being directed at a long-dead great astronomer, Sir William Herschel."
+        <sup class="reference" id="cite_ref-14">
+         <a href="#cite_note-14">
+          [14]
+         </a>
+        </sup>
+        A notation by Winifred Sawtell Cameron states (1978, Event Serial No. 778): "This and their November observations started the modern interest and observing the Moon."
+        <sup class="reference" id="cite_ref-15">
+         <a href="#cite_note-15">
+          [15]
+         </a>
+        </sup>
+        The credibility of their findings stemmed from Greenacre's exemplary reputation as an impeccable cartographer, rather than from any photographic evidence.
+       </li>
+       <li>
+        On the night of November 1–2, 1963, a few days after Greenacre's event, at the
+        <a class="mw-redirect" href="/wiki/Observatoire_du_Pic-du-Midi" title="Observatoire du Pic-du-Midi">
+         Observatoire du Pic-du-Midi
+        </a>
+        in the French Pyrenees,
+        <a href="/wiki/Zden%C4%9Bk_Kopal" title="Zdeněk Kopal">
+         Zdeněk Kopal
+        </a>
+        <sup class="reference" id="cite_ref-16">
+         <a href="#cite_note-16">
+          [16]
+         </a>
+        </sup>
+        and Thomas Rackham
+        <sup class="reference" id="cite_ref-17">
+         <a href="#cite_note-17">
+          [17]
+         </a>
+        </sup>
+        made the first photographs of a "wide area lunar luminescence".
+        <sup class="reference" id="cite_ref-kopal_18-0">
+         <a href="#cite_note-kopal-18">
+          [18]
+         </a>
+        </sup>
+        His article in
+        <i>
+         <a href="/wiki/Scientific_American" title="Scientific American">
+          Scientific American
+         </a>
+        </i>
+        transformed it into one of the most widely publicized TLP events.
+        <sup class="reference" id="cite_ref-19">
+         <a href="#cite_note-19">
+          [19]
+         </a>
+        </sup>
+        Kopal, like others, had argued that
+        <a class="mw-redirect" href="/wiki/Solar_Energetic_Particles" title="Solar Energetic Particles">
+         Solar Energetic Particles
+        </a>
+        could be the cause of such a phenomenon.
+        <sup class="reference" id="cite_ref-20">
+         <a href="#cite_note-20">
+          [20]
+         </a>
+        </sup>
+       </li>
+       <li>
+        During the
+        <a href="/wiki/Apollo_11" title="Apollo 11">
+         Apollo 11
+        </a>
+        mission in 1969, Houston radioed to Apollo 11: "We've got an observation you can make if you have some time up there. There's been some lunar transient events reported in the vicinity of Aristarchus." Astronomers in
+        <a href="/wiki/Bochum" title="Bochum">
+         Bochum
+        </a>
+        , West Germany, had observed a bright glow on the lunar surface—the same sort of eerie luminescence that has intrigued Moon watchers for centuries. The report was passed on to Houston and thence to the astronauts. Almost immediately, Michael Collins reported back: "Hey, Houston, I'm looking north up toward Aristarchus now, and there's an area that is considerably more illuminated than the surrounding area. It seems to have a slight amount of fluorescence."
+        <sup class="reference" id="cite_ref-21">
+         <a href="#cite_note-21">
+          [21]
+         </a>
+        </sup>
+       </li>
+       <li>
+        In 1992, Audouin Dollfus of the
+        <a href="/wiki/Paris_Observatory" title="Paris Observatory">
+         Observatoire de Paris
+        </a>
+        reported anomalous features on the floor of
+        <a href="/wiki/Langrenus_(crater)" title="Langrenus (crater)">
+         Langrenus crater
+        </a>
+        using a one-meter (3.2-foot) telescope. While observations on the night of December 29, 1992, were normal, unusually high
+        <a href="/wiki/Albedo" title="Albedo">
+         albedo
+        </a>
+        and
+        <a href="/wiki/Polarization_(waves)" title="Polarization (waves)">
+         polarization
+        </a>
+        features were recorded the following night that did not change in appearance over the six minutes of data collection.
+        <sup class="reference" id="cite_ref-22">
+         <a href="#cite_note-22">
+          [22]
+         </a>
+        </sup>
+        Observations three days later showed a similar, but smaller, anomaly in the same vicinity. While the viewing conditions for this region were close to specular, it was argued that the amplitude of the observations were not consistent with a
+        <a href="/wiki/Specular_reflection" title="Specular reflection">
+         specular reflection
+        </a>
+        of sunlight. The favored hypothesis was that this was the consequence of light scattering from clouds of airborne particles resulting from a release of gas. The fractured floor of this crater was cited as a possible source of the gas.
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="Explanations">
+        Explanations
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Transient_lunar_phenomenon&amp;action=edit&amp;section=2" title="Edit section: Explanations">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Explanations for the transient lunar phenomena fall in four classes: outgassing, impact events, electrostatic phenomena, and unfavorable observation conditions.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Outgassing">
+        Outgassing
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Transient_lunar_phenomenon&amp;action=edit&amp;section=3" title="Edit section: Outgassing">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       Some TLPs may be caused by gas escaping from underground cavities. These gaseous events are purported to display a distinctive reddish hue, while others have appeared as white clouds or an indistinct haze. The majority of TLPs appear to be associated with floor-fractured craters, the edges of
+       <a href="/wiki/Lunar_mare" title="Lunar mare">
+        lunar maria
+       </a>
+       , or in other locations linked by geologists with volcanic activity. However, these are some of the most common targets when viewing the Moon, and this correlation could be an observational bias.
+      </p>
+      <p>
+       In support of the outgassing hypothesis, data from the
+       <a href="/wiki/Lunar_Prospector" title="Lunar Prospector">
+        Lunar Prospector
+       </a>
+       <a href="/wiki/Alpha_particle" title="Alpha particle">
+        alpha particle
+       </a>
+       spectrometer indicate the recent outgassing of
+       <a href="/wiki/Radon" title="Radon">
+        radon
+       </a>
+       to the surface.
+       <sup class="reference" id="cite_ref-23">
+        <a href="#cite_note-23">
+         [23]
+        </a>
+       </sup>
+       In particular, results show that radon gas was emanating from the vicinity of the craters
+       <a class="mw-redirect" href="/wiki/Aristarchus_crater" title="Aristarchus crater">
+        Aristarchus
+       </a>
+       and
+       <a href="/wiki/Kepler_(lunar_crater)" title="Kepler (lunar crater)">
+        Kepler
+       </a>
+       during the time of this two-year mission. These observations could be explained by the slow and visually imperceptible diffusion of gas to the surface, or by discrete explosive events. In support of explosive outgassing, it has been suggested that a roughly 3 km- (1.9 mi-) diameter region of the lunar surface was "recently" modified by a gas release event.
+       <sup class="reference" id="cite_ref-24">
+        <a href="#cite_note-24">
+         [24]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-25">
+        <a href="#cite_note-25">
+         [25]
+        </a>
+       </sup>
+       The age of this feature is believed to be about 1 million years old, suggesting that such large phenomena occur only infrequently.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Impact_events">
+        Impact events
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Transient_lunar_phenomenon&amp;action=edit&amp;section=4" title="Edit section: Impact events">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       Impact events are continually occurring on the lunar surface. The most common events are those associated with
+       <a class="mw-redirect" href="/wiki/Micrometeorites" title="Micrometeorites">
+        micrometeorites
+       </a>
+       , as might be encountered during meteor showers. Impact flashes from such events have been detected from multiple and simultaneous Earth-based observations.
+       <sup class="reference" id="cite_ref-26">
+        <a href="#cite_note-26">
+         [26]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-27">
+        <a href="#cite_note-27">
+         [27]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-lim_28-0">
+        <a href="#cite_note-lim-28">
+         [28]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-29">
+        <a href="#cite_note-29">
+         [29]
+        </a>
+       </sup>
+       Tables of impacts recorded by video cameras exist for years since 2005 many of which are associated with
+       <a class="mw-redirect" href="/wiki/Meteor_showers" title="Meteor showers">
+        meteor showers
+       </a>
+       .
+       <sup class="reference" id="cite_ref-30">
+        <a href="#cite_note-30">
+         [30]
+        </a>
+       </sup>
+       Furthermore, impact clouds were detected following the crash of ESA's
+       <a href="/wiki/SMART-1" title="SMART-1">
+        SMART-1
+       </a>
+       spacecraft,
+       <sup class="reference" id="cite_ref-31">
+        <a href="#cite_note-31">
+         [31]
+        </a>
+       </sup>
+       India's
+       <a href="/wiki/Moon_Impact_Probe" title="Moon Impact Probe">
+        Moon Impact Probe
+       </a>
+       and NASA's
+       <a href="/wiki/LCROSS" title="LCROSS">
+        LCROSS
+       </a>
+       . Impact events leave a visible scar on the surface, and these could be detected by analyzing before and after photos of sufficiently high resolution. No impact craters formed between the
+       <a class="mw-redirect" href="/wiki/Clementine_mission" title="Clementine mission">
+        Clementine
+       </a>
+       (global resolution 100 metre, selected areas 7-20 metre) and SMART-1 (resolution 50 metre) missions have been identified.
+       <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+        [
+        <i>
+         <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+          <span title="This claim needs references to reliable sources. (July 2011)">
+           citation needed
+          </span>
+         </a>
+        </i>
+        ]
+       </sup>
+      </p>
+      <h3>
+       <span class="mw-headline" id="Electrostatic_phenomena">
+        Electrostatic phenomena
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Transient_lunar_phenomenon&amp;action=edit&amp;section=5" title="Edit section: Electrostatic phenomena">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:152px;">
+        <a class="image" href="/wiki/File:Seeing_Moon.gif">
+         <img alt="" class="thumbimage" data-file-height="150" data-file-width="150" height="150" src="//upload.wikimedia.org/wikipedia/commons/e/ef/Seeing_Moon.gif" width="150"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Seeing_Moon.gif" title="Enlarge">
+          </a>
+         </div>
+         Eight individual frames taken from a video of the lunar crater Clavius showing the effect of the Earth's atmosphere on astronomical images
+        </div>
+       </div>
+      </div>
+      <p>
+       It has been suggested that effects related to either
+       <a class="mw-redirect" href="/wiki/Electrostatic" title="Electrostatic">
+        electrostatic
+       </a>
+       charging or discharging might be able to account for some of the transient lunar phenomena. One possibility is that
+       <a class="mw-redirect" href="/wiki/Electrodynamic" title="Electrodynamic">
+        electrodynamic
+       </a>
+       effects related to the fracturing of near-surface materials could charge any gases that might be present, such as implanted
+       <a href="/wiki/Solar_wind" title="Solar wind">
+        solar wind
+       </a>
+       or
+       <a class="mw-redirect" href="/wiki/Radiogenic" title="Radiogenic">
+        radiogenic
+       </a>
+       <a class="mw-redirect" href="/wiki/Daughter_products" title="Daughter products">
+        daughter products
+       </a>
+       .
+       <sup class="reference" id="cite_ref-32">
+        <a href="#cite_note-32">
+         [32]
+        </a>
+       </sup>
+       If this were to occur at the surface, the subsequent discharge from this gas might be able to give rise to phenomena visible from Earth. Alternatively, it has been proposed that the
+       <a href="/wiki/Triboelectric_effect" title="Triboelectric effect">
+        triboelectric
+       </a>
+       charging of particles within a gas-borne dust cloud could give rise to electrostatic discharges visible from Earth.
+       <sup class="reference" id="cite_ref-33">
+        <a href="#cite_note-33">
+         [33]
+        </a>
+       </sup>
+       Finally, electrostatic levitation of dust near the
+       <a class="mw-redirect" href="/wiki/Lunar_terminator" title="Lunar terminator">
+        terminator
+       </a>
+       could potentially give rise to some form of phenomenon visible from Earth.
+       <sup class="reference" id="cite_ref-34">
+        <a href="#cite_note-34">
+         [34]
+        </a>
+       </sup>
+      </p>
+      <h3>
+       <span class="mw-headline" id="Unfavourable_observation_conditions">
+        Unfavourable observation conditions
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Transient_lunar_phenomenon&amp;action=edit&amp;section=6" title="Edit section: Unfavourable observation conditions">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       It is possible that many transient phenomena might not be associated with the Moon itself but could be a result of unfavourable observing conditions or phenomena associated with the Earth. For instance, some reported transient phenomena are for objects near the resolution of the employed telescopes. The Earth's atmosphere can give rise to significant temporal distortions that could be confused with actual lunar phenomena (an effect known as
+       <a href="/wiki/Astronomical_seeing" title="Astronomical seeing">
+        astronomical seeing
+       </a>
+       ). Other non-lunar explanations include the viewing of Earth-orbiting satellites and meteors or observational error.
+       <sup class="reference" id="cite_ref-lim_28-1">
+        <a href="#cite_note-lim-28">
+         [28]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Debated_status_of_TLPs">
+        Debated status of TLPs
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Transient_lunar_phenomenon&amp;action=edit&amp;section=7" title="Edit section: Debated status of TLPs">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       The most significant problem that faces reports of transient lunar phenomena is that the vast majority of these were made either by a single observer or at a single location on Earth (or both). The multitude of reports for transient phenomena occurring at the same
+       <i>
+        place
+       </i>
+       on the Moon could be used as evidence supporting their existence. However, in the absence of eyewitness reports from multiple observers at multiple locations on Earth for the same
+       <i>
+        event
+       </i>
+       , these must be regarded with caution. As discussed above, an equally plausible hypothesis for some of these events is that they are caused by the terrestrial atmosphere. If an event were to be observed at two different places on Earth at the same time, this could be used as evidence against an atmospheric origin.
+      </p>
+      <p>
+       One attempt to overcome the above problems with transient phenomena reports was made during the
+       <a class="mw-redirect" href="/wiki/Clementine_mission" title="Clementine mission">
+        Clementine mission
+       </a>
+       by a network of amateur astronomers. Several events were reported, of which four of these were photographed both beforehand and afterward by the spacecraft. However, careful analysis of these images shows no discernible differences at these sites.
+       <sup class="reference" id="cite_ref-35">
+        <a href="#cite_note-35">
+         [35]
+        </a>
+       </sup>
+       This does not necessarily imply that these reports were a result of observational error, as it is possible that outgassing events on the lunar surface might not leave a visible marker, but neither is it encouraging for the hypothesis that these were authentic lunar phenomena.
+      </p>
+      <p>
+       Observations are currently being coordinated by the
+       <a href="/wiki/Association_of_Lunar_and_Planetary_Observers" title="Association of Lunar and Planetary Observers">
+        Association of Lunar and Planetary Observers
+       </a>
+       and the
+       <a href="/wiki/British_Astronomical_Association" title="British Astronomical Association">
+        British Astronomical Association
+       </a>
+       to re-observe sites where transient lunar phenomena were reported in the past. By documenting the appearance of these features under the same illumination and
+       <a href="/wiki/Libration" title="Libration">
+        libration
+       </a>
+       conditions, it is possible to judge whether some reports were simply due to a misinterpretation of what the observer regarded as an abnormality. Furthermore, with digital images, it is possible to simulate atmospheric spectral
+       <a href="/wiki/Dispersion_(optics)" title="Dispersion (optics)">
+        dispersion
+       </a>
+       , astronomical seeing blur and light scattering by our atmosphere to determine if these phenomena could explain some of the original TLP reports.
+      </p>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Transient_lunar_phenomenon&amp;action=edit&amp;section=8" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+       <ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+        <li style="display:table-row">
+         <span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center">
+          <a class="image" href="/wiki/File:Moon-Mdf-2005.jpg">
+           <img alt="icon" class="noviewer" data-file-height="1024" data-file-width="1024" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Moon-Mdf-2005.jpg/28px-Moon-Mdf-2005.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Moon-Mdf-2005.jpg/42px-Moon-Mdf-2005.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Moon-Mdf-2005.jpg/56px-Moon-Mdf-2005.jpg 2x" width="28"/>
+          </a>
+         </span>
+         <span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle">
+          <a href="/wiki/Portal:Moon" title="Portal:Moon">
+           Moon portal
+          </a>
+         </span>
+        </li>
+       </ul>
+      </div>
+      <ul>
+       <li>
+        <a href="/wiki/Geology_of_the_Moon" title="Geology of the Moon">
+         Geology of the Moon
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Observing_the_Moon" title="Observing the Moon">
+         Observing the Moon
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Project_Moon-Blink" title="Project Moon-Blink">
+         Project Moon-Blink
+        </a>
+        , a 1960s NASA investigation into transient lunar phenomena
+       </li>
+       <li>
+        <a href="/wiki/Selenography" title="Selenography">
+         Selenography
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Transient_lunar_phenomenon&amp;action=edit&amp;section=9" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="references">
+       <p>
+        <b>
+         Cited references
+        </b>
+       </p>
+       <div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+        <ol class="references">
+         <li id="cite_note-:0-1">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-:0_1-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-:0_1-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            Barbara M. Middlehurst; Burley, Jaylee M.; Moore, Patrick; Welther, Barbara L. (1967).
+            <a class="external text" href="http://www.astrosurf.com/lunascan/papers/R-277.pdf" rel="nofollow">
+             "Chronological Catalog of Reported Lunar Events"
+            </a>
+            <span style="font-size:85%;">
+             (PDF)
+            </span>
+            .
+            <i>
+             Astrosurf
+            </i>
+            . NASA
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              26 December
+             </span>
+             2015
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Astrosurf&amp;rft.atitle=Chronological+Catalog+of+Reported+Lunar+Events&amp;rft.date=1967&amp;rft.au=Barbara+M.+Middlehurst&amp;rft.au=Burley%2C+Jaylee+M.&amp;rft.au=Moore%2C+Patrick&amp;rft.au=Welther%2C+Barbara+L.&amp;rft_id=http%3A%2F%2Fwww.astrosurf.com%2Flunascan%2Fpapers%2FR-277.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATransient+lunar+phenomenon">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-c1-2">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-c1_2-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-c1_2-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            Winifred S. Cameron.
+            <a class="external text" href="http://users.aber.ac.uk/atc/tlp/cameron.pdf" rel="nofollow">
+             "Analyses of Lunar Transient Phenomena (LTP) Observations from 557–1994 A.D."
+            </a>
+            <span style="font-size:85%;">
+             (PDF)
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Analyses+of+Lunar+Transient+Phenomena+%28LTP%29+Observations+from+557%E2%80%931994+A.D.&amp;rft.au=Winifred+S.+Cameron&amp;rft_id=http%3A%2F%2Fusers.aber.ac.uk%2Fatc%2Ftlp%2Fcameron.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATransient+lunar+phenomenon">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-3">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-3">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Jack B. Hartung (1976). "Was the Formation of a 20-km Diameter Impact Crater on the Moon Observed on June 18, 1178?".
+            <i>
+             Meteoritics
+            </i>
+            .
+            <b>
+             11
+            </b>
+            : 187–194.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/1976Metic..11..187H" rel="nofollow">
+             1976Metic..11..187H
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1111%2Fj.1945-5100.1976.tb00319.x" rel="nofollow">
+             10.1111/j.1945-5100.1976.tb00319.x
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Meteoritics&amp;rft.atitle=Was+the+Formation+of+a+20-km+Diameter+Impact+Crater+on+the+Moon+Observed+on+June+18%2C+1178%3F&amp;rft.volume=11&amp;rft.pages=187-194&amp;rft.date=1976&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1945-5100.1976.tb00319.x&amp;rft_id=info%3Abibcode%2F1976Metic..11..187H&amp;rft.au=Jack+B.+Hartung&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATransient+lunar+phenomenon">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-4">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-4">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.bbc.co.uk/dna/h2g2/A993297" rel="nofollow">
+             "The Giordano Bruno Crater"
+            </a>
+            . BBC.
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Giordano+Bruno+Crater&amp;rft.pub=BBC&amp;rft_id=http%3A%2F%2Fwww.bbc.co.uk%2Fdna%2Fh2g2%2FA993297&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATransient+lunar+phenomenon">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-5">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-5">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Kettlewell, Jo (1 May 2001).
+           <a class="external text" href="http://news.bbc.co.uk/1/hi/sci/tech/1304985.stm" rel="nofollow">
+            "Historic lunar impact questioned"
+           </a>
+           . BBC. Retrieved 13 July 2013.
+          </span>
+         </li>
+         <li id="cite_note-6">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-6">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <a class="external text" href="http://science1.nasa.gov/science-news/science-at-nasa/2001/ast26apr_1/" rel="nofollow">
+            "The Mysterious Case of Crater Giordano Bruno"
+           </a>
+           . NASA. Retrieved 13 July 2013.
+          </span>
+         </li>
+         <li id="cite_note-7">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-7">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Herschel, W. (1956, May). Herschel’s ‘Lunar volcanos.’
+           <i>
+            Sky and Telescope
+           </i>
+           , pp. 302-304. (Reprint of
+           <i>
+            An Account of Three Volcanos in the Moon
+           </i>
+           , William Herschel’s report to the Royal Society on April 26, 1787, reprinted from his Collected Works (1912))
+          </span>
+         </li>
+         <li id="cite_note-8">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-8">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Kopal, Z. (December 1966). "Lunar flares".
+            <i>
+             Astronomical Society of the Pacific Leaflets
+            </i>
+            .
+            <b>
+             9
+            </b>
+            : 401–408.
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Astronomical+Society+of+the+Pacific+Leaflets&amp;rft.atitle=Lunar+flares&amp;rft.volume=9&amp;rft.pages=401-408&amp;rft.date=1966-12&amp;rft.aulast=Kopal&amp;rft.aufirst=Z.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATransient+lunar+phenomenon">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-9">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-9">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            J. F. Julius Schmidt (1867). "The Lunar Crater Linne".
+            <i>
+             Astronomical Register
+            </i>
+            .
+            <b>
+             5
+            </b>
+            : 109–110.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/1867AReg....5..109S" rel="nofollow">
+             1867AReg....5..109S
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Astronomical+Register&amp;rft.atitle=The+Lunar+Crater+Linne&amp;rft.volume=5&amp;rft.pages=109-110&amp;rft.date=1867&amp;rft_id=info%3Abibcode%2F1867AReg....5..109S&amp;rft.au=J.+F.+Julius+Schmidt&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATransient+lunar+phenomenon">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-10">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-10">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Dinsmore Alter, Dinsmore (1959).
+            <a class="external text" href="http://adsabs.harvard.edu//full/seri/PASP./0071//0000046.000.html" rel="nofollow">
+             "The Kozyrev Observations of Alphonsus"
+            </a>
+            .
+            <i>
+             Publications of the Astronomical Society of the Pacific
+            </i>
+            .
+            <b>
+             71
+            </b>
+            : 46–47.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/1959PASP...71...46A" rel="nofollow">
+             1959PASP...71...46A
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1086%2F127330" rel="nofollow">
+             10.1086/127330
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Publications+of+the+Astronomical+Society+of+the+Pacific&amp;rft.atitle=The+Kozyrev+Observations+of+Alphonsus&amp;rft.volume=71&amp;rft.pages=46-47&amp;rft.date=1959&amp;rft_id=info%3Adoi%2F10.1086%2F127330&amp;rft_id=info%3Abibcode%2F1959PASP...71...46A&amp;rft.aulast=Dinsmore+Alter&amp;rft.aufirst=Dinsmore&amp;rft_id=http%3A%2F%2Fadsabs.harvard.edu%2F%2Ffull%2Fseri%2FPASP.%2F0071%2F%2F0000046.000.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATransient+lunar+phenomenon">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-11">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-11">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Greenacre, J. A. (December 1963). "A recent observation of lunar colour phenomena".
+            <i>
+             Sky &amp; Telescope
+            </i>
+            .
+            <b>
+             26
+            </b>
+            (6): 316–317.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/1963S&amp;T....26..316G" rel="nofollow">
+             1963S&amp;T....26..316G
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Sky+%26+Telescope&amp;rft.atitle=A+recent+observation+of+lunar+colour+phenomena&amp;rft.volume=26&amp;rft.issue=6&amp;rft.pages=316-317&amp;rft.date=1963-12&amp;rft_id=info%3Abibcode%2F1963S%26T....26..316G&amp;rft.aulast=Greenacre&amp;rft.aufirst=J.+A.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATransient+lunar+phenomenon">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-12">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-12">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Zahner, D. D. (1963–64, December–January). Air force reports lunar changes.
+           <i>
+            Review of Popular Astronomy
+           </i>
+           ,
+           <b>
+            57
+           </b>
+           (525), 29, 36.
+          </span>
+         </li>
+         <li id="cite_note-13">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-13">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            O'Connell, Robert; Cook, Anthony (August 2013).
+            <a class="external text" href="http://www.the1963aristarchusevents.com" rel="nofollow">
+             "Revisiting The 1963 Aristarchus Events"
+            </a>
+            .
+            <i>
+             Journal of the British Astronomical Association
+            </i>
+            .
+            <b>
+             123
+            </b>
+            (4): 197–208.
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+the+British+Astronomical+Association&amp;rft.atitle=Revisiting+The+1963+Aristarchus+Events&amp;rft.volume=123&amp;rft.issue=4&amp;rft.pages=197-208&amp;rft.date=2013-08&amp;rft.aulast=O%27Connell&amp;rft.aufirst=Robert&amp;rft.au=Cook%2C+Anthony&amp;rft_id=http%3A%2F%2Fwww.the1963aristarchusevents.com&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATransient+lunar+phenomenon">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-14">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-14">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Ley, W. (1965).
+           <i>
+            Ranger to the moon
+           </i>
+           (p. 71). New York: The New American Library of World Literature, Inc.
+          </span>
+         </li>
+         <li id="cite_note-15">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-15">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Cameron, W. S. (1978, July). Lunar transient phenomena catalog (NSSDC/WDC-A-R&amp;S 78-03). Greenbelt, MD: NASA Goddard Space Flight Center
+          </span>
+         </li>
+         <li id="cite_note-16">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-16">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Meaburn, J. (June 1994). "Z. Kopal".
+            <i>
+             Quarterly Journal of the Royal Astronomical Society
+            </i>
+            .
+            <b>
+             35
+            </b>
+            : 229–230.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/1994QJRAS..35..229M" rel="nofollow">
+             1994QJRAS..35..229M
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Quarterly+Journal+of+the+Royal+Astronomical+Society&amp;rft.atitle=Z.+Kopal&amp;rft.volume=35&amp;rft.pages=229-230&amp;rft.date=1994-06&amp;rft_id=info%3Abibcode%2F1994QJRAS..35..229M&amp;rft.aulast=Meaburn&amp;rft.aufirst=J.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATransient+lunar+phenomenon">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-17">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-17">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Moore, P. (2001). "Thomas Rackham, 1919–2001".
+            <i>
+             Journal of the British Astronomical Association
+            </i>
+            .
+            <b>
+             111
+            </b>
+            (5): 291.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/2001JBAA..111..291M" rel="nofollow">
+             2001JBAA..111..291M
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+the+British+Astronomical+Association&amp;rft.atitle=Thomas+Rackham%2C+1919%E2%80%932001&amp;rft.volume=111&amp;rft.issue=5&amp;rft.pages=291&amp;rft.date=2001&amp;rft_id=info%3Abibcode%2F2001JBAA..111..291M&amp;rft.aulast=Moore&amp;rft.aufirst=P.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATransient+lunar+phenomenon">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-kopal-18">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-kopal_18-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Kopal, Z.; Rackham, T. W. (1963). "Excitation of lunar luminescence by solar activity".
+            <i>
+             Icarus
+            </i>
+            .
+            <b>
+             2
+            </b>
+            : 481–500.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/1963Icar....2..481K" rel="nofollow">
+             1963Icar....2..481K
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1016%2F0019-1035%2863%2990075-7" rel="nofollow">
+             10.1016/0019-1035(63)90075-7
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Icarus&amp;rft.atitle=Excitation+of+lunar+luminescence+by+solar+activity&amp;rft.volume=2&amp;rft.pages=481-500&amp;rft.date=1963&amp;rft_id=info%3Adoi%2F10.1016%2F0019-1035%2863%2990075-7&amp;rft_id=info%3Abibcode%2F1963Icar....2..481K&amp;rft.aulast=Kopal&amp;rft.aufirst=Z.&amp;rft.au=Rackham%2C+T.+W.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATransient+lunar+phenomenon">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-19">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-19">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Kopal, Z. (May 1965). "The luminescence of the moon".
+            <i>
+             Scientific American
+            </i>
+            .
+            <b>
+             212
+            </b>
+            (5): 28.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/1965SciAm.212e..28K" rel="nofollow">
+             1965SciAm.212e..28K
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1038%2Fscientificamerican0565-28" rel="nofollow">
+             10.1038/scientificamerican0565-28
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Scientific+American&amp;rft.atitle=The+luminescence+of+the+moon&amp;rft.volume=212&amp;rft.issue=5&amp;rft.pages=28&amp;rft.date=1965-05&amp;rft_id=info%3Adoi%2F10.1038%2Fscientificamerican0565-28&amp;rft_id=info%3Abibcode%2F1965SciAm.212e..28K&amp;rft.aulast=Kopal&amp;rft.aufirst=Z.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATransient+lunar+phenomenon">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-20">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-20">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Kopal, Z.; Rackham, T. W. (March 1964). "Lunar luminescence and solar flares".
+            <i>
+             Sky &amp; Telescope
+            </i>
+            .
+            <b>
+             27
+            </b>
+            (3): 140–141.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/1964S&amp;T....27..140K" rel="nofollow">
+             1964S&amp;T....27..140K
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Sky+%26+Telescope&amp;rft.atitle=Lunar+luminescence+and+solar+flares&amp;rft.volume=27&amp;rft.issue=3&amp;rft.pages=140-141&amp;rft.date=1964-03&amp;rft_id=info%3Abibcode%2F1964S%26T....27..140K&amp;rft.aulast=Kopal&amp;rft.aufirst=Z.&amp;rft.au=Rackham%2C+T.+W.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATransient+lunar+phenomenon">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-21">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-21">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Time Magazine, Friday, Jul. 25, 1969 "A GIANT LEAP FOR MANKIND"
+          </span>
+         </li>
+         <li id="cite_note-22">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-22">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Audouin Dollfus, A (2000). "Langrenus: Transient Illuminations on the Moon".
+            <i>
+             Icarus
+            </i>
+            .
+            <b>
+             146
+            </b>
+            (2): 430–443.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/2000Icar..146..430D" rel="nofollow">
+             2000Icar..146..430D
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1006%2Ficar.2000.6395" rel="nofollow">
+             10.1006/icar.2000.6395
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Icarus&amp;rft.atitle=Langrenus%3A+Transient+Illuminations+on+the+Moon&amp;rft.volume=146&amp;rft.issue=2&amp;rft.pages=430-443&amp;rft.date=2000&amp;rft_id=info%3Adoi%2F10.1006%2Ficar.2000.6395&amp;rft_id=info%3Abibcode%2F2000Icar..146..430D&amp;rft.aulast=Audouin+Dollfus&amp;rft.aufirst=A&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATransient+lunar+phenomenon">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-23">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-23">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            S. Lawson, Stefanie L.; W. Feldman; D. Lawrence; K. Moore; R. Elphic &amp; R. Belian (2005). "Recent outgassing from the lunar surface: the Lunar Prospector alpha particle spectrometer".
+            <i>
+             J. Geophys. Res
+            </i>
+            .
+            <b>
+             110
+            </b>
+            : E09009.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/2005JGRE..11009009L" rel="nofollow">
+             2005JGRE..11009009L
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1029%2F2005JE002433" rel="nofollow">
+             10.1029/2005JE002433
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J.+Geophys.+Res.&amp;rft.atitle=Recent+outgassing+from+the+lunar+surface%3A+the+Lunar+Prospector+alpha+particle+spectrometer&amp;rft.volume=110&amp;rft.pages=E09009&amp;rft.date=2005&amp;rft_id=info%3Adoi%2F10.1029%2F2005JE002433&amp;rft_id=info%3Abibcode%2F2005JGRE..11009009L&amp;rft.aulast=S.+Lawson&amp;rft.aufirst=Stefanie+L.&amp;rft.au=W.+Feldman&amp;rft.au=D.+Lawrence&amp;rft.au=K.+Moore&amp;rft.au=R.+Elphic&amp;rft.au=R.+Belian&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATransient+lunar+phenomenon">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-24">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-24">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            G. Jeffrey Taylor (2006).
+            <a class="external text" href="http://www.psrd.hawaii.edu/Nov06/MoonGas.html" rel="nofollow">
+             "Recent Gas Escape from the Moon"
+            </a>
+            . Planetary Science Research Discoveries.
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Recent+Gas+Escape+from+the+Moon&amp;rft.pub=Planetary+Science+Research+Discoveries&amp;rft.date=2006&amp;rft.au=G.+Jeffrey+Taylor&amp;rft_id=http%3A%2F%2Fwww.psrd.hawaii.edu%2FNov06%2FMoonGas.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATransient+lunar+phenomenon">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-25">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-25">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            P. H., Schultz; Staid, M. I. &amp; Pieters, C. M. (2006). "Lunar activity from recent gas release".
+            <i>
+             Nature
+            </i>
+            .
+            <b>
+             444
+            </b>
+            (7116): 184–186.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/2006Natur.444..184S" rel="nofollow">
+             2006Natur.444..184S
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1038%2Fnature05303" rel="nofollow">
+             10.1038/nature05303
+            </a>
+            .
+            <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">
+             PMID
+            </a>
+            <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/17093445" rel="nofollow">
+             17093445
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nature&amp;rft.atitle=Lunar+activity+from+recent+gas+release&amp;rft.volume=444&amp;rft.issue=7116&amp;rft.pages=184-186&amp;rft.date=2006&amp;rft_id=info%3Apmid%2F17093445&amp;rft_id=info%3Adoi%2F10.1038%2Fnature05303&amp;rft_id=info%3Abibcode%2F2006Natur.444..184S&amp;rft.aulast=P.+H.&amp;rft.aufirst=Schultz&amp;rft.au=Staid%2C+M.+I.&amp;rft.au=Pieters%2C+C.+M.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATransient+lunar+phenomenon">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-26">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-26">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            Tony Phillips (November 30, 2001).
+            <a class="external text" href="https://web.archive.org/web/20100223053617/http://science.nasa.gov/headlines/y2001/ast30nov_1.htm" rel="nofollow">
+             "Explosions on the Moon"
+            </a>
+            . Archived from
+            <a class="external text" href="https://science.nasa.gov/headlines/y2001/ast30nov_1.htm" rel="nofollow">
+             the original
+            </a>
+            on February 23, 2010.
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Explosions+on+the+Moon&amp;rft.date=2001-11-30&amp;rft.au=Tony+Phillips&amp;rft_id=https%3A%2F%2Fscience.nasa.gov%2Fheadlines%2Fy2001%2Fast30nov_1.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATransient+lunar+phenomenon">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-27">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-27">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Cudnik, Brian M.; Palmer, David W.; Palmer, David M.; Cook, Anthony; Venable, Roger; Gural, Peter S. (2003).
+            <a class="external text" href="https://web.archive.org/web/20140429053831/http://www.ingentaconnect.com/content/klu/moon/2003/00000093/00000002/05252316;jsessionid=3hqgti6lb1k1n.henrietta" rel="nofollow">
+             "The Observation and Characterization of Lunar Meteoroid Impact Phenomena"
+            </a>
+            .
+            <i>
+             Earth, Moon, and Planets
+            </i>
+            .
+            <b>
+             93
+            </b>
+            (2): 97–106.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/2003EM&amp;P...93...97C" rel="nofollow">
+             2003EM&amp;P...93...97C
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1023%2FB%3AMOON.0000034498.32831.3c" rel="nofollow">
+             10.1023/B:MOON.0000034498.32831.3c
+            </a>
+            . Archived from
+            <a class="external text" href="http://www.ingentaconnect.com/content/klu/moon/2003/00000093/00000002/05252316;jsessionid=3hqgti6lb1k1n.henrietta" rel="nofollow">
+             the original
+            </a>
+            on 2014-04-29.
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Earth%2C+Moon%2C+and+Planets&amp;rft.atitle=The+Observation+and+Characterization+of+Lunar+Meteoroid+Impact+Phenomena&amp;rft.volume=93&amp;rft.issue=2&amp;rft.pages=97-106&amp;rft.date=2003&amp;rft_id=info%3Adoi%2F10.1023%2FB%3AMOON.0000034498.32831.3c&amp;rft_id=info%3Abibcode%2F2003EM%26P...93...97C&amp;rft.aulast=Cudnik&amp;rft.aufirst=Brian+M.&amp;rft.au=Palmer%2C+David+W.&amp;rft.au=Palmer%2C+David+M.&amp;rft.au=Cook%2C+Anthony&amp;rft.au=Venable%2C+Roger&amp;rft.au=Gural%2C+Peter+S.&amp;rft_id=http%3A%2F%2Fwww.ingentaconnect.com%2Fcontent%2Fklu%2Fmoon%2F2003%2F00000093%2F00000002%2F05252316%3Bjsessionid%3D3hqgti6lb1k1n.henrietta&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATransient+lunar+phenomenon">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-lim-28">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-lim_28-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-lim_28-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.nasa.gov/centers/marshall/news/lunar/program_overview.html#link6" rel="nofollow">
+             "Lunar impact monitoring"
+            </a>
+            . NASA.
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Lunar+impact+monitoring&amp;rft.pub=NASA&amp;rft_id=http%3A%2F%2Fwww.nasa.gov%2Fcenters%2Fmarshall%2Fnews%2Flunar%2Fprogram_overview.html%23link6&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATransient+lunar+phenomenon">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-29">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-29">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://science.nasa.gov/science-news/science-at-nasa/2013/16may_lunarimpact/" rel="nofollow">
+             "Bright Explosion on the Moon"
+            </a>
+            . NASA. May 17, 2013.
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Bright+Explosion+on+the+Moon&amp;rft.pub=NASA&amp;rft.date=2013-05-17&amp;rft_id=https%3A%2F%2Fscience.nasa.gov%2Fscience-news%2Fscience-at-nasa%2F2013%2F16may_lunarimpact%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATransient+lunar+phenomenon">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-30">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-30">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.nasa.gov/centers/marshall/news/lunar/impact_candidates_05-06.html" rel="nofollow">
+             "2005-06 Impact Candidates"
+            </a>
+            .
+            <i>
+             rates and sizes of large meteoroids striking the lunar surface
+            </i>
+            . Marshall Space Flight Center. 5 September 2008
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              2009-12-25
+             </span>
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=rates+and+sizes+of+large+meteoroids+striking+the+lunar+surface.&amp;rft.atitle=2005-06+Impact+Candidates&amp;rft.date=2008-09-05&amp;rft_id=http%3A%2F%2Fwww.nasa.gov%2Fcenters%2Fmarshall%2Fnews%2Flunar%2Fimpact_candidates_05-06.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATransient+lunar+phenomenon">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-31">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-31">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.esa.int/esa-mmg/mmg.pl?b=b&amp;type=A&amp;mission=SMART-1&amp;single=y&amp;start=2" rel="nofollow">
+             "SMART-1 impact flash and dust cloud seen by the Canada-France-Hawaii Telescope"
+            </a>
+            . 2006.
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=SMART-1+impact+flash+and+dust+cloud+seen+by+the+Canada-France-Hawaii+Telescope&amp;rft.date=2006&amp;rft_id=http%3A%2F%2Fwww.esa.int%2Fesa-mmg%2Fmmg.pl%3Fb%3Db%26type%3DA%26mission%3DSMART-1%26single%3Dy%26start%3D2&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATransient+lunar+phenomenon">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-32">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-32">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Richard Zito, R (1989). "A new mechanism for lunar transient phenomena".
+            <i>
+             Icarus
+            </i>
+            .
+            <b>
+             82
+            </b>
+            (2): 419–422.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/1989Icar...82..419Z" rel="nofollow">
+             1989Icar...82..419Z
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1016%2F0019-1035%2889%2990048-1" rel="nofollow">
+             10.1016/0019-1035(89)90048-1
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Icarus&amp;rft.atitle=A+new+mechanism+for+lunar+transient+phenomena&amp;rft.volume=82&amp;rft.issue=2&amp;rft.pages=419-422&amp;rft.date=1989&amp;rft_id=info%3Adoi%2F10.1016%2F0019-1035%2889%2990048-1&amp;rft_id=info%3Abibcode%2F1989Icar...82..419Z&amp;rft.aulast=Richard+Zito&amp;rft.aufirst=R&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATransient+lunar+phenomenon">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-33">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-33">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            David Hughes, David W. (1980). "Transient lunar phenomena".
+            <i>
+             Nature
+            </i>
+            .
+            <b>
+             285
+            </b>
+            (5765): 438.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/1980Natur.285..438H" rel="nofollow">
+             1980Natur.285..438H
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1038%2F285438a0" rel="nofollow">
+             10.1038/285438a0
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nature&amp;rft.atitle=Transient+lunar+phenomena&amp;rft.volume=285&amp;rft.issue=5765&amp;rft.pages=438&amp;rft.date=1980&amp;rft_id=info%3Adoi%2F10.1038%2F285438a0&amp;rft_id=info%3Abibcode%2F1980Natur.285..438H&amp;rft.aulast=David+Hughes&amp;rft.aufirst=David+W.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATransient+lunar+phenomenon">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-34">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-34">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            Trudy Bell &amp; Tony Phillips (December 7, 2005).
+            <a class="external text" href="http://www.space.com/scienceastronomy/051207_moon_storms.html" rel="nofollow">
+             "New Research into Mysterious Moon Storms"
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=New+Research+into+Mysterious+Moon+Storms&amp;rft.date=2005-12-07&amp;rft.au=Trudy+Bell&amp;rft.au=Tony+Phillips&amp;rft_id=http%3A%2F%2Fwww.space.com%2Fscienceastronomy%2F051207_moon_storms.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATransient+lunar+phenomenon">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-35">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-35">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            B. Buratti, B; W. McConnochie; S. Calkins &amp; J. Hillier (2000). "Lunar transient phenomena: What do the Clementine images reveal?".
+            <i>
+             Icarus
+            </i>
+            .
+            <b>
+             146
+            </b>
+            : 98–117.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/2000Icar..146...98B" rel="nofollow">
+             2000Icar..146...98B
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1006%2Ficar.2000.6373" rel="nofollow">
+             10.1006/icar.2000.6373
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Icarus&amp;rft.atitle=Lunar+transient+phenomena%3A+What+do+the+Clementine+images+reveal%3F&amp;rft.volume=146&amp;rft.pages=98-117&amp;rft.date=2000&amp;rft_id=info%3Adoi%2F10.1006%2Ficar.2000.6373&amp;rft_id=info%3Abibcode%2F2000Icar..146...98B&amp;rft.aulast=B.+Buratti&amp;rft.aufirst=B&amp;rft.au=W.+McConnochie&amp;rft.au=S.+Calkins&amp;rft.au=J.+Hillier&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATransient+lunar+phenomenon">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+        </ol>
+       </div>
+       <p>
+        <b>
+         General references
+        </b>
+       </p>
+       <ul>
+        <li>
+         <cite class="citation book">
+          William Sheehan &amp; Thomas Dobbins (2001).
+          <i>
+           Epic Moon: A History of Lunar Exploration in the Age of the Telescope
+          </i>
+          . Willmann-Bell. p. 363.
+          <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+           ISBN
+          </a>
+          <a href="/wiki/Special:BookSources/0-943396-70-0" title="Special:BookSources/0-943396-70-0">
+           0-943396-70-0
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Epic+Moon%3A+A+History+of+Lunar+Exploration+in+the+Age+of+the+Telescope&amp;rft.pages=363&amp;rft.pub=Willmann-Bell&amp;rft.date=2001&amp;rft.isbn=0-943396-70-0&amp;rft.au=William+Sheehan&amp;rft.au=Thomas+Dobbins&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATransient+lunar+phenomenon">
+          <span style="display:none;">
+          </span>
+         </span>
+        </li>
+        <li>
+         <a href="/wiki/Patrick_Moore" title="Patrick Moore">
+          Patrick Moore
+         </a>
+         ,
+         <i>
+          On the Moon
+         </i>
+         , Cassel &amp; Co., 2001,
+         <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+          ISBN
+         </a>
+         <a href="/wiki/Special:BookSources/0-304-35469-4" title="Special:BookSources/0-304-35469-4">
+          0-304-35469-4
+         </a>
+         .
+        </li>
+       </ul>
+      </div>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Transient_lunar_phenomenon&amp;action=edit&amp;section=10" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a class="external text" href="https://science.nasa.gov/headlines/y2007/23jan_ltps.htm" rel="nofollow">
+         Lunar Transient Phenomena
+        </a>
+        NASA feature story
+       </li>
+       <li>
+        <a class="external text" href="https://web.archive.org/web/20090704104035/http://www.alpo-astronomy.org/lunar/ltp.html" rel="nofollow">
+         Lunar transient phenomena
+        </a>
+        Association of Lunar &amp; Planetary Observers
+       </li>
+       <li>
+        NASA -
+        <a class="external text" href="http://www.nasa.gov/centers/marshall/news/lunar/" rel="nofollow">
+         Lunar Impact Monitoring Program
+        </a>
+       </li>
+       <li>
+        <cite class="citation news">
+         Poratta, David (June 27, 2007).
+         <a class="external text" href="http://www.columbia.edu/cu/news/07/06/lunar.html" rel="nofollow">
+          "Columbia Astronomer Offers New Theory Into 400-year-old Lunar Mystery"
+         </a>
+         . Columbia University
+         <span class="reference-accessdate">
+          . Retrieved
+          <span class="nowrap">
+           2007-06-28
+          </span>
+         </span>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Columbia+Astronomer+Offers+New+Theory+Into+400-year-old+Lunar+Mystery&amp;rft.date=2007-06-27&amp;rft.aulast=Poratta&amp;rft.aufirst=David&amp;rft_id=http%3A%2F%2Fwww.columbia.edu%2Fcu%2Fnews%2F07%2F06%2Flunar.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATransient+lunar+phenomenon">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+      </ul>
+      <div aria-labelledby="The_Moon" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="3" scope="col" style="text-align: center;">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:The_Moon" title="Template:The Moon">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a href="/wiki/Template_talk:The_Moon" title="Template talk:The Moon">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:The_Moon&amp;action=edit">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="The_Moon" style="font-size:114%;margin:0 4em">
+           The
+           <a href="/wiki/Moon" title="Moon">
+            Moon
+           </a>
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          Physical
+          <br/>
+          properties
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Internal_structure_of_the_Moon" title="Internal structure of the Moon">
+              Internal structure
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Topography_of_the_Moon" title="Topography of the Moon">
+              Topography
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Atmosphere_of_the_Moon" title="Atmosphere of the Moon">
+              Atmosphere
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Gravitation_of_the_Moon" title="Gravitation of the Moon">
+              Gravity field
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Hill_sphere" title="Hill sphere">
+                Hill sphere
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Magnetic_field_of_the_Moon" title="Magnetic field of the Moon">
+              Magnetic field
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Sodium_tail_of_the_Moon" title="Sodium tail of the Moon">
+              Sodium tail
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Moonlight" title="Moonlight">
+              Moonlight
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Earthlight_(astronomy)" title="Earthlight (astronomy)">
+                Earthshine
+               </a>
+              </li>
+             </ul>
+            </li>
+           </ul>
+          </div>
+         </td>
+         <td class="navbox-image" rowspan="8" style="width:1px;padding:0px 0px 0px 2px">
+          <div>
+           <a class="image" href="/wiki/File:FullMoon2010.jpg" title="A full moon">
+            <img alt="A full moon" data-file-height="2452" data-file-width="2580" height="114" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/FullMoon2010.jpg/120px-FullMoon2010.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/FullMoon2010.jpg/180px-FullMoon2010.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e1/FullMoon2010.jpg/240px-FullMoon2010.jpg 2x" width="120"/>
+           </a>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Orbit_of_the_Moon" title="Orbit of the Moon">
+           Orbit
+          </a>
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Orbital_elements" title="Orbital elements">
+              Orbital elements
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_distance_(astronomy)" title="Lunar distance (astronomy)">
+                Distance
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Apsis" title="Apsis">
+                  Perigee &amp; apogee
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li>
+               <a href="/wiki/Lunar_node" title="Lunar node">
+                Nodes
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Nodal_period" title="Nodal period">
+                  Nodal period
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li>
+               <a href="/wiki/Lunar_precession" title="Lunar precession">
+                Precession
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Syzygy_(astronomy)" title="Syzygy (astronomy)">
+              Syzygy
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/New_moon" title="New moon">
+                New moon
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Full_moon" title="Full moon">
+                Full moon
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Eclipse" title="Eclipse">
+                Eclipses
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Lunar_eclipse" title="Lunar eclipse">
+                  Lunar eclipse
+                 </a>
+                 <ul>
+                  <li>
+                   <a href="/wiki/Total_penumbral_lunar_eclipse" title="Total penumbral lunar eclipse">
+                    Total penumbral lunar eclipse
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Tetrad_(astronomy)" title="Tetrad (astronomy)">
+                    Tetrad
+                   </a>
+                  </li>
+                 </ul>
+                </li>
+                <li>
+                 <a href="/wiki/Solar_eclipse" title="Solar eclipse">
+                  Solar eclipse
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Solar_eclipses_on_the_Moon" title="Solar eclipses on the Moon">
+                  Solar eclipses on the Moon
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Eclipse_cycle" title="Eclipse cycle">
+                  Eclipse cycle
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li>
+               <a href="/wiki/Supermoon" title="Supermoon">
+                Supermoon
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Tide" title="Tide">
+              Tide
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Tidal_force" title="Tidal force">
+                Tidal force
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Tidal_locking" title="Tidal locking">
+                Tidal locking
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Tidal_acceleration" title="Tidal acceleration">
+                Tidal acceleration
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Tidal_range" title="Tidal range">
+                Tidal range
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_mansion" title="Lunar mansion">
+              Lunar mansion
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          Surface &amp;
+          <br/>
+          <a href="/wiki/List_of_lunar_features" title="List of lunar features">
+           features
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Selenography" title="Selenography">
+              Selenography
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Lunar_terminator" title="Lunar terminator">
+              Terminator
+             </a>
+            </li>
+            <li>
+             Hemispheres
+             <ul>
+              <li>
+               <a href="/wiki/Near_side_of_the_Moon" title="Near side of the Moon">
+                Near side
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Far_side_of_the_Moon" title="Far side of the Moon">
+                Far side
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             Poles
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_north_pole" title="Lunar north pole">
+                North pole
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Lunar_south_pole" title="Lunar south pole">
+                South pole
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Face_on_Moon_South_Pole" title="Face on Moon South Pole">
+                  Face
+                 </a>
+                </li>
+               </ul>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_mare" title="Lunar mare">
+              Maria
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/List_of_maria_on_the_Moon" title="List of maria on the Moon">
+                List
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/List_of_mountains_on_the_Moon" title="List of mountains on the Moon">
+              Mountains
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Peak_of_eternal_light" title="Peak of eternal light">
+                Peak of eternal light
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/List_of_valleys_on_the_Moon" title="List of valleys on the Moon">
+              Valleys
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Moon#Volcanic_features" title="Moon">
+              Volcanic features
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_dome" title="Lunar dome">
+                Domes
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Caldera#The_Moon" title="Caldera">
+                Calderas
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Lunar_crater" title="Lunar crater">
+              Craters
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/List_of_craters_on_the_Moon" title="List of craters on the Moon">
+                List
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Ray_system#Lunar_rays" title="Ray system">
+                Ray systems
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Crater_of_eternal_darkness" title="Crater of eternal darkness">
+                Crater of eternal darkness
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Shackleton_(crater)" title="Shackleton (crater)">
+                Shackleton crater
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/South_Pole%E2%80%93Aitken_basin" title="South Pole–Aitken basin">
+                South Pole–Aitken basin
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_soil" title="Lunar soil">
+              Soil
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_swirls" title="Lunar swirls">
+                Swirls
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Rille" title="Rille">
+              Rilles
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Wrinkle_ridge" title="Wrinkle ridge">
+              Wrinkle ridges
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Moon_rock" title="Moon rock">
+              Rocks
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_basalt_70017" title="Lunar basalt 70017">
+                Lunar basalt 70017
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_water" title="Lunar water">
+              Water
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Space_weathering" title="Space weathering">
+              Space weathering
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Micrometeorite" title="Micrometeorite">
+                Micrometeorite
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Sputtering" title="Sputtering">
+                Sputtering
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Quake_(natural_phenomenon)#Moonquake" title="Quake (natural phenomenon)">
+              Quakes
+             </a>
+            </li>
+            <li>
+             <a class="mw-selflink selflink">
+              Transient lunar phenomenon
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          Science
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Lunar_observation" title="Lunar observation">
+              Observation
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Libration#Lunar_libration" title="Libration">
+              Libration
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_theory" title="Lunar theory">
+              Lunar theory
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Origin_of_the_Moon" title="Origin of the Moon">
+              Origin
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Giant-impact_hypothesis" title="Giant-impact hypothesis">
+                Giant-impact hypothesis
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Theia_(planet)" title="Theia (planet)">
+                  Theia
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Lunar_magma_ocean" title="Lunar magma ocean">
+                  Lunar magma ocean
+                 </a>
+                </li>
+               </ul>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Geology_of_the_Moon" title="Geology of the Moon">
+              Geology
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_geologic_timescale" title="Lunar geologic timescale">
+                Timescale
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Late_Heavy_Bombardment" title="Late Heavy Bombardment">
+                  Late Heavy Bombardment
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li>
+               <a href="/wiki/Lunar_meteorite" title="Lunar meteorite">
+                Lunar meteorites
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/KREEP" title="KREEP">
+                KREEP
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             Experiments
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_Laser_Ranging_experiment" title="Lunar Laser Ranging experiment">
+                Lunar laser ranging
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Apollo_Lunar_Surface_Experiments_Package" title="Apollo Lunar Surface Experiments Package">
+                ALSEP
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_sample_displays" title="Lunar sample displays">
+              Lunar sample displays
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Apollo_11_lunar_sample_display" title="Apollo 11 lunar sample display">
+                Apollo 11
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Apollo_17_lunar_sample_display" title="Apollo 17 lunar sample display">
+                Apollo 17
+               </a>
+              </li>
+             </ul>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Exploration_of_the_Moon" title="Exploration of the Moon">
+           Exploration
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/List_of_missions_to_the_Moon" title="List of missions to the Moon">
+              Missions
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Apollo_program" title="Apollo program">
+                Apollo program
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/List_of_lunar_probes" title="List of lunar probes">
+              Probes
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Moon_landing" title="Moon landing">
+              Landing
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Moon_landing_conspiracy_theories" title="Moon landing conspiracy theories">
+                Conspiracy theories
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Colonization_of_the_Moon" title="Colonization of the Moon">
+              Colonization
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tourism_on_the_Moon" title="Tourism on the Moon">
+              Tourism
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          Time-telling
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Lunar_calendar" title="Lunar calendar">
+              Lunar calendar
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Lunisolar_calendar" title="Lunisolar calendar">
+              Lunisolar calendar
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Month" title="Month">
+              Month
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_month" title="Lunar month">
+                Lunar month
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Nodal_period" title="Nodal period">
+                  Nodal period
+                 </a>
+                </li>
+               </ul>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Fortnight" title="Fortnight">
+              Fortnight
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Week" title="Week">
+              Sennight
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_mansion" title="Lunar mansion">
+              Lunar mansion
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Lunar_phase" title="Lunar phase">
+           Phases
+          </a>
+          &amp;
+          <br/>
+          names
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/New_moon" title="New moon">
+              New
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Full_moon" title="Full moon">
+              Full
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Full_moon#Full_moon_names" title="Full moon">
+                Names
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Crescent" title="Crescent">
+              Crescent
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Supermoon" title="Supermoon">
+              Super &amp; micro
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_eclipse" title="Lunar eclipse">
+              Blood
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Blue_moon" title="Blue moon">
+              Blue
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Black_moon" title="Black moon">
+              Black
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Dark_moon" title="Dark moon">
+              Dark
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Wet_moon" title="Wet moon">
+              Wet
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tetrad_(astronomy)" title="Tetrad (astronomy)">
+              Tetrad
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          Related
+          <br/>
+          topics
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             Psychology
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_effect" title="Lunar effect">
+                Lunar effect
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Moon_illusion" title="Moon illusion">
+                Moon illusion
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Pareidolia" title="Pareidolia">
+                Pareidolia
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Man_in_the_Moon" title="Man in the Moon">
+                  Man in the Moon
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Moon_rabbit" title="Moon rabbit">
+                  Moon rabbit
+                 </a>
+                </li>
+               </ul>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/List_of_people_with_craters_of_the_Moon_named_after_them" title="List of people with craters of the Moon named after them">
+              Craters named after people
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/List_of_extraterrestrial_memorials#The_Moon" title="List of extraterrestrial memorials">
+              Memorials on the Moon
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Moon_in_fiction" title="Moon in fiction">
+              Moon in fiction
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/List_of_lunar_deities" title="List of lunar deities">
+              Moon in mythology
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Hj%C3%BAki_and_Bil" title="Hjúki and Bil">
+                Hjúki and Bil
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             "
+             <a href="/wiki/The_Moon_is_made_of_green_cheese" title="The Moon is made of green cheese">
+              Moon is made of green cheese
+             </a>
+             "
+            </li>
+            <li>
+             <a href="/wiki/Natural_satellite" title="Natural satellite">
+              Natural satellite
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Double_planet" title="Double planet">
+              Double planet
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Planetary_objects_proposed_in_religion,_astrology,_ufology_and_pseudoscience#Lilith" title="Planetary objects proposed in religion, astrology, ufology and pseudoscience">
+              Lilith (hypothetical second moon)
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <td class="navbox-abovebelow" colspan="3" style="text-align: center;">
+          <div>
+           <ul>
+            <li>
+             <img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/>
+             <b>
+              <a href="/wiki/Category:Moon" title="Category:Moon">
+               Category
+              </a>
+             </b>
+            </li>
+            <li>
+             <img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/>
+             <b>
+              <a href="/wiki/Portal:Moon" title="Portal:Moon">
+               Moon portal
+              </a>
+             </b>
+            </li>
+            <li>
+             <img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/>
+             <b>
+              <a href="/wiki/Portal:Earth_sciences" title="Portal:Earth sciences">
+               Earth sciences portal
+              </a>
+             </b>
+            </li>
+            <li>
+             <img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/>
+             <b>
+              <a href="/wiki/Portal:Solar_System" title="Portal:Solar System">
+               Solar System portal
+              </a>
+             </b>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1247
+Cached time: 20180305152922
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.296 seconds
+Real time usage: 0.380 seconds
+Preprocessor visited node count: 1900/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 76485/2097152 bytes
+Template argument size: 1160/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 1/500
+Lua time usage: 0.149/10.000 seconds
+Lua memory usage: 4.75 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  301.746      1 -total
+ 56.95%  171.854      1 Template:Reflist
+ 24.04%   72.545     18 Template:Cite_journal
+ 20.39%   61.518     10 Template:Cite_web
+ 16.40%   49.473      1 Template:Citation_needed
+ 11.73%   35.388      1 Template:Fix
+  8.08%   24.391      3 Template:Category_handler
+  7.73%   23.336      1 Template:ISBN
+  7.33%   22.110      1 Template:The_Moon
+  6.40%   19.308      1 Template:Navbox
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:231249-0!canonical and timestamp 20180305152922 and revision id 823772718
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Transient_lunar_phenomenon&amp;oldid=823772718">
+      https://en.wikipedia.org/w/index.php?title=Transient_lunar_phenomenon&amp;oldid=823772718
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Astronomical_imaging" title="Category:Astronomical imaging">
+         Astronomical imaging
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Lunar_science" title="Category:Lunar science">
+         Lunar science
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Observational_astronomy" title="Category:Observational astronomy">
+         Observational astronomy
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Lunar_observation" title="Category:Lunar observation">
+         Lunar observation
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">
+         All articles with unsourced statements
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_unsourced_statements_from_July_2011" title="Category:Articles with unsourced statements from July 2011">
+         Articles with unsourced statements from July 2011
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Good_articles" title="Category:Good articles">
+         Good articles
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Transient+lunar+phenomenon" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Transient+lunar+phenomenon" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Transient_lunar_phenomenon" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Transient_lunar_phenomenon" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Transient_lunar_phenomenon">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Transient_lunar_phenomenon&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Transient_lunar_phenomenon&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Transient_lunar_phenomenon" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Transient_lunar_phenomenon" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Transient_lunar_phenomenon&amp;oldid=823772718" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Transient_lunar_phenomenon&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1754615" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Transient_lunar_phenomenon&amp;id=823772718" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Transient+lunar+phenomenon">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Transient+lunar+phenomenon&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Transient_lunar_phenomenon&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-be">
+        <a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%BE%D1%82%D0%BA%D0%B0%D1%87%D0%B0%D1%81%D0%BE%D0%B2%D1%8B%D1%8F_%D0%BC%D0%B5%D1%81%D1%8F%D1%86%D0%BE%D0%B2%D1%8B%D1%8F_%D0%B7%E2%80%99%D1%8F%D0%B2%D1%8B" hreflang="be" lang="be" title="Кароткачасовыя месяцовыя з’явы – Belarusian">
+         Беларуская
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Fenomen_lunar_transitori" hreflang="ca" lang="ca" title="Fenomen lunar transitori – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/M%C4%9Bs%C3%AD%C4%8Dn%C3%AD_p%C5%99echodn%C3%A9_jevy" hreflang="cs" lang="cs" title="Měsíční přechodné jevy – Czech">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Lunar_Transient_Phenomena" hreflang="de" lang="de" title="Lunar Transient Phenomena – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-el">
+        <a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%A0%CE%B1%CF%81%CE%BF%CE%B4%CE%B9%CE%BA%CE%AC_%CF%83%CE%B5%CE%BB%CE%B7%CE%BD%CE%B9%CE%B1%CE%BA%CE%AC_%CF%86%CE%B1%CE%B9%CE%BD%CF%8C%CE%BC%CE%B5%CE%BD%CE%B1" hreflang="el" lang="el" title="Παροδικά σεληνιακά φαινόμενα – Greek">
+         Ελληνικά
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Fen%C3%B3menos_lunares_transitorios" hreflang="es" lang="es" title="Fenómenos lunares transitorios – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Ph%C3%A9nom%C3%A8ne_lunaire_transitoire" hreflang="fr" lang="fr" title="Phénomène lunaire transitoire – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hr">
+        <a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Prijelazni_Mjese%C4%8Devi_fenomeni" hreflang="hr" lang="hr" title="Prijelazni Mjesečevi fenomeni – Croatian">
+         Hrvatski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Fenomena_Bulan_sementara" hreflang="id" lang="id" title="Fenomena Bulan sementara – Indonesian">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Fenomeno_lunare_transiente" hreflang="it" lang="it" title="Fenomeno lunare transiente – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lv">
+        <a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/P%C4%81rejo%C5%A1a_M%C4%93ness_par%C4%81d%C4%ABba" hreflang="lv" lang="lv" title="Pārejoša Mēness parādība – Latvian">
+         Latviešu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lb">
+        <a class="interlanguage-link-target" href="https://lb.wikipedia.org/wiki/Lunar_transient_phenomenon" hreflang="lb" lang="lb" title="Lunar transient phenomenon – Luxembourgish">
+         Lëtzebuergesch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B0%D1%82%D0%BA%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BB%D1%83%D0%BD%D0%BD%D1%8B%D0%B5_%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F" hreflang="ru" lang="ru" title="Кратковременные лунные явления – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sh">
+        <a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Prolazne_Mjese%C4%8Deve_pojave" hreflang="sh" lang="sh" title="Prolazne Mjesečeve pojave – Serbo-Croatian">
+         Srpskohrvatski / српскохрватски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Kuun_lyhytkestoiset_ilmi%C3%B6t" hreflang="fi" lang="fi" title="Kuun lyhytkestoiset ilmiöt – Finnish">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Transienta_m%C3%A5nfenomen" hreflang="sv" lang="sv" title="Transienta månfenomen – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E9%98%BF%E9%87%8C%E6%96%AF%E5%A1%94%E5%85%8B%E6%96%AF%E9%99%A8%E7%9F%B3%E5%9D%91#月球暂现现象" hreflang="zh" lang="zh" title="阿里斯塔克斯陨石坑 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1754615#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 3 February 2018, at 08:59.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Transient_lunar_phenomenon&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.296","walltime":"0.380","ppvisitednodes":{"value":1900,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":76485,"limit":2097152},"templateargumentsize":{"value":1160,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  301.746      1 -total"," 56.95%  171.854      1 Template:Reflist"," 24.04%   72.545     18 Template:Cite_journal"," 20.39%   61.518     10 Template:Cite_web"," 16.40%   49.473      1 Template:Citation_needed"," 11.73%   35.388      1 Template:Fix","  8.08%   24.391      3 Template:Category_handler","  7.73%   23.336      1 Template:ISBN","  7.33%   22.110      1 Template:The_Moon","  6.40%   19.308      1 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.149","limit":"10.000"},"limitreport-memusage":{"value":4976598,"limit":52428800}},"cachereport":{"origin":"mw1247","timestamp":"20180305152922","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":97,"wgHostname":"mw1272"});});
+  </script>
+ </body>
+</html>

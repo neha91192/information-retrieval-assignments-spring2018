@@ -1,0 +1,9 @@
+G1: 
+There are no sources in Graph G1 as every link is pointed by at least one node. 
+Number of Documents with no inlinks: 0
+Number of Documents with no outlinks: 5
+
+G2:
+There are no sources in Graph G2 as every link is pointed by at least one node. 
+Number of Documents with no inlinks: 0
+Number of Documents with no outlinks: 3

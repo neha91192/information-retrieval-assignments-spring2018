@@ -1,0 +1,14 @@
+
+Number of candidate terms considered to search for the stop list: Top 200 from the Term frequency table
+
+To find the desired stop words, the top 200 most occurred terms(0.35% of the vocabulary in unigram, 0.04% from bigram, and 0.02% from trigram) were manually scanned. Out of those, the terms which add very little value such as the articles in the English language, pronouns, frequently occurred words related to the domain of the documents and not helpful for selecting documents as results, were kept in the stop list. 
+
+Also, terms important for querying such as 'and', 'where', 'when', 'what' were preserved as an index terms.
+
+The reason for scanning lesser % of the terms in bigram and trigram indexer as compared to their vocabulary size is that even though individually they can act as a stop words, together they might be an important keyword. 
+
+
+
+
+
+

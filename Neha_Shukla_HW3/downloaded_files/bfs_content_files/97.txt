@@ -1,0 +1,4401 @@
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Sardis - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Sardis","wgTitle":"Sardis","wgCurRevisionId":831284628,"wgRevisionId":831284628,"wgArticleId":45386,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from October 2011","All articles needing additional references","Articles with Greek-language external links","Coordinates on Wikidata","Articles containing Ancient Greek-language text","Articles containing Old Persian-language text","All articles with unsourced statements","Articles with unsourced statements from July 2008","Achaemenid cities","Ancient Greek archaeological sites in Turkey","Ancient synagogues","Archaeological sites in the Aegean Region","Buildings and structures in Manisa Province","Former populated places in Turkey","Lydia","Hellenistic colonies","Historic Jewish communities","History of Manisa Province","New Testament cities","Roman towns and cities in Turkey","Tourist attractions in Manisa Province","World Heritage Site Tentative list"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Sardis","wgRelevantArticleId":45386,"wgRequestId":"WrAcTgpAIC4AAHzsvJEAAABO","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCoordinates":{"lat":38.488333333333,"lon":28.040277777778},"wgWikibaseItemId":"Q232615","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.25" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/The_Bath-Gymnasium_complex_at_Sardis%2C_late_2nd_-_early_3rd_century_AD%2C_Sardis%2C_Turkey_%2817098680002%29.jpg/1200px-The_Bath-Gymnasium_complex_at_Sardis%2C_late_2nd_-_early_3rd_century_AD%2C_Sardis%2C_Turkey_%2817098680002%29.jpg" property="og:image"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Sardis" rel="alternate"/>
+  <link href="/w/index.php?title=Sardis&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Sardis&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Sardis" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Sardis rootpage-Sardis skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Sardis
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <div class="hatnote navigation-not-searchable" role="note">
+       This article is about the ancient
+       <a href="/wiki/Lydia" title="Lydia">
+        Lydian
+       </a>
+       city. For others, see
+       <a class="mw-disambig" href="/wiki/Sardis_(disambiguation)" title="Sardis (disambiguation)">
+        Sardis (disambiguation)
+       </a>
+       .
+      </div>
+      <table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+       <tr>
+        <td class="mbox-image">
+         <div style="width:52px">
+          <a class="image" href="/wiki/File:Question_book-new.svg">
+           <img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/>
+          </a>
+         </div>
+        </td>
+        <td class="mbox-text">
+         <div class="mbox-text-span">
+          This article
+          <b>
+           needs additional citations for
+           <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">
+            verification
+           </a>
+          </b>
+          .
+          <span class="hide-when-compact">
+           Please help
+           <a class="external text" href="//en.wikipedia.org/w/index.php?title=Sardis&amp;action=edit">
+            improve this article
+           </a>
+           by
+           <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">
+            adding citations to reliable sources
+           </a>
+           . Unsourced material may be challenged and removed.
+          </span>
+          <small>
+           <i>
+            (October 2011)
+           </i>
+          </small>
+          <small class="hide-when-compact">
+           <i>
+            (
+            <a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">
+             Learn how and when to remove this template message
+            </a>
+            )
+           </i>
+          </small>
+         </div>
+        </td>
+       </tr>
+      </table>
+      <table class="infobox vcard" style="width:22em">
+       <caption class="fn org">
+        Sardis
+       </caption>
+       <tr>
+        <td colspan="2" style="text-align:center">
+         <span class="nickname">
+          Σάρδεις
+          <span class="languageicon">
+           (in Greek)
+          </span>
+         </span>
+        </td>
+       </tr>
+       <tr>
+        <td colspan="2" style="text-align:center">
+         <a class="image" href="/wiki/File:The_Bath-Gymnasium_complex_at_Sardis,_late_2nd_-_early_3rd_century_AD,_Sardis,_Turkey_(17098680002).jpg">
+          <img alt="The Bath-Gymnasium complex at Sardis, late 2nd - early 3rd century AD, Sardis, Turkey (17098680002).jpg" data-file-height="3252" data-file-width="4903" height="192" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/The_Bath-Gymnasium_complex_at_Sardis%2C_late_2nd_-_early_3rd_century_AD%2C_Sardis%2C_Turkey_%2817098680002%29.jpg/290px-The_Bath-Gymnasium_complex_at_Sardis%2C_late_2nd_-_early_3rd_century_AD%2C_Sardis%2C_Turkey_%2817098680002%29.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/The_Bath-Gymnasium_complex_at_Sardis%2C_late_2nd_-_early_3rd_century_AD%2C_Sardis%2C_Turkey_%2817098680002%29.jpg/435px-The_Bath-Gymnasium_complex_at_Sardis%2C_late_2nd_-_early_3rd_century_AD%2C_Sardis%2C_Turkey_%2817098680002%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e5/The_Bath-Gymnasium_complex_at_Sardis%2C_late_2nd_-_early_3rd_century_AD%2C_Sardis%2C_Turkey_%2817098680002%29.jpg/580px-The_Bath-Gymnasium_complex_at_Sardis%2C_late_2nd_-_early_3rd_century_AD%2C_Sardis%2C_Turkey_%2817098680002%29.jpg 2x" width="290"/>
+         </a>
+         <div>
+          The Greek
+          <a href="/wiki/Gymnasium_(ancient_Greece)" title="Gymnasium (ancient Greece)">
+           gymnasium
+          </a>
+          of Sardis
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <td colspan="2" style="text-align:center">
+         <div class="center">
+          <div style="width:270px;float:none;clear:both;margin-left:auto;margin-right:auto">
+           <div style="width:270px;padding:0">
+            <div style="position:relative;width:270px">
+             <a class="image" href="/wiki/File:Turkey_adm_location_map.svg" title="Sardis is located in Turkey">
+              <img alt="Sardis is located in Turkey" data-file-height="721" data-file-width="1578" height="123" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Turkey_adm_location_map.svg/270px-Turkey_adm_location_map.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Turkey_adm_location_map.svg/405px-Turkey_adm_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Turkey_adm_location_map.svg/540px-Turkey_adm_location_map.svg.png 2x" width="270"/>
+             </a>
+             <div style="position:absolute;top:57.31%;left:13.471%">
+              <div style="position:absolute;left:-4px;top:-4px;line-height:0">
+               <img alt="Sardis" data-file-height="16" data-file-width="16" height="8" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Archaeological_site_icon_%28red%29.svg/8px-Archaeological_site_icon_%28red%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Archaeological_site_icon_%28red%29.svg/12px-Archaeological_site_icon_%28red%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Archaeological_site_icon_%28red%29.svg/16px-Archaeological_site_icon_%28red%29.svg.png 2x" title="Sardis" width="8"/>
+              </div>
+             </div>
+            </div>
+            <div>
+             Shown within Turkey
+            </div>
+           </div>
+          </div>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         Alternate name
+        </th>
+        <td class="nickname">
+         Sardes
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         Location
+        </th>
+        <td class="label">
+         Sart,
+         <a href="/wiki/Manisa_Province" title="Manisa Province">
+          Manisa Province
+         </a>
+         ,
+         <a href="/wiki/Turkey" title="Turkey">
+          Turkey
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         Region
+        </th>
+        <td class="label">
+         <a href="/wiki/Lydia" title="Lydia">
+          Lydia
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         Coordinates
+        </th>
+        <td>
+         <span class="plainlinks nourlexpansion">
+          <a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Sardis&amp;params=38_29_18_N_28_02_25_E_type:landmark">
+           <span class="geo-default">
+            <span class="geo-dms" title="Maps, aerial photos, and other data for this location">
+             <span class="latitude">
+              38°29′18″N
+             </span>
+             <span class="longitude">
+              28°02′25″E
+             </span>
+            </span>
+           </span>
+           <span class="geo-multi-punct">
+            ﻿ / ﻿
+           </span>
+           <span class="geo-nondefault">
+            <span class="geo-dec" title="Maps, aerial photos, and other data for this location">
+             38.48833°N 28.04028°E
+            </span>
+            <span style="display:none">
+             ﻿ /
+             <span class="geo">
+              38.48833; 28.04028
+             </span>
+            </span>
+           </span>
+          </a>
+         </span>
+         <span style="font-size: small;">
+          <span id="coordinates">
+           <a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">
+            Coordinates
+           </a>
+           :
+           <span class="plainlinks nourlexpansion">
+            <a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Sardis&amp;params=38_29_18_N_28_02_25_E_type:landmark">
+             <span class="geo-default">
+              <span class="geo-dms" title="Maps, aerial photos, and other data for this location">
+               <span class="latitude">
+                38°29′18″N
+               </span>
+               <span class="longitude">
+                28°02′25″E
+               </span>
+              </span>
+             </span>
+             <span class="geo-multi-punct">
+              ﻿ / ﻿
+             </span>
+             <span class="geo-nondefault">
+              <span class="geo-dec" title="Maps, aerial photos, and other data for this location">
+               38.48833°N 28.04028°E
+              </span>
+              <span style="display:none">
+               ﻿ /
+               <span class="geo">
+                38.48833; 28.04028
+               </span>
+              </span>
+             </span>
+            </a>
+           </span>
+          </span>
+         </span>
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         Type
+        </th>
+        <td class="category">
+         Settlement
+        </td>
+       </tr>
+       <tr>
+        <th colspan="2" style="text-align:center;background-color: #eee;">
+         History
+        </th>
+       </tr>
+       <tr>
+        <th scope="row">
+         Abandoned
+        </th>
+        <td>
+         Around 1402 AD
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         Cultures
+        </th>
+        <td>
+         <a href="/wiki/Greeks" title="Greeks">
+          Greek
+         </a>
+         ,
+         <a href="/wiki/Lydia" title="Lydia">
+          Lydian
+         </a>
+         ,
+         <a href="/wiki/Persian_people" title="Persian people">
+          Persian
+         </a>
+         ,
+         <a href="/wiki/Ancient_Rome" title="Ancient Rome">
+          Roman
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <th colspan="2" style="text-align:center;background-color: #eee;">
+         Site notes
+        </th>
+       </tr>
+       <tr>
+        <th scope="row">
+         Excavation dates
+        </th>
+        <td>
+         1910–1914, 1922, 1958–present
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         Archaeologists
+        </th>
+        <td>
+         <a href="/wiki/Howard_Crosby_Butler" title="Howard Crosby Butler">
+          Howard Crosby Butler
+         </a>
+         , G.M.A. Hanfmann, Crawford H. Greenewalt, jr., Nicholas Cahill
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         Condition
+        </th>
+        <td>
+         Ruined
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         Ownership
+        </th>
+        <td>
+         Public
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         Public access
+        </th>
+        <td>
+         Yes
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         Website
+        </th>
+        <td>
+         <a class="external text" href="http://sardisexpedition.org" rel="nofollow">
+          Archaeological Exploration of Sardis
+         </a>
+        </td>
+       </tr>
+      </table>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:302px;">
+        <a class="image" href="/wiki/File:Lydia_circa_50_AD_-_English_legend.jpg">
+         <img alt="" class="thumbimage" data-file-height="1169" data-file-width="1653" height="212" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Lydia_circa_50_AD_-_English_legend.jpg/300px-Lydia_circa_50_AD_-_English_legend.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Lydia_circa_50_AD_-_English_legend.jpg/450px-Lydia_circa_50_AD_-_English_legend.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Lydia_circa_50_AD_-_English_legend.jpg/600px-Lydia_circa_50_AD_-_English_legend.jpg 2x" width="300"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Lydia_circa_50_AD_-_English_legend.jpg" title="Enlarge">
+          </a>
+         </div>
+         Sardis in the middle of Lydia (ca. 50 AD)
+        </div>
+       </div>
+      </div>
+      <p>
+       <b>
+        Sardis
+       </b>
+       (
+       <span class="nowrap">
+        <span class="IPA nopopups noexcerpt">
+         <a href="/wiki/Help:IPA/English" title="Help:IPA/English">
+          /
+          <span style="border-bottom:1px dotted">
+           <span title="/ˈ/: primary stress follows">
+            ˈ
+           </span>
+           <span title="'s' in 'sigh'">
+            s
+           </span>
+           <span title="/ɑːr/: 'ar' in 'far'">
+            ɑːr
+           </span>
+           <span title="'d' in 'dye'">
+            d
+           </span>
+           <span title="/ɪ/: 'i' in 'kit'">
+            ɪ
+           </span>
+           <span title="'s' in 'sigh'">
+            s
+           </span>
+          </span>
+          /
+         </a>
+        </span>
+       </span>
+       ) or
+       <b>
+        Sardes
+       </b>
+       (
+       <span class="nowrap">
+        <span class="IPA nopopups noexcerpt">
+         <a href="/wiki/Help:IPA/English" title="Help:IPA/English">
+          /
+          <span style="border-bottom:1px dotted">
+           <span title="/ˈ/: primary stress follows">
+            ˈ
+           </span>
+           <span title="'s' in 'sigh'">
+            s
+           </span>
+           <span title="/ɑːr/: 'ar' in 'far'">
+            ɑːr
+           </span>
+           <span title="'d' in 'dye'">
+            d
+           </span>
+           <span title="/iː/: 'ee' in 'fleece'">
+            iː
+           </span>
+           <span title="'z' in 'zoom'">
+            z
+           </span>
+          </span>
+          /
+         </a>
+        </span>
+       </span>
+       ;
+       <a href="/wiki/Lydian_language" title="Lydian language">
+        Lydian
+       </a>
+       : 𐤮𐤱𐤠𐤭𐤣
+       <i>
+        Sfard
+       </i>
+       ;
+       <a class="mw-redirect" href="/wiki/Ancient_Greek_language" title="Ancient Greek language">
+        Ancient Greek
+       </a>
+       :
+       <span lang="grc" xml:lang="grc">
+        Σάρδεις
+       </span>
+       <i>
+        Sardeis
+       </i>
+       ;
+       <a class="mw-redirect" href="/wiki/Old_Persian_language" title="Old Persian language">
+        Old Persian
+       </a>
+       :
+       <span lang="peo" xml:lang="peo">
+        Sparda
+       </span>
+       ) was an ancient city at the location of modern
+       <i>
+        Sart
+       </i>
+       (Sartmahmut before 19 October 2005) in
+       <a href="/wiki/Turkey" title="Turkey">
+        Turkey
+       </a>
+       's
+       <a href="/wiki/Manisa_Province" title="Manisa Province">
+        Manisa Province
+       </a>
+       . Sardis was the capital of the ancient kingdom of
+       <a href="/wiki/Lydia" title="Lydia">
+        Lydia
+       </a>
+       ,
+       <sup class="reference" id="cite_ref-rhodes_1-0">
+        <a href="#cite_note-rhodes-1">
+         [1]
+        </a>
+       </sup>
+       one of the important cities of the
+       <a href="/wiki/Achaemenid_Empire" title="Achaemenid Empire">
+        Persian Empire
+       </a>
+       , the seat of a
+       <a href="/wiki/Proconsul" title="Proconsul">
+        proconsul
+       </a>
+       under the
+       <a href="/wiki/Roman_Empire" title="Roman Empire">
+        Roman Empire
+       </a>
+       , and the metropolis of the province Lydia in later Roman and
+       <a href="/wiki/Byzantine_Empire" title="Byzantine Empire">
+        Byzantine
+       </a>
+       times. As one of the
+       <a href="/wiki/Seven_churches_of_Asia" title="Seven churches of Asia">
+        Seven churches of Asia
+       </a>
+       , it was addressed by
+       <a href="/wiki/John_of_Patmos" title="John of Patmos">
+        John
+       </a>
+       , the author of the
+       <a href="/wiki/Book_of_Revelation" title="Book of Revelation">
+        Book of Revelation
+       </a>
+       in the
+       <a href="/wiki/Bible" title="Bible">
+        Bible
+       </a>
+       , in terms which seem to imply that its population was notoriously soft and fainthearted. Its importance was due first to its military strength, secondly to its situation on an important highway leading from the interior to the
+       <a href="/wiki/Aegean_Sea" title="Aegean Sea">
+        Aegean
+       </a>
+       coast, and thirdly to its commanding the wide and fertile plain of the
+       <a href="/wiki/Gediz_River" title="Gediz River">
+        Hermus
+       </a>
+       .
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Geography">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Geography
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#History">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           History
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-3">
+         <a href="#Archaeological_expeditions">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           Archaeological expeditions
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-4">
+         <a href="#Sardis_synagogue">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           Sardis synagogue
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-5">
+         <a href="#See_also">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-6">
+         <a href="#References">
+          <span class="tocnumber">
+           6
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-7">
+         <a href="#Further_reading">
+          <span class="tocnumber">
+           7
+          </span>
+          <span class="toctext">
+           Further reading
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-8">
+         <a href="#External_links">
+          <span class="tocnumber">
+           8
+          </span>
+          <span class="toctext">
+           External links
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Geography">
+        Geography
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Sardis&amp;action=edit&amp;section=1" title="Edit section: Geography">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Sardis was situated in the middle of
+       <a href="/wiki/Gediz_River" title="Gediz River">
+        Hermus
+       </a>
+       valley, at the foot of
+       <a class="mw-redirect" href="/wiki/Mount_Tmolus" title="Mount Tmolus">
+        Mount Tmolus
+       </a>
+       , a steep and lofty spur which formed the citadel. It was about 4 kilometres (2.5 mi) south of the Hermus. Today, the site is located by the present day village of
+       <i>
+        Sart
+       </i>
+       , near
+       <a href="/wiki/Salihli" title="Salihli">
+        Salihli
+       </a>
+       in the Manisa province of Turkey, close to the
+       <a href="/wiki/Ankara" title="Ankara">
+        Ankara
+       </a>
+       -
+       <a href="/wiki/%C4%B0zmir" title="İzmir">
+        İzmir
+       </a>
+       highway (approximately 72 kilometres (45 mi) from
+       <a href="/wiki/%C4%B0zmir" title="İzmir">
+        İzmir
+       </a>
+       ). The part of remains including the bath-gymnasium complex, synagogue and Byzantine shops is open to visitors year-round.
+      </p>
+      <h2>
+       <span class="mw-headline" id="History">
+        History
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Sardis&amp;action=edit&amp;section=2" title="Edit section: History">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="hatnote navigation-not-searchable" role="note">
+       See also:
+       <a href="/wiki/Lydia_(satrapy)" title="Lydia (satrapy)">
+        Lydia (satrapy)
+       </a>
+      </div>
+      <p>
+       The Greek historian and father of history, Herodotus, notes that the city was founded by the sons of Hercules, the Heraclides.The earliest reference to Sardis is in
+       <i>
+        <a href="/wiki/The_Persians" title="The Persians">
+         The Persians
+        </a>
+       </i>
+       of
+       <a href="/wiki/Aeschylus" title="Aeschylus">
+        Aeschylus
+       </a>
+       (472 BC); in the
+       <i>
+        <a href="/wiki/Iliad" title="Iliad">
+         Iliad
+        </a>
+       </i>
+       , the name Hyde seems to be given to the city of the
+       <a class="mw-redirect" href="/wiki/Maeonian" title="Maeonian">
+        Maeonian
+       </a>
+       (i.e.
+       <a href="/wiki/Lydians" title="Lydians">
+        Lydian
+       </a>
+       ) chiefs and in later times Hyde was said to be the older name of Sardis, or the name of its
+       <a href="/wiki/Citadel" title="Citadel">
+        citadel
+       </a>
+       . It is, however, more probable that Sardis was not the original capital of the Maeonians, but that it became so amid the changes which produced the powerful
+       <a class="mw-redirect" href="/wiki/Lydian_empire" title="Lydian empire">
+        Lydian empire
+       </a>
+       of the 8th century BC.
+      </p>
+      <div class="thumb tleft">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Map_of_Lydia_ancient_times-en.svg">
+         <img alt="" class="thumbimage" data-file-height="277" data-file-width="400" height="152" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Map_of_Lydia_ancient_times-en.svg/220px-Map_of_Lydia_ancient_times-en.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Map_of_Lydia_ancient_times-en.svg/330px-Map_of_Lydia_ancient_times-en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Map_of_Lydia_ancient_times-en.svg/440px-Map_of_Lydia_ancient_times-en.svg.png 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Map_of_Lydia_ancient_times-en.svg" title="Enlarge">
+          </a>
+         </div>
+         Map of Sardis and Other Cities within the Lydian Empire
+        </div>
+       </div>
+      </div>
+      <p>
+       The city was captured by the
+       <a href="/wiki/Cimmerians" title="Cimmerians">
+        Cimmerians
+       </a>
+       in the 7th century BC, by the
+       <a href="/wiki/Achaemenid_Empire" title="Achaemenid Empire">
+        Persians
+       </a>
+       in the 6th, by the
+       <a href="/wiki/Athens" title="Athens">
+        Athenians
+       </a>
+       in the 5th, and by
+       <a href="/wiki/Antiochus_III_the_Great" title="Antiochus III the Great">
+        Antiochus III the Great
+       </a>
+       at the end of the 3rd century BC. In the Persian era, Sardis was conquered by
+       <a href="/wiki/Cyrus_the_Great" title="Cyrus the Great">
+        Cyrus the Great
+       </a>
+       and formed the end station for the Persian
+       <a href="/wiki/Royal_Road" title="Royal Road">
+        Royal Road
+       </a>
+       which began in
+       <a href="/wiki/Persepolis" title="Persepolis">
+        Persepolis
+       </a>
+       , capital of
+       <a class="mw-redirect" href="/wiki/Persia" title="Persia">
+        Persia
+       </a>
+       . During the
+       <a href="/wiki/Ionian_Revolt" title="Ionian Revolt">
+        Ionian Revolt
+       </a>
+       , the
+       <a class="mw-redirect" href="/wiki/Athenians" title="Athenians">
+        Athenians
+       </a>
+       burnt down the city. Sardis remained under Persian domination until it surrendered to
+       <a href="/wiki/Alexander_the_Great" title="Alexander the Great">
+        Alexander the Great
+       </a>
+       in 334 BC.
+      </p>
+      <p>
+       The early Lydian kingdom was very advanced in the industrial arts and Sardis was the chief seat of its manufactures. The most important of these trades was the manufacture and dyeing of delicate woolen stuffs and carpets. The stream
+       <a href="/wiki/Pactolus" title="Pactolus">
+        Pactolus
+       </a>
+       which flowed through the market-place "carried golden sands" in early antiquity, which was in reality gold dust out of
+       <a class="mw-redirect" href="/wiki/Mount_Tmolus" title="Mount Tmolus">
+        Mount Tmolus
+       </a>
+       . It was during the reign of King
+       <a href="/wiki/Croesus" title="Croesus">
+        Croesus
+       </a>
+       that the
+       <a href="/wiki/Metallurgist" title="Metallurgist">
+        metallurgists
+       </a>
+       of Sardis discovered the secret of separating
+       <a href="/wiki/Gold" title="Gold">
+        gold
+       </a>
+       from
+       <a href="/wiki/Silver" title="Silver">
+        silver
+       </a>
+       , thereby producing both metals of a purity never known before.
+       <sup class="reference" id="cite_ref-2">
+        <a href="#cite_note-2">
+         [2]
+        </a>
+       </sup>
+       This was an economic revolution, for while gold nuggets panned or mined were used as currency, their purity was always suspect and a hindrance to trade. Such nuggets or coinage were naturally occurring alloys of gold and silver known as
+       <a href="/wiki/Electrum" title="Electrum">
+        electrum
+       </a>
+       and one could never know how much of it was gold and how much was silver. Sardis now could mint nearly pure silver and gold coins, the value of which could be — and was — trusted throughout the known world. This revolution made Sardis rich and
+       <a href="/wiki/Croesus" title="Croesus">
+        Croesus
+       </a>
+       ' name synonymous with wealth itself. For this reason, Sardis is famed in history as the place where modern
+       <a href="/wiki/Currency" title="Currency">
+        currency
+       </a>
+       was invented.
+      </p>
+      <p>
+       Disaster came to the great city under the reign of the emperor
+       <a href="/wiki/Tiberius" title="Tiberius">
+        Tiberius
+       </a>
+       , when in
+       <a href="/wiki/AD_17_Lydia_earthquake" title="AD 17 Lydia earthquake">
+        AD 17, Sardis was destroyed by an earthquake
+       </a>
+       , but it was rebuilt with the help of ten million
+       <a href="/wiki/Sestertius" title="Sestertius">
+        sesterces
+       </a>
+       from the Emperor and exempted from paying taxes for five years.
+       <sup class="reference" id="cite_ref-3">
+        <a href="#cite_note-3">
+         [3]
+        </a>
+       </sup>
+       It was one of the great cities of western
+       <a class="mw-redirect" href="/wiki/Asia_Minor" title="Asia Minor">
+        Asia Minor
+       </a>
+       until the later
+       <a class="mw-redirect" href="/wiki/Byzantine" title="Byzantine">
+        Byzantine
+       </a>
+       period.
+      </p>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:SardisByzantineShops1February2003.JPG">
+         <img alt="" class="thumbimage" data-file-height="600" data-file-width="800" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/SardisByzantineShops1February2003.JPG/220px-SardisByzantineShops1February2003.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/SardisByzantineShops1February2003.JPG/330px-SardisByzantineShops1February2003.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/SardisByzantineShops1February2003.JPG/440px-SardisByzantineShops1February2003.JPG 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:SardisByzantineShops1February2003.JPG" title="Enlarge">
+          </a>
+         </div>
+         Remains of the Greek
+         <a class="mw-redirect" href="/wiki/Byzantine" title="Byzantine">
+          Byzantine
+         </a>
+         shops in Sardis
+        </div>
+       </div>
+      </div>
+      <p>
+       Later, trade and the organization of commerce continued to be sources of great wealth. After
+       <a href="/wiki/Constantinople" title="Constantinople">
+        Constantinople
+       </a>
+       became the capital of the East, a new road system grew up connecting the provinces with the capital. Sardis then lay rather apart from the great lines of communication and lost some of its importance. It still, however, retained its titular supremacy and continued to be the seat of the
+       <a href="/wiki/See_of_Sardis" title="See of Sardis">
+        metropolitan bishop
+       </a>
+       of the province of Lydia, formed in AD 295. It was enumerated as third, after
+       <a href="/wiki/Ephesus" title="Ephesus">
+        Ephesus
+       </a>
+       and
+       <a href="/wiki/Smyrna" title="Smyrna">
+        Smyrna
+       </a>
+       , in the list of cities of the Thracesion
+       <a href="/wiki/Theme_(Byzantine_district)" title="Theme (Byzantine district)">
+        thema
+       </a>
+       given by
+       <a class="mw-redirect" href="/wiki/Constantine_Porphyrogenitus" title="Constantine Porphyrogenitus">
+        Constantine Porphyrogenitus
+       </a>
+       in the 10th century. However, over the next four centuries it was in the shadow of the provinces of Magnesia-upon-Sipylum and Philadelphia, which retained their importance in the region.
+      </p>
+      <p>
+       After 1071, the Hermus valley began to suffer from the inroads of the
+       <a class="mw-redirect" href="/wiki/Seljuk_Turks" title="Seljuk Turks">
+        Seljuk Turks
+       </a>
+       but the Byzantine general
+       <a href="/wiki/John_Doukas_(megas_doux)" title="John Doukas (megas doux)">
+        John Doukas
+       </a>
+       reconquered the city in 1097, the successes of the general Philokales in 1118 relieved the district from later Turkish pressure and the ability of the
+       <a class="mw-redirect" href="/wiki/Comnenus" title="Comnenus">
+        Comneni
+       </a>
+       dynasty together with the gradual decay of the
+       <a class="mw-redirect" href="/wiki/Seljuk_Sultanate_of_Rum" title="Seljuk Sultanate of Rum">
+        Seljuk Sultanate of Rum
+       </a>
+       meant that it remained under Byzantine dominion. When
+       <a href="/wiki/Constantinople" title="Constantinople">
+        Constantinople
+       </a>
+       was taken by the
+       <a href="/wiki/Republic_of_Venice" title="Republic of Venice">
+        Venetians
+       </a>
+       and
+       <a href="/wiki/Franks" title="Franks">
+        Franks
+       </a>
+       in 1204 Sardis came under the rule of the Byzantine
+       <a class="mw-redirect" href="/wiki/Empire_of_Nicea" title="Empire of Nicea">
+        Empire of Nicea
+       </a>
+       . However once the Byzantines retook Constantinople in 1261, Sardis with the entire
+       <a class="mw-redirect" href="/wiki/Asia_Minor" title="Asia Minor">
+        Asia Minor
+       </a>
+       was neglected and the region eventually fell under the control of Ghazi (
+       <a class="mw-redirect" href="/wiki/Ghazw" title="Ghazw">
+        Ghazw
+       </a>
+       ) emirs, the
+       <a class="mw-redirect" href="/wiki/Cayster_river" title="Cayster river">
+        Cayster
+       </a>
+       valleys and a fort on the citadel of Sardis was handed over to them by treaty in 1306. The city continued its decline until its capture (and probable destruction) by the
+       <a class="mw-redirect" href="/wiki/Turco-Mongol" title="Turco-Mongol">
+        Turco-Mongol
+       </a>
+       warlord
+       <a href="/wiki/Timur" title="Timur">
+        Timur
+       </a>
+       in 1402.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Archaeological_expeditions">
+        Archaeological expeditions
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Sardis&amp;action=edit&amp;section=3" title="Edit section: Archaeological expeditions">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Further information:
+       <a href="/wiki/Byzantine_churches_at_Sardis" title="Byzantine churches at Sardis">
+        Byzantine churches at Sardis
+       </a>
+      </div>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Temple_of_Artemis_Sardis_Turkey4.jpg">
+         <img alt="" class="thumbimage" data-file-height="2592" data-file-width="3872" height="147" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Temple_of_Artemis_Sardis_Turkey4.jpg/220px-Temple_of_Artemis_Sardis_Turkey4.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Temple_of_Artemis_Sardis_Turkey4.jpg/330px-Temple_of_Artemis_Sardis_Turkey4.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/34/Temple_of_Artemis_Sardis_Turkey4.jpg/440px-Temple_of_Artemis_Sardis_Turkey4.jpg 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Temple_of_Artemis_Sardis_Turkey4.jpg" title="Enlarge">
+          </a>
+         </div>
+         The Greek Temple of Artemis at Sardis
+        </div>
+       </div>
+      </div>
+      <p>
+       By the 19th century, Sardis was in ruins, showing construction chiefly of the Roman period. Early excavators included the British explorer
+       <a href="/wiki/George_Dennis_(explorer)" title="George Dennis (explorer)">
+        George Dennis
+       </a>
+       , who uncovered an enormous marble head of
+       <a href="/wiki/Faustina_the_Elder" title="Faustina the Elder">
+        Faustina the Elder
+       </a>
+       , wife of the Roman Emperor
+       <a href="/wiki/Antoninus_Pius" title="Antoninus Pius">
+        Antoninus Pius
+       </a>
+       . Found in the precinct of the Temple of
+       <a href="/wiki/Artemis" title="Artemis">
+        Artemis
+       </a>
+       , it probably formed part of a pair of colossal statues devoted to the Imperial couple. The 1.76 metre high head is now kept at the
+       <a href="/wiki/British_Museum" title="British Museum">
+        British Museum
+       </a>
+       .
+       <sup class="reference" id="cite_ref-4">
+        <a href="#cite_note-4">
+         [4]
+        </a>
+       </sup>
+       The first large scale archaeological expedition in Sardis was directed by a
+       <a href="/wiki/Princeton_University" title="Princeton University">
+        Princeton University
+       </a>
+       team led by
+       <a href="/wiki/Howard_Crosby_Butler" title="Howard Crosby Butler">
+        Howard Crosby Butler
+       </a>
+       between years 1910–1914, unearthing a temple to
+       <a href="/wiki/Artemis" title="Artemis">
+        Artemis
+       </a>
+       , and more than a thousand Lydian tombs. The excavation campaign was halted by
+       <a href="/wiki/World_War_I" title="World War I">
+        World War I
+       </a>
+       , followed by the
+       <a href="/wiki/Turkish_War_of_Independence" title="Turkish War of Independence">
+        Turkish War of Independence
+       </a>
+       , though it briefly resumed in 1922. Some surviving artifacts from the Butler excavation were added to the collection of the
+       <a href="/wiki/Metropolitan_Museum_of_Art" title="Metropolitan Museum of Art">
+        Metropolitan Museum of Art
+       </a>
+       in
+       <a href="/wiki/New_York_City" title="New York City">
+        New York
+       </a>
+       .
+      </p>
+      <p>
+       A new expedition known as the Archaeological Exploration of Sardis was founded in 1958 by G.M.A. Hanfmann, professor in the Department of Fine Arts at
+       <a href="/wiki/Harvard_University" title="Harvard University">
+        Harvard University
+       </a>
+       , and by Henry Detweiler, dean of the Architecture School at
+       <a href="/wiki/Cornell_University" title="Cornell University">
+        Cornell University
+       </a>
+       . Hanfmann excavated widely in the city and the region, excavating and restoring the major Roman bath-gymnasium complex, the synagogue, late Roman houses and shops, a Lydian industrial area for processing electrum into pure gold and silver, Lydian occupation areas, and tumulus tombs at Bin Tepe.
+       <sup class="reference" id="cite_ref-5">
+        <a href="#cite_note-5">
+         [5]
+        </a>
+       </sup>
+       From 1976 until 2007, the excavation was directed by Crawford H. Greenewalt, jr., professor in the Department of Classics at the
+       <a href="/wiki/University_of_California,_Berkeley" title="University of California, Berkeley">
+        University of California, Berkeley
+       </a>
+       .
+       <sup class="reference" id="cite_ref-6">
+        <a href="#cite_note-6">
+         [6]
+        </a>
+       </sup>
+       Since 2008, the excavation has been under the directorship of Nicholas Cahill, professor at the
+       <a href="/wiki/University_of_Wisconsin%E2%80%93Madison" title="University of Wisconsin–Madison">
+        University of Wisconsin–Madison
+       </a>
+       .
+       <sup class="reference" id="cite_ref-7">
+        <a href="#cite_note-7">
+         [7]
+        </a>
+       </sup>
+       The laws governing archaeological expeditions in Turkey ensure that all archaeological artifacts remain in Turkey. Some of the important finds from the site of Sardis are housed in the
+       <a href="/wiki/Archaeological_Museum_of_Manisa" title="Archaeological Museum of Manisa">
+        Archaeological Museum of Manisa
+       </a>
+       , including Late Roman mosaics and sculpture, a helmet from the mid-6th century BC, and pottery from various periods.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Sardis_synagogue">
+        Sardis synagogue
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Sardis&amp;action=edit&amp;section=4" title="Edit section: Sardis synagogue">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main article:
+       <a href="/wiki/Sardis_Synagogue" title="Sardis Synagogue">
+        Sardis Synagogue
+       </a>
+      </div>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:202px;">
+        <a class="image" href="/wiki/File:Sardis_Synagogue,_late_3rd_century_AD,_Sardis,_Lydia,_Turkey_(19331773400).jpg">
+         <img alt="" class="thumbimage" data-file-height="3252" data-file-width="4903" height="133" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Sardis_Synagogue%2C_late_3rd_century_AD%2C_Sardis%2C_Lydia%2C_Turkey_%2819331773400%29.jpg/200px-Sardis_Synagogue%2C_late_3rd_century_AD%2C_Sardis%2C_Lydia%2C_Turkey_%2819331773400%29.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Sardis_Synagogue%2C_late_3rd_century_AD%2C_Sardis%2C_Lydia%2C_Turkey_%2819331773400%29.jpg/300px-Sardis_Synagogue%2C_late_3rd_century_AD%2C_Sardis%2C_Lydia%2C_Turkey_%2819331773400%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Sardis_Synagogue%2C_late_3rd_century_AD%2C_Sardis%2C_Lydia%2C_Turkey_%2819331773400%29.jpg/400px-Sardis_Synagogue%2C_late_3rd_century_AD%2C_Sardis%2C_Lydia%2C_Turkey_%2819331773400%29.jpg 2x" width="200"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Sardis_Synagogue,_late_3rd_century_AD,_Sardis,_Lydia,_Turkey_(19331773400).jpg" title="Enlarge">
+          </a>
+         </div>
+         The
+         <a href="/wiki/Sardis_Synagogue" title="Sardis Synagogue">
+          Sardis Synagogue
+         </a>
+        </div>
+       </div>
+      </div>
+      <p>
+       Since 1958, both
+       <a href="/wiki/Harvard_University" title="Harvard University">
+        Harvard
+       </a>
+       and
+       <a href="/wiki/Cornell_University" title="Cornell University">
+        Cornell Universities
+       </a>
+       have sponsored annual archeological expeditions to Sardis. These excavations unearthed perhaps the most impressive synagogue in the western diaspora yet discovered from antiquity, yielding over eighty Greek and seven Hebrew inscriptions as well as numerous mosaic floors. (For evidence in the east, see
+       <a href="/wiki/Dura-Europos_synagogue" title="Dura-Europos synagogue">
+        Dura Europos
+       </a>
+       in
+       <a href="/wiki/Syria" title="Syria">
+        Syria
+       </a>
+       .) The discovery of the Sardis synagogue has reversed previous assumptions about Judaism in the later Roman empire. Along with the discovery of the
+       <a href="/wiki/God-fearer" title="God-fearer">
+        godfearers
+       </a>
+       /theosebeis inscription from
+       <a href="/wiki/Aphrodisias" title="Aphrodisias">
+        Aphrodisias
+       </a>
+       , it provides indisputable evidence for the continued presence of Jewish communities in Asia Minor and their integration into general Roman life at a time when many scholars previously assumed that Christianity had eclipsed Judaism.
+       <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+        [
+        <i>
+         <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+          <span title="This claim needs references to reliable sources. (July 2008)">
+           citation needed
+          </span>
+         </a>
+        </i>
+        ]
+       </sup>
+      </p>
+      <p>
+       The synagogue was a section of a large bath-gymnasium complex, that was in use for about 450 – 500 years. In the beginning, middle of the 2nd century AD, the rooms the synagogue is situated in were used as changing rooms or resting rooms.
+      </p>
+      <p>
+       Sardis and the Hebrew
+       <a href="/wiki/Sepharad" title="Sepharad">
+        Sepharad
+       </a>
+       may have been one and the same.
+      </p>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Sardis&amp;action=edit&amp;section=5" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a class="mw-redirect" href="/wiki/Cities_of_the_ancient_Near_East" title="Cities of the ancient Near East">
+         Cities of the ancient Near East
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/List_of_synagogues_in_Turkey" title="List of synagogues in Turkey">
+         List of synagogues in Turkey
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Sardis&amp;action=edit&amp;section=6" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist" style="list-style-type: decimal;">
+       <div class="mw-references-wrap">
+        <ol class="references">
+         <li id="cite_note-rhodes-1">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-rhodes_1-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Rhodes, P.J.
+           <i>
+            A History of the Classical Greek World 478-323 BC
+           </i>
+           . 2nd edition. Chichester: Wiley-Blackwell, 2010, p. 6.
+          </span>
+         </li>
+         <li id="cite_note-2">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-2">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           A. Ramage, P. Craddock, "King Croesus' Gold: Excavations at Sardis and the History of Gold Refining. Archaeological Exploration of Sardis",
+           <i>
+            Arch. Expl. Sardis
+           </i>
+           (2001)
+          </span>
+         </li>
+         <li id="cite_note-3">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-3">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Tacitus, The Annals
+           <a class="extiw" href="https://en.wikisource.org/wiki/The_Annals_(Tacitus)/Book_2#47" title="s:The Annals (Tacitus)/Book 2">
+            2.47
+           </a>
+          </span>
+         </li>
+         <li id="cite_note-4">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-4">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <a class="external text" href="https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=459896&amp;partId=1&amp;place=34488&amp;plaA=34488-3-1&amp;page=1" rel="nofollow">
+            British Museum Collection
+           </a>
+          </span>
+         </li>
+         <li id="cite_note-5">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-5">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Hanfmann, George M.A., Et al. 1983.
+           <i>
+            Sardis from Prehistoric to Roman Times: Results of the Archaeological Exploration of Sardis 1958–1975
+           </i>
+           , Harvard University Press.
+          </span>
+         </li>
+         <li id="cite_note-6">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-6">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Cahill, Nicholas D., ed. 2008. "Love for Lydia. A Sardis Anniversary Volume Presented to Crawford H. Greenewalt, jr.", Archaeological Exploration of Sardis.
+          </span>
+         </li>
+         <li id="cite_note-7">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-7">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.harvardartmuseums.org/study-research/research-centers/sardis" rel="nofollow">
+             "Archaeological Exploration of Sardis, Harvard Art Museums"
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 9,
+             </span>
+             2013
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archaeological+Exploration+of+Sardis%2C+Harvard+Art+Museums&amp;rft_id=http%3A%2F%2Fwww.harvardartmuseums.org%2Fstudy-research%2Fresearch-centers%2Fsardis&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASardis">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <h2>
+       <span class="mw-headline" id="Further_reading">
+        Further reading
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Sardis&amp;action=edit&amp;section=7" title="Edit section: Further reading">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        Hanfmann, George M.A., Et al. 1983.
+        <i>
+         Sardis from Prehistoric to Roman Times: Results of the Archaeological Exploration of Sardis 1958–1975
+        </i>
+        , Harvard University Press.
+        <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+         ISBN
+        </a>
+        <a href="/wiki/Special:BookSources/0-674-78925-3" title="Special:BookSources/0-674-78925-3">
+         0-674-78925-3
+        </a>
+       </li>
+       <li>
+        Cahill, Nicholas D., ed. 2008. "Love for Lydia. A Sardis Anniversary Volume Presented to Crawford H. Greenewalt, jr.", Archaeological Exploration of Sardis.
+        <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+         ISBN
+        </a>
+        <a href="/wiki/Special:BookSources/9780674031951" title="Special:BookSources/9780674031951">
+         9780674031951
+        </a>
+        .
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Sardis&amp;action=edit&amp;section=8" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+       <tr>
+        <td class="mbox-image">
+         <img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/>
+        </td>
+        <td class="mbox-text plainlist">
+         Wikimedia Commons has media related to
+         <i>
+          <b>
+           <a class="extiw" href="https://commons.wikimedia.org/wiki/Special:Search/Sardis" title="commons:Special:Search/Sardis">
+            Sardis
+           </a>
+          </b>
+         </i>
+         .
+        </td>
+       </tr>
+      </table>
+      <ul>
+       <li>
+        <a class="external text" href="http://www.sardisexpedition.org" rel="nofollow">
+         The Archaeological Exploration of Sardis
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://www.artmuseums.harvard.edu/sardis/sardis.html" rel="nofollow">
+         The Archaeological Exploration of Sardis
+        </a>
+        , of the
+        <a class="mw-redirect" href="/wiki/Harvard_University_Art_Museums" title="Harvard University Art Museums">
+         Harvard University Art Museums
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="https://archive.is/20121216141827/http://www.harvardmag.com/issues/ma98/sardis.html" rel="nofollow">
+         The Search for Sardis
+        </a>
+        , history of the archaeological excavations in Sardis, in the Harvard Magazine
+       </li>
+       <li>
+        <a class="external text" href="http://www.metmuseum.org/toah/hd/srds/hd_srds.htm" rel="nofollow">
+         Sardis
+        </a>
+        , at the Metropolitan Museum of Art, New York
+       </li>
+       <li>
+        <a class="external text" href="http://www.pbase.com/dosseman/sardis_turkey" rel="nofollow">
+         Sardis Turkey
+        </a>
+        , a comprehensive photographic tour of the site
+       </li>
+       <li>
+        <a class="external text" href="http://perseus.mpiwg-berlin.mpg.de/cgi-bin/ptext?doc=Perseus%3Atext%3A1999.04.0006%3Aid%3Dsardis" rel="nofollow">
+         The Princeton Encyclopedia of Classical Sites - Sardis
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://www.livius.org/a/turkey/sardes/sardes.html" rel="nofollow">
+         Livius.org: Sardes
+        </a>
+        - pictures
+       </li>
+      </ul>
+      <div aria-labelledby="Seven_churches_of_Asia" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="2" scope="col">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:Seven_churches_of_Asia" title="Template:Seven churches of Asia">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a href="/wiki/Template_talk:Seven_churches_of_Asia" title="Template talk:Seven churches of Asia">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Seven_churches_of_Asia&amp;action=edit">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="Seven_churches_of_Asia" style="font-size:114%;margin:0 4em">
+           <a href="/wiki/Seven_churches_of_Asia" title="Seven churches of Asia">
+            Seven churches of Asia
+           </a>
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <div class="center">
+            <div style="width:500px;float:none;clear:both;margin-left:auto;margin-right:auto">
+             <div style="width:500px;padding:0">
+              <div style="position:relative;width:500px">
+               <a class="image" href="/wiki/File:Turkey_adm_location_map.svg" title="Ephesus is located in Turkey">
+                <img alt="Ephesus is located in Turkey" data-file-height="721" data-file-width="1578" height="228" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Turkey_adm_location_map.svg/500px-Turkey_adm_location_map.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Turkey_adm_location_map.svg/750px-Turkey_adm_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Turkey_adm_location_map.svg/1000px-Turkey_adm_location_map.svg.png 2x" width="500"/>
+               </a>
+               <div style="position:absolute;top:65.147%;left:9.902%">
+                <div style="position:absolute;left:-3px;top:-3px;line-height:0">
+                 <img alt="Ephesus" data-file-height="64" data-file-width="64" height="6" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Blue_pog.svg/6px-Blue_pog.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Blue_pog.svg/9px-Blue_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Blue_pog.svg/12px-Blue_pog.svg.png 2x" title="Ephesus" width="6"/>
+                </div>
+                <div style="font-size:100%;line-height:110%;position:absolute;width:6em;top:-0.75em;right:4px;text-align:right">
+                 <span style="padding:1px;float:right">
+                  <a href="/wiki/Ephesus" title="Ephesus">
+                   Ephesus
+                  </a>
+                 </span>
+                </div>
+               </div>
+               <div style="position:absolute;top:58.23%;left:8.892%">
+                <div style="position:absolute;left:-3px;top:-3px;line-height:0">
+                 <img alt="Smyrna" data-file-height="64" data-file-width="64" height="6" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Blue_pog.svg/6px-Blue_pog.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Blue_pog.svg/9px-Blue_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Blue_pog.svg/12px-Blue_pog.svg.png 2x" title="Smyrna" width="6"/>
+                </div>
+                <div style="font-size:100%;line-height:110%;position:absolute;width:6em;top:-0.75em;right:4px;text-align:right">
+                 <span style="padding:1px;float:right">
+                  <a href="/wiki/Smyrna" title="Smyrna">
+                   Smyrna
+                  </a>
+                 </span>
+                </div>
+               </div>
+               <div style="position:absolute;top:48.095%;left:9.099%">
+                <div style="position:absolute;left:-3px;top:-3px;line-height:0">
+                 <img alt="Pergamon" data-file-height="64" data-file-width="64" height="6" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Blue_pog.svg/6px-Blue_pog.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Blue_pog.svg/9px-Blue_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Blue_pog.svg/12px-Blue_pog.svg.png 2x" title="Pergamon" width="6"/>
+                </div>
+                <div style="font-size:100%;line-height:110%;position:absolute;width:6em;top:-0.75em;right:4px;text-align:right">
+                 <span style="padding:1px;float:right">
+                  <a href="/wiki/Pergamon" title="Pergamon">
+                   Pergamon
+                  </a>
+                 </span>
+                </div>
+               </div>
+               <div style="position:absolute;top:51.131%;left:12.457%">
+                <div style="position:absolute;left:-3px;top:-3px;line-height:0">
+                 <img alt="Thyatira" data-file-height="64" data-file-width="64" height="6" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Blue_pog.svg/6px-Blue_pog.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Blue_pog.svg/9px-Blue_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Blue_pog.svg/12px-Blue_pog.svg.png 2x" title="Thyatira" width="6"/>
+                </div>
+                <div style="font-size:100%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:4px;text-align:left">
+                 <span style="padding:1px;float:left">
+                  <a href="/wiki/Thyatira" title="Thyatira">
+                   Thyatira
+                  </a>
+                 </span>
+                </div>
+               </div>
+               <div style="position:absolute;top:57.31%;left:13.471%">
+                <div style="position:absolute;left:-3px;top:-3px;line-height:0">
+                 <img alt="Sardis" data-file-height="64" data-file-width="64" height="6" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Blue_pog.svg/6px-Blue_pog.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Blue_pog.svg/9px-Blue_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Blue_pog.svg/12px-Blue_pog.svg.png 2x" title="Sardis" width="6"/>
+                </div>
+                <div style="font-size:100%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:4px;text-align:left">
+                 <span style="padding:1px;float:left">
+                  <a class="mw-selflink selflink">
+                   Sardis
+                  </a>
+                 </span>
+                </div>
+               </div>
+               <div style="position:absolute;top:62.143%;left:15.901%">
+                <div style="position:absolute;left:-3px;top:-3px;line-height:0">
+                 <img alt="Philadelphia (modern Alaşehir)" data-file-height="64" data-file-width="64" height="6" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Blue_pog.svg/6px-Blue_pog.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Blue_pog.svg/9px-Blue_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Blue_pog.svg/12px-Blue_pog.svg.png 2x" title="Philadelphia (modern Alaşehir)" width="6"/>
+                </div>
+                <div style="font-size:100%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:4px;text-align:left">
+                 <span style="padding:1px;float:left">
+                  <a href="/wiki/Ala%C5%9Fehir" title="Alaşehir">
+                   Philadelphia (modern Alaşehir)
+                  </a>
+                 </span>
+                </div>
+               </div>
+               <div style="position:absolute;top:66.631%;left:18.916%">
+                <div style="position:absolute;left:-3px;top:-3px;line-height:0">
+                 <img alt="Laodicea" data-file-height="64" data-file-width="64" height="6" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Blue_pog.svg/6px-Blue_pog.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Blue_pog.svg/9px-Blue_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Blue_pog.svg/12px-Blue_pog.svg.png 2x" title="Laodicea" width="6"/>
+                </div>
+                <div style="font-size:100%;line-height:110%;position:absolute;width:6em;top:4px;left:-3em;text-align:center">
+                 <span style="padding:1px">
+                  <a href="/wiki/Laodicea_on_the_Lycus" title="Laodicea on the Lycus">
+                   Laodicea
+                  </a>
+                 </span>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <div aria-labelledby="Ancient_settlements_in_Turkey" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="2" scope="col">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:Ancient_settlements_in_Turkey" title="Template:Ancient settlements in Turkey">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a href="/wiki/Template_talk:Ancient_settlements_in_Turkey" title="Template talk:Ancient settlements in Turkey">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Ancient_settlements_in_Turkey&amp;action=edit">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="Ancient_settlements_in_Turkey" style="font-size:114%;margin:0 4em">
+           <a href="/wiki/List_of_ancient_settlements_in_Turkey" title="List of ancient settlements in Turkey">
+            Ancient settlements in Turkey
+           </a>
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <a href="/wiki/Aegean_Region" title="Aegean Region">
+           Aegean
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Aigai_(Aeolis)" title="Aigai (Aeolis)">
+              Aegae
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Aizanoi" title="Aizanoi">
+              Aizanoi
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Alabanda" title="Alabanda">
+              Alabanda
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Alinda" title="Alinda">
+              Alinda
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Allianoi" title="Allianoi">
+              Allianoi
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Amorium" title="Amorium">
+              Amorium
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Amyzon" title="Amyzon">
+              Amyzon
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Antioch_on_the_Maeander" title="Antioch on the Maeander">
+              Antioch on the Maeander
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Apamea_(Phrygia)" title="Apamea (Phrygia)">
+              Apamea in Phrygia
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Aphrodisias" title="Aphrodisias">
+              Aphrodisias
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Apollonia_(Mysia)" title="Apollonia (Mysia)">
+              Apollonia in Mysia
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Apollonos_Hieron" title="Apollonos Hieron">
+              Apollonos Hieron
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Atarneus" title="Atarneus">
+              Atarneus
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Aulai" title="Aulai">
+              Aulai
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Bargylia" title="Bargylia">
+              Bargylia
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Beycesultan" title="Beycesultan">
+              Beycesultan
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Blaundus" title="Blaundus">
+              Blaundus
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Caloe" title="Caloe">
+              Caloe
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Caryanda" title="Caryanda">
+              Caryanda
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Celaenae" title="Celaenae">
+              Celaenae
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Ceramus" title="Ceramus">
+              Ceramus
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Colophon_(city)" title="Colophon (city)">
+              Colophon
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Claros" title="Claros">
+              Claros
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Cyme_(Aeolis)" title="Cyme (Aeolis)">
+              Cyme
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Didyma" title="Didyma">
+              Didyma
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Birgi" title="Birgi">
+              Dios Hieron
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Docimium" title="Docimium">
+              Docimium
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Ephesus" title="Ephesus">
+              Ephesus
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Erythrae" title="Erythrae">
+              Erythrae
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Eucarpia" title="Eucarpia">
+              Eucarpia
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Euromus" title="Euromus">
+              Euromus
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Gambrion" title="Gambrion">
+              Gambrion
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Gryneion" title="Gryneion">
+              Gryneion
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Halicarnassus" title="Halicarnassus">
+              Halicarnassus
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Hierapolis" title="Hierapolis">
+              Hierapolis
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Iasos" title="Iasos">
+              Iasos
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Kayak%C3%B6y" title="Kayaköy">
+              Karmylissos
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Kaunos" title="Kaunos">
+              Kaunos
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Klazomenai" title="Klazomenai">
+              Klazomenai
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Knidos" title="Knidos">
+              Knidos
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Labraunda" title="Labraunda">
+              Labraunda
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Laodicea_on_the_Lycus" title="Laodicea on the Lycus">
+              Laodicea on the Lycus
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Be%C5%9Fparmak_Mountains" title="Beşparmak Mountains">
+              Latmus
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Lebedus" title="Lebedus">
+              Lebedus
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Leucae_(Ionia)" title="Leucae (Ionia)">
+              Leucae
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Limantepe" title="Limantepe">
+              Limantepe
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Manisa" title="Manisa">
+              Magnesia ad Sipylus
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Magnesia_on_the_Maeander" title="Magnesia on the Maeander">
+              Magnesia on the Maeander
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Metropolis_(Anatolia)" title="Metropolis (Anatolia)">
+              Metropolis
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Miletus" title="Miletus">
+              Miletus
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Myndus" title="Myndus">
+              Myndus
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Myriandrus" title="Myriandrus">
+              Myriandrus
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Myrina_(Aeolis)" title="Myrina (Aeolis)">
+              Myrina
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Myus" title="Myus">
+              Myus
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Notion_(ancient_city)" title="Notion (ancient city)">
+              Notion
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Nysa_on_the_Maeander" title="Nysa on the Maeander">
+              Nysa on the Maeander
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Oenoanda" title="Oenoanda">
+              Oenoanda
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Pepuza" title="Pepuza">
+              Pepuza
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Pergamon" title="Pergamon">
+              Pergamon
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Perperene" title="Perperene">
+              Perperene
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Phocaea" title="Phocaea">
+              Phocaea
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Pinara" title="Pinara">
+              Pinara
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Pitane_(Aeolis)" title="Pitane (Aeolis)">
+              Pitane
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Priene" title="Priene">
+              Priene
+             </a>
+            </li>
+            <li>
+             <a class="mw-selflink selflink">
+              Sardis
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Smyrna" title="Smyrna">
+              Smyrna
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Stratonicea_(Lydia)" title="Stratonicea (Lydia)">
+              Stratonicea in Lydia
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Stratonicea_(Caria)" title="Stratonicea (Caria)">
+              Stratonicea in Caria
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Temnos" title="Temnos">
+              Temnos
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Teos" title="Teos">
+              Teos
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tymion" title="Tymion">
+              Tymion
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <a href="/wiki/Black_Sea_Region" title="Black Sea Region">
+           Black Sea
+          </a>
+         </th>
+         <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Alaca_H%C3%B6y%C3%BCk" title="Alaca Höyük">
+              Alaca Höyük
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Comana_Pontica" title="Comana Pontica">
+              Comana in the Pontus
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Euchaita" title="Euchaita">
+              Euchaita
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Hattusa" title="Hattusa">
+              Hattusa
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Heraclea_Pontica" title="Heraclea Pontica">
+              Heraclea Pontica
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/H%C3%BCseyindede_Tepe" title="Hüseyindede Tepe">
+              Hüseyindede Tepe
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Ibora" title="Ibora">
+              Ibora
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/L%C3%A2dik" title="Lâdik">
+              Laodicea Pontica
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Nerik" title="Nerik">
+              Nerik
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Nicopolis_(Armenia)" title="Nicopolis (Armenia)">
+              Nicopolis
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Pompeiopolis" title="Pompeiopolis">
+              Pompeiopolis
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Salatiwara" title="Salatiwara">
+              Salatiwara
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Samuha" title="Samuha">
+              Samuha
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Sapinuwa" title="Sapinuwa">
+              Sapinuwa
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tripolis_(Pontus)" title="Tripolis (Pontus)">
+              Tripolis
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Yaz%C4%B1l%C4%B1kaya" title="Yazılıkaya">
+              Yazılıkaya
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Zaliche" title="Zaliche">
+              Zaliche
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <a href="/wiki/Central_Anatolia_Region" title="Central Anatolia Region">
+           Central Anatolia
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Ali%C5%9Far_H%C3%BCy%C3%BCk" title="Alişar Hüyük">
+              Alişar Hüyük
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Binbirkilise" title="Binbirkilise">
+              Binbirkilise
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/%C3%87atalh%C3%B6y%C3%BCk" title="Çatalhöyük">
+              Çatalhöyük
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Cotenna" title="Cotenna">
+              Cotenna
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Derbe" title="Derbe">
+              Derbe
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Dorylaeum" title="Dorylaeum">
+              Dorylaeum
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Eudocia_(Cappadocia)" title="Eudocia (Cappadocia)">
+              Eudocia (Cappadocia)
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Eudocia_(Phrygia)" title="Eudocia (Phrygia)">
+              Eudocia (Phrygia)
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Gordium" title="Gordium">
+              Gordium
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Heraclea_Cybistra" title="Heraclea Cybistra">
+              Heraclea Cybistra
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Irenopolis,_Isauria" title="Irenopolis, Isauria">
+              Irenopolis
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Kaman-Kaleh%C3%B6y%C3%BCk" title="Kaman-Kalehöyük">
+              Kaman-Kalehöyük
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Kerkenes" title="Kerkenes">
+              Kerkenes
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/K%C3%BCltepe" title="Kültepe">
+              Kültepe
+             </a>
+             (Kanesh)
+            </li>
+            <li>
+             <a href="/wiki/Laodicea_Combusta" title="Laodicea Combusta">
+              Laodicea Combusta
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Melo%C3%AB_(Isauria)" title="Meloë (Isauria)">
+              Meloë
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Mokissos" title="Mokissos">
+              Mokissos
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Nyssa_(Cappadocia)" title="Nyssa (Cappadocia)">
+              Nyssa
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Pessinus" title="Pessinus">
+              Pessinus
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Purushanda" title="Purushanda">
+              Purushanda
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tavium" title="Tavium">
+              Tavium
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tyana" title="Tyana">
+              Tyana
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <a href="/wiki/Eastern_Anatolia_Region" title="Eastern Anatolia Region">
+           Eastern Anatolia
+          </a>
+         </th>
+         <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Alt%C4%B1ntepe" title="Altıntepe">
+              Altıntepe
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Ani" title="Ani">
+              Ani
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Cafer_H%C3%B6y%C3%BCk" title="Cafer Höyük">
+              Cafer Höyük
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Melid" title="Melid">
+              Melid
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Sugunia" title="Sugunia">
+              Sugunia
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tushpa" title="Tushpa">
+              Tushpa
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <a href="/wiki/Marmara_Region" title="Marmara Region">
+           Marmara
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Achilleion_(Troad)" title="Achilleion (Troad)">
+              Achilleion
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Aegospotami" title="Aegospotami">
+              Aegospotami
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Enez" title="Enez">
+              Ainos
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Alexandria_Troas" title="Alexandria Troas">
+              Alexandria Troas
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Apamea_Myrlea" title="Apamea Myrlea">
+              Apamea Myrlea
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Apollonia_ad_Rhyndacum" title="Apollonia ad Rhyndacum">
+              Apollonia on the Rhyndax
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Apros" title="Apros">
+              Apros
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Assos" title="Assos">
+              Assos
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Byzantium" title="Byzantium">
+              Byzantium
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Cardia_(Thrace)" title="Cardia (Thrace)">
+              Cardia
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Cebrene" title="Cebrene">
+              Cebrene
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Chalcedon" title="Chalcedon">
+              Chalcedon
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Charax,_Bithynia" title="Charax, Bithynia">
+              Charax
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Cius" title="Cius">
+              Cius
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Cyzicus" title="Cyzicus">
+              Cyzicus
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Drizipara" title="Drizipara">
+              Drizipara/Drusipara
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Faustinopolis" title="Faustinopolis">
+              Faustinopolis
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Germanicopolis_(Bithynia)" title="Germanicopolis (Bithynia)">
+              Germanicopolis
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Lamponeia" title="Lamponeia">
+              Lamponeia
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Lampsacus" title="Lampsacus">
+              Lampsacus
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Istanbul" title="Istanbul">
+              Lygos
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Lysimachia_(Thrace)" title="Lysimachia (Thrace)">
+              Lysimachia
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Marpessos" title="Marpessos">
+              Marpessos
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Neandreia" title="Neandreia">
+              Neandreia
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Nicomedia" title="Nicomedia">
+              Nicomedia
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Orestias" title="Orestias">
+              Orestias
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Marmara_Ere%C4%9Flisi" title="Marmara Ereğlisi">
+              Perinthos
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Sestos" title="Sestos">
+              Sestos
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Sigeion" title="Sigeion">
+              Sigeion
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Skepsis" title="Skepsis">
+              Skepsis
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Troy" title="Troy">
+              Troy
+             </a>
+             (
+             <a href="/wiki/Hisarlik" title="Hisarlik">
+              Hisarlik
+             </a>
+             )
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <a href="/wiki/Mediterranean_Region,_Turkey" title="Mediterranean Region, Turkey">
+           Mediterranean
+          </a>
+         </th>
+         <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Acalissus" title="Acalissus">
+              Acalissus
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Acarassus" title="Acarassus">
+              Acarassus
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Alalakh" title="Alalakh">
+              Alalakh
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Amelas" title="Amelas">
+              Amelas
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Anazarbus" title="Anazarbus">
+              Anazarbus
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Andriaca" title="Andriaca">
+              Andriaca
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Antigonia_(Syria)" title="Antigonia (Syria)">
+              Antigonia
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Antioch" title="Antioch">
+              Antioch on the Orontes
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Antioch_of_Pisidia" title="Antioch of Pisidia">
+              Antioch of Pisidia
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Antiochia_Lamotis" title="Antiochia Lamotis">
+              Antiochia Lamotis
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Antiochia_ad_Cragum" title="Antiochia ad Cragum">
+              Antioch on the Cragus
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Antiochia_ad_Pyramum" title="Antiochia ad Pyramum">
+              Antioch on the Pyramis
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Antiphellus" title="Antiphellus">
+              Antiphellus
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Aperlae" title="Aperlae">
+              Aperlae
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Aphrodisias_of_Cilicia" title="Aphrodisias of Cilicia">
+              Aphrodisias of Cilicia
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Araxa" title="Araxa">
+              Araxa
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Ariassos" title="Ariassos">
+              Ariassos
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Arneae" title="Arneae">
+              Arneae
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Arsinoe_(Cilicia)" title="Arsinoe (Cilicia)">
+              Arsinoe
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Arycanda" title="Arycanda">
+              Arycanda
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Aspendos" title="Aspendos">
+              Aspendos
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Bab_al-Hawa_Border_Crossing" title="Bab al-Hawa Border Crossing">
+              Bab al-Hawa Border Crossing
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Balbura_(Lycia)" title="Balbura (Lycia)">
+              Balbura
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Bubon_(Lycia)" title="Bubon (Lycia)">
+              Bubon
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Calynda" title="Calynda">
+              Calynda
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Carallia_(Pamphylia)" title="Carallia (Pamphylia)">
+              Carallia
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Carmylessus" title="Carmylessus">
+              Carmylessus
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Bey%C5%9Fehir" title="Beyşehir">
+              Casae
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Castabala_(city)" title="Castabala (city)">
+              Castabala
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Cestrus" title="Cestrus">
+              Cestrus
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Choma_(Lycia)" title="Choma (Lycia)">
+              Choma
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Cibyra_Mikra" title="Cibyra Mikra">
+              Cibyra Mikra
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Comama" title="Comama">
+              Comama
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Comana_(Cappadocia)" title="Comana (Cappadocia)">
+              Comana in Cappadocia
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Comba_(Lycia)" title="Comba (Lycia)">
+              Comba
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Alanya" title="Alanya">
+              Coracesium
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Corycus" title="Corycus">
+              Corycus (Kızkalesi)
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Corydala" title="Corydala">
+              Corydala
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Cremna,_Pisidia" title="Cremna, Pisidia">
+              Cremna
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Cyaneae" title="Cyaneae">
+              Cyaneae
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Cyrrhus" title="Cyrrhus">
+              Cyrrhus
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Dalisandus_(Isauria)" title="Dalisandus (Isauria)">
+              Dalisandus in Isauria
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Dalisandus_in_Pamphylia" title="Dalisandus in Pamphylia">
+              Dalisandus in Pamphylia
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Dias_(Lycia)" title="Dias (Lycia)">
+              Dias
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Domuztepe" title="Domuztepe">
+              Domuztepe
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Elaiussa_Sebaste" title="Elaiussa Sebaste">
+              Elaiussa Sebaste
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Emirzeli" title="Emirzeli">
+              Emirzeli
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Epiphania,_Cilicia" title="Epiphania, Cilicia">
+              Epiphania
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Erymna" title="Erymna">
+              Erymna
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Etenna" title="Etenna">
+              Etenna
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Eudocia_(Lycia)" title="Eudocia (Lycia)">
+              Eudocia (Lycia)
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Eudocias_(Pamphylia)" title="Eudocias (Pamphylia)">
+              Eudocias (Pamphylia)
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Gagae" title="Gagae">
+              Gagae
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/G%C3%B6zl%C3%BCkule" title="Gözlükule">
+              Gözlükule
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Hacilar" title="Hacilar">
+              Hacilar
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Idebessos" title="Idebessos">
+              Idebessos
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Irenopolis,_Cilicia" title="Irenopolis, Cilicia">
+              Irenopolis
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Isba" title="Isba">
+              Isba
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Issus,_Cilicia" title="Issus, Cilicia">
+              Issus
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Kandyba" title="Kandyba">
+              Kandyba
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Karakabakl%C4%B1" title="Karakabaklı">
+              Karakabaklı
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Karatepe" title="Karatepe">
+              Karatepe
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Kibyra" title="Kibyra">
+              Kibyra
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Kayak%C3%B6y" title="Kayaköy">
+              Lebessus
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Limyra" title="Limyra">
+              Limyra
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Lyrbe" title="Lyrbe">
+              Lyrbe
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Magydus" title="Magydus">
+              Magydus
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Mallus" title="Mallus">
+              Mallus
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Mamure_Castle" title="Mamure Castle">
+              Mamure Castle
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Mastaura_(Lycia)" title="Mastaura (Lycia)">
+              Mastaura
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Melo%C3%AB_(Lycia)" title="Meloë (Lycia)">
+              Meloë
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Mezgitkale" title="Mezgitkale">
+              Mezgitkale
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Mopsuestia" title="Mopsuestia">
+              Mopsuestia
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Myra" title="Myra">
+              Myra
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Nisa_(Lycia)" title="Nisa (Lycia)">
+              Nisa
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Olba_(ancient_city)" title="Olba (ancient city)">
+              Olba
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Olympos_(Lycia)" title="Olympos (Lycia)">
+              Olympos
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/%C3%96k%C3%BCzl%C3%BC" title="Öküzlü">
+              Öküzlü
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Orokenda" title="Orokenda">
+              Orokenda
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Patara,_Lycia" title="Patara, Lycia">
+              Patara
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Perga" title="Perga">
+              Perga
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Phaselis" title="Phaselis">
+              Phaselis
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Phellus" title="Phellus">
+              Phellus
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Podalia_(Lycia)" title="Podalia (Lycia)">
+              Podalia
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Rhodiapolis" title="Rhodiapolis">
+              Rhodiapolis
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Arsuz" title="Arsuz">
+              Rhosus
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Sagalassos" title="Sagalassos">
+              Sagalassos
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Seleucia_(Pamphylia)" title="Seleucia (Pamphylia)">
+              Seleucia in Pamphylia
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Seleucia_Pieria" title="Seleucia Pieria">
+              Seleucia Pieria
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Seleucia_Sidera" title="Seleucia Sidera">
+              Seleucia Sidera
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Selge,_Pisidia" title="Selge, Pisidia">
+              Selge
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Side,_Turkey" title="Side, Turkey">
+              Side
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Sidyma" title="Sidyma">
+              Sidyma
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Sillyon" title="Sillyon">
+              Sillyon
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Kalek%C3%B6y" title="Kaleköy">
+              Simena
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Sinda_(Pisidia)" title="Sinda (Pisidia)">
+              Sinda
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Soli,_Cilicia" title="Soli, Cilicia">
+              Soli
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Sozopolis,_Pisidia" title="Sozopolis, Pisidia">
+              Sozopolis
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Syedra" title="Syedra">
+              Syedra
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tapureli_ruins" title="Tapureli ruins">
+              Tapureli
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tell_Tayinat" title="Tell Tayinat">
+              Tell Tayinat
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Telmessos" title="Telmessos">
+              Telmessos
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Telmessos_(Caria)" title="Telmessos (Caria)">
+              Telmessos (Caria)
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Termessos" title="Termessos">
+              Termessos
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tlos" title="Tlos">
+              Tlos
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Trebenna" title="Trebenna">
+              Trebenna
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Xanthos" title="Xanthos">
+              Xanthos
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Yan%C4%B1khan" title="Yanıkhan">
+              Yanıkhan
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Yumuktepe" title="Yumuktepe">
+              Yumuktepe
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <a href="/wiki/Southeastern_Anatolia_Region" title="Southeastern Anatolia Region">
+           Southeastern
+           <br/>
+           Anatolia
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Antiochia_ad_Taurum" title="Antiochia ad Taurum">
+              Antioch in the Taurus
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Antiochia_in_Mesopotamia" title="Antiochia in Mesopotamia">
+              Antioch in Mesopotamia
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Apamea_(Euphrates)" title="Apamea (Euphrates)">
+              Apamea on the Euphrates
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Carchemish" title="Carchemish">
+              Carchemish
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Urshu" title="Urshu">
+              Urshu
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Khashshum" title="Khashshum">
+              Khashshum
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/%C3%87ay%C3%B6n%C3%BC" title="Çayönü">
+              Çayönü
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Dara_(Mesopotamia)" title="Dara (Mesopotamia)">
+              Dara
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Edessa" title="Edessa">
+              Edessa
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/G%C3%B6bekli_Tepe" title="Göbekli Tepe">
+              Göbekli Tepe
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Harran" title="Harran">
+              Harran
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Kussara" title="Kussara">
+              Kussara
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Neval%C4%B1_%C3%87ori" title="Nevalı Çori">
+              Nevalı Çori
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Sak%C3%A7ag%C3%B6z%C3%BC" title="Sakçagözü">
+              Sakçagözü
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Sam%27al" title="Sam'al">
+              Sam'al
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Samosata" title="Samosata">
+              Samosata
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Sareisa" title="Sareisa">
+              Sareisa
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Seleucia_at_the_Zeugma" title="Seleucia at the Zeugma">
+              Seleucia at the Zeugma
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Sultantepe" title="Sultantepe">
+              Sultantepe
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tille_H%C3%B6y%C3%BCk" title="Tille Höyük">
+              Tille
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tushhan" title="Tushhan">
+              Tushhan
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Zeugma,_Commagene" title="Zeugma, Commagene">
+              Zeugma
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <div aria-labelledby="UNESCO_Tentative_list_of_World_Heritage_Sites_in_Turkey" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="2" scope="col">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:Tentative_list_of_World_Heritage_Sites_in_Turkey" title="Template:Tentative list of World Heritage Sites in Turkey">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a href="/wiki/Template_talk:Tentative_list_of_World_Heritage_Sites_in_Turkey" title="Template talk:Tentative list of World Heritage Sites in Turkey">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Tentative_list_of_World_Heritage_Sites_in_Turkey&amp;action=edit">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="UNESCO_Tentative_list_of_World_Heritage_Sites_in_Turkey" style="font-size:114%;margin:0 4em">
+           <a href="/wiki/UNESCO" title="UNESCO">
+            UNESCO
+           </a>
+           <a href="/wiki/List_of_World_Heritage_Sites_in_Turkey_(Tentative_list)" title="List of World Heritage Sites in Turkey (Tentative list)">
+            Tentative list of World Heritage Sites in Turkey
+           </a>
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Aegean Region
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Aizanoi" title="Aizanoi">
+              Aizanoi antique city
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Birgi" title="Birgi">
+              Birgi
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Hecatomnus" title="Hecatomnus">
+              Mausolem and Sacred area of Hecatomnus
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Laodicea_on_the_Lycus" title="Laodicea on the Lycus">
+              Archaeological site of Laodikeia
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Medieval_City_of_Be%C3%A7in" title="Medieval City of Beçin">
+              Medieval City of Beçin
+             </a>
+            </li>
+            <li>
+             <a class="mw-selflink selflink">
+              Ancient City of Sardis and the Lydian Tumuli of Bin Tepe
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Stratonicea_(Caria)" title="Stratonicea (Caria)">
+              Ancient City of Stratonikeia
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Black Sea Region
+         </th>
+         <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Tombs_of_the_kings_of_Pontus" title="Tombs of the kings of Pontus">
+              Mount Harşena and the Rock-tombs of the Pontic Kings
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Mahmut_Bey_Mosque" title="Mahmut Bey Mosque">
+              Mahmut Bey Mosque
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Sumela_Monastery" title="Sumela Monastery">
+              Sümela Monastery (The Monastery of Virgin Mary)
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Central Anatolia
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/K%C3%BCltepe" title="Kültepe">
+              Archaeological site of Kültepe-Kaneş
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Eflatun_P%C4%B1nar" title="Eflatun Pınar">
+              Eflatun Pınar
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/E%C5%9Frefo%C4%9Flu_Mosque" title="Eşrefoğlu Mosque">
+              Eşrefoğlu Mosque
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Gordium" title="Gordium">
+              Gordion
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Haji_Bektash_Veli_Complex" title="Haji Bektash Veli Complex">
+              Haji Bektash Veli Complex
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Hac%C4%B1_Bayram_Mosque" title="Hacı Bayram Mosque">
+              Ankara Hacı Bayram Mosque
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Ince_Minaret_Medrese" title="Ince Minaret Medrese">
+              Ince Minaret Medrese
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Ni%C4%9Fde" title="Niğde">
+              Historical Monuments of Niğde
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Konya" title="Konya">
+              Konya-A capital of Seljuk Civilization
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Lake_Tuz" title="Lake Tuz">
+              Lake Tuz SEPA
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Phrygia" title="Phrygia">
+              Mountainous Phrygia
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Odunpazar%C4%B1" title="Odunpazarı">
+              Odunpazarı historical urban site
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tomb_of_Ahi_Evren" title="Tomb of Ahi Evren">
+              Tomb of Ahi Evren
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          East Anatolia
+         </th>
+         <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Akdamar_Island" title="Akdamar Island">
+              Akdamar Island
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Archaeological_Site_of_Arslantepe" title="Archaeological Site of Arslantepe">
+              Archaeological Site of Arslantepe
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Eshab-%C4%B1_Kehf_Kulliye" title="Eshab-ı Kehf Kulliye">
+              Eshab-ı Kehf Kulliye
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Ishak_Pasha_Palace" title="Ishak Pasha Palace">
+              Ishak Pasha Palace
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/The_Tombstones_of_Ahlat_the_Urartian_and_Ottoman_citadel" title="The Tombstones of Ahlat the Urartian and Ottoman citadel">
+              The Tombstones of Ahlat the Urartian and Ottoman citadel
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Marmara
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Gallipoli_Campaign" title="Gallipoli Campaign">
+              Çanakkale (Dardanelles) and Gelibolu (Gallipoli) Battles Zones in the First World War
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/%C4%B0znik" title="İznik">
+              İznik
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Mudurnu" title="Mudurnu">
+              Historic Guild Town of Mudurnu
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Uzunk%C3%B6pr%C3%BC_Bridge" title="Uzunköprü Bridge">
+              The Bridge of Uzunköprü
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Y%C4%B1ld%C4%B1z_Palace" title="Yıldız Palace">
+              Yıldız Palace Complex
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Mediterranean Region
+         </th>
+         <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Alahan_Monastery" title="Alahan Monastery">
+              Alahan Monastery
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Alanya" title="Alanya">
+              Alanya
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Anazarbus" title="Anazarbus">
+              Ancient city of Anazarbus
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Lycia" title="Lycia">
+              Ancient Cities of Lycian Civilization
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Kaunos" title="Kaunos">
+              Ancient City of Kaunos
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Corycus" title="Corycus">
+              Ancient City of Korykos
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Perga" title="Perga">
+              Archaeological Site of Perge
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Termessos" title="Termessos">
+              Güllük Dagi-Termessos National Park
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Mamure_Castle" title="Mamure Castle">
+              Mamure Castle
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Karain_Cave" title="Karain Cave">
+              Karain Cave
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Kekova" title="Kekova">
+              Kekova
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Sagalassos" title="Sagalassos">
+              Archaeological Site of Sagalassos
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Saint_Paul%27s_Church,_Tarsus" title="Saint Paul's Church, Tarsus">
+              St.Paul Church, St.Paul's Well and surrounding historic quarters
+             </a>
+             (in
+             <a href="/wiki/Tarsus,_Mersin" title="Tarsus, Mersin">
+              Tarsus, Mersin
+             </a>
+             )
+            </li>
+            <li>
+             <a href="/wiki/Church_of_Saint_Peter" title="Church of Saint Peter">
+              St. Pierre Church in Hatay
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/St._Nicholas_Church,_Demre" title="St. Nicholas Church, Demre">
+              St. Nicholas Church in Demre
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Aspendos" title="Aspendos">
+              The Theatre and Aqueducts of the Ancient City of Aspendos
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Vespasianus_Titus_Tunnel" title="Vespasianus Titus Tunnel">
+              Vespasianus Titus Tunnel
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Southeastern Anatolia
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Zeugma,_Commagene" title="Zeugma, Commagene">
+              Archeological Site of Zeugma
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/G%C3%B6bekli_Tepe" title="Göbekli Tepe">
+              Archaeological Site of Göbeklitepe
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Harran" title="Harran">
+              Harran
+             </a>
+             and
+             <a class="mw-redirect" href="/wiki/%C5%9Eanl%C4%B1urfa" title="Şanlıurfa">
+              Şanlıurfa
+             </a>
+            </li>
+            <li>
+             <a class="new" href="/w/index.php?title=%C4%B0smail_Fakirullah_Tomb&amp;action=edit&amp;redlink=1" title="İsmail Fakirullah Tomb (page does not exist)">
+              İsmail Fakirullah Tomb
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Mardin_Cultural_Landscape" title="Mardin Cultural Landscape">
+              Mardin Cultural Landscape
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Yesemek_Quarry_and_Sculpture_Workshop" title="Yesemek Quarry and Sculpture Workshop">
+              Yesemek Quarry and Sculpture Workshop
+             </a>
+            </li>
+            <li>
+             <a class="new" href="/w/index.php?title=Zeynel_Abidin_Mosque_Complex_and_Mor_Yakup_(Saint_Jacob)_Church&amp;action=edit&amp;redlink=1" title="Zeynel Abidin Mosque Complex and Mor Yakup (Saint Jacob) Church (page does not exist)">
+              Zeynel Abidin Mosque Complex and Mor Yakup (Saint Jacob) Church
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          All over Turkey
+         </th>
+         <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a class="mw-redirect" href="/wiki/Anatolian_Seljuks_Madrasahs" title="Anatolian Seljuks Madrasahs">
+              Anatolian Seljuks Madrasahs
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Seljuk_Caravanserais_on_the_route_from_Denizli_to_Dogubeyazit" title="Seljuk Caravanserais on the route from Denizli to Dogubeyazit">
+              Seljuk Caravanserais on the route from Denizli to Dogubeyazit
+             </a>
+            </li>
+            <li>
+             <a class="new" href="/w/index.php?title=Trading_Posts_and_Fortifications_on_Genoese_Trade_Routes&amp;action=edit&amp;redlink=1" title="Trading Posts and Fortifications on Genoese Trade Routes (page does not exist)">
+              Trading Posts and Fortifications on Genoese Trade Routes
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1284
+Cached time: 20180319200522
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.520 seconds
+Real time usage: 0.671 seconds
+Preprocessor visited node count: 2167/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 102791/2097152 bytes
+Template argument size: 7035/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 3249/5000000 bytes
+Lua time usage: 0.312/10.000 seconds
+Lua memory usage: 11.89 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  566.899      1 -total
+ 28.44%  161.208      1 Template:Lang-grc
+ 21.19%  120.145      1 Template:Infobox_ancient_site
+ 19.47%  110.389      1 Template:Infobox
+  9.29%   52.648      1 Template:Location_map
+  7.17%   40.644      2 Template:Convert
+  6.76%   38.350      1 Template:Reflist
+  6.76%   38.347      1 Template:Coord
+  6.45%   36.546      3 Template:Navbox
+  5.76%   32.647      2 Template:ISBN
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:45386-0!canonical and timestamp 20180319200613 and revision id 831284628
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Sardis&amp;oldid=831284628">
+      https://en.wikipedia.org/w/index.php?title=Sardis&amp;oldid=831284628
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Achaemenid_cities" title="Category:Achaemenid cities">
+         Achaemenid cities
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Ancient_Greek_archaeological_sites_in_Turkey" title="Category:Ancient Greek archaeological sites in Turkey">
+         Ancient Greek archaeological sites in Turkey
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Ancient_synagogues" title="Category:Ancient synagogues">
+         Ancient synagogues
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Archaeological_sites_in_the_Aegean_Region" title="Category:Archaeological sites in the Aegean Region">
+         Archaeological sites in the Aegean Region
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Buildings_and_structures_in_Manisa_Province" title="Category:Buildings and structures in Manisa Province">
+         Buildings and structures in Manisa Province
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Former_populated_places_in_Turkey" title="Category:Former populated places in Turkey">
+         Former populated places in Turkey
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Lydia" title="Category:Lydia">
+         Lydia
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Hellenistic_colonies" title="Category:Hellenistic colonies">
+         Hellenistic colonies
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Historic_Jewish_communities" title="Category:Historic Jewish communities">
+         Historic Jewish communities
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:History_of_Manisa_Province" title="Category:History of Manisa Province">
+         History of Manisa Province
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:New_Testament_cities" title="Category:New Testament cities">
+         New Testament cities
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Roman_towns_and_cities_in_Turkey" title="Category:Roman towns and cities in Turkey">
+         Roman towns and cities in Turkey
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Tourist_attractions_in_Manisa_Province" title="Category:Tourist attractions in Manisa Province">
+         Tourist attractions in Manisa Province
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:World_Heritage_Site_Tentative_list" title="Category:World Heritage Site Tentative list">
+         World Heritage Site Tentative list
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Articles_needing_additional_references_from_October_2011" title="Category:Articles needing additional references from October 2011">
+         Articles needing additional references from October 2011
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">
+         All articles needing additional references
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_Greek-language_external_links" title="Category:Articles with Greek-language external links">
+         Articles with Greek-language external links
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">
+         Coordinates on Wikidata
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_containing_Ancient_Greek-language_text" title="Category:Articles containing Ancient Greek-language text">
+         Articles containing Ancient Greek-language text
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_containing_Old_Persian-language_text" title="Category:Articles containing Old Persian-language text">
+         Articles containing Old Persian-language text
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">
+         All articles with unsourced statements
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_unsourced_statements_from_July_2008" title="Category:Articles with unsourced statements from July 2008">
+         Articles with unsourced statements from July 2008
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Sardis" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Sardis" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Sardis" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Sardis" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Sardis">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Sardis&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Sardis&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Sardis" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Sardis" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Sardis&amp;oldid=831284628" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Sardis&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q232615" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Sardis&amp;id=831284628" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Sardis">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Sardis&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Sardis&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Category:Sardis" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikivoyage">
+        <a href="https://en.wikivoyage.org/wiki/Sardis" hreflang="en">
+         Wikivoyage
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%B3%D8%A7%D8%B1%D8%AF" hreflang="ar" lang="ar" title="سارد – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be">
+        <a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%A1%D0%B0%D1%80%D0%B4%D1%8B" hreflang="be" lang="be" title="Сарды – Belarusian">
+         Беларуская
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bg">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%A1%D0%B0%D1%80%D0%B4%D0%B8" hreflang="bg" lang="bg" title="Сарди – Bulgarian">
+         Български
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Sardes" hreflang="ca" lang="ca" title="Sardes – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Sardy" hreflang="cs" lang="cs" title="Sardy – Czech">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Sardes" hreflang="de" lang="de" title="Sardes – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-el">
+        <a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%A3%CE%AC%CF%81%CE%B4%CE%B5%CE%B9%CF%82" hreflang="el" lang="el" title="Σάρδεις – Greek">
+         Ελληνικά
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Sardes" hreflang="es" lang="es" title="Sardes – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eo">
+        <a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Sardeso" hreflang="eo" lang="eo" title="Sardeso – Esperanto">
+         Esperanto
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eu">
+        <a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Sardes" hreflang="eu" lang="eu" title="Sardes – Basque">
+         Euskara
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%B3%D8%A7%D8%B1%D8%AF" hreflang="fa" lang="fa" title="سارد – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Sardes" hreflang="fr" lang="fr" title="Sardes – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gl">
+        <a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Sardes" hreflang="gl" lang="gl" title="Sardes – Galician">
+         Galego
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%82%AC%EB%A5%B4%EB%94%94%EC%8A%A4" hreflang="ko" lang="ko" title="사르디스 – Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hr">
+        <a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Sard_(Turska)" hreflang="hr" lang="hr" title="Sard (Turska) – Croatian">
+         Hrvatski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Sardis" hreflang="id" lang="id" title="Sardis – Indonesian">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Sardi_(citt%C3%A0)" hreflang="it" lang="it" title="Sardi (città) – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he">
+        <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%A1%D7%A8%D7%93%D7%99%D7%A1" hreflang="he" lang="he" title="סרדיס – Hebrew">
+         עברית
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ka">
+        <a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%A1%E1%83%90%E1%83%A0%E1%83%93%E1%83%98%E1%83%A1%E1%83%98" hreflang="ka" lang="ka" title="სარდისი – Georgian">
+         ქართული
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-rw">
+        <a class="interlanguage-link-target" href="https://rw.wikipedia.org/wiki/Sarudi" hreflang="rw" lang="rw" title="Sarudi – Kinyarwanda">
+         Kinyarwanda
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ku">
+        <a class="interlanguage-link-target" href="https://ku.wikipedia.org/wiki/Sard%C3%AEs" hreflang="ku" lang="ku" title="Sardîs – Kurdish">
+         Kurdî
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-la">
+        <a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/Sardis" hreflang="la" lang="la" title="Sardis – Latin">
+         Latina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hu">
+        <a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Szardeisz" hreflang="hu" lang="hu" title="Szardeisz – Hungarian">
+         Magyar
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mr">
+        <a class="interlanguage-link-target" href="https://mr.wikipedia.org/wiki/%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1%E0%A4%BF%E0%A4%B8" hreflang="mr" lang="mr" title="सार्डिस – Marathi">
+         मराठी
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Sardis_(Lydi%C3%AB)" hreflang="nl" lang="nl" title="Sardis (Lydië) – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%AB%E3%83%87%E3%82%A3%E3%82%B9" hreflang="ja" lang="ja" title="サルディス – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Sardis" hreflang="no" lang="no" title="Sardis – Norwegian">
+         Norsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uz">
+        <a class="interlanguage-link-target" href="https://uz.wikipedia.org/wiki/Sardi" hreflang="uz" lang="uz" title="Sardi – Uzbek">
+         Oʻzbekcha/ўзбекча
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Sardes" hreflang="pl" lang="pl" title="Sardes – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/S%C3%A1rdis" hreflang="pt" lang="pt" title="Sárdis – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ro">
+        <a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Sardes" hreflang="ro" lang="ro" title="Sardes – Romanian">
+         Română
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D1%80%D0%B4%D1%8B" hreflang="ru" lang="ru" title="Сарды – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sco">
+        <a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Sardis" hreflang="sco" lang="sco" title="Sardis – Scots">
+         Scots
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sq">
+        <a class="interlanguage-link-target" href="https://sq.wikipedia.org/wiki/Sarda_(Lidiane)" hreflang="sq" lang="sq" title="Sarda (Lidiane) – Albanian">
+         Shqip
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sk">
+        <a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Sardy" hreflang="sk" lang="sk" title="Sardy – Slovak">
+         Slovenčina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sl">
+        <a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Sarde" hreflang="sl" lang="sl" title="Sarde – Slovenian">
+         Slovenščina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sr">
+        <a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%A1%D0%B0%D1%80%D0%B4" hreflang="sr" lang="sr" title="Сард – Serbian">
+         Српски / srpski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sh">
+        <a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Sard" hreflang="sh" lang="sh" title="Sard – Serbo-Croatian">
+         Srpskohrvatski / српскохрватски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Sardes" hreflang="fi" lang="fi" title="Sardes – Finnish">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Sardes" hreflang="sv" lang="sv" title="Sardes – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tr">
+        <a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Sardis" hreflang="tr" lang="tr" title="Sardis – Turkish">
+         Türkçe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A1%D0%B0%D1%80%D0%B4%D0%B8" hreflang="uk" lang="uk" title="Сарди – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E8%96%A9%E7%AC%AC%E6%96%AF" hreflang="zh" lang="zh" title="薩第斯 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q232615#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 19 March 2018, at 20:06.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Sardis&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.520","walltime":"0.671","ppvisitednodes":{"value":2167,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":102791,"limit":2097152},"templateargumentsize":{"value":7035,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":3249,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  566.899      1 -total"," 28.44%  161.208      1 Template:Lang-grc"," 21.19%  120.145      1 Template:Infobox_ancient_site"," 19.47%  110.389      1 Template:Infobox","  9.29%   52.648      1 Template:Location_map","  7.17%   40.644      2 Template:Convert","  6.76%   38.350      1 Template:Reflist","  6.76%   38.347      1 Template:Coord","  6.45%   36.546      3 Template:Navbox","  5.76%   32.647      2 Template:ISBN"]},"scribunto":{"limitreport-timeusage":{"value":"0.312","limit":"10.000"},"limitreport-memusage":{"value":12463366,"limit":52428800}},"cachereport":{"origin":"mw1284","timestamp":"20180319200522","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":94,"wgHostname":"mw1325"});});
+  </script>
+ </body>
+</html>

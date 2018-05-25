@@ -1,0 +1,3950 @@
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Lunar distance (astronomy) - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Lunar_distance_(astronomy)","wgTitle":"Lunar distance (astronomy)","wgCurRevisionId":828086963,"wgRevisionId":828086963,"wgArticleId":899115,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Orbit of the Moon","Units of measurement in astronomy","Units of length"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Lunar_distance_(astronomy)","wgRelevantArticleId":899115,"wgRequestId":"WrRqZApAICEAALrrjHsAAAAK","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q94921","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.math.scripts","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.26" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/c/c8/Lunar_perigee_apogee.png" property="og:image"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Lunar_distance_(astronomy)" rel="alternate"/>
+  <link href="/w/index.php?title=Lunar_distance_(astronomy)&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Lunar_distance_(astronomy)&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Lunar_distance_(astronomy)" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Lunar_distance_astronomy rootpage-Lunar_distance_astronomy skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Lunar distance (astronomy)
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <div class="hatnote navigation-not-searchable" role="note">
+       This article is about the average distance from the Earth to the
+       <a href="/wiki/Moon" title="Moon">
+        Moon
+       </a>
+       . For its other use in navigation, see
+       <a href="/wiki/Lunar_distance_(navigation)" title="Lunar distance (navigation)">
+        Lunar distance (navigation)
+       </a>
+       .
+      </div>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:322px;">
+        <a class="image" href="/wiki/File:Lunar_perigee_apogee.png">
+         <img alt="" class="thumbimage" data-file-height="485" data-file-width="800" height="194" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Lunar_perigee_apogee.png/320px-Lunar_perigee_apogee.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Lunar_perigee_apogee.png/480px-Lunar_perigee_apogee.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Lunar_perigee_apogee.png/640px-Lunar_perigee_apogee.png 2x" width="320"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Lunar_perigee_apogee.png" title="Enlarge">
+          </a>
+         </div>
+         A lunar distance,
+         <span class="nowrap">
+          <span class="sortkey" style="display:none">
+           7008384402000000000♠
+          </span>
+          384
+          <span style="margin-left:.25em;">
+           402
+          </span>
+          km
+         </span>
+         , is the Moon's average distance to Earth. The actual distance varies over the course of
+         <a href="/wiki/Orbit_of_the_Moon" title="Orbit of the Moon">
+          its orbit
+         </a>
+         . The image compares the Moon's
+         <a href="/wiki/Angular_diameter" title="Angular diameter">
+          apparent size
+         </a>
+         when it is
+         <a href="/wiki/Supermoon" title="Supermoon">
+          closest
+         </a>
+         and farthest from Earth.
+        </div>
+       </div>
+      </div>
+      <p>
+       <b>
+        Lunar distance
+       </b>
+       (
+       <b>
+        LD
+       </b>
+       or
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\textstyle \Delta _{\oplus L}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="false" scriptlevel="0">
+             <msub>
+              <mi mathvariant="normal">
+               Δ
+               <!-- Δ -->
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mo>
+                ⊕
+                <!-- ⊕ -->
+               </mo>
+               <mi>
+                L
+               </mi>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\textstyle \Delta _{\oplus L}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="{\textstyle \Delta _{\oplus L}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/cc4cbdbca7d4fd84bbc4572852e77a36679bc84e" style="vertical-align: -0.671ex; width:4.566ex; height:2.509ex;"/>
+       </span>
+       ), also called
+       <b>
+        Earth–Moon distance
+       </b>
+       ,
+       <b>
+        Earth–Moon characteristic distance
+       </b>
+       , or
+       <b>
+        distance to the Moon
+       </b>
+       , is a
+       <a class="mw-redirect" href="/wiki/Unit_of_measure" title="Unit of measure">
+        unit of measure
+       </a>
+       in
+       <a href="/wiki/Astronomy" title="Astronomy">
+        astronomy
+       </a>
+       . It is the average distance from the center of
+       <a href="/wiki/Earth" title="Earth">
+        Earth
+       </a>
+       to the center of the
+       <a href="/wiki/Moon" title="Moon">
+        Moon
+       </a>
+       . More technically, it is the mean
+       <a class="mw-redirect" href="/wiki/Semi-major_axis" title="Semi-major axis">
+        semi-major axis
+       </a>
+       of the geocentric
+       <a href="/wiki/Orbit_of_the_Moon" title="Orbit of the Moon">
+        lunar orbit
+       </a>
+       . It may also refer to the time-averaged distance between the centers of the Earth and the Moon, or less commonly, the instantaneous Earth–Moon distance. The lunar distance is approximately a quarter of a million miles (
+       <span class="nowrap">
+        <span class="sortkey" style="display:none">
+         7008400000000000000♠
+        </span>
+        400
+        <span style="margin-left:.25em;">
+         000
+        </span>
+        km
+       </span>
+       ).
+       <sup class="reference" id="cite_ref-Groten_1-0">
+        <a href="#cite_note-Groten-1">
+         [1]
+        </a>
+       </sup>
+      </p>
+      <p>
+       The mean semi-major axis has a value of 384,402 km (238,856 mi).
+       <sup class="reference" id="cite_ref-Apache_Point_2-0">
+        <a href="#cite_note-Apache_Point-2">
+         [2]
+        </a>
+       </sup>
+       The time-averaged distance between Earth and Moon centers is 385,000.6 km (239,228.3 mi). The actual distance varies over the course of the
+       <a href="/wiki/Orbit_of_the_Moon" title="Orbit of the Moon">
+        orbit of the Moon
+       </a>
+       , from 356,500 km (221,500 mi) at the
+       <a class="mw-redirect" href="/wiki/Perigee" title="Perigee">
+        perigee
+       </a>
+       to 406,700 km (252,700 mi) at
+       <a class="mw-redirect" href="/wiki/Apogee" title="Apogee">
+        apogee
+       </a>
+       , resulting in a differential range of 50,200 km (31,200 mi).
+       <sup class="reference" id="cite_ref-millimeter_challenge_3-0">
+        <a href="#cite_note-millimeter_challenge-3">
+         [3]
+        </a>
+       </sup>
+      </p>
+      <p>
+       Lunar distance is commonly used to express the distance to
+       <a href="/wiki/Near-Earth_object" title="Near-Earth object">
+        near-Earth object
+       </a>
+       encounters.
+       <sup class="reference" id="cite_ref-NEO_4-0">
+        <a href="#cite_note-NEO-4">
+         [4]
+        </a>
+       </sup>
+       Lunar distance is also an important astronomical datum; the precision of this measurement to a few parts in a trillion has useful implications for testing gravitational theories such as
+       <a href="/wiki/General_relativity" title="General relativity">
+        general relativity
+       </a>
+       ,
+       <sup class="reference" id="cite_ref-5">
+        <a href="#cite_note-5">
+         [5]
+        </a>
+       </sup>
+       and for refining other astronomical values such as
+       <a href="/wiki/Earth_mass" title="Earth mass">
+        Earth mass
+       </a>
+       ,
+       <sup class="reference" id="cite_ref-moonbounce_6-0">
+        <a href="#cite_note-moonbounce-6">
+         [6]
+        </a>
+       </sup>
+       <a href="/wiki/Earth_radius" title="Earth radius">
+        Earth radius
+       </a>
+       ,
+       <sup class="reference" id="cite_ref-Fischer_7-0">
+        <a href="#cite_note-Fischer-7">
+         [7]
+        </a>
+       </sup>
+       and Earth's rotation.
+       <sup class="reference" id="cite_ref-LLR_8-0">
+        <a href="#cite_note-LLR-8">
+         [8]
+        </a>
+       </sup>
+       The measurement is also useful in characterizing the
+       <a class="mw-redirect" href="/wiki/Lunar_radius" title="Lunar radius">
+        lunar radius
+       </a>
+       , the
+       <a href="/wiki/Solar_mass" title="Solar mass">
+        mass of the Sun
+       </a>
+       and the
+       <a href="/wiki/Astronomical_unit" title="Astronomical unit">
+        distance to the Sun
+       </a>
+       .
+      </p>
+      <p>
+       Millimeter-
+       <a href="/wiki/Accuracy_and_precision" title="Accuracy and precision">
+        precision
+       </a>
+       measurements of the lunar distance are made by measuring the time taken for light to travel between
+       <a class="mw-redirect" href="/wiki/LIDAR" title="LIDAR">
+        LIDAR
+       </a>
+       stations on the Earth and
+       <a href="/wiki/Retroreflector" title="Retroreflector">
+        retroreflectors
+       </a>
+       placed on the Moon. The Moon is spiraling away from the Earth at an average rate of 3.8 cm (1.5 in) per year, as detected by the
+       <a class="mw-redirect" href="/wiki/Lunar_Laser_Ranging_Experiment" title="Lunar Laser Ranging Experiment">
+        Lunar Laser Ranging Experiment
+       </a>
+       .
+       <sup class="reference" id="cite_ref-9">
+        <a href="#cite_note-9">
+         [9]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-10">
+        <a href="#cite_note-10">
+         [10]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-11">
+        <a href="#cite_note-11">
+         [11]
+        </a>
+       </sup>
+       By coincidence, the diameter of
+       <a href="/wiki/Corner_reflector" title="Corner reflector">
+        corner cubes
+       </a>
+       in retroreflectors on the Moon is also
+       <span class="nowrap">
+        <span class="sortkey" style="display:none">
+         6998380000000000000♠
+        </span>
+        3.8 cm
+       </span>
+       .
+       <sup class="reference" id="cite_ref-12">
+        <a href="#cite_note-12">
+         [12]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-13">
+        <a href="#cite_note-13">
+         [13]
+        </a>
+       </sup>
+      </p>
+      <div style="clear:both;">
+      </div>
+      <div class="center">
+       <div class="thumb tnone">
+        <div class="thumbinner" style="width:802px;">
+         <a class="image" href="/wiki/File:Earth-Moon.png">
+          <img alt="" class="thumbimage" data-file-height="480" data-file-width="14476" height="27" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Earth-Moon.png/800px-Earth-Moon.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Earth-Moon.png/1200px-Earth-Moon.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Earth-Moon.png/1600px-Earth-Moon.png 2x" width="800"/>
+         </a>
+         <div class="thumbcaption">
+          <div class="magnify">
+           <a class="internal" href="/wiki/File:Earth-Moon.png" title="Enlarge">
+           </a>
+          </div>
+          Distance between the
+          <a href="/wiki/Earth" title="Earth">
+           Earth
+          </a>
+          and
+          <a href="/wiki/Moon" title="Moon">
+           Moon
+          </a>
+          - sizes and distance to scale.
+         </div>
+        </div>
+       </div>
+      </div>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Value">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Value
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#Variation">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Variation
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-3">
+           <a href="#Perturbations_and_eccentricity">
+            <span class="tocnumber">
+             2.1
+            </span>
+            <span class="toctext">
+             Perturbations and eccentricity
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-4">
+           <a href="#Tidal_dissipation">
+            <span class="tocnumber">
+             2.2
+            </span>
+            <span class="toctext">
+             Tidal dissipation
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-5">
+           <a href="#Orbital_history">
+            <span class="tocnumber">
+             2.3
+            </span>
+            <span class="toctext">
+             Orbital history
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-6">
+         <a href="#History_of_measurement">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           History of measurement
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-7">
+           <a href="#Parallax">
+            <span class="tocnumber">
+             3.1
+            </span>
+            <span class="toctext">
+             Parallax
+            </span>
+           </a>
+           <ul>
+            <li class="toclevel-3 tocsection-8">
+             <a href="#Lunar_eclipse">
+              <span class="tocnumber">
+               3.1.1
+              </span>
+              <span class="toctext">
+               Lunar eclipse
+              </span>
+             </a>
+            </li>
+            <li class="toclevel-3 tocsection-9">
+             <a href="#Meridian_crossing">
+              <span class="tocnumber">
+               3.1.2
+              </span>
+              <span class="toctext">
+               Meridian crossing
+              </span>
+             </a>
+            </li>
+            <li class="toclevel-3 tocsection-10">
+             <a href="#Occultations">
+              <span class="tocnumber">
+               3.1.3
+              </span>
+              <span class="toctext">
+               Occultations
+              </span>
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class="toclevel-2 tocsection-11">
+           <a href="#Radar">
+            <span class="tocnumber">
+             3.2
+            </span>
+            <span class="toctext">
+             Radar
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-12">
+           <a href="#Laser_ranging">
+            <span class="tocnumber">
+             3.3
+            </span>
+            <span class="toctext">
+             Laser ranging
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-13">
+           <a href="#Amateur_astronomers_and_citizen_scientists">
+            <span class="tocnumber">
+             3.4
+            </span>
+            <span class="toctext">
+             Amateur astronomers and citizen scientists
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-14">
+         <a href="#See_also">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-15">
+         <a href="#External_links">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           External links
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-16">
+         <a href="#References">
+          <span class="tocnumber">
+           6
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Value">
+        Value
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Lunar_distance_(astronomy)&amp;action=edit&amp;section=1" title="Edit section: Value">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <table class="wikitable" style="margin-left: 20px;">
+       <caption>
+        Lunar distance expressed in selected units
+       </caption>
+       <tr>
+        <th>
+         Unit
+        </th>
+        <th>
+         Mean value
+        </th>
+        <th>
+         Uncertainty
+        </th>
+        <th>
+         Ref
+        </th>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Meter" title="Meter">
+          meter
+         </a>
+        </td>
+        <td>
+         <span class="nowrap">
+          <span class="sortkey" style="display:none">
+           7008384402000000000♠
+          </span>
+          3.844
+          <span style="margin-left:.25em;">
+           02
+          </span>
+          <span style="margin-left:0.25em;margin-right:0.15em;">
+           ×
+          </span>
+          10
+          <sup>
+           8
+          </sup>
+         </span>
+        </td>
+        <td>
+         <span class="nowrap">
+          <span class="sortkey" style="display:none">
+           6997110000000000000♠
+          </span>
+          1.1 mm
+         </span>
+        </td>
+        <td align="center">
+         <sup class="reference" id="cite_ref-Apache_Point_2-1">
+          <a href="#cite_note-Apache_Point-2">
+           [2]
+          </a>
+         </sup>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Kilometer" title="Kilometer">
+          kilometer
+         </a>
+        </td>
+        <td>
+         <span class="nowrap">
+          <span class="sortkey" style="display:none">
+           7005384402000000000♠
+          </span>
+          384
+          <span style="margin-left:.25em;">
+           402
+          </span>
+         </span>
+        </td>
+        <td>
+         <span class="nowrap">
+          <span class="sortkey" style="display:none">
+           6997110000000000000♠
+          </span>
+          1.1 mm
+         </span>
+        </td>
+        <td align="center">
+         <sup class="reference" id="cite_ref-Apache_Point_2-2">
+          <a href="#cite_note-Apache_Point-2">
+           [2]
+          </a>
+         </sup>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Mile" title="Mile">
+          mile
+         </a>
+        </td>
+        <td>
+         238,856
+        </td>
+        <td>
+         0.043 in
+        </td>
+        <td align="center">
+         <sup class="reference" id="cite_ref-Apache_Point_2-3">
+          <a href="#cite_note-Apache_Point-2">
+           [2]
+          </a>
+         </sup>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Earth_radius" title="Earth radius">
+          Earth radius
+         </a>
+        </td>
+        <td>
+         60.32
+        </td>
+        <td>
+        </td>
+        <td align="center">
+         <sup class="reference" id="cite_ref-Dream_of_West_14-0">
+          <a href="#cite_note-Dream_of_West-14">
+           [14]
+          </a>
+         </sup>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Astronomical_unit" title="Astronomical unit">
+          AU
+         </a>
+        </td>
+        <td>
+         <span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;">
+          <span style="display:block; line-height:1em; margin:0 0.1em;">
+           1
+          </span>
+          <span class="visualhide">
+           /
+          </span>
+          <span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">
+           388.6
+          </span>
+         </span>
+         =
+         <span class="nowrap">
+          <span class="sortkey" style="display:none">
+           6997256999999999999♠
+          </span>
+          0.002
+          <span style="margin-left:.25em;">
+           57
+          </span>
+         </span>
+        </td>
+        <td>
+        </td>
+        <td align="center">
+         <sup class="reference" id="cite_ref-Sea's_Edge_15-0">
+          <a href="#cite_note-Sea's_Edge-15">
+           [15]
+          </a>
+         </sup>
+         <sup class="reference" id="cite_ref-Fact_Sheet_16-0">
+          <a href="#cite_note-Fact_Sheet-16">
+           [16]
+          </a>
+         </sup>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Light-second" title="Light-second">
+          light-second
+         </a>
+        </td>
+        <td>
+         <span class="nowrap">
+          <span class="sortkey" style="display:none">
+           7000128200000000000♠
+          </span>
+          1.282 s
+         </span>
+        </td>
+        <td>
+         <span class="nowrap">
+          <span class="sortkey" style="display:none">
+           6989375000000000000♠
+          </span>
+          37.5
+          <a href="/wiki/Picosecond" title="Picosecond">
+           ps
+          </a>
+         </span>
+        </td>
+        <td align="center">
+         <sup class="reference" id="cite_ref-Apache_Point_2-4">
+          <a href="#cite_note-Apache_Point-2">
+           [2]
+          </a>
+         </sup>
+        </td>
+       </tr>
+      </table>
+      <h2>
+       <span class="mw-headline" id="Variation">
+        Variation
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Lunar_distance_(astronomy)&amp;action=edit&amp;section=2" title="Edit section: Variation">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       The instantaneous lunar distance is constantly changing. In fact the true distance between the Moon and Earth can change as quickly as
+       <span class="nowrap">
+        <span class="sortkey" style="display:none">
+         7001750000000000000♠
+        </span>
+        75 meters per second
+       </span>
+       ,
+       <sup class="reference" id="cite_ref-millimeter_challenge_3-1">
+        <a href="#cite_note-millimeter_challenge-3">
+         [3]
+        </a>
+       </sup>
+       or more than
+       <span class="nowrap">
+        <span class="sortkey" style="display:none">
+         7006100000000000000♠
+        </span>
+        1000 km
+       </span>
+       in just 6 hours, due to its non-circular orbit.
+       <sup class="reference" id="cite_ref-Zuluaga_17-0">
+        <a href="#cite_note-Zuluaga-17">
+         [17]
+        </a>
+       </sup>
+       There are other effects that also influence the lunar distance. Some factors are described in this section.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Perturbations_and_eccentricity">
+        Perturbations and eccentricity
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Lunar_distance_(astronomy)&amp;action=edit&amp;section=3" title="Edit section: Perturbations and eccentricity">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       The distance to the Moon can be measured to an accuracy of
+       <span class="nowrap">
+        <span class="sortkey" style="display:none">
+         6997200000000000000♠
+        </span>
+        2 mm
+       </span>
+       over a 1-hour sampling period,
+       <sup class="reference" id="cite_ref-APOLLO_Analysis_18-0">
+        <a href="#cite_note-APOLLO_Analysis-18">
+         [18]
+        </a>
+       </sup>
+       which results in an overall uncertainty of
+       <span class="nowrap">
+        <span class="sortkey" style="display:none">
+         6998200000000000000♠
+        </span>
+        2–3 cm
+       </span>
+       for the average distance. However, due to
+       <a href="/wiki/Orbit_of_the_Moon" title="Orbit of the Moon">
+        its elliptical orbit
+       </a>
+       with varying eccentricity, the instantaneous distance varies with monthly periodicity. Furthermore, the distance is perturbed by the gravitational effects of various astronomical bodies - most significantly the Sun and less so by Jupiter. Other forces responsible for minute perturbations are other planets in the solar system, asteroids, tidal forces, and relativistic effects.
+       <sup class="reference" id="cite_ref-integration_19-0">
+        <a href="#cite_note-integration-19">
+         [19]
+        </a>
+       </sup>
+       The effect of
+       <a href="/wiki/Yarkovsky_effect" title="Yarkovsky effect">
+        radiation pressure
+       </a>
+       from the sun contributes an amount of ±
+       <span class="nowrap">
+        <span class="sortkey" style="display:none">
+         6997360000000000000♠
+        </span>
+        3.6 mm
+       </span>
+       to the lunar distance.
+       <sup class="reference" id="cite_ref-APOLLO_Analysis_18-1">
+        <a href="#cite_note-APOLLO_Analysis-18">
+         [18]
+        </a>
+       </sup>
+      </p>
+      <p>
+       Although the instantaneous uncertainty is sub-millimeter, the measured lunar distance can change by more than
+       <span class="nowrap">
+        <span class="sortkey" style="display:none">
+         7007210000000000000♠
+        </span>
+        21
+        <span style="margin-left:.25em;">
+         000
+        </span>
+        km
+       </span>
+       from the mean value throughout a typical month. These perturbations are well understood
+       <sup class="reference" id="cite_ref-DE431_20-0">
+        <a href="#cite_note-DE431-20">
+         [20]
+        </a>
+       </sup>
+       and the lunar distance can be accurately modeled over thousands of years.
+       <sup class="reference" id="cite_ref-integration_19-1">
+        <a href="#cite_note-integration-19">
+         [19]
+        </a>
+       </sup>
+      </p>
+      <div class="thumb tnone">
+       <div class="thumbinner" style="width:722px;">
+        <a class="image" href="/wiki/File:Moon-Earth_distance,_Moon_phases.gif">
+         <img alt="" class="thumbimage" data-file-height="215" data-file-width="720" height="215" src="//upload.wikimedia.org/wikipedia/commons/1/1f/Moon-Earth_distance%2C_Moon_phases.gif" width="720"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Moon-Earth_distance,_Moon_phases.gif" title="Enlarge">
+          </a>
+         </div>
+         The Moon's distance from the
+         <a href="/wiki/Earth" title="Earth">
+          Earth
+         </a>
+         and
+         <a href="/wiki/Lunar_phase" title="Lunar phase">
+          moon phases
+         </a>
+         in 2014.
+         <br/>
+         Moon phases: 0 (1) -
+         <a href="/wiki/New_moon" title="New moon">
+          new moon
+         </a>
+         , 0.25 - first quarter, 0.5 -
+         <a href="/wiki/Full_moon" title="Full moon">
+          full moon
+         </a>
+         , 0.75 - last quarter.
+        </div>
+       </div>
+      </div>
+      <div class="thumb tnone">
+       <div class="thumbinner" style="width:322px;">
+        <a class="image" href="/wiki/File:Moon%27s_orbit_-_Variation_of_distance_en.png">
+         <img alt="" class="thumbimage" data-file-height="839" data-file-width="1200" height="224" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Moon%27s_orbit_-_Variation_of_distance_en.png/320px-Moon%27s_orbit_-_Variation_of_distance_en.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Moon%27s_orbit_-_Variation_of_distance_en.png/480px-Moon%27s_orbit_-_Variation_of_distance_en.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Moon%27s_orbit_-_Variation_of_distance_en.png/640px-Moon%27s_orbit_-_Variation_of_distance_en.png 2x" width="320"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Moon%27s_orbit_-_Variation_of_distance_en.png" title="Enlarge">
+          </a>
+         </div>
+         Variation of the distance between the centers of the
+         <a href="/wiki/Moon" title="Moon">
+          Moon
+         </a>
+         and the
+         <a href="/wiki/Earth" title="Earth">
+          Earth
+         </a>
+         over 700 days.
+        </div>
+       </div>
+      </div>
+      <h3>
+       <span class="mw-headline" id="Tidal_dissipation">
+        Tidal dissipation
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Lunar_distance_(astronomy)&amp;action=edit&amp;section=4" title="Edit section: Tidal dissipation">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       Through the action of
+       <a class="mw-redirect" href="/wiki/Tidal_forces" title="Tidal forces">
+        tidal forces
+       </a>
+       ,
+       <a href="/wiki/Angular_momentum" title="Angular momentum">
+        angular momentum
+       </a>
+       is slowly being transferred from Earth's rotation to the Moon's orbit. The result is that Earth's rate of spin is imperceptibly decreasing (at a rate of
+       <span class="nowrap">
+        <span class="sortkey" style="display:none">
+         7000229999999999999♠
+        </span>
+        2.3 milliseconds/century
+       </span>
+       ),
+       <sup class="reference" id="cite_ref-space.com_21-0">
+        <a href="#cite_note-space.com-21">
+         [21]
+        </a>
+       </sup>
+       and the lunar orbit is gradually expanding. The current rate of recession is
+       <span class="nowrap">
+        <span class="sortkey" style="display:none">
+         7000380500000000000♠
+        </span>
+        3.805
+        <span style="margin-left:0.3em;margin-right:0.15em;">
+         ±
+        </span>
+        0.004 cm per year
+       </span>
+       .
+       <sup class="reference" id="cite_ref-DE431_20-1">
+        <a href="#cite_note-DE431-20">
+         [20]
+        </a>
+       </sup>
+       However, it is believed that this rate has recently increased, as a rate of
+       <span class="nowrap">
+        <span class="sortkey" style="display:none">
+         6991120417206325883♠
+        </span>
+        3.8 cm/year
+       </span>
+       would imply that the Moon is only 1.5 billion years old, whereas scientific consensus assumes an age of ~4 billion years.
+       <sup class="reference" id="cite_ref-Precambrian_22-0">
+        <a href="#cite_note-Precambrian-22">
+         [22]
+        </a>
+       </sup>
+       It is also believed that this anomalously high rate of recession may continue to accelerate.
+       <sup class="reference" id="cite_ref-Lunar_Orbit_Evolution_23-0">
+        <a href="#cite_note-Lunar_Orbit_Evolution-23">
+         [23]
+        </a>
+       </sup>
+      </p>
+      <p>
+       It is predicted that the lunar distance will continue to increase until the Earth and Moon become
+       <a href="/wiki/Tidal_locking" title="Tidal locking">
+        tidally locked
+       </a>
+       . This would occur when the duration of the lunar orbital period equals the rotational period of Earth. The two bodies will then be at equilibrium, and no further rotational energy will be exchanged. Models predict that 50 billion years would be required to achieve this configuration,
+       <sup class="reference" id="cite_ref-tidal_lock_24-0">
+        <a href="#cite_note-tidal_lock-24">
+         [24]
+        </a>
+       </sup>
+       which is significantly longer than the
+       <a href="/wiki/Red_giant#The_Sun_as_a_red_giant" title="Red giant">
+        expected lifetime of the solar system
+       </a>
+       .
+      </p>
+      <h3>
+       <span class="mw-headline" id="Orbital_history">
+        Orbital history
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Lunar_distance_(astronomy)&amp;action=edit&amp;section=5" title="Edit section: Orbital history">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       The average lunar distance is increasing, which implies that the Moon was closer in the past. There is geological evidence that the average lunar distance was about 52
+       <a href="/wiki/Earth_radius" title="Earth radius">
+        <var>
+         R
+        </var>
+        <sub>
+         ⊕
+        </sub>
+       </a>
+       during the
+       <a href="/wiki/Precambrian" title="Precambrian">
+        Precambrian Era
+       </a>
+       ; 2,500 million years
+       <a href="/wiki/Before_Present" title="Before Present">
+        BP
+       </a>
+       .
+       <sup class="reference" id="cite_ref-Precambrian_22-1">
+        <a href="#cite_note-Precambrian-22">
+         [22]
+        </a>
+       </sup>
+      </p>
+      <p>
+       The
+       <a href="/wiki/Origin_of_the_Moon" title="Origin of the Moon">
+        giant impact hypothesis
+       </a>
+       , a widely accepted theory, states that the Moon was created as a result of a catastrophic impact between another planet and Earth, resulting in a re-accumulation of fragments at an initial distance of 3.8
+       <var>
+        R
+       </var>
+       <sub>
+        ⊕
+       </sub>
+       .
+       <sup class="reference" id="cite_ref-Impact_25-0">
+        <a href="#cite_note-Impact-25">
+         [25]
+        </a>
+       </sup>
+       In this theory, the initial impact is assumed to have occurred 4.5 billion years ago.
+       <sup class="reference" id="cite_ref-TheiaPothesis_26-0">
+        <a href="#cite_note-TheiaPothesis-26">
+         [26]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="History_of_measurement">
+        History of measurement
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Lunar_distance_(astronomy)&amp;action=edit&amp;section=6" title="Edit section: History of measurement">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Until the late 1950s all measurements of lunar distance were based on optical angular measurements. The space age marked a turning point which greatly advanced the precision and accuracy of our knowledge of this value. During the 1950s and 1960s, experiments were conducted that utilized radar, lasers, spacecraft, and computer modeling.
+       <sup class="reference" id="cite_ref-DE_102_27-0">
+        <a href="#cite_note-DE_102-27">
+         [27]
+        </a>
+       </sup>
+      </p>
+      <p>
+       This section is intended to illustrate some of the historically significant or otherwise interesting methods of determining the lunar distance, and is not intended to be an exhaustive or all-encompassing list.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Parallax">
+        Parallax
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Lunar_distance_(astronomy)&amp;action=edit&amp;section=7" title="Edit section: Parallax">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       The oldest method of determining the lunar distance involves measuring the angle between the Moon and a chosen reference point from multiple locations, simultaneously. The synchronization can be coordinated by making measurements at a pre-determined time, or during an event which is observable to all parties. Before accurate mechanical chronometers, the synchronization event was typically a lunar eclipse, or the moment when the moon crossed the meridian (if the observers shared the same longitude). This measurement technique is known as
+       <a href="/wiki/Parallax#Lunar_parallax" title="Parallax">
+        lunar parallax
+       </a>
+       .
+      </p>
+      <p>
+       For increased accuracy, certain systematic errors must be accounted for, such as adjusting the measured angle to account for refraction and distortion of light through the atmosphere.
+      </p>
+      <h4>
+       <span class="mw-headline" id="Lunar_eclipse">
+        Lunar eclipse
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Lunar_distance_(astronomy)&amp;action=edit&amp;section=8" title="Edit section: Lunar eclipse">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h4>
+      <p>
+       Early attempts to measure the distance to the Moon exploited observations of a
+       <a href="/wiki/Lunar_eclipse" title="Lunar eclipse">
+        lunar eclipse
+       </a>
+       combined with knowledge of Earth's radius and an understanding that the Sun is much further than the Moon. By observing the geometry of a
+       <a href="/wiki/Lunar_eclipse" title="Lunar eclipse">
+        lunar eclipse
+       </a>
+       , the lunar distance can be calculated using
+       <a href="/wiki/Trigonometry" title="Trigonometry">
+        trigonometry
+       </a>
+       .
+      </p>
+      <p>
+       The earliest account of an attempt to measure the distance to the Moon using this technique was by the 4th-century-BC Greek astronomer and mathematician
+       <a href="/wiki/Aristarchus_of_Samos" title="Aristarchus of Samos">
+        Aristarchus of Samos
+       </a>
+       <sup class="reference" id="cite_ref-Gutzwiller_28-0">
+        <a href="#cite_note-Gutzwiller-28">
+         [28]
+        </a>
+       </sup>
+       and later by
+       <a href="/wiki/Hipparchus" title="Hipparchus">
+        Hipparchus
+       </a>
+       , whose calculations produced a result of 59-67
+       <var>
+        R
+       </var>
+       <sub>
+        ⊕
+       </sub>
+       .
+       <sup class="reference" id="cite_ref-transit_29-0">
+        <a href="#cite_note-transit-29">
+         [29]
+        </a>
+       </sup>
+       This method later found its way into the work of
+       <a href="/wiki/Ptolemy" title="Ptolemy">
+        Ptolemy
+       </a>
+       ,
+       <sup class="reference" id="cite_ref-Measuring_the_Universe_30-0">
+        <a href="#cite_note-Measuring_the_Universe-30">
+         [30]
+        </a>
+       </sup>
+       who produced a result of ​
+       <span class="frac nowrap">
+        64
+        <span class="visualhide">
+        </span>
+        <sup>
+         1
+        </sup>
+        ⁄
+        <sub>
+         6
+        </sub>
+       </span>
+       <var>
+        R
+       </var>
+       <sub>
+        ⊕
+       </sub>
+       at its farthest point.
+       <sup class="reference" id="cite_ref-Helden_31-0">
+        <a href="#cite_note-Helden-31">
+         [31]
+        </a>
+       </sup>
+      </p>
+      <h4>
+       <span class="mw-headline" id="Meridian_crossing">
+        Meridian crossing
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Lunar_distance_(astronomy)&amp;action=edit&amp;section=9" title="Edit section: Meridian crossing">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h4>
+      <p>
+       An expedition by French astronomer
+       <a href="/wiki/Andrew_Claude_de_la_Cherois_Crommelin" title="Andrew Claude de la Cherois Crommelin">
+        A.C.D Crommelin
+       </a>
+       observed lunar
+       <a href="/wiki/Culmination" title="Culmination">
+        transits
+       </a>
+       through the
+       <a href="/wiki/Meridian_(astronomy)" title="Meridian (astronomy)">
+        meridian
+       </a>
+       (the moment when the Moon
+       <a href="/wiki/Transit_(astronomy)" title="Transit (astronomy)">
+        crosses
+       </a>
+       an imaginary
+       <a href="/wiki/Great_circle" title="Great circle">
+        great circle
+       </a>
+       that passes
+       <a href="/wiki/Zenith" title="Zenith">
+        directly overhead
+       </a>
+       and through the
+       <a href="/wiki/Celestial_pole" title="Celestial pole">
+        celestial poles
+       </a>
+       ) on the same night from two different locations. Careful measurements from 1905 through 1910 measured the angle of elevation at the moment when a specific lunar crater (
+       <a href="/wiki/M%C3%B6sting_(crater)" title="Mösting (crater)">
+        Mösting A
+       </a>
+       ) crossed the meridian, from stations at
+       <a href="/wiki/Greenwich" title="Greenwich">
+        Greenwich
+       </a>
+       and at
+       <a href="/wiki/Cape_of_Good_Hope" title="Cape of Good Hope">
+        Cape of Good Hope
+       </a>
+       , which share nearly the same longitude.
+       <sup class="reference" id="cite_ref-Commelin_32-0">
+        <a href="#cite_note-Commelin-32">
+         [32]
+        </a>
+       </sup>
+       A distance was calculated with an uncertainty of ± 30 km, and remained the definitive lunar distance value for the next half century.
+      </p>
+      <h4>
+       <span class="mw-headline" id="Occultations">
+        Occultations
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Lunar_distance_(astronomy)&amp;action=edit&amp;section=10" title="Edit section: Occultations">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h4>
+      <p>
+       By recording the instant when the Moon
+       <a href="/wiki/Occultation" title="Occultation">
+        occults
+       </a>
+       a background star, (or similarly, measuring the angle between the moon and a background star at a predetermined moment) the lunar distance can be determined, as long as the measurements are taken from multiple locations of known separation.
+      </p>
+      <p>
+       Astronomers
+       <a href="/wiki/John_A._O%27Keefe" title="John A. O'Keefe">
+        O'Keefe
+       </a>
+       and Anderson calculated the lunar distance by observing 4 occultations from 9 locations in 1952.
+       <sup class="reference" id="cite_ref-O'Keefe_33-0">
+        <a href="#cite_note-O'Keefe-33">
+         [33]
+        </a>
+       </sup>
+       They calculated a mean distance of
+       <span class="nowrap">
+        <span class="sortkey" style="display:none">
+         7008384407600000000♠
+        </span>
+        384
+        <span style="margin-left:.25em;">
+         407
+        </span>
+        .6
+        <span style="margin-left:0.3em;margin-right:0.15em;">
+         ±
+        </span>
+        4.7 km
+       </span>
+       , however the value was refined by in 1962 by
+       <a href="/wiki/Irene_Fischer" title="Irene Fischer">
+        Irene Fischer
+       </a>
+       , who incorporated updated
+       <a href="/wiki/Geodesy" title="Geodesy">
+        geodetic
+       </a>
+       data to produce a value of
+       <span class="nowrap">
+        <span class="sortkey" style="display:none">
+         7008384403700000000♠
+        </span>
+        384
+        <span style="margin-left:.25em;">
+         403
+        </span>
+        .7
+        <span style="margin-left:0.3em;margin-right:0.15em;">
+         ±
+        </span>
+        2 km
+       </span>
+       .
+       <sup class="reference" id="cite_ref-Fischer_7-1">
+        <a href="#cite_note-Fischer-7">
+         [7]
+        </a>
+       </sup>
+      </p>
+      <h3>
+       <span class="mw-headline" id="Radar">
+        Radar
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Lunar_distance_(astronomy)&amp;action=edit&amp;section=11" title="Edit section: Radar">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       An experiment was conducted in 1957 at the U.S. Naval Research Laboratory that used the echo from radar signals to determine the Earth-Moon distance. Radar pulses lasting
+       <span class="nowrap">
+        <span class="sortkey" style="display:none">
+         6994200000000000000♠
+        </span>
+        2 μs
+       </span>
+       were broadcast from a
+       <span class="nowrap">
+        <span class="sortkey" style="display:none">
+         7001152400000000000♠
+        </span>
+        50 ft
+       </span>
+       diameter radio dish. After the radio waves echoed off the surface of the Moon, the return signal was detected and the delay time measured. From that measurement, the distance could be calculated. In practice, however, the
+       <a href="/wiki/Signal-to-noise_ratio" title="Signal-to-noise ratio">
+        signal-to-noise ratio
+       </a>
+       was so low that an accurate measurement could not be reliably produced.
+       <sup class="reference" id="cite_ref-Radar1_34-0">
+        <a href="#cite_note-Radar1-34">
+         [34]
+        </a>
+       </sup>
+      </p>
+      <p>
+       The experiment was repeated in 1958 at the
+       <a href="/wiki/Royal_Radar_Establishment" title="Royal Radar Establishment">
+        Royal Radar Establishment
+       </a>
+       , in England. Radar pulses lasting
+       <span class="nowrap">
+        <span class="sortkey" style="display:none">
+         6994499999999999999♠
+        </span>
+        5 μs
+       </span>
+       were transmitted with a peak power of 2 megawatts, at a repetition rate of 260 pulses per second. After the radio waves echoed off the surface of the Moon, the return signal was detected and the delay time measured. Multiple signals were added together to obtain a reliable signal by superimposing oscilloscope traces onto photographic film. From the measurements, the distance was calculated with an uncertainty of
+       <span class="nowrap">
+        <span class="sortkey" style="display:none">
+         7003125000000000000♠
+        </span>
+        1.25 km
+       </span>
+       .
+       <sup class="reference" id="cite_ref-Radar2_35-0">
+        <a href="#cite_note-Radar2-35">
+         [35]
+        </a>
+       </sup>
+      </p>
+      <p>
+       These initial experiments were intended to be proof-of-concept experiments and only lasted one day. Follow-on experiments lasting one month produced a mean value of
+       <span class="nowrap">
+        <span class="sortkey" style="display:none">
+         7008384402000000000♠
+        </span>
+        384
+        <span style="margin-left:.25em;">
+         402
+        </span>
+        <span style="margin-left:0.3em;margin-right:0.15em;">
+         ±
+        </span>
+        1.2 km
+       </span>
+       ,
+       <sup class="reference" id="cite_ref-Radar3_36-0">
+        <a href="#cite_note-Radar3-36">
+         [36]
+        </a>
+       </sup>
+       which was the most accurate measurement of the lunar distance at the time.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Laser_ranging">
+        Laser ranging
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Lunar_distance_(astronomy)&amp;action=edit&amp;section=12" title="Edit section: Laser ranging">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       An experiment which measured the round-trip
+       <a href="/wiki/Time_of_flight" title="Time of flight">
+        time of flight
+       </a>
+       of laser pulses reflected directly off the surface of the Moon was performed in 1962, by a team from
+       <a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">
+        Massachusetts Institute of Technology
+       </a>
+       , and a Soviet team at the
+       <a href="/wiki/Crimean_Astrophysical_Observatory" title="Crimean Astrophysical Observatory">
+        Crimean Astrophysical Observatory
+       </a>
+       .
+       <sup class="reference" id="cite_ref-Lunar_Laser_Ranging_37-0">
+        <a href="#cite_note-Lunar_Laser_Ranging-37">
+         [37]
+        </a>
+       </sup>
+      </p>
+      <p>
+       During the Apollo missions in 1969, astronauts placed
+       <a class="mw-redirect" href="/wiki/Retroreflectors" title="Retroreflectors">
+        retroreflectors
+       </a>
+       on the surface of the Moon for the purpose of refining the accuracy of this technique. The measurements are ongoing and involve multiple laser facilities. The instantaneous accuracy of the
+       <a href="/wiki/Lunar_Laser_Ranging_experiment" title="Lunar Laser Ranging experiment">
+        Lunar Laser Ranging experiments
+       </a>
+       can exceed sub-millimeter resolution, and is the most reliable method of determining the lunar distance, to date.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Amateur_astronomers_and_citizen_scientists">
+        Amateur astronomers and citizen scientists
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Lunar_distance_(astronomy)&amp;action=edit&amp;section=13" title="Edit section: Amateur astronomers and citizen scientists">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       Due to the modern accessibility to accurate timing devices, high resolution digital cameras, GPS receivers, powerful computers and near instantaneous communication, it has become possible for amateur astronomers to make high accuracy measurements of the lunar distance.
+      </p>
+      <p>
+       On May 23, 2007 digital photographs of the Moon during a near-occultation of
+       <a href="/wiki/Regulus" title="Regulus">
+        Regulus
+       </a>
+       were taken from two locations, in Greece and England. By measuring the parallax between the moon and the chosen background star, the lunar distance was calculated.
+       <sup class="reference" id="cite_ref-Citizen1_38-0">
+        <a href="#cite_note-Citizen1-38">
+         [38]
+        </a>
+       </sup>
+      </p>
+      <p>
+       A more ambitious project called the "Aristarchus Campaign" was conducted during the
+       <a href="/wiki/Lunar_eclipse" title="Lunar eclipse">
+        lunar eclipse
+       </a>
+       of 15 April 2014.
+       <sup class="reference" id="cite_ref-Zuluaga_17-1">
+        <a href="#cite_note-Zuluaga-17">
+         [17]
+        </a>
+       </sup>
+       During this event, participants were invited to record a series of 5 digital photographs from moonrise through
+       <a href="/wiki/Culmination" title="Culmination">
+        culmination
+       </a>
+       - the point of greatest altitude. The method took advantage of the fact that the Moon is actually closest to an observer when it is at its highest point in the sky, compared to when it is on the horizon. Although it appears that the Moon is biggest when it is near the horizon, the opposite is true. This phenomenon is known as the
+       <a href="/wiki/Moon_illusion" title="Moon illusion">
+        moon illusion
+       </a>
+       . The reason for the change in distance results from the fact that the distance from the center of the Moon to the center of Earth is nearly constant throughout the night, but an observer on the surface of Earth is actually 1 Earth radius from the center of Earth. This offset brings them closest to the Moon when it is overhead.
+      </p>
+      <p>
+       Modern cameras have now reached the resolution level capable of capturing the Moon with a precision enough to perceive and more importantly to measure this tiny variation in apparent size. The results of this experiment were calculated as LD =
+       <span class="nowrap">
+        <span class="sortkey" style="display:none">
+         7001605100000000000♠
+        </span>
+        60.51
+        <span style="margin-left:0.3em;">
+         <span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:85%;text-align:right;">
+          +3.91
+          <br/>
+          −4.19
+         </span>
+        </span>
+       </span>
+       <var>
+        R
+       </var>
+       <sub>
+        ⊕
+       </sub>
+       . The accepted value for that night was 60.61, which implied a
+       <span class="sortkey" style="display:none">
+        7000300000000000000♠
+       </span>
+       3% accuracy. The benefit of this method is that the only measuring equipment needed is a modern digital camera (equipped with an accurate clock, and GPS receiver).
+      </p>
+      <p>
+       Other experimental methods of measuring the lunar distance that can be performed by amateur astronomers involve:
+      </p>
+      <ul>
+       <li>
+        Taking pictures of the Moon before it enters into the penumbra and after it is completely eclipsed.
+       </li>
+       <li>
+        Measuring, as precise as possible, the time of the eclipse contacts.
+       </li>
+       <li>
+        Taking good pictures of the partial eclipse when the shape and size of the Earth shadow is clearly visible.
+       </li>
+       <li>
+        Taking a picture of the Moon including in the same field of view, Spica and Mars - from various locations.
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Lunar_distance_(astronomy)&amp;action=edit&amp;section=14" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a href="/wiki/Astronomical_unit" title="Astronomical unit">
+         Astronomical unit
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Ephemeris" title="Ephemeris">
+         Ephemeris
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Jet_Propulsion_Laboratory_Development_Ephemeris" title="Jet Propulsion Laboratory Development Ephemeris">
+         Jet Propulsion Laboratory Development Ephemeris
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Lunar_Laser_Ranging_Experiment" title="Lunar Laser Ranging Experiment">
+         Lunar Laser Ranging Experiment
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Lunar_theory" title="Lunar theory">
+         Lunar theory
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/On_the_Sizes_and_Distances_(Aristarchus)" title="On the Sizes and Distances (Aristarchus)">
+         On the Sizes and Distances (Aristarchus)
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Orbit_of_the_Moon" title="Orbit of the Moon">
+         Orbit of the Moon
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Prutenic_Tables" title="Prutenic Tables">
+         The Prutenic Tables of Erasmus Reinhold
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Supermoon" title="Supermoon">
+         Supermoon
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Lunar_distance_(astronomy)&amp;action=edit&amp;section=15" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a class="external text" href="http://www.wolframalpha.com/widgets/view.jsp?id=8618ef756ac52a32062790f016d40230" rel="nofollow">
+         Wolfram Alpha widget - Current distance moon earth
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Lunar_distance_(astronomy)&amp;action=edit&amp;section=16" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist" style="list-style-type: decimal;">
+       <div class="mw-references-wrap mw-references-columns">
+        <ol class="references">
+         <li id="cite_note-Groten-1">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-Groten_1-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Groten, Erwin (1 April 2004).
+            <a class="external text" href="http://www.iag-aig.org/attach/e354a3264d1e420ea0a9920fe762f2a0/51-groten.pdf" rel="nofollow">
+             "Fundamental Parameters and Current (2004) Best Estimates of the Parameters of Common Relevance to Astronomy, Geodesy, and Geodynamics by Erwin Groten, IPGD, Darmstadt"
+            </a>
+            <span style="font-size:85%;">
+             (PDF)
+            </span>
+            .
+            <i>
+             Journal of Geodesy
+            </i>
+            .
+            <b>
+             77
+            </b>
+            (10–11): 724–797.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/2004JGeod..77..724." rel="nofollow">
+             2004JGeod..77..724.
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1007%2Fs00190-003-0373-y" rel="nofollow">
+             10.1007/s00190-003-0373-y
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              2 March
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Geodesy&amp;rft.atitle=Fundamental+Parameters+and+Current+%282004%29+Best+Estimates+of+the+Parameters+of+Common+Relevance+to+Astronomy%2C+Geodesy%2C+and+Geodynamics+by+Erwin+Groten%2C+IPGD%2C+Darmstadt&amp;rft.volume=77&amp;rft.issue=10%E2%80%9311&amp;rft.pages=724-797&amp;rft.date=2004-04-01&amp;rft_id=info%3Adoi%2F10.1007%2Fs00190-003-0373-y&amp;rft_id=info%3Abibcode%2F2004JGeod..77..724.&amp;rft.aulast=Groten&amp;rft.aufirst=Erwin&amp;rft_id=http%3A%2F%2Fwww.iag-aig.org%2Fattach%2Fe354a3264d1e420ea0a9920fe762f2a0%2F51-groten.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+distance+%28astronomy%29">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-Apache_Point-2">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-Apache_Point_2-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-Apache_Point_2-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-Apache_Point_2-2">
+            <sup>
+             <i>
+              <b>
+               c
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-Apache_Point_2-3">
+            <sup>
+             <i>
+              <b>
+               d
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-Apache_Point_2-4">
+            <sup>
+             <i>
+              <b>
+               e
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Battat, J. B. R.; Murphy, T. W.; Adelberger, E. G. (January 2009).
+            <a class="external text" href="http://iopscience.iop.org/article/10.1086/596748/pdf" rel="nofollow">
+             "The Apache Point Observatory Lunar Laser-ranging Operation (APOLLO): Two Years of Millimeter-Precision Measurements of the Earth-Moon Range"
+            </a>
+            .
+            <i>
+             Astronomical Society of the Pacific
+            </i>
+            .
+            <b>
+             121
+            </b>
+            (875): 29–40.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/2009PASP..121...29B" rel="nofollow">
+             2009PASP..121...29B
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <span class="plainlinks">
+             <a class="external text" href="//doi.org/10.1086%2F596748" rel="nofollow">
+              10.1086/596748
+             </a>
+             <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/>
+            </span>
+            .
+            <a href="/wiki/JSTOR" title="JSTOR">
+             JSTOR
+            </a>
+            <a class="external text" href="//www.jstor.org/stable/10.1086/596748" rel="nofollow">
+             10.1086/596748
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Astronomical+Society+of+the+Pacific&amp;rft.atitle=The+Apache+Point+Observatory+Lunar+Laser-ranging+Operation+%28APOLLO%29%3A+Two+Years+of+Millimeter-Precision+Measurements+of+the+Earth-Moon+Range&amp;rft.volume=121&amp;rft.issue=875&amp;rft.pages=29-40&amp;rft.date=2009-01&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F10.1086%2F596748&amp;rft_id=info%3Adoi%2F10.1086%2F596748&amp;rft_id=info%3Abibcode%2F2009PASP..121...29B&amp;rft.aulast=Battat&amp;rft.aufirst=J.+B.+R.&amp;rft.au=Murphy%2C+T.+W.&amp;rft.au=Adelberger%2C+E.+G.&amp;rft_id=http%3A%2F%2Fiopscience.iop.org%2Farticle%2F10.1086%2F596748%2Fpdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+distance+%28astronomy%29">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-millimeter_challenge-3">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-millimeter_challenge_3-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-millimeter_challenge_3-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Murphy, T W (1 July 2013).
+            <a class="external text" href="http://physics.ucsd.edu/~tmurphy/papers/rop-llr.pdf" rel="nofollow">
+             "Lunar laser ranging: the millimeter challenge"
+            </a>
+            <span style="font-size:85%;">
+             (PDF)
+            </span>
+            .
+            <i>
+             Reports on Progress in Physics
+            </i>
+            .
+            <b>
+             76
+            </b>
+            (7): 2.
+            <a href="/wiki/ArXiv" title="ArXiv">
+             arXiv
+            </a>
+            :
+            <span class="plainlinks">
+             <a class="external text" href="//arxiv.org/abs/1309.6294" rel="nofollow">
+              1309.6294
+             </a>
+             <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/>
+            </span>
+            [
+            <a class="external text" href="//arxiv.org/archive/gr-qc" rel="nofollow">
+             gr-qc
+            </a>
+            ].
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/2013RPPh...76g6901M" rel="nofollow">
+             2013RPPh...76g6901M
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1088%2F0034-4885%2F76%2F7%2F076901" rel="nofollow">
+             10.1088/0034-4885/76/7/076901
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Reports+on+Progress+in+Physics&amp;rft.atitle=Lunar+laser+ranging%3A+the+millimeter+challenge&amp;rft.volume=76&amp;rft.issue=7&amp;rft.pages=2&amp;rft.date=2013-07-01&amp;rft_id=info%3Aarxiv%2F1309.6294&amp;rft_id=info%3Adoi%2F10.1088%2F0034-4885%2F76%2F7%2F076901&amp;rft_id=info%3Abibcode%2F2013RPPh...76g6901M&amp;rft.aulast=Murphy&amp;rft.aufirst=T+W&amp;rft_id=http%3A%2F%2Fphysics.ucsd.edu%2F~tmurphy%2Fpapers%2Frop-llr.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+distance+%28astronomy%29">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-NEO-4">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-NEO_4-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://web.archive.org/web/20140307125729/http://neo.jpl.nasa.gov/ca/" rel="nofollow">
+             "NEO Earth Close Approaches"
+            </a>
+            .
+            <i>
+             Neo.jpl.nasa.gov
+            </i>
+            . Archived from
+            <a class="external text" href="http://neo.jpl.nasa.gov/ca/" rel="nofollow">
+             the original
+            </a>
+            on 2014-03-07
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              2016-02-22
+             </span>
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Neo.jpl.nasa.gov&amp;rft.atitle=NEO+Earth+Close+Approaches&amp;rft_id=http%3A%2F%2Fneo.jpl.nasa.gov%2Fca%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+distance+%28astronomy%29">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-5">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-5">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Williams, J. G.; Newhall, X. X.; Dickey, J. O. (15 June 1996).
+            <a class="external text" href="http://physics.ucsd.edu/~tmurphy/apollo/doc/JGW96.pdf" rel="nofollow">
+             "Relativity parameters determined from lunar laser ranging"
+            </a>
+            <span style="font-size:85%;">
+             (PDF)
+            </span>
+            .
+            <i>
+             Physical Review D
+            </i>
+            .
+            <b>
+             53
+            </b>
+            (12): 6730–6739.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/1996PhRvD..53.6730W" rel="nofollow">
+             1996PhRvD..53.6730W
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1103%2FPhysRevD.53.6730" rel="nofollow">
+             10.1103/PhysRevD.53.6730
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Physical+Review+D&amp;rft.atitle=Relativity+parameters+determined+from+lunar+laser+ranging&amp;rft.volume=53&amp;rft.issue=12&amp;rft.pages=6730-6739&amp;rft.date=1996-06-15&amp;rft_id=info%3Adoi%2F10.1103%2FPhysRevD.53.6730&amp;rft_id=info%3Abibcode%2F1996PhRvD..53.6730W&amp;rft.aulast=Williams&amp;rft.aufirst=J.+G.&amp;rft.au=Newhall%2C+X.+X.&amp;rft.au=Dickey%2C+J.+O.&amp;rft_id=http%3A%2F%2Fphysics.ucsd.edu%2F~tmurphy%2Fapollo%2Fdoc%2FJGW96.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+distance+%28astronomy%29">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-moonbounce-6">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-moonbounce_6-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Shuch, H. Paul (July 1991).
+            <a class="external text" href="http://www.setileague.org/articles/ham/masserth.pdf" rel="nofollow">
+             "Measuring the mass of the earth: the ultimate moonbounce experiment"
+            </a>
+            <span style="font-size:85%;">
+             (PDF)
+            </span>
+            .
+            <i>
+             Proceedings, 25th Conference of the Central States VHF Society
+            </i>
+            . American Radio Relay League: 25–30
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              28 February
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Proceedings%2C+25th+Conference+of+the+Central+States+VHF+Society&amp;rft.atitle=Measuring+the+mass+of+the+earth%3A+the+ultimate+moonbounce+experiment&amp;rft.pages=25-30&amp;rft.date=1991-07&amp;rft.aulast=Shuch&amp;rft.aufirst=H.+Paul&amp;rft_id=http%3A%2F%2Fwww.setileague.org%2Farticles%2Fham%2Fmasserth.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+distance+%28astronomy%29">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-Fischer-7">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-Fischer_7-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-Fischer_7-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Fischer, Irene (August 1962).
+            <a class="external text" href="http://articles.adsabs.harvard.edu/cgi-bin/nph-iarticle_query?db_key=AST&amp;bibcode=1962aj.....67..373f&amp;letter=0&amp;classic=YES&amp;defaultprint=YES&amp;whole_paper=YES&amp;page=374&amp;epage=374&amp;send=Send+PDF&amp;filetype=.pdf" rel="nofollow">
+             "Parallax of the moon in terms of a world geodetic system"
+            </a>
+            <span style="font-size:85%;">
+             (PDF)
+            </span>
+            .
+            <i>
+             The Astronomical Journal
+            </i>
+            .
+            <b>
+             67
+            </b>
+            : 373.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/1962AJ.....67..373F" rel="nofollow">
+             1962AJ.....67..373F
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1086%2F108742" rel="nofollow">
+             10.1086/108742
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Astronomical+Journal&amp;rft.atitle=Parallax+of+the+moon+in+terms+of+a+world+geodetic+system&amp;rft.volume=67&amp;rft.pages=373&amp;rft.date=1962-08&amp;rft_id=info%3Adoi%2F10.1086%2F108742&amp;rft_id=info%3Abibcode%2F1962AJ.....67..373F&amp;rft.aulast=Fischer&amp;rft.aufirst=Irene&amp;rft_id=http%3A%2F%2Farticles.adsabs.harvard.edu%2Fcgi-bin%2Fnph-iarticle_query%3Fdb_key%3DAST%26bibcode%3D1962aj.....67..373f%26letter%3D0%26classic%3DYES%26defaultprint%3DYES%26whole_paper%3DYES%26page%3D374%26epage%3D374%26send%3DSend%2BPDF%26filetype%3D.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+distance+%28astronomy%29">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-LLR-8">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-LLR_8-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Dickey, J. O.; Bender, P. L.; et al. (22 July 1994).
+            <a class="external text" href="http://www.physics.ucsd.edu/~tmurphy/apollo/doc/Dickey.pdf" rel="nofollow">
+             "Lunar Laser Ranging: A Continuing Legacy of the Apollo Program"
+            </a>
+            <span style="font-size:85%;">
+             (PDF)
+            </span>
+            .
+            <i>
+             Science
+            </i>
+            .
+            <b>
+             265
+            </b>
+            (5171): 482–490.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/1994Sci...265..482D" rel="nofollow">
+             1994Sci...265..482D
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1126%2Fscience.265.5171.482" rel="nofollow">
+             10.1126/science.265.5171.482
+            </a>
+            .
+            <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">
+             PMID
+            </a>
+            <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/17781305" rel="nofollow">
+             17781305
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Science&amp;rft.atitle=Lunar+Laser+Ranging%3A+A+Continuing+Legacy+of+the+Apollo+Program&amp;rft.volume=265&amp;rft.issue=5171&amp;rft.pages=482-490&amp;rft.date=1994-07-22&amp;rft_id=info%3Apmid%2F17781305&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.265.5171.482&amp;rft_id=info%3Abibcode%2F1994Sci...265..482D&amp;rft.aulast=Dickey&amp;rft.aufirst=J.+O.&amp;rft.au=Bender%2C+P.+L.&amp;rft.au=Faller%2C+J.+E.&amp;rft.au=Newhall%2C+X+X&amp;rft.au=Ricklefs%2C+R.+L.&amp;rft.au=Ries%2C+J.+G.&amp;rft.au=Shelus%2C+P.+J.&amp;rft.au=Veillet%2C+C.&amp;rft.au=Whipple%2C+A.+L.&amp;rft.au=Wiant%2C+J.+R.&amp;rft.au=Williams%2C+J.+G.&amp;rft.au=Yoder%2C+C.+F.&amp;rft_id=http%3A%2F%2Fwww.physics.ucsd.edu%2F~tmurphy%2Fapollo%2Fdoc%2FDickey.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+distance+%28astronomy%29">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-9">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-9">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://curious.astro.cornell.edu/about-us/37-our-solar-system/the-moon/the-moon-and-the-earth/111-is-the-moon-moving-away-from-the-earth-when-was-this-discovered-intermediate" rel="nofollow">
+             "Is the Moon moving away from the Earth? When was this discovered? (Intermediate) - Curious About Astronomy? Ask an Astronomer"
+            </a>
+            .
+            <i>
+             Curious.astro.cornell.edu
+            </i>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              2016-02-22
+             </span>
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Curious.astro.cornell.edu&amp;rft.atitle=Is+the+Moon+moving+away+from+the+Earth%3F+When+was+this+discovered%3F+%28Intermediate%29+-+Curious+About+Astronomy%3F+Ask+an+Astronomer&amp;rft_id=http%3A%2F%2Fcurious.astro.cornell.edu%2Fabout-us%2F37-our-solar-system%2Fthe-moon%2Fthe-moon-and-the-earth%2F111-is-the-moon-moving-away-from-the-earth-when-was-this-discovered-intermediate&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+distance+%28astronomy%29">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-10">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-10">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            C.D. Murray &amp; S.F. Dermott (1999).
+            <i>
+             Solar System Dynamics
+            </i>
+            . Cambridge University Press. p. 184.
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Solar+System+Dynamics&amp;rft.pages=184&amp;rft.pub=Cambridge+University+Press&amp;rft.date=1999&amp;rft.au=C.D.+Murray+%26+S.F.+Dermott&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+distance+%28astronomy%29">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-11">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-11">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            <a href="/wiki/Terence_Dickinson" title="Terence Dickinson">
+             Dickinson, Terence
+            </a>
+            (1993).
+            <i>
+             From the Big Bang to Planet X
+            </i>
+            . Camden East, Ontario:
+            <a class="mw-redirect" href="/wiki/Camden_House" title="Camden House">
+             Camden House
+            </a>
+            . pp. 79–81.
+            <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+             ISBN
+            </a>
+            <a href="/wiki/Special:BookSources/0-921820-71-2" title="Special:BookSources/0-921820-71-2">
+             0-921820-71-2
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=From+the+Big+Bang+to+Planet+X&amp;rft.place=Camden+East%2C+Ontario&amp;rft.pages=79-81&amp;rft.pub=Camden+House&amp;rft.date=1993&amp;rft.isbn=0-921820-71-2&amp;rft.aulast=Dickinson&amp;rft.aufirst=Terence&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+distance+%28astronomy%29">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-12">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-12">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://eclipse.gsfc.nasa.gov/SEhelp/ApolloLaser.html" rel="nofollow">
+             "NASA - Accuracy of Eclipse Predictions"
+            </a>
+            .
+            <i>
+             Eclipse.gsfc.nasa.gov
+            </i>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              2016-02-22
+             </span>
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Eclipse.gsfc.nasa.gov&amp;rft.atitle=NASA+-+Accuracy+of+Eclipse+Predictions&amp;rft_id=http%3A%2F%2Feclipse.gsfc.nasa.gov%2FSEhelp%2FApolloLaser.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+distance+%28astronomy%29">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-13">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-13">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.physics.ucsd.edu/~tmurphy/apollo/lrrr.html" rel="nofollow">
+             "Lunar Retroreflectors"
+            </a>
+            .
+            <i>
+             Physics.ucsd.edu
+            </i>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              2016-02-22
+             </span>
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Physics.ucsd.edu&amp;rft.atitle=Lunar+Retroreflectors&amp;rft_id=http%3A%2F%2Fwww.physics.ucsd.edu%2F~tmurphy%2Fapollo%2Flrrr.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+distance+%28astronomy%29">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-Dream_of_West-14">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-Dream_of_West_14-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            Lasater, A. Brian (2007).
+            <a class="external text" href="https://books.google.com/books?id=_BQHPD0RNe4C&amp;pg=PA185&amp;lpg=PA185&amp;dq=lunar+distance+60.32&amp;source=bl&amp;ots=EeGYgtGg6g&amp;sig=oHt3A-Dizm1WO_zxcOR5OVQIx3w&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwjxppDz_5nLAhUExmMKHblfBzsQ6AEINDAE#v=onepage&amp;q=lunar%20distance%2060.32&amp;f=false" rel="nofollow">
+             <i>
+              The dream of the West : the ancient heritage and the European achievement in map-making, navigation and science, 1487-1727
+             </i>
+            </a>
+            . Morrisville: Lulu Enterprises. p. 185.
+            <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+             ISBN
+            </a>
+            <a href="/wiki/Special:BookSources/978-1-4303-1382-3" title="Special:BookSources/978-1-4303-1382-3">
+             978-1-4303-1382-3
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              28 February
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+dream+of+the+West+%3A+the+ancient+heritage+and+the+European+achievement+in+map-making%2C+navigation+and+science%2C+1487-1727&amp;rft.place=Morrisville&amp;rft.pages=185&amp;rft.pub=Lulu+Enterprises&amp;rft.date=2007&amp;rft.isbn=978-1-4303-1382-3&amp;rft.aulast=Lasater&amp;rft.aufirst=A.+Brian&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D_BQHPD0RNe4C%26pg%3DPA185%26lpg%3DPA185%26dq%3Dlunar%2Bdistance%2B60.32%26source%3Dbl%26ots%3DEeGYgtGg6g%26sig%3DoHt3A-Dizm1WO_zxcOR5OVQIx3w%26hl%3Den%26sa%3DX%26ved%3D0ahUKEwjxppDz_5nLAhUExmMKHblfBzsQ6AEINDAE%23v%3Donepage%26q%3Dlunar%2520distance%252060.32%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+distance+%28astronomy%29">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-Sea's_Edge-15">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-Sea's_Edge_15-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            Leslie, William T. Fox ; illustrated by Clare Walker (1983).
+            <i>
+             At the sea's edge : an introduction to coastal oceanography for the amateur naturalist
+            </i>
+            . Englewood Cliffs, N.J.: Prentice-Hall. p. 101.
+            <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+             ISBN
+            </a>
+            <a href="/wiki/Special:BookSources/978-0130497833" title="Special:BookSources/978-0130497833">
+             978-0130497833
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=At+the+sea%27s+edge+%3A+an+introduction+to+coastal+oceanography+for+the+amateur+naturalist&amp;rft.place=Englewood+Cliffs%2C+N.J.&amp;rft.pages=101&amp;rft.pub=Prentice-Hall&amp;rft.date=1983&amp;rft.isbn=978-0130497833&amp;rft.aulast=Leslie&amp;rft.aufirst=William+T.+Fox+%3B+illustrated+by+Clare+Walker&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+distance+%28astronomy%29">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-Fact_Sheet-16">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-Fact_Sheet_16-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            Williams, Dr. David R. (18 November 2015).
+            <a class="external text" href="http://nssdc.gsfc.nasa.gov/planetary/factsheet/planet_table_ratio.html" rel="nofollow">
+             "Planetary Fact Sheet - Ratio to Earth Values"
+            </a>
+            . NASA Goddard Space Flight Center
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              28 February
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Planetary+Fact+Sheet+-+Ratio+to+Earth+Values&amp;rft.pub=NASA+Goddard+Space+Flight+Center&amp;rft.date=2015-11-18&amp;rft.aulast=Williams&amp;rft.aufirst=Dr.+David+R.&amp;rft_id=http%3A%2F%2Fnssdc.gsfc.nasa.gov%2Fplanetary%2Ffactsheet%2Fplanet_table_ratio.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+distance+%28astronomy%29">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-Zuluaga-17">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-Zuluaga_17-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-Zuluaga_17-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Zuluaga, Jorge I.; Figueroa, Juan C.; Ferrin, Ignacio (19 May 2014). "The simplest method to measure the geocentric lunar distance: a case of citizen science": (page needed).
+            <a href="/wiki/ArXiv" title="ArXiv">
+             arXiv
+            </a>
+            :
+            <span class="plainlinks">
+             <a class="external text" href="//arxiv.org/abs/1405.4580" rel="nofollow">
+              1405.4580
+             </a>
+             <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/>
+            </span>
+            .
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/2014arXiv1405.4580Z" rel="nofollow">
+             2014arXiv1405.4580Z
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The+simplest+method+to+measure+the+geocentric+lunar+distance%3A+a+case+of+citizen+science&amp;rft.pages=%28page+needed%29&amp;rft.date=2014-05-19&amp;rft_id=info%3Aarxiv%2F1405.4580&amp;rft_id=info%3Abibcode%2F2014arXiv1405.4580Z&amp;rft.aulast=Zuluaga&amp;rft.aufirst=Jorge+I.&amp;rft.au=Figueroa%2C+Juan+C.&amp;rft.au=Ferrin%2C+Ignacio&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+distance+%28astronomy%29">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-APOLLO_Analysis-18">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-APOLLO_Analysis_18-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-APOLLO_Analysis_18-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           <cite class="citation arxiv">
+            Reasenberg, R.D.; Chandler, J.F.; et al. "Modeling and Analysis of the APOLLO Lunar Laser Ranging Data".
+            <a href="/wiki/ArXiv" title="ArXiv">
+             arXiv
+            </a>
+            :
+            <span class="plainlinks">
+             <a class="external text" href="//arxiv.org/abs/1608.04758" rel="nofollow">
+              1608.04758
+             </a>
+             <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/>
+            </span>
+            [
+            <a class="external text" href="//arxiv.org/archive/astro-ph.IM" rel="nofollow">
+             astro-ph.IM
+            </a>
+            ].
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=preprint&amp;rft.jtitle=arXiv&amp;rft.atitle=Modeling+and+Analysis+of+the+APOLLO+Lunar+Laser+Ranging+Data&amp;rft_id=info%3Aarxiv%2F1608.04758&amp;rft.aulast=Reasenberg&amp;rft.aufirst=R.D.&amp;rft.au=Chandler%2C+J.F.&amp;rft.au=Colmenares%2C+N.R.&amp;rft.au=Johnson%2C+N.H.&amp;rft.au=Murphy%2C+T.W.&amp;rft.au=Shapiro%2C+I.I.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+distance+%28astronomy%29">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-integration-19">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-integration_19-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-integration_19-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Vitagliano, Aldo (1997).
+            <a class="external text" href="http://articles.adsabs.harvard.edu/cgi-bin/nph-iarticle_query?db_key=AST&amp;bibcode=1997CeMDA..66..293V&amp;letter=0&amp;classic=YES&amp;defaultprint=YES&amp;whole_paper=YES&amp;page=293&amp;epage=293&amp;send=Send+PDF&amp;filetype=.pdf" rel="nofollow">
+             "Numerical integration for the real time production of fundamental ephemerides over a wide time span"
+            </a>
+            <span style="font-size:85%;">
+             (PDF)
+            </span>
+            .
+            <i>
+             Celestial Mechanics and Dynamical Astronomy
+            </i>
+            .
+            <b>
+             66
+            </b>
+            (3): 293–308.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/1996CeMDA..66..293V" rel="nofollow">
+             1996CeMDA..66..293V
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1007%2FBF00049383" rel="nofollow">
+             10.1007/BF00049383
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Celestial+Mechanics+and+Dynamical+Astronomy&amp;rft.atitle=Numerical+integration+for+the+real+time+production+of+fundamental+ephemerides+over+a+wide+time+span&amp;rft.volume=66&amp;rft.issue=3&amp;rft.pages=293-308&amp;rft.date=1997&amp;rft_id=info%3Adoi%2F10.1007%2FBF00049383&amp;rft_id=info%3Abibcode%2F1996CeMDA..66..293V&amp;rft.aulast=Vitagliano&amp;rft.aufirst=Aldo&amp;rft_id=http%3A%2F%2Farticles.adsabs.harvard.edu%2Fcgi-bin%2Fnph-iarticle_query%3Fdb_key%3DAST%26bibcode%3D1997CeMDA..66..293V%26letter%3D0%26classic%3DYES%26defaultprint%3DYES%26whole_paper%3DYES%26page%3D293%26epage%3D293%26send%3DSend%2BPDF%26filetype%3D.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+distance+%28astronomy%29">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-DE431-20">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-DE431_20-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-DE431_20-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Folkner, W. M.; Williams, J. G.; et al. (February 2014).
+            <a class="external text" href="http://ilrs.gsfc.nasa.gov/docs/2014/196C.pdf" rel="nofollow">
+             "The Planetary and Lunar Ephemerides DE430 and DE431"
+            </a>
+            <span style="font-size:85%;">
+             (PDF)
+            </span>
+            .
+            <i>
+             The Interplanetary Network Progress Report
+            </i>
+            . 42-169.
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Interplanetary+Network+Progress+Report&amp;rft.atitle=The+Planetary+and+Lunar+Ephemerides+DE430+and+DE431&amp;rft.volume=42-169&amp;rft.date=2014-02&amp;rft.aulast=Folkner&amp;rft.aufirst=W.+M.&amp;rft.au=Williams%2C+J.+G.&amp;rft.au=Boggs%2C+D.+H.&amp;rft.au=Park%2C+R.+S.&amp;rft.au=Kuchynka%2C+P.&amp;rft_id=http%3A%2F%2Filrs.gsfc.nasa.gov%2Fdocs%2F2014%2F196C.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+distance+%28astronomy%29">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-space.com-21">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-space.com_21-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            Choi, Charles Q. (19 November 2014).
+            <a class="external text" href="http://www.space.com/55-earths-moon-formation-composition-and-orbit.html" rel="nofollow">
+             "Moon Facts: Fun Information About the Earth's Moon"
+            </a>
+            .
+            <i>
+             Space.com
+            </i>
+            . TechMediaNetworks, Inc
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              3 March
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Space.com&amp;rft.atitle=Moon+Facts%3A+Fun+Information+About+the+Earth%E2%80%99s+Moon&amp;rft.date=2014-11-19&amp;rft.aulast=Choi&amp;rft.aufirst=Charles+Q.&amp;rft_id=http%3A%2F%2Fwww.space.com%2F55-earths-moon-formation-composition-and-orbit.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+distance+%28astronomy%29">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-Precambrian-22">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-Precambrian_22-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-Precambrian_22-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Walker, James C. G.; Zahnle, Kevin J. (17 April 1986). "Lunar nodal tide and distance to the Moon during the Precambrian".
+            <i>
+             Nature
+            </i>
+            .
+            <b>
+             320
+            </b>
+            (6063): 600–602.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/1986Natur.320..600W" rel="nofollow">
+             1986Natur.320..600W
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1038%2F320600a0" rel="nofollow">
+             10.1038/320600a0
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nature&amp;rft.atitle=Lunar+nodal+tide+and+distance+to+the+Moon+during+the+Precambrian&amp;rft.volume=320&amp;rft.issue=6063&amp;rft.pages=600-602&amp;rft.date=1986-04-17&amp;rft_id=info%3Adoi%2F10.1038%2F320600a0&amp;rft_id=info%3Abibcode%2F1986Natur.320..600W&amp;rft.aulast=Walker&amp;rft.aufirst=James+C.+G.&amp;rft.au=Zahnle%2C+Kevin+J.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+distance+%28astronomy%29">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-Lunar_Orbit_Evolution-23">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-Lunar_Orbit_Evolution_23-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation" id="CITEREFBills,_B.G.Ray,_R.D.1999">
+            Bills, B.G. &amp; Ray, R.D. (1999),
+            <a class="external text" href="http://onlinelibrary.wiley.com/doi/10.1029/1999GL008348/pdf" rel="nofollow">
+             "Lunar Orbital Evolution: A Synthesis of Recent Results"
+            </a>
+            ,
+            <i>
+             Geophysical Research Letters
+            </i>
+            ,
+            <b>
+             26
+            </b>
+            (19): 3045–3048,
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/1999GeoRL..26.3045B" rel="nofollow">
+             1999GeoRL..26.3045B
+            </a>
+            ,
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1029%2F1999GL008348" rel="nofollow">
+             10.1029/1999GL008348
+            </a>
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Geophysical+Research+Letters&amp;rft.atitle=Lunar+Orbital+Evolution%3A+A+Synthesis+of+Recent+Results&amp;rft.volume=26&amp;rft.issue=19&amp;rft.pages=3045-3048&amp;rft.date=1999&amp;rft_id=info%3Adoi%2F10.1029%2F1999GL008348&amp;rft_id=info%3Abibcode%2F1999GeoRL..26.3045B&amp;rft.au=Bills%2C+B.G.&amp;rft.au=Ray%2C+R.D.&amp;rft_id=http%3A%2F%2Fonlinelibrary.wiley.com%2Fdoi%2F10.1029%2F1999GL008348%2Fpdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+distance+%28astronomy%29">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-tidal_lock-24">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-tidal_lock_24-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            Cain, Fraser.
+            <a class="external text" href="http://www.universetoday.com/128350/will-earth-lock-moon/" rel="nofollow">
+             "WHEN WILL EARTH LOCK TO THE MOON?"
+            </a>
+            .
+            <i>
+             Universe Today
+            </i>
+            . Universe Today
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              1 September
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Universe+Today&amp;rft.atitle=WHEN+WILL+EARTH+LOCK+TO+THE+MOON%3F&amp;rft.aulast=Cain&amp;rft.aufirst=Fraser&amp;rft_id=http%3A%2F%2Fwww.universetoday.com%2F128350%2Fwill-earth-lock-moon%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+distance+%28astronomy%29">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-Impact-25">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-Impact_25-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Canup, R. M. (17 October 2012). "Forming a Moon with an Earth-like Composition via a Giant Impact".
+            <i>
+             Science
+            </i>
+            .
+            <b>
+             338
+            </b>
+            (6110): 1052–1055.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/2012Sci...338.1052C" rel="nofollow">
+             2012Sci...338.1052C
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1126%2Fscience.1226073" rel="nofollow">
+             10.1126/science.1226073
+            </a>
+            .
+            <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">
+             PMID
+            </a>
+            <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/23076098" rel="nofollow">
+             23076098
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Science&amp;rft.atitle=Forming+a+Moon+with+an+Earth-like+Composition+via+a+Giant+Impact&amp;rft.volume=338&amp;rft.issue=6110&amp;rft.pages=1052-1055&amp;rft.date=2012-10-17&amp;rft_id=info%3Apmid%2F23076098&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.1226073&amp;rft_id=info%3Abibcode%2F2012Sci...338.1052C&amp;rft.aulast=Canup&amp;rft.aufirst=R.+M.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+distance+%28astronomy%29">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-TheiaPothesis-26">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-TheiaPothesis_26-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.dailygalaxy.com/my_weblog/2007/07/the-theia-hypot.html" rel="nofollow">
+             "The Theia Hypothesis: New Evidence Emerges that Earth and Moon Were Once the Same"
+            </a>
+            . The Daily Galaxy. 2007-07-05
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              2013-11-13
+             </span>
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Theia+Hypothesis%3A+New+Evidence+Emerges+that+Earth+and+Moon+Were+Once+the+Same&amp;rft.pub=The+Daily+Galaxy&amp;rft.date=2007-07-05&amp;rft_id=http%3A%2F%2Fwww.dailygalaxy.com%2Fmy_weblog%2F2007%2F07%2Fthe-theia-hypot.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+distance+%28astronomy%29">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-DE_102-27">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-DE_102_27-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Newhall, X.X; Standish, E.M; Williams, J. G. (Aug 1983).
+            <a class="external text" href="http://articles.adsabs.harvard.edu/full/1983A%26A...125..150N?iframe=true&amp;width=100%&amp;height=100%" rel="nofollow">
+             "DE 102 - A numerically integrated ephemeris of the moon and planets spanning forty-four centuries"
+            </a>
+            .
+            <i>
+             Astronomy and Astrophysics
+            </i>
+            .
+            <b>
+             125
+            </b>
+            (1): 150–167.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/1983A&amp;A...125..150N" rel="nofollow">
+             1983A&amp;A...125..150N
+            </a>
+            .
+            <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">
+             ISSN
+            </a>
+            <a class="external text" href="//www.worldcat.org/issn/0004-6361" rel="nofollow">
+             0004-6361
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              28 February
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Astronomy+and+Astrophysics&amp;rft.atitle=DE+102+-+A+numerically+integrated+ephemeris+of+the+moon+and+planets+spanning+forty-four+centuries&amp;rft.volume=125&amp;rft.issue=1&amp;rft.pages=150-167&amp;rft.date=1983-08&amp;rft.issn=0004-6361&amp;rft_id=info%3Abibcode%2F1983A%26A...125..150N&amp;rft.aulast=Newhall&amp;rft.aufirst=X.X&amp;rft.au=Standish%2C+E.M&amp;rft.au=Williams%2C+J.+G.&amp;rft_id=http%3A%2F%2Farticles.adsabs.harvard.edu%2Ffull%2F1983A%2526A...125..150N%3Fiframe%3Dtrue%26width%3D100%25%26height%3D100%25&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+distance+%28astronomy%29">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-Gutzwiller-28">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-Gutzwiller_28-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal" id="CITEREFGutzwiller,_Martin_C.1998">
+            Gutzwiller, Martin C. (1998). "Moon–Earth–Sun: The oldest three-body problem".
+            <i>
+             Reviews of Modern Physics
+            </i>
+            .
+            <b>
+             70
+            </b>
+            (2): 589–639.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/1998RvMP...70..589G" rel="nofollow">
+             1998RvMP...70..589G
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1103%2FRevModPhys.70.589" rel="nofollow">
+             10.1103/RevModPhys.70.589
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Reviews+of+Modern+Physics&amp;rft.atitle=Moon%E2%80%93Earth%E2%80%93Sun%3A+The+oldest+three-body+problem&amp;rft.volume=70&amp;rft.issue=2&amp;rft.pages=589-639&amp;rft.date=1998&amp;rft_id=info%3Adoi%2F10.1103%2FRevModPhys.70.589&amp;rft_id=info%3Abibcode%2F1998RvMP...70..589G&amp;rft.au=Gutzwiller%2C+Martin+C.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+distance+%28astronomy%29">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-transit-29">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-transit_29-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            Sheehan, William; Westfall, John (2004).
+            <a class="external text" href="https://books.google.com/books?id=s4L7mjHS6zMC&amp;printsec=frontcover&amp;dq=the+transits+of+venus,+sheehan&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwjVsPvqoZfLAhVDzmMKHS32CFYQ6AEIJTAA#v=onepage&amp;q=hipparchus&amp;f=false" rel="nofollow">
+             <i>
+              The transits of Venus
+             </i>
+            </a>
+            . Amherst, N.Y.: Prometheus Books. pp. 27–28.
+            <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+             ISBN
+            </a>
+            <a href="/wiki/Special:BookSources/1-59102-175-8" title="Special:BookSources/1-59102-175-8">
+             1-59102-175-8
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              27 February
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+transits+of+Venus&amp;rft.place=Amherst%2C+N.Y.&amp;rft.pages=27-28&amp;rft.pub=Prometheus+Books&amp;rft.date=2004&amp;rft.isbn=1-59102-175-8&amp;rft.aulast=Sheehan&amp;rft.aufirst=William&amp;rft.au=Westfall%2C+John&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Ds4L7mjHS6zMC%26printsec%3Dfrontcover%26dq%3Dthe%2Btransits%2Bof%2Bvenus%2C%2Bsheehan%26hl%3Den%26sa%3DX%26ved%3D0ahUKEwjVsPvqoZfLAhVDzmMKHS32CFYQ6AEIJTAA%23v%3Donepage%26q%3Dhipparchus%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+distance+%28astronomy%29">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-Measuring_the_Universe-30">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-Measuring_the_Universe_30-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation" id="CITEREFWebb1999">
+            Webb, Stephen (1999), "3.2 Aristarchus, Hipparchus, and Ptolemy",
+            <i>
+             Measuring the Universe: The Cosmological Distance Ladder
+            </i>
+            , Springer, pp. 27–35,
+            <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+             ISBN
+            </a>
+            <a href="/wiki/Special:BookSources/978-1-85233-106-1" title="Special:BookSources/978-1-85233-106-1">
+             978-1-85233-106-1
+            </a>
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=3.2+Aristarchus%2C+Hipparchus%2C+and+Ptolemy&amp;rft.btitle=Measuring+the+Universe%3A+The+Cosmological+Distance+Ladder&amp;rft.pages=27-35&amp;rft.pub=Springer&amp;rft.date=1999&amp;rft.isbn=978-1-85233-106-1&amp;rft.aulast=Webb&amp;rft.aufirst=Stephen&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+distance+%28astronomy%29">
+            <span style="display:none;">
+            </span>
+           </span>
+           . See in particular p. 33: "Almost everything we know about Hipparchus comes down to us by way of Ptolemy."
+          </span>
+         </li>
+         <li id="cite_note-Helden-31">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-Helden_31-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            Helden, Albert van (1986).
+            <i>
+             Measuring the universe : cosmic dimensions from Aristarchus to Halley
+            </i>
+            (Repr. ed.). Chicago: University of Chicago Press. p. 16.
+            <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+             ISBN
+            </a>
+            <a href="/wiki/Special:BookSources/0-226-84882-5" title="Special:BookSources/0-226-84882-5">
+             0-226-84882-5
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Measuring+the+universe+%3A+cosmic+dimensions+from+Aristarchus+to+Halley&amp;rft.place=Chicago&amp;rft.pages=16&amp;rft.edition=Repr.&amp;rft.pub=University+of+Chicago+Press&amp;rft.date=1986&amp;rft.isbn=0-226-84882-5&amp;rft.aulast=Helden&amp;rft.aufirst=Albert+van&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+distance+%28astronomy%29">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-Commelin-32">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-Commelin_32-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Fischer, Irène (7 November 2008).
+            <a class="external text" href="https://link.springer.com/article/10.1007/BF02526081#page-1" rel="nofollow">
+             "The distance of the moon"
+            </a>
+            .
+            <i>
+             Bulletin géodésique
+            </i>
+            .
+            <b>
+             71
+            </b>
+            (1): 37–63.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/1964BGeod..38...37F" rel="nofollow">
+             1964BGeod..38...37F
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1007%2FBF02526081" rel="nofollow">
+             10.1007/BF02526081
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Bulletin+g%C3%A9od%C3%A9sique&amp;rft.atitle=The+distance+of+the+moon&amp;rft.volume=71&amp;rft.issue=1&amp;rft.pages=37-63&amp;rft.date=2008-11-07&amp;rft_id=info%3Adoi%2F10.1007%2FBF02526081&amp;rft_id=info%3Abibcode%2F1964BGeod..38...37F&amp;rft.aulast=Fischer&amp;rft.aufirst=Ir%C3%A8ne&amp;rft_id=https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2FBF02526081%23page-1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+distance+%28astronomy%29">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-O'Keefe-33">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-O'Keefe_33-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            O'Keefe, J. A.; Anderson, J. P. (1952).
+            <a class="external text" href="http://articles.adsabs.harvard.edu/cgi-bin/nph-iarticle_query?db_key=AST&amp;bibcode=1952AJ.....57..108O&amp;letter=0&amp;classic=YES&amp;defaultprint=YES&amp;whole_paper=YES&amp;page=108&amp;epage=108&amp;send=Send+PDF&amp;filetype=.pdf" rel="nofollow">
+             "The earth's equatorial radius and the distance of the moon"
+            </a>
+            <span style="font-size:85%;">
+             (PDF)
+            </span>
+            .
+            <i>
+             Astronomical Journal
+            </i>
+            .
+            <b>
+             57
+            </b>
+            : 108–121.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/1952AJ.....57..108O" rel="nofollow">
+             1952AJ.....57..108O
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1086%2F106720" rel="nofollow">
+             10.1086/106720
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Astronomical+Journal&amp;rft.atitle=The+earth%27s+equatorial+radius+and+the+distance+of+the+moon&amp;rft.volume=57&amp;rft.pages=108-121&amp;rft.date=1952&amp;rft_id=info%3Adoi%2F10.1086%2F106720&amp;rft_id=info%3Abibcode%2F1952AJ.....57..108O&amp;rft.aulast=O%27Keefe&amp;rft.aufirst=J.+A.&amp;rft.au=Anderson%2C+J.+P.&amp;rft_id=http%3A%2F%2Farticles.adsabs.harvard.edu%2Fcgi-bin%2Fnph-iarticle_query%3Fdb_key%3DAST%26bibcode%3D1952AJ.....57..108O%26letter%3D0%26classic%3DYES%26defaultprint%3DYES%26whole_paper%3DYES%26page%3D108%26epage%3D108%26send%3DSend%2BPDF%26filetype%3D.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+distance+%28astronomy%29">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-Radar1-34">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-Radar1_34-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Yaplee, B. S.; Roman, N. G.; Scanlan, T. F.; Craig, K. J. (30 July – 6 August 1958).
+            <a class="external text" href="http://articles.adsabs.harvard.edu/cgi-bin/nph-iarticle_query?db_key=AST&amp;bibcode=1959IAUS....9...19Y&amp;letter=.&amp;classic=YES&amp;defaultprint=YES&amp;whole_paper=YES&amp;page=19&amp;epage=19&amp;send=Send+PDF&amp;filetype=.pdf" rel="nofollow">
+             "A lunar radar study at 10-cm wavelength"
+            </a>
+            <span style="font-size:85%;">
+             (PDF)
+            </span>
+            .
+            <i>
+             Paris Symposium on Radio Astronomy
+            </i>
+            . IAU Symposium no. 9
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              29 February
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Paris+Symposium+on+Radio+Astronomy&amp;rft.atitle=A+lunar+radar+study+at+10-cm+wavelength&amp;rft.volume=IAU+Symposium+no.+9&amp;rft.date=1958-07-30%2F1958-08-06&amp;rft.aulast=Yaplee&amp;rft.aufirst=B.+S.&amp;rft.au=Roman%2C+N.+G.&amp;rft.au=Scanlan%2C+T.+F.&amp;rft.au=Craig%2C+K.+J.&amp;rft_id=http%3A%2F%2Farticles.adsabs.harvard.edu%2Fcgi-bin%2Fnph-iarticle_query%3Fdb_key%3DAST%26bibcode%3D1959IAUS....9...19Y%26letter%3D.%26classic%3DYES%26defaultprint%3DYES%26whole_paper%3DYES%26page%3D19%26epage%3D19%26send%3DSend%2BPDF%26filetype%3D.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+distance+%28astronomy%29">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-Radar2-35">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-Radar2_35-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Hey, J. S.; Hughes, V. A. (30 July – 6 August 1958).
+            <a class="external text" href="http://articles.adsabs.harvard.edu/cgi-bin/nph-iarticle_query?db_key=AST&amp;bibcode=1959IAUS....9...13H&amp;letter=0&amp;classic=YES&amp;defaultprint=YES&amp;whole_paper=YES&amp;page=13&amp;epage=13&amp;send=Send+PDF&amp;filetype=.pdf" rel="nofollow">
+             "Radar observation of the moon at 10-cm wavelength"
+            </a>
+            <span style="font-size:85%;">
+             (PDF)
+            </span>
+            .
+            <i>
+             Paris Symposium on Radio Astronomy
+            </i>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Paris+Symposium+on+Radio+Astronomy&amp;rft.atitle=Radar+observation+of+the+moon+at+10-cm+wavelength&amp;rft.date=1958-07-30%2F1958-08-06&amp;rft.aulast=Hey&amp;rft.aufirst=J.+S.&amp;rft.au=Hughes%2C+V.+A.&amp;rft_id=http%3A%2F%2Farticles.adsabs.harvard.edu%2Fcgi-bin%2Fnph-iarticle_query%3Fdb_key%3DAST%26bibcode%3D1959IAUS....9...13H%26letter%3D0%26classic%3DYES%26defaultprint%3DYES%26whole_paper%3DYES%26page%3D13%26epage%3D13%26send%3DSend%2BPDF%26filetype%3D.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+distance+%28astronomy%29">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-Radar3-36">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-Radar3_36-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Yaplee, B. S.; Knowles, S. H.; et al. (January 1965).
+            <a class="external text" href="http://articles.adsabs.harvard.edu/cgi-bin/nph-iarticle_query?db_key=AST&amp;bibcode=1965IAUS...21...81Y&amp;letter=0&amp;classic=YES&amp;defaultprint=YES&amp;whole_paper=YES&amp;page=81&amp;epage=81&amp;send=Send+PDF&amp;filetype=.pdf" rel="nofollow">
+             "The mean distance to the Moon as determined by radar"
+            </a>
+            <span style="font-size:85%;">
+             (PDF)
+            </span>
+            .
+            <i>
+             Symposium - International Astronomical Union
+            </i>
+            .
+            <b>
+             21
+            </b>
+            : 2.
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1017%2FS0074180900104826" rel="nofollow">
+             10.1017/S0074180900104826
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Symposium+-+International+Astronomical+Union&amp;rft.atitle=The+mean+distance+to+the+Moon+as+determined+by+radar&amp;rft.volume=21&amp;rft.pages=2&amp;rft.date=1965-01&amp;rft_id=info%3Adoi%2F10.1017%2FS0074180900104826&amp;rft.aulast=Yaplee&amp;rft.aufirst=B.+S.&amp;rft.au=Knowles%2C+S.+H.&amp;rft.au=Shapiro%2C+A.&amp;rft.au=Craig%2C+K.+J.&amp;rft.au=Brouwer%2C+D.&amp;rft_id=http%3A%2F%2Farticles.adsabs.harvard.edu%2Fcgi-bin%2Fnph-iarticle_query%3Fdb_key%3DAST%26bibcode%3D1965IAUS...21...81Y%26letter%3D0%26classic%3DYES%26defaultprint%3DYES%26whole_paper%3DYES%26page%3D81%26epage%3D81%26send%3DSend%2BPDF%26filetype%3D.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+distance+%28astronomy%29">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-Lunar_Laser_Ranging-37">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-Lunar_Laser_Ranging_37-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Bender, P. L.; Currie, D. G.; Dicke, R. H.; et al. (October 19, 1973).
+            <a class="external text" href="http://www.physics.ucsd.edu/~tmurphy/apollo/doc/Bender.pdf" rel="nofollow">
+             "The Lunar Laser Ranging Experiment"
+            </a>
+            <span style="font-size:85%;">
+             (PDF)
+            </span>
+            .
+            <i>
+             <a href="/wiki/Science_(journal)" title="Science (journal)">
+              Science
+             </a>
+            </i>
+            .
+            <b>
+             182
+            </b>
+            (4109): 229–238.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/1973Sci...182..229B" rel="nofollow">
+             1973Sci...182..229B
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1126%2Fscience.182.4109.229" rel="nofollow">
+             10.1126/science.182.4109.229
+            </a>
+            .
+            <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">
+             PMID
+            </a>
+            <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/17749298" rel="nofollow">
+             17749298
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              April 27,
+             </span>
+             2013
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Science&amp;rft.atitle=The+Lunar+Laser+Ranging+Experiment&amp;rft.volume=182&amp;rft.issue=4109&amp;rft.pages=229-238&amp;rft.date=1973-10-19&amp;rft_id=info%3Apmid%2F17749298&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.182.4109.229&amp;rft_id=info%3Abibcode%2F1973Sci...182..229B&amp;rft.au=Bender%2C+P.+L.&amp;rft.au=Currie%2C+D.+G.&amp;rft.au=Dicke%2C+R.+H.&amp;rft.au=Eckhardt%2C+D.+H.&amp;rft.au=Faller%2C+J.+E.&amp;rft.au=Kaula%2C+W.+M.&amp;rft.au=Mullholland%2C+J.+D.&amp;rft.au=Plotkin%2C+H.+H.&amp;rft.au=Silverberg%2C+E.+C.&amp;rft.au=Wilkinson%2C+D.+T.&amp;rft.au=Williams%2C+J.+G.&amp;rft.au=Alley%2C+C.+O.&amp;rft_id=http%3A%2F%2Fwww.physics.ucsd.edu%2F~tmurphy%2Fapollo%2Fdoc%2FBender.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+distance+%28astronomy%29">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-Citizen1-38">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-Citizen1_38-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            Wright, Ernie.
+            <a class="external text" href="http://www.etwright.org/astro/moonpar.html" rel="nofollow">
+             "Overhead view of the Earth-Moon system, to scale Lunar Parallax: Estimating the Moon's Distance"
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              29 February
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Overhead+view+of+the+Earth-Moon+system%2C+to+scale+Lunar+Parallax%3A+Estimating+the+Moon%27s+Distance&amp;rft.aulast=Wright&amp;rft.aufirst=Ernie&amp;rft_id=http%3A%2F%2Fwww.etwright.org%2Fastro%2Fmoonpar.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+distance+%28astronomy%29">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1269
+Cached time: 20180322151140
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.444 seconds
+Real time usage: 0.517 seconds
+Preprocessor visited node count: 2725/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 93783/2097152 bytes
+Template argument size: 2075/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 59159/5000000 bytes
+Lua time usage: 0.243/10.000 seconds
+Lua memory usage: 6.5 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  439.195      1 -total
+ 64.96%  285.309      1 Template:Reflist
+ 26.75%  117.474     19 Template:Cite_journal
+ 16.24%   71.327     27 Template:Val
+  7.30%   32.060      9 Template:Cite_web
+  7.07%   31.049      6 Template:Cite_book
+  5.28%   23.189      1 Template:About
+  3.90%   17.113      2 Template:Citation
+  2.19%    9.623      8 Template:Convert
+  1.73%    7.598      1 Template:Percentage
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:899115-0!canonical!math=5 and timestamp 20180322151140 and revision id 828086963
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Lunar_distance_(astronomy)&amp;oldid=828086963">
+      https://en.wikipedia.org/w/index.php?title=Lunar_distance_(astronomy)&amp;oldid=828086963
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Orbit_of_the_Moon" title="Category:Orbit of the Moon">
+         Orbit of the Moon
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Units_of_measurement_in_astronomy" title="Category:Units of measurement in astronomy">
+         Units of measurement in astronomy
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Units_of_length" title="Category:Units of length">
+         Units of length
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Lunar+distance+%28astronomy%29" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Lunar+distance+%28astronomy%29" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Lunar_distance_(astronomy)" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Lunar_distance_(astronomy)" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Lunar_distance_(astronomy)">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Lunar_distance_(astronomy)&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Lunar_distance_(astronomy)&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Lunar_distance_(astronomy)" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Lunar_distance_(astronomy)" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Lunar_distance_(astronomy)&amp;oldid=828086963" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Lunar_distance_(astronomy)&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q94921" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Lunar_distance_%28astronomy%29&amp;id=828086963" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Lunar+distance+%28astronomy%29">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Lunar+distance+%28astronomy%29&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Lunar_distance_(astronomy)&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-af">
+        <a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Maanafstand" hreflang="af" lang="af" title="Maanafstand – Afrikaans">
+         Afrikaans
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%85%D8%B3%D8%A7%D9%81%D8%A9_%D9%82%D9%85%D8%B1%D9%8A%D8%A9_(%D8%B9%D9%84%D9%85_%D8%A7%D9%84%D9%81%D9%84%D9%83)" hreflang="ar" lang="ar" title="مسافة قمرية (علم الفلك) – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Lunar_Distance" hreflang="de" lang="de" title="Lunar Distance – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Distancia_a_la_luna" hreflang="es" lang="es" title="Distancia a la luna – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%81%D8%A7%D8%B5%D9%84%D9%87_%D9%82%D9%85%D8%B1%DB%8C" hreflang="fa" lang="fa" title="فاصله قمری – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Distance_lunaire" hreflang="fr" lang="fr" title="Distance lunaire – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Jarak_bulan_(astronomi)" hreflang="id" lang="id" title="Jarak bulan (astronomi) – Indonesian">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Distanza_lunare" hreflang="it" lang="it" title="Distanza lunare – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mk">
+        <a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%9C%D0%B5%D1%81%D0%B5%D1%87%D0%B5%D0%B2%D0%B0_%D0%B5%D0%B4%D0%B8%D0%BD%D0%B8%D1%86%D0%B0" hreflang="mk" lang="mk" title="Месечева единица – Macedonian">
+         Македонски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%9C%B0%E7%90%83%E3%81%A8%E6%9C%88%E3%81%AE%E8%B7%9D%E9%9B%A2" hreflang="ja" lang="ja" title="地球と月の距離 – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/LD_(astronomia)" hreflang="pl" lang="pl" title="LD (astronomia) – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Dist%C3%A2ncia_lunar" hreflang="pt" lang="pt" title="Distância lunar – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E6%9C%88%E7%90%83%E8%B7%9D%E9%9B%A2" hreflang="zh" lang="zh" title="月球距離 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q94921#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 28 February 2018, at 13:59.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Lunar_distance_(astronomy)&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.444","walltime":"0.517","ppvisitednodes":{"value":2725,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":93783,"limit":2097152},"templateargumentsize":{"value":2075,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":59159,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  439.195      1 -total"," 64.96%  285.309      1 Template:Reflist"," 26.75%  117.474     19 Template:Cite_journal"," 16.24%   71.327     27 Template:Val","  7.30%   32.060      9 Template:Cite_web","  7.07%   31.049      6 Template:Cite_book","  5.28%   23.189      1 Template:About","  3.90%   17.113      2 Template:Citation","  2.19%    9.623      8 Template:Convert","  1.73%    7.598      1 Template:Percentage"]},"scribunto":{"limitreport-timeusage":{"value":"0.243","limit":"10.000"},"limitreport-memusage":{"value":6819571,"limit":52428800}},"cachereport":{"origin":"mw1269","timestamp":"20180322151140","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":106,"wgHostname":"mw1331"});});
+  </script>
+ </body>
+</html>

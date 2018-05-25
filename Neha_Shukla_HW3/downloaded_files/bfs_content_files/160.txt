@@ -1,0 +1,4962 @@
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Gemini 12 - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Gemini_12","wgTitle":"Gemini 12","wgCurRevisionId":807314702,"wgRevisionId":807314702,"wgArticleId":411616,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles incorporating text from NASA","Use American English from January 2014","All Wikipedia articles written in American English","Buzz Aldrin","Extravehicular activity","Human spaceflights","Project Gemini missions","Spacecraft launched in 1966","Spacecraft launched by Titan rockets","November 1966 events"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Gemini_12","wgRelevantArticleId":411616,"wgRequestId":"Wq8btwpAME8AAFfzHZ0AAAAA","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q259770","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.math.scripts","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.25" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/S66-63536.jpg/1200px-S66-63536.jpg" property="og:image"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Gemini_12" rel="alternate"/>
+  <link href="/w/index.php?title=Gemini_12&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Gemini_12&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Gemini_12" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Gemini_12 rootpage-Gemini_12 skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Gemini 12
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <table class="infobox plainlist" style="width:22em;width:25em;">
+       <caption>
+        Gemini XII
+       </caption>
+       <tr>
+        <td colspan="2" style="text-align:center">
+         <a class="image" href="/wiki/File:S66-63536.jpg">
+          <img alt="S66-63536.jpg" data-file-height="4741" data-file-width="6856" height="180" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/S66-63536.jpg/260px-S66-63536.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/S66-63536.jpg/390px-S66-63536.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/S66-63536.jpg/520px-S66-63536.jpg 2x" width="260"/>
+         </a>
+         <div>
+          <a href="/wiki/Buzz_Aldrin" title="Buzz Aldrin">
+           Buzz Aldrin
+          </a>
+          performs an EVA during the Gemini XII mission, with the Agena Target Vehicle visible in the background
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <td colspan="2" style="text-align:center">
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         Operator
+        </th>
+        <td>
+         <a href="/wiki/NASA" title="NASA">
+          NASA
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         <a href="/wiki/International_Designator" title="International Designator">
+          COSPAR ID
+         </a>
+        </th>
+        <td>
+         <span class="nowrap">
+          <a class="external text" href="http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1966-104A" rel="nofollow">
+           1966-104A
+          </a>
+         </span>
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         <a href="/wiki/Satellite_Catalog_Number" title="Satellite Catalog Number">
+          SATCAT
+          <abbr title="number">
+           no.
+          </abbr>
+         </a>
+        </th>
+        <td>
+         2566
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         Mission duration
+        </th>
+        <td>
+         3 days, 22 hours, 34 minutes, 31 seconds
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         Orbits completed
+        </th>
+        <td>
+         59
+        </td>
+       </tr>
+       <tr style="display:none">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <td colspan="2" style="text-align:center">
+        </td>
+       </tr>
+       <tr>
+        <th colspan="2" style="text-align:center">
+         Spacecraft properties
+        </th>
+       </tr>
+       <tr>
+        <th scope="row">
+         Spacecraft
+        </th>
+        <td>
+         <a class="mw-redirect" href="/wiki/Gemini_(spacecraft)" title="Gemini (spacecraft)">
+          Gemini
+         </a>
+         SC12
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         Manufacturer
+        </th>
+        <td>
+         <a href="/wiki/McDonnell_Aircraft" title="McDonnell Aircraft">
+          McDonnell
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         Launch mass
+        </th>
+        <td>
+         3,762.1 kilograms (8,294 lb)
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         Landing mass
+        </th>
+        <td>
+         1,947.24 kilograms (4,292.93 lb)
+        </td>
+       </tr>
+       <tr style="display:none">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <td colspan="2" style="text-align:center">
+        </td>
+       </tr>
+       <tr>
+        <th colspan="2" style="text-align:center">
+         Crew
+        </th>
+       </tr>
+       <tr>
+        <th scope="row">
+         Crew size
+        </th>
+        <td>
+         2
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         Members
+        </th>
+        <td>
+         <a href="/wiki/Jim_Lovell" title="Jim Lovell">
+          James A. Lovell, Jr
+         </a>
+         <br/>
+         <a href="/wiki/Buzz_Aldrin" title="Buzz Aldrin">
+          Edwin E. Aldrin, Jr
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         <a class="mw-redirect" href="/wiki/Spacewalk" title="Spacewalk">
+          EVAs
+         </a>
+        </th>
+        <td>
+         3
+        </td>
+       </tr>
+       <tr style="display:none">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <td colspan="2" style="text-align:center">
+        </td>
+       </tr>
+       <tr>
+        <th colspan="2" style="text-align:center">
+         Start of mission
+        </th>
+       </tr>
+       <tr>
+        <th scope="row">
+         Launch date
+        </th>
+        <td>
+         November 11, 1966, 20:46:33
+         <span style="display:none">
+          (
+          <span class="dtstart">
+           1966-11-11UTC20:46:33Z
+          </span>
+          )
+         </span>
+         UTC
+         <sup class="reference" id="cite_ref-mission_1-0">
+          <a href="#cite_note-mission-1">
+           [1]
+          </a>
+         </sup>
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         Rocket
+        </th>
+        <td>
+         <a href="/wiki/Titan_II_GLV" title="Titan II GLV">
+          Titan II GLV
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         Launch site
+        </th>
+        <td>
+         <a href="/wiki/Cape_Canaveral_Air_Force_Station" title="Cape Canaveral Air Force Station">
+          Cape Kennedy
+         </a>
+         <a href="/wiki/Cape_Canaveral_Air_Force_Station_Launch_Complex_19" title="Cape Canaveral Air Force Station Launch Complex 19">
+          LC-19
+         </a>
+        </td>
+       </tr>
+       <tr style="display:none">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <td colspan="2" style="text-align:center">
+        </td>
+       </tr>
+       <tr>
+        <th colspan="2" style="text-align:center">
+         End of mission
+        </th>
+       </tr>
+       <tr>
+        <th scope="row">
+         Recovered by
+        </th>
+        <td>
+         <a href="/wiki/USS_Wasp_(CV-18)" title="USS Wasp (CV-18)">
+          USS
+          <i>
+           Wasp
+          </i>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         Landing date
+        </th>
+        <td>
+         November 15, 1966, 19:21:04
+         <span style="display:none">
+          (
+          <span class="dtend">
+           1966-11-15UTC19:21:05Z
+          </span>
+          )
+         </span>
+         UTC
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         Landing site
+        </th>
+        <td>
+         <span class="plainlinks nourlexpansion">
+          <a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Gemini_12&amp;params=24_35_N_69_57_W_">
+           <span class="geo-default">
+            <span class="geo-dms" title="Maps, aerial photos, and other data for this location">
+             <span class="latitude">
+              24°35′N
+             </span>
+             <span class="longitude">
+              69°57′W
+             </span>
+            </span>
+           </span>
+           <span class="geo-multi-punct">
+            ﻿ / ﻿
+           </span>
+           <span class="geo-nondefault">
+            <span class="geo-dec" title="Maps, aerial photos, and other data for this location">
+             24.583°N 69.950°W
+            </span>
+            <span style="display:none">
+             ﻿ /
+             <span class="geo">
+              24.583; -69.950
+             </span>
+            </span>
+           </span>
+          </a>
+         </span>
+         <sup class="reference" id="cite_ref-mission_1-1">
+          <a href="#cite_note-mission-1">
+           [1]
+          </a>
+         </sup>
+        </td>
+       </tr>
+       <tr style="display:none">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <td colspan="2" style="text-align:center">
+        </td>
+       </tr>
+       <tr>
+        <th colspan="2" style="text-align:center">
+         Orbital parameters
+        </th>
+       </tr>
+       <tr>
+        <th scope="row">
+         Reference system
+        </th>
+        <td>
+         <a href="/wiki/Geocentric_orbit" title="Geocentric orbit">
+          Geocentric
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         Regime
+        </th>
+        <td>
+         <a href="/wiki/Low_Earth_orbit" title="Low Earth orbit">
+          Low Earth orbit
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         <a href="/wiki/Apsis" title="Apsis">
+          Perigee
+         </a>
+        </th>
+        <td>
+         251 kilometers (136 nmi)
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         <a href="/wiki/Apsis" title="Apsis">
+          Apogee
+         </a>
+        </th>
+        <td>
+         289 kilometers (156 nmi)
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         <a href="/wiki/Orbital_inclination" title="Orbital inclination">
+          Inclination
+         </a>
+        </th>
+        <td>
+         28.8 degrees
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         <a href="/wiki/Orbital_period" title="Orbital period">
+          Period
+         </a>
+        </th>
+        <td>
+         89.94 minutes
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         <a href="/wiki/Epoch_(astronomy)" title="Epoch (astronomy)">
+          Epoch
+         </a>
+        </th>
+        <td>
+         November 14, 1966
+         <sup class="reference" id="cite_ref-satcat_2-0">
+          <a href="#cite_note-satcat-2">
+           [2]
+          </a>
+         </sup>
+        </td>
+       </tr>
+       <tr style="display:none">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <td colspan="2" style="text-align:center">
+        </td>
+       </tr>
+       <tr>
+        <th colspan="2" style="text-align:center">
+         Docking with
+         <a class="new" href="/w/index.php?title=GATV-5001A&amp;action=edit&amp;redlink=1" title="GATV-5001A (page does not exist)">
+          GATV-5001A
+         </a>
+        </th>
+       </tr>
+       <tr>
+        <th scope="row">
+         Docking date
+        </th>
+        <td>
+         November 12, 1966, 01:06:00 UTC
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         Undocking date
+        </th>
+        <td>
+         November 13, 1966, 20:18:00 UTC
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         Time docked
+        </th>
+        <td>
+         1 day, 19 hours, 12 minutes
+        </td>
+       </tr>
+       <tr style="display:none">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <td colspan="2" style="text-align:center">
+         <p>
+          <a class="image" href="/wiki/File:Gemini_12_insignia.png">
+           <img alt="Gemini 12 insignia.png" data-file-height="915" data-file-width="902" height="183" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Gemini_12_insignia.png/180px-Gemini_12_insignia.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Gemini_12_insignia.png/270px-Gemini_12_insignia.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Gemini_12_insignia.png/360px-Gemini_12_insignia.png 2x" width="180"/>
+          </a>
+         </p>
+         <a class="image" href="/wiki/File:Gemini12_crew.jpg">
+          <img alt="Gemini12 crew.jpg" data-file-height="419" data-file-width="522" height="177" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Gemini12_crew.jpg/220px-Gemini12_crew.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Gemini12_crew.jpg/330px-Gemini12_crew.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Gemini12_crew.jpg/440px-Gemini12_crew.jpg 2x" width="220"/>
+         </a>
+         <br/>
+         (L-R) Aldrin, Lovell
+         <div class="" style="width:100%; text-align:center; border-top:1px #aaa solid">
+          <a href="/wiki/Project_Gemini" title="Project Gemini">
+           Project Gemini
+          </a>
+         </div>
+         <div style="width:100%">
+          <div class="noprint" style="float: left; text-align:left;padding-right:0.5em;">
+           ←
+           <a href="/wiki/Gemini_11" title="Gemini 11">
+            Gemini 11
+           </a>
+          </div>
+         </div>
+        </td>
+       </tr>
+      </table>
+      <p>
+       <b>
+        Gemini 12
+       </b>
+       (officially
+       <b>
+        Gemini XII
+       </b>
+       )
+       <sup class="reference" id="cite_ref-titans_3-0">
+        <a href="#cite_note-titans-3">
+         [3]
+        </a>
+       </sup>
+       was a 1966
+       <a class="mw-redirect" href="/wiki/Manned_spaceflight" title="Manned spaceflight">
+        manned spaceflight
+       </a>
+       in
+       <a href="/wiki/NASA" title="NASA">
+        NASA
+       </a>
+       's
+       <a href="/wiki/Project_Gemini" title="Project Gemini">
+        Project Gemini
+       </a>
+       . It was the 10th and final manned Gemini flight, the 18th manned American spaceflight, and the 26th spaceflight of all time, including
+       <a class="mw-redirect" href="/wiki/X-15" title="X-15">
+        X-15
+       </a>
+       flights over 100 kilometers (54 nmi). Commanded by
+       <a href="/wiki/Gemini_7" title="Gemini 7">
+        Gemini VII
+       </a>
+       veteran
+       <a href="/wiki/Jim_Lovell" title="Jim Lovell">
+        James A. Lovell
+       </a>
+       , the flight featured three periods of
+       <a href="/wiki/Extravehicular_activity" title="Extravehicular activity">
+        extravehicular activity
+       </a>
+       (EVA) by rookie
+       <a href="/wiki/Buzz_Aldrin" title="Buzz Aldrin">
+        Edwin "Buzz" Aldrin
+       </a>
+       , lasting a total of 5 hours and 30 minutes. It also achieved the fifth
+       <a href="/wiki/Space_rendezvous" title="Space rendezvous">
+        rendezvous
+       </a>
+       and fourth
+       <a href="/wiki/Docking_and_berthing_of_spacecraft" title="Docking and berthing of spacecraft">
+        docking
+       </a>
+       with an
+       <a href="/wiki/Agena_target_vehicle" title="Agena target vehicle">
+        Agena target vehicle
+       </a>
+       .
+      </p>
+      <p>
+       Gemini XII marked a successful conclusion of the Gemini program, achieving the last of its goals by successfully demonstrating that astronauts can effectively work outside of spacecraft. This was instrumental in paving the way for the
+       <a href="/wiki/Apollo_program" title="Apollo program">
+        Apollo program
+       </a>
+       to achieve its goal of landing a man on the Moon by the end of the 1960s.
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Crew">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Crew
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-2">
+           <a href="#Backup_crew">
+            <span class="tocnumber">
+             1.1
+            </span>
+            <span class="toctext">
+             Backup crew
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-3">
+         <a href="#Support_crew">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Support crew
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-4">
+         <a href="#Mission_parameters">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           Mission parameters
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-5">
+           <a href="#Docking">
+            <span class="tocnumber">
+             3.1
+            </span>
+            <span class="toctext">
+             Docking
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-6">
+           <a href="#Space_walk">
+            <span class="tocnumber">
+             3.2
+            </span>
+            <span class="toctext">
+             Space walk
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-7">
+         <a href="#Launch">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           Launch
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-8">
+         <a href="#Objectives">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           Objectives
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-9">
+           <a href="#Experiments">
+            <span class="tocnumber">
+             5.1
+            </span>
+            <span class="toctext">
+             Experiments
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-10">
+           <a href="#Reentry">
+            <span class="tocnumber">
+             5.2
+            </span>
+            <span class="toctext">
+             Reentry
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-11">
+         <a href="#Insignia">
+          <span class="tocnumber">
+           6
+          </span>
+          <span class="toctext">
+           Insignia
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-12">
+         <a href="#Spacecraft_location">
+          <span class="tocnumber">
+           7
+          </span>
+          <span class="toctext">
+           Spacecraft location
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-13">
+         <a href="#See_also">
+          <span class="tocnumber">
+           8
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-14">
+         <a href="#References">
+          <span class="tocnumber">
+           9
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-15">
+         <a href="#External_links">
+          <span class="tocnumber">
+           10
+          </span>
+          <span class="toctext">
+           External links
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Crew">
+        Crew
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Gemini_12&amp;action=edit&amp;section=1" title="Edit section: Crew">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <table class="wikitable plainrowheaders">
+       <tr>
+        <th style="width:150px;">
+         <a href="/wiki/Astronaut_ranks_and_positions" title="Astronaut ranks and positions">
+          Position
+         </a>
+        </th>
+        <th colspan="2" scope="col" style="width:200px;">
+         Astronaut
+        </th>
+       </tr>
+       <tr>
+        <th scope="row">
+         Command Pilot
+        </th>
+        <td colspan="2">
+         <a href="/wiki/Jim_Lovell" title="Jim Lovell">
+          James A. Lovell, Jr
+         </a>
+         <br/>
+         Second spaceflight
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         Pilot
+        </th>
+        <td colspan="2">
+         <a href="/wiki/Buzz_Aldrin" title="Buzz Aldrin">
+          Edwin E. Aldrin, Jr
+         </a>
+         <br/>
+         First spaceflight
+        </td>
+       </tr>
+      </table>
+      <h3>
+       <span class="mw-headline" id="Backup_crew">
+        Backup crew
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Gemini_12&amp;action=edit&amp;section=2" title="Edit section: Backup crew">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <table class="wikitable plainrowheaders">
+       <tr>
+        <th style="width:150px;">
+         <a href="/wiki/Astronaut_ranks_and_positions" title="Astronaut ranks and positions">
+          Position
+         </a>
+        </th>
+        <th colspan="2" scope="col" style="width:200px;">
+         Astronaut
+        </th>
+       </tr>
+       <tr>
+        <th scope="row">
+         Command Pilot
+        </th>
+        <td colspan="2">
+         <a href="/wiki/Gordon_Cooper" title="Gordon Cooper">
+          L. Gordon Cooper, Jr.
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         Pilot
+        </th>
+        <td colspan="2">
+         <a href="/wiki/Eugene_Cernan" title="Eugene Cernan">
+          Eugene A. Cernan
+         </a>
+        </td>
+       </tr>
+      </table>
+      <h2>
+       <span class="mw-headline" id="Support_crew">
+        Support crew
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Gemini_12&amp;action=edit&amp;section=3" title="Edit section: Support crew">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a href="/wiki/Stuart_Roosa" title="Stuart Roosa">
+         Stuart A. Roosa
+        </a>
+        (Cape CAPCOM)
+       </li>
+       <li>
+        <a href="/wiki/Pete_Conrad" title="Pete Conrad">
+         Charles Conrad Jr.
+        </a>
+        (Houston CAPCOM)
+       </li>
+       <li>
+        <a href="/wiki/William_Anders" title="William Anders">
+         William A. Anders
+        </a>
+        (Houston CAPCOM)
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="Mission_parameters">
+        Mission parameters
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Gemini_12&amp;action=edit&amp;section=4" title="Edit section: Mission parameters">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Gemini_12_-_Edwin_Aldrin_in_open_hatch_of_spacecraft_during_EVA.jpg">
+         <img alt="" class="thumbimage" data-file-height="2735" data-file-width="3887" height="155" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gemini_12_-_Edwin_Aldrin_in_open_hatch_of_spacecraft_during_EVA.jpg/220px-Gemini_12_-_Edwin_Aldrin_in_open_hatch_of_spacecraft_during_EVA.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gemini_12_-_Edwin_Aldrin_in_open_hatch_of_spacecraft_during_EVA.jpg/330px-Gemini_12_-_Edwin_Aldrin_in_open_hatch_of_spacecraft_during_EVA.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gemini_12_-_Edwin_Aldrin_in_open_hatch_of_spacecraft_during_EVA.jpg/440px-Gemini_12_-_Edwin_Aldrin_in_open_hatch_of_spacecraft_during_EVA.jpg 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Gemini_12_-_Edwin_Aldrin_in_open_hatch_of_spacecraft_during_EVA.jpg" title="Enlarge">
+          </a>
+         </div>
+         Aldrin during an EVA
+        </div>
+       </div>
+      </div>
+      <ul>
+       <li>
+        <b>
+         <a href="/wiki/Mass" title="Mass">
+          Mass
+         </a>
+         :
+        </b>
+        3,762.1 kilograms (8,294 lb)
+       </li>
+       <li>
+        <b>
+         <a class="mw-redirect" href="/wiki/Perigee" title="Perigee">
+          Perigee
+         </a>
+         :
+        </b>
+        160.8 kilometers (99.9 mi)
+       </li>
+       <li>
+        <b>
+         <a class="mw-redirect" href="/wiki/Apogee" title="Apogee">
+          Apogee
+         </a>
+         :
+        </b>
+        270.6 kilometers (168.1 mi)
+       </li>
+       <li>
+        <b>
+         <a class="mw-redirect" href="/wiki/Inclination" title="Inclination">
+          Inclination
+         </a>
+         :
+        </b>
+        28.87°
+       </li>
+       <li>
+        <b>
+         <a href="/wiki/Orbital_period" title="Orbital period">
+          Period
+         </a>
+         :
+        </b>
+        88.87 min
+       </li>
+      </ul>
+      <h3>
+       <span class="mw-headline" id="Docking">
+        Docking
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Gemini_12&amp;action=edit&amp;section=5" title="Edit section: Docking">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <ul>
+       <li>
+        <b>
+         Docked
+        </b>
+        : November 12, 1966 - 01:06:00 UTC
+       </li>
+       <li>
+        <b>
+         Undocked
+        </b>
+        : November 13, 1966 - 20:18:00 UTC
+       </li>
+      </ul>
+      <h3>
+       <span class="mw-headline" id="Space_walk">
+        Space walk
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Gemini_12&amp;action=edit&amp;section=6" title="Edit section: Space walk">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <ul>
+       <li>
+        Aldrin - EVA 1 - (stand up)
+        <ul>
+         <li>
+          <b>
+           Start
+          </b>
+          : November 12, 1966, 16:15:00 UTC
+         </li>
+         <li>
+          <b>
+           End
+          </b>
+          : November 12, 1966, 18:44:00 UTC
+         </li>
+         <li>
+          <b>
+           Duration
+          </b>
+          : 2 hours, 29 minutes
+         </li>
+        </ul>
+       </li>
+       <li>
+        Aldrin - EVA 2
+        <ul>
+         <li>
+          <b>
+           Start
+          </b>
+          : November 13, 1966, 15:34:00 UTC
+         </li>
+         <li>
+          <b>
+           End
+          </b>
+          : November 13, 1966, 17:40:00 UTC
+         </li>
+         <li>
+          <b>
+           Duration
+          </b>
+          : 2 hours, 06 minutes
+         </li>
+        </ul>
+       </li>
+       <li>
+        Aldrin - EVA 3 (stand up)
+        <ul>
+         <li>
+          <b>
+           Start
+          </b>
+          : November 14, 1966, 14:52:00 UTC
+         </li>
+         <li>
+          <b>
+           End
+          </b>
+          : November 14, 1966, 15:47:00 UTC
+         </li>
+         <li>
+          <b>
+           Duration
+          </b>
+          : 0 hours, 55 minutes
+         </li>
+        </ul>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="Launch">
+        Launch
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Gemini_12&amp;action=edit&amp;section=7" title="Edit section: Launch">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Liftoff of the Atlas/Agena Target Vehicle occurred at 2:07:59 PM EST, and of the Gemini/Titan spacecraft at 3:46:33 PM EST, on November 11.
+       <sup class="reference" id="cite_ref-mission_1-2">
+        <a href="#cite_note-mission-1">
+         [1]
+        </a>
+       </sup>
+       All launch vehicle systems performed nominally during powered flight, but at staging there was a recurrence of the first stage oxidizer tank rupture first seen on
+       <a href="/wiki/Gemini_10" title="Gemini 10">
+        Gemini 10
+       </a>
+       's launch. On Gemini 12, the fuel tank appeared to have also ruptured as a white cloud was seen emitting from the spent stage along with the orange
+       <a class="mw-redirect" href="/wiki/Nitrogen_tetroxide" title="Nitrogen tetroxide">
+        nitrogen tetroxide
+       </a>
+       . Another episode of "Green Man" also occurred at SECO, referring to pitch gyrations caused by pressure buildup in the second stage protective skirt.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Objectives">
+        Objectives
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Gemini_12&amp;action=edit&amp;section=8" title="Edit section: Objectives">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:S66-63387_PR.jpg">
+         <img alt="" class="thumbimage" data-file-height="2665" data-file-width="2623" height="224" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/S66-63387_PR.jpg/220px-S66-63387_PR.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/S66-63387_PR.jpg/330px-S66-63387_PR.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d0/S66-63387_PR.jpg/440px-S66-63387_PR.jpg 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:S66-63387_PR.jpg" title="Enlarge">
+          </a>
+         </div>
+         The Gemini 12 spacecraft and the Agena, photographed at 15 feet apart during docking
+        </div>
+       </div>
+      </div>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Gemini_12_tethered_stationkeeping.jpg">
+         <img alt="" class="thumbimage" data-file-height="7060" data-file-width="7307" height="213" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Gemini_12_tethered_stationkeeping.jpg/220px-Gemini_12_tethered_stationkeeping.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Gemini_12_tethered_stationkeeping.jpg/330px-Gemini_12_tethered_stationkeeping.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Gemini_12_tethered_stationkeeping.jpg/440px-Gemini_12_tethered_stationkeeping.jpg 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Gemini_12_tethered_stationkeeping.jpg" title="Enlarge">
+          </a>
+         </div>
+         Gemini 12 tethered stationkeeping
+        </div>
+       </div>
+      </div>
+      <p>
+       At the completion of the previous Gemini flight, the program still had not demonstrated that an astronaut could work easily and efficiently outside the spacecraft. In preparation for Gemini XII new, improved restraints were added to the outside of the capsule, and a new technique—underwater training—was introduced, which would become a staple of future space-walk simulation. Aldrin's two-hour, 20-minute tethered space-walk, during which he photographed star fields, retrieved a micrometeorite collector and did other chores, at last demonstrated the feasibility of extravehicular activity. Two more stand-up EVAs also went smoothly, as did the by-now routine rendezvous and docking with an Agena which was done "manually" using the onboard computer and charts when a rendezvous radar failed. The climb to a higher orbit, however, was canceled because of a problem with the
+       <a href="/wiki/Agena_target_vehicle" title="Agena target vehicle">
+        Agena
+       </a>
+       booster.
+      </p>
+      <p>
+       During orbital injection, the GATV engine experienced a drop in turbopump speed lasting about 2.5 seconds. After this, pump performance returned to normal. Telemetry data indicated erratic pump speeds, but engine performance did not reflect this. Ground controllers decided not to risk the planned orbital boost maneuver since the exact reason for the pump slowdown was unclear. Following Gemini 12's reentry and during the GATV's 63rd orbit, they attempted to fire the propulsion system, but a stuck fuel valve prevented engine start from occurring.
+      </p>
+      <p>
+       It was suspected that a turbopump bearing failure caused the anomalous conditions during orbital injection, followed by heating and melting of pump components. The inability of ground controllers to start the engine during the 63rd orbit was possibly due to melted or loose debris blocking the fuel valve and preventing its operation. The telemetry data falsely reporting erratic pump speed was concluded to be debris being knocked around and affecting the data probes.
+      </p>
+      <p>
+       Many documentaries
+       <sup class="noprint Inline-Template" style="white-space:nowrap;">
+        [
+        <i>
+         <a class="mw-redirect" href="/wiki/Wikipedia:AUDIENCE" title="Wikipedia:AUDIENCE">
+          <span title="Wikipedia:AUDIENCE">
+           example needed
+          </span>
+         </a>
+        </i>
+        ]
+       </sup>
+       afterward largely credit the
+       <a class="mw-redirect" href="/wiki/Extra-vehicular_activity" title="Extra-vehicular activity">
+        spacewalk
+       </a>
+       innovations, including the
+       <a href="/wiki/Neutral_buoyancy_simulation_as_a_training_aid" title="Neutral buoyancy simulation as a training aid">
+        underwater training
+       </a>
+       , to Aldrin himself.
+       <sup class="reference" id="cite_ref-4">
+        <a href="#cite_note-4">
+         [4]
+        </a>
+       </sup>
+      </p>
+      <p>
+       Gemini 12 was designed to perform rendezvous and docking with the Agena target vehicle, to conduct three
+       <a class="mw-redirect" href="/wiki/Extra-vehicular_activity" title="Extra-vehicular activity">
+        extra-vehicular activity (EVA)
+       </a>
+       operations, to conduct a tethered stationkeeping exercise, to perform docked maneuvers using the Agena propulsion system to change orbit, and demonstrate an automatic reentry.
+      </p>
+      <table class="wikitable plainrowheaders">
+       <tr>
+        <th scope="col">
+         Gemini 12
+        </th>
+        <th scope="col">
+         Agena info
+        </th>
+       </tr>
+       <tr>
+        <th scope="row">
+         Agena
+        </th>
+        <td>
+         GATV-5001A
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         NSSDC ID:
+        </th>
+        <td>
+         1966-103A
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         Mass
+        </th>
+        <td>
+         3,175 kilograms (7,000 lb)
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         Launch site
+        </th>
+        <td>
+         LC-14
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         Launch date
+        </th>
+        <td>
+         November 11, 1966
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         Launch time
+        </th>
+        <td>
+         19:07:59 UTC
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         1st perigee
+        </th>
+        <td>
+         294.7 kilometres (183.1 mi)
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         1st apogee
+        </th>
+        <td>
+         303.2 kilometres (188.4 mi)
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         Period
+        </th>
+        <td>
+         90.56 m
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         Inclination
+        </th>
+        <td>
+         28.86
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         Reentered
+        </th>
+        <td>
+         November 15, 1966
+        </td>
+       </tr>
+      </table>
+      <p>
+       When Gemini 12 was being planned, one of the possibilities raised was the potential for the flight to be run in conjunction with the
+       <a href="/wiki/Apollo_1" title="Apollo 1">
+        first Apollo mission
+       </a>
+       , which had been tentatively scheduled for the last quarter of 1966.
+       <sup class="reference" id="cite_ref-5">
+        <a href="#cite_note-5">
+         [5]
+        </a>
+       </sup>
+       By May 1966, delays in making Apollo ready for flight just by itself, and the extra time needed to incorporate compatibility with the Gemini, made that impractical.
+       <sup class="reference" id="cite_ref-6">
+        <a href="#cite_note-6">
+         [6]
+        </a>
+       </sup>
+       This became moot when slippage in readiness of the
+       <a href="/wiki/Apollo_Command/Service_Module" title="Apollo Command/Service Module">
+        Apollo spacecraft
+       </a>
+       caused the last-quarter 1966 target date to be missed, and the Apollo mission was rescheduled for February 21, 1967.
+       <sup class="reference" id="cite_ref-SP4029_7-0">
+        <a href="#cite_note-SP4029-7">
+         [7]
+        </a>
+       </sup>
+      </p>
+      <div style="clear:both;">
+      </div>
+      <h3>
+       <span class="mw-headline" id="Experiments">
+        Experiments
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Gemini_12&amp;action=edit&amp;section=9" title="Edit section: Experiments">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Lovell_and_Aldrin_on_Deck_-_GPN-2000-001356.jpg">
+         <img alt="" class="thumbimage" data-file-height="3000" data-file-width="1983" height="333" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Lovell_and_Aldrin_on_Deck_-_GPN-2000-001356.jpg/220px-Lovell_and_Aldrin_on_Deck_-_GPN-2000-001356.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Lovell_and_Aldrin_on_Deck_-_GPN-2000-001356.jpg/330px-Lovell_and_Aldrin_on_Deck_-_GPN-2000-001356.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Lovell_and_Aldrin_on_Deck_-_GPN-2000-001356.jpg/440px-Lovell_and_Aldrin_on_Deck_-_GPN-2000-001356.jpg 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Lovell_and_Aldrin_on_Deck_-_GPN-2000-001356.jpg" title="Enlarge">
+          </a>
+         </div>
+         Gemini 12 crew after splashdown
+        </div>
+       </div>
+      </div>
+      <p>
+       The 14 scientific experiments were (1) frog egg growth under zero-g, (2) synoptic terrain photography, (3) synoptic weather photography, (4) nuclear emulsions, (5) airglow horizon photography, (6) UV astronomical photography, and (7) dim sky photography. Two micrometeorite collection experiments, as well as three space phenomena photography experiments, were not fully completed.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Reentry">
+        Reentry
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Gemini_12&amp;action=edit&amp;section=10" title="Edit section: Reentry">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       The capsule was controlled on reentry by computer and splashed down 4.8 kilometers from its target. The crew were taken aboard the aircraft carrier
+       <a href="/wiki/USS_Wasp_(CV-18)" title="USS Wasp (CV-18)">
+        USS
+        <i>
+         Wasp
+        </i>
+       </a>
+       .
+      </p>
+      <p>
+       The Gemini 12 mission was supported by the following U.S. Department of Defense resources; 9,775 personnel, 65 aircraft and 12 ships.
+      </p>
+      <p>
+       Postflight medical examination disclosed no unusual conditions in either astronaut. Both were slightly exhausted and dehydrated due to problems with the spacecraft's water supply system forcing them to reduce their fluid intake on the last day of the mission and Lovell had a mild case of
+       <a class="mw-redirect" href="/wiki/Pinkeye" title="Pinkeye">
+        pinkeye
+       </a>
+       .
+      </p>
+      <h2>
+       <span class="mw-headline" id="Insignia">
+        Insignia
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Gemini_12&amp;action=edit&amp;section=11" title="Edit section: Insignia">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="thumb tleft">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Gemini_12_Flown_Fliteline_Gold-Plated_Sterling_Silver_Medallion.jpg">
+         <img alt="" class="thumbimage" data-file-height="2124" data-file-width="4206" height="111" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Gemini_12_Flown_Fliteline_Gold-Plated_Sterling_Silver_Medallion.jpg/220px-Gemini_12_Flown_Fliteline_Gold-Plated_Sterling_Silver_Medallion.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Gemini_12_Flown_Fliteline_Gold-Plated_Sterling_Silver_Medallion.jpg/330px-Gemini_12_Flown_Fliteline_Gold-Plated_Sterling_Silver_Medallion.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Gemini_12_Flown_Fliteline_Gold-Plated_Sterling_Silver_Medallion.jpg/440px-Gemini_12_Flown_Fliteline_Gold-Plated_Sterling_Silver_Medallion.jpg 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Gemini_12_Flown_Fliteline_Gold-Plated_Sterling_Silver_Medallion.jpg" title="Enlarge">
+          </a>
+         </div>
+         Gemini 12 space-flown
+         <a class="mw-redirect" href="/wiki/NASA_space-flown_Robbins_medallions_of_the_Apollo_missions#Gemini_mission_space-flown_Fliteline_medallions" title="NASA space-flown Robbins medallions of the Apollo missions">
+          Fliteline Medallion
+         </a>
+        </div>
+       </div>
+      </div>
+      <p>
+       The patch's unique orange and black colors are a link to the flight's original scheduled date close to Halloween. The Roman numeral XII is located at the 12 o'clock position on the face of a clock, with the Gemini spacecraft pointing to it like the hour hand of a clock. This represents the position of Gemini 12 as the last flight of the Gemini program. With the Apollo project following this last flight of the Gemini program, the ultimate objective—the Moon—is symbolized by the crescent on the left.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Spacecraft_location">
+        Spacecraft location
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Gemini_12&amp;action=edit&amp;section=12" title="Edit section: Spacecraft location">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       After several years at the
+       <a href="/wiki/Museum_of_Transport_and_Technology" title="Museum of Transport and Technology">
+        Museum of Transport and Technology
+       </a>
+       , in
+       <a href="/wiki/Auckland" title="Auckland">
+        Auckland
+       </a>
+       ,
+       <a href="/wiki/New_Zealand" title="New Zealand">
+        New Zealand
+       </a>
+       , the spacecraft was returned to the United States. It is now on display at the
+       <a href="/wiki/Adler_Planetarium" title="Adler Planetarium">
+        Adler Planetarium
+       </a>
+       ,
+       <a class="mw-redirect" href="/wiki/Chicago,_Illinois" title="Chicago, Illinois">
+        Chicago, Illinois
+       </a>
+       . Lovell and Aldrin were reunited with the spacecraft November 9, 2006 during the opening for Adler's "Shoot for the Moon" exhibit, almost 40 years after the mission launched.
+      </p>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Gemini_12&amp;action=edit&amp;section=13" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Gemini_XII_Mission_Image_-_Solar_Eclipse.jpg">
+         <img alt="" class="thumbimage" data-file-height="417" data-file-width="510" height="180" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Gemini_XII_Mission_Image_-_Solar_Eclipse.jpg/220px-Gemini_XII_Mission_Image_-_Solar_Eclipse.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Gemini_XII_Mission_Image_-_Solar_Eclipse.jpg/330px-Gemini_XII_Mission_Image_-_Solar_Eclipse.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Gemini_XII_Mission_Image_-_Solar_Eclipse.jpg/440px-Gemini_XII_Mission_Image_-_Solar_Eclipse.jpg 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Gemini_XII_Mission_Image_-_Solar_Eclipse.jpg" title="Enlarge">
+          </a>
+         </div>
+         Photo of solar eclipse taken by the crew of Gemini 12
+        </div>
+       </div>
+      </div>
+      <div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+       <ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+        <li style="display:table-row">
+         <span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center">
+          <img alt="" class="noviewer" data-file-height="128" data-file-width="128" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/RocketSunIcon.svg/28px-RocketSunIcon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/RocketSunIcon.svg/42px-RocketSunIcon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d6/RocketSunIcon.svg/56px-RocketSunIcon.svg.png 2x" width="28"/>
+         </span>
+         <span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle">
+          <a href="/wiki/Portal:Spaceflight" title="Portal:Spaceflight">
+           Spaceflight portal
+          </a>
+         </span>
+        </li>
+       </ul>
+      </div>
+      <ul>
+       <li>
+        <a class="mw-redirect" href="/wiki/Agena_Target_Vehicle" title="Agena Target Vehicle">
+         Agena Target Vehicle
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Extra-vehicular_activity" title="Extra-vehicular activity">
+         Extra-vehicular activity
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/List_of_spacewalks" title="List of spacewalks">
+         List of spacewalks
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Splashdown_(spacecraft_landing)" title="Splashdown (spacecraft landing)">
+         Splashdown
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Solar_eclipse_of_November_12,_1966" title="Solar eclipse of November 12, 1966">
+         Solar eclipse of November 12, 1966
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Space_suit" title="Space suit">
+         Space suit
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Gemini_12&amp;action=edit&amp;section=14" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       <img alt="" data-file-height="196" data-file-width="196" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/6/62/PD-icon.svg/12px-PD-icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/62/PD-icon.svg/18px-PD-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/6/62/PD-icon.svg/24px-PD-icon.svg.png 2x" width="12"/>
+       This article incorporates
+       <a class="external text" href="http://www.jsc.nasa.gov/policies.html#Guidelines" rel="nofollow">
+        public domain material
+       </a>
+       from websites or documents of the
+       <a href="/wiki/NASA" title="NASA">
+        National Aeronautics and Space Administration
+       </a>
+       .
+      </p>
+      <div class="reflist" style="list-style-type: decimal;">
+       <div class="mw-references-wrap">
+        <ol class="references">
+         <li id="cite_note-mission-1">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-mission_1-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-mission_1-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-mission_1-2">
+            <sup>
+             <i>
+              <b>
+               c
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.ibiblio.org/apollo/Documents/Gemini12MissionReport.pdf" rel="nofollow">
+             "Gemini XII"
+            </a>
+            <span style="font-size:85%;">
+             (PDF)
+            </span>
+            .
+            <i>
+             Gemini Program Mission Report
+            </i>
+            .
+            <a href="/wiki/NASA" title="NASA">
+             NASA
+            </a>
+            . 1967
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              2008-11-10
+             </span>
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Gemini+Program+Mission+Report&amp;rft.atitle=Gemini+XII&amp;rft.date=1967&amp;rft_id=http%3A%2F%2Fwww.ibiblio.org%2Fapollo%2FDocuments%2FGemini12MissionReport.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGemini+12">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-satcat-2">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-satcat_2-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            McDowell, Jonathan.
+            <a class="external text" href="http://planet4589.org/space/log/satcat.txt" rel="nofollow">
+             "SATCAT"
+            </a>
+            . Jonathan's Space Pages
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              March 23,
+             </span>
+             2014
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=SATCAT&amp;rft.pub=Jonathan%27s+Space+Pages&amp;rft.aulast=McDowell&amp;rft.aufirst=Jonathan&amp;rft_id=http%3A%2F%2Fplanet4589.org%2Fspace%2Flog%2Fsatcat.txt&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGemini+12">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-titans-3">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-titans_3-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            Hacker, Barton C.; Grimwood, James M. (September 1974).
+            <a class="external text" href="http://www.hq.nasa.gov/office/pao/History/SP-4203/ch11-1.htm" rel="nofollow">
+             "Chapter 11 Pillars of Confidence"
+            </a>
+            .
+            <a class="external text" href="http://www.hq.nasa.gov/office/pao/History/SP-4203/toc.htm" rel="nofollow">
+             <i>
+              On the Shoulders of Titans: A History of Project Gemini
+             </i>
+            </a>
+            . NASA History Series. SP-4203. NASA. p. 239.
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Chapter+11+Pillars+of+Confidence&amp;rft.btitle=On+the+Shoulders+of+Titans%3A+A+History+of+Project+Gemini&amp;rft.series=NASA+History+Series&amp;rft.pages=239&amp;rft.pub=NASA&amp;rft.date=1974-09&amp;rft.aulast=Hacker&amp;rft.aufirst=Barton+C.&amp;rft.au=Grimwood%2C+James+M.&amp;rft_id=http%3A%2F%2Fwww.hq.nasa.gov%2Foffice%2Fpao%2FHistory%2FSP-4203%2Fch11-1.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGemini+12">
+            <span style="display:none;">
+            </span>
+           </span>
+           With Gemini IV, NASA changed to Roman numerals for Gemini mission designations.
+          </span>
+         </li>
+         <li id="cite_note-4">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-4">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           "Friends and Rivals," When We Left Earth: The NASA Missions, Season 1 Ep. 2, Discovery Channel (2008).
+          </span>
+         </li>
+         <li id="cite_note-5">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-5">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation news">
+            <a class="external text" href="https://news.google.com/newspapers?id=HIwyAAAAIBAJ&amp;sjid=krcFAAAAIBAJ&amp;dq=apollo&amp;pg=4087%2C7171310" rel="nofollow">
+             "3 Crewmen Picked For 1st Apollo Flight"
+            </a>
+            .
+            <i>
+             <a href="/wiki/The_Palm_Beach_Post" title="The Palm Beach Post">
+              The Palm Beach Post
+             </a>
+            </i>
+            . West Palm Beach, FL.
+            <a href="/wiki/Associated_Press" title="Associated Press">
+             Associated Press
+            </a>
+            . March 22, 1966. p. 1
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              July 12,
+             </span>
+             2013
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Palm+Beach+Post&amp;rft.atitle=3+Crewmen+Picked+For+1st+Apollo+Flight&amp;rft.pages=1&amp;rft.date=1966-03-22&amp;rft_id=https%3A%2F%2Fnews.google.com%2Fnewspapers%3Fid%3DHIwyAAAAIBAJ%26sjid%3DkrcFAAAAIBAJ%26dq%3Dapollo%26pg%3D4087%252C7171310&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGemini+12">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-6">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-6">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation news">
+            <a class="external text" href="https://news.google.com/newspapers?id=WjNbAAAAIBAJ&amp;sjid=jU8NAAAAIBAJ&amp;dq=apollo&amp;pg=1914%2C190638" rel="nofollow">
+             "Apollo Shot May Come This Year"
+            </a>
+            .
+            <i>
+             The Bonham Daily Favorite
+            </i>
+            . Bonham, TX.
+            <a href="/wiki/United_Press_International" title="United Press International">
+             United Press International
+            </a>
+            . May 5, 1966. p. 1
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              July 12,
+             </span>
+             2013
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Bonham+Daily+Favorite&amp;rft.atitle=Apollo+Shot+May+Come+This+Year&amp;rft.pages=1&amp;rft.date=1966-05-05&amp;rft_id=https%3A%2F%2Fnews.google.com%2Fnewspapers%3Fid%3DWjNbAAAAIBAJ%26sjid%3DjU8NAAAAIBAJ%26dq%3Dapollo%26pg%3D1914%252C190638&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGemini+12">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-SP4029-7">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-SP4029_7-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            Orloff, Richard W. (September 2004) [First published 2000].
+            <a class="external text" href="https://history.nasa.gov/SP-4029/Apollo_01a_Summary.htm" rel="nofollow">
+             "Apollo 1 - The Fire: 27 January 1967"
+            </a>
+            .
+            <a class="external text" href="https://history.nasa.gov/SP-4029/SP-4029.htm" rel="nofollow">
+             <i>
+              Apollo by the Numbers: A Statistical Reference
+             </i>
+            </a>
+            .
+            <i>
+             NASA History Division, Office of Policy and Plans
+            </i>
+            . NASA History Series. Washington, D.C.: NASA.
+            <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+             ISBN
+            </a>
+            <a href="/wiki/Special:BookSources/0-16-050631-X" title="Special:BookSources/0-16-050631-X">
+             0-16-050631-X
+            </a>
+            .
+            <a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">
+             LCCN
+            </a>
+            <a class="external text" href="//lccn.loc.gov/00061677" rel="nofollow">
+             00061677
+            </a>
+            . NASA SP-2000-4029
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              July 12,
+             </span>
+             2013
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Apollo+1+-+The+Fire%3A+27+January+1967&amp;rft.btitle=Apollo+by+the+Numbers%3A+A+Statistical+Reference&amp;rft.place=Washington%2C+D.C.&amp;rft.series=NASA+History+Series&amp;rft.pub=NASA&amp;rft.date=2004-09&amp;rft_id=info%3Alccn%2F00061677&amp;rft.isbn=0-16-050631-X&amp;rft.aulast=Orloff&amp;rft.aufirst=Richard+W.&amp;rft_id=https%3A%2F%2Fhistory.nasa.gov%2FSP-4029%2FApollo_01a_Summary.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGemini+12">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Gemini_12&amp;action=edit&amp;section=15" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+       <tr>
+        <td class="mbox-image">
+         <img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/>
+        </td>
+        <td class="mbox-text plainlist">
+         Wikimedia Commons has media related to
+         <i>
+          <b>
+           <a class="extiw" href="https://commons.wikimedia.org/wiki/Special:Search/Gemini_12" title="commons:Special:Search/Gemini 12">
+            Gemini 12
+           </a>
+          </b>
+         </i>
+         .
+        </td>
+       </tr>
+      </table>
+      <ul>
+       <li>
+        <a class="external text" href="https://web.archive.org/web/20090621231157/https://mira.hq.nasa.gov/history/ws/hdmshrc/all/main/DDD/25016.PDF" rel="nofollow">
+         NASA Gemini 12 press kit - Nov 3, 1966
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://www.ibiblio.org/apollo/Documents/Gemini12MissionReport.pdf" rel="nofollow">
+         Gemini 12 Mission Report (PDF) January 1967
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="https://www.youtube.com/watch?v=Eb4tTfFraxs" rel="nofollow">
+         <span class="plainlinks">
+          <i>
+           Gemini XII Mission
+          </i>
+          - 1966 NASA Documentary
+         </span>
+        </a>
+        on
+        <a href="/wiki/YouTube" title="YouTube">
+         YouTube
+        </a>
+       </li>
+       <li>
+        Spaceflight Mission Patches:
+        <a class="external free" href="http://www.genedorr.com/patches/Intro.html" rel="nofollow">
+         http://www.genedorr.com/patches/Intro.html
+        </a>
+       </li>
+       <li>
+        <a class="external free" href="http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1966-104A" rel="nofollow">
+         http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1966-104A
+        </a>
+       </li>
+       <li>
+        U.S. Space Objects Registry
+        <a class="external free" href="https://web.archive.org/web/20090521121750/http://usspaceobjectsregistry.state.gov/search/index.cfm" rel="nofollow">
+         https://web.archive.org/web/20090521121750/http://usspaceobjectsregistry.state.gov/search/index.cfm
+        </a>
+       </li>
+       <li>
+        <cite class="citation web">
+         <a class="external text" href="http://tjrhino1.umsl.edu/whmc/view.php?description_get=Gemini+12" rel="nofollow">
+          "Gemini 12 photographs"
+         </a>
+         .
+         <a href="/wiki/University_of_Missouri%E2%80%93St._Louis" title="University of Missouri–St. Louis">
+          University of Missouri–St. Louis
+         </a>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Gemini+12+photographs&amp;rft.pub=University+of+Missouri%E2%80%93St.+Louis&amp;rft_id=http%3A%2F%2Ftjrhino1.umsl.edu%2Fwhmc%2Fview.php%3Fdescription_get%3DGemini%2B12&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGemini+12">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+       <li>
+        <a class="external text" href="https://www.panoramio.com/photo/8588521" rel="nofollow">
+         Gemini XII Cockpit in crosseyed-3D stereoview format
+        </a>
+       </li>
+      </ul>
+      <div aria-labelledby="Project_Gemini" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="3" scope="col">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:Gemini_program" title="Template:Gemini program">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a href="/wiki/Template_talk:Gemini_program" title="Template talk:Gemini program">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Gemini_program&amp;action=edit">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="Project_Gemini" style="font-size:114%;margin:0 4em">
+           <a href="/wiki/Project_Gemini" title="Project Gemini">
+            Project Gemini
+           </a>
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Missions
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+          </div>
+          <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%;font-weight:normal;">
+             Unmanned
+            </th>
+            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Gemini_1" title="Gemini 1">
+                 Gemini 1
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Gemini_2" title="Gemini 2">
+                 2
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%;font-weight:normal;">
+             Manned
+            </th>
+            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Gemini_3" title="Gemini 3">
+                 Gemini 3
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Gemini_4" title="Gemini 4">
+                 4
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Gemini_5" title="Gemini 5">
+                 5
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Gemini_7" title="Gemini 7">
+                 7
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Gemini_6A" title="Gemini 6A">
+                 6A
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Gemini_8" title="Gemini 8">
+                 8
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Gemini_9A" title="Gemini 9A">
+                 9A
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Gemini_10" title="Gemini 10">
+                 10
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Gemini_11" title="Gemini 11">
+                 11
+                </a>
+               </li>
+               <li>
+                <a class="mw-selflink selflink">
+                 12
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+          </table>
+         </td>
+         <td class="navbox-image" rowspan="4" style="width:1px;padding:0px 0px 0px 2px">
+          <div>
+           <a class="image" href="/wiki/File:GeminiPatch.png" title="Gemini insignia">
+            <img alt="Gemini insignia" data-file-height="1195" data-file-width="1200" height="100" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/GeminiPatch.png/100px-GeminiPatch.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/GeminiPatch.png/150px-GeminiPatch.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/GeminiPatch.png/200px-GeminiPatch.png 2x" width="100"/>
+           </a>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Components
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Project_Gemini" title="Project Gemini">
+              Gemini spacecraft
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Gemini_spacecraft_No._2" title="Gemini spacecraft No. 2">
+                Unit #2
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Orbit_Attitude_and_Maneuvering_System" title="Orbit Attitude and Maneuvering System">
+              Orbit Attitude and Maneuvering System
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Titan_II_GLV" title="Titan II GLV">
+              Titan rocket
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Agena_target_vehicle" title="Agena target vehicle">
+              Agena target vehicle
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Gemini_space_suit" title="Gemini space suit">
+              Gemini space suit
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Launch sites
+         </th>
+         <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Cape_Canaveral_Air_Force_Station_Launch_Complex_19" title="Cape Canaveral Air Force Station Launch Complex 19">
+              Cape Canaveral Air Force Station Launch Complex 19
+             </a>
+             /
+             <a href="/wiki/Cape_Canaveral_Air_Force_Station_Launch_Complex_14" title="Cape Canaveral Air Force Station Launch Complex 14">
+              Launch Complex 14
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Developments
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Advanced_Gemini" title="Advanced Gemini">
+              Advanced Gemini
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Blue_Gemini" title="Blue Gemini">
+              Blue Gemini
+             </a>
+             /
+             <a href="/wiki/Manned_Orbital_Development_System" title="Manned Orbital Development System">
+              Manned Orbital Development System
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Manned_Orbiting_Laboratory" title="Manned Orbiting Laboratory">
+              Manned Orbiting Laboratory and Gemini B
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/OPS_0855" title="OPS 0855">
+                OPS 0855
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Gemini_spacecraft_No._2" title="Gemini spacecraft No. 2">
+                Gemini B prototype
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Big_Gemini" title="Big Gemini">
+              Big Gemini
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <div aria-labelledby="NASA" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="3" scope="col" style="text-align: center;">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:NASA_space_program" title="Template:NASA space program">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a href="/wiki/Template_talk:NASA_space_program" title="Template talk:NASA space program">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:NASA_space_program&amp;action=edit">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="NASA" style="font-size:114%;margin:0 4em">
+           <a href="/wiki/NASA" title="NASA">
+            NASA
+           </a>
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Space_policy_of_the_United_States" title="Space policy of the United States">
+           Policy
+          </a>
+          and history
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+          </div>
+          <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%;text-align: center;">
+             History
+            </th>
+            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/National_Advisory_Committee_for_Aeronautics" title="National Advisory Committee for Aeronautics">
+                 NACA
+                </a>
+                <small>
+                 (1915)
+                </small>
+               </li>
+               <li>
+                <a href="/wiki/National_Aeronautics_and_Space_Act" title="National Aeronautics and Space Act">
+                 National Aeronautics and Space Act
+                </a>
+                <small>
+                 (1958)
+                </small>
+               </li>
+               <li>
+                <a href="/wiki/Space_Task_Group" title="Space Task Group">
+                 Space Task Group
+                </a>
+                <small>
+                 (1958)
+                </small>
+               </li>
+               <li>
+                <a href="/wiki/Thomas_O._Paine#National_Commission_on_Space" title="Thomas O. Paine">
+                 Paine
+                </a>
+                <small>
+                 (1986)
+                </small>
+               </li>
+               <li>
+                <a href="/wiki/Rogers_Commission_Report" title="Rogers Commission Report">
+                 Rogers
+                </a>
+                <small>
+                 (1986)
+                </small>
+               </li>
+               <li>
+                <a href="/wiki/Ride_Report" title="Ride Report">
+                 Ride
+                </a>
+                <small>
+                 (1987)
+                </small>
+               </li>
+               <li>
+                <a href="/wiki/Space_Exploration_Initiative" title="Space Exploration Initiative">
+                 Space Exploration Initiative
+                </a>
+                <small>
+                 (1989)
+                </small>
+               </li>
+               <li>
+                <a href="/wiki/Advisory_Committee_on_the_Future_of_the_United_States_Space_Program" title="Advisory Committee on the Future of the United States Space Program">
+                 Augustine
+                </a>
+                <small>
+                 (1990)
+                </small>
+               </li>
+               <li>
+                <a href="/wiki/Space_policy_of_the_United_States#Clinton_administration" title="Space policy of the United States">
+                 U.S. National Space Policy
+                </a>
+                <small>
+                 (1996)
+                </small>
+               </li>
+               <li>
+                <a href="/wiki/Commission_on_the_Future_of_the_United_States_Aerospace_Industry" title="Commission on the Future of the United States Aerospace Industry">
+                 CFUSAI
+                </a>
+                <small>
+                 (2002)
+                </small>
+               </li>
+               <li>
+                <a href="/wiki/Columbia_Accident_Investigation_Board" title="Columbia Accident Investigation Board">
+                 CAIB
+                </a>
+                <small>
+                 (2003)
+                </small>
+               </li>
+               <li>
+                <a href="/wiki/Vision_for_Space_Exploration" title="Vision for Space Exploration">
+                 Vision for Space Exploration
+                </a>
+                <small>
+                 (2004)
+                </small>
+               </li>
+               <li>
+                <a href="/wiki/President%27s_Commission_on_Implementation_of_United_States_Space_Exploration_Policy" title="President's Commission on Implementation of United States Space Exploration Policy">
+                 Aldridge
+                </a>
+                <small>
+                 (2004)
+                </small>
+               </li>
+               <li>
+                <a href="/wiki/Review_of_United_States_Human_Space_Flight_Plans_Committee" title="Review of United States Human Space Flight Plans Committee">
+                 Augustine
+                </a>
+                <small>
+                 (2009)
+                </small>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%;text-align: center;">
+             General
+            </th>
+            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Space_Race" title="Space Race">
+                 Space Race
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/List_of_Administrators_and_Deputy_Administrators_of_NASA" title="List of Administrators and Deputy Administrators of NASA">
+                 Administrator and Deputy Administrator
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/NASA_Chief_Scientist" title="NASA Chief Scientist">
+                 Chief Scientist
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/NASA_Astronaut_Corps" title="NASA Astronaut Corps">
+                 Astronaut Corps
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Budget_of_NASA" title="Budget of NASA">
+                 Budget
+                </a>
+               </li>
+               <li>
+                <a class="mw-redirect" href="/wiki/NASA_spin-off_technologies" title="NASA spin-off technologies">
+                 Spin-off technologies
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/NASA_TV" title="NASA TV">
+                 NASA TV
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/NASA_Social" title="NASA Social">
+                 NASA Social
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Launch_Services_Program" title="Launch Services Program">
+                 Launch Services Program
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Kennedy_Space_Center" title="Kennedy Space Center">
+                 Kennedy Space Center
+                </a>
+                <ul>
+                 <li>
+                  <a href="/wiki/Vehicle_Assembly_Building" title="Vehicle Assembly Building">
+                   Vehicle Assembly Building
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Kennedy_Space_Center_Launch_Complex_39" title="Kennedy Space Center Launch Complex 39">
+                   Launch Complex 39
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Launch_Control_Center" title="Launch Control Center">
+                   Launch Control Center
+                  </a>
+                 </li>
+                </ul>
+               </li>
+               <li>
+                <a href="/wiki/Johnson_Space_Center" title="Johnson Space Center">
+                 Johnson Space Center
+                </a>
+                <ul>
+                 <li>
+                  <a href="/wiki/Christopher_C._Kraft_Jr._Mission_Control_Center" title="Christopher C. Kraft Jr. Mission Control Center">
+                   Mission Control
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Lunar_Sample_Laboratory_Facility" title="Lunar Sample Laboratory Facility">
+                   Lunar Sample Laboratory
+                  </a>
+                 </li>
+                </ul>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+          </table>
+         </td>
+         <td class="navbox-image" rowspan="7" style="width:1px;padding:0px 0px 0px 2px">
+          <div>
+           <a class="image" href="/wiki/File:NASA_logo.svg">
+            <img alt="NASA logo.svg" data-file-height="240" data-file-width="290" height="58" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/70px-NASA_logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/105px-NASA_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/140px-NASA_logo.svg.png 2x" width="70"/>
+           </a>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Robotic_spacecraft" title="Robotic spacecraft">
+           Robotic
+          </a>
+          programs
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+          </div>
+          <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%;text-align: center;">
+             Past
+            </th>
+            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Hitchhiker_Program" title="Hitchhiker Program">
+                 Hitchhiker
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Mariner_program" title="Mariner program">
+                 Mariner
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Mariner_Mark_II" title="Mariner Mark II">
+                 Mariner Mark II
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/MESUR" title="MESUR">
+                 MESUR
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Mars_Surveyor_%2798_program" title="Mars Surveyor '98 program">
+                 Mars Surveyor '98
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/New_Millennium_Program" title="New Millennium Program">
+                 New Millennium
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Lunar_Orbiter_program" title="Lunar Orbiter program">
+                 Lunar Orbiter
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Pioneer_program" title="Pioneer program">
+                 Pioneer
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Planetary_Observer_program" title="Planetary Observer program">
+                 Planetary Observer
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Ranger_program" title="Ranger program">
+                 Ranger
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Surveyor_program" title="Surveyor program">
+                 Surveyor
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Viking_program" title="Viking program">
+                 Viking
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Project_Prometheus" title="Project Prometheus">
+                 Project Prometheus
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Mars_Scout_Program" title="Mars Scout Program">
+                 Mars Scout
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%;text-align: center;">
+             Current
+            </th>
+            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Living_With_a_Star" title="Living With a Star">
+                 Living With a Star
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Lunar_Precursor_Robotic_Program" title="Lunar Precursor Robotic Program">
+                 Lunar Precursor Robotic Program
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Earth_Observing_System" title="Earth Observing System">
+                 Earth Observing System
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Great_Observatories_program" title="Great Observatories program">
+                 Great Observatories program
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Explorers_program" title="Explorers program">
+                 Explorer
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Small_Explorer_program" title="Small Explorer program">
+                 Small explorer
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Voyager_program" title="Voyager program">
+                 Voyager
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Discovery_Program" title="Discovery Program">
+                 Discovery
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/New_Frontiers_program" title="New Frontiers program">
+                 New Frontiers
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Mars_Exploration_Rover" title="Mars Exploration Rover">
+                 Mars Exploration Rover
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Human_spaceflight" title="Human spaceflight">
+           Human spaceflight
+          </a>
+          <br/>
+          programs
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+          </div>
+          <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%;text-align: center;">
+             Past
+            </th>
+            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/North_American_X-15" title="North American X-15">
+                 X-15
+                </a>
+                <small>
+                 (
+                 <a href="/wiki/Sub-orbital_spaceflight" title="Sub-orbital spaceflight">
+                  suborbital
+                 </a>
+                 )
+                </small>
+               </li>
+               <li>
+                <a href="/wiki/Project_Mercury" title="Project Mercury">
+                 Mercury
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Project_Gemini" title="Project Gemini">
+                 Gemini
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Apollo_program" title="Apollo program">
+                 Apollo
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Apollo%E2%80%93Soyuz_Test_Project" title="Apollo–Soyuz Test Project">
+                 Apollo–Soyuz Test Project
+                </a>
+                <small>
+                 (with the
+                 <a href="/wiki/Soviet_space_program" title="Soviet space program">
+                  Soviet space program
+                 </a>
+                 )
+                </small>
+               </li>
+               <li>
+                <a href="/wiki/Skylab" title="Skylab">
+                 Skylab
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Space_Shuttle_program" title="Space Shuttle program">
+                 Space Shuttle
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Shuttle%E2%80%93Mir_Program" title="Shuttle–Mir Program">
+                 Shuttle–Mir
+                </a>
+                <small>
+                 (with
+                 <a href="/wiki/Roscosmos" title="Roscosmos">
+                  Roscosmos State Corporation
+                 </a>
+                 )
+                </small>
+               </li>
+               <li>
+                <a href="/wiki/Constellation_program" title="Constellation program">
+                 Constellation
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%;text-align: center;">
+             Current
+            </th>
+            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/International_Space_Station_program" title="International Space Station program">
+                 International Space Station
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Commercial_Orbital_Transportation_Services" title="Commercial Orbital Transportation Services">
+                 Commercial Orbital Transportation Services
+                </a>
+                (COTS)
+               </li>
+               <li>
+                <a href="/wiki/Commercial_Crew_Development" title="Commercial Crew Development">
+                 Commercial Crew Development
+                </a>
+                (CCDev)
+               </li>
+               <li>
+                <a href="/wiki/Orion_(spacecraft)" title="Orion (spacecraft)">
+                 Orion
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          Individual featured
+          <br/>
+          <a href="/wiki/List_of_NASA_missions" title="List of NASA missions">
+           missions
+          </a>
+          <br/>
+          <small>
+           (human and robotic)
+          </small>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+          </div>
+          <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%;text-align: center;">
+             Past
+            </th>
+            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Cosmic_Background_Explorer" title="Cosmic Background Explorer">
+                 COBE
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Apollo_11" title="Apollo 11">
+                 Apollo 11
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Mercury-Redstone_3" title="Mercury-Redstone 3">
+                 Mercury 3
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Mercury-Atlas_6" title="Mercury-Atlas 6">
+                 Mercury-Atlas 6
+                </a>
+               </li>
+               <li>
+                <i>
+                 <a href="/wiki/Magellan_(spacecraft)" title="Magellan (spacecraft)">
+                  Magellan
+                 </a>
+                </i>
+               </li>
+               <li>
+                <i>
+                 <a href="/wiki/Pioneer_10" title="Pioneer 10">
+                  Pioneer 10
+                 </a>
+                </i>
+               </li>
+               <li>
+                <i>
+                 <a href="/wiki/Pioneer_11" title="Pioneer 11">
+                  Pioneer 11
+                 </a>
+                </i>
+               </li>
+               <li>
+                <a href="/wiki/Galileo_(spacecraft)" title="Galileo (spacecraft)">
+                 <i>
+                  Galileo
+                 </i>
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/GALEX" title="GALEX">
+                 GALEX
+                </a>
+               </li>
+               <li>
+                <a class="mw-redirect" href="/wiki/Gravity_Recovery_and_Interior_Laboratory" title="Gravity Recovery and Interior Laboratory">
+                 GRAIL
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Wilkinson_Microwave_Anisotropy_Probe" title="Wilkinson Microwave Anisotropy Probe">
+                 WMAP
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Space_Shuttle" title="Space Shuttle">
+                 Space Shuttle
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Sojourner_(rover)" title="Sojourner (rover)">
+                 <i>
+                  Sojourner
+                 </i>
+                 rover
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Spirit_(rover)" title="Spirit (rover)">
+                 <i>
+                  Spirit
+                 </i>
+                 rover
+                </a>
+               </li>
+               <li>
+                <a class="mw-redirect" href="/wiki/Lunar_Atmosphere_and_Dust_Environment_Explorer" title="Lunar Atmosphere and Dust Environment Explorer">
+                 LADEE
+                </a>
+               </li>
+               <li>
+                <i>
+                 <a href="/wiki/MESSENGER" title="MESSENGER">
+                  MESSENGER
+                 </a>
+                </i>
+               </li>
+               <li>
+                <a href="/wiki/Aquarius_(SAC-D_instrument)" title="Aquarius (SAC-D instrument)">
+                 Aquarius
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Cassini%E2%80%93Huygens" title="Cassini–Huygens">
+                 <i>
+                  Cassini
+                 </i>
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%;text-align: center;">
+             Currently
+             <br/>
+             operating
+            </th>
+            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Mars_Reconnaissance_Orbiter" title="Mars Reconnaissance Orbiter">
+                 MRO
+                </a>
+               </li>
+               <li>
+                <i>
+                 <a href="/wiki/2001_Mars_Odyssey" title="2001 Mars Odyssey">
+                  2001 Mars Odyssey
+                 </a>
+                </i>
+               </li>
+               <li>
+                <a href="/wiki/Dawn_(spacecraft)" title="Dawn (spacecraft)">
+                 <i>
+                  Dawn
+                 </i>
+                </a>
+               </li>
+               <li>
+                <i>
+                 <a href="/wiki/New_Horizons" title="New Horizons">
+                  New Horizons
+                 </a>
+                </i>
+               </li>
+               <li>
+                <a href="/wiki/Kepler_(spacecraft)" title="Kepler (spacecraft)">
+                 <i>
+                  Kepler
+                 </i>
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/International_Space_Station" title="International Space Station">
+                 International Space Station
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Hubble_Space_Telescope" title="Hubble Space Telescope">
+                 Hubble Space Telescope
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Spitzer_Space_Telescope" title="Spitzer Space Telescope">
+                 Spitzer
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Reuven_Ramaty_High_Energy_Solar_Spectroscopic_Imager" title="Reuven Ramaty High Energy Solar Spectroscopic Imager">
+                 RHESSI
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Neil_Gehrels_Swift_Observatory" title="Neil Gehrels Swift Observatory">
+                 <i>
+                  Swift
+                 </i>
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/THEMIS" title="THEMIS">
+                 THEMIS
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Mars_Exploration_Rover" title="Mars Exploration Rover">
+                 Mars Exploration Rover
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Curiosity_(rover)" title="Curiosity (rover)">
+                 <i>
+                  Curiosity
+                 </i>
+                 rover
+                </a>
+                <ul>
+                 <li>
+                  <a href="/wiki/Timeline_of_Mars_Science_Laboratory" title="Timeline of Mars Science Laboratory">
+                   timeline
+                  </a>
+                 </li>
+                </ul>
+               </li>
+               <li>
+                <a href="/wiki/Opportunity_(rover)" title="Opportunity (rover)">
+                 <i>
+                  Opportunity
+                 </i>
+                 rover
+                </a>
+                <ul>
+                 <li>
+                  <a class="mw-redirect" href="/wiki/List_of_surface_features_of_Mars_seen_by_Opportunity" title="List of surface features of Mars seen by Opportunity">
+                   observed
+                  </a>
+                 </li>
+                </ul>
+               </li>
+               <li>
+                <a href="/wiki/GOES_14" title="GOES 14">
+                 GOES 14
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Lunar_Reconnaissance_Orbiter" title="Lunar Reconnaissance Orbiter">
+                 Lunar Reconnaissance Orbiter
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/GOES_15" title="GOES 15">
+                 GOES 15
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Van_Allen_Probes" title="Van Allen Probes">
+                 Van Allen Probes
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Solar_Dynamics_Observatory" title="Solar Dynamics Observatory">
+                 SDO
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Juno_(spacecraft)" title="Juno (spacecraft)">
+                 <i>
+                  Juno
+                 </i>
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Mars_Science_Laboratory" title="Mars Science Laboratory">
+                 Mars Science Laboratory
+                </a>
+                <ul>
+                 <li>
+                  <a href="/wiki/Timeline_of_Mars_Science_Laboratory" title="Timeline of Mars Science Laboratory">
+                   timeline
+                  </a>
+                 </li>
+                </ul>
+               </li>
+               <li>
+                <a href="/wiki/NuSTAR" title="NuSTAR">
+                 NuSTAR
+                </a>
+               </li>
+               <li>
+                <i>
+                 <a href="/wiki/Voyager_1" title="Voyager 1">
+                  Voyager 1
+                 </a>
+                </i>
+                /
+                <a href="/wiki/Voyager_2" title="Voyager 2">
+                 <i>
+                  2
+                 </i>
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Wide-field_Infrared_Survey_Explorer" title="Wide-field Infrared Survey Explorer">
+                 WISE
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/MAVEN" title="MAVEN">
+                 MAVEN
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Magnetospheric_Multiscale_Mission" title="Magnetospheric Multiscale Mission">
+                 MMS
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/OSIRIS-REx" title="OSIRIS-REx">
+                 OSIRIS-REx
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%;text-align: center;">
+             Future
+            </th>
+            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Joint_Polar_Satellite_System" title="Joint Polar Satellite System">
+                 JPSS
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/James_Webb_Space_Telescope" title="James Webb Space Telescope">
+                 James Webb Space Telescope
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Wide_Field_Infrared_Survey_Telescope" title="Wide Field Infrared Survey Telescope">
+                 WFIRST
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/InSight" title="InSight">
+                 InSight
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Mars_2020" title="Mars 2020">
+                 Mars 2020
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/NISAR_(satellite)" title="NISAR (satellite)">
+                 NISAR
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Transiting_Exoplanet_Survey_Satellite" title="Transiting Exoplanet Survey Satellite">
+                 Transiting Exoplanet Survey Satellite
+                </a>
+               </li>
+               <li>
+                <i>
+                 <a href="/wiki/Europa_Clipper" title="Europa Clipper">
+                  Europa Clipper
+                 </a>
+                </i>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Space_Communications_and_Navigation_Program" title="Space Communications and Navigation Program">
+           Communications
+           <br/>
+           and navigation
+          </a>
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Canberra_Deep_Space_Communication_Complex" title="Canberra Deep Space Communication Complex">
+              Canberra
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Deep_Space_Atomic_Clock" title="Deep Space Atomic Clock">
+              Deep Space Atomic Clock
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/NASA_Deep_Space_Network" title="NASA Deep Space Network">
+              Deep Space Network
+             </a>
+             (
+             <a href="/wiki/Goldstone_Deep_Space_Communications_Complex" title="Goldstone Deep Space Communications Complex">
+              Goldstone
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Madrid_Deep_Space_Communications_Complex" title="Madrid Deep Space Communications Complex">
+              Madrid
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Near_Earth_Network" title="Near Earth Network">
+              Near Earth Network
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Space_Flight_Operations_Facility" title="Space Flight Operations Facility">
+              Space Flight Operations Facility
+             </a>
+             )
+            </li>
+            <li>
+             <a href="/wiki/Space_Network" title="Space Network">
+              Space Network
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          NASA lists
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Astronaut" title="Astronaut">
+              Astronauts
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/List_of_astronauts_by_name" title="List of astronauts by name">
+                by name
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/List_of_astronauts_by_year_of_selection" title="List of astronauts by year of selection">
+                by year
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/List_of_Apollo_astronauts" title="List of Apollo astronauts">
+                Apollo astronauts
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/List_of_NASA_aircraft" title="List of NASA aircraft">
+              List of NASA aircraft
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/List_of_NASA_missions" title="List of NASA missions">
+              List of NASA missions
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Unmanned_NASA_missions" title="Unmanned NASA missions">
+                unmanned missions
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/List_of_NASA_contractors" title="List of NASA contractors">
+              List of NASA contractors
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/List_of_United_States_rockets" title="List of United States rockets">
+              List of United States rockets
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/List_of_NASA_cancellations" title="List of NASA cancellations">
+              List of NASA cancellations
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/List_of_Space_Shuttle_missions" title="List of Space Shuttle missions">
+              List of Space Shuttle missions
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/List_of_Space_Shuttle_crews" title="List of Space Shuttle crews">
+                crews
+               </a>
+              </li>
+             </ul>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          NASA images
+          <br/>
+          and artwork
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <i>
+              <a href="/wiki/Earthrise" title="Earthrise">
+               Earthrise
+              </a>
+             </i>
+            </li>
+            <li>
+             <i>
+              <a href="/wiki/The_Blue_Marble" title="The Blue Marble">
+               The Blue Marble
+              </a>
+             </i>
+            </li>
+            <li>
+             <i>
+              <a href="/wiki/Family_Portrait_(Voyager)" title="Family Portrait (Voyager)">
+               Family Portrait
+              </a>
+             </i>
+             <ul>
+              <li>
+               <i>
+                <a href="/wiki/Pale_Blue_Dot" title="Pale Blue Dot">
+                 Pale Blue Dot
+                </a>
+               </i>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <i>
+              <a href="/wiki/Pillars_of_Creation" title="Pillars of Creation">
+               Pillars of Creation
+              </a>
+             </i>
+            </li>
+            <li>
+             <i>
+              <a href="/wiki/Mystic_Mountain" title="Mystic Mountain">
+               Mystic Mountain
+              </a>
+             </i>
+            </li>
+            <li>
+             <a href="/wiki/Family_Portrait_(MESSENGER)" title="Family Portrait (MESSENGER)">
+              <i>
+               Solar System Family Portrait
+              </i>
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/The_Day_the_Earth_Smiled" title="The Day the Earth Smiled">
+              The Day the Earth Smiled
+             </a>
+            </li>
+            <li>
+             <i>
+              <a href="/wiki/Fallen_Astronaut" title="Fallen Astronaut">
+               Fallen Astronaut
+              </a>
+             </i>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_plaque" title="Lunar plaque">
+              Lunar plaques
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Pioneer_plaque" title="Pioneer plaque">
+              Pioneer plaques
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Voyager_Golden_Record" title="Voyager Golden Record">
+              Voyager Golden Record
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/NASA_insignia" title="NASA insignia">
+              NASA insignia
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/NASA_space-flown_Gemini_and_Apollo_medallions" title="NASA space-flown Gemini and Apollo medallions">
+              Gemini and Apollo medallions
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Mission_patch" title="Mission patch">
+              Mission patches
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <td class="navbox-abovebelow" colspan="3" style="text-align: center;;font-weight:bold;">
+          <div>
+           <ul>
+            <li>
+             <img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/>
+             <a href="/wiki/Category:NASA" title="Category:NASA">
+              Category
+             </a>
+            </li>
+            <li>
+             <img alt="Commons page" data-file-height="1376" data-file-width="1024" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" title="Commons page" width="12"/>
+             <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:NASA" title="commons:Category:NASA">
+              Commons
+             </a>
+            </li>
+            <li>
+             <img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/>
+             <a href="/wiki/Portal:Spaceflight" title="Portal:Spaceflight">
+              Portal
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <div aria-labelledby="←_1965_·_Orbital_launches_in_1966_·_1967_→" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="2" scope="col">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:Orbital_launches_in_1966" title="Template:Orbital launches in 1966">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a href="/wiki/Template_talk:Orbital_launches_in_1966" title="Template talk:Orbital launches in 1966">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Orbital_launches_in_1966&amp;action=edit">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="←_1965_·_Orbital_launches_in_1966_·_1967_→" style="font-size:114%;margin:0 4em">
+           <b>
+            <a href="/wiki/1965_in_spaceflight" title="1965 in spaceflight">
+             ←
+             <small>
+              1965
+             </small>
+            </a>
+           </b>
+           <b>
+            ·
+           </b>
+           <a href="/wiki/1966_in_spaceflight" title="1966 in spaceflight">
+            <span class="vevent">
+             <span class="summary">
+              Orbital launches in
+              <span class="dtstart">
+               1966
+              </span>
+             </span>
+            </span>
+           </a>
+           <b>
+            ·
+           </b>
+           <b>
+            <a href="/wiki/1967_in_spaceflight" title="1967 in spaceflight">
+             <small>
+              1967
+             </small>
+             →
+            </a>
+           </b>
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <a href="/wiki/Kosmos_104" title="Kosmos 104">
+            Kosmos 104
+           </a>
+           |
+           <i>
+            <a class="new" href="/w/index.php?title=OPS_2394&amp;action=edit&amp;redlink=1" title="OPS 2394 (page does not exist)">
+             OPS 2394
+            </a>
+           </i>
+           |
+           <a class="new" href="/w/index.php?title=OPS_7253&amp;action=edit&amp;redlink=1" title="OPS 7253 (page does not exist)">
+            OPS 7253
+           </a>
+           <b>
+            ·
+           </b>
+           <a class="new" href="/w/index.php?title=OPS_3179&amp;action=edit&amp;redlink=1" title="OPS 3179 (page does not exist)">
+            OPS 3179
+           </a>
+           |
+           <a href="/wiki/Kosmos_105" title="Kosmos 105">
+            Kosmos 105
+           </a>
+           |
+           <a href="/wiki/Kosmos_106" title="Kosmos 106">
+            Kosmos 106
+           </a>
+           |
+           <a class="new" href="/w/index.php?title=OPS_1593&amp;action=edit&amp;redlink=1" title="OPS 1593 (page does not exist)">
+            OPS 1593
+           </a>
+           |
+           <a href="/wiki/Luna_9" title="Luna 9">
+            Luna 9
+           </a>
+           |
+           <a class="new" href="/w/index.php?title=OPS_7291&amp;action=edit&amp;redlink=1" title="OPS 7291 (page does not exist)">
+            OPS 7291
+           </a>
+           |
+           <a href="/wiki/ESSA-1" title="ESSA-1">
+            ESSA-1
+           </a>
+           |
+           <a class="new" href="/w/index.php?title=OPS_1439&amp;action=edit&amp;redlink=1" title="OPS 1439 (page does not exist)">
+            OPS 1439
+           </a>
+           |
+           <a href="/wiki/Kosmos_107" title="Kosmos 107">
+            Kosmos 107
+           </a>
+           |
+           <a href="/wiki/Kosmos_108" title="Kosmos 108">
+            Kosmos 108
+           </a>
+           |
+           <a class="new" href="/w/index.php?title=OPS_1184&amp;action=edit&amp;redlink=1" title="OPS 1184 (page does not exist)">
+            OPS 1184
+           </a>
+           <b>
+            ·
+           </b>
+           <a class="new" href="/w/index.php?title=OPS_3011&amp;action=edit&amp;redlink=1" title="OPS 3011 (page does not exist)">
+            OPS 3011
+           </a>
+           <b>
+            ·
+           </b>
+           <a class="new" href="/w/index.php?title=OPS_3031&amp;action=edit&amp;redlink=1" title="OPS 3031 (page does not exist)">
+            OPS 3031
+           </a>
+           |
+           <a class="new" href="/w/index.php?title=Dipason&amp;action=edit&amp;redlink=1" title="Dipason (page does not exist)">
+            Dipason
+           </a>
+           |
+           <a class="new" href="/w/index.php?title=Kosmos_109&amp;action=edit&amp;redlink=1" title="Kosmos 109 (page does not exist)">
+            Kosmos 109
+           </a>
+           |
+           <i>
+            <a class="new" href="/w/index.php?title=DS-K-40_No.2&amp;action=edit&amp;redlink=1" title="DS-K-40 No.2 (page does not exist)">
+             DS-K-40 No.2
+            </a>
+           </i>
+           |
+           <a href="/wiki/Kosmos_110" title="Kosmos 110">
+            Kosmos 110
+           </a>
+           |
+           <a class="new" href="/w/index.php?title=ESSA-2&amp;action=edit&amp;redlink=1" title="ESSA-2 (page does not exist)">
+            ESSA-2
+           </a>
+           |
+           <a href="/wiki/Kosmos_111" title="Kosmos 111">
+            Kosmos 111
+           </a>
+           |
+           <a class="new" href="/w/index.php?title=OPS_3488&amp;action=edit&amp;redlink=1" title="OPS 3488 (page does not exist)">
+            OPS 3488
+           </a>
+           |
+           <a class="new" href="/w/index.php?title=GATV-5003&amp;action=edit&amp;redlink=1" title="GATV-5003 (page does not exist)">
+            GATV-5003
+           </a>
+           |
+           <b>
+            <a href="/wiki/Gemini_8" title="Gemini 8">
+             Gemini VIII
+            </a>
+           </b>
+           |
+           <a href="/wiki/Kosmos_112" title="Kosmos 112">
+            Kosmos 112
+           </a>
+           |
+           <a class="new" href="/w/index.php?title=OPS_0879&amp;action=edit&amp;redlink=1" title="OPS 0879 (page does not exist)">
+            OPS 0879
+           </a>
+           <b>
+            ·
+           </b>
+           <a class="new" href="/w/index.php?title=OPS_0974&amp;action=edit&amp;redlink=1" title="OPS 0974 (page does not exist)">
+            OPS 0974
+           </a>
+           |
+           <a class="new" href="/w/index.php?title=Kosmos_113&amp;action=edit&amp;redlink=1" title="Kosmos 113 (page does not exist)">
+            Kosmos 113
+           </a>
+           |
+           <i>
+            <a class="new" href="/w/index.php?title=N-4_No.3&amp;action=edit&amp;redlink=1" title="N-4 No.3 (page does not exist)">
+             N-4 No.3
+            </a>
+           </i>
+           |
+           <a class="new" href="/w/index.php?title=OPS_1117&amp;action=edit&amp;redlink=1" title="OPS 1117 (page does not exist)">
+            OPS 1117
+           </a>
+           |
+           <i>
+            <a class="new" href="/w/index.php?title=Molniya-1_No.5&amp;action=edit&amp;redlink=1" title="Molniya-1 No.5 (page does not exist)">
+             Molniya-1 No.5
+            </a>
+           </i>
+           |
+           <a class="new" href="/w/index.php?title=OV1-4&amp;action=edit&amp;redlink=1" title="OV1-4 (page does not exist)">
+            OV1-4
+           </a>
+           <b>
+            ·
+           </b>
+           <a class="new" href="/w/index.php?title=OV1-5&amp;action=edit&amp;redlink=1" title="OV1-5 (page does not exist)">
+            OV1-5
+           </a>
+           |
+           <a class="new" href="/w/index.php?title=OPS_0340&amp;action=edit&amp;redlink=1" title="OPS 0340 (page does not exist)">
+            OPS 0340
+           </a>
+           |
+           <a href="/wiki/Luna_10" title="Luna 10">
+            Luna 10
+           </a>
+           |
+           <a class="new" href="/w/index.php?title=Kosmos_114&amp;action=edit&amp;redlink=1" title="Kosmos 114 (page does not exist)">
+            Kosmos 114
+           </a>
+           |
+           <a class="new" href="/w/index.php?title=OPS_1612&amp;action=edit&amp;redlink=1" title="OPS 1612 (page does not exist)">
+            OPS 1612
+           </a>
+           |
+           <a class="new" href="/w/index.php?title=Surveyor_SD-3&amp;action=edit&amp;redlink=1" title="Surveyor SD-3 (page does not exist)">
+            Surveyor SD-3
+           </a>
+           |
+           <a href="/wiki/Orbiting_Astronomical_Observatory#OAO-1" title="Orbiting Astronomical Observatory">
+            OAO-1
+           </a>
+           |
+           <a class="new" href="/w/index.php?title=OPS_0910&amp;action=edit&amp;redlink=1" title="OPS 0910 (page does not exist)">
+            OPS 0910
+           </a>
+           |
+           <a href="/wiki/Kosmos_115" title="Kosmos 115">
+            Kosmos 115
+           </a>
+           |
+           <a class="new" href="/w/index.php?title=OV3-1&amp;action=edit&amp;redlink=1" title="OV3-1 (page does not exist)">
+            OV3-1
+           </a>
+           |
+           <a class="new" href="/w/index.php?title=Molniya_1-03&amp;action=edit&amp;redlink=1" title="Molniya 1-03 (page does not exist)">
+            Molniya 1-03
+           </a>
+           |
+           <a href="/wiki/Kosmos_116" title="Kosmos 116">
+            Kosmos 116
+           </a>
+           |
+           <i>
+            <a class="new" href="/w/index.php?title=OPS_1508&amp;action=edit&amp;redlink=1" title="OPS 1508 (page does not exist)">
+             OPS 1508
+            </a>
+           </i>
+           |
+           <a href="/wiki/Kosmos_117" title="Kosmos 117">
+            Kosmos 117
+           </a>
+           |
+           <a class="new" href="/w/index.php?title=Kosmos_118&amp;action=edit&amp;redlink=1" title="Kosmos 118 (page does not exist)">
+            Kosmos 118
+           </a>
+           |
+           <a class="new" href="/w/index.php?title=OPS_1950&amp;action=edit&amp;redlink=1" title="OPS 1950 (page does not exist)">
+            OPS 1950
+           </a>
+           <b>
+            ·
+           </b>
+           <a class="new" href="/w/index.php?title=OPS_6785&amp;action=edit&amp;redlink=1" title="OPS 6785 (page does not exist)">
+            OPS 6785
+           </a>
+           |
+           <a class="new" href="/w/index.php?title=Nimbus_2&amp;action=edit&amp;redlink=1" title="Nimbus 2 (page does not exist)">
+            Nimbus 2
+           </a>
+           |
+           <i>
+            <a class="new" href="/w/index.php?title=May_1966_Voskhod_launch_failure&amp;action=edit&amp;redlink=1" title="May 1966 Voskhod launch failure (page does not exist)">
+             Zenit-4
+            </a>
+           </i>
+           |
+           <i>
+            <a class="new" href="/w/index.php?title=GATV-5004&amp;action=edit&amp;redlink=1" title="GATV-5004 (page does not exist)">
+             GATV-5004
+            </a>
+           </i>
+           |
+           <a class="new" href="/w/index.php?title=OPS_0082&amp;action=edit&amp;redlink=1" title="OPS 0082 (page does not exist)">
+            OPS 0082
+           </a>
+           |
+           <a class="new" href="/w/index.php?title=OPS_1788&amp;action=edit&amp;redlink=1" title="OPS 1788 (page does not exist)">
+            OPS 1788
+           </a>
+           |
+           <a href="/wiki/Kosmos_119" title="Kosmos 119">
+            Kosmos 119
+           </a>
+           |
+           <a href="/wiki/Explorer_32" title="Explorer 32">
+            Explorer 32
+           </a>
+           |
+           <a href="/wiki/Surveyor_1" title="Surveyor 1">
+            Surveyor 1
+           </a>
+           |
+           <a class="mw-redirect" href="/wiki/Augmented_Target_Docking_Adapter" title="Augmented Target Docking Adapter">
+            ATDA
+           </a>
+           |
+           <b>
+            <a href="/wiki/Gemini_9A" title="Gemini 9A">
+             Gemini IX-A
+            </a>
+           </b>
+           |
+           <a class="new" href="/w/index.php?title=OPS_1577&amp;action=edit&amp;redlink=1" title="OPS 1577 (page does not exist)">
+            OPS 1577
+           </a>
+           <b>
+            ·
+           </b>
+           <a class="new" href="/w/index.php?title=OPS_1856&amp;action=edit&amp;redlink=1" title="OPS 1856 (page does not exist)">
+            OPS 1856
+           </a>
+           |
+           <a class="new" href="/w/index.php?title=OGO-3&amp;action=edit&amp;redlink=1" title="OGO-3 (page does not exist)">
+            OGO-3
+           </a>
+           |
+           <a href="/wiki/Kosmos_120" title="Kosmos 120">
+            Kosmos 120
+           </a>
+           |
+           <a class="new" href="/w/index.php?title=OV3-4&amp;action=edit&amp;redlink=1" title="OV3-4 (page does not exist)">
+            OV3-4
+           </a>
+           |
+           <a class="new" href="/w/index.php?title=FTV-1351&amp;action=edit&amp;redlink=1" title="FTV-1351 (page does not exist)">
+            FTV-1351
+           </a>
+           <b>
+            ·
+           </b>
+           <a class="new" href="/w/index.php?title=Secor_6&amp;action=edit&amp;redlink=1" title="Secor 6 (page does not exist)">
+            Secor 6
+           </a>
+           <b>
+            ·
+           </b>
+           <a class="new" href="/w/index.php?title=ERS-16&amp;action=edit&amp;redlink=1" title="ERS-16 (page does not exist)">
+            ERS-16
+           </a>
+           |
+           <a class="new" href="/w/index.php?title=OPS_9311&amp;action=edit&amp;redlink=1" title="OPS 9311 (page does not exist)">
+            OPS 9311
+           </a>
+           <b>
+            ·
+           </b>
+           <a class="new" href="/w/index.php?title=OPS_9312&amp;action=edit&amp;redlink=1" title="OPS 9312 (page does not exist)">
+            OPS 9312
+           </a>
+           <b>
+            ·
+           </b>
+           <a class="new" href="/w/index.php?title=OPS_9313&amp;action=edit&amp;redlink=1" title="OPS 9313 (page does not exist)">
+            OPS 9313
+           </a>
+           <b>
+            ·
+           </b>
+           <a class="new" href="/w/index.php?title=OPS_9314&amp;action=edit&amp;redlink=1" title="OPS 9314 (page does not exist)">
+            OPS 9314
+           </a>
+           <b>
+            ·
+           </b>
+           <a class="new" href="/w/index.php?title=OPS_9315&amp;action=edit&amp;redlink=1" title="OPS 9315 (page does not exist)">
+            OPS 9315
+           </a>
+           <b>
+            ·
+           </b>
+           <a class="new" href="/w/index.php?title=OPS_9316&amp;action=edit&amp;redlink=1" title="OPS 9316 (page does not exist)">
+            OPS 9316
+           </a>
+           <b>
+            ·
+           </b>
+           <a class="new" href="/w/index.php?title=OPS_9317&amp;action=edit&amp;redlink=1" title="OPS 9317 (page does not exist)">
+            OPS 9317
+           </a>
+           <b>
+            ·
+           </b>
+           <a class="new" href="/w/index.php?title=GGTS&amp;action=edit&amp;redlink=1" title="GGTS (page does not exist)">
+            GGTS
+           </a>
+           |
+           <a class="new" href="/w/index.php?title=Kosmos_121&amp;action=edit&amp;redlink=1" title="Kosmos 121 (page does not exist)">
+            Kosmos 121
+           </a>
+           |
+           <a class="new" href="/w/index.php?title=OPS_1599&amp;action=edit&amp;redlink=1" title="OPS 1599 (page does not exist)">
+            OPS 1599
+           </a>
+           |
+           <a href="/wiki/PAGEOS" title="PAGEOS">
+            PAGEOS
+           </a>
+           |
+           <a href="/wiki/Kosmos_122" title="Kosmos 122">
+            Kosmos 122
+           </a>
+           |
+           <a href="/wiki/Explorer_33" title="Explorer 33">
+            Explorer 33
+           </a>
+           |
+           <a href="/wiki/AS-203" title="AS-203">
+            AS-203
+           </a>
+           |
+           <a class="new" href="/w/index.php?title=Proton_3&amp;action=edit&amp;redlink=1" title="Proton 3 (page does not exist)">
+            Proton 3
+           </a>
+           |
+           <a href="/wiki/Kosmos_123" title="Kosmos 123">
+            Kosmos 123
+           </a>
+           |
+           <a class="new" href="/w/index.php?title=OPS_1850&amp;action=edit&amp;redlink=1" title="OPS 1850 (page does not exist)">
+            OPS 1850
+           </a>
+           |
+           <a class="new" href="/w/index.php?title=OV1-7&amp;action=edit&amp;redlink=1" title="OV1-7 (page does not exist)">
+            OV1-7
+           </a>
+           <b>
+            ·
+           </b>
+           <a href="/wiki/PasComSat" title="PasComSat">
+            PasComSat
+           </a>
+           |
+           <a href="/wiki/Kosmos_124" title="Kosmos 124">
+            Kosmos 124
+           </a>
+           |
+           <a class="new" href="/w/index.php?title=GATV-5005&amp;action=edit&amp;redlink=1" title="GATV-5005 (page does not exist)">
+            GATV-5005
+           </a>
+           |
+           <b>
+            <a href="/wiki/Gemini_10" title="Gemini 10">
+             Gemini X
+            </a>
+           </b>
+           |
+           <a class="new" href="/w/index.php?title=Kosmos_125&amp;action=edit&amp;redlink=1" title="Kosmos 125 (page does not exist)">
+            Kosmos 125
+           </a>
+           |
+           <a class="new" href="/w/index.php?title=Kosmos_126&amp;action=edit&amp;redlink=1" title="Kosmos 126 (page does not exist)">
+            Kosmos 126
+           </a>
+           |
+           <a class="new" href="/w/index.php?title=OPS_3014&amp;action=edit&amp;redlink=1" title="OPS 3014 (page does not exist)">
+            OPS 3014
+           </a>
+           |
+           <a class="new" href="/w/index.php?title=OV3-3&amp;action=edit&amp;redlink=1" title="OV3-3 (page does not exist)">
+            OV3-3
+           </a>
+           |
+           <a class="new" href="/w/index.php?title=Kosmos_127&amp;action=edit&amp;redlink=1" title="Kosmos 127 (page does not exist)">
+            Kosmos 127
+           </a>
+           |
+           <a class="new" href="/w/index.php?title=OPS_1545&amp;action=edit&amp;redlink=1" title="OPS 1545 (page does not exist)">
+            OPS 1545
+           </a>
+           |
+           <a href="/wiki/Lunar_Orbiter_1" title="Lunar Orbiter 1">
+            Lunar Orbiter 1
+           </a>
+           |
+           <a class="new" href="/w/index.php?title=OPS_1832&amp;action=edit&amp;redlink=1" title="OPS 1832 (page does not exist)">
+            OPS 1832
+           </a>
+           <b>
+            ·
+           </b>
+           <a class="new" href="/w/index.php?title=OPS_6810&amp;action=edit&amp;redlink=1" title="OPS 6810 (page does not exist)">
+            OPS 6810
+           </a>
+           |
+           <a class="mw-redirect" href="/wiki/Pioneer_7" title="Pioneer 7">
+            Pioneer 7
+           </a>
+           |
+           <a class="new" href="/w/index.php?title=OPS_2366&amp;action=edit&amp;redlink=1" title="OPS 2366 (page does not exist)">
+            OPS 2366
+           </a>
+           |
+           <a class="new" href="/w/index.php?title=FTV-1352&amp;action=edit&amp;redlink=1" title="FTV-1352 (page does not exist)">
+            FTV-1352
+           </a>
+           <b>
+            ·
+           </b>
+           <a class="new" href="/w/index.php?title=Secor_7&amp;action=edit&amp;redlink=1" title="Secor 7 (page does not exist)">
+            Secor 7
+           </a>
+           <b>
+            ·
+           </b>
+           <a class="new" href="/w/index.php?title=ERS-15&amp;action=edit&amp;redlink=1" title="ERS-15 (page does not exist)">
+            ERS-15
+           </a>
+           |
+           <a href="/wiki/Luna_11" title="Luna 11">
+            Luna 11
+           </a>
+           |
+           <i>
+            <a class="new" href="/w/index.php?title=Titan_3C-12&amp;action=edit&amp;redlink=1" title="Titan 3C-12 (page does not exist)">
+             IDCSP
+            </a>
+           </i>
+           <b>
+            ·
+           </b>
+           <i>
+            <a class="new" href="/w/index.php?title=Titan_3C-12&amp;action=edit&amp;redlink=1" title="Titan 3C-12 (page does not exist)">
+             IDCSP
+            </a>
+           </i>
+           <b>
+            ·
+           </b>
+           <i>
+            <a class="new" href="/w/index.php?title=Titan_3C-12&amp;action=edit&amp;redlink=1" title="Titan 3C-12 (page does not exist)">
+             IDCSP
+            </a>
+           </i>
+           <b>
+            ·
+           </b>
+           <i>
+            <a class="new" href="/w/index.php?title=Titan_3C-12&amp;action=edit&amp;redlink=1" title="Titan 3C-12 (page does not exist)">
+             IDCSP
+            </a>
+           </i>
+           <b>
+            ·
+           </b>
+           <i>
+            <a class="new" href="/w/index.php?title=Titan_3C-12&amp;action=edit&amp;redlink=1" title="Titan 3C-12 (page does not exist)">
+             IDCSP
+            </a>
+           </i>
+           <b>
+            ·
+           </b>
+           <i>
+            <a class="new" href="/w/index.php?title=Titan_3C-12&amp;action=edit&amp;redlink=1" title="Titan 3C-12 (page does not exist)">
+             IDCSP
+            </a>
+           </i>
+           <b>
+            ·
+           </b>
+           <i>
+            <a class="new" href="/w/index.php?title=Titan_3C-12&amp;action=edit&amp;redlink=1" title="Titan 3C-12 (page does not exist)">
+             IDCSP
+            </a>
+           </i>
+           <b>
+            ·
+           </b>
+           <i>
+            <a class="new" href="/w/index.php?title=Titan_3C-12&amp;action=edit&amp;redlink=1" title="Titan 3C-12 (page does not exist)">
+             IDCSP
+            </a>
+           </i>
+           <b>
+            ·
+           </b>
+           <i>
+            <a class="new" href="/w/index.php?title=GGTS-2&amp;action=edit&amp;redlink=1" title="GGTS-2 (page does not exist)">
+             GGTS-2
+            </a>
+           </i>
+           |
+           <a class="new" href="/w/index.php?title=Kosmos_128&amp;action=edit&amp;redlink=1" title="Kosmos 128 (page does not exist)">
+            Kosmos 128
+           </a>
+           |
+           <a class="new" href="/w/index.php?title=GATV-5006&amp;action=edit&amp;redlink=1" title="GATV-5006 (page does not exist)">
+            GATV-5006
+           </a>
+           |
+           <b>
+            <a href="/wiki/Gemini_11" title="Gemini 11">
+             Gemini XI
+            </a>
+           </b>
+           |
+           <a class="new" href="/w/index.php?title=OPS_6026&amp;action=edit&amp;redlink=1" title="OPS 6026 (page does not exist)">
+            OPS 6026
+           </a>
+           |
+           <a class="new" href="/w/index.php?title=OPS_1686&amp;action=edit&amp;redlink=1" title="OPS 1686 (page does not exist)">
+            OPS 1686
+           </a>
+           <b>
+            ·
+           </b>
+           <a class="new" href="/w/index.php?title=OPS_6874&amp;action=edit&amp;redlink=1" title="OPS 6874 (page does not exist)">
+            OPS 6874
+           </a>
+           |
+           <i>
+            <a class="new" href="/w/index.php?title=Zenit-2_No.40&amp;action=edit&amp;redlink=1" title="Zenit-2 No.40 (page does not exist)">
+             Zenit-2 No.40
+            </a>
+           </i>
+           |
+           <a class="new" href="/w/index.php?title=OPS_6026&amp;action=edit&amp;redlink=1" title="OPS 6026 (page does not exist)">
+            OPS 6026
+           </a>
+           |
+           <a class="new" href="/w/index.php?title=OPS_1686&amp;action=edit&amp;redlink=1" title="OPS 1686 (page does not exist)">
+            OPS 1686
+           </a>
+           <b>
+            ·
+           </b>
+           <a class="new" href="/w/index.php?title=OPS_6874&amp;action=edit&amp;redlink=1" title="OPS 6874 (page does not exist)">
+            OPS 6874
+           </a>
+           |
+           <a class="new" href="/w/index.php?title=OGCh_No.05L&amp;action=edit&amp;redlink=1" title="OGCh No.05L (page does not exist)">
+            OGCh No.05L
+           </a>
+           |
+           <a href="/wiki/Surveyor_2" title="Surveyor 2">
+            Surveyor 2
+           </a>
+           |
+           <a class="new" href="/w/index.php?title=OPS_1703&amp;action=edit&amp;redlink=1" title="OPS 1703 (page does not exist)">
+            OPS 1703
+           </a>
+           |
+           <i>
+            <a class="new" href="/w/index.php?title=%C5%8Csumi_1&amp;action=edit&amp;redlink=1" title="Ōsumi 1 (page does not exist)">
+             Ōsumi 1
+            </a>
+           </i>
+           |
+           <a class="new" href="/w/index.php?title=OPS_4096&amp;action=edit&amp;redlink=1" title="OPS 4096 (page does not exist)">
+            OPS 4096
+           </a>
+           |
+           <a class="new" href="/w/index.php?title=ESSA-3&amp;action=edit&amp;redlink=1" title="ESSA-3 (page does not exist)">
+            ESSA-3
+           </a>
+           |
+           <a class="new" href="/w/index.php?title=FTV-1583&amp;action=edit&amp;redlink=1" title="FTV-1583 (page does not exist)">
+            FTV-1583
+           </a>
+           <b>
+            ·
+           </b>
+           <a class="new" href="/w/index.php?title=Secor_8&amp;action=edit&amp;redlink=1" title="Secor 8 (page does not exist)">
+            Secor 8
+           </a>
+           |
+           <a class="new" href="/w/index.php?title=OPS_2055&amp;action=edit&amp;redlink=1" title="OPS 2055 (page does not exist)">
+            OPS 2055
+           </a>
+           <b>
+            ·
+           </b>
+           <a class="new" href="/w/index.php?title=OPS_5345&amp;action=edit&amp;redlink=1" title="OPS 5345 (page does not exist)">
+            OPS 5345
+           </a>
+           |
+           <a href="/wiki/Kosmos_129" title="Kosmos 129">
+            Kosmos 129
+           </a>
+           |
+           <a class="new" href="/w/index.php?title=Molniya_1-04&amp;action=edit&amp;redlink=1" title="Molniya 1-04 (page does not exist)">
+            Molniya 1-04
+           </a>
+           |
+           <a class="new" href="/w/index.php?title=Kosmos_130&amp;action=edit&amp;redlink=1" title="Kosmos 130 (page does not exist)">
+            Kosmos 130
+           </a>
+           |
+           <a href="/wiki/Luna_12" title="Luna 12">
+            Luna 12
+           </a>
+           |
+           <a class="new" href="/w/index.php?title=Surveyor_SM-3&amp;action=edit&amp;redlink=1" title="Surveyor SM-3 (page does not exist)">
+            Surveyor SM-3
+           </a>
+           |
+           <a href="/wiki/Intelsat_II_F-1" title="Intelsat II F-1">
+            Intelsat II F-1
+           </a>
+           |
+           <a class="new" href="/w/index.php?title=OV3-2&amp;action=edit&amp;redlink=1" title="OV3-2 (page does not exist)">
+            OV3-2
+           </a>
+           |
+           <a class="new" href="/w/index.php?title=OGCh_No.06L&amp;action=edit&amp;redlink=1" title="OGCh No.06L (page does not exist)">
+            OGCh No.06L
+           </a>
+           |
+           <a class="new" href="/w/index.php?title=OPS_2070&amp;action=edit&amp;redlink=1" title="OPS 2070 (page does not exist)">
+            OPS 2070
+           </a>
+           <b>
+            ·
+           </b>
+           <a class="new" href="/w/index.php?title=OPS_5424&amp;action=edit&amp;redlink=1" title="OPS 5424 (page does not exist)">
+            OPS 5424
+           </a>
+           |
+           <a href="/wiki/OPS_0855" title="OPS 0855">
+            OPS 0855
+           </a>
+           <b>
+            ·
+           </b>
+           <a class="new" href="/w/index.php?title=OV4-1R&amp;action=edit&amp;redlink=1" title="OV4-1R (page does not exist)">
+            OV4-1R
+           </a>
+           <b>
+            ·
+           </b>
+           <a class="new" href="/w/index.php?title=OV4-1T&amp;action=edit&amp;redlink=1" title="OV4-1T (page does not exist)">
+            OV4-1T
+           </a>
+           <b>
+            ·
+           </b>
+           <a class="new" href="/w/index.php?title=OV1-6&amp;action=edit&amp;redlink=1" title="OV1-6 (page does not exist)">
+            OV1-6
+           </a>
+           |
+           <a href="/wiki/Lunar_Orbiter_2" title="Lunar Orbiter 2">
+            Lunar Orbiter 2
+           </a>
+           |
+           <a class="new" href="/w/index.php?title=OPS_1866&amp;action=edit&amp;redlink=1" title="OPS 1866 (page does not exist)">
+            OPS 1866
+           </a>
+           |
+           <a class="new" href="/w/index.php?title=GATV-5001A&amp;action=edit&amp;redlink=1" title="GATV-5001A (page does not exist)">
+            GATV-5001A
+           </a>
+           |
+           <b>
+            <a class="mw-selflink selflink">
+             Gemini XII
+            </a>
+           </b>
+           |
+           <a class="new" href="/w/index.php?title=Kosmos_131&amp;action=edit&amp;redlink=1" title="Kosmos 131 (page does not exist)">
+            Kosmos 131
+           </a>
+           |
+           <i>
+            <a class="new" href="/w/index.php?title=Strela-2_No.1&amp;action=edit&amp;redlink=1" title="Strela-2 No.1 (page does not exist)">
+             Strela-2 No.1
+            </a>
+           </i>
+           |
+           <a href="/wiki/Kosmos_132" title="Kosmos 132">
+            Kosmos 132
+           </a>
+           |
+           <a href="/wiki/Kosmos_133" title="Kosmos 133">
+            Kosmos 133
+           </a>
+           |
+           <a class="new" href="/w/index.php?title=Kosmos_134&amp;action=edit&amp;redlink=1" title="Kosmos 134 (page does not exist)">
+            Kosmos 134
+           </a>
+           |
+           <a class="new" href="/w/index.php?title=OPS_1890&amp;action=edit&amp;redlink=1" title="OPS 1890 (page does not exist)">
+            OPS 1890
+           </a>
+           |
+           <a href="/wiki/ATS-1" title="ATS-1">
+            ATS-1
+           </a>
+           |
+           <a class="new" href="/w/index.php?title=OV1-9&amp;action=edit&amp;redlink=1" title="OV1-9 (page does not exist)">
+            OV1-9
+           </a>
+           <b>
+            ·
+           </b>
+           <a class="new" href="/w/index.php?title=OV1-10&amp;action=edit&amp;redlink=1" title="OV1-10 (page does not exist)">
+            OV1-10
+           </a>
+           |
+           <a href="/wiki/Kosmos_135" title="Kosmos 135">
+            Kosmos 135
+           </a>
+           |
+           <i>
+            <a href="/wiki/Soyuz_7K-OK_No.1" title="Soyuz 7K-OK No.1">
+             Soyuz 7K-OK No.1
+            </a>
+           </i>
+           |
+           <a class="new" href="/w/index.php?title=OPS_8968&amp;action=edit&amp;redlink=1" title="OPS 8968 (page does not exist)">
+            OPS 8968
+           </a>
+           |
+           <a class="mw-redirect" href="/wiki/Biosatellite_1" title="Biosatellite 1">
+            Biosatellite 1
+           </a>
+           |
+           <a href="/wiki/Kosmos_136" title="Kosmos 136">
+            Kosmos 136
+           </a>
+           |
+           <i>
+            <a class="new" href="/w/index.php?title=%C5%8Csumi_2&amp;action=edit&amp;redlink=1" title="Ōsumi 2 (page does not exist)">
+             Ōsumi 2
+            </a>
+           </i>
+           |
+           <a href="/wiki/Kosmos_137" title="Kosmos 137">
+            Kosmos 137
+           </a>
+           |
+           <a href="/wiki/Luna_13" title="Luna 13">
+            Luna 13
+           </a>
+           |
+           <a class="new" href="/w/index.php?title=OPS_1584&amp;action=edit&amp;redlink=1" title="OPS 1584 (page does not exist)">
+            OPS 1584
+           </a>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <td class="navbox-abovebelow" colspan="2">
+          <div>
+           Payloads are separated by bullets (
+           <b>
+            ·
+           </b>
+           ), launches by pipes ( | ). Manned flights are indicated in bold text. Uncatalogued launch failures are listed in italics. Payloads deployed from other spacecraft are denoted in brackets.
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1244
+Cached time: 20180319020855
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.440 seconds
+Real time usage: 0.546 seconds
+Preprocessor visited node count: 3313/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 143148/2097152 bytes
+Template argument size: 7428/2097152 bytes
+Highest expansion depth: 24/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 8074/5000000 bytes
+Lua time usage: 0.192/10.000 seconds
+Lua memory usage: 6.21 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  435.033      1 -total
+ 69.11%  300.664      8 Template:Infobox
+ 47.82%  208.022      1 Template:Infobox_spaceflight
+ 15.80%   68.734      1 Template:Reflist
+ 11.64%   50.632      8 Template:Navbox
+  9.08%   39.511      3 Template:Cite_web
+  8.28%   36.020     11 Template:Convert
+  7.43%   32.314      1 Template:Examples
+  6.09%   26.501      1 Template:Fix
+  5.80%   25.248      1 Template:NASA_space_program
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:411616-0!dateformat=default and timestamp 20180319020855 and revision id 807314702
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Gemini_12&amp;oldid=807314702">
+      https://en.wikipedia.org/w/index.php?title=Gemini_12&amp;oldid=807314702
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Buzz_Aldrin" title="Category:Buzz Aldrin">
+         Buzz Aldrin
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Extravehicular_activity" title="Category:Extravehicular activity">
+         Extravehicular activity
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Human_spaceflights" title="Category:Human spaceflights">
+         Human spaceflights
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Project_Gemini_missions" title="Category:Project Gemini missions">
+         Project Gemini missions
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Spacecraft_launched_in_1966" title="Category:Spacecraft launched in 1966">
+         Spacecraft launched in 1966
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Spacecraft_launched_by_Titan_rockets" title="Category:Spacecraft launched by Titan rockets">
+         Spacecraft launched by Titan rockets
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:November_1966_events" title="Category:November 1966 events">
+         November 1966 events
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_incorporating_text_from_NASA" title="Category:Wikipedia articles incorporating text from NASA">
+         Wikipedia articles incorporating text from NASA
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Use_American_English_from_January_2014" title="Category:Use American English from January 2014">
+         Use American English from January 2014
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_Wikipedia_articles_written_in_American_English" title="Category:All Wikipedia articles written in American English">
+         All Wikipedia articles written in American English
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Gemini+12" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Gemini+12" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Gemini_12" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Gemini_12" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Gemini_12">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Gemini_12&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Gemini_12&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Gemini_12" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Gemini_12" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Gemini_12&amp;oldid=807314702" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Gemini_12&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q259770" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Gemini_12&amp;id=807314702" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Gemini+12">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Gemini+12&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Gemini_12&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Category:Gemini_12" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-bg">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%94%D0%B6%D0%B5%D0%BC%D0%B8%D0%BD%D0%B8_12" hreflang="bg" lang="bg" title="Джемини 12 – Bulgarian">
+         Български
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Gemini_12" hreflang="ca" lang="ca" title="Gemini 12 – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Gemini_12" hreflang="cs" lang="cs" title="Gemini 12 – Czech">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Gemini_12" hreflang="de" lang="de" title="Gemini 12 – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-et">
+        <a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Gemini_12" hreflang="et" lang="et" title="Gemini 12 – Estonian">
+         Eesti
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-el">
+        <a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%A4%CE%B6%CE%AD%CE%BC%CE%B9%CE%BD%CE%B9_12" hreflang="el" lang="el" title="Τζέμινι 12 – Greek">
+         Ελληνικά
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Gemini_12" hreflang="es" lang="es" title="Gemini 12 – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%AC%D9%85%DB%8C%D9%86%D8%A7%DB%8C_%DB%B1%DB%B2" hreflang="fa" lang="fa" title="جمینای ۱۲ – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Gemini_12" hreflang="fr" lang="fr" title="Gemini 12 – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gl">
+        <a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Gemini_12" hreflang="gl" lang="gl" title="Gemini 12 – Galician">
+         Galego
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%A0%9C%EB%AF%B8%EB%8B%88_12%ED%98%B8" hreflang="ko" lang="ko" title="제미니 12호 – Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-io">
+        <a class="interlanguage-link-target" href="https://io.wikipedia.org/wiki/Gemini_12" hreflang="io" lang="io" title="Gemini 12 – Ido">
+         Ido
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Gemini_12" hreflang="it" lang="it" title="Gemini 12 – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he">
+        <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%92%27%D7%9E%D7%99%D7%A0%D7%99_12" hreflang="he" lang="he" title="ג'מיני 12 – Hebrew">
+         עברית
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lv">
+        <a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Gemini_12" hreflang="lv" lang="lv" title="Gemini 12 – Latvian">
+         Latviešu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hu">
+        <a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Gemini%E2%80%9312" hreflang="hu" lang="hu" title="Gemini–12 – Hungarian">
+         Magyar
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Gemini_12" hreflang="nl" lang="nl" title="Gemini 12 – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%83%9F%E3%83%8B12%E5%8F%B7" hreflang="ja" lang="ja" title="ジェミニ12号 – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Gemini_12" hreflang="pl" lang="pl" title="Gemini 12 – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Gemini_XII" hreflang="pt" lang="pt" title="Gemini XII – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%94%D0%B6%D0%B5%D0%BC%D0%B8%D0%BD%D0%B8-12" hreflang="ru" lang="ru" title="Джемини-12 – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sk">
+        <a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Gemini_12" hreflang="sk" lang="sk" title="Gemini 12 – Slovak">
+         Slovenčina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Gemini_12" hreflang="fi" lang="fi" title="Gemini 12 – Finnish">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Gemini_12" hreflang="sv" lang="sv" title="Gemini 12 – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%8F%8C%E5%AD%90%E5%BA%A712%E5%8F%B7" hreflang="zh" lang="zh" title="双子座12号 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q259770#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 27 October 2017, at 05:49.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Gemini_12&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.440","walltime":"0.546","ppvisitednodes":{"value":3313,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":143148,"limit":2097152},"templateargumentsize":{"value":7428,"limit":2097152},"expansiondepth":{"value":24,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":8074,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  435.033      1 -total"," 69.11%  300.664      8 Template:Infobox"," 47.82%  208.022      1 Template:Infobox_spaceflight"," 15.80%   68.734      1 Template:Reflist"," 11.64%   50.632      8 Template:Navbox","  9.08%   39.511      3 Template:Cite_web","  8.28%   36.020     11 Template:Convert","  7.43%   32.314      1 Template:Examples","  6.09%   26.501      1 Template:Fix","  5.80%   25.248      1 Template:NASA_space_program"]},"scribunto":{"limitreport-timeusage":{"value":"0.192","limit":"10.000"},"limitreport-memusage":{"value":6511020,"limit":52428800}},"cachereport":{"origin":"mw1244","timestamp":"20180319020855","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":624,"wgHostname":"mw1244"});});
+  </script>
+ </body>
+</html>

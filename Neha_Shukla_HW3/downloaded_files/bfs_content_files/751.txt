@@ -1,0 +1,4848 @@
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Tidal locking - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Tidal_locking","wgTitle":"Tidal locking","wgCurRevisionId":828768462,"wgRevisionId":828768462,"wgArticleId":60162,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from October 2012","Articles with unsourced statements from August 2010","Celestial mechanics","Orbits","Tidal forces"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Tidal_locking","wgRelevantArticleId":60162,"wgRequestId":"WrR0dQpAICAAABDJuRMAAABI","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q109144","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.26" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/5/56/Tidal_locking_of_the_Moon_with_the_Earth.gif" property="og:image"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Tidal_locking" rel="alternate"/>
+  <link href="/w/index.php?title=Tidal_locking&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Tidal_locking&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Tidal_locking" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Tidal_locking rootpage-Tidal_locking skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Tidal locking
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:302px;">
+        <a class="image" href="/wiki/File:Tidal_locking_of_the_Moon_with_the_Earth.gif">
+         <img alt="" class="thumbimage" data-file-height="280" data-file-width="565" height="149" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tidal_locking_of_the_Moon_with_the_Earth.gif/300px-Tidal_locking_of_the_Moon_with_the_Earth.gif" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tidal_locking_of_the_Moon_with_the_Earth.gif/450px-Tidal_locking_of_the_Moon_with_the_Earth.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/5/56/Tidal_locking_of_the_Moon_with_the_Earth.gif 2x" width="300"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Tidal_locking_of_the_Moon_with_the_Earth.gif" title="Enlarge">
+          </a>
+         </div>
+         Tidal locking results in the
+         <a href="/wiki/Moon" title="Moon">
+          Moon
+         </a>
+         rotating about its axis in about the same time it takes to orbit
+         <a href="/wiki/Earth" title="Earth">
+          Earth
+         </a>
+         . Except for
+         <a href="/wiki/Libration" title="Libration">
+          libration
+         </a>
+         effects, this results in the Moon keeping the same face turned toward Earth, as seen in the left figure. (The Moon is shown in polar view, and is not drawn to scale.) If the Moon were not rotating at all, it would alternately show its near and far sides to Earth, while moving around Earth in orbit, as shown in the right figure.
+        </div>
+       </div>
+      </div>
+      <p>
+       <b>
+        Tidal locking
+       </b>
+       (also called
+       <b>
+        gravitational locking
+       </b>
+       or
+       <b>
+        captured rotation
+       </b>
+       ) occurs when the long-term interaction between a pair of co-orbiting
+       <a class="mw-redirect" href="/wiki/Astronomical_body" title="Astronomical body">
+        astronomical bodies
+       </a>
+       drives the rotation rates into a harmonic ratio with the
+       <a href="/wiki/Orbital_period" title="Orbital period">
+        orbital period
+       </a>
+       . This effect arises from the
+       <a class="mw-redirect" href="/wiki/Gravitational_gradient" title="Gravitational gradient">
+        gravitational gradient
+       </a>
+       (tidal force) between the co-orbiting bodies, acting over a sufficiently long period of time. Once tidal locking is achieved for one of the bodies, there is no more net transfer of
+       <a href="/wiki/Angular_momentum" title="Angular momentum">
+        angular momentum
+       </a>
+       between the two objects, although there can be some back and forth transfer over the course of an orbit. In the special case where the
+       <a href="/wiki/Orbital_eccentricity" title="Orbital eccentricity">
+        orbital eccentricity
+       </a>
+       is nearly zero, tidal locking results in one hemisphere of the revolving object constantly facing its partner, an effect known as
+       <b>
+        synchronous rotation
+       </b>
+       .
+       <sup class="reference" id="cite_ref-1">
+        <a href="#cite_note-1">
+         [1]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-2">
+        <a href="#cite_note-2">
+         [2]
+        </a>
+       </sup>
+       For example, the same side of the
+       <a href="/wiki/Moon" title="Moon">
+        Moon
+       </a>
+       always faces the
+       <a href="/wiki/Earth" title="Earth">
+        Earth
+       </a>
+       , although there is some
+       <a href="/wiki/Libration" title="Libration">
+        libration
+       </a>
+       because the Moon's orbit is not perfectly circular. A tidally locked body in synchronous rotation takes just as long to rotate around its own axis as it does to revolve around its partner.
+      </p>
+      <p>
+       Usually, only the
+       <a href="/wiki/Natural_satellite" title="Natural satellite">
+        satellite
+       </a>
+       is tidally locked to the larger body.
+       <sup class="reference" id="cite_ref-3">
+        <a href="#cite_note-3">
+         [3]
+        </a>
+       </sup>
+       However, if both the mass difference between the two bodies and the distance between them are relatively small, each may be tidally locked to the other; this is the case for
+       <a href="/wiki/Pluto" title="Pluto">
+        Pluto
+       </a>
+       and
+       <a href="/wiki/Charon_(moon)" title="Charon (moon)">
+        Charon
+       </a>
+       .
+      </p>
+      <p>
+       This effect is employed to
+       <a href="/wiki/Gravity-gradient_stabilization" title="Gravity-gradient stabilization">
+        stabilize
+       </a>
+       some artificial satellites.
+      </p>
+      <p>
+       One form of hypothetical tidal locked planets are
+       <a href="/wiki/Eyeball_planet" title="Eyeball planet">
+        eyeball planets
+       </a>
+       , that in turn are divided into "hot" and "cold" eyeball planets.
+       <sup class="reference" id="cite_ref-4">
+        <a href="#cite_note-4">
+         [4]
+        </a>
+       </sup>
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Mechanism">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Mechanism
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-2">
+           <a href="#Orbital_changes">
+            <span class="tocnumber">
+             1.1
+            </span>
+            <span class="toctext">
+             Orbital changes
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-3">
+           <a href="#Locking_of_the_larger_body">
+            <span class="tocnumber">
+             1.2
+            </span>
+            <span class="toctext">
+             Locking of the larger body
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-4">
+           <a href="#Rotation–orbit_resonance">
+            <span class="tocnumber">
+             1.3
+            </span>
+            <span class="toctext">
+             Rotation–orbit resonance
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-5">
+         <a href="#Occurrence">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Occurrence
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-6">
+           <a href="#Moons">
+            <span class="tocnumber">
+             2.1
+            </span>
+            <span class="toctext">
+             Moons
+            </span>
+           </a>
+           <ul>
+            <li class="toclevel-3 tocsection-7">
+             <a href="#The_Moon">
+              <span class="tocnumber">
+               2.1.1
+              </span>
+              <span class="toctext">
+               The Moon
+              </span>
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class="toclevel-2 tocsection-8">
+           <a href="#Planets">
+            <span class="tocnumber">
+             2.2
+            </span>
+            <span class="toctext">
+             Planets
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-9">
+           <a href="#Stars">
+            <span class="tocnumber">
+             2.3
+            </span>
+            <span class="toctext">
+             Stars
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-10">
+         <a href="#Timescale">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           Timescale
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-11">
+         <a href="#List_of_known_tidally_locked_bodies">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           List of known tidally locked bodies
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-12">
+           <a href="#Solar_System">
+            <span class="tocnumber">
+             4.1
+            </span>
+            <span class="toctext">
+             Solar System
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-13">
+           <a href="#Extra-solar">
+            <span class="tocnumber">
+             4.2
+            </span>
+            <span class="toctext">
+             Extra-solar
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-14">
+         <a href="#Bodies_likely_to_be_locked">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           Bodies likely to be locked
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-15">
+           <a href="#Solar_System_2">
+            <span class="tocnumber">
+             5.1
+            </span>
+            <span class="toctext">
+             Solar System
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-16">
+           <a href="#Extrasolar">
+            <span class="tocnumber">
+             5.2
+            </span>
+            <span class="toctext">
+             Extrasolar
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-17">
+         <a href="#See_also">
+          <span class="tocnumber">
+           6
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-18">
+         <a href="#References">
+          <span class="tocnumber">
+           7
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Mechanism">
+        Mechanism
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Tidal_locking&amp;action=edit&amp;section=1" title="Edit section: Mechanism">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:181px;">
+        <a class="image" href="/wiki/File:%C3%81rap%C3%A1ly_forgat%C3%B3nyomat%C3%A9k.png">
+         <img alt="" class="thumbimage" data-file-height="375" data-file-width="179" height="375" src="//upload.wikimedia.org/wikipedia/commons/0/0c/%C3%81rap%C3%A1ly_forgat%C3%B3nyomat%C3%A9k.png" width="179"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:%C3%81rap%C3%A1ly_forgat%C3%B3nyomat%C3%A9k.png" title="Enlarge">
+          </a>
+         </div>
+         If the tidal bulges on a body (green) are misaligned with the major axis (red), the tidal forces (blue) exert a net torque on that body that twists the body toward the direction of realignment
+        </div>
+       </div>
+      </div>
+      <p>
+       Consider a pair of co-orbiting objects, A and B. The change in
+       <a href="/wiki/Rotation_period" title="Rotation period">
+        rotation rate
+       </a>
+       necessary to tidally lock body B to the larger body A is caused by the
+       <a href="/wiki/Torque" title="Torque">
+        torque
+       </a>
+       applied by A's
+       <a href="/wiki/Gravity" title="Gravity">
+        gravity
+       </a>
+       on bulges it has induced on B by
+       <a href="/wiki/Tidal_force" title="Tidal force">
+        tidal forces
+       </a>
+       .
+       <sup class="reference" id="cite_ref-5">
+        <a href="#cite_note-5">
+         [5]
+        </a>
+       </sup>
+      </p>
+      <p>
+       The gravitational force from object A upon B will vary with distance, being greatest at the nearest surface to A and least at the most distant. This creates a gravitational
+       <a href="/wiki/Gradient" title="Gradient">
+        gradient
+       </a>
+       across object B that will distort its
+       <a href="/wiki/Mechanical_equilibrium" title="Mechanical equilibrium">
+        equilibrium
+       </a>
+       shape slightly. The body of object B will become elongated along the axis oriented toward A, and conversely, slightly reduced in dimension in directions
+       <a class="mw-redirect" href="/wiki/Orthogonal" title="Orthogonal">
+        orthogonal
+       </a>
+       to this axis. The elongated distortions are known as tidal bulges. (For the solid Earth, these bulges can reach displacements of up to around 0.4 metres (1.3 ft).
+       <sup class="reference" id="cite_ref-6">
+        <a href="#cite_note-6">
+         [6]
+        </a>
+       </sup>
+       ) When B is not yet tidally locked, the bulges travel over its surface due to orbital motions, with one of the two "high" tidal bulges traveling close to the point where body A is overhead. For large astronomical bodies that are nearly
+       <a href="/wiki/Sphericity" title="Sphericity">
+        spherical
+       </a>
+       due to self-gravitation, the tidal distortion produces a slightly
+       <a class="mw-redirect" href="/wiki/Prolate_spheroid" title="Prolate spheroid">
+        prolate spheroid
+       </a>
+       , i.e. an axially symmetric
+       <a href="/wiki/Ellipsoid" title="Ellipsoid">
+        ellipsoid
+       </a>
+       that is elongated along its major axis. Smaller bodies also experience distortion, but this distortion is less regular.
+      </p>
+      <p>
+       The material of B exerts resistance to this periodic reshaping caused by the tidal force. In effect, some time is required to reshape B to the gravitational equilibrium shape, by which time the forming bulges have already been carried some distance away from the A–B axis by B's rotation. Seen from a vantage point in space, the points of maximum bulge extension are displaced from the axis oriented toward A. If B's rotation period is shorter than its orbital period, the bulges are carried forward of the axis oriented toward A in the direction of rotation, whereas if B's rotation period is longer, the bulges instead lag behind.
+      </p>
+      <p>
+       Because the bulges are now displaced from the A–B axis, A's gravitational pull on the mass in them exerts a torque on B. The torque on the A-facing bulge acts to bring B's rotation in line with its orbital period, whereas the "back" bulge, which faces away from A, acts in the opposite sense. However, the bulge on the A-facing side is closer to A than the back bulge by a distance of approximately B's diameter, and so experiences a slightly stronger gravitational force and torque. The net resulting torque from both bulges, then, is always in the direction that acts to synchronize B's rotation with its orbital period, leading eventually to tidal locking.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Orbital_changes">
+        Orbital changes
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Tidal_locking&amp;action=edit&amp;section=2" title="Edit section: Orbital changes">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:MoonTorque.jpg">
+         <img alt="Tidal Locking" class="thumbimage" data-file-height="400" data-file-width="640" height="138" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/MoonTorque.jpg/220px-MoonTorque.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/MoonTorque.jpg/330px-MoonTorque.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/04/MoonTorque.jpg/440px-MoonTorque.jpg 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:MoonTorque.jpg" title="Enlarge">
+          </a>
+         </div>
+         If rotational frequency is larger than orbital frequency, a small torque counteracting the rotation arises, eventually locking the frequencies (situation depicted in green)
+        </div>
+       </div>
+      </div>
+      <p>
+       The
+       <a href="/wiki/Angular_momentum" title="Angular momentum">
+        angular momentum
+       </a>
+       of the whole A–B system is conserved in this process, so that when B slows down and loses rotational angular momentum, its
+       <i>
+        orbital
+       </i>
+       angular momentum is boosted by a similar amount (there are also some smaller effects on A's rotation). This results in a raising of B's orbit about A in tandem with its rotational slowdown. For the other case where B starts off rotating too slowly, tidal locking both speeds up its rotation, and
+       <i>
+        lowers
+       </i>
+       its orbit.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Locking_of_the_larger_body">
+        Locking of the larger body
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Tidal_locking&amp;action=edit&amp;section=3" title="Edit section: Locking of the larger body">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <div class="hatnote navigation-not-searchable" role="note">
+       See also:
+       <a href="/wiki/Synchronous_orbit" title="Synchronous orbit">
+        Synchronous orbit
+       </a>
+      </div>
+      <p>
+       The tidal locking effect is also experienced by the larger body A, but at a slower rate because B's gravitational effect is weaker due to B's smaller mass. For example, Earth's rotation is gradually being slowed by the Moon, by an amount that becomes noticeable over geological time as revealed in the fossil record.
+       <sup class="reference" id="cite_ref-7">
+        <a href="#cite_note-7">
+         [7]
+        </a>
+       </sup>
+       Current estimations are that this (together with the tidal influence of the Sun) has helped lengthen the Earth day from about 6 hours to the current 24 hours. Currently,
+       <a href="/wiki/Atomic_clock" title="Atomic clock">
+        atomic clocks
+       </a>
+       show that Earth's day lengthens by about 15 microseconds every year.
+       <sup class="reference" id="cite_ref-8">
+        <a href="#cite_note-8">
+         [8]
+        </a>
+       </sup>
+       Given enough time, this would create a mutual tidal locking between Earth and the Moon, where the length of a
+       <a href="/wiki/Day" title="Day">
+        day
+       </a>
+       has increased and the length of a
+       <a href="/wiki/Lunar_month" title="Lunar month">
+        lunar month
+       </a>
+       has shortened until the two are the same. However, Earth is not expected to become tidally locked to the Moon before the Sun becomes a
+       <a href="/wiki/Red_giant" title="Red giant">
+        red giant
+       </a>
+       and engulfs Earth and the Moon.
+       <sup class="reference" id="cite_ref-9">
+        <a href="#cite_note-9">
+         [9]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-10">
+        <a href="#cite_note-10">
+         [10]
+        </a>
+       </sup>
+      </p>
+      <p>
+       For bodies of similar size the effect may be of comparable size for both, and both may become tidally locked to each other on a much shorter timescale. An example is the
+       <a href="/wiki/Dwarf_planet" title="Dwarf planet">
+        dwarf planet
+       </a>
+       <a href="/wiki/Pluto" title="Pluto">
+        Pluto
+       </a>
+       and its satellite
+       <a href="/wiki/Charon_(moon)" title="Charon (moon)">
+        Charon
+       </a>
+       . They have already reached a state where Charon is only visible from one hemisphere of Pluto and vice versa.
+       <sup class="reference" id="cite_ref-Michaely2017_11-0">
+        <a href="#cite_note-Michaely2017-11">
+         [11]
+        </a>
+       </sup>
+      </p>
+      <h3>
+       <span id="Rotation.E2.80.93orbit_resonance">
+       </span>
+       <span class="mw-headline" id="Rotation–orbit_resonance">
+        Rotation–orbit resonance
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Tidal_locking&amp;action=edit&amp;section=4" title="Edit section: Rotation–orbit resonance">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       Finally, in some cases where the orbit is
+       <a class="mw-redirect" href="/wiki/Eccentricity_(orbit)" title="Eccentricity (orbit)">
+        eccentric
+       </a>
+       and the tidal effect is relatively weak, the smaller body may end up in a so-called
+       <i>
+        spin-orbit resonance
+       </i>
+       , rather than being tidally locked. Here, the ratio of the rotation period of a body to its own orbital period is some simple fraction different from 1:1. A well known case is the rotation of
+       <a href="/wiki/Mercury_(planet)" title="Mercury (planet)">
+        Mercury
+       </a>
+       , which is locked to its own orbit around the Sun in a 3:2 resonance.
+      </p>
+      <p>
+       Many exoplanets (especially the close-in ones) are expected to be in spin–orbit resonances higher than 1:1. A Mercury-like terrestrial planet can, for example, become captured in a 3:2, 2:1, or 5:2 spin-orbit resonance, with the probability of each being dependent on the orbital eccentricity.
+       <sup class="reference" id="cite_ref-Makarov2012_12-0">
+        <a href="#cite_note-Makarov2012-12">
+         [12]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Occurrence">
+        Occurrence
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Tidal_locking&amp;action=edit&amp;section=5" title="Edit section: Occurrence">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <h3>
+       <span class="mw-headline" id="Moons">
+        Moons
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Tidal_locking&amp;action=edit&amp;section=6" title="Edit section: Moons">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Synchronous_rotation.svg">
+         <img alt="" class="thumbimage" data-file-height="814" data-file-width="829" height="216" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/58/Synchronous_rotation.svg/220px-Synchronous_rotation.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/58/Synchronous_rotation.svg/330px-Synchronous_rotation.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/58/Synchronous_rotation.svg/440px-Synchronous_rotation.svg.png 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Synchronous_rotation.svg" title="Enlarge">
+          </a>
+         </div>
+         Due to tidal locking, the inhabitants of the central body will never be able to see the satellite's green area.
+        </div>
+       </div>
+      </div>
+      <p>
+       Most major moons in the
+       <a href="/wiki/Solar_System" title="Solar System">
+        Solar System
+       </a>
+       − the
+       <a href="/wiki/List_of_gravitationally_rounded_objects_of_the_Solar_System" title="List of gravitationally rounded objects of the Solar System">
+        gravitationally rounded satellites
+       </a>
+       − are tidally locked with their primaries, because they orbit very closely and tidal force increases rapidly (as a
+       <a href="/wiki/Cubic_function" title="Cubic function">
+        cubic function
+       </a>
+       ) with decreasing distance.
+       <sup class="reference" id="cite_ref-13">
+        <a href="#cite_note-13">
+         [13]
+        </a>
+       </sup>
+       Notable exceptions are the irregular outer satellites of the
+       <a href="/wiki/Gas_giant" title="Gas giant">
+        gas giants
+       </a>
+       , which orbit much farther away than the large well-known moons.
+      </p>
+      <p>
+       <a href="/wiki/Pluto" title="Pluto">
+        Pluto
+       </a>
+       and
+       <a href="/wiki/Charon_(moon)" title="Charon (moon)">
+        Charon
+       </a>
+       are an extreme example of a tidal lock. Charon is a relatively large moon in comparison to its primary and also has a very close
+       <a href="/wiki/Orbit" title="Orbit">
+        orbit
+       </a>
+       . This results in Pluto and Charon being mutually tidally locked. Pluto's other moons are not tidally locked;
+       <a href="/wiki/Styx_(moon)" title="Styx (moon)">
+        Styx
+       </a>
+       ,
+       <a href="/wiki/Nix_(moon)" title="Nix (moon)">
+        Nix
+       </a>
+       ,
+       <a href="/wiki/Kerberos_(moon)" title="Kerberos (moon)">
+        Kerberos
+       </a>
+       , and
+       <a href="/wiki/Hydra_(moon)" title="Hydra (moon)">
+        Hydra
+       </a>
+       all rotate chaotically due to the influence of Charon.
+      </p>
+      <p>
+       The tidal locking situation for
+       <a class="mw-redirect" href="/wiki/Asteroid_moon" title="Asteroid moon">
+        asteroid moons
+       </a>
+       is largely unknown, but closely orbiting binaries are expected to be tidally locked, as well as
+       <a class="mw-redirect" href="/wiki/Contact_binary_(asteroid)" title="Contact binary (asteroid)">
+        contact binaries
+       </a>
+       .
+      </p>
+      <h4>
+       <span class="mw-headline" id="The_Moon">
+        The Moon
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Tidal_locking&amp;action=edit&amp;section=7" title="Edit section: The Moon">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h4>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:FullMoon2010.jpg">
+         <img alt="" class="thumbimage" data-file-height="2452" data-file-width="2580" height="209" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/FullMoon2010.jpg/220px-FullMoon2010.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/FullMoon2010.jpg/330px-FullMoon2010.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e1/FullMoon2010.jpg/440px-FullMoon2010.jpg 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:FullMoon2010.jpg" title="Enlarge">
+          </a>
+         </div>
+         Because the
+         <a href="/wiki/Moon" title="Moon">
+          Moon
+         </a>
+         is 1:1 tidally locked, only
+         <a href="/wiki/Near_side_of_the_Moon" title="Near side of the Moon">
+          one side
+         </a>
+         is visible from
+         <a href="/wiki/Earth" title="Earth">
+          Earth
+         </a>
+         .
+        </div>
+       </div>
+      </div>
+      <p>
+       The Moon's rotation and orbital periods are tidally locked with each other, so no matter when the Moon is observed from Earth the same hemisphere of the Moon is always seen. The
+       <a class="mw-redirect" href="/wiki/Far_side_(Moon)" title="Far side (Moon)">
+        far side of the Moon
+       </a>
+       was not seen until 1959, when photographs of most of the far side were transmitted from the
+       <a href="/wiki/Soviet_Union" title="Soviet Union">
+        Soviet
+       </a>
+       spacecraft
+       <a href="/wiki/Luna_3" title="Luna 3">
+        Luna 3
+       </a>
+       .
+       <sup class="reference" id="cite_ref-14">
+        <a href="#cite_note-14">
+         [14]
+        </a>
+       </sup>
+      </p>
+      <p>
+       When the Earth is observed from the moon, the Earth does not appear to translate across the sky but appears to remain in the same place, rotating on its own axis.
+      </p>
+      <p>
+       Despite the Moon's rotational and orbital periods being exactly locked, about 59% of the Moon's total surface may be seen with repeated observations from Earth due to the phenomena of
+       <a href="/wiki/Libration" title="Libration">
+        libration
+       </a>
+       and
+       <a href="/wiki/Parallax" title="Parallax">
+        parallax
+       </a>
+       . Librations are primarily caused by the Moon's varying orbital speed due to the
+       <a class="mw-redirect" href="/wiki/Eccentricity_(orbit)" title="Eccentricity (orbit)">
+        eccentricity
+       </a>
+       of its orbit: this allows up to about 6° more along its perimeter to be seen from Earth. Parallax is a geometric effect: at the surface of Earth we are offset from the line through the centers of Earth and Moon, and because of this we can observe a bit (about 1°) more around the side of the Moon when it is on our local horizon.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Planets">
+        Planets
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Tidal_locking&amp;action=edit&amp;section=8" title="Edit section: Planets">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       It was thought for some time that
+       <a href="/wiki/Mercury_(planet)" title="Mercury (planet)">
+        Mercury
+       </a>
+       was in synchronous rotation with the Sun. This was because whenever Mercury was best placed for observation, the same side faced inward. Radar observations in 1965 demonstrated instead that Mercury has a 3:2 spin–orbit resonance, rotating three times for every two revolutions around the Sun, which results in the same positioning at those observation points. Modeling has demonstrated that Mercury was captured into the 3:2 spin–orbit state very early in its history, within 20 (and more likely even 10) million years after its formation.
+       <sup class="reference" id="cite_ref-Noyelles2012_15-0">
+        <a href="#cite_note-Noyelles2012-15">
+         [15]
+        </a>
+       </sup>
+      </p>
+      <p>
+       <a href="/wiki/Venus" title="Venus">
+        Venus
+       </a>
+       's 583.92-day interval between successive close approaches to Earth is equal to 5.001444 Venusian solar days, making approximately the same face visible from Earth at each close approach. Whether this relationship arose by chance or is the result of some kind of tidal locking with Earth is unknown.
+       <sup class="reference" id="cite_ref-16">
+        <a href="#cite_note-16">
+         [16]
+        </a>
+       </sup>
+      </p>
+      <p>
+       <a href="/wiki/Proxima_Centauri_b" title="Proxima Centauri b">
+        Proxima Centauri b
+       </a>
+       , the "Earth-like planet" discovered in 2016 that orbits around the star
+       <a href="/wiki/Proxima_Centauri" title="Proxima Centauri">
+        Proxima Centauri
+       </a>
+       is tidally locked, either in synchronized rotation,
+       <sup class="reference" id="cite_ref-17">
+        <a href="#cite_note-17">
+         [17]
+        </a>
+       </sup>
+       or otherwise expresses a 3:2 spin-orbit resonance like that of Mercury.
+       <sup class="reference" id="cite_ref-18">
+        <a href="#cite_note-18">
+         [18]
+        </a>
+       </sup>
+      </p>
+      <h3>
+       <span class="mw-headline" id="Stars">
+        Stars
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Tidal_locking&amp;action=edit&amp;section=9" title="Edit section: Stars">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       Close
+       <a href="/wiki/Binary_star" title="Binary star">
+        binary stars
+       </a>
+       throughout the universe are expected to be tidally locked with each other, and
+       <a class="mw-redirect" href="/wiki/Extrasolar_planet" title="Extrasolar planet">
+        extrasolar planets
+       </a>
+       that have been found to orbit their primaries extremely closely are also thought to be tidally locked to them. An unusual example, confirmed by
+       <a class="mw-redirect" href="/wiki/Microvariability_and_Oscillations_of_STars_telescope" title="Microvariability and Oscillations of STars telescope">
+        MOST
+       </a>
+       , may be
+       <a href="/wiki/Tau_Bo%C3%B6tis" title="Tau Boötis">
+        Tau Boötis
+       </a>
+       , a star that is probably tidally locked by a planet. If so, the tidal locking is almost certainly mutual. However, since stars are gaseous bodies that can rotate with a different rate at different latitudes, the tidal lock is with τ Boötis'
+       <a href="/wiki/Magnetic_field" title="Magnetic field">
+        magnetic field
+       </a>
+       .
+       <sup class="reference" id="cite_ref-space.com_19-0">
+        <a href="#cite_note-space.com-19">
+         [19]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Timescale">
+        Timescale
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Tidal_locking&amp;action=edit&amp;section=10" title="Edit section: Timescale">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       An estimate of the time for a body to become tidally locked can be obtained using the following formula:
+       <sup class="reference" id="cite_ref-20">
+        <a href="#cite_note-20">
+         [20]
+        </a>
+       </sup>
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle t_{\text{lock}}\approx {\frac {\omega a^{6}IQ}{3Gm_{p}^{2}k_{2}R^{5}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msub>
+               <mi>
+                t
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mtext>
+                 lock
+                </mtext>
+               </mrow>
+              </msub>
+              <mo>
+               ≈
+               <!-- ≈ -->
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mrow>
+                 <mi>
+                  ω
+                  <!-- ω -->
+                 </mi>
+                 <msup>
+                  <mi>
+                   a
+                  </mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mn>
+                    6
+                   </mn>
+                  </mrow>
+                 </msup>
+                 <mi>
+                  I
+                 </mi>
+                 <mi>
+                  Q
+                 </mi>
+                </mrow>
+                <mrow>
+                 <mn>
+                  3
+                 </mn>
+                 <mi>
+                  G
+                 </mi>
+                 <msubsup>
+                  <mi>
+                   m
+                  </mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mi>
+                    p
+                   </mi>
+                  </mrow>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mn>
+                    2
+                   </mn>
+                  </mrow>
+                 </msubsup>
+                 <msub>
+                  <mi>
+                   k
+                  </mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mn>
+                    2
+                   </mn>
+                  </mrow>
+                 </msub>
+                 <msup>
+                  <mi>
+                   R
+                  </mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mn>
+                    5
+                   </mn>
+                  </mrow>
+                 </msup>
+                </mrow>
+               </mfrac>
+              </mrow>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle t_{\text{lock}}\approx {\frac {\omega a^{6}IQ}{3Gm_{p}^{2}k_{2}R^{5}}}}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle t_{\text{lock}}\approx {\frac {\omega a^{6}IQ}{3Gm_{p}^{2}k_{2}R^{5}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7611204dd2aa57bad6fc04d6c335976d323cf76e" style="vertical-align: -2.838ex; width:19.056ex; height:6.676ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       where
+      </p>
+      <ul>
+       <li>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle \omega \,}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               ω
+               <!-- ω -->
+              </mi>
+              <mspace width="thinmathspace">
+              </mspace>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle \omega \,}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="\omega\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1caedcdf3f920c9e1271a9500bf2621df8a46c0c" style="vertical-align: -0.338ex; width:1.833ex; height:1.676ex;"/>
+        </span>
+        is the initial spin rate expressed in
+        <a href="/wiki/Radian" title="Radian">
+         radians
+        </a>
+        <a href="/wiki/Radian_per_second" title="Radian per second">
+         per second
+        </a>
+        ,
+       </li>
+       <li>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle a\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               a
+              </mi>
+              <mspace width="thinmathspace">
+              </mspace>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle a\,}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="a\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1d73aa5354c24942dab5316be466465a9d171510" style="vertical-align: -0.338ex; width:1.617ex; height:1.676ex;"/>
+        </span>
+        is the
+        <a class="mw-redirect" href="/wiki/Semi-major_axis" title="Semi-major axis">
+         semi-major axis
+        </a>
+        of the motion of the satellite around the planet (given by the average of the
+        <a class="mw-redirect" href="/wiki/Periapsis" title="Periapsis">
+         periapsis
+        </a>
+        and
+        <a class="mw-redirect" href="/wiki/Apoapsis" title="Apoapsis">
+         apoapsis
+        </a>
+        distances),
+       </li>
+       <li>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle I\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               I
+              </mi>
+              <mspace width="thinmathspace">
+              </mspace>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle I\,}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="I\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/988f6ada07675268dc7164f44f469dbec6e00b8a" style="vertical-align: -0.338ex; width:1.559ex; height:2.176ex;"/>
+        </span>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle \approx 0.4m_{s}R^{2}}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mo>
+               ≈
+               <!-- ≈ -->
+              </mo>
+              <mn>
+               0.4
+              </mn>
+              <msub>
+               <mi>
+                m
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 s
+                </mi>
+               </mrow>
+              </msub>
+              <msup>
+               <mi>
+                R
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mn>
+                 2
+                </mn>
+               </mrow>
+              </msup>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle \approx 0.4m_{s}R^{2}}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="\approx 0.4m_{s}R^{2}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/65ab9bb7981973e6b7fd5a0d0104dfda896fc418" style="vertical-align: -0.671ex; width:11.287ex; height:3.009ex;"/>
+        </span>
+        is the
+        <a href="/wiki/Moment_of_inertia" title="Moment of inertia">
+         moment of inertia
+        </a>
+        of the satellite, where
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle m_{s}\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msub>
+               <mi>
+                m
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 s
+                </mi>
+               </mrow>
+              </msub>
+              <mspace width="thinmathspace">
+              </mspace>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle m_{s}\,}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="m_{s}\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/045b93d69f7479c80bee4011d328e899d9567ef5" style="vertical-align: -0.671ex; width:3.431ex; height:2.009ex;"/>
+        </span>
+        is the mass of the satellite and
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle R\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               R
+              </mi>
+              <mspace width="thinmathspace">
+              </mspace>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle R\,}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="R\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/293563891196765d2d51e0dd54e1ae1000ba9def" style="vertical-align: -0.338ex; width:2.151ex; height:2.176ex;"/>
+        </span>
+        is the mean radius of the satellite,
+       </li>
+       <li>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle Q\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               Q
+              </mi>
+              <mspace width="thinmathspace">
+              </mspace>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle Q\,}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="Q\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b23c85e3da723c6f662dfd28b9ea209f3f0df613" style="vertical-align: -0.671ex; width:2.225ex; height:2.509ex;"/>
+        </span>
+        is the dissipation function of the satellite,
+       </li>
+       <li>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle G\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               G
+              </mi>
+              <mspace width="thinmathspace">
+              </mspace>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle G\,}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="G\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a1f6c4d01b8be460cde4156d1fde6af720f8ff12" style="vertical-align: -0.338ex; width:2.214ex; height:2.176ex;"/>
+        </span>
+        is the
+        <a href="/wiki/Gravitational_constant" title="Gravitational constant">
+         gravitational constant
+        </a>
+        ,
+       </li>
+       <li>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle m_{p}\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msub>
+               <mi>
+                m
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 p
+                </mi>
+               </mrow>
+              </msub>
+              <mspace width="thinmathspace">
+              </mspace>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle m_{p}\,}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="m_{p}\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bc1b83840c7c3f7d9deff985a43ab51ef365b58b" style="vertical-align: -1.005ex; width:3.487ex; height:2.343ex;"/>
+        </span>
+        is the mass of the planet, and
+       </li>
+       <li>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle k_{2}\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msub>
+               <mi>
+                k
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mn>
+                 2
+                </mn>
+               </mrow>
+              </msub>
+              <mspace width="thinmathspace">
+              </mspace>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle k_{2}\,}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="k_{2}\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/80eb50e2a30396bd407ec74c726cf18a41e94f53" style="vertical-align: -0.671ex; width:2.653ex; height:2.509ex;"/>
+        </span>
+        is the tidal
+        <a href="/wiki/Love_number" title="Love number">
+         Love number
+        </a>
+        of the satellite.
+       </li>
+      </ul>
+      <p>
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle Q}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              Q
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle Q}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="Q" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8752c7023b4b3286800fe3238271bbca681219ed" style="vertical-align: -0.671ex; width:1.838ex; height:2.509ex;"/>
+       </span>
+       and
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle k_{2}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi>
+               k
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mn>
+                2
+               </mn>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle k_{2}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="k_{2}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c51b4ba57ee596d8435fc4ed76703ca3a2fc444a" style="vertical-align: -0.671ex; width:2.265ex; height:2.509ex;"/>
+       </span>
+       are generally very poorly known except for the Moon, which has
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle k_{2}/Q=0.0011}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi>
+               k
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mn>
+                2
+               </mn>
+              </mrow>
+             </msub>
+             <mrow class="MJX-TeXAtom-ORD">
+              <mo>
+               /
+              </mo>
+             </mrow>
+             <mi>
+              Q
+             </mi>
+             <mo>
+              =
+             </mo>
+             <mn>
+              0.0011
+             </mn>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle k_{2}/Q=0.0011}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="k_{2}/Q=0.0011" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d11d754a335a01ff2c801a765bca06b0faa4b522" style="vertical-align: -0.838ex; width:14.824ex; height:2.843ex;"/>
+       </span>
+       . For a really rough estimate it is common to take
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle Q\approx 100}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              Q
+             </mi>
+             <mo>
+              ≈
+              <!-- ≈ -->
+             </mo>
+             <mn>
+              100
+             </mn>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle Q\approx 100}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="Q\approx 100" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7544fcd6c6dacc97d403227e9f02d0bb2217238d" style="vertical-align: -0.671ex; width:8.424ex; height:2.509ex;"/>
+       </span>
+       (perhaps conservatively, giving overestimated locking times), and
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle k_{2}\approx {\frac {1.5}{1+{\frac {19\mu }{2\rho gR}}}},}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msub>
+               <mi>
+                k
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mn>
+                 2
+                </mn>
+               </mrow>
+              </msub>
+              <mo>
+               ≈
+               <!-- ≈ -->
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mn>
+                 1.5
+                </mn>
+                <mrow>
+                 <mn>
+                  1
+                 </mn>
+                 <mo>
+                  +
+                 </mo>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mfrac>
+                   <mrow>
+                    <mn>
+                     19
+                    </mn>
+                    <mi>
+                     μ
+                     <!-- μ -->
+                    </mi>
+                   </mrow>
+                   <mrow>
+                    <mn>
+                     2
+                    </mn>
+                    <mi>
+                     ρ
+                     <!-- ρ -->
+                    </mi>
+                    <mi>
+                     g
+                    </mi>
+                    <mi>
+                     R
+                    </mi>
+                   </mrow>
+                  </mfrac>
+                 </mrow>
+                </mrow>
+               </mfrac>
+              </mrow>
+              <mo>
+               ,
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle k_{2}\approx {\frac {1.5}{1+{\frac {19\mu }{2\rho gR}}}},}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="k_{2}\approx {\frac {1.5}{1+{\frac {19\mu }{2\rho gR}}}}," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/12b849f32c4887f04591dae61aec487e1a2152cc" style="vertical-align: -4.171ex; width:15.394ex; height:7.509ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       where
+      </p>
+      <ul>
+       <li>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle \rho \,}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               ρ
+               <!-- ρ -->
+              </mi>
+              <mspace width="thinmathspace">
+              </mspace>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle \rho \,}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="\rho \," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a1d651c28959a0f15127c097ff4488b123d9e708" style="vertical-align: -0.838ex; width:1.589ex; height:2.176ex;"/>
+        </span>
+        is the density of the satellite
+       </li>
+       <li>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle g\approx Gm_{s}/R^{2}}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               g
+              </mi>
+              <mo>
+               ≈
+               <!-- ≈ -->
+              </mo>
+              <mi>
+               G
+              </mi>
+              <msub>
+               <mi>
+                m
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 s
+                </mi>
+               </mrow>
+              </msub>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mo>
+                /
+               </mo>
+              </mrow>
+              <msup>
+               <mi>
+                R
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mn>
+                 2
+                </mn>
+               </mrow>
+              </msup>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle g\approx Gm_{s}/R^{2}}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="g\approx Gm_{s}/R^{2}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fde151c259a6d055f551514ff8fd1ae0107b54fe" style="vertical-align: -0.838ex; width:13.066ex; height:3.176ex;"/>
+        </span>
+        is the surface gravity of the satellite
+       </li>
+       <li>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle \mu \,}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               μ
+               <!-- μ -->
+              </mi>
+              <mspace width="thinmathspace">
+              </mspace>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle \mu \,}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="\mu \," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8d20addf0d9f04e185714134b97726c4bf17d340" style="vertical-align: -0.838ex; width:1.789ex; height:2.176ex;"/>
+        </span>
+        is the rigidity of the satellite. This can be roughly taken as 3
+        <span style="margin:0 .15em 0 .25em">
+         ×
+        </span>
+        10
+        <sup>
+         <span style="white-space:nowrap">
+          10
+         </span>
+        </sup>
+        N·m
+        <sup>
+         −2
+        </sup>
+        for rocky objects and 4
+        <span style="margin:0 .15em 0 .25em">
+         ×
+        </span>
+        10
+        <sup>
+         <span style="white-space:nowrap">
+          9
+         </span>
+        </sup>
+        N·m
+        <sup>
+         −2
+        </sup>
+        for icy ones.
+       </li>
+      </ul>
+      <p>
+       Even knowing the size and density of the satellite leaves many parameters that must be estimated (especially
+       <i>
+        ω
+       </i>
+       ,
+       <i>
+        Q
+       </i>
+       , and
+       <i>
+        μ
+       </i>
+       ), so that any calculated locking times obtained are expected to be inaccurate, even to factors of ten. Further, during the tidal locking phase the semi-major axis
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle a}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              a
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle a}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="a" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ffd2487510aa438433a2579450ab2b3d557e5edc" style="vertical-align: -0.338ex; width:1.23ex; height:1.676ex;"/>
+       </span>
+       may have been significantly different from that observed nowadays due to subsequent
+       <a href="/wiki/Tidal_acceleration" title="Tidal acceleration">
+        tidal acceleration
+       </a>
+       , and the locking time is extremely sensitive to this value.
+      </p>
+      <p>
+       Because the uncertainty is so high, the above formulas can be simplified to give a somewhat less cumbersome one. By assuming that the satellite is spherical,
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle k_{2}\ll 1\,,Q=100}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi>
+               k
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mn>
+                2
+               </mn>
+              </mrow>
+             </msub>
+             <mo>
+              ≪
+              <!-- ≪ -->
+             </mo>
+             <mn>
+              1
+             </mn>
+             <mspace width="thinmathspace">
+             </mspace>
+             <mo>
+              ,
+             </mo>
+             <mi>
+              Q
+             </mi>
+             <mo>
+              =
+             </mo>
+             <mn>
+              100
+             </mn>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle k_{2}\ll 1\,,Q=100}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="k_{2}\ll 1\,,Q=100" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/598d68e758963de3ecc6f14f74610c7b3f242284" style="vertical-align: -0.671ex; width:16.887ex; height:2.509ex;"/>
+       </span>
+       , and it is sensible to guess one revolution every 12 hours in the initial non-locked state (most asteroids have rotational periods between about 2 hours and about 2 days)
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle t_{\text{lock}}\approx 6\ {\frac {a^{6}R\mu }{m_{s}m_{p}^{2}}}\times 10^{10}\ {\text{years}},}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msub>
+               <mi>
+                t
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mtext>
+                 lock
+                </mtext>
+               </mrow>
+              </msub>
+              <mo>
+               ≈
+               <!-- ≈ -->
+              </mo>
+              <mn>
+               6
+              </mn>
+              <mtext>
+              </mtext>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mrow>
+                 <msup>
+                  <mi>
+                   a
+                  </mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mn>
+                    6
+                   </mn>
+                  </mrow>
+                 </msup>
+                 <mi>
+                  R
+                 </mi>
+                 <mi>
+                  μ
+                  <!-- μ -->
+                 </mi>
+                </mrow>
+                <mrow>
+                 <msub>
+                  <mi>
+                   m
+                  </mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mi>
+                    s
+                   </mi>
+                  </mrow>
+                 </msub>
+                 <msubsup>
+                  <mi>
+                   m
+                  </mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mi>
+                    p
+                   </mi>
+                  </mrow>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mn>
+                    2
+                   </mn>
+                  </mrow>
+                 </msubsup>
+                </mrow>
+               </mfrac>
+              </mrow>
+              <mo>
+               ×
+               <!-- × -->
+              </mo>
+              <msup>
+               <mn>
+                10
+               </mn>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mn>
+                 10
+                </mn>
+               </mrow>
+              </msup>
+              <mtext>
+              </mtext>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mtext>
+                years
+               </mtext>
+              </mrow>
+              <mo>
+               ,
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle t_{\text{lock}}\approx 6\ {\frac {a^{6}R\mu }{m_{s}m_{p}^{2}}}\times 10^{10}\ {\text{years}},}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="t_{\text{lock}}\approx 6\ {\frac {a^{6}R\mu }{m_{s}m_{p}^{2}}}\times 10^{10}\ {\text{years}}," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/09666f7b38e7f0d4145398b3caf4118e4fa87a3b" style="vertical-align: -2.838ex; width:29.289ex; height:6.676ex;"/>
+        </span>
+        <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+         [
+         <i>
+          <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+           <span title="This claim needs references to reliable sources. (October 2012)">
+            citation needed
+           </span>
+          </a>
+         </i>
+         ]
+        </sup>
+       </dd>
+      </dl>
+      <p>
+       with masses in kilograms, distances in meters, and
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \mu }" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              μ
+              <!-- μ -->
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \mu }
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\mu " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9fd47b2a39f7a7856952afec1f1db72c67af6161" style="vertical-align: -0.838ex; width:1.402ex; height:2.176ex;"/>
+       </span>
+       in newtons per meter squared;
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \mu }" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              μ
+              <!-- μ -->
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \mu }
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\mu " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9fd47b2a39f7a7856952afec1f1db72c67af6161" style="vertical-align: -0.838ex; width:1.402ex; height:2.176ex;"/>
+       </span>
+       can be roughly taken as 3
+       <span style="margin:0 .15em 0 .25em">
+        ×
+       </span>
+       10
+       <sup>
+        <span style="white-space:nowrap">
+         10
+        </span>
+       </sup>
+       N·m
+       <sup>
+        −2
+       </sup>
+       for rocky objects and 4
+       <span style="margin:0 .15em 0 .25em">
+        ×
+       </span>
+       10
+       <sup>
+        <span style="white-space:nowrap">
+         9
+        </span>
+       </sup>
+       N·m
+       <sup>
+        −2
+       </sup>
+       for icy ones.
+      </p>
+      <p>
+       There is an extremely strong dependence on semi-major axis
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle a}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              a
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle a}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="a" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ffd2487510aa438433a2579450ab2b3d557e5edc" style="vertical-align: -0.338ex; width:1.23ex; height:1.676ex;"/>
+       </span>
+       .
+      </p>
+      <p>
+       For the locking of a primary body to its satellite as in the case of Pluto, the satellite and primary body parameters can be swapped.
+      </p>
+      <p>
+       One conclusion is that,
+       <i>
+        other things being equal
+       </i>
+       (such as
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle Q}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              Q
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle Q}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="Q" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8752c7023b4b3286800fe3238271bbca681219ed" style="vertical-align: -0.671ex; width:1.838ex; height:2.509ex;"/>
+       </span>
+       and
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \mu }" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              μ
+              <!-- μ -->
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \mu }
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\mu " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9fd47b2a39f7a7856952afec1f1db72c67af6161" style="vertical-align: -0.838ex; width:1.402ex; height:2.176ex;"/>
+       </span>
+       ), a large moon will lock faster than a smaller moon at the same orbital distance from the planet because
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle m_{s}\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi>
+               m
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                s
+               </mi>
+              </mrow>
+             </msub>
+             <mspace width="thinmathspace">
+             </mspace>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle m_{s}\,}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="m_{s}\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/045b93d69f7479c80bee4011d328e899d9567ef5" style="vertical-align: -0.671ex; width:3.431ex; height:2.009ex;"/>
+       </span>
+       grows as the cube of the satellite radius
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle R}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              R
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle R}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="R" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4b0bfb3769bf24d80e15374dc37b0441e2616e33" style="vertical-align: -0.338ex; width:1.764ex; height:2.176ex;"/>
+       </span>
+       . A possible example of this is in the Saturn system, where
+       <a href="/wiki/Hyperion_(moon)" title="Hyperion (moon)">
+        Hyperion
+       </a>
+       is not tidally locked, whereas the larger
+       <a href="/wiki/Iapetus_(moon)" title="Iapetus (moon)">
+        Iapetus
+       </a>
+       , which orbits at a greater distance, is. However, this is not clear cut because Hyperion also experiences strong driving from the nearby
+       <a href="/wiki/Titan_(moon)" title="Titan (moon)">
+        Titan
+       </a>
+       , which forces its rotation to be chaotic.
+      </p>
+      <p>
+       The above formulae for the timescale of locking may be off by orders of magnitude, because they ignore the frequency dependence of
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle k_{2}/Q}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi>
+               k
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mn>
+                2
+               </mn>
+              </mrow>
+             </msub>
+             <mrow class="MJX-TeXAtom-ORD">
+              <mo>
+               /
+              </mo>
+             </mrow>
+             <mi>
+              Q
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle k_{2}/Q}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="k_{2}/Q" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/af70c685e0d4e0ba8043076aab3e63a75f00f0a5" style="vertical-align: -0.838ex; width:5.266ex; height:2.843ex;"/>
+       </span>
+       . More importantly, they may be inapplicable to viscous binaries (double stars, or double asteroids that are rubble), because the spin–orbit dynamics of such bodies is defined mainly by their viscosity, not rigidity.
+       <sup class="reference" id="cite_ref-21">
+        <a href="#cite_note-21">
+         [21]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="List_of_known_tidally_locked_bodies">
+        List of known tidally locked bodies
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Tidal_locking&amp;action=edit&amp;section=11" title="Edit section: List of known tidally locked bodies">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <h3>
+       <span class="mw-headline" id="Solar_System">
+        Solar System
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Tidal_locking&amp;action=edit&amp;section=12" title="Edit section: Solar System">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <table class="wikitable">
+       <tr>
+        <th style="white-space:nowrap;">
+         Parent body
+        </th>
+        <th>
+         Tidally-locked satellites
+         <sup class="reference" id="cite_ref-22">
+          <a href="#cite_note-22">
+           [22]
+          </a>
+         </sup>
+        </th>
+       </tr>
+       <tr>
+        <th>
+         <a href="/wiki/Sun" title="Sun">
+          Sun
+         </a>
+        </th>
+        <td>
+         <a href="/wiki/Mercury_(planet)" title="Mercury (planet)">
+          Mercury
+         </a>
+         <sup class="reference" id="cite_ref-23">
+          <a href="#cite_note-23">
+           [23]
+          </a>
+         </sup>
+         <sup class="reference" id="cite_ref-24">
+          <a href="#cite_note-24">
+           [24]
+          </a>
+         </sup>
+         <sup class="reference" id="cite_ref-Noyelles2012_15-1">
+          <a href="#cite_note-Noyelles2012-15">
+           [15]
+          </a>
+         </sup>
+         (3:2 spin-orbit resonance)
+        </td>
+       </tr>
+       <tr>
+        <th>
+         <a href="/wiki/Earth" title="Earth">
+          Earth
+         </a>
+        </th>
+        <td>
+         <a href="/wiki/Moon" title="Moon">
+          Moon
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <th>
+         <a href="/wiki/Mars" title="Mars">
+          Mars
+         </a>
+        </th>
+        <td>
+         <a href="/wiki/Phobos_(moon)" title="Phobos (moon)">
+          Phobos
+         </a>
+         <sup class="reference" id="cite_ref-Correia2009_25-0">
+          <a href="#cite_note-Correia2009-25">
+           [25]
+          </a>
+         </sup>
+         ·
+         <a href="/wiki/Deimos_(moon)" title="Deimos (moon)">
+          Deimos
+         </a>
+         <sup class="reference" id="cite_ref-26">
+          <a href="#cite_note-26">
+           [26]
+          </a>
+         </sup>
+        </td>
+       </tr>
+       <tr>
+        <th>
+         <a href="/wiki/Jupiter" title="Jupiter">
+          Jupiter
+         </a>
+        </th>
+        <td>
+         <a href="/wiki/Metis_(moon)" title="Metis (moon)">
+          Metis
+         </a>
+         ·
+         <a href="/wiki/Adrastea_(moon)" title="Adrastea (moon)">
+          Adrastea
+         </a>
+         ·
+         <a href="/wiki/Amalthea_(moon)" title="Amalthea (moon)">
+          Amalthea
+         </a>
+         ·
+         <a href="/wiki/Thebe_(moon)" title="Thebe (moon)">
+          Thebe
+         </a>
+         ·
+         <a href="/wiki/Io_(moon)" title="Io (moon)">
+          Io
+         </a>
+         ·
+         <a href="/wiki/Europa_(moon)" title="Europa (moon)">
+          Europa
+         </a>
+         ·
+         <a href="/wiki/Ganymede_(moon)" title="Ganymede (moon)">
+          Ganymede
+         </a>
+         ·
+         <a href="/wiki/Callisto_(moon)" title="Callisto (moon)">
+          Callisto
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <th>
+         <a href="/wiki/Saturn" title="Saturn">
+          Saturn
+         </a>
+        </th>
+        <td>
+         <a href="/wiki/Pan_(moon)" title="Pan (moon)">
+          Pan
+         </a>
+         ·
+         <a href="/wiki/Atlas_(moon)" title="Atlas (moon)">
+          Atlas
+         </a>
+         ·
+         <a href="/wiki/Prometheus_(moon)" title="Prometheus (moon)">
+          Prometheus
+         </a>
+         ·
+         <a href="/wiki/Pandora_(moon)" title="Pandora (moon)">
+          Pandora
+         </a>
+         ·
+         <a href="/wiki/Epimetheus_(moon)" title="Epimetheus (moon)">
+          Epimetheus
+         </a>
+         ·
+         <a href="/wiki/Janus_(moon)" title="Janus (moon)">
+          Janus
+         </a>
+         ·
+         <a href="/wiki/Mimas_(moon)" title="Mimas (moon)">
+          Mimas
+         </a>
+         ·
+         <a class="mw-redirect" href="/wiki/Enceladus_(moon)" title="Enceladus (moon)">
+          Enceladus
+         </a>
+         ·
+         <a href="/wiki/Telesto_(moon)" title="Telesto (moon)">
+          Telesto
+         </a>
+         ·
+         <a href="/wiki/Tethys_(moon)" title="Tethys (moon)">
+          Tethys
+         </a>
+         ·
+         <a href="/wiki/Calypso_(moon)" title="Calypso (moon)">
+          Calypso
+         </a>
+         ·
+         <a href="/wiki/Dione_(moon)" title="Dione (moon)">
+          Dione
+         </a>
+         ·
+         <a href="/wiki/Rhea_(moon)" title="Rhea (moon)">
+          Rhea
+         </a>
+         ·
+         <a href="/wiki/Titan_(moon)" title="Titan (moon)">
+          Titan
+         </a>
+         ·
+         <a href="/wiki/Iapetus_(moon)" title="Iapetus (moon)">
+          Iapetus
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <th>
+         <a href="/wiki/Uranus" title="Uranus">
+          Uranus
+         </a>
+        </th>
+        <td>
+         <a href="/wiki/Miranda_(moon)" title="Miranda (moon)">
+          Miranda
+         </a>
+         ·
+         <a href="/wiki/Ariel_(moon)" title="Ariel (moon)">
+          Ariel
+         </a>
+         ·
+         <a href="/wiki/Umbriel_(moon)" title="Umbriel (moon)">
+          Umbriel
+         </a>
+         ·
+         <a href="/wiki/Titania_(moon)" title="Titania (moon)">
+          Titania
+         </a>
+         ·
+         <a href="/wiki/Oberon_(moon)" title="Oberon (moon)">
+          Oberon
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <th>
+         <a href="/wiki/Neptune" title="Neptune">
+          Neptune
+         </a>
+        </th>
+        <td>
+         <a href="/wiki/Proteus_(moon)" title="Proteus (moon)">
+          Proteus
+         </a>
+         ·
+         <a href="/wiki/Triton_(moon)" title="Triton (moon)">
+          Triton
+         </a>
+         <sup class="reference" id="cite_ref-Correia2009_25-1">
+          <a href="#cite_note-Correia2009-25">
+           [25]
+          </a>
+         </sup>
+        </td>
+       </tr>
+       <tr>
+        <th>
+         <a href="/wiki/Pluto" title="Pluto">
+          Pluto
+         </a>
+        </th>
+        <td>
+         <a href="/wiki/Charon_(moon)" title="Charon (moon)">
+          Charon
+         </a>
+         (Pluto is itself locked to Charon)
+         <sup class="reference" id="cite_ref-Michaely2017_11-1">
+          <a href="#cite_note-Michaely2017-11">
+           [11]
+          </a>
+         </sup>
+        </td>
+       </tr>
+      </table>
+      <h3>
+       <span class="mw-headline" id="Extra-solar">
+        Extra-solar
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Tidal_locking&amp;action=edit&amp;section=13" title="Edit section: Extra-solar">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <ul>
+       <li>
+        <a href="/wiki/Tau_Bo%C3%B6tis" title="Tau Boötis">
+         Tau Boötis
+        </a>
+        is known to be locked to the close-orbiting
+        <a href="/wiki/Giant_planet" title="Giant planet">
+         giant planet
+        </a>
+        <a href="/wiki/Tau_Bo%C3%B6tis_b" title="Tau Boötis b">
+         Tau Boötis b
+        </a>
+        .
+        <sup class="reference" id="cite_ref-space.com_19-1">
+         <a href="#cite_note-space.com-19">
+          [19]
+         </a>
+        </sup>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="Bodies_likely_to_be_locked">
+        Bodies likely to be locked
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Tidal_locking&amp;action=edit&amp;section=14" title="Edit section: Bodies likely to be locked">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <h3>
+       <span class="mw-headline" id="Solar_System_2">
+        Solar System
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Tidal_locking&amp;action=edit&amp;section=15" title="Edit section: Solar System">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       Based on comparison between the likely time needed to lock a body to its primary, and the time it has been in its present orbit (comparable with the age of the Solar System for most planetary moons), a number of moons are thought to be locked. However their rotations are not known or not known enough. These are:
+      </p>
+      <p>
+       <b>
+        Probably locked to
+        <a href="/wiki/Saturn" title="Saturn">
+         Saturn
+        </a>
+       </b>
+      </p>
+      <div class="div-col columns column-width" style="-moz-column-width: 18em; -webkit-column-width: 18em; column-width: 18em;">
+       <ul>
+        <li>
+         <a href="/wiki/Daphnis_(moon)" title="Daphnis (moon)">
+          Daphnis
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Aegaeon_(moon)" title="Aegaeon (moon)">
+          Aegaeon
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Methone_(moon)" title="Methone (moon)">
+          Methone
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Anthe_(moon)" title="Anthe (moon)">
+          Anthe
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Pallene_(moon)" title="Pallene (moon)">
+          Pallene
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Helene_(moon)" title="Helene (moon)">
+          Helene
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Polydeuces_(moon)" title="Polydeuces (moon)">
+          Polydeuces
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+       <b>
+        Probably locked to
+        <a href="/wiki/Uranus" title="Uranus">
+         Uranus
+        </a>
+       </b>
+      </p>
+      <div class="div-col columns column-width" style="-moz-column-width: 18em; -webkit-column-width: 18em; column-width: 18em;">
+       <ul>
+        <li>
+         <a href="/wiki/Cordelia_(moon)" title="Cordelia (moon)">
+          Cordelia
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Ophelia_(moon)" title="Ophelia (moon)">
+          Ophelia
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Bianca_(moon)" title="Bianca (moon)">
+          Bianca
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Cressida_(moon)" title="Cressida (moon)">
+          Cressida
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Desdemona_(moon)" title="Desdemona (moon)">
+          Desdemona
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Juliet_(moon)" title="Juliet (moon)">
+          Juliet
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Portia_(moon)" title="Portia (moon)">
+          Portia
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Rosalind_(moon)" title="Rosalind (moon)">
+          Rosalind
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Cupid_(moon)" title="Cupid (moon)">
+          Cupid
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Belinda_(moon)" title="Belinda (moon)">
+          Belinda
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Perdita_(moon)" title="Perdita (moon)">
+          Perdita
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Puck_(moon)" title="Puck (moon)">
+          Puck
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Mab_(moon)" title="Mab (moon)">
+          Mab
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+       <b>
+        Probably locked to
+        <a href="/wiki/Neptune" title="Neptune">
+         Neptune
+        </a>
+       </b>
+      </p>
+      <div class="div-col columns column-width" style="-moz-column-width: 18em; -webkit-column-width: 18em; column-width: 18em;">
+       <ul>
+        <li>
+         <a href="/wiki/Naiad_(moon)" title="Naiad (moon)">
+          Naiad
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Thalassa_(moon)" title="Thalassa (moon)">
+          Thalassa
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Despina_(moon)" title="Despina (moon)">
+          Despina
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Galatea_(moon)" title="Galatea (moon)">
+          Galatea
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Larissa_(moon)" title="Larissa (moon)">
+          Larissa
+         </a>
+        </li>
+       </ul>
+      </div>
+      <h3>
+       <span class="mw-headline" id="Extrasolar">
+        Extrasolar
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Tidal_locking&amp;action=edit&amp;section=16" title="Edit section: Extrasolar">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <ul>
+       <li>
+        <a href="/wiki/Gliese_581c" title="Gliese 581c">
+         Gliese 581c
+        </a>
+        ,
+        <sup class="reference" id="cite_ref-27">
+         <a href="#cite_note-27">
+          [27]
+         </a>
+        </sup>
+        <a href="/wiki/Gliese_581g" title="Gliese 581g">
+         Gliese 581g
+        </a>
+        ,
+        <sup class="reference" id="cite_ref-28">
+         <a href="#cite_note-28">
+          [28]
+         </a>
+        </sup>
+        <sup class="reference" id="cite_ref-29">
+         <a href="#cite_note-29">
+          [29]
+         </a>
+        </sup>
+        <a href="/wiki/Gliese_581b" title="Gliese 581b">
+         Gliese 581b
+        </a>
+        ,
+        <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+         [
+         <i>
+          <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+           <span title="This claim needs references to reliable sources. (August 2010)">
+            citation needed
+           </span>
+          </a>
+         </i>
+         ]
+        </sup>
+        and
+        <a href="/wiki/Gliese_581e" title="Gliese 581e">
+         Gliese 581e
+        </a>
+        <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+         [
+         <i>
+          <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+           <span title="This claim needs references to reliable sources. (August 2010)">
+            citation needed
+           </span>
+          </a>
+         </i>
+         ]
+        </sup>
+        may be tidally locked to their parent star
+        <a href="/wiki/Gliese_581" title="Gliese 581">
+         Gliese 581
+        </a>
+        .
+        <a href="/wiki/Gliese_581d" title="Gliese 581d">
+         Gliese 581d
+        </a>
+        is almost certainly captured either into the 2:1 or the 3:2 spin–orbit resonance with the same star.
+        <sup class="reference" id="cite_ref-30">
+         <a href="#cite_note-30">
+          [30]
+         </a>
+        </sup>
+       </li>
+       <li>
+        All planets in the
+        <a href="/wiki/TRAPPIST-1" title="TRAPPIST-1">
+         TRAPPIST-1
+        </a>
+        system are likely to be tidally locked.
+        <sup class="reference" id="cite_ref-31">
+         <a href="#cite_note-31">
+          [31]
+         </a>
+        </sup>
+        <sup class="reference" id="cite_ref-32">
+         <a href="#cite_note-32">
+          [32]
+         </a>
+        </sup>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Tidal_locking&amp;action=edit&amp;section=17" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a href="/wiki/Gravity-gradient_stabilization" title="Gravity-gradient stabilization">
+         Gravity-gradient stabilization
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Orbital_resonance" title="Orbital resonance">
+         Orbital resonance
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Planetary_habitability" title="Planetary habitability">
+         Planetary habitability
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Tidal_acceleration" title="Tidal acceleration">
+         Tidal acceleration
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Synchronous_orbit" title="Synchronous orbit">
+         Synchronous orbit
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Tidal_locking&amp;action=edit&amp;section=18" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+       <ol class="references">
+        <li id="cite_note-1">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-1">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation" id="CITEREFBarnes2010">
+           Barnes, Rory, ed. (2010),
+           <a class="external text" href="https://books.google.com/books?id=-7KimFtJnIAC&amp;pg=PA248" rel="nofollow">
+            <i>
+             Formation and Evolution of Exoplanets
+            </i>
+           </a>
+           , John Wiley &amp; Sons, p. 248,
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/3527408967" title="Special:BookSources/3527408967">
+            3527408967
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Formation+and+Evolution+of+Exoplanets&amp;rft.pages=248&amp;rft.pub=John+Wiley+%26+Sons&amp;rft.date=2010&amp;rft.isbn=3527408967&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D-7KimFtJnIAC%26pg%3DPA248&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATidal+locking">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-2">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-2">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation" id="CITEREFHellerLeconteBarnes2011">
+           Heller, R.; et al. (April 2011), "Tidal obliquity evolution of potentially habitable planets",
+           <i>
+            Astronomy &amp; Astrophysics
+           </i>
+           ,
+           <b>
+            528
+           </b>
+           : 16,
+           <a href="/wiki/ArXiv" title="ArXiv">
+            arXiv
+           </a>
+           :
+           <span class="plainlinks">
+            <a class="external text" href="//arxiv.org/abs/1101.2156" rel="nofollow">
+             1101.2156
+            </a>
+            <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/>
+           </span>
+           ,
+           <a href="/wiki/Bibcode" title="Bibcode">
+            Bibcode
+           </a>
+           :
+           <a class="external text" href="http://adsabs.harvard.edu/abs/2011A&amp;A...528A..27H" rel="nofollow">
+            2011A&amp;A...528A..27H
+           </a>
+           ,
+           <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+            doi
+           </a>
+           :
+           <a class="external text" href="//doi.org/10.1051%2F0004-6361%2F201015809" rel="nofollow">
+            10.1051/0004-6361/201015809
+           </a>
+           , A27.
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Astronomy+%26+Astrophysics&amp;rft.atitle=Tidal+obliquity+evolution+of+potentially+habitable+planets&amp;rft.volume=528&amp;rft.pages=16&amp;rft.date=2011-04&amp;rft_id=info%3Aarxiv%2F1101.2156&amp;rft_id=info%3Adoi%2F10.1051%2F0004-6361%2F201015809&amp;rft_id=info%3Abibcode%2F2011A%26A...528A..27H&amp;rft.aulast=Heller&amp;rft.aufirst=R.&amp;rft.au=Leconte%2C+J.&amp;rft.au=Barnes%2C+R.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATidal+locking">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-3">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-3">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           <a class="external text" href="http://www.universetoday.com/128350/will-earth-lock-moon/" rel="nofollow">
+            "When Will Earth Lock to the Moon?"
+           </a>
+           .
+           <i>
+            Universe Today
+           </i>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Universe+Today&amp;rft.atitle=When+Will+Earth+Lock+to+the+Moon%3F&amp;rft_id=http%3A%2F%2Fwww.universetoday.com%2F128350%2Fwill-earth-lock-moon%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATidal+locking">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-4">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-4">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           Sean Raymond (20 February 2015).
+           <a class="external text" href="http://nautil.us/blog/forget-earth_likewell-first-find-aliens-on-eyeball-planets" rel="nofollow">
+            "Forget "Earth-Like"—We'll First Find Aliens on Eyeball Planets"
+           </a>
+           . Nautilus
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             5 June
+            </span>
+            2017
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Forget+%22Earth-Like%22%E2%80%94We%E2%80%99ll+First+Find+Aliens+on+Eyeball+Planets&amp;rft.pub=Nautilus&amp;rft.date=2015-02-20&amp;rft.au=Sean+Raymond&amp;rft_id=http%3A%2F%2Fnautil.us%2Fblog%2Fforget-earth_likewell-first-find-aliens-on-eyeball-planets&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATidal+locking">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-5">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-5">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation book">
+           Lewis, John (2012).
+           <a class="external text" href="https://books.google.com/books?id=35uwarLgVLsC&amp;pg=PA242" rel="nofollow">
+            <i>
+             Physics and Chemistry of the Solar System
+            </i>
+           </a>
+           . Academic Press. pp. 242–243.
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/0323145841" title="Special:BookSources/0323145841">
+            0323145841
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Physics+and+Chemistry+of+the+Solar+System&amp;rft.pages=242-243&amp;rft.pub=Academic+Press&amp;rft.date=2012&amp;rft.isbn=0323145841&amp;rft.aulast=Lewis&amp;rft.aufirst=John&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D35uwarLgVLsC%26pg%3DPA242&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATidal+locking">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-6">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-6">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation journal">
+           Watson, C.; et al. (April 2006). "Impact of solid Earth tide models on GPS coordinate and tropospheric time series".
+           <i>
+            Geophysical Research Letters
+           </i>
+           .
+           <b>
+            33
+           </b>
+           (8).
+           <a href="/wiki/Bibcode" title="Bibcode">
+            Bibcode
+           </a>
+           :
+           <a class="external text" href="http://adsabs.harvard.edu/abs/2006GeoRL..33.8306W" rel="nofollow">
+            2006GeoRL..33.8306W
+           </a>
+           .
+           <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+            doi
+           </a>
+           :
+           <a class="external text" href="//doi.org/10.1029%2F2005GL025538" rel="nofollow">
+            10.1029/2005GL025538
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Geophysical+Research+Letters&amp;rft.atitle=Impact+of+solid+Earth+tide+models+on+GPS+coordinate+and+tropospheric+time+series&amp;rft.volume=33&amp;rft.issue=8&amp;rft.date=2006-04&amp;rft_id=info%3Adoi%2F10.1029%2F2005GL025538&amp;rft_id=info%3Abibcode%2F2006GeoRL..33.8306W&amp;rft.aulast=Watson&amp;rft.aufirst=C.&amp;rft.au=Tregoning%2C+P.&amp;rft.au=Coleman%2C+R.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATidal+locking">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-7">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-7">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation book">
+           de Pater, Imke (2001).
+           <i>
+            Planetary Sciences
+           </i>
+           . Cambridge. p. 34.
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/0521482194" title="Special:BookSources/0521482194">
+            0521482194
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Planetary+Sciences&amp;rft.pages=34&amp;rft.pub=Cambridge&amp;rft.date=2001&amp;rft.isbn=0521482194&amp;rft.aulast=de+Pater&amp;rft.aufirst=Imke&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATidal+locking">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-8">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-8">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           Ray, R. (15 May 2001).
+           <a class="external text" href="http://bowie.gsfc.nasa.gov/ggfc/tides/intro.html" rel="nofollow">
+            "Ocean Tides and the Earth's Rotation"
+           </a>
+           . IERS Special Bureau for Tides
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             17 March
+            </span>
+            2010
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Ocean+Tides+and+the+Earth%27s+Rotation&amp;rft.pub=IERS+Special+Bureau+for+Tides&amp;rft.date=2001-05-15&amp;rft.aulast=Ray&amp;rft.aufirst=R.&amp;rft_id=http%3A%2F%2Fbowie.gsfc.nasa.gov%2Fggfc%2Ftides%2Fintro.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATidal+locking">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-9">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-9">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation book">
+           Murray, C.D.; Dermott, Stanley F. (1999).
+           <i>
+            Solar System Dynamics
+           </i>
+           . Cambridge University Press. p. 184.
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/978-0-521-57295-8" title="Special:BookSources/978-0-521-57295-8">
+            978-0-521-57295-8
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Solar+System+Dynamics&amp;rft.pages=184&amp;rft.pub=Cambridge+University+Press&amp;rft.date=1999&amp;rft.isbn=978-0-521-57295-8&amp;rft.aulast=Murray&amp;rft.aufirst=C.D.&amp;rft.au=Dermott%2C+Stanley+F.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATidal+locking">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-10">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-10">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation book">
+           <a href="/wiki/Terence_Dickinson" title="Terence Dickinson">
+            Dickinson, Terence
+           </a>
+           (1993).
+           <i>
+            From the Big Bang to Planet X
+           </i>
+           . Camden East, Ontario:
+           <a class="mw-redirect" href="/wiki/Camden_House" title="Camden House">
+            Camden House
+           </a>
+           . pp. 79–81.
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/978-0-921820-71-0" title="Special:BookSources/978-0-921820-71-0">
+            978-0-921820-71-0
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=From+the+Big+Bang+to+Planet+X&amp;rft.place=Camden+East%2C+Ontario&amp;rft.pages=79-81&amp;rft.pub=Camden+House&amp;rft.date=1993&amp;rft.isbn=978-0-921820-71-0&amp;rft.aulast=Dickinson&amp;rft.aufirst=Terence&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATidal+locking">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-Michaely2017-11">
+         <span class="mw-cite-backlink">
+          ^
+          <a href="#cite_ref-Michaely2017_11-0">
+           <sup>
+            <i>
+             <b>
+              a
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-Michaely2017_11-1">
+           <sup>
+            <i>
+             <b>
+              b
+             </b>
+            </i>
+           </sup>
+          </a>
+         </span>
+         <span class="reference-text">
+          <cite class="citation" id="CITEREFMichaelyPeretsGrishin2017">
+           Michaely, Erez; et al. (February 2017), "On the Existence of Regular and Irregular Outer Moons Orbiting the Pluto-Charon System",
+           <i>
+            The Astrophysical Journal
+           </i>
+           ,
+           <b>
+            836
+           </b>
+           (1): 7,
+           <a href="/wiki/Bibcode" title="Bibcode">
+            Bibcode
+           </a>
+           :
+           <a class="external text" href="http://adsabs.harvard.edu/abs/2017ApJ...836...27M" rel="nofollow">
+            2017ApJ...836...27M
+           </a>
+           ,
+           <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+            doi
+           </a>
+           :
+           <a class="external text" href="//doi.org/10.3847%2F1538-4357%2Faa52b2" rel="nofollow">
+            10.3847/1538-4357/aa52b2
+           </a>
+           , 27
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Astrophysical+Journal&amp;rft.atitle=On+the+Existence+of+Regular+and+Irregular+Outer+Moons+Orbiting+the+Pluto-Charon+System&amp;rft.volume=836&amp;rft.issue=1&amp;rft.pages=7&amp;rft.date=2017-02&amp;rft_id=info%3Adoi%2F10.3847%2F1538-4357%2Faa52b2&amp;rft_id=info%3Abibcode%2F2017ApJ...836...27M&amp;rft.aulast=Michaely&amp;rft.aufirst=Erez&amp;rft.au=Perets%2C+Hagai+B.&amp;rft.au=Grishin%2C+Evgeni&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATidal+locking">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-Makarov2012-12">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-Makarov2012_12-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation" id="CITEREFMakarov2012">
+           Makarov, Valeri V. (June 2012), "Conditions of Passage and Entrapment of Terrestrial Planets in Spin-orbit Resonances",
+           <i>
+            The Astrophysical Journal
+           </i>
+           ,
+           <b>
+            752
+           </b>
+           (1): 8,
+           <a href="/wiki/ArXiv" title="ArXiv">
+            arXiv
+           </a>
+           :
+           <span class="plainlinks">
+            <a class="external text" href="//arxiv.org/abs/1110.2658" rel="nofollow">
+             1110.2658
+            </a>
+            <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/>
+           </span>
+           ,
+           <a href="/wiki/Bibcode" title="Bibcode">
+            Bibcode
+           </a>
+           :
+           <a class="external text" href="http://adsabs.harvard.edu/abs/2012ApJ...752...73M" rel="nofollow">
+            2012ApJ...752...73M
+           </a>
+           ,
+           <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+            doi
+           </a>
+           :
+           <a class="external text" href="//doi.org/10.1088%2F0004-637X%2F752%2F1%2F73" rel="nofollow">
+            10.1088/0004-637X/752/1/73
+           </a>
+           , 73.
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Astrophysical+Journal&amp;rft.atitle=Conditions+of+Passage+and+Entrapment+of+Terrestrial+Planets+in+Spin-orbit+Resonances&amp;rft.volume=752&amp;rft.issue=1&amp;rft.pages=8&amp;rft.date=2012-06&amp;rft_id=info%3Aarxiv%2F1110.2658&amp;rft_id=info%3Adoi%2F10.1088%2F0004-637X%2F752%2F1%2F73&amp;rft_id=info%3Abibcode%2F2012ApJ...752...73M&amp;rft.aulast=Makarov&amp;rft.aufirst=Valeri+V.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATidal+locking">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-13">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-13">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation book">
+           Schutz, Bernard (2003-12-04).
+           <a class="external text" href="https://books.google.com/books?id=P_T0xxhDcsIC&amp;pg=PA43" rel="nofollow">
+            <i>
+             Gravity from the Ground Up
+            </i>
+           </a>
+           . Cambridge University Press. p. 43.
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/9780521455060" title="Special:BookSources/9780521455060">
+            9780521455060
+           </a>
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             24 April
+            </span>
+            2017
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Gravity+from+the+Ground+Up&amp;rft.pages=43&amp;rft.pub=Cambridge+University+Press&amp;rft.date=2003-12-04&amp;rft.isbn=9780521455060&amp;rft.aulast=Schutz&amp;rft.aufirst=Bernard&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DP_T0xxhDcsIC%26pg%3DPA43&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATidal+locking">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-14">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-14">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           <a class="external text" href="http://www.universetoday.com/105326/oct-7-1959-our-first-look-at-the-far-side-of-the-moon/" rel="nofollow">
+            "Oct. 7, 1959 – Our First Look at the Far Side of the Moon"
+           </a>
+           .
+           <i>
+            Universe Today
+           </i>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Universe+Today&amp;rft.atitle=Oct.+7%2C+1959+%E2%80%93+Our+First+Look+at+the+Far+Side+of+the+Moon&amp;rft_id=http%3A%2F%2Fwww.universetoday.com%2F105326%2Foct-7-1959-our-first-look-at-the-far-side-of-the-moon%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATidal+locking">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-Noyelles2012-15">
+         <span class="mw-cite-backlink">
+          ^
+          <a href="#cite_ref-Noyelles2012_15-0">
+           <sup>
+            <i>
+             <b>
+              a
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-Noyelles2012_15-1">
+           <sup>
+            <i>
+             <b>
+              b
+             </b>
+            </i>
+           </sup>
+          </a>
+         </span>
+         <span class="reference-text">
+          <cite class="citation journal">
+           Noyelles, Benoit; Frouard, Julien; Makarov, Valeri V. &amp; Efroimsky, Michael (2014).
+           <a class="external text" href="http://www.sciencedirect.com/science/article/pii/S0019103514003078" rel="nofollow">
+            "Spin-orbit evolution of Mercury revisited"
+           </a>
+           .
+           <i>
+            Icarus
+           </i>
+           .
+           <b>
+            241
+           </b>
+           : 26–44.
+           <a href="/wiki/ArXiv" title="ArXiv">
+            arXiv
+           </a>
+           :
+           <span class="plainlinks">
+            <a class="external text" href="//arxiv.org/abs/1307.0136" rel="nofollow">
+             1307.0136
+            </a>
+            <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/>
+           </span>
+           .
+           <a href="/wiki/Bibcode" title="Bibcode">
+            Bibcode
+           </a>
+           :
+           <a class="external text" href="http://adsabs.harvard.edu/abs/2014Icar..241...26N" rel="nofollow">
+            2014Icar..241...26N
+           </a>
+           .
+           <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+            doi
+           </a>
+           :
+           <a class="external text" href="//doi.org/10.1016%2Fj.icarus.2014.05.045" rel="nofollow">
+            10.1016/j.icarus.2014.05.045
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Icarus&amp;rft.atitle=Spin-orbit+evolution+of+Mercury+revisited&amp;rft.volume=241&amp;rft.pages=26-44&amp;rft.date=2014&amp;rft_id=info%3Aarxiv%2F1307.0136&amp;rft_id=info%3Adoi%2F10.1016%2Fj.icarus.2014.05.045&amp;rft_id=info%3Abibcode%2F2014Icar..241...26N&amp;rft.aulast=Noyelles&amp;rft.aufirst=Benoit&amp;rft.au=Frouard%2C+Julien&amp;rft.au=Makarov%2C+Valeri+V.&amp;rft.au=Efroimsky%2C+Michael&amp;rft_id=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0019103514003078&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATidal+locking">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-16">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-16">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          Gold T., Soter S. (1969),
+          <i>
+           Atmospheric tides and the resonant rotation of Venus
+          </i>
+          , Icarus, Vol. 11, pp. 356 - 366
+         </span>
+        </li>
+        <li id="cite_note-17">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-17">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation news">
+           <a class="external text" href="http://www.cbc.ca/beta/news/technology/earth-like-planet-proxima-centauri-1.3733882" rel="nofollow">
+            "Earth-like planet found orbiting the star next door"
+           </a>
+           . Associated Press. 2016-08-24
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             2016-08-24
+            </span>
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Earth-like+planet+found+orbiting+the+star+next+door&amp;rft.date=2016-08-24&amp;rft_id=http%3A%2F%2Fwww.cbc.ca%2Fbeta%2Fnews%2Ftechnology%2Fearth-like-planet-proxima-centauri-1.3733882&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATidal+locking">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-18">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-18">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           <a class="external text" href="https://www.eso.org/public/unitedkingdom/videos/eso1629g/" rel="nofollow">
+            "Numerical simulation of possible surface temperatures on Proxima b (synchronous rotation)"
+           </a>
+           . ESO. 2016
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             24 August
+            </span>
+            2016
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Numerical+simulation+of+possible+surface+temperatures+on+Proxima+b+%28synchronous+rotation%29&amp;rft.pub=ESO&amp;rft.date=2016&amp;rft_id=https%3A%2F%2Fwww.eso.org%2Fpublic%2Funitedkingdom%2Fvideos%2Feso1629g%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATidal+locking">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-space.com-19">
+         <span class="mw-cite-backlink">
+          ^
+          <a href="#cite_ref-space.com_19-0">
+           <sup>
+            <i>
+             <b>
+              a
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-space.com_19-1">
+           <sup>
+            <i>
+             <b>
+              b
+             </b>
+            </i>
+           </sup>
+          </a>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           <a class="external text" href="http://www.space.com/scienceastronomy/050523_star_tide.html" rel="nofollow">
+            "SPACE.com - Role Reversal: Planet Controls a Star"
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=SPACE.com+-+Role+Reversal%3A+Planet+Controls+a+Star&amp;rft_id=http%3A%2F%2Fwww.space.com%2Fscienceastronomy%2F050523_star_tide.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATidal+locking">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-20">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-20">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation journal">
+           B. Gladman; et al. (1996). "
+           <i>
+            Synchronous Locking of Tidally Evolving Satellites
+           </i>
+           ".
+           <i>
+            Icarus
+           </i>
+           .
+           <b>
+            122
+           </b>
+           : 166–192.
+           <a href="/wiki/Bibcode" title="Bibcode">
+            Bibcode
+           </a>
+           :
+           <a class="external text" href="http://adsabs.harvard.edu/abs/1996Icar..122..166G" rel="nofollow">
+            1996Icar..122..166G
+           </a>
+           .
+           <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+            doi
+           </a>
+           :
+           <a class="external text" href="//doi.org/10.1006%2Ficar.1996.0117" rel="nofollow">
+            10.1006/icar.1996.0117
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Icarus&amp;rft.atitle=Synchronous+Locking+of+Tidally+Evolving+Satellites&amp;rft.volume=122&amp;rft.pages=166-192&amp;rft.date=1996&amp;rft_id=info%3Adoi%2F10.1006%2Ficar.1996.0117&amp;rft_id=info%3Abibcode%2F1996Icar..122..166G&amp;rft.au=B.+Gladman&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATidal+locking">
+           <span style="display:none;">
+           </span>
+          </span>
+          (See pages 169-170 of this article. Formula (9) is quoted here, which comes from S.J. Peale,
+          <i>
+           Rotation histories of the natural satellites
+          </i>
+          , in
+          <cite class="citation book">
+           J.A. Burns, ed. (1977). Planetary Satellites. Tucson: University of Arizona Press. pp. 87–112.
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Planetary+Satellites&amp;rft.place=Tucson&amp;rft.pages=87-112&amp;rft.pub=University+of+Arizona+Press&amp;rft.date=1977&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATidal+locking">
+           <span style="display:none;">
+           </span>
+          </span>
+          )
+         </span>
+        </li>
+        <li id="cite_note-21">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-21">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation journal">
+           Efroimsky, M. (2015).
+           <a class="external text" href="http://iopscience.iop.org/article/10.1088/0004-6256/150/4/98" rel="nofollow">
+            "Tidal Evolution of Asteroidal Binaries. Ruled by Viscosity. Ignorant of Rigidity"
+           </a>
+           .
+           <i>
+            The Astronomical Journal
+           </i>
+           .
+           <b>
+            150
+           </b>
+           (4): 12.
+           <a href="/wiki/ArXiv" title="ArXiv">
+            arXiv
+           </a>
+           :
+           <span class="plainlinks">
+            <a class="external text" href="//arxiv.org/abs/1506.09157" rel="nofollow">
+             1506.09157
+            </a>
+            <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/>
+           </span>
+           .
+           <a href="/wiki/Bibcode" title="Bibcode">
+            Bibcode
+           </a>
+           :
+           <a class="external text" href="http://adsabs.harvard.edu/abs/2015AJ....150...98E" rel="nofollow">
+            2015AJ....150...98E
+           </a>
+           .
+           <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+            doi
+           </a>
+           :
+           <a class="external text" href="//doi.org/10.1088%2F0004-6256%2F150%2F4%2F98" rel="nofollow">
+            10.1088/0004-6256/150/4/98
+           </a>
+           . 98.
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Astronomical+Journal&amp;rft.atitle=Tidal+Evolution+of+Asteroidal+Binaries.+Ruled+by+Viscosity.+Ignorant+of+Rigidity.&amp;rft.volume=150&amp;rft.issue=4&amp;rft.pages=12&amp;rft.date=2015&amp;rft_id=info%3Aarxiv%2F1506.09157&amp;rft_id=info%3Adoi%2F10.1088%2F0004-6256%2F150%2F4%2F98&amp;rft_id=info%3Abibcode%2F2015AJ....150...98E&amp;rft.au=Efroimsky%2C+M.&amp;rft_id=http%3A%2F%2Fiopscience.iop.org%2Farticle%2F10.1088%2F0004-6256%2F150%2F4%2F98&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATidal+locking">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-22">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-22">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation" id="CITEREFNobili1978">
+           Nobili, A. M. (April 1978), "Secular effects of tidal friction on the planet-satellite systems of the solar system",
+           <i>
+            Moon and the Planets
+           </i>
+           ,
+           <b>
+            18
+           </b>
+           : 203–216,
+           <a href="/wiki/Bibcode" title="Bibcode">
+            Bibcode
+           </a>
+           :
+           <a class="external text" href="http://adsabs.harvard.edu/abs/1978M&amp;P....18..203N" rel="nofollow">
+            1978M&amp;P....18..203N
+           </a>
+           ,
+           <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+            doi
+           </a>
+           :
+           <a class="external text" href="//doi.org/10.1007%2FBF00896743" rel="nofollow">
+            10.1007/BF00896743
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Moon+and+the+Planets&amp;rft.atitle=Secular+effects+of+tidal+friction+on+the+planet-satellite+systems+of+the+solar+system&amp;rft.volume=18&amp;rft.pages=203-216&amp;rft.date=1978-04&amp;rft_id=info%3Adoi%2F10.1007%2FBF00896743&amp;rft_id=info%3Abibcode%2F1978M%26P....18..203N&amp;rft.aulast=Nobili&amp;rft.aufirst=A.+M.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATidal+locking">
+           <span style="display:none;">
+           </span>
+          </span>
+          "The following satellites seem to corotate: Phobos and Deimos, Amalthea, Io, Europa, Ganymede, Callisto, Janus, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Japetus, Miranda, Ariel, Umbriel, Titania, and Oberon."
+         </span>
+        </li>
+        <li id="cite_note-23">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-23">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation" id="CITEREFPeale1988">
+           Peale, S. J. (1988), "The rotational dynamics of Mercury and the state of its core",
+           <i>
+            Mercury
+           </i>
+           , University of Arizona Press: 461–493,
+           <a href="/wiki/Bibcode" title="Bibcode">
+            Bibcode
+           </a>
+           :
+           <a class="external text" href="http://adsabs.harvard.edu/abs/1988merc.book..461P" rel="nofollow">
+            1988merc.book..461P
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Mercury&amp;rft.atitle=The+rotational+dynamics+of+Mercury+and+the+state+of+its+core&amp;rft.pages=461-493&amp;rft.date=1988&amp;rft_id=info%3Abibcode%2F1988merc.book..461P&amp;rft.aulast=Peale&amp;rft.aufirst=S.+J.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATidal+locking">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-24">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-24">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation" id="CITEREFRivoldiniBeuthevan_Hoolst2010">
+           Rivoldini, A.; et al. (September 2010), "Past and present tidal dissipation in Mercury",
+           <i>
+            European Planetary Science Congress 2010
+           </i>
+           , p. 671,
+           <a href="/wiki/Bibcode" title="Bibcode">
+            Bibcode
+           </a>
+           :
+           <a class="external text" href="http://adsabs.harvard.edu/abs/2010epsc.conf..671R" rel="nofollow">
+            2010epsc.conf..671R
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=European+Planetary+Science+Congress+2010&amp;rft.atitle=Past+and+present+tidal+dissipation+in+Mercury&amp;rft.pages=671&amp;rft.date=2010-09&amp;rft_id=info%3Abibcode%2F2010epsc.conf..671R&amp;rft.aulast=Rivoldini&amp;rft.aufirst=A.&amp;rft.au=Beuthe%2C+M.&amp;rft.au=van+Hoolst%2C+T.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATidal+locking">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-Correia2009-25">
+         <span class="mw-cite-backlink">
+          ^
+          <a href="#cite_ref-Correia2009_25-0">
+           <sup>
+            <i>
+             <b>
+              a
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-Correia2009_25-1">
+           <sup>
+            <i>
+             <b>
+              b
+             </b>
+            </i>
+           </sup>
+          </a>
+         </span>
+         <span class="reference-text">
+          <cite class="citation" id="CITEREFCorreia2009">
+           Correia, Alexandre C. M. (October 2009), "Secular Evolution of a Satellite by Tidal Effect: Application to Triton",
+           <i>
+            The Astrophysical Journal Letters
+           </i>
+           ,
+           <b>
+            704
+           </b>
+           (1): L1–L4,
+           <a href="/wiki/ArXiv" title="ArXiv">
+            arXiv
+           </a>
+           :
+           <span class="plainlinks">
+            <a class="external text" href="//arxiv.org/abs/0909.4210" rel="nofollow">
+             0909.4210
+            </a>
+            <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/>
+           </span>
+           ,
+           <a href="/wiki/Bibcode" title="Bibcode">
+            Bibcode
+           </a>
+           :
+           <a class="external text" href="http://adsabs.harvard.edu/abs/2009ApJ...704L...1C" rel="nofollow">
+            2009ApJ...704L...1C
+           </a>
+           ,
+           <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+            doi
+           </a>
+           :
+           <a class="external text" href="//doi.org/10.1088%2F0004-637X%2F704%2F1%2FL1" rel="nofollow">
+            10.1088/0004-637X/704/1/L1
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Astrophysical+Journal+Letters&amp;rft.atitle=Secular+Evolution+of+a+Satellite+by+Tidal+Effect%3A+Application+to+Triton&amp;rft.volume=704&amp;rft.issue=1&amp;rft.pages=L1-L4&amp;rft.date=2009-10&amp;rft_id=info%3Aarxiv%2F0909.4210&amp;rft_id=info%3Adoi%2F10.1088%2F0004-637X%2F704%2F1%2FL1&amp;rft_id=info%3Abibcode%2F2009ApJ...704L...1C&amp;rft.aulast=Correia&amp;rft.aufirst=Alexandre+C.+M.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATidal+locking">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-26">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-26">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation" id="CITEREFBurns1978">
+           Burns, J. A. (1978), "The dynamical evolution and origin of the Martian moons",
+           <i>
+            Vistas in Astronomy
+           </i>
+           ,
+           <b>
+            22
+           </b>
+           (2): 193–208,
+           <a href="/wiki/Bibcode" title="Bibcode">
+            Bibcode
+           </a>
+           :
+           <a class="external text" href="http://adsabs.harvard.edu/abs/1978VA.....22..193B" rel="nofollow">
+            1978VA.....22..193B
+           </a>
+           ,
+           <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+            doi
+           </a>
+           :
+           <a class="external text" href="//doi.org/10.1016%2F0083-6656%2878%2990015-6" rel="nofollow">
+            10.1016/0083-6656(78)90015-6
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Vistas+in+Astronomy&amp;rft.atitle=The+dynamical+evolution+and+origin+of+the+Martian+moons&amp;rft.volume=22&amp;rft.issue=2&amp;rft.pages=193-208&amp;rft.date=1978&amp;rft_id=info%3Adoi%2F10.1016%2F0083-6656%2878%2990015-6&amp;rft_id=info%3Abibcode%2F1978VA.....22..193B&amp;rft.aulast=Burns&amp;rft.aufirst=J.+A.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATidal+locking">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-27">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-27">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation news">
+           Vergano, Dan (2007-04-25).
+           <a class="external text" href="https://www.usatoday.com/printedition/news/20070425/1a_bottomstrip25_dom.art.htm" rel="nofollow">
+            "Out of our world: Earthlike planet"
+           </a>
+           .
+           <i>
+            USA Today
+           </i>
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             2010-05-25
+            </span>
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=USA+Today&amp;rft.atitle=Out+of+our+world%3A+Earthlike+planet&amp;rft.date=2007-04-25&amp;rft.aulast=Vergano&amp;rft.aufirst=Dan&amp;rft_id=https%3A%2F%2Fwww.usatoday.com%2Fprintedition%2Fnews%2F20070425%2F1a_bottomstrip25_dom.art.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATidal+locking">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-28">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-28">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           <a class="external text" href="https://web.archive.org/web/20101002020745/http://news.sciencemag.org/sciencenow/2010/09/astronomers-find-most-earth-like.html" rel="nofollow">
+            "Astronomers Find Most Earth-like Planet to Date"
+           </a>
+           .
+           <a href="/wiki/Science_(journal)" title="Science (journal)">
+            Science
+           </a>
+           , USA. September 29, 2010. Archived from
+           <a class="external text" href="http://news.sciencemag.org/sciencenow/2010/09/astronomers-find-most-earth-like.html" rel="nofollow">
+            the original
+           </a>
+           on October 2, 2010
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             September 30,
+            </span>
+            2010
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Astronomers+Find+Most+Earth-like+Planet+to+Date&amp;rft.pub=Science%2C+USA&amp;rft.date=2010-09-29&amp;rft_id=http%3A%2F%2Fnews.sciencemag.org%2Fsciencenow%2F2010%2F09%2Fastronomers-find-most-earth-like.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATidal+locking">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-29">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-29">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           <a class="external text" href="https://web.archive.org/web/20101002104629/http://www.telegraph.co.uk/science/space/8033124/Gliese-581g-the-most-Earth-like-planet-yet-discovered.html" rel="nofollow">
+            "Gliese 581g the most Earth like planet yet discovered"
+           </a>
+           .
+           <a href="/wiki/The_Daily_Telegraph" title="The Daily Telegraph">
+            The Daily Telegraph
+           </a>
+           , UK. September 30, 2010. Archived from
+           <a class="external text" href="http://www.telegraph.co.uk/science/space/8033124/Gliese-581g-the-most-Earth-like-planet-yet-discovered.html" rel="nofollow">
+            the original
+           </a>
+           on October 2, 2010
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             September 30,
+            </span>
+            2010
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Gliese+581g+the+most+Earth+like+planet+yet+discovered&amp;rft.pub=The+Daily+Telegraph%2C+UK&amp;rft.date=2010-09-30&amp;rft_id=http%3A%2F%2Fwww.telegraph.co.uk%2Fscience%2Fspace%2F8033124%2FGliese-581g-the-most-Earth-like-planet-yet-discovered.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATidal+locking">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-30">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-30">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation journal">
+           Makarov, V. V.; Berghea, C. &amp; Efroimsky, M. (2012). "Dynamical Evolution and Spin–Orbit Resonances of Potentially Habitable Exoplanets: The Case of GJ 581d".
+           <i>
+            The Astrophysical Journal
+           </i>
+           .
+           <b>
+            761
+           </b>
+           (2): 83.
+           <a href="/wiki/ArXiv" title="ArXiv">
+            arXiv
+           </a>
+           :
+           <span class="plainlinks">
+            <a class="external text" href="//arxiv.org/abs/1208.0814" rel="nofollow">
+             1208.0814
+            </a>
+            <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/>
+           </span>
+           .
+           <a href="/wiki/Bibcode" title="Bibcode">
+            Bibcode
+           </a>
+           :
+           <a class="external text" href="http://adsabs.harvard.edu/abs/2012ApJ...761...83M" rel="nofollow">
+            2012ApJ...761...83M
+           </a>
+           .
+           <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+            doi
+           </a>
+           :
+           <a class="external text" href="//doi.org/10.1088%2F0004-637X%2F761%2F2%2F83" rel="nofollow">
+            10.1088/0004-637X/761/2/83
+           </a>
+           . 83.
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Astrophysical+Journal&amp;rft.atitle=Dynamical+Evolution+and+Spin%E2%80%93Orbit+Resonances+of+Potentially+Habitable+Exoplanets%3A+The+Case+of+GJ+581d.&amp;rft.volume=761&amp;rft.issue=2&amp;rft.pages=83&amp;rft.date=2012&amp;rft_id=info%3Aarxiv%2F1208.0814&amp;rft_id=info%3Adoi%2F10.1088%2F0004-637X%2F761%2F2%2F83&amp;rft_id=info%3Abibcode%2F2012ApJ...761...83M&amp;rft.aulast=Makarov&amp;rft.aufirst=V.+V.&amp;rft.au=Berghea%2C+C.&amp;rft.au=Efroimsky%2C+M.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATidal+locking">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-31">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-31">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation pressrelease">
+           <a class="external text" href="https://www.nasa.gov/press-release/nasa-telescope-reveals-largest-batch-of-earth-size-habitable-zone-planets-around" rel="nofollow">
+            "NASA Telescope Reveals Largest Batch of Earth-Size, Habitable-Zone Planets Around Single Star"
+           </a>
+           (Press release). NASA. 22 February 2017.
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=NASA+Telescope+Reveals+Largest+Batch+of+Earth-Size%2C+Habitable-Zone+Planets+Around+Single+Star&amp;rft.pub=NASA&amp;rft.date=2017-02-22&amp;rft_id=https%3A%2F%2Fwww.nasa.gov%2Fpress-release%2Fnasa-telescope-reveals-largest-batch-of-earth-size-habitable-zone-planets-around&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATidal+locking">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-32">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-32">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation journal">
+           Gillon, Michaël; Triaud, Amaury H. M. J.; Demory, Brice-Olivier; Jehin, Emmanuël; Agol, Eric; Deck, Katherine M.; Lederer, Susan M.; de Wit, Julien; Burdanov, Artem (2017-02-23).
+           <a class="external text" href="https://www.nature.com/nature/journal/v542/n7642/full/nature21360.html" rel="nofollow">
+            "Seven temperate terrestrial planets around the nearby ultracool dwarf star TRAPPIST-1"
+           </a>
+           .
+           <i>
+            Nature
+           </i>
+           .
+           <b>
+            542
+           </b>
+           (7642): 456–460.
+           <a href="/wiki/ArXiv" title="ArXiv">
+            arXiv
+           </a>
+           :
+           <span class="plainlinks">
+            <a class="external text" href="//arxiv.org/abs/1703.01424" rel="nofollow">
+             1703.01424
+            </a>
+            <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/>
+           </span>
+           .
+           <a href="/wiki/Bibcode" title="Bibcode">
+            Bibcode
+           </a>
+           :
+           <a class="external text" href="http://adsabs.harvard.edu/abs/2017Natur.542..456G" rel="nofollow">
+            2017Natur.542..456G
+           </a>
+           .
+           <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+            doi
+           </a>
+           :
+           <a class="external text" href="//doi.org/10.1038%2Fnature21360" rel="nofollow">
+            10.1038/nature21360
+           </a>
+           .
+           <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">
+            ISSN
+           </a>
+           <a class="external text" href="//www.worldcat.org/issn/0028-0836" rel="nofollow">
+            0028-0836
+           </a>
+           .
+           <a href="/wiki/PubMed_Central" title="PubMed Central">
+            PMC
+           </a>
+           <span class="plainlinks">
+            <a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC5330437" rel="nofollow">
+             5330437
+            </a>
+            <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/>
+           </span>
+           .
+           <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">
+            PMID
+           </a>
+           <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/28230125" rel="nofollow">
+            28230125
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nature&amp;rft.atitle=Seven+temperate+terrestrial+planets+around+the+nearby+ultracool+dwarf+star+TRAPPIST-1&amp;rft.volume=542&amp;rft.issue=7642&amp;rft.pages=456-460&amp;rft.date=2017-02-23&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC5330437&amp;rft_id=info%3Abibcode%2F2017Natur.542..456G&amp;rft_id=info%3Aarxiv%2F1703.01424&amp;rft.issn=0028-0836&amp;rft_id=info%3Adoi%2F10.1038%2Fnature21360&amp;rft_id=info%3Apmid%2F28230125&amp;rft.aulast=Gillon&amp;rft.aufirst=Micha%C3%ABl&amp;rft.au=Triaud%2C+Amaury+H.+M.+J.&amp;rft.au=Demory%2C+Brice-Olivier&amp;rft.au=Jehin%2C+Emmanu%C3%ABl&amp;rft.au=Agol%2C+Eric&amp;rft.au=Deck%2C+Katherine+M.&amp;rft.au=Lederer%2C+Susan+M.&amp;rft.au=de+Wit%2C+Julien&amp;rft.au=Burdanov%2C+Artem&amp;rft_id=https%3A%2F%2Fwww.nature.com%2Fnature%2Fjournal%2Fv542%2Fn7642%2Ffull%2Fnature21360.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATidal+locking">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+       </ol>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1284
+Cached time: 20180304172749
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.444 seconds
+Real time usage: 0.576 seconds
+Preprocessor visited node count: 2905/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 75443/2097152 bytes
+Template argument size: 1938/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 2/500
+Lua time usage: 0.213/10.000 seconds
+Lua memory usage: 7.15 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  416.030      1 -total
+ 50.65%  210.700      1 Template:Reflist
+ 18.19%   75.666      9 Template:Citation
+ 17.42%   72.481      3 Template:Citation_needed
+ 15.32%   63.723      3 Template:Fix
+  9.75%   40.544      4 Template:E
+  9.52%   39.617      1 Template:Convert
+  8.41%   34.985      6 Template:Category_handler
+  7.48%   31.111      4 Template:Val/delimitnum
+  6.87%   28.597      8 Template:Cite_web
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:60162-0!canonical!math=5 and timestamp 20180304172749 and revision id 828768462
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Tidal_locking&amp;oldid=828768462">
+      https://en.wikipedia.org/w/index.php?title=Tidal_locking&amp;oldid=828768462
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Celestial_mechanics" title="Category:Celestial mechanics">
+         Celestial mechanics
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Orbits" title="Category:Orbits">
+         Orbits
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Tidal_forces" title="Category:Tidal forces">
+         Tidal forces
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">
+         All articles with unsourced statements
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_unsourced_statements_from_October_2012" title="Category:Articles with unsourced statements from October 2012">
+         Articles with unsourced statements from October 2012
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_unsourced_statements_from_August_2010" title="Category:Articles with unsourced statements from August 2010">
+         Articles with unsourced statements from August 2010
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Tidal+locking" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Tidal+locking" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Tidal_locking" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Tidal_locking" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Tidal_locking">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Tidal_locking&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Tidal_locking&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Tidal_locking" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Tidal_locking" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Tidal_locking&amp;oldid=828768462" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Tidal_locking&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q109144" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Tidal_locking&amp;id=828768462" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Tidal+locking">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Tidal+locking&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Tidal_locking&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-af">
+        <a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Sinkroniese_omwenteling" hreflang="af" lang="af" title="Sinkroniese omwenteling – Afrikaans">
+         Afrikaans
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-als">
+        <a class="interlanguage-link-target" href="https://als.wikipedia.org/wiki/Gebundene_Rotation" hreflang="als" lang="als" title="Gebundene Rotation – Alemannisch">
+         Alemannisch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AA%D9%82%D9%8A%D9%8A%D8%AF_%D9%85%D8%AF%D9%8A" hreflang="ar" lang="ar" title="تقييد مدي – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bg">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BD%D1%85%D1%80%D0%BE%D0%BD%D0%BD%D0%BE_%D0%B2%D1%8A%D1%80%D1%82%D0%B5%D0%BD%D0%B5" hreflang="bg" lang="bg" title="Синхронно въртене – Bulgarian">
+         Български
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Rotaci%C3%B3_s%C3%ADncrona" hreflang="ca" lang="ca" title="Rotació síncrona – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/V%C3%A1zan%C3%A1_rotace" hreflang="cs" lang="cs" title="Vázaná rotace – Czech">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Bunden_rotation" hreflang="da" lang="da" title="Bunden rotation – Danish">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Gebundene_Rotation" hreflang="de" lang="de" title="Gebundene Rotation – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Acoplamiento_de_marea" hreflang="es" lang="es" title="Acoplamiento de marea – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eo">
+        <a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Ligita_rotacio" hreflang="eo" lang="eo" title="Ligita rotacio – Esperanto">
+         Esperanto
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eu">
+        <a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Errotazio_sinkrono" hreflang="eu" lang="eu" title="Errotazio sinkrono – Basque">
+         Euskara
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%82%D9%81%D9%84_%D8%AC%D8%B2%D8%B1_%D9%88_%D9%85%D8%AF%DB%8C" hreflang="fa" lang="fa" title="قفل جزر و مدی – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Rotation_synchrone" hreflang="fr" lang="fr" title="Rotation synchrone – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%9D_%EA%B3%A0%EC%A0%95" hreflang="ko" lang="ko" title="조석 고정 – Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hi">
+        <a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%9C%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A4%AC%E0%A4%82%E0%A4%A7%E0%A4%A8" hreflang="hi" lang="hi" title="ज्वारबंधन – Hindi">
+         हिन्दी
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hr">
+        <a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Sinkrona_rotacija" hreflang="hr" lang="hr" title="Sinkrona rotacija – Croatian">
+         Hrvatski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Penguncian_pasang_surut" hreflang="id" lang="id" title="Penguncian pasang surut – Indonesian">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Rotazione_sincrona" hreflang="it" lang="it" title="Rotazione sincrona – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he">
+        <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%A0%D7%A2%D7%99%D7%9C%D7%AA_%D7%92%D7%90%D7%95%D7%AA" hreflang="he" lang="he" title="נעילת גאות – Hebrew">
+         עברית
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lb">
+        <a class="interlanguage-link-target" href="https://lb.wikipedia.org/wiki/Gebonne_Rotatioun" hreflang="lb" lang="lb" title="Gebonne Rotatioun – Luxembourgish">
+         Lëtzebuergesch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-li">
+        <a class="interlanguage-link-target" href="https://li.wikipedia.org/wiki/Synchroon_rotatie" hreflang="li" lang="li" title="Synchroon rotatie – Limburgish">
+         Limburgs
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hu">
+        <a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/K%C3%B6t%C3%B6tt_tengelyforg%C3%A1s" hreflang="hu" lang="hu" title="Kötött tengelyforgás – Hungarian">
+         Magyar
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Synchrone_rotatie" hreflang="nl" lang="nl" title="Synchrone rotatie – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E8%87%AA%E8%BB%A2%E3%81%A8%E5%85%AC%E8%BB%A2%E3%81%AE%E5%90%8C%E6%9C%9F" hreflang="ja" lang="ja" title="自転と公転の同期 – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Bundet_rotasjon" hreflang="no" lang="no" title="Bundet rotasjon – Norwegian">
+         Norsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nn">
+        <a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Bunden_rotasjon" hreflang="nn" lang="nn" title="Bunden rotasjon – Norwegian Nynorsk">
+         Norsk nynorsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nds">
+        <a class="interlanguage-link-target" href="https://nds.wikipedia.org/wiki/Bunnen_Rotatschoon" hreflang="nds" lang="nds" title="Bunnen Rotatschoon – Low German">
+         Plattdüütsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Obr%C3%B3t_synchroniczny" hreflang="pl" lang="pl" title="Obrót synchroniczny – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Rota%C3%A7%C3%A3o_sincronizada" hreflang="pt" lang="pt" title="Rotação sincronizada – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ro">
+        <a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Rota%C8%9Bie_sincron%C4%83" hreflang="ro" lang="ro" title="Rotație sincronă – Romanian">
+         Română
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BD%D1%85%D1%80%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B2%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D0%B5" hreflang="ru" lang="ru" title="Синхронное вращение – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-simple">
+        <a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Tidal_locking" hreflang="simple" lang="simple" title="Tidal locking – Simple English">
+         Simple English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sk">
+        <a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Viazan%C3%A1_rot%C3%A1cia" hreflang="sk" lang="sk" title="Viazaná rotácia – Slovak">
+         Slovenčina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sl">
+        <a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/So%C4%8Dasno_vrtenje" hreflang="sl" lang="sl" title="Sočasno vrtenje – Slovenian">
+         Slovenščina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sh">
+        <a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Sinkrona_rotacija" hreflang="sh" lang="sh" title="Sinkrona rotacija – Serbo-Croatian">
+         Srpskohrvatski / српскохрватски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Vuorovesilukkiutuminen" hreflang="fi" lang="fi" title="Vuorovesilukkiutuminen – Finnish">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Bunden_rotation" hreflang="sv" lang="sv" title="Bunden rotation – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ta">
+        <a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%93%E0%AE%A4%E0%AE%AA%E0%AF%8D_%E0%AE%AA%E0%AF%82%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%B2%E0%AF%8D" hreflang="ta" lang="ta" title="ஓதப் பூட்டல் – Tamil">
+         தமிழ்
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BD%D1%85%D1%80%D0%BE%D0%BD%D0%BD%D0%B5_%D0%BE%D0%B1%D0%B5%D1%80%D1%82%D0%B0%D0%BD%D0%BD%D1%8F" hreflang="uk" lang="uk" title="Синхронне обертання – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vi">
+        <a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Kh%C3%B3a_th%E1%BB%A7y_tri%E1%BB%81u" hreflang="vi" lang="vi" title="Khóa thủy triều – Vietnamese">
+         Tiếng Việt
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E6%BD%AE%E6%B1%90%E9%8E%96%E5%AE%9A" hreflang="zh" lang="zh" title="潮汐鎖定 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q109144#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 4 March 2018, at 17:27.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Tidal_locking&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.444","walltime":"0.576","ppvisitednodes":{"value":2905,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":75443,"limit":2097152},"templateargumentsize":{"value":1938,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  416.030      1 -total"," 50.65%  210.700      1 Template:Reflist"," 18.19%   75.666      9 Template:Citation"," 17.42%   72.481      3 Template:Citation_needed"," 15.32%   63.723      3 Template:Fix","  9.75%   40.544      4 Template:E","  9.52%   39.617      1 Template:Convert","  8.41%   34.985      6 Template:Category_handler","  7.48%   31.111      4 Template:Val/delimitnum","  6.87%   28.597      8 Template:Cite_web"]},"scribunto":{"limitreport-timeusage":{"value":"0.213","limit":"10.000"},"limitreport-memusage":{"value":7498582,"limit":52428800}},"cachereport":{"origin":"mw1284","timestamp":"20180304172749","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":101,"wgHostname":"mw1330"});});
+  </script>
+ </body>
+</html>

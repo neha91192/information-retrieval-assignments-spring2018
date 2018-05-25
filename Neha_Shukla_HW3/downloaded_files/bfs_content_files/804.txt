@@ -1,0 +1,3239 @@
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Apollo 17 lunar sample display - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Apollo_17_lunar_sample_display","wgTitle":"Apollo 17 lunar sample display","wgCurRevisionId":821575129,"wgRevisionId":821575129,"wgArticleId":37521438,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using citations with accessdate and no URL","Apollo 17","Apollo program lunar sample displays","Lunar samples","Petrology","Foreign relations of the United States"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Apollo_17_lunar_sample_display","wgRelevantArticleId":37521438,"wgRequestId":"WrSXNwpAADwAAEO4c@EAAABJ","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q3110728","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.26" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Moon_rock_and_Apollo_17_flown_flag.jpg/1200px-Moon_rock_and_Apollo_17_flown_flag.jpg" property="og:image"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Apollo_17_lunar_sample_display" rel="alternate"/>
+  <link href="/w/index.php?title=Apollo_17_lunar_sample_display&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Apollo_17_lunar_sample_display&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Apollo_17_lunar_sample_display" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Apollo_17_lunar_sample_display rootpage-Apollo_17_lunar_sample_display skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Apollo 17 lunar sample display
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Moon_rock_and_Apollo_17_flown_flag.jpg">
+         <img alt="" class="thumbimage" data-file-height="3311" data-file-width="2381" height="306" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Moon_rock_and_Apollo_17_flown_flag.jpg/220px-Moon_rock_and_Apollo_17_flown_flag.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Moon_rock_and_Apollo_17_flown_flag.jpg/330px-Moon_rock_and_Apollo_17_flown_flag.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/07/Moon_rock_and_Apollo_17_flown_flag.jpg/440px-Moon_rock_and_Apollo_17_flown_flag.jpg 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Moon_rock_and_Apollo_17_flown_flag.jpg" title="Enlarge">
+          </a>
+         </div>
+         Norway's lunar sample display
+        </div>
+       </div>
+      </div>
+      <p>
+       The
+       <b>
+        Apollo 17 lunar sample display
+       </b>
+       consists of a
+       <a href="/wiki/Moon_rock" title="Moon rock">
+        Moon rock
+       </a>
+       fragment from a lava Moon stone identified as
+       <a href="/wiki/Lunar_basalt_70017" title="Lunar basalt 70017">
+        lunar basalt 70017
+       </a>
+       , the recipient's flag and two small metal plates attached with descriptive messages. A goodwill gift from the
+       <a href="/wiki/Apollo_17" title="Apollo 17">
+        Apollo 17
+       </a>
+       mission was then given in the form of a wooden
+       <a href="/wiki/Commemorative_plaque" title="Commemorative plaque">
+        commemorative plaque
+       </a>
+       display individually to all fifty states, five U.S. territories, and 135 nations worldwide.
+       <sup class="reference" id="cite_ref-Apollo11displays_1-0">
+        <a href="#cite_note-Apollo11displays-1">
+         [1]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-Apollo17displays_2-0">
+        <a href="#cite_note-Apollo17displays-2">
+         [2]
+        </a>
+       </sup>
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#History">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           History
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#Description">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Description
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-3">
+         <a href="#Ownership">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           Ownership
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-4">
+         <a href="#Countries">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           Countries
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-5">
+         <a href="#Fate">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           Fate
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-6">
+         <a href="#References">
+          <span class="tocnumber">
+           6
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-7">
+         <a href="#External_links">
+          <span class="tocnumber">
+           7
+          </span>
+          <span class="toctext">
+           External links
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="History">
+        History
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Apollo_17_lunar_sample_display&amp;action=edit&amp;section=1" title="Edit section: History">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       <a href="/wiki/Eugene_Cernan" title="Eugene Cernan">
+        Eugene Cernan
+       </a>
+       ended his walk on the Moon in 1972 with a dedication to the young people of Earth. The theme of his speech from the Moon was the wish for peace and harmony among the people of the world. He explained that,
+       <a href="/wiki/Harrison_Schmitt" title="Harrison Schmitt">
+        Harrison Schmitt
+       </a>
+       , his fellow astronaut on the Moon with him had just picked up a
+       <i>
+        very significant
+       </i>
+       Moon rock that they hoped would bring this worldwide peace through the distribution of its fragments. This
+       <a href="/wiki/Basalt" title="Basalt">
+        basalt
+       </a>
+       was later identified as lunar basalt 70017, dubbed the "goodwill rock".
+       <sup class="reference" id="cite_ref-3">
+        <a href="#cite_note-3">
+         [3]
+        </a>
+       </sup>
+      </p>
+      <p>
+       Once brought back, this Moon rock was broken up into small fragments and distributed in 1973 by President
+       <a href="/wiki/Richard_Nixon" title="Richard Nixon">
+        Richard Nixon
+       </a>
+       to all the countries of the world and to the United States with its territories as a goodwill gesture.
+       <sup class="reference" id="cite_ref-tales_4-0">
+        <a href="#cite_note-tales-4">
+         [4]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-Earth_5-0">
+        <a href="#cite_note-Earth-5">
+         [5]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Description">
+        Description
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Apollo_17_lunar_sample_display&amp;action=edit&amp;section=2" title="Edit section: Description">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       The "goodwill moon rock" fragment of 1.14 grams was placed inside a solid piece of
+       <a href="/wiki/Poly(methyl_methacrylate)" title="Poly(methyl methacrylate)">
+        acrylic lucite
+       </a>
+       , the Moon rock being embedded inside the Lucite material when it was molten. The clear plastic ball was about the size of a billiard ball and partially flat at the bottom. It was then mounted and glued onto a 10 inch by 14 inch wooden plaque.
+       <sup class="reference" id="cite_ref-tales_4-1">
+        <a href="#cite_note-tales-4">
+         [4]
+        </a>
+       </sup>
+      </p>
+      <p>
+       The next item directly below the Lucite ball was attached a metal plate of about 2 inches by 4 inches that read:
+      </p>
+      <blockquote class="templatequote">
+       <p>
+        The fragment is a portion of a rock from the
+        <a href="/wiki/Taurus%E2%80%93Littrow" title="Taurus–Littrow">
+         Taurus Valley
+        </a>
+        of the Moon. It was part of a larger rock composed of many particles of different shapes and sizes, a symbol of the unity of human endeavor and mankind's hope for a future of peace and harmony.
+       </p>
+      </blockquote>
+      <p>
+       The recipient's flag of about 4 inches by 6 inches (precisely 10.16 cm x 15.24 cm)
+       <sup class="reference" id="cite_ref-Astro_6-0">
+        <a href="#cite_note-Astro-6">
+         [6]
+        </a>
+       </sup>
+       was mounted directly below this metal plate covered with a clear plastic cover.
+      </p>
+      <p>
+       Another metal descriptive plate was attached directly below the recipient's flag that read:
+      </p>
+      <blockquote class="templatequote">
+       <p>
+        This flag of your state was carried to the moon aboard Spacecraft America during the Apollo XVII mission,
+        <br/>
+       </p>
+       <p>
+        December 7–19, 1972.
+        <br/>
+        Presented to the people of the state of
+        <br/>
+        _______________________________________
+        <br/>
+        by the
+        <br/>
+        National Aeronautics and Space Administration.
+       </p>
+      </blockquote>
+      <p>
+       If the wooded display went to a country of the world instead of one of the states of the United States then the word "state" was replaced with "nation" or "kingdom".
+      </p>
+      <p>
+       The Apollo 17 wooden plaque displays with the so-called "goodwill moon rocks" were presented to all the states of the United States and all the countries of the world on March 21, 1973. President Nixon sent a letter on that date that accompanied the lunar sample displays to all the worldwide countries and all the states of the United States and its possessions. National Archives in Washington D.C. has a copy of this letter:
+      </p>
+      <blockquote class="templatequote">
+       <p>
+        The Apollo lunar landing program conducted by the United States has been brought to a successful conclusion. Men from the planet Earth have reached the first milestone in space. But as we stretch for the stars, we know that we stand also upon the shoulders of many men of many nations here on our own planet. In the deepest sense our exploration of the moon was truly an international effort.
+       </p>
+       <p>
+        It is for this reason that, on behalf of the people of the United States I present this flag, which was carried to the moon, to the State, and its fragment of the moon obtained during the final lunar mission of the Apollo program.
+       </p>
+       <p>
+        If people of many nations can act together to achieve the dreams of humanity in space, then surely we can act together to accomplish humanity's dream of peace here on earth. It was in this spirit that the United States of America went to the moon, and it is in this spirit that we look forward to sharing what we have done and what we have learned with all mankind.
+        <sup class="reference" id="cite_ref-Apollo17displays_2-1">
+         <a href="#cite_note-Apollo17displays-2">
+          [2]
+         </a>
+        </sup>
+       </p>
+      </blockquote>
+      <h2>
+       <span class="mw-headline" id="Ownership">
+        Ownership
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Apollo_17_lunar_sample_display&amp;action=edit&amp;section=3" title="Edit section: Ownership">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Once the display with the Moon rock fragment and small flag was given as a gift to each of the recipients, these lunar sample displays became the property of the recipient that received it.
+       <sup class="reference" id="cite_ref-7">
+        <a href="#cite_note-7">
+         [7]
+        </a>
+       </sup>
+       NASA no longer gives away any Moon material and tracks all Moon soil material and Moon rocks, with the Apollo 11 and Apollo 17 display gifts being the only exceptions.
+       <sup class="reference" id="cite_ref-Pazmino_8-0">
+        <a href="#cite_note-Pazmino-8">
+         [8]
+        </a>
+       </sup>
+       NASA does keep meticulous records on all other lunar samples worldwide and no longer gives gifts of Moon specimens. The Apollo 17 Moon rock fragment samples then come under the public gifts laws of the nation or state that received the display. In the case of each state of the United States public gifts cannot be legally transferred to individual ownership unless certain additional legislation allows it.
+       <sup class="reference" id="cite_ref-Apollo17displays_2-2">
+        <a href="#cite_note-Apollo17displays-2">
+         [2]
+        </a>
+       </sup>
+      </p>
+      <ul class="gallery mw-gallery-traditional">
+       <li class="gallerybox" style="width: 155px">
+        <div style="width: 155px">
+         <div class="thumb" style="width: 150px;">
+          <div style="margin:15px auto;">
+           <a class="image" href="/wiki/File:ADAH_moon_rock.jpg">
+            <img alt="" data-file-height="720" data-file-width="579" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/ADAH_moon_rock.jpg/96px-ADAH_moon_rock.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/ADAH_moon_rock.jpg/145px-ADAH_moon_rock.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/ADAH_moon_rock.jpg/193px-ADAH_moon_rock.jpg 2x" width="96"/>
+           </a>
+          </div>
+         </div>
+         <div class="gallerytext">
+          <center>
+           Alabama display
+          </center>
+         </div>
+        </div>
+       </li>
+       <li class="gallerybox" style="width: 155px">
+        <div style="width: 155px">
+         <div class="thumb" style="width: 150px;">
+          <div style="margin:15px auto;">
+           <a class="image" href="/wiki/File:Georgia_Apollo_17_display.jpg">
+            <img alt="" data-file-height="2591" data-file-width="1764" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Georgia_Apollo_17_display.jpg/82px-Georgia_Apollo_17_display.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Georgia_Apollo_17_display.jpg/122px-Georgia_Apollo_17_display.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Georgia_Apollo_17_display.jpg/163px-Georgia_Apollo_17_display.jpg 2x" width="82"/>
+           </a>
+          </div>
+         </div>
+         <div class="gallerytext">
+          <center>
+           Georgia display
+          </center>
+         </div>
+        </div>
+       </li>
+       <li class="gallerybox" style="width: 155px">
+        <div style="width: 155px">
+         <div class="thumb" style="width: 150px;">
+          <div style="margin:15px auto;">
+           <a class="image" href="/wiki/File:Massachusetts_Apollo_XVII_display.jpg">
+            <img alt="" data-file-height="3008" data-file-width="2000" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Massachusetts_Apollo_XVII_display.jpg/80px-Massachusetts_Apollo_XVII_display.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Massachusetts_Apollo_XVII_display.jpg/120px-Massachusetts_Apollo_XVII_display.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Massachusetts_Apollo_XVII_display.jpg/159px-Massachusetts_Apollo_XVII_display.jpg 2x" width="80"/>
+           </a>
+          </div>
+         </div>
+         <div class="gallerytext">
+          <center>
+           Massachusetts display
+          </center>
+         </div>
+        </div>
+       </li>
+       <li class="gallerybox" style="width: 155px">
+        <div style="width: 155px">
+         <div class="thumb" style="width: 150px;">
+          <div style="margin:15px auto;">
+           <a class="image" href="/wiki/File:Apollo_17_Goodwill_Moon_Rock.jpg">
+            <img alt="" data-file-height="2360" data-file-width="1717" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Apollo_17_Goodwill_Moon_Rock.jpg/87px-Apollo_17_Goodwill_Moon_Rock.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Apollo_17_Goodwill_Moon_Rock.jpg/131px-Apollo_17_Goodwill_Moon_Rock.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Apollo_17_Goodwill_Moon_Rock.jpg/174px-Apollo_17_Goodwill_Moon_Rock.jpg 2x" width="87"/>
+           </a>
+          </div>
+         </div>
+         <div class="gallerytext">
+          <center>
+           United Kingdom display
+          </center>
+         </div>
+        </div>
+       </li>
+       <li class="gallerybox" style="width: 155px">
+        <div style="width: 155px">
+         <div class="thumb" style="width: 150px;">
+          <div style="margin:15px auto;">
+           <a class="image" href="/wiki/File:Apollo_17_display_71.2003.061.jpg">
+            <img alt="" data-file-height="632" data-file-width="480" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Apollo_17_display_71.2003.061.jpg/91px-Apollo_17_display_71.2003.061.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Apollo_17_display_71.2003.061.jpg/137px-Apollo_17_display_71.2003.061.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/57/Apollo_17_display_71.2003.061.jpg/182px-Apollo_17_display_71.2003.061.jpg 2x" width="91"/>
+           </a>
+          </div>
+         </div>
+         <div class="gallerytext">
+          <center>
+           Indiana display
+          </center>
+         </div>
+        </div>
+       </li>
+       <li class="gallerybox" style="width: 155px">
+        <div style="width: 155px">
+         <div class="thumb" style="width: 150px;">
+          <div style="margin:15px auto;">
+           <a class="image" href="/wiki/File:New_Hampshire_Apollo_17_Moon_Rock.jpg">
+            <img alt="" data-file-height="3888" data-file-width="2592" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/New_Hampshire_Apollo_17_Moon_Rock.jpg/80px-New_Hampshire_Apollo_17_Moon_Rock.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/New_Hampshire_Apollo_17_Moon_Rock.jpg/120px-New_Hampshire_Apollo_17_Moon_Rock.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/New_Hampshire_Apollo_17_Moon_Rock.jpg/160px-New_Hampshire_Apollo_17_Moon_Rock.jpg 2x" width="80"/>
+           </a>
+          </div>
+         </div>
+         <div class="gallerytext">
+          <center>
+           New Hampshire display
+          </center>
+         </div>
+        </div>
+       </li>
+       <li class="gallerybox" style="width: 155px">
+        <div style="width: 155px">
+         <div class="thumb" style="width: 150px;">
+          <div style="margin:15px auto;">
+           <a class="image" href="/wiki/File:To_the_Moon_and_Back.jpg">
+            <img alt="" data-file-height="1600" data-file-width="1067" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/To_the_Moon_and_Back.jpg/80px-To_the_Moon_and_Back.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/To_the_Moon_and_Back.jpg/120px-To_the_Moon_and_Back.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7c/To_the_Moon_and_Back.jpg/160px-To_the_Moon_and_Back.jpg 2x" width="80"/>
+           </a>
+          </div>
+         </div>
+         <div class="gallerytext">
+          <center>
+           Austria display
+          </center>
+         </div>
+        </div>
+       </li>
+       <li class="gallerybox" style="width: 155px">
+        <div style="width: 155px">
+         <div class="thumb" style="width: 150px;">
+          <div style="margin:15px auto;">
+           <a class="image" href="/wiki/File:Arizona%27s_Apollo_17_Goodwill_Display.jpg">
+            <img alt="" data-file-height="960" data-file-width="720" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Arizona%27s_Apollo_17_Goodwill_Display.jpg/90px-Arizona%27s_Apollo_17_Goodwill_Display.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Arizona%27s_Apollo_17_Goodwill_Display.jpg/135px-Arizona%27s_Apollo_17_Goodwill_Display.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Arizona%27s_Apollo_17_Goodwill_Display.jpg/180px-Arizona%27s_Apollo_17_Goodwill_Display.jpg 2x" width="90"/>
+           </a>
+          </div>
+         </div>
+         <div class="gallerytext">
+          <center>
+           Arizona display
+          </center>
+         </div>
+        </div>
+       </li>
+       <li class="gallerybox" style="width: 155px">
+        <div style="width: 155px">
+         <div class="thumb" style="width: 150px;">
+          <div style="margin:15px auto;">
+           <a class="image" href="/wiki/File:Colorado_Apollo_17_Display.jpg">
+            <img alt="" data-file-height="2464" data-file-width="1440" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Colorado_Apollo_17_Display.jpg/70px-Colorado_Apollo_17_Display.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Colorado_Apollo_17_Display.jpg/105px-Colorado_Apollo_17_Display.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Colorado_Apollo_17_Display.jpg/140px-Colorado_Apollo_17_Display.jpg 2x" width="70"/>
+           </a>
+          </div>
+         </div>
+         <div class="gallerytext">
+          <center>
+           Colorado display
+          </center>
+         </div>
+        </div>
+       </li>
+       <li class="gallerybox" style="width: 155px">
+        <div style="width: 155px">
+         <div class="thumb" style="width: 150px;">
+          <div style="margin:15px auto;">
+           <a class="image" href="/wiki/File:Tennessee_Apollo_XVII_Display.png">
+            <img alt="" data-file-height="2552" data-file-width="1620" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/12/Tennessee_Apollo_XVII_Display.png/76px-Tennessee_Apollo_XVII_Display.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/12/Tennessee_Apollo_XVII_Display.png/114px-Tennessee_Apollo_XVII_Display.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/12/Tennessee_Apollo_XVII_Display.png/152px-Tennessee_Apollo_XVII_Display.png 2x" width="76"/>
+           </a>
+          </div>
+         </div>
+         <div class="gallerytext">
+          <center>
+           Tennessee display
+          </center>
+         </div>
+        </div>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="Countries">
+        Countries
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Apollo_17_lunar_sample_display&amp;action=edit&amp;section=4" title="Edit section: Countries">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       The recipients were 135 foreign countries, the 50 United States and its provinces, and the United Nations. The nation or state that received the Moon rock also had its flag taken to the moon and back by the crew of Apollo 17. This flag was also mounted on the commemorative plaque display with a message label below it saying it was a gift to the recipient.
+       <sup class="reference" id="cite_ref-Apollo17displays_2-3">
+        <a href="#cite_note-Apollo17displays-2">
+         [2]
+        </a>
+       </sup>
+      </p>
+      <p>
+       The countries during Nixon's presidency that the plaques were given to were Afghanistan, Albania, Algeria, Andorra, Argentina, Australia, Austria, Bahamas, Bahrain, Bangladesh, Barbados, Belgium, Bhutan, Bolivia, Botswana, Brazil, Bulgaria, Burma, Burundi, Cameroon, Canada, Cambodia, Central African Republic, Ceylon (Sri Lanka), Chad, Chile, China, Colombia, Congo (Brazzaville), Congo (Kinshasa), Costa Rica, Cuba, Cyprus, Czechoslovakia, Dahomey, Denmark, Dominican Republic, Ecuador, Egypt, El Salvador, Equatorial Guinea, Ethiopia, Fiji, Finland, France, Gabon, Gambia, Germany, Ghana, Greece, Guatemala, Guinea, Guyana, Haiti, Honduras, Hungary, Iceland, India, Indonesia, Iran, Iraq, Ireland, Israel, Italy, Ivory Coast, Jamaica, Japan, Jordan, Kenya, Korea, Kuwait, Laos, Lebanon, Lesotho, Liberia, Libya, Liechtenstein, Luxembourg, Madagascar, Malawi, Malaysia, Maldives, Mali, Malta, Mauritania, Mauritius, Mexico, Monaco, Mongolia, Morocco, Mozambique (in that time an overseas province of Portugal), Muscat and Oman, Nauru, Nepal, Netherlands, New Zealand, Nicaragua, Niger, Nigeria, Norway, Pakistan, Panama, Paraguay, Peru, Philippines, Poland, Portugal, Qatar, Romania, Rwanda, San Marino, Saudi Arabia, Senegal, Sierra Leone, Singapore, Solomon Islands (in that time a British overseas possession), Somalia, South Africa, Southern Yemen, Soviet Union, Spain, Sudan, Swaziland, Sweden, Switzerland, Syria, Taiwan, Tanzania, Thailand, Togo, Tonga, Trinidad and Tobago, Tunisia, Turkey, Uganda, United Arab Emirates, United Kingdom, Upper Volta, Uruguay, Vatican City, Venezuela, Vietnam, Western Samoa, Yemen, Yugoslavia, and Zambia.
+       <sup class="reference" id="cite_ref-Apollo11displays_1-1">
+        <a href="#cite_note-Apollo11displays-1">
+         [1]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-Apollo17displays_2-4">
+        <a href="#cite_note-Apollo17displays-2">
+         [2]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Fate">
+        Fate
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Apollo_17_lunar_sample_display&amp;action=edit&amp;section=5" title="Edit section: Fate">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main article:
+       <a href="/wiki/Stolen_and_missing_moon_rocks" title="Stolen and missing moon rocks">
+        Stolen and missing moon rocks
+       </a>
+      </div>
+      <p>
+       Once the goodwill display with the Moon material was given, NASA offered no counseling or recommendations on how the caretaker or curator was to handle the Moon rocks.
+       <sup class="reference" id="cite_ref-Pazmino_8-1">
+        <a href="#cite_note-Pazmino-8">
+         [8]
+        </a>
+       </sup>
+       Their fate was in the hands of the recipient, which in many cases was not well managed.
+       <sup class="reference" id="cite_ref-Fernandez_9-0">
+        <a href="#cite_note-Fernandez-9">
+         [9]
+        </a>
+       </sup>
+       NASA did not give away as gifts any other Moon rock displays other than what was presented of the Apollo 11 and Apollo 17 Moon rock displays.
+       <sup class="reference" id="cite_ref-Pazmino_8-2">
+        <a href="#cite_note-Pazmino-8">
+         [8]
+        </a>
+       </sup>
+      </p>
+      <p>
+       Certain samples of
+       <a href="/wiki/Lunar_basalt_70017" title="Lunar basalt 70017">
+        Moon rock
+       </a>
+       and lunar dust soil from the Apollo 11 and Apollo 17 missions, mounted on the wooden plaque displays especially for
+       <a href="/wiki/Brazil_lunar_sample_displays" title="Brazil lunar sample displays">
+        Brazil
+       </a>
+       ,
+       <a href="/wiki/Canada_lunar_sample_displays" title="Canada lunar sample displays">
+        Canada
+       </a>
+       ,
+       <a href="/wiki/Cyprus_lunar_sample_displays" title="Cyprus lunar sample displays">
+        Cyprus
+       </a>
+       ,
+       <a href="/wiki/Honduras_lunar_sample_displays" title="Honduras lunar sample displays">
+        Honduras
+       </a>
+       ,
+       <a href="/wiki/Ireland_lunar_sample_displays" title="Ireland lunar sample displays">
+        Ireland
+       </a>
+       ,
+       <a href="/wiki/Malta_lunar_sample_displays" title="Malta lunar sample displays">
+        Malta
+       </a>
+       ,
+       <a href="/wiki/Netherlands_lunar_sample_displays" title="Netherlands lunar sample displays">
+        Netherlands
+       </a>
+       ,
+       <a class="mw-redirect" href="/wiki/Nicaraguan_lunar_sample_displays" title="Nicaraguan lunar sample displays">
+        Nicaragua
+       </a>
+       ,
+       <a href="/wiki/Norway_lunar_sample_displays" title="Norway lunar sample displays">
+        Norway
+       </a>
+       ,
+       <a href="/wiki/Romania_lunar_sample_displays" title="Romania lunar sample displays">
+        Romania
+       </a>
+       ,
+       <a href="/wiki/Spain_lunar_sample_displays" title="Spain lunar sample displays">
+        Spain
+       </a>
+       ,
+       <a href="/wiki/Sweden_lunar_sample_displays" title="Sweden lunar sample displays">
+        Sweden
+       </a>
+       ,
+       <a href="/wiki/Alaska_lunar_sample_displays" title="Alaska lunar sample displays">
+        Alaska
+       </a>
+       ,
+       <a href="/wiki/Arkansas_lunar_sample_displays" title="Arkansas lunar sample displays">
+        Arkansas
+       </a>
+       ,
+       <a href="/wiki/California_lunar_sample_displays" title="California lunar sample displays">
+        California
+       </a>
+       ,
+       <a href="/wiki/Colorado_lunar_sample_displays" title="Colorado lunar sample displays">
+        Colorado
+       </a>
+       ,
+       <a href="/wiki/Delaware_lunar_sample_displays" title="Delaware lunar sample displays">
+        Delaware
+       </a>
+       ,
+       <a href="/wiki/Hawaii_lunar_sample_displays" title="Hawaii lunar sample displays">
+        Hawaii
+       </a>
+       ,
+       <a href="/wiki/Illinois_lunar_sample_displays" title="Illinois lunar sample displays">
+        Illinois
+       </a>
+       ,
+       <a href="/wiki/Missouri_lunar_sample_displays" title="Missouri lunar sample displays">
+        Missouri
+       </a>
+       ,
+       <a href="/wiki/Nebraska_lunar_sample_displays" title="Nebraska lunar sample displays">
+        Nebraska
+       </a>
+       ,
+       <a href="/wiki/New_Jersey_lunar_sample_displays" title="New Jersey lunar sample displays">
+        New Jersey
+       </a>
+       ,
+       <a href="/wiki/New_Mexico_lunar_sample_displays" title="New Mexico lunar sample displays">
+        New Mexico
+       </a>
+       ,
+       <a href="/wiki/New_York_lunar_sample_displays" title="New York lunar sample displays">
+        New York
+       </a>
+       ,
+       <a href="/wiki/North_Carolina_lunar_sample_displays" title="North Carolina lunar sample displays">
+        North Carolina
+       </a>
+       ,
+       <a href="/wiki/Oregon_lunar_sample_displays" title="Oregon lunar sample displays">
+        Oregon
+       </a>
+       ,
+       <a href="/wiki/West_Virginia_lunar_sample_displays" title="West Virginia lunar sample displays">
+        West Virginia
+       </a>
+       were later reported missing by many of the recipients.
+       <sup class="reference" id="cite_ref-Apollo11displays_1-2">
+        <a href="#cite_note-Apollo11displays-1">
+         [1]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-Apollo17displays_2-5">
+        <a href="#cite_note-Apollo17displays-2">
+         [2]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-Earth_5-1">
+        <a href="#cite_note-Earth-5">
+         [5]
+        </a>
+       </sup>
+       Since 2005 certain entities and key people have made concerted efforts to find the current locations of all the Apollo lunar sample displays with the goodwill moon rocks.
+       <sup class="reference" id="cite_ref-Fox_10-0">
+        <a href="#cite_note-Fox-10">
+         [10]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-Review_11-0">
+        <a href="#cite_note-Review-11">
+         [11]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-Kloc_12-0">
+        <a href="#cite_note-Kloc-12">
+         [12]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-13">
+        <a href="#cite_note-13">
+         [13]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-Hennessy_14-0">
+        <a href="#cite_note-Hennessy-14">
+         [14]
+        </a>
+       </sup>
+       One such person is
+       <a href="/wiki/Joseph_Gutheinz" title="Joseph Gutheinz">
+        Joseph Gutheinz
+       </a>
+       (former NASA Office of Inspector General special agent for 10 years), who was a professor at the
+       <a href="/wiki/University_of_Phoenix" title="University of Phoenix">
+        University of Phoenix
+       </a>
+       in
+       <a href="/wiki/Phoenix,_Arizona" title="Phoenix, Arizona">
+        Phoenix, Arizona
+       </a>
+       , United States.
+       <sup class="reference" id="cite_ref-15">
+        <a href="#cite_note-15">
+         [15]
+        </a>
+       </sup>
+       Gutheinz even went to the extreme of having his hundreds of students try to locate all these displays. Another space history expert tracking the goodwill lunar displays is
+       <a href="/wiki/Robert_Pearlman" title="Robert Pearlman">
+        Robert Pearlman
+       </a>
+       , founder and editor of
+       <a href="/wiki/CollectSPACE" title="CollectSPACE">
+        collectSPACE
+       </a>
+       , a website devoted to space-related artifacts and memorabilia.
+       <sup class="reference" id="cite_ref-16">
+        <a href="#cite_note-16">
+         [16]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Apollo_17_lunar_sample_display&amp;action=edit&amp;section=6" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+       <ol class="references">
+        <li id="cite_note-Apollo11displays-1">
+         <span class="mw-cite-backlink">
+          ^
+          <a href="#cite_ref-Apollo11displays_1-0">
+           <sup>
+            <i>
+             <b>
+              a
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-Apollo11displays_1-1">
+           <sup>
+            <i>
+             <b>
+              b
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-Apollo11displays_1-2">
+           <sup>
+            <i>
+             <b>
+              c
+             </b>
+            </i>
+           </sup>
+          </a>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           <a href="/wiki/Robert_Pearlman" title="Robert Pearlman">
+            Pearlman, Robert
+           </a>
+           (1999–2012).
+           <a class="external text" href="http://www.collectspace.com/resources/moonrocks_apollo11.html" rel="nofollow">
+            "Where today are the Apollo 11 goodwill lunar sample displays?"
+           </a>
+           .
+           <a href="/wiki/CollectSPACE" title="CollectSPACE">
+            collectspace.com
+           </a>
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             November 2,
+            </span>
+            2012
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Where+today+are+the+Apollo+11+goodwill+lunar+sample+displays%3F&amp;rft.pub=collectspace.com&amp;rft.date=1999%2F2012&amp;rft.aulast=Pearlman&amp;rft.aufirst=Robert&amp;rft_id=http%3A%2F%2Fwww.collectspace.com%2Fresources%2Fmoonrocks_apollo11.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AApollo+17+lunar+sample+display">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-Apollo17displays-2">
+         <span class="mw-cite-backlink">
+          ^
+          <a href="#cite_ref-Apollo17displays_2-0">
+           <sup>
+            <i>
+             <b>
+              a
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-Apollo17displays_2-1">
+           <sup>
+            <i>
+             <b>
+              b
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-Apollo17displays_2-2">
+           <sup>
+            <i>
+             <b>
+              c
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-Apollo17displays_2-3">
+           <sup>
+            <i>
+             <b>
+              d
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-Apollo17displays_2-4">
+           <sup>
+            <i>
+             <b>
+              e
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-Apollo17displays_2-5">
+           <sup>
+            <i>
+             <b>
+              f
+             </b>
+            </i>
+           </sup>
+          </a>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           <a href="/wiki/Robert_Pearlman" title="Robert Pearlman">
+            Pearlman, Robert
+           </a>
+           (1999–2012).
+           <a class="external text" href="http://www.collectspace.com/resources/moonrocks_goodwill.html" rel="nofollow">
+            "Where today are the Apollo 17 goodwill lunar sample displays"
+           </a>
+           . collectspace.com
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             November 2,
+            </span>
+            2012
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Where+today+are+the+Apollo+17+goodwill+lunar+sample+displays&amp;rft.pub=collectspace.com&amp;rft.date=1999%2F2012&amp;rft.aulast=Pearlman&amp;rft.aufirst=Robert&amp;rft_id=http%3A%2F%2Fwww.collectspace.com%2Fresources%2Fmoonrocks_goodwill.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AApollo+17+lunar+sample+display">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-3">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-3">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation news">
+           Millett, Lucy (September 17, 2009).
+           <a class="external text" href="http://www.thefreelibrary.com/Moon+rocks+went+missing+around+the+world.-a0207912718" rel="nofollow">
+            "Moon rocks went missing around the world"
+           </a>
+           .
+           <a href="/wiki/Cyprus" title="Cyprus">
+            Cyprus
+           </a>
+           :
+           <a href="/wiki/Cyprus_Mail" title="Cyprus Mail">
+            Cyprus Mail
+           </a>
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             November 3,
+            </span>
+            2012
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Moon+rocks+went+missing+around+the+world&amp;rft.date=2009-09-17&amp;rft.aulast=Millett&amp;rft.aufirst=Lucy&amp;rft_id=http%3A%2F%2Fwww.thefreelibrary.com%2FMoon%2Brocks%2Bwent%2Bmissing%2Baround%2Bthe%2Bworld.-a0207912718&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AApollo+17+lunar+sample+display">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-tales-4">
+         <span class="mw-cite-backlink">
+          ^
+          <a href="#cite_ref-tales_4-0">
+           <sup>
+            <i>
+             <b>
+              a
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-tales_4-1">
+           <sup>
+            <i>
+             <b>
+              b
+             </b>
+            </i>
+           </sup>
+          </a>
+         </span>
+         <span class="reference-text">
+          <cite class="citation news">
+           Associated Press (May 23, 2012).
+           <a class="external text" href="https://www.theguardian.com/world/feedarticle/10255200" rel="nofollow">
+            "Tales of lunar rocks through the years"
+           </a>
+           . London, UK:
+           <a href="/wiki/The_Guardian" title="The Guardian">
+            The Guardian
+           </a>
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             November 10,
+            </span>
+            2012
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Tales+of+lunar+rocks+through+the+years&amp;rft.date=2012-05-23&amp;rft.au=Associated+Press&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fworld%2Ffeedarticle%2F10255200&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AApollo+17+lunar+sample+display">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-Earth-5">
+         <span class="mw-cite-backlink">
+          ^
+          <a href="#cite_ref-Earth_5-0">
+           <sup>
+            <i>
+             <b>
+              a
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-Earth_5-1">
+           <sup>
+            <i>
+             <b>
+              b
+             </b>
+            </i>
+           </sup>
+          </a>
+         </span>
+         <span class="reference-text">
+          <i>
+           Earth
+          </i>
+          magazine, March 2011, pp. 42-51
+         </span>
+        </li>
+        <li id="cite_note-Astro-6">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-Astro_6-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           <a class="external text" href="https://web.archive.org/web/20121006164759/http://astronautix.com/details/msc18178.htm" rel="nofollow">
+            "1969.09.19 - MSC reports that 136 flags of other nations were flown on Apollo 11"
+           </a>
+           .
+           <a href="/wiki/Encyclopedia_Astronautica" title="Encyclopedia Astronautica">
+            Encyclopedia Astronautica
+           </a>
+           . Archived from
+           <a class="external text" href="http://www.astronautix.com/details/msc18178.htm" rel="nofollow">
+            the original
+           </a>
+           on October 6, 2012
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             November 2,
+            </span>
+            2012
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=1969.09.19+-+MSC+reports+that+136+flags+of+other+nations+were+flown+on+Apollo+11&amp;rft.pub=Encyclopedia+Astronautica&amp;rft_id=http%3A%2F%2Fwww.astronautix.com%2Fdetails%2Fmsc18178.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AApollo+17+lunar+sample+display">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-7">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-7">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <a class="external text" href="http://www.collectspace.com/resources/moonrocks_goodwill.html" rel="nofollow">
+           Where today are the Apollo 17 displays
+          </a>
+          . Once presented, each of the goodwill Moon rock samples became the property of the recipient entity and therefore was no longer subject to being tracked by NASA. NASA no longer gives away any Moon material and tracks all Moon soil material and Moon rocks, except the Apollo 11 and Apollo 17 display gifts.
+         </span>
+        </li>
+        <li id="cite_note-Pazmino-8">
+         <span class="mw-cite-backlink">
+          ^
+          <a href="#cite_ref-Pazmino_8-0">
+           <sup>
+            <i>
+             <b>
+              a
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-Pazmino_8-1">
+           <sup>
+            <i>
+             <b>
+              b
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-Pazmino_8-2">
+           <sup>
+            <i>
+             <b>
+              c
+             </b>
+            </i>
+           </sup>
+          </a>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           Pazmino, John (December 13, 2009).
+           <a class="external text" href="http://www.nyskies.org/articles/pazmino/lostrock.htm" rel="nofollow">
+            "Where are the moonrocks?"
+           </a>
+           . NYSkies Astronomy
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             November 2,
+            </span>
+            2012
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Where+are+the+moonrocks%3F&amp;rft.pub=NYSkies+Astronomy&amp;rft.date=2009-12-13&amp;rft.aulast=Pazmino&amp;rft.aufirst=John&amp;rft_id=http%3A%2F%2Fwww.nyskies.org%2Farticles%2Fpazmino%2Flostrock.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AApollo+17+lunar+sample+display">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-Fernandez-9">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-Fernandez_9-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation news">
+           Fernandez, Manny (January 21, 2012).
+           <a class="external text" href="https://www.nytimes.com/2012/01/22/science/space/nasa-tackles-problem-of-missing-moon-rocks.html" rel="nofollow">
+            "NASA Searches for Loot That Traveled From Space to Another Void"
+           </a>
+           . Houston, Texas:
+           <a class="mw-redirect" href="/wiki/New_York_Times" title="New York Times">
+            New York Times
+           </a>
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             November 3,
+            </span>
+            2012
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=NASA+Searches+for+Loot+That+Traveled+From+Space+to+Another+Void&amp;rft.date=2012-01-21&amp;rft.aulast=Fernandez&amp;rft.aufirst=Manny&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2012%2F01%2F22%2Fscience%2Fspace%2Fnasa-tackles-problem-of-missing-moon-rocks.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AApollo+17+lunar+sample+display">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-Fox-10">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-Fox_10-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation news">
+           <a class="external text" href="http://www.foxnews.com/scitech/2012/05/14/houston-lawyer-on-quest-to-find-missing-moon-rocks/" rel="nofollow">
+            "Houston lawyer on quest for missing moon rocks"
+           </a>
+           . Buffalo, Texas:
+           <a href="/wiki/Associated_Press" title="Associated Press">
+            Associated Press
+           </a>
+           /
+           <a href="/wiki/Fox_News" title="Fox News">
+            Fox News
+           </a>
+           . May 14, 2012
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             November 3,
+            </span>
+            2012
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Houston+lawyer+on+quest+for+missing+moon+rocks&amp;rft.date=2012-05-14&amp;rft_id=http%3A%2F%2Fwww.foxnews.com%2Fscitech%2F2012%2F05%2F14%2Fhouston-lawyer-on-quest-to-find-missing-moon-rocks%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AApollo+17+lunar+sample+display">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-Review-11">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-Review_11-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation news">
+           "Review: The Case of the Missing Moon Rocks".
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Review%3A+The+Case+of+the+Missing+Moon+Rocks&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AApollo+17+lunar+sample+display">
+           <span style="display:none;">
+           </span>
+          </span>
+          <span class="error citation-comment" style="display:none;font-size:100%">
+           <code style="color:inherit; border:inherit; padding:inherit;">
+            |access-date=
+           </code>
+           requires
+           <code style="color:inherit; border:inherit; padding:inherit;">
+            |url=
+           </code>
+           (
+           <a href="/wiki/Help:CS1_errors#accessdate_missing_url" title="Help:CS1 errors">
+            help
+           </a>
+           )
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-Kloc-12">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-Kloc_12-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation book">
+           Kloc, Joe (February 19, 2012).
+           <i>
+            The Case of the Missing Moon Rocks
+           </i>
+           . The Atavist/
+           <a class="mw-redirect" href="/wiki/Amazon_Digital_Services" title="Amazon Digital Services">
+            Amazon Digital Services
+           </a>
+           , Inc. p. 47.
+           <a href="/wiki/Amazon_Standard_Identification_Number" title="Amazon Standard Identification Number">
+            ASIN
+           </a>
+           <a class="external text" href="//www.amazon.com/dp/B007BGZNZ8" rel="nofollow">
+            B007BGZNZ8
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Case+of+the+Missing+Moon+Rocks&amp;rft.pages=47&amp;rft.pub=The+Atavist%2FAmazon+Digital+Services%2C+Inc.&amp;rft.date=2012-02-19&amp;rft.aulast=Kloc&amp;rft.aufirst=Joe&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AApollo+17+lunar+sample+display">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-13">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-13">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation news">
+           <a class="external text" href="http://articles.cnn.com/keyword/moon-rocks" rel="nofollow">
+            "Customs agents seize 4 billion year old moon rock"
+           </a>
+           .
+           <a href="/wiki/CNN" title="CNN">
+            CNN
+           </a>
+           . December 7, 1998
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             November 3,
+            </span>
+            2012
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Customs+agents+seize+4+billion+year+old+moon+rock&amp;rft.date=1998-12-07&amp;rft_id=http%3A%2F%2Farticles.cnn.com%2Fkeyword%2Fmoon-rocks&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AApollo+17+lunar+sample+display">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-Hennessy-14">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-Hennessy_14-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation news">
+           Hennessy-Fiske, Molly (February 7, 2012).
+           <a class="external text" href="http://articles.latimes.com/2012/feb/07/nation/la-na-moon-rock-20120208" rel="nofollow">
+            "Finding lost moon rocks is his mission"
+           </a>
+           .
+           <a href="/wiki/Los_Angeles_Times" title="Los Angeles Times">
+            Los Angeles Times
+           </a>
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             November 3,
+            </span>
+            2012
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Finding+lost+moon+rocks+is+his+mission&amp;rft.date=2012-02-07&amp;rft.aulast=Hennessy-Fiske&amp;rft.aufirst=Molly&amp;rft_id=http%3A%2F%2Farticles.latimes.com%2F2012%2Ffeb%2F07%2Fnation%2Fla-na-moon-rock-20120208&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AApollo+17+lunar+sample+display">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-15">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-15">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation news">
+           <a class="external text" href="http://article.wn.com/view/2012/05/14/One_mans_quest_to_find_missing_moon_rocks/" rel="nofollow">
+            "One man's quest to find missing moon rocks"
+           </a>
+           . Buffalo, Texas:
+           <a href="/wiki/Detroit_Free_Press" title="Detroit Free Press">
+            Detroit Free Press
+           </a>
+           . May 14, 2012
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             November 3,
+            </span>
+            2012
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=One+man%27s+quest+to+find+missing+moon+rocks&amp;rft.date=2012-05-14&amp;rft_id=http%3A%2F%2Farticle.wn.com%2Fview%2F2012%2F05%2F14%2FOne_mans_quest_to_find_missing_moon_rocks%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AApollo+17+lunar+sample+display">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-16">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-16">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           <a href="/wiki/Robert_Pearlman" title="Robert Pearlman">
+            Pearlman, Robert
+           </a>
+           (1999–2012).
+           <a class="external text" href="http://www.collectspace.com/about.html" rel="nofollow">
+            "Robert Pearlman - Founder and Editor"
+           </a>
+           .
+           <i>
+            About collectSPACE
+           </i>
+           . collectspace.com
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             November 3,
+            </span>
+            2012
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=About+collectSPACE&amp;rft.atitle=Robert+Pearlman+-+Founder+and+Editor&amp;rft.date=1999%2F2012&amp;rft.aulast=Pearlman&amp;rft.aufirst=Robert&amp;rft_id=http%3A%2F%2Fwww.collectspace.com%2Fabout.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AApollo+17+lunar+sample+display">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+       </ol>
+      </div>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Apollo_17_lunar_sample_display&amp;action=edit&amp;section=7" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+       <tr>
+        <td class="mbox-image">
+         <img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/>
+        </td>
+        <td class="mbox-text plainlist">
+         Wikimedia Commons has media related to
+         <i>
+          <b>
+           <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Lunar_sample_displays" title="commons:Category:Lunar sample displays">
+            Lunar sample displays
+           </a>
+          </b>
+         </i>
+         .
+        </td>
+       </tr>
+      </table>
+      <ul>
+       <li>
+        <a class="external text" href="https://web.archive.org/web/20140109020432/http://kyhistory.pastperfect-online.com/35577cgi/mweb.exe?request=record%3Bid%3D375C9EA9-7993-4986-9A3F-766412309205%3Btype%3D101" rel="nofollow">
+         Kentucky's Goodwill Moon rock display in the Kentucky Historical Society's objects catalog
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://curator.jsc.nasa.gov/lunar/displays/displays.cfm" rel="nofollow">
+         Partial list of Apollo 11, 12, 14, 15, 16, and 17 sample locations, NASA Johnson Space Center
+        </a>
+       </li>
+      </ul>
+      <div aria-labelledby="Lunar_sample_displays" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="2" scope="col">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:Lunar_sample_displays" title="Template:Lunar sample displays">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a href="/wiki/Template_talk:Lunar_sample_displays" title="Template talk:Lunar sample displays">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Lunar_sample_displays&amp;action=edit">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="Lunar_sample_displays" style="font-size:114%;margin:0 4em">
+           <a href="/wiki/Lunar_sample_displays" title="Lunar sample displays">
+            Lunar sample displays
+           </a>
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Main articles
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Apollo_11_lunar_sample_display" title="Apollo 11 lunar sample display">
+              Apollo 11 lunar sample display
+             </a>
+            </li>
+            <li>
+             <a class="mw-selflink selflink">
+              Apollo 17 lunar sample display
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_basalt_70017" title="Lunar basalt 70017">
+              Lunar basalt 70017
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Stolen_and_missing_moon_rocks" title="Stolen and missing moon rocks">
+              Stolen and missing moon rocks
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/List_of_Apollo_lunar_sample_displays" title="List of Apollo lunar sample displays">
+              List of Apollo lunar sample displays
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          People and places
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Alaska_lunar_sample_displays#Anderson_v._Alaskan_State_Museums" title="Alaska lunar sample displays">
+              Arthur C. Anderson
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Kit_Bond#Missouri_Apollo_17_Goodwill_Moon_Rock" title="Kit Bond">
+              Kit Bond
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Bill_Clinton#Goodwill_lunar_sample_display" title="Bill Clinton">
+              Bill Clinton
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Goddard_Space_Flight_Center" title="Goddard Space Flight Center">
+              Goddard Space Flight Center
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Joseph_Gutheinz" title="Joseph Gutheinz">
+              Joseph Gutheinz
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Arch_A._Moore_Jr." title="Arch A. Moore Jr.">
+              Arch A. Moore Jr.
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Robert_Pearlman" title="Robert Pearlman">
+              Robert Pearlman
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/John_D._Vanderhoof" title="John D. Vanderhoof">
+              John D. Vanderhoof
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Country displays
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Brazil_lunar_sample_displays" title="Brazil lunar sample displays">
+              Brazil
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Canada_lunar_sample_displays" title="Canada lunar sample displays">
+              Canada
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Cyprus_lunar_sample_displays" title="Cyprus lunar sample displays">
+              Cyprus
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Honduras_lunar_sample_displays" title="Honduras lunar sample displays">
+              Honduras
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Ireland_lunar_sample_displays" title="Ireland lunar sample displays">
+              Ireland
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Malta_lunar_sample_displays" title="Malta lunar sample displays">
+              Malta
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Netherlands_lunar_sample_displays" title="Netherlands lunar sample displays">
+              Netherlands
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Nicaragua_lunar_sample_displays" title="Nicaragua lunar sample displays">
+              Nicaragua
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Norway_lunar_sample_displays" title="Norway lunar sample displays">
+              Norway
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Romania_lunar_sample_displays" title="Romania lunar sample displays">
+              Romania
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Spain_lunar_sample_displays" title="Spain lunar sample displays">
+              Spain
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Sweden_lunar_sample_displays" title="Sweden lunar sample displays">
+              Sweden
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          US state displays
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Alaska_lunar_sample_displays" title="Alaska lunar sample displays">
+              Alaska
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Arkansas_lunar_sample_displays" title="Arkansas lunar sample displays">
+              Arkansas
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/California_lunar_sample_displays" title="California lunar sample displays">
+              California
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Colorado_lunar_sample_displays" title="Colorado lunar sample displays">
+              Colorado
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Delaware_lunar_sample_displays" title="Delaware lunar sample displays">
+              Delaware
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Hawaii_lunar_sample_displays" title="Hawaii lunar sample displays">
+              Hawaii
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Illinois_lunar_sample_displays" title="Illinois lunar sample displays">
+              Illinois
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Missouri_lunar_sample_displays" title="Missouri lunar sample displays">
+              Missouri
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Nebraska_lunar_sample_displays" title="Nebraska lunar sample displays">
+              Nebraska
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/New_Jersey_lunar_sample_displays" title="New Jersey lunar sample displays">
+              New Jersey
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/New_Mexico_lunar_sample_displays" title="New Mexico lunar sample displays">
+              New Mexico
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/New_York_lunar_sample_displays" title="New York lunar sample displays">
+              New York
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/North_Carolina_lunar_sample_displays" title="North Carolina lunar sample displays">
+              North Carolina
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Oregon_lunar_sample_displays" title="Oregon lunar sample displays">
+              Oregon
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/West_Virginia_lunar_sample_displays" title="West Virginia lunar sample displays">
+              West Virginia
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Related media
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <i>
+              <a href="/wiki/The_Case_of_the_Missing_Moon_Rocks" title="The Case of the Missing Moon Rocks">
+               The Case of the Missing Moon Rocks
+              </a>
+             </i>
+            </li>
+            <li>
+             <a href="/wiki/CollectSPACE" title="CollectSPACE">
+              collectSPACE
+             </a>
+            </li>
+            <li>
+             <i>
+              <a href="/wiki/Lunarcy!" title="Lunarcy!">
+               Lunarcy!
+              </a>
+             </i>
+            </li>
+            <li>
+             <i>
+              <a href="/wiki/Moon_for_Sale" title="Moon for Sale">
+               Moon for Sale
+              </a>
+             </i>
+            </li>
+            <li>
+             <i>
+              <a href="/wiki/Sex_on_the_Moon" title="Sex on the Moon">
+               Sex on the Moon
+              </a>
+             </i>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <td class="navbox-abovebelow" colspan="2">
+          <div>
+           <ul>
+            <li>
+             <a href="/wiki/Portal:Solar_System" title="Portal:Solar System">
+              Solar System portal
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Portal:Moon" title="Portal:Moon">
+              Moon portal
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <div aria-labelledby="The_Moon" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="3" scope="col" style="text-align: center;">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:The_Moon" title="Template:The Moon">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a href="/wiki/Template_talk:The_Moon" title="Template talk:The Moon">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:The_Moon&amp;action=edit">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="The_Moon" style="font-size:114%;margin:0 4em">
+           The
+           <a href="/wiki/Moon" title="Moon">
+            Moon
+           </a>
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          Physical
+          <br/>
+          properties
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Internal_structure_of_the_Moon" title="Internal structure of the Moon">
+              Internal structure
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Topography_of_the_Moon" title="Topography of the Moon">
+              Topography
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Atmosphere_of_the_Moon" title="Atmosphere of the Moon">
+              Atmosphere
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Gravitation_of_the_Moon" title="Gravitation of the Moon">
+              Gravity field
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Hill_sphere" title="Hill sphere">
+                Hill sphere
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Magnetic_field_of_the_Moon" title="Magnetic field of the Moon">
+              Magnetic field
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Sodium_tail_of_the_Moon" title="Sodium tail of the Moon">
+              Sodium tail
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Moonlight" title="Moonlight">
+              Moonlight
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Earthlight_(astronomy)" title="Earthlight (astronomy)">
+                Earthshine
+               </a>
+              </li>
+             </ul>
+            </li>
+           </ul>
+          </div>
+         </td>
+         <td class="navbox-image" rowspan="8" style="width:1px;padding:0px 0px 0px 2px">
+          <div>
+           <a class="image" href="/wiki/File:FullMoon2010.jpg" title="A full moon">
+            <img alt="A full moon" data-file-height="2452" data-file-width="2580" height="114" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/FullMoon2010.jpg/120px-FullMoon2010.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/FullMoon2010.jpg/180px-FullMoon2010.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e1/FullMoon2010.jpg/240px-FullMoon2010.jpg 2x" width="120"/>
+           </a>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Orbit_of_the_Moon" title="Orbit of the Moon">
+           Orbit
+          </a>
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Orbital_elements" title="Orbital elements">
+              Orbital elements
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_distance_(astronomy)" title="Lunar distance (astronomy)">
+                Distance
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Apsis" title="Apsis">
+                  Perigee &amp; apogee
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li>
+               <a href="/wiki/Lunar_node" title="Lunar node">
+                Nodes
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Nodal_period" title="Nodal period">
+                  Nodal period
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li>
+               <a href="/wiki/Lunar_precession" title="Lunar precession">
+                Precession
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Syzygy_(astronomy)" title="Syzygy (astronomy)">
+              Syzygy
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/New_moon" title="New moon">
+                New moon
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Full_moon" title="Full moon">
+                Full moon
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Eclipse" title="Eclipse">
+                Eclipses
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Lunar_eclipse" title="Lunar eclipse">
+                  Lunar eclipse
+                 </a>
+                 <ul>
+                  <li>
+                   <a href="/wiki/Total_penumbral_lunar_eclipse" title="Total penumbral lunar eclipse">
+                    Total penumbral lunar eclipse
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Tetrad_(astronomy)" title="Tetrad (astronomy)">
+                    Tetrad
+                   </a>
+                  </li>
+                 </ul>
+                </li>
+                <li>
+                 <a href="/wiki/Solar_eclipse" title="Solar eclipse">
+                  Solar eclipse
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Solar_eclipses_on_the_Moon" title="Solar eclipses on the Moon">
+                  Solar eclipses on the Moon
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Eclipse_cycle" title="Eclipse cycle">
+                  Eclipse cycle
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li>
+               <a href="/wiki/Supermoon" title="Supermoon">
+                Supermoon
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Tide" title="Tide">
+              Tide
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Tidal_force" title="Tidal force">
+                Tidal force
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Tidal_locking" title="Tidal locking">
+                Tidal locking
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Tidal_acceleration" title="Tidal acceleration">
+                Tidal acceleration
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Tidal_range" title="Tidal range">
+                Tidal range
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_mansion" title="Lunar mansion">
+              Lunar mansion
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          Surface &amp;
+          <br/>
+          <a href="/wiki/List_of_lunar_features" title="List of lunar features">
+           features
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Selenography" title="Selenography">
+              Selenography
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Lunar_terminator" title="Lunar terminator">
+              Terminator
+             </a>
+            </li>
+            <li>
+             Hemispheres
+             <ul>
+              <li>
+               <a href="/wiki/Near_side_of_the_Moon" title="Near side of the Moon">
+                Near side
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Far_side_of_the_Moon" title="Far side of the Moon">
+                Far side
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             Poles
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_north_pole" title="Lunar north pole">
+                North pole
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Lunar_south_pole" title="Lunar south pole">
+                South pole
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Face_on_Moon_South_Pole" title="Face on Moon South Pole">
+                  Face
+                 </a>
+                </li>
+               </ul>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_mare" title="Lunar mare">
+              Maria
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/List_of_maria_on_the_Moon" title="List of maria on the Moon">
+                List
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/List_of_mountains_on_the_Moon" title="List of mountains on the Moon">
+              Mountains
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Peak_of_eternal_light" title="Peak of eternal light">
+                Peak of eternal light
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/List_of_valleys_on_the_Moon" title="List of valleys on the Moon">
+              Valleys
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Moon#Volcanic_features" title="Moon">
+              Volcanic features
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_dome" title="Lunar dome">
+                Domes
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Caldera#The_Moon" title="Caldera">
+                Calderas
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Lunar_crater" title="Lunar crater">
+              Craters
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/List_of_craters_on_the_Moon" title="List of craters on the Moon">
+                List
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Ray_system#Lunar_rays" title="Ray system">
+                Ray systems
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Crater_of_eternal_darkness" title="Crater of eternal darkness">
+                Crater of eternal darkness
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Shackleton_(crater)" title="Shackleton (crater)">
+                Shackleton crater
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/South_Pole%E2%80%93Aitken_basin" title="South Pole–Aitken basin">
+                South Pole–Aitken basin
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_soil" title="Lunar soil">
+              Soil
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_swirls" title="Lunar swirls">
+                Swirls
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Rille" title="Rille">
+              Rilles
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Wrinkle_ridge" title="Wrinkle ridge">
+              Wrinkle ridges
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Moon_rock" title="Moon rock">
+              Rocks
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_basalt_70017" title="Lunar basalt 70017">
+                Lunar basalt 70017
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_water" title="Lunar water">
+              Water
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Space_weathering" title="Space weathering">
+              Space weathering
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Micrometeorite" title="Micrometeorite">
+                Micrometeorite
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Sputtering" title="Sputtering">
+                Sputtering
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Quake_(natural_phenomenon)#Moonquake" title="Quake (natural phenomenon)">
+              Quakes
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Transient_lunar_phenomenon" title="Transient lunar phenomenon">
+              Transient lunar phenomenon
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          Science
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Lunar_observation" title="Lunar observation">
+              Observation
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Libration#Lunar_libration" title="Libration">
+              Libration
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_theory" title="Lunar theory">
+              Lunar theory
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Origin_of_the_Moon" title="Origin of the Moon">
+              Origin
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Giant-impact_hypothesis" title="Giant-impact hypothesis">
+                Giant-impact hypothesis
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Theia_(planet)" title="Theia (planet)">
+                  Theia
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Lunar_magma_ocean" title="Lunar magma ocean">
+                  Lunar magma ocean
+                 </a>
+                </li>
+               </ul>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Geology_of_the_Moon" title="Geology of the Moon">
+              Geology
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_geologic_timescale" title="Lunar geologic timescale">
+                Timescale
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Late_Heavy_Bombardment" title="Late Heavy Bombardment">
+                  Late Heavy Bombardment
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li>
+               <a href="/wiki/Lunar_meteorite" title="Lunar meteorite">
+                Lunar meteorites
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/KREEP" title="KREEP">
+                KREEP
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             Experiments
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_Laser_Ranging_experiment" title="Lunar Laser Ranging experiment">
+                Lunar laser ranging
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Apollo_Lunar_Surface_Experiments_Package" title="Apollo Lunar Surface Experiments Package">
+                ALSEP
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_sample_displays" title="Lunar sample displays">
+              Lunar sample displays
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Apollo_11_lunar_sample_display" title="Apollo 11 lunar sample display">
+                Apollo 11
+               </a>
+              </li>
+              <li>
+               <a class="mw-selflink selflink">
+                Apollo 17
+               </a>
+              </li>
+             </ul>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Exploration_of_the_Moon" title="Exploration of the Moon">
+           Exploration
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/List_of_missions_to_the_Moon" title="List of missions to the Moon">
+              Missions
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Apollo_program" title="Apollo program">
+                Apollo program
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/List_of_lunar_probes" title="List of lunar probes">
+              Probes
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Moon_landing" title="Moon landing">
+              Landing
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Moon_landing_conspiracy_theories" title="Moon landing conspiracy theories">
+                Conspiracy theories
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Colonization_of_the_Moon" title="Colonization of the Moon">
+              Colonization
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tourism_on_the_Moon" title="Tourism on the Moon">
+              Tourism
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          Time-telling
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Lunar_calendar" title="Lunar calendar">
+              Lunar calendar
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Lunisolar_calendar" title="Lunisolar calendar">
+              Lunisolar calendar
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Month" title="Month">
+              Month
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_month" title="Lunar month">
+                Lunar month
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Nodal_period" title="Nodal period">
+                  Nodal period
+                 </a>
+                </li>
+               </ul>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Fortnight" title="Fortnight">
+              Fortnight
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Week" title="Week">
+              Sennight
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_mansion" title="Lunar mansion">
+              Lunar mansion
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Lunar_phase" title="Lunar phase">
+           Phases
+          </a>
+          &amp;
+          <br/>
+          names
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/New_moon" title="New moon">
+              New
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Full_moon" title="Full moon">
+              Full
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Full_moon#Full_moon_names" title="Full moon">
+                Names
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Crescent" title="Crescent">
+              Crescent
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Supermoon" title="Supermoon">
+              Super &amp; micro
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_eclipse" title="Lunar eclipse">
+              Blood
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Blue_moon" title="Blue moon">
+              Blue
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Black_moon" title="Black moon">
+              Black
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Dark_moon" title="Dark moon">
+              Dark
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Wet_moon" title="Wet moon">
+              Wet
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tetrad_(astronomy)" title="Tetrad (astronomy)">
+              Tetrad
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          Related
+          <br/>
+          topics
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             Psychology
+             <ul>
+              <li>
+               <a href="/wiki/Lunar_effect" title="Lunar effect">
+                Lunar effect
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Moon_illusion" title="Moon illusion">
+                Moon illusion
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Pareidolia" title="Pareidolia">
+                Pareidolia
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Man_in_the_Moon" title="Man in the Moon">
+                  Man in the Moon
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Moon_rabbit" title="Moon rabbit">
+                  Moon rabbit
+                 </a>
+                </li>
+               </ul>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/List_of_people_with_craters_of_the_Moon_named_after_them" title="List of people with craters of the Moon named after them">
+              Craters named after people
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/List_of_extraterrestrial_memorials#The_Moon" title="List of extraterrestrial memorials">
+              Memorials on the Moon
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Moon_in_fiction" title="Moon in fiction">
+              Moon in fiction
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/List_of_lunar_deities" title="List of lunar deities">
+              Moon in mythology
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Hj%C3%BAki_and_Bil" title="Hjúki and Bil">
+                Hjúki and Bil
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             "
+             <a href="/wiki/The_Moon_is_made_of_green_cheese" title="The Moon is made of green cheese">
+              Moon is made of green cheese
+             </a>
+             "
+            </li>
+            <li>
+             <a href="/wiki/Natural_satellite" title="Natural satellite">
+              Natural satellite
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Double_planet" title="Double planet">
+              Double planet
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Planetary_objects_proposed_in_religion,_astrology,_ufology_and_pseudoscience#Lilith" title="Planetary objects proposed in religion, astrology, ufology and pseudoscience">
+              Lilith (hypothetical second moon)
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <td class="navbox-abovebelow" colspan="3" style="text-align: center;">
+          <div>
+           <ul>
+            <li>
+             <img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/>
+             <b>
+              <a href="/wiki/Category:Moon" title="Category:Moon">
+               Category
+              </a>
+             </b>
+            </li>
+            <li>
+             <img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/>
+             <b>
+              <a href="/wiki/Portal:Moon" title="Portal:Moon">
+               Moon portal
+              </a>
+             </b>
+            </li>
+            <li>
+             <img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/>
+             <b>
+              <a href="/wiki/Portal:Earth_sciences" title="Portal:Earth sciences">
+               Earth sciences portal
+              </a>
+             </b>
+            </li>
+            <li>
+             <img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/>
+             <b>
+              <a href="/wiki/Portal:Solar_System" title="Portal:Solar System">
+               Solar System portal
+              </a>
+             </b>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1268
+Cached time: 20180320082541
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.300 seconds
+Real time usage: 0.388 seconds
+Preprocessor visited node count: 1096/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 63579/2097152 bytes
+Template argument size: 2011/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 26049/5000000 bytes
+Lua time usage: 0.106/10.000 seconds
+Lua memory usage: 3.31 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  305.501      1 -total
+ 41.22%  125.924      1 Template:Reflist
+ 19.03%   58.140      5 Template:Cite_web
+ 12.27%   37.490      1 Template:Commons_category
+ 11.35%   34.680      2 Template:Navbox
+ 10.80%   32.985      8 Template:Cite_news
+ 10.52%   32.149      1 Template:Main_article
+  8.19%   25.021      1 Template:The_Moon
+  5.02%   15.339      1 Template:Lunar_sample_displays
+  4.50%   13.746      4 Template:Icon
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:37521438-0!canonical and timestamp 20180320082540 and revision id 821575129
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Apollo_17_lunar_sample_display&amp;oldid=821575129">
+      https://en.wikipedia.org/w/index.php?title=Apollo_17_lunar_sample_display&amp;oldid=821575129
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Apollo_17" title="Category:Apollo 17">
+         Apollo 17
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Apollo_program_lunar_sample_displays" title="Category:Apollo program lunar sample displays">
+         Apollo program lunar sample displays
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Lunar_samples" title="Category:Lunar samples">
+         Lunar samples
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Petrology" title="Category:Petrology">
+         Petrology
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Foreign_relations_of_the_United_States" title="Category:Foreign relations of the United States">
+         Foreign relations of the United States
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Pages_using_citations_with_accessdate_and_no_URL" title="Category:Pages using citations with accessdate and no URL">
+         Pages using citations with accessdate and no URL
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Apollo+17+lunar+sample+display" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Apollo+17+lunar+sample+display" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Apollo_17_lunar_sample_display" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Apollo_17_lunar_sample_display" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Apollo_17_lunar_sample_display">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Apollo_17_lunar_sample_display&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Apollo_17_lunar_sample_display&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Apollo_17_lunar_sample_display" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Apollo_17_lunar_sample_display" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Apollo_17_lunar_sample_display&amp;oldid=821575129" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Apollo_17_lunar_sample_display&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q3110728" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Apollo_17_lunar_sample_display&amp;id=821575129" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Apollo+17+lunar+sample+display">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Apollo+17+lunar+sample+display&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Apollo_17_lunar_sample_display&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Category:Lunar_sample_displays" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Goodwill_Moon_Rocks" hreflang="fr" lang="fr" title="Goodwill Moon Rocks – French">
+         Français
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q3110728#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 21 January 2018, at 09:21.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Apollo_17_lunar_sample_display&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.300","walltime":"0.388","ppvisitednodes":{"value":1096,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":63579,"limit":2097152},"templateargumentsize":{"value":2011,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":26049,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  305.501      1 -total"," 41.22%  125.924      1 Template:Reflist"," 19.03%   58.140      5 Template:Cite_web"," 12.27%   37.490      1 Template:Commons_category"," 11.35%   34.680      2 Template:Navbox"," 10.80%   32.985      8 Template:Cite_news"," 10.52%   32.149      1 Template:Main_article","  8.19%   25.021      1 Template:The_Moon","  5.02%   15.339      1 Template:Lunar_sample_displays","  4.50%   13.746      4 Template:Icon"]},"scribunto":{"limitreport-timeusage":{"value":"0.106","limit":"10.000"},"limitreport-memusage":{"value":3466879,"limit":52428800}},"cachereport":{"origin":"mw1268","timestamp":"20180320082541","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":95,"wgHostname":"mw1265"});});
+  </script>
+ </body>
+</html>

@@ -1,0 +1,2583 @@
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Angular diameter - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Angular_diameter","wgTitle":"Angular diameter","wgCurRevisionId":818068017,"wgRevisionId":818068017,"wgArticleId":826723,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from September 2009","All articles needing additional references","Elementary geometry","Astrometry","Angle"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Angular_diameter","wgRelevantArticleId":826723,"wgRequestId":"WrEUTwpAMFUAAKvePfoAAABQ","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Apparent_size","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Angular_diameter","wgWikibaseItemId":"Q718647","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.25" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Angular_diameter" rel="alternate"/>
+  <link href="/w/index.php?title=Angular_diameter&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Angular_diameter&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Angular_diameter" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Angular_diameter rootpage-Angular_diameter skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Angular diameter
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+     <span class="mw-redirectedfrom">
+      (Redirected from
+      <a class="mw-redirect" href="/w/index.php?title=Apparent_size&amp;redirect=no" title="Apparent size">
+       Apparent size
+      </a>
+      )
+     </span>
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+       <tr>
+        <td class="mbox-image">
+         <div style="width:52px">
+          <a class="image" href="/wiki/File:Question_book-new.svg">
+           <img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/>
+          </a>
+         </div>
+        </td>
+        <td class="mbox-text">
+         <div class="mbox-text-span">
+          This article
+          <b>
+           needs additional citations for
+           <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">
+            verification
+           </a>
+          </b>
+          .
+          <span class="hide-when-compact">
+           Please help
+           <a class="external text" href="//en.wikipedia.org/w/index.php?title=Angular_diameter&amp;action=edit">
+            improve this article
+           </a>
+           by
+           <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">
+            adding citations to reliable sources
+           </a>
+           . Unsourced material may be challenged and removed.
+          </span>
+          <small>
+           <i>
+            (September 2009)
+           </i>
+          </small>
+          <small class="hide-when-compact">
+           <i>
+            (
+            <a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">
+             Learn how and when to remove this template message
+            </a>
+            )
+           </i>
+          </small>
+         </div>
+        </td>
+       </tr>
+      </table>
+      <p>
+       The
+       <b>
+        angular diameter
+       </b>
+       ,
+       <b>
+        angular size
+       </b>
+       ,
+       <b>
+        apparent diameter
+       </b>
+       , or
+       <b>
+        apparent size
+       </b>
+       is an angular measurement describing how large a
+       <a href="/wiki/Sphere" title="Sphere">
+        sphere
+       </a>
+       or
+       <a href="/wiki/Circle" title="Circle">
+        circle
+       </a>
+       appears from a given point of view. In the
+       <a class="mw-redirect" href="/wiki/Vision_sciences" title="Vision sciences">
+        vision sciences
+       </a>
+       , it is called the
+       <a href="/wiki/Visual_angle" title="Visual angle">
+        visual angle
+       </a>
+       , and in
+       <a href="/wiki/Optics" title="Optics">
+        optics
+       </a>
+       , it is the
+       <a href="/wiki/Angular_aperture" title="Angular aperture">
+        angular aperture
+       </a>
+       (of a
+       <a href="/wiki/Lens_(optics)" title="Lens (optics)">
+        lens
+       </a>
+       ). The angular diameter can alternatively be thought of as the angle through which an eye or camera must rotate to look from one side of an apparent circle to the opposite side.
+       <b>
+        Angular radius
+       </b>
+       equals half the angular diameter.
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Formula">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Formula
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#Estimating_angular_diameter_using_outstretched_hand">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Estimating angular diameter using outstretched hand
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-3">
+         <a href="#Use_in_astronomy">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           Use in astronomy
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-4">
+         <a href="#Non-circular_objects">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           Non-circular objects
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-5">
+         <a href="#Defect_of_illumination">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           Defect of illumination
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-6">
+         <a href="#See_also">
+          <span class="tocnumber">
+           6
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-7">
+         <a href="#References">
+          <span class="tocnumber">
+           7
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-8">
+         <a href="#External_links">
+          <span class="tocnumber">
+           8
+          </span>
+          <span class="toctext">
+           External links
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Formula">
+        Formula
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Angular_diameter&amp;action=edit&amp;section=1" title="Edit section: Formula">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:402px;">
+        <a class="image" href="/wiki/File:Angular_dia_formula.JPG">
+         <img alt="" class="thumbimage" data-file-height="227" data-file-width="583" height="156" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Angular_dia_formula.JPG/400px-Angular_dia_formula.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/4/49/Angular_dia_formula.JPG 1.5x" width="400"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Angular_dia_formula.JPG" title="Enlarge">
+          </a>
+         </div>
+         Diagram for the formula of the angular diameter
+        </div>
+       </div>
+      </div>
+      <p>
+       The angular diameter of a
+       <a href="/wiki/Circle" title="Circle">
+        circle
+       </a>
+       whose plane is perpendicular to the displacement vector between the point of view and the centre of said circle can be calculated using the formula
+       <sup class="reference" id="cite_ref-1">
+        <a href="#cite_note-1">
+         [1]
+        </a>
+       </sup>
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle \delta =2\arctan \left({\frac {d}{2D}}\right),}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               δ
+               <!-- δ -->
+              </mi>
+              <mo>
+               =
+              </mo>
+              <mn>
+               2
+              </mn>
+              <mi>
+               arctan
+              </mi>
+              <mo>
+               ⁡
+               <!-- ⁡ -->
+              </mo>
+              <mrow>
+               <mo>
+                (
+               </mo>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mfrac>
+                 <mi>
+                  d
+                 </mi>
+                 <mrow>
+                  <mn>
+                   2
+                  </mn>
+                  <mi>
+                   D
+                  </mi>
+                 </mrow>
+                </mfrac>
+               </mrow>
+               <mo>
+                )
+               </mo>
+              </mrow>
+              <mo>
+               ,
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle \delta =2\arctan \left({\frac {d}{2D}}\right),}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="\delta =2\arctan \left({\frac {d}{2D}}\right)," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0b1fe8761cc49e8bae4b4825b916681d2d60d317" style="vertical-align: -2.505ex; width:20.154ex; height:6.176ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       in which
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \delta }" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              δ
+              <!-- δ -->
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \delta }
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\delta " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c5321cfa797202b3e1f8620663ff43c4660ea03a" style="vertical-align: -0.338ex; width:1.049ex; height:2.343ex;"/>
+       </span>
+       is the angular diameter, and
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle d}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              d
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle d}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="d" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e85ff03cbe0c7341af6b982e47e9f90d235c66ab" style="vertical-align: -0.338ex; width:1.216ex; height:2.176ex;"/>
+       </span>
+       and
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle D}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              D
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle D}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="D" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f34a0c600395e5d4345287e21fb26efd386990e6" style="vertical-align: -0.338ex; width:1.924ex; height:2.176ex;"/>
+       </span>
+       are the actual diameter of and the distance to the object. When
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle D\gg d}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              D
+             </mi>
+             <mo>
+              ≫
+              <!-- ≫ -->
+             </mo>
+             <mi>
+              d
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle D\gg d}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="D\gg d" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c880bab4ac0296be74e58f613c3f12da63425e15" style="vertical-align: -0.338ex; width:6.754ex; height:2.176ex;"/>
+       </span>
+       , we have
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \delta \approx d/D}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              δ
+              <!-- δ -->
+             </mi>
+             <mo>
+              ≈
+              <!-- ≈ -->
+             </mo>
+             <mi>
+              d
+             </mi>
+             <mrow class="MJX-TeXAtom-ORD">
+              <mo>
+               /
+              </mo>
+             </mrow>
+             <mi>
+              D
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \delta \approx d/D}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\delta \approx d/D" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/811098732e268b2bf5867d9fb7d95d417f66bb64" style="vertical-align: -0.838ex; width:8.45ex; height:2.843ex;"/>
+       </span>
+       , and the result obtained is in
+       <a class="mw-redirect" href="/wiki/Radians" title="Radians">
+        radians
+       </a>
+       .
+      </p>
+      <p>
+       For a spherical object whose
+       <i>
+        actual
+       </i>
+       diameter equals
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle d_{\mathrm {act} },}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi>
+               d
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">
+                 a
+                </mi>
+                <mi mathvariant="normal">
+                 c
+                </mi>
+                <mi mathvariant="normal">
+                 t
+                </mi>
+               </mrow>
+              </mrow>
+             </msub>
+             <mo>
+              ,
+             </mo>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle d_{\mathrm {act} },}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="d_{\mathrm {act} }," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f2299ee5579c51001f5083f15ae6c274b8dcfcac" style="vertical-align: -0.671ex; width:4.28ex; height:2.509ex;"/>
+       </span>
+       and where
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle D}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              D
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle D}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="D" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f34a0c600395e5d4345287e21fb26efd386990e6" style="vertical-align: -0.338ex; width:1.924ex; height:2.176ex;"/>
+       </span>
+       is the distance to the
+       <i>
+        centre
+       </i>
+       of the sphere, the angular diameter can be found by the formula
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle \delta =2\arcsin \left({\frac {d_{\mathrm {act} }}{2D}}\right)}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               δ
+               <!-- δ -->
+              </mi>
+              <mo>
+               =
+              </mo>
+              <mn>
+               2
+              </mn>
+              <mi>
+               arcsin
+              </mi>
+              <mo>
+               ⁡
+               <!-- ⁡ -->
+              </mo>
+              <mrow>
+               <mo>
+                (
+               </mo>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mfrac>
+                 <msub>
+                  <mi>
+                   d
+                  </mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mi mathvariant="normal">
+                     a
+                    </mi>
+                    <mi mathvariant="normal">
+                     c
+                    </mi>
+                    <mi mathvariant="normal">
+                     t
+                    </mi>
+                   </mrow>
+                  </mrow>
+                 </msub>
+                 <mrow>
+                  <mn>
+                   2
+                  </mn>
+                  <mi>
+                   D
+                  </mi>
+                 </mrow>
+                </mfrac>
+               </mrow>
+               <mo>
+                )
+               </mo>
+              </mrow>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle \delta =2\arcsin \left({\frac {d_{\mathrm {act} }}{2D}}\right)}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="\delta =2\arcsin \left({\frac {d_{\mathrm {act} }}{2D}}\right)" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3c4ca27d1b7593a19ca7dc0075e5ecd8cc82b95c" style="vertical-align: -2.505ex; width:19.549ex; height:6.176ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       The difference is due to the fact that the apparent edges of a sphere are its tangent points, which are closer to the observer than the centre of the sphere. For practical use, the distinction is only significant for spherical objects that are relatively close, since the
+       <a href="/wiki/Small-angle_approximation" title="Small-angle approximation">
+        small-angle approximation
+       </a>
+       holds for
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle x\ll 1}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              x
+             </mi>
+             <mo>
+              ≪
+              <!-- ≪ -->
+             </mo>
+             <mn>
+              1
+             </mn>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle x\ll 1}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="x\ll 1" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/735b23270ff44ee7804e7412d368833a63a716fd" style="vertical-align: -0.338ex; width:6.106ex; height:2.176ex;"/>
+       </span>
+       :
+       <sup class="reference" id="cite_ref-2">
+        <a href="#cite_note-2">
+         [2]
+        </a>
+       </sup>
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle \arcsin x\approx \arctan x\approx x}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               arcsin
+              </mi>
+              <mo>
+               ⁡
+               <!-- ⁡ -->
+              </mo>
+              <mi>
+               x
+              </mi>
+              <mo>
+               ≈
+               <!-- ≈ -->
+              </mo>
+              <mi>
+               arctan
+              </mi>
+              <mo>
+               ⁡
+               <!-- ⁡ -->
+              </mo>
+              <mi>
+               x
+              </mi>
+              <mo>
+               ≈
+               <!-- ≈ -->
+              </mo>
+              <mi>
+               x
+              </mi>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle \arcsin x\approx \arctan x\approx x}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="\arcsin x\approx \arctan x\approx x" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ce5bb171479fa0c6dca8133900b60ed147f29763" style="vertical-align: -0.338ex; width:23.388ex; height:2.176ex;"/>
+        </span>
+        .
+       </dd>
+      </dl>
+      <h2>
+       <span class="mw-headline" id="Estimating_angular_diameter_using_outstretched_hand">
+        Estimating angular diameter using outstretched hand
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Angular_diameter&amp;action=edit&amp;section=2" title="Edit section: Estimating angular diameter using outstretched hand">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Estimating_angular_size_with_hand.gif">
+         <img alt="" class="thumbimage" data-file-height="385" data-file-width="1082" height="78" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Estimating_angular_size_with_hand.gif/220px-Estimating_angular_size_with_hand.gif" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Estimating_angular_size_with_hand.gif/330px-Estimating_angular_size_with_hand.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/79/Estimating_angular_size_with_hand.gif/440px-Estimating_angular_size_with_hand.gif 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Estimating_angular_size_with_hand.gif" title="Enlarge">
+          </a>
+         </div>
+         Approximate angles of 10°, 20°, 5°, and 1° for outstretched hand.
+        </div>
+       </div>
+      </div>
+      <p>
+       Estimates of angular diameter may be obtained by holding the hand at right angles to a
+       <a class="mw-redirect" href="/wiki/Angular_mil#Use" title="Angular mil">
+        fully extended arm
+       </a>
+       , as shown in the figure.
+       <sup class="reference" id="cite_ref-3">
+        <a href="#cite_note-3">
+         [3]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-4">
+        <a href="#cite_note-4">
+         [4]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-5">
+        <a href="#cite_note-5">
+         [5]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Use_in_astronomy">
+        Use in astronomy
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Angular_diameter&amp;action=edit&amp;section=3" title="Edit section: Use in astronomy">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:302px;">
+        <a class="image" href="/wiki/File:Angular_diameter.jpg">
+         <img alt="" class="thumbimage" data-file-height="320" data-file-width="576" height="167" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Angular_diameter.jpg/300px-Angular_diameter.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Angular_diameter.jpg/450px-Angular_diameter.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/e/ed/Angular_diameter.jpg 2x" width="300"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Angular_diameter.jpg" title="Enlarge">
+          </a>
+         </div>
+         Angular diameter: the angle subtended by an object
+        </div>
+       </div>
+      </div>
+      <p>
+       In
+       <a href="/wiki/Astronomy" title="Astronomy">
+        astronomy
+       </a>
+       , the sizes of
+       <a class="mw-redirect" href="/wiki/Celestial_object" title="Celestial object">
+        celestial objects
+       </a>
+       are often given in terms of their angular diameter as seen from
+       <a href="/wiki/Earth" title="Earth">
+        Earth
+       </a>
+       , rather than their actual sizes. Since these angular diameters are typically small, it is common to present them in
+       <a class="mw-redirect" href="/wiki/Arcsecond" title="Arcsecond">
+        arcseconds
+       </a>
+       . An arcsecond is 1/3600th of one
+       <a href="/wiki/Degree_(angle)" title="Degree (angle)">
+        degree
+       </a>
+       , and a radian is 180/
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \pi }" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              π
+              <!-- π -->
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \pi }
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\pi " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9be4ba0bb8df3af72e90a0535fabcc17431e540a" style="vertical-align: -0.338ex; width:1.332ex; height:1.676ex;"/>
+       </span>
+       degrees, so one radian equals 3,600*180/
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \pi }" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              π
+              <!-- π -->
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \pi }
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\pi " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9be4ba0bb8df3af72e90a0535fabcc17431e540a" style="vertical-align: -0.338ex; width:1.332ex; height:1.676ex;"/>
+       </span>
+       arcseconds, which is about 206,265 arcseconds. Therefore, the angular diameter of an object with physical diameter
+       <i>
+        d
+       </i>
+       at a distance
+       <i>
+        D
+       </i>
+       , expressed in arcseconds, is given by:
+       <sup class="reference" id="cite_ref-6">
+        <a href="#cite_note-6">
+         [6]
+        </a>
+       </sup>
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle \delta }" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               δ
+               <!-- δ -->
+              </mi>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle \delta }
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="\delta " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c5321cfa797202b3e1f8620663ff43c4660ea03a" style="vertical-align: -0.338ex; width:1.049ex; height:2.343ex;"/>
+        </span>
+        = (206,265)
+        <i>
+         d
+        </i>
+        /
+        <i>
+         D
+        </i>
+        arcseconds.
+       </dd>
+      </dl>
+      <p>
+       These objects have an angular diameter of 1 arcsecond ("):
+      </p>
+      <ul>
+       <li>
+        an object of diameter 1 cm at a distance of 2.06 km
+       </li>
+       <li>
+        an object of diameter 725.27 km at a distance of 1
+        <a href="/wiki/Astronomical_unit" title="Astronomical unit">
+         astronomical unit
+        </a>
+        (AU)
+       </li>
+       <li>
+        an object of diameter 45 866 916 km at 1
+        <a href="/wiki/Light-year" title="Light-year">
+         light-year
+        </a>
+       </li>
+       <li>
+        an object of diameter 1 AU (149 597 871 km) at a distance of 1
+        <a href="/wiki/Parsec" title="Parsec">
+         parsec
+        </a>
+        (pc)
+       </li>
+      </ul>
+      <p>
+       Thus, the angular diameter of
+       <a href="/wiki/Earth%27s_orbit" title="Earth's orbit">
+        Earth's orbit
+       </a>
+       around the Sun viewed from a distance of 1 pc is 2", as 1 AU is the mean radius of Earth's orbit.
+      </p>
+      <p>
+       The angular diameter of the Sun, from a distance of one
+       <a href="/wiki/Light-year" title="Light-year">
+        light-year
+       </a>
+       , is 0.03″, and that of the Earth 0.0003″. The angular diameter 0.03″ of the Sun given above is approximately the same as that of a person at a distance of the diameter of the
+       <a href="/wiki/Earth" title="Earth">
+        Earth
+       </a>
+       .
+       <a class="external autonumber" href="http://www.google.com/search?hl=en&amp;hs=3cj&amp;q=arctan%286ft+%2F+12756.3+Km%29+in+arcseconds&amp;btnG=Search" rel="nofollow">
+        [1]
+       </a>
+      </p>
+      <p>
+       This table shows the angular sizes of noteworthy
+       <a href="/wiki/Astronomical_object" title="Astronomical object">
+        celestial bodies
+       </a>
+       as seen from the Earth:
+      </p>
+      <table class="wikitable">
+       <tr>
+        <th>
+         Celestial body
+        </th>
+        <th>
+         Angular diameter or size
+        </th>
+        <th align="left">
+         Relative size
+        </th>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Sun" title="Sun">
+          Sun
+         </a>
+        </td>
+        <td align="center">
+         31′31″ – 32′33″
+        </td>
+        <td>
+         30–31 times the maximum value for Venus (orange bar below) / 1891–1953″
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Moon" title="Moon">
+          Moon
+         </a>
+        </td>
+        <td align="center">
+         29′20″ – 34′6″
+        </td>
+        <td>
+         28–32.5 times the maximum value for Venus (orange bar below) / 1760–2046″
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Helix_Nebula" title="Helix Nebula">
+          Helix Nebula
+         </a>
+        </td>
+        <td align="center">
+         about 16′ by 28′
+        </td>
+        <td>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Spire in
+         <a href="/wiki/Eagle_Nebula" title="Eagle Nebula">
+          Eagle Nebula
+         </a>
+        </td>
+        <td align="center">
+         4′40″
+        </td>
+        <td>
+         length is 280″
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Venus" title="Venus">
+          Venus
+         </a>
+        </td>
+        <td align="center">
+         9.67″ – 1′3″
+        </td>
+        <td>
+         <hr style="width:96.7px;height:8px;"/>
+         <hr style="width:630px;height:8px;background:orange"/>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Jupiter" title="Jupiter">
+          Jupiter
+         </a>
+        </td>
+        <td align="center">
+         29.80″ – 50.59″
+        </td>
+        <td>
+         <hr style="width:298px;height:8px;"/>
+         <hr style="width:490.6px;height:8px;"/>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Saturn" title="Saturn">
+          Saturn
+         </a>
+        </td>
+        <td align="center">
+         14.50″ – 21.37″
+        </td>
+        <td>
+         <hr style="width:145px;height:8px;"/>
+         <hr style="width:199.2px;height:8px;"/>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Mars" title="Mars">
+          Mars
+         </a>
+        </td>
+        <td align="center">
+         3.49″ – 25.13″
+        </td>
+        <td>
+         <hr style="width:35px;height:8px;"/>
+         <hr style="width:250.8px;height:8px;"/>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Mercury_(planet)" title="Mercury (planet)">
+          Mercury
+         </a>
+        </td>
+        <td align="center">
+         4.54″ – 13.02″
+        </td>
+        <td>
+         <hr style="width:45.4px;height:8px;"/>
+         <hr style="width:130.2px;height:8px;"/>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Uranus" title="Uranus">
+          Uranus
+         </a>
+        </td>
+        <td align="center">
+         3.31″ – 4.08″
+        </td>
+        <td>
+         <hr style="width:33.1px;height:8px;"/>
+         <hr style="width:40.4px;height:8px;"/>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Neptune" title="Neptune">
+          Neptune
+         </a>
+        </td>
+        <td align="center">
+         2.17″ – 2.37″
+        </td>
+        <td>
+         <hr style="width:21.7px;height:8px;"/>
+         <hr style="width:23.6px;height:8px;"/>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Ceres_(dwarf_planet)" title="Ceres (dwarf planet)">
+          Ceres
+         </a>
+        </td>
+        <td align="center">
+         0.33″ – 0.84″
+        </td>
+        <td>
+         <hr style="width:3.3px;height:8px;"/>
+         <hr style="width:8.4px;height:8px;"/>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/4_Vesta" title="4 Vesta">
+          Vesta
+         </a>
+        </td>
+        <td align="center">
+         0.20″ – 0.64″
+        </td>
+        <td>
+         <hr style="width:2px;height:8px;"/>
+         <hr style="width:6.4px;height:8px;"/>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Pluto" title="Pluto">
+          Pluto
+         </a>
+        </td>
+        <td align="center">
+         0.065″ – 0.116″
+        </td>
+        <td>
+         <hr style="width:0.63px;height:8px;"/>
+         <hr style="width:1.15px;height:8px;"/>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         "
+         <a class="mw-redirect" href="/wiki/Planet_Jehoshaphat" title="Planet Jehoshaphat">
+          Planet Jehoshaphat
+         </a>
+         " (hypothetical)
+         <sup class="reference" id="cite_ref-7">
+          <a href="#cite_note-7">
+           [7]
+          </a>
+         </sup>
+        </td>
+        <td align="center">
+         0.015″ – 0.18″
+        </td>
+        <td>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/R_Doradus" title="R Doradus">
+          R Doradus
+         </a>
+        </td>
+        <td align="center">
+         0.052″ – 0.062″
+        </td>
+        <td>
+         <hr style="width:0.52px;height:8px;"/>
+         <hr style="width:0.62px;height:8px;"/>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Betelgeuse" title="Betelgeuse">
+          Betelgeuse
+         </a>
+        </td>
+        <td align="center">
+         0.049″ – 0.060″
+        </td>
+        <td>
+         <hr style="width:0.49px;height:8px;"/>
+         <hr style="width:0.6px;height:8px;"/>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Eris_(dwarf_planet)" title="Eris (dwarf planet)">
+          Eris
+         </a>
+        </td>
+        <td align="center">
+         0.034″ – 0.089″
+        </td>
+        <td>
+         <hr style="width:0.34px;height:8px;"/>
+         <hr style="width:0.89px;height:8px;"/>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Alphard" title="Alphard">
+          Alphard
+         </a>
+        </td>
+        <td align="center">
+         0.00909″
+        </td>
+        <td>
+         <hr style="width:0.09px;height:16px;"/>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Alpha_Centauri_A" title="Alpha Centauri A">
+          Alpha Centauri A
+         </a>
+        </td>
+        <td align="center">
+         0.007″
+        </td>
+        <td>
+         <hr style="width:0.07px;height:16px;"/>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Canopus" title="Canopus">
+          Canopus
+         </a>
+        </td>
+        <td align="center">
+         0.006″
+        </td>
+        <td>
+         <hr style="width:0.06px;height:16px;"/>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Sirius" title="Sirius">
+          Sirius
+         </a>
+        </td>
+        <td align="center">
+         0.005936″
+        </td>
+        <td>
+         <hr style="width:0.06px;height:16px;"/>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Altair" title="Altair">
+          Altair
+         </a>
+        </td>
+        <td align="center">
+         0.003″
+        </td>
+        <td>
+         <hr style="width:0.03px;height:16px;"/>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Deneb" title="Deneb">
+          Deneb
+         </a>
+        </td>
+        <td align="center">
+         0.002″
+        </td>
+        <td>
+         <hr style="width:0.02px;height:16px;"/>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Proxima_Centauri" title="Proxima Centauri">
+          Proxima Centauri
+         </a>
+        </td>
+        <td align="center">
+         0.001″
+        </td>
+        <td>
+         <hr style="width:0.01px;height:16px;"/>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Alnitak" title="Alnitak">
+          Alnitak
+         </a>
+        </td>
+        <td align="center">
+         0.0005″
+        </td>
+        <td>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         A star like
+         <a href="/wiki/Alnitak" title="Alnitak">
+          Alnitak
+         </a>
+         at a distance where the
+         <a class="mw-redirect" href="/wiki/Hubble_space_telescope" title="Hubble space telescope">
+          Hubble space telescope
+         </a>
+         would just be able to see it
+         <sup class="reference" id="cite_ref-8">
+          <a href="#cite_note-8">
+           [8]
+          </a>
+         </sup>
+        </td>
+        <td align="center">
+         <span class="nowrap">
+          <span class="sortkey" style="display:none">
+           6990600000000000000♠
+          </span>
+          6
+          <span style="margin-left:0.25em;margin-right:0.15em;">
+           ×
+          </span>
+          10
+          <sup>
+           −10
+          </sup>
+         </span>
+         arcsec
+        </td>
+        <td>
+        </td>
+       </tr>
+      </table>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:302px;">
+        <a class="image" href="/wiki/File:Comparison_angular_diameter_solar_system.svg">
+         <img alt="" class="thumbimage" data-file-height="512" data-file-width="512" height="300" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Comparison_angular_diameter_solar_system.svg/300px-Comparison_angular_diameter_solar_system.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Comparison_angular_diameter_solar_system.svg/450px-Comparison_angular_diameter_solar_system.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Comparison_angular_diameter_solar_system.svg/600px-Comparison_angular_diameter_solar_system.svg.png 2x" width="300"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Comparison_angular_diameter_solar_system.svg" title="Enlarge">
+          </a>
+         </div>
+         Comparison of angular diameter of the Sun, Moon and planets. To get a true representation of the sizes, view the image at a distance of 103 times the width of the "Moon: max." circle. For example, if this circle is 5 cm wide on your monitor, view it from 5.15 m away.
+        </div>
+       </div>
+      </div>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:252px;">
+        <a class="image" href="/wiki/File:Jupiter.mit.Io.Ganymed.Europa.Calisto.Vollmond.10.4.2017.jpg">
+         <img alt="" class="thumbimage" data-file-height="3200" data-file-width="3200" height="250" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Jupiter.mit.Io.Ganymed.Europa.Calisto.Vollmond.10.4.2017.jpg/250px-Jupiter.mit.Io.Ganymed.Europa.Calisto.Vollmond.10.4.2017.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Jupiter.mit.Io.Ganymed.Europa.Calisto.Vollmond.10.4.2017.jpg/375px-Jupiter.mit.Io.Ganymed.Europa.Calisto.Vollmond.10.4.2017.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Jupiter.mit.Io.Ganymed.Europa.Calisto.Vollmond.10.4.2017.jpg/500px-Jupiter.mit.Io.Ganymed.Europa.Calisto.Vollmond.10.4.2017.jpg 2x" width="250"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Jupiter.mit.Io.Ganymed.Europa.Calisto.Vollmond.10.4.2017.jpg" title="Enlarge">
+          </a>
+         </div>
+         This photo compares the apparent sizes of
+         <a href="/wiki/Jupiter" title="Jupiter">
+          Jupiter
+         </a>
+         and its four
+         <a href="/wiki/Galilean_moons" title="Galilean moons">
+          Galilean moons
+         </a>
+         (
+         <a href="/wiki/Callisto_(moon)" title="Callisto (moon)">
+          Callisto
+         </a>
+         at maximum
+         <a href="/wiki/Elongation_(astronomy)" title="Elongation (astronomy)">
+          elongation
+         </a>
+         ) with the diameter of the
+         <a href="/wiki/Full_moon" title="Full moon">
+          full moon
+         </a>
+         's disk during their
+         <a href="/wiki/Conjunction_(astronomy)" title="Conjunction (astronomy)">
+          conjunction
+         </a>
+         on 10 April 2017.
+        </div>
+       </div>
+      </div>
+      <p>
+       The table shows that the angular diameter of Sun, when seen from Earth is approximately 32 arcminutes (1920 arcseconds or 0.53 degrees), as illustrated above.
+      </p>
+      <p>
+       Thus the angular diameter of the Sun is about 250,000 times that of Sirius (Sirius has twice the diameter and its distance is 500,000 times as much; the Sun is 10
+       <sup>
+        10
+       </sup>
+       times as bright, corresponding to an angular diameter ratio of 10
+       <sup>
+        5
+       </sup>
+       , so Sirius is roughly 6 times as bright per unit
+       <a href="/wiki/Solid_angle" title="Solid angle">
+        solid angle
+       </a>
+       ).
+      </p>
+      <p>
+       The angular diameter of the Sun is also about 250,000 times that of Alpha Centauri A (it has about the same diameter and the distance is 250,000 times as much; the Sun is 4×10
+       <sup>
+        10
+       </sup>
+       times as bright, corresponding to an angular diameter ratio of 200,000, so Alpha Centauri A is a little brighter per unit solid angle).
+      </p>
+      <p>
+       The angular diameter of the Sun is about the same as that of the Moon (the Sun's diameter is 400 times as large and its distance also; the Sun is 200,000 to 500,000 times as bright as the full Moon (figures vary), corresponding to an angular diameter ratio of 450 to 700, so a celestial body with a diameter of 2.5–4″ and the same brightness per unit solid angle would have the same brightness as the full Moon).
+      </p>
+      <p>
+       Even though Pluto is physically larger than Ceres, when viewed from Earth (e.g., through the
+       <a href="/wiki/Hubble_Space_Telescope" title="Hubble Space Telescope">
+        Hubble Space Telescope
+       </a>
+       ) Ceres has a much larger apparent size.
+      </p>
+      <p>
+       While angular sizes measured in degrees are useful for larger patches of sky (in the constellation of Orion, for example, the three stars of the belt cover about 4.5 degrees of angular size), we need much finer units when talking about the angular size of galaxies, nebulae or other objects of the night sky. Degrees, therefore, are subdivided as follows:
+      </p>
+      <ul>
+       <li>
+        360
+        <a href="/wiki/Degree_(angle)" title="Degree (angle)">
+         degrees
+        </a>
+        (°) in a full circle
+       </li>
+       <li>
+        60
+        <a class="mw-redirect" href="/wiki/Arc-minute" title="Arc-minute">
+         arc-minutes
+        </a>
+        (′) in one degree
+       </li>
+       <li>
+        60
+        <a class="mw-redirect" href="/wiki/Arc-second" title="Arc-second">
+         arc-seconds
+        </a>
+        (″) in one arc-minute
+       </li>
+      </ul>
+      <p>
+       To put this in perspective, the full moon viewed from Earth is about ​
+       <span class="frac nowrap">
+        <sup>
+         1
+        </sup>
+        ⁄
+        <sub>
+         2
+        </sub>
+       </span>
+       degree, or 30 arc minutes (or 1800 arc-seconds). The Moon's motion across the sky can be measured in angular size: approximately 15 degrees every hour, or 15 arc-seconds per second. A one-mile-long line painted on the face of the Moon would appear to us to be about one arc-second in length.
+      </p>
+      <p>
+       In astronomy, it is typically difficult to directly measure the distance to an object. But the object may have a known physical size (perhaps it is similar to a closer object with known distance) and a measurable angular diameter. In that case, the angular diameter formula can be inverted to yield the
+       <a href="/wiki/Angular_diameter_distance" title="Angular diameter distance">
+        Angular diameter distance
+       </a>
+       to distant objects as
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle d\equiv 2D\tan \left({\frac {\delta }{2}}\right)}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               d
+              </mi>
+              <mo>
+               ≡
+               <!-- ≡ -->
+              </mo>
+              <mn>
+               2
+              </mn>
+              <mi>
+               D
+              </mi>
+              <mi>
+               tan
+              </mi>
+              <mo>
+               ⁡
+               <!-- ⁡ -->
+              </mo>
+              <mrow>
+               <mo>
+                (
+               </mo>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mfrac>
+                 <mi>
+                  δ
+                  <!-- δ -->
+                 </mi>
+                 <mn>
+                  2
+                 </mn>
+                </mfrac>
+               </mrow>
+               <mo>
+                )
+               </mo>
+              </mrow>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle d\equiv 2D\tan \left({\frac {\delta }{2}}\right)}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="d\equiv 2D\tan \left({\frac {\delta }{2}}\right)" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5ccbc348b037c7d504bb64fb75e064f79ccf74b8" style="vertical-align: -2.505ex; width:16.568ex; height:6.176ex;"/>
+        </span>
+        .
+       </dd>
+      </dl>
+      <p>
+       In non-Euclidean space, such as our expanding universe, the angular diameter distance is only one of several definitions of distance, so that there can be different "distances" to the same object. See
+       <a href="/wiki/Distance_measures_(cosmology)" title="Distance measures (cosmology)">
+        Distance measures (cosmology)
+       </a>
+       .
+      </p>
+      <h2>
+       <span class="mw-headline" id="Non-circular_objects">
+        Non-circular objects
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Angular_diameter&amp;action=edit&amp;section=4" title="Edit section: Non-circular objects">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Many
+       <a class="mw-redirect" href="/wiki/Deep_sky_object" title="Deep sky object">
+        deep sky objects
+       </a>
+       such as
+       <a class="mw-redirect" href="/wiki/Galaxies" title="Galaxies">
+        galaxies
+       </a>
+       and
+       <a href="/wiki/Nebula" title="Nebula">
+        nebulas
+       </a>
+       appear as non-circular, and are thus typically given two measures of diameter:
+       <i>
+        Major Diameter
+       </i>
+       and
+       <i>
+        Minor Diameter
+       </i>
+       . For example, the
+       <a href="/wiki/Small_Magellanic_Cloud" title="Small Magellanic Cloud">
+        Small Magellanic Cloud
+       </a>
+       has a visual apparent diameter of 5° 20′ × 3° 5′.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Defect_of_illumination">
+        Defect of illumination
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Angular_diameter&amp;action=edit&amp;section=5" title="Edit section: Defect of illumination">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Defect of illumination is the maximum angular width of the unilluminated part of a celestial body seen by a given observer. For example, if an object is 40 seconds of arc across and is 75 percent illuminated, the defect of illumination is 10 seconds of arc.
+      </p>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Angular_diameter&amp;action=edit&amp;section=6" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a href="/wiki/Angular_diameter_distance" title="Angular diameter distance">
+         Angular diameter distance
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Angular_resolution" title="Angular resolution">
+         Angular resolution
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Solid_angle" title="Solid angle">
+         Solid angle
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Visual_acuity" title="Visual acuity">
+         Visual acuity
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Visual_angle" title="Visual angle">
+         Visual angle
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Visual_Angle_Illusion" title="Visual Angle Illusion">
+         Visual Angle Illusion
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/List_of_stars_with_resolved_images" title="List of stars with resolved images">
+         List of stars with resolved images
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Angular_diameter&amp;action=edit&amp;section=7" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist" style="list-style-type: decimal;">
+       <div class="mw-references-wrap">
+        <ol class="references">
+         <li id="cite_note-1">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-1">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           This can be derived using the formula for the length of a cord found at
+           <a class="external free" href="http://mathworld.wolfram.com/CircularSegment.html" rel="nofollow">
+            http://mathworld.wolfram.com/CircularSegment.html
+           </a>
+          </span>
+         </li>
+         <li id="cite_note-2">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-2">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <a class="external free" href="http://www.mathstat.concordia.ca/faculty/rhall/mc/arctan.pdf" rel="nofollow">
+            http://www.mathstat.concordia.ca/faculty/rhall/mc/arctan.pdf
+           </a>
+          </span>
+         </li>
+         <li id="cite_note-3">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-3">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://web.archive.org/web/20150121044615/https://dept.astro.lsa.umich.edu/ugactivities/Labs/coords/index.html" rel="nofollow">
+             "Archived copy"
+            </a>
+            . Archived from
+            <a class="external text" href="https://dept.astro.lsa.umich.edu/ugactivities/Labs/coords/index.html" rel="nofollow">
+             the original
+            </a>
+            on 2015-01-21
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              2015-01-21
+             </span>
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=https%3A%2F%2Fdept.astro.lsa.umich.edu%2Fugactivities%2FLabs%2Fcoords%2Findex.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAngular+diameter">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-4">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-4">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://www.bartbusschots.ie/s/2013/06/08/photographing-satellites/" rel="nofollow">
+             "Photographing Satellites"
+            </a>
+            . 8 June 2013.
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Photographing+Satellites&amp;rft.date=2013-06-08&amp;rft_id=https%3A%2F%2Fwww.bartbusschots.ie%2Fs%2F2013%2F06%2F08%2Fphotographing-satellites%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAngular+diameter">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-5">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-5">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <a class="extiw" href="https://en.wikiversity.org/wiki/Physics_and_Astronomy_Labs/Angular_size" title="v:Physics and Astronomy Labs/Angular size">
+            Wikiversity: Physics and Astronomy Labs/Angular size
+           </a>
+          </span>
+         </li>
+         <li id="cite_note-6">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-6">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            Michael A. Seeds; Dana E. Backman (2010).
+            <i>
+             Stars and Galaxies
+            </i>
+            (7 ed.). Brooks Cole. p. 39.
+            <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+             ISBN
+            </a>
+            <a href="/wiki/Special:BookSources/978-0-538-73317-5" title="Special:BookSources/978-0-538-73317-5">
+             978-0-538-73317-5
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Stars+and+Galaxies&amp;rft.pages=39&amp;rft.edition=7&amp;rft.pub=Brooks+Cole&amp;rft.date=2010&amp;rft.isbn=978-0-538-73317-5&amp;rft.au=Michael+A.+Seeds&amp;rft.au=Dana+E.+Backman&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAngular+diameter">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-7">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-7">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           The figures 0.015″ and 0.18″ are based on lower and upper estimates of its diameter (13 000 km and 26 000 km) at estimated aphelion and perihelion (1200 AU and 200 AU) respectively.
+          </span>
+         </li>
+         <li id="cite_note-8">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-8">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           800 000 times smaller angular diameter than that of Alnitak as seen from Earth. Alnitak is a blue star so it gives off a lot of light for its size. If it were 800 000 times further away then it would be magnitude 31.5, at the limit of what Hubble can see.
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Angular_diameter&amp;action=edit&amp;section=8" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a class="external text" href="https://web.archive.org/web/19971007100829/http://ceres.hsc.edu/homepages/classes/astronomy/fall97/Mathematics/sec9.html" rel="nofollow">
+         Small-Angle Formula
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://www.astronomynotes.com/solarsys/s2.htm" rel="nofollow">
+         Visual Aid to the Apparent Size of the Planets
+        </a>
+       </li>
+      </ul>
+      <!-- 
+NewPP limit report
+Parsed by mw1244
+Cached time: 20180314131647
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.164 seconds
+Real time usage: 0.255 seconds
+Preprocessor visited node count: 572/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 8476/2097152 bytes
+Template argument size: 118/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 5356/5000000 bytes
+Lua time usage: 0.073/10.000 seconds
+Lua memory usage: 3.26 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  168.616      1 -total
+ 38.85%   65.502      1 Template:Reflist
+ 28.73%   48.449      1 Template:Refimprove
+ 27.26%   45.970      2 Template:Cite_web
+ 20.63%   34.780      1 Template:Val
+ 18.10%   30.522      1 Template:Ambox
+  5.38%    9.073      2 Template:DEC
+  4.05%    6.833      2 Template:Str_rep
+  2.95%    4.981      1 Template:Cite_book
+  2.51%    4.237      1 Template:Frac
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:826723-0!canonical!math=5 and timestamp 20180314131647 and revision id 818068017
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Angular_diameter&amp;oldid=818068017">
+      https://en.wikipedia.org/w/index.php?title=Angular_diameter&amp;oldid=818068017
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Elementary_geometry" title="Category:Elementary geometry">
+         Elementary geometry
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Astrometry" title="Category:Astrometry">
+         Astrometry
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Angle" title="Category:Angle">
+         Angle
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Articles_needing_additional_references_from_September_2009" title="Category:Articles needing additional references from September 2009">
+         Articles needing additional references from September 2009
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">
+         All articles needing additional references
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Angular+diameter" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Angular+diameter" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Angular_diameter" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Angular_diameter" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Angular_diameter">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Angular_diameter&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Angular_diameter&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Angular_diameter" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Angular_diameter" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Angular_diameter&amp;oldid=818068017" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Angular_diameter&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q718647" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Angular_diameter&amp;id=818068017" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Angular+diameter">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Angular+diameter&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Angular_diameter&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%82%D8%B7%D8%B1_%D8%B2%D8%A7%D9%88" hreflang="ar" lang="ar" title="قطر زاو – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ast">
+        <a class="interlanguage-link-target" href="https://ast.wikipedia.org/wiki/Di%C3%A1metru_angular" hreflang="ast" lang="ast" title="Diámetru angular – Asturian">
+         Asturianu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Di%C3%A0metre_angular" hreflang="ca" lang="ca" title="Diàmetre angular – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/%C3%9Ahlov%C3%A1_velikost" hreflang="cs" lang="cs" title="Úhlová velikost – Czech">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Vinkeldiameter" hreflang="da" lang="da" title="Vinkeldiameter – Danish">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Scheinbare_Gr%C3%B6%C3%9Fe" hreflang="de" lang="de" title="Scheinbare Größe – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-el">
+        <a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%A6%CE%B1%CE%B9%CE%BD%CF%8C%CE%BC%CE%B5%CE%BD%CE%B7_%CE%B4%CE%B9%CE%AC%CE%BC%CE%B5%CF%84%CF%81%CE%BF%CF%82" hreflang="el" lang="el" title="Φαινόμενη διάμετρος – Greek">
+         Ελληνικά
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Di%C3%A1metro_angular" hreflang="es" lang="es" title="Diámetro angular – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eo">
+        <a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Angula_diametro" hreflang="eo" lang="eo" title="Angula diametro – Esperanto">
+         Esperanto
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eu">
+        <a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Diametro_angeluar" hreflang="eu" lang="eu" title="Diametro angeluar – Basque">
+         Euskara
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%82%D8%B7%D8%B1_%D8%B2%D8%A7%D9%88%DB%8C%D9%87%E2%80%8C%D8%A7%DB%8C" hreflang="fa" lang="fa" title="قطر زاویه‌ای – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Taille_apparente" hreflang="fr" lang="fr" title="Taille apparente – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%8B%9C%EC%A7%81%EA%B2%BD" hreflang="ko" lang="ko" title="시직경 – Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hi">
+        <a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%95%E0%A5%8B%E0%A4%A3%E0%A5%80%E0%A4%AF_%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8" hreflang="hi" lang="hi" title="कोणीय व्यास – Hindi">
+         हिन्दी
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hr">
+        <a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Kutni_promjer" hreflang="hr" lang="hr" title="Kutni promjer – Croatian">
+         Hrvatski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Diameter_sudut" hreflang="id" lang="id" title="Diameter sudut – Indonesian">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Diametro_angolare" hreflang="it" lang="it" title="Diametro angolare – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he">
+        <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%A7%D7%95%D7%98%D7%A8_%D7%96%D7%95%D7%95%D7%99%D7%AA%D7%99" hreflang="he" lang="he" title="קוטר זוויתי – Hebrew">
+         עברית
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lb">
+        <a class="interlanguage-link-target" href="https://lb.wikipedia.org/wiki/W%C3%A9nkelduerchmiesser" hreflang="lb" lang="lb" title="Wénkelduerchmiesser – Luxembourgish">
+         Lëtzebuergesch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hu">
+        <a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Sz%C3%B6g%C3%A1tm%C3%A9r%C5%91" hreflang="hu" lang="hu" title="Szögátmérő – Hungarian">
+         Magyar
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mk">
+        <a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%90%D0%B3%D0%BE%D0%BB%D0%BD%D0%B0_%D0%B3%D0%BE%D0%BB%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0" hreflang="mk" lang="mk" title="Аголна големина – Macedonian">
+         Македонски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E8%A7%92%E7%9B%B4%E5%BE%84" hreflang="ja" lang="ja" title="角直径 – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Vinkeldiameter" hreflang="no" lang="no" title="Vinkeldiameter – Norwegian">
+         Norsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Rozmiar_k%C4%85towy" hreflang="pl" lang="pl" title="Rozmiar kątowy – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Di%C3%A2metro_angular" hreflang="pt" lang="pt" title="Diâmetro angular – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ro">
+        <a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Diametru_unghiular" hreflang="ro" lang="ro" title="Diametru unghiular – Romanian">
+         Română
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A3%D0%B3%D0%BB%D0%BE%D0%B2%D0%BE%D0%B9_%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80" hreflang="ru" lang="ru" title="Угловой размер – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-simple">
+        <a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Angular_size" hreflang="simple" lang="simple" title="Angular size – Simple English">
+         Simple English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sl">
+        <a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Kotna_velikost" hreflang="sl" lang="sl" title="Kotna velikost – Slovenian">
+         Slovenščina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sh">
+        <a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Kutni_promjer" hreflang="sh" lang="sh" title="Kutni promjer – Serbo-Croatian">
+         Srpskohrvatski / српскохрватски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Kulmal%C3%A4pimitta" hreflang="fi" lang="fi" title="Kulmaläpimitta – Finnish">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Vinkeldiameter" hreflang="sv" lang="sv" title="Vinkeldiameter – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-th">
+        <a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B8%A1%E0%B8%B8%E0%B8%A1" hreflang="th" lang="th" title="ขนาดเชิงมุม – Thai">
+         ไทย
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tr">
+        <a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/A%C3%A7%C4%B1sal_%C3%A7ap" hreflang="tr" lang="tr" title="Açısal çap – Turkish">
+         Türkçe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9A%D1%83%D1%82%D0%BE%D0%B2%D0%B8%D0%B9_%D1%80%D0%BE%D0%B7%D0%BC%D1%96%D1%80" hreflang="uk" lang="uk" title="Кутовий розмір – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vi">
+        <a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/%C4%90%C6%B0%E1%BB%9Dng_k%C3%ADnh_g%C3%B3c" hreflang="vi" lang="vi" title="Đường kính góc – Vietnamese">
+         Tiếng Việt
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-wuu">
+        <a class="interlanguage-link-target" href="https://wuu.wikipedia.org/wiki/%E8%A7%92%E7%9B%B4%E5%BE%91" hreflang="wuu" lang="wuu" title="角直徑 – Wu Chinese">
+         吴语
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh-yue">
+        <a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E8%A7%92%E7%9B%B4%E5%BE%91" hreflang="zh-yue" lang="zh-yue" title="角直徑 – Cantonese">
+         粵語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E8%A7%92%E7%9B%B4%E5%BE%91" hreflang="zh" lang="zh" title="角直徑 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q718647#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 1 January 2018, at 09:33.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Angular_diameter&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.164","walltime":"0.255","ppvisitednodes":{"value":572,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":8476,"limit":2097152},"templateargumentsize":{"value":118,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":5356,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  168.616      1 -total"," 38.85%   65.502      1 Template:Reflist"," 28.73%   48.449      1 Template:Refimprove"," 27.26%   45.970      2 Template:Cite_web"," 20.63%   34.780      1 Template:Val"," 18.10%   30.522      1 Template:Ambox","  5.38%    9.073      2 Template:DEC","  4.05%    6.833      2 Template:Str_rep","  2.95%    4.981      1 Template:Cite_book","  2.51%    4.237      1 Template:Frac"]},"scribunto":{"limitreport-timeusage":{"value":"0.073","limit":"10.000"},"limitreport-memusage":{"value":3413874,"limit":52428800}},"cachereport":{"origin":"mw1244","timestamp":"20180314131647","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":77,"wgHostname":"mw1250"});});
+  </script>
+ </body>
+</html>

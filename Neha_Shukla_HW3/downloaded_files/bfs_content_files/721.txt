@@ -1,0 +1,2142 @@
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Solar neutrino - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Solar_neutrino","wgTitle":"Solar neutrino","wgCurRevisionId":800442770,"wgRevisionId":800442770,"wgArticleId":1929534,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles needing page number citations from October 2013","CS1 maint: Uses authors parameter","Nuclear fusion","Sun","Neutrino astronomy"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Solar_neutrino","wgRelevantArticleId":1929534,"wgRequestId":"WrP9KQpAADkAAHSM6q8AAAAD","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q2216633","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.25" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Proton_proton_cycle.svg/1200px-Proton_proton_cycle.svg.png" property="og:image"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Solar_neutrino" rel="alternate"/>
+  <link href="/w/index.php?title=Solar_neutrino&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Solar_neutrino&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Solar_neutrino" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Solar_neutrino rootpage-Solar_neutrino skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Solar neutrino
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:352px;">
+        <a class="image" href="/wiki/File:Proton_proton_cycle.svg">
+         <img alt="" class="thumbimage" data-file-height="930" data-file-width="1400" height="233" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Proton_proton_cycle.svg/350px-Proton_proton_cycle.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Proton_proton_cycle.svg/525px-Proton_proton_cycle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Proton_proton_cycle.svg/700px-Proton_proton_cycle.svg.png 2x" width="350"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Proton_proton_cycle.svg" title="Enlarge">
+          </a>
+         </div>
+         Solar neutrinos (
+         <a class="mw-redirect" href="/wiki/Proton-proton_chain_reaction" title="Proton-proton chain reaction">
+          proton-proton chain
+         </a>
+         ) in the
+         <a class="mw-redirect" href="/wiki/Standard_Solar_Model" title="Standard Solar Model">
+          Standard Solar Model
+         </a>
+        </div>
+       </div>
+      </div>
+      <p>
+       <a href="/wiki/Electron_neutrino" title="Electron neutrino">
+        Electron neutrinos
+       </a>
+       are produced in the
+       <a href="/wiki/Sun" title="Sun">
+        Sun
+       </a>
+       as a product of
+       <a href="/wiki/Nuclear_fusion" title="Nuclear fusion">
+        nuclear fusion
+       </a>
+       . Solar neutrinos constitute by far the largest flux of neutrinos from natural sources observed on Earth, as compared with e.g.
+       <a href="/wiki/Neutrino#Atmospheric" title="Neutrino">
+        atmospheric neutrinos
+       </a>
+       or the
+       <a href="/wiki/Diffuse_supernova_neutrino_background" title="Diffuse supernova neutrino background">
+        diffuse supernova neutrino background
+       </a>
+       .
+       <sup class="reference" id="cite_ref-1">
+        <a href="#cite_note-1">
+         [1]
+        </a>
+       </sup>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Production_mechanisms">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Production mechanisms
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#Observed_data">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Observed data
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-3">
+         <a href="#See_also">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-4">
+         <a href="#References">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-5">
+         <a href="#Further_reading">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           Further reading
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Production_mechanisms">
+        Production mechanisms
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Solar_neutrino&amp;action=edit&amp;section=1" title="Edit section: Production mechanisms">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Solar neutrinos are produced in the core of the sun through various
+       <a href="/wiki/Nuclear_fusion" title="Nuclear fusion">
+        nuclear fusion
+       </a>
+       reactions, each of which occurs at a particular rate and leads to its own spectrum of neutrinos. Details of these reactions are listed below.
+      </p>
+      <p>
+       The main contribution comes from the
+       <a class="mw-redirect" href="/wiki/Proton-proton_reaction" title="Proton-proton reaction">
+        proton-proton reaction
+       </a>
+       . The reaction is:
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle p+p\to {\text{d}}+e^{+}+\nu _{e}\!\ }" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               p
+              </mi>
+              <mo>
+               +
+              </mo>
+              <mi>
+               p
+              </mi>
+              <mo stretchy="false">
+               →
+               <!-- → -->
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mtext>
+                d
+               </mtext>
+              </mrow>
+              <mo>
+               +
+              </mo>
+              <msup>
+               <mi>
+                e
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mo>
+                 +
+                </mo>
+               </mrow>
+              </msup>
+              <mo>
+               +
+              </mo>
+              <msub>
+               <mi>
+                ν
+                <!-- ν -->
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 e
+                </mi>
+               </mrow>
+              </msub>
+              <mspace width="negativethinmathspace">
+              </mspace>
+              <mtext>
+              </mtext>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle p+p\to {\text{d}}+e^{+}+\nu _{e}\!\ }
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="p+p\to {\text{d}}+e^{{+}}+\nu _{e}\!\ " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f3693f79d52dceabfc8e358e7854733feea06de6" style="vertical-align: -0.671ex; margin-left: -0.089ex; width:20.791ex; height:2.843ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       or in words:
+      </p>
+      <dl>
+       <dd>
+        2
+        <a class="mw-redirect" href="/wiki/Protons" title="Protons">
+         protons
+        </a>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle \to }" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mo stretchy="false">
+               →
+               <!-- → -->
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle \to }
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="\to " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1daab843254cfcb23a643070cf93f3badc4fbbbd" style="vertical-align: -0.338ex; width:2.324ex; height:1.843ex;"/>
+        </span>
+        <a class="mw-redirect" href="/wiki/Deuteron" title="Deuteron">
+         deuteron
+        </a>
+        +
+        <a href="/wiki/Positron" title="Positron">
+         positron
+        </a>
+        +
+        <a href="/wiki/Electron_neutrino" title="Electron neutrino">
+         electron neutrino
+        </a>
+        .
+       </dd>
+      </dl>
+      <p>
+       From this reaction, 86% of all solar neutrinos are produced. As seen in figure, Solar neutrinos (proton-proton chain) in the Standard Solar Model, the deuteron will fuse with another proton to create a
+       <sup>
+        3
+       </sup>
+       He nucleus and a gamma ray. This reaction can be seen as:
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle d+p\to {^{3}}He+\gamma \ }" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               d
+              </mi>
+              <mo>
+               +
+              </mo>
+              <mi>
+               p
+              </mi>
+              <mo stretchy="false">
+               →
+               <!-- → -->
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <msup>
+                <mi>
+                </mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                 <mn>
+                  3
+                 </mn>
+                </mrow>
+               </msup>
+              </mrow>
+              <mi>
+               H
+              </mi>
+              <mi>
+               e
+              </mi>
+              <mo>
+               +
+              </mo>
+              <mi>
+               γ
+               <!-- γ -->
+              </mi>
+              <mtext>
+              </mtext>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle d+p\to {^{3}}He+\gamma \ }
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="d+p\to {^{3}}He+\gamma \ " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/24674502872386151d1c42cfd908f70158a7ba8d" style="vertical-align: -0.838ex; width:17.724ex; height:3.176ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       The isotope
+       <sup>
+        4
+       </sup>
+       He can be produced by using the
+       <sup>
+        3
+       </sup>
+       He in the previous reaction which is seen below.
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle {^{3}}He+{^{3}}He\to {^{4}}He+2p}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mrow class="MJX-TeXAtom-ORD">
+               <msup>
+                <mi>
+                </mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                 <mn>
+                  3
+                 </mn>
+                </mrow>
+               </msup>
+              </mrow>
+              <mi>
+               H
+              </mi>
+              <mi>
+               e
+              </mi>
+              <mo>
+               +
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <msup>
+                <mi>
+                </mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                 <mn>
+                  3
+                 </mn>
+                </mrow>
+               </msup>
+              </mrow>
+              <mi>
+               H
+              </mi>
+              <mi>
+               e
+              </mi>
+              <mo stretchy="false">
+               →
+               <!-- → -->
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <msup>
+                <mi>
+                </mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                 <mn>
+                  4
+                 </mn>
+                </mrow>
+               </msup>
+              </mrow>
+              <mi>
+               H
+              </mi>
+              <mi>
+               e
+              </mi>
+              <mo>
+               +
+              </mo>
+              <mn>
+               2
+              </mn>
+              <mi>
+               p
+              </mi>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle {^{3}}He+{^{3}}He\to {^{4}}He+2p}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{^{3}}He+{^{3}}He\to {^{4}}He+2p" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7f647684183cf89dbbf91da9a62b8f56d51f42b7" style="vertical-align: -0.671ex; width:24.231ex; height:3.009ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       With both helium-3 and helium-4 in the system now, beryllium can be fused by the reaction of one of each helium nucleus as seen in the reaction:
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle {^{3}}He+{^{4}}He\to {^{7}}Be+\gamma \ }" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mrow class="MJX-TeXAtom-ORD">
+               <msup>
+                <mi>
+                </mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                 <mn>
+                  3
+                 </mn>
+                </mrow>
+               </msup>
+              </mrow>
+              <mi>
+               H
+              </mi>
+              <mi>
+               e
+              </mi>
+              <mo>
+               +
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <msup>
+                <mi>
+                </mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                 <mn>
+                  4
+                 </mn>
+                </mrow>
+               </msup>
+              </mrow>
+              <mi>
+               H
+              </mi>
+              <mi>
+               e
+              </mi>
+              <mo stretchy="false">
+               →
+               <!-- → -->
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <msup>
+                <mi>
+                </mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                 <mn>
+                  7
+                 </mn>
+                </mrow>
+               </msup>
+              </mrow>
+              <mi>
+               B
+              </mi>
+              <mi>
+               e
+              </mi>
+              <mo>
+               +
+              </mo>
+              <mi>
+               γ
+               <!-- γ -->
+              </mi>
+              <mtext>
+              </mtext>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle {^{3}}He+{^{4}}He\to {^{7}}Be+\gamma \ }
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{^{3}}He+{^{4}}He\to {^{7}}Be+\gamma \ " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/59a0edd990b21b98ea566f8d7f954ffb9c976be1" style="vertical-align: -0.838ex; width:23.442ex; height:3.176ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       Since there are four protons and only three neutrons, the beryllium can go down two different paths from here. The beryllium could capture an electron and produce a lithium-7 nucleus and an electron neutrino. It can also capture a proton due to the abundance in a star. This will create boron-8. Both these reactions are seen respectively below:
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle {^{7}}Be+e^{-}\to {^{7}}Li+\nu _{e}\ }" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mrow class="MJX-TeXAtom-ORD">
+               <msup>
+                <mi>
+                </mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                 <mn>
+                  7
+                 </mn>
+                </mrow>
+               </msup>
+              </mrow>
+              <mi>
+               B
+              </mi>
+              <mi>
+               e
+              </mi>
+              <mo>
+               +
+              </mo>
+              <msup>
+               <mi>
+                e
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mo>
+                 −
+                 <!-- − -->
+                </mo>
+               </mrow>
+              </msup>
+              <mo stretchy="false">
+               →
+               <!-- → -->
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <msup>
+                <mi>
+                </mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                 <mn>
+                  7
+                 </mn>
+                </mrow>
+               </msup>
+              </mrow>
+              <mi>
+               L
+              </mi>
+              <mi>
+               i
+              </mi>
+              <mo>
+               +
+              </mo>
+              <msub>
+               <mi>
+                ν
+                <!-- ν -->
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 e
+                </mi>
+               </mrow>
+              </msub>
+              <mtext>
+              </mtext>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle {^{7}}Be+e^{-}\to {^{7}}Li+\nu _{e}\ }
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{^{7}}Be+e^{{-}}\to {^{7}}Li+\nu _{e}\ " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4b9e9570bf5e598a42e71a23e4d389bff6d61312" style="vertical-align: -0.671ex; width:21.958ex; height:3.009ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       This reaction produces 14% of the solar neutrinos. The lithium-7 will combine with a proton to produce 2 nuclei of helium-4.
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle {^{7}}Be+p\to {^{8}}B+\gamma \ }" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mrow class="MJX-TeXAtom-ORD">
+               <msup>
+                <mi>
+                </mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                 <mn>
+                  7
+                 </mn>
+                </mrow>
+               </msup>
+              </mrow>
+              <mi>
+               B
+              </mi>
+              <mi>
+               e
+              </mi>
+              <mo>
+               +
+              </mo>
+              <mi>
+               p
+              </mi>
+              <mo stretchy="false">
+               →
+               <!-- → -->
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <msup>
+                <mi>
+                </mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                 <mn>
+                  8
+                 </mn>
+                </mrow>
+               </msup>
+              </mrow>
+              <mi>
+               B
+              </mi>
+              <mo>
+               +
+              </mo>
+              <mi>
+               γ
+               <!-- γ -->
+              </mi>
+              <mtext>
+              </mtext>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle {^{7}}Be+p\to {^{8}}B+\gamma \ }
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{^{7}}Be+p\to {^{8}}B+\gamma \ " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/67133ebf64754fd7f343a6fc29032b1156b5a699" style="vertical-align: -0.838ex; width:19.027ex; height:3.176ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       The boron-8 will beta(+) decay into beryllium-8 due to the extra proton which can be seen below:
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle {^{8}}B\to {^{8}}Be{^{*}}+e^{+}+\nu _{e}\ }" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mrow class="MJX-TeXAtom-ORD">
+               <msup>
+                <mi>
+                </mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                 <mn>
+                  8
+                 </mn>
+                </mrow>
+               </msup>
+              </mrow>
+              <mi>
+               B
+              </mi>
+              <mo stretchy="false">
+               →
+               <!-- → -->
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <msup>
+                <mi>
+                </mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                 <mn>
+                  8
+                 </mn>
+                </mrow>
+               </msup>
+              </mrow>
+              <mi>
+               B
+              </mi>
+              <mi>
+               e
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <msup>
+                <mi>
+                </mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                 <mo>
+                  ∗
+                  <!-- ∗ -->
+                 </mo>
+                </mrow>
+               </msup>
+              </mrow>
+              <mo>
+               +
+              </mo>
+              <msup>
+               <mi>
+                e
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mo>
+                 +
+                </mo>
+               </mrow>
+              </msup>
+              <mo>
+               +
+              </mo>
+              <msub>
+               <mi>
+                ν
+                <!-- ν -->
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 e
+                </mi>
+               </mrow>
+              </msub>
+              <mtext>
+              </mtext>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle {^{8}}B\to {^{8}}Be{^{*}}+e^{+}+\nu _{e}\ }
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle {^{8}}B\to {^{8}}Be{^{*}}+e^{+}+\nu _{e}\ }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/589e34c6926cb06700b0f8c4b64043f1e643c1b7" style="vertical-align: -0.671ex; width:22.391ex; height:3.009ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       The reaction produces about 0.02% of the solar neutrinos. These few solar neutrinos have the larger energies. The asterisk on beryllium-8 indicates that the nucleus is in an excited state.
+       <sup class="reference" id="cite_ref-2">
+        <a href="#cite_note-2">
+         [2]
+        </a>
+       </sup>
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle {^{8}}Be{^{*}}\to {^{4}}He+{^{4}}He}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mrow class="MJX-TeXAtom-ORD">
+               <msup>
+                <mi>
+                </mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                 <mn>
+                  8
+                 </mn>
+                </mrow>
+               </msup>
+              </mrow>
+              <mi>
+               B
+              </mi>
+              <mi>
+               e
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <msup>
+                <mi>
+                </mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                 <mo>
+                  ∗
+                  <!-- ∗ -->
+                 </mo>
+                </mrow>
+               </msup>
+              </mrow>
+              <mo stretchy="false">
+               →
+               <!-- → -->
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <msup>
+                <mi>
+                </mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                 <mn>
+                  4
+                 </mn>
+                </mrow>
+               </msup>
+              </mrow>
+              <mi>
+               H
+              </mi>
+              <mi>
+               e
+              </mi>
+              <mo>
+               +
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <msup>
+                <mi>
+                </mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                 <mn>
+                  4
+                 </mn>
+                </mrow>
+               </msup>
+              </mrow>
+              <mi>
+               H
+              </mi>
+              <mi>
+               e
+              </mi>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle {^{8}}Be{^{*}}\to {^{4}}He+{^{4}}He}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle {^{8}}Be{^{*}}\to {^{4}}He+{^{4}}He}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/549e6afd51140443ad98dd142eed4ba7fe1792b1" style="vertical-align: -0.505ex; width:19.813ex; height:2.843ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       The excited beryllium-8 nucleus then splits into two helium-4 nuclei.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Observed_data">
+        Observed data
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Solar_neutrino&amp;action=edit&amp;section=2" title="Edit section: Observed data">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="floatleft">
+       <a class="image" href="/wiki/File:Solar_neutrino_flux_spectrum.png">
+        <img alt="Solar neutrino flux spectrum.png" data-file-height="644" data-file-width="588" height="644" src="//upload.wikimedia.org/wikipedia/en/c/c8/Solar_neutrino_flux_spectrum.png" width="588"/>
+       </a>
+      </div>
+      <p>
+       The highest flux of solar neutrinos come directly from the proton-proton interaction, and have a low energy, up to 400 keV, as shown in Fig. 1. There are also several other significant production mechanisms, with energies up to 18 MeV.
+       <sup class="reference" id="cite_ref-3">
+        <a href="#cite_note-3">
+         [3]
+        </a>
+       </sup>
+       From the Earth, the amount of neutrino flux at Earth is around 7·10
+       <sup>
+        10
+       </sup>
+       particles·cm
+       <sup>
+        −2
+       </sup>
+       ·s
+       <sup>
+        −1
+       </sup>
+       .
+       <sup class="reference" id="cite_ref-4">
+        <a href="#cite_note-4">
+         [4]
+        </a>
+       </sup>
+       The number of neutrinos can be predicted by the
+       <a class="mw-redirect" href="/wiki/Standard_Solar_Model" title="Standard Solar Model">
+        Standard Solar Model
+       </a>
+       . The detected number of electron neutrinos was only 1/3 of the predicted number, and this was known as the
+       <a href="/wiki/Solar_neutrino_problem" title="Solar neutrino problem">
+        solar neutrino problem
+       </a>
+       . It led to the idea of
+       <a href="/wiki/Neutrino_oscillation" title="Neutrino oscillation">
+        neutrino oscillation
+       </a>
+       and the fact that neutrinos can change flavour. This was confirmed when the total flux of solar neutrinos of all types was measured and it agreed with the earlier predictions of expected electron neutrino flux, as seen by
+       <a href="/wiki/Sudbury_Neutrino_Observatory" title="Sudbury Neutrino Observatory">
+        Sudbury Neutrino Observatory
+       </a>
+       , and thus confirmed that neutrinos have mass. Solar models additionally predict the location within the Sun's core where solar neutrinos should originate from, depending on the nuclear fusion reaction which leads to their production. Future neutrino detectors will be able to detect the incoming direction of these neutrinos with enough precision to measure this effect.
+       <sup class="reference" id="cite_ref-5">
+        <a href="#cite_note-5">
+         [5]
+        </a>
+       </sup>
+      </p>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:MSW_%2B_4_branches.svg">
+         <img alt="" class="thumbimage" data-file-height="544" data-file-width="800" height="150" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/MSW_%2B_4_branches.svg/220px-MSW_%2B_4_branches.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/MSW_%2B_4_branches.svg/330px-MSW_%2B_4_branches.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/08/MSW_%2B_4_branches.svg/440px-MSW_%2B_4_branches.svg.png 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:MSW_%2B_4_branches.svg" title="Enlarge">
+          </a>
+         </div>
+         Theoretical curves of survival probability of solar neutrinos that arrive on day (orange, continuous) or on night (purple, dashed), as a function of the energy of the neutrinos. Also shown the four values of the energy of the neutrinos at which measurements have been performed, corresponding to four different branches of the proton-proton chain.
+        </div>
+       </div>
+      </div>
+      <p>
+       The energy spectrum of solar neutrinos is also predicted by solar models.
+       <sup class="reference" id="cite_ref-6">
+        <a href="#cite_note-6">
+         [6]
+        </a>
+       </sup>
+       It is essential to know this energy spectrum because different neutrino detection experiments are sensitive to different neutrino energy ranges. The
+       <a class="mw-redirect" href="/wiki/Homestake_Experiment" title="Homestake Experiment">
+        Homestake Experiment
+       </a>
+       used
+       <a href="/wiki/Chlorine" title="Chlorine">
+        chlorine
+       </a>
+       and was most sensitive to solar neutrinos produced by the decay of the
+       <a href="/wiki/Isotopes_of_beryllium" title="Isotopes of beryllium">
+        beryllium isotope
+       </a>
+       <sup>
+        7
+       </sup>
+       Be. The
+       <a href="/wiki/Sudbury_Neutrino_Observatory" title="Sudbury Neutrino Observatory">
+        Sudbury Neutrino Observatory
+       </a>
+       is most sensitive to solar neutrinos produced by
+       <sup>
+        8
+       </sup>
+       B. The detectors that use
+       <a href="/wiki/Gallium" title="Gallium">
+        gallium
+       </a>
+       are most sensitive to the solar neutrinos produced by the proton-proton chain reaction process, however they were not able to observe this contribution separately. The observation of the neutrinos from the basic reaction of this chain, proton-proton fusion in deuterium, was achieved for the first time by
+       <a href="/wiki/Borexino" title="Borexino">
+        Borexino
+       </a>
+       in 2014. In 2012 the same collaboration reported detecting low-energy neutrinos for the proton-electron-proton (
+       <a class="mw-redirect" href="/wiki/Proton-proton_chain_reaction#The_pep_reaction" title="Proton-proton chain reaction">
+        pep reaction
+       </a>
+       ) that produces 1 in 400 deuterium nuclei in the sun.
+       <sup class="reference" id="cite_ref-7">
+        <a href="#cite_note-7">
+         [7]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-8">
+        <a href="#cite_note-8">
+         [8]
+        </a>
+       </sup>
+       The detector contained 100 metric tons of liquid and saw on average 3 events each day (due to
+       <a href="/wiki/Isotopes_of_carbon#Carbon-11" title="Isotopes of carbon">
+        carbon 11 production
+       </a>
+       ) from this relatively uncommon
+       <a class="mw-redirect" href="/wiki/Thermonuclear" title="Thermonuclear">
+        thermonuclear
+       </a>
+       reaction. Note that Borexino measured neutrinos of several energies; in this manner they have demonstrated experimentally, for the first time, the pattern of solar neutrino oscillations predicted by the theory. Neutrinos can trigger nuclear reactions. By looking at ancient ores of various ages that have been exposed to solar neutrinos over geologic time, it may be possible to interrogate the luminosity of the Sun over time,
+       <sup class="reference" id="cite_ref-9">
+        <a href="#cite_note-9">
+         [9]
+        </a>
+       </sup>
+       which, according to the
+       <a class="mw-redirect" href="/wiki/Standard_Solar_Model" title="Standard Solar Model">
+        Standard Solar Model
+       </a>
+       , has changed with time.
+      </p>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Solar_neutrino&amp;action=edit&amp;section=3" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a class="mw-redirect" href="/wiki/Neutrino_oscillations" title="Neutrino oscillations">
+         Neutrino oscillations
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Solar_neutrino_problem" title="Solar neutrino problem">
+         Solar neutrino problem
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Neutrino_detector" title="Neutrino detector">
+         Neutrino detector
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Neutral_particle_oscillation" title="Neutral particle oscillation">
+         Neutral particle oscillation
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Solar_neutrino_unit" title="Solar neutrino unit">
+         Solar neutrino unit
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Solar_neutrino&amp;action=edit&amp;section=4" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+       <ol class="references">
+        <li id="cite_note-1">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-1">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation journal">
+           Billard, J.; Strigari, L.; Figueroa-Feliciano, E. (2014).
+           <a class="external text" href="https://arxiv.org/pdf/1307.5458.pdf" rel="nofollow">
+            "Implication of neutrino backgrounds on the reach of next generation dark matter direct detection experiments"
+           </a>
+           <span style="font-size:85%;">
+            (PDF)
+           </span>
+           .
+           <i>
+            Phys. Rev. D
+           </i>
+           .
+           <b>
+            89
+           </b>
+           : 023524.
+           <a href="/wiki/ArXiv" title="ArXiv">
+            arXiv
+           </a>
+           :
+           <span class="plainlinks">
+            <a class="external text" href="//arxiv.org/abs/1307.5458" rel="nofollow">
+             1307.5458
+            </a>
+            <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/>
+           </span>
+           .
+           <a href="/wiki/Bibcode" title="Bibcode">
+            Bibcode
+           </a>
+           :
+           <a class="external text" href="http://adsabs.harvard.edu/abs/2014PhRvD..89b3524B" rel="nofollow">
+            2014PhRvD..89b3524B
+           </a>
+           .
+           <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+            doi
+           </a>
+           :
+           <a class="external text" href="//doi.org/10.1103%2FPhysRevD.89.023524" rel="nofollow">
+            10.1103/PhysRevD.89.023524
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Phys.+Rev.+D&amp;rft.atitle=Implication+of+neutrino+backgrounds+on+the+reach+of+next+generation+dark+matter+direct+detection+experiments&amp;rft.volume=89&amp;rft.pages=023524&amp;rft.date=2014&amp;rft_id=info%3Aarxiv%2F1307.5458&amp;rft_id=info%3Adoi%2F10.1103%2FPhysRevD.89.023524&amp;rft_id=info%3Abibcode%2F2014PhRvD..89b3524B&amp;rft.aulast=Billard&amp;rft.aufirst=J.&amp;rft.au=Strigari%2C+L.&amp;rft.au=Figueroa-Feliciano%2C+E.&amp;rft_id=https%3A%2F%2Farxiv.org%2Fpdf%2F1307.5458.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+neutrino">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-2">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-2">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation" id="CITEREFGrupen2005">
+           Grupen, Claus (2005),
+           <i>
+            Astroparticle Physics
+           </i>
+           , Springer,
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/3-540-25312-2" title="Special:BookSources/3-540-25312-2">
+            3-540-25312-2
+           </a>
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Astroparticle+Physics&amp;rft.pub=Springer&amp;rft.date=2005&amp;rft.isbn=3-540-25312-2&amp;rft.aulast=Grupen&amp;rft.aufirst=Claus&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+neutrino">
+           <span style="display:none;">
+           </span>
+          </span>
+          <sup class="noprint Inline-Template" style="white-space:nowrap;">
+           [
+           <i>
+            <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">
+             <span title="This citation requires a reference to the specific page or range of pages in which the material appears. (October 2013)">
+              page needed
+             </span>
+            </a>
+           </i>
+           ]
+          </sup>
+         </span>
+        </li>
+        <li id="cite_note-3">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-3">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation" id="CITEREFBellerive2004">
+           Bellerive, A. (2004), "Review of solar neutrino experiments",
+           <i>
+            Int. J. Mod. Phys.
+           </i>
+           ,
+           <b>
+            A19
+           </b>
+           : 1167–1179,
+           <a href="/wiki/ArXiv" title="ArXiv">
+            arXiv
+           </a>
+           :
+           <span class="plainlinks">
+            <a class="external text" href="//arxiv.org/abs/hep-ex/0312045" rel="nofollow">
+             hep-ex/0312045
+            </a>
+            <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/>
+           </span>
+           ,
+           <a href="/wiki/Bibcode" title="Bibcode">
+            Bibcode
+           </a>
+           :
+           <a class="external text" href="http://adsabs.harvard.edu/abs/2004IJMPA..19.1167B" rel="nofollow">
+            2004IJMPA..19.1167B
+           </a>
+           ,
+           <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+            doi
+           </a>
+           :
+           <a class="external text" href="//doi.org/10.1142%2FS0217751X04019093" rel="nofollow">
+            10.1142/S0217751X04019093
+           </a>
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Int.+J.+Mod.+Phys.&amp;rft.atitle=Review+of+solar+neutrino+experiments&amp;rft.volume=A19&amp;rft.pages=1167-1179&amp;rft.date=2004&amp;rft_id=info%3Aarxiv%2Fhep-ex%2F0312045&amp;rft_id=info%3Adoi%2F10.1142%2FS0217751X04019093&amp;rft_id=info%3Abibcode%2F2004IJMPA..19.1167B&amp;rft.aulast=Bellerive&amp;rft.aufirst=A.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+neutrino">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-4">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-4">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <a href="#CITEREFGrupen2005">
+           Grupen 2005
+          </a>
+          , p. 95
+         </span>
+        </li>
+        <li id="cite_note-5">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-5">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation journal">
+           Davis, Jonathan H. (2016). "Projections for Measuring the Size of the Solar Core with Neutrino-Electron Scattering".
+           <i>
+            Physical Review Letters
+           </i>
+           .
+           <b>
+            117
+           </b>
+           : 211101.
+           <a href="/wiki/ArXiv" title="ArXiv">
+            arXiv
+           </a>
+           :
+           <span class="plainlinks">
+            <a class="external text" href="//arxiv.org/abs/1606.02558" rel="nofollow">
+             1606.02558
+            </a>
+            <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/>
+           </span>
+           .
+           <a href="/wiki/Bibcode" title="Bibcode">
+            Bibcode
+           </a>
+           :
+           <a class="external text" href="http://adsabs.harvard.edu/abs/2016PhRvL.117u1101D" rel="nofollow">
+            2016PhRvL.117u1101D
+           </a>
+           .
+           <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+            doi
+           </a>
+           :
+           <a class="external text" href="//doi.org/10.1103%2FPhysRevLett.117.211101" rel="nofollow">
+            10.1103/PhysRevLett.117.211101
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Physical+Review+Letters&amp;rft.atitle=Projections+for+Measuring+the+Size+of+the+Solar+Core+with+Neutrino-Electron+Scattering&amp;rft.volume=117&amp;rft.pages=211101&amp;rft.date=2016&amp;rft_id=info%3Aarxiv%2F1606.02558&amp;rft_id=info%3Adoi%2F10.1103%2FPhysRevLett.117.211101&amp;rft_id=info%3Abibcode%2F2016PhRvL.117u1101D&amp;rft.aulast=Davis&amp;rft.aufirst=Jonathan+H.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+neutrino">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-6">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-6">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <a class="external text" href="http://www.sns.ias.edu/~jnb/SNviewgraphs/snviewgraphs.html" rel="nofollow">
+           Solar Neutrino Viewgraphs
+          </a>
+         </span>
+        </li>
+        <li id="cite_note-7">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-7">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation" id="CITEREFBellini2012">
+           Bellini, G.; et al. (2012), "First Evidence of pep Solar Neutrinos by Direct Detection in Borexino",
+           <i>
+            Phys. Rev. Lett.
+           </i>
+           ,
+           <b>
+            108
+           </b>
+           (5): 051302,
+           <a href="/wiki/ArXiv" title="ArXiv">
+            arXiv
+           </a>
+           :
+           <span class="plainlinks">
+            <a class="external text" href="//arxiv.org/abs/1110.3230" rel="nofollow">
+             1110.3230
+            </a>
+            <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/>
+           </span>
+           ,
+           <a href="/wiki/Bibcode" title="Bibcode">
+            Bibcode
+           </a>
+           :
+           <a class="external text" href="http://adsabs.harvard.edu/abs/2012PhRvL.108e1302B" rel="nofollow">
+            2012PhRvL.108e1302B
+           </a>
+           ,
+           <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+            doi
+           </a>
+           :
+           <a class="external text" href="//doi.org/10.1103%2FPhysRevLett.108.051302" rel="nofollow">
+            10.1103/PhysRevLett.108.051302
+           </a>
+           ,
+           <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">
+            PMID
+           </a>
+           <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/22400925" rel="nofollow">
+            22400925
+           </a>
+           , 051302
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Phys.+Rev.+Lett.&amp;rft.atitle=First+Evidence+of+pep+Solar+Neutrinos+by+Direct+Detection+in+Borexino&amp;rft.volume=108&amp;rft.issue=5&amp;rft.pages=051302&amp;rft.date=2012&amp;rft_id=info%3Aarxiv%2F1110.3230&amp;rft_id=info%3Apmid%2F22400925&amp;rft_id=info%3Adoi%2F10.1103%2FPhysRevLett.108.051302&amp;rft_id=info%3Abibcode%2F2012PhRvL.108e1302B&amp;rft.aulast=Bellini&amp;rft.aufirst=G.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+neutrino">
+           <span style="display:none;">
+           </span>
+          </span>
+          . 6 pages; preprint on arXiv
+         </span>
+        </li>
+        <li id="cite_note-8">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-8">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation" id="CITEREFWitze2012">
+           Witze, Alexandra (March 10, 2012), "Elusive solar neutrinos spotted, detection reveals more about reaction that powers sun",
+           <i>
+            Science News
+           </i>
+           ,
+           <b>
+            181
+           </b>
+           (5): 14,
+           <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+            doi
+           </a>
+           :
+           <a class="external text" href="//doi.org/10.1002%2Fscin.5591810516" rel="nofollow">
+            10.1002/scin.5591810516
+           </a>
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Science+News&amp;rft.atitle=Elusive+solar+neutrinos+spotted%2C+detection+reveals+more+about+reaction+that+powers+sun&amp;rft.volume=181&amp;rft.issue=5&amp;rft.pages=14&amp;rft.date=2012-03-10&amp;rft_id=info%3Adoi%2F10.1002%2Fscin.5591810516&amp;rft.aulast=Witze&amp;rft.aufirst=Alexandra&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+neutrino">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-9">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-9">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation journal">
+           Haxton, W. C. (1990). "Proposed neutrino monitor of long-term solar burning".
+           <i>
+            Physical Review Letters
+           </i>
+           .
+           <b>
+            65
+           </b>
+           : 809–812.
+           <a href="/wiki/Bibcode" title="Bibcode">
+            Bibcode
+           </a>
+           :
+           <a class="external text" href="http://adsabs.harvard.edu/abs/1990PhRvL..65..809H" rel="nofollow">
+            1990PhRvL..65..809H
+           </a>
+           .
+           <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+            doi
+           </a>
+           :
+           <a class="external text" href="//doi.org/10.1103%2Fphysrevlett.65.809" rel="nofollow">
+            10.1103/physrevlett.65.809
+           </a>
+           .
+           <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">
+            PMID
+           </a>
+           <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/10043028" rel="nofollow">
+            10043028
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Physical+Review+Letters&amp;rft.atitle=Proposed+neutrino+monitor+of+long-term+solar+burning&amp;rft.volume=65&amp;rft.pages=809-812&amp;rft.date=1990&amp;rft_id=info%3Apmid%2F10043028&amp;rft_id=info%3Adoi%2F10.1103%2Fphysrevlett.65.809&amp;rft_id=info%3Abibcode%2F1990PhRvL..65..809H&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+neutrino">
+           <span style="display:none;">
+           </span>
+          </span>
+          <span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">
+           CS1 maint: Uses authors parameter (
+           <a href="/wiki/Category:CS1_maint:_Uses_authors_parameter" title="Category:CS1 maint: Uses authors parameter">
+            link
+           </a>
+           )
+          </span>
+         </span>
+        </li>
+       </ol>
+      </div>
+      <h2>
+       <span class="mw-headline" id="Further_reading">
+        Further reading
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Solar_neutrino&amp;action=edit&amp;section=5" title="Edit section: Further reading">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <cite class="citation journal">
+         <a href="/wiki/Wick_Haxton" title="Wick Haxton">
+          Haxton, W.C.
+         </a>
+         ;
+         <a href="/wiki/Hamish_Robertson" title="Hamish Robertson">
+          Hamish Robertson, R.G.
+         </a>
+         ; Serenelli, Aldo M. (18 August 2013). "Solar Neutrinos: Status and Prospects".
+         <i>
+          <a href="/wiki/Annual_Review_of_Astronomy_and_Astrophysics" title="Annual Review of Astronomy and Astrophysics">
+           Annual Review of Astronomy and Astrophysics
+          </a>
+         </i>
+         .
+         <b>
+          51
+         </b>
+         (1): 21–61.
+         <a href="/wiki/ArXiv" title="ArXiv">
+          arXiv
+         </a>
+         :
+         <span class="plainlinks">
+          <a class="external text" href="//arxiv.org/abs/1208.5723" rel="nofollow">
+           1208.5723
+          </a>
+          <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/>
+         </span>
+         .
+         <a href="/wiki/Bibcode" title="Bibcode">
+          Bibcode
+         </a>
+         :
+         <a class="external text" href="http://adsabs.harvard.edu/abs/2013ARA&amp;A..51...21H" rel="nofollow">
+          2013ARA&amp;A..51...21H
+         </a>
+         .
+         <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+          doi
+         </a>
+         :
+         <a class="external text" href="//doi.org/10.1146%2Fannurev-astro-081811-125539" rel="nofollow">
+          10.1146/annurev-astro-081811-125539
+         </a>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Annual+Review+of+Astronomy+and+Astrophysics&amp;rft.atitle=Solar+Neutrinos%3A+Status+and+Prospects&amp;rft.volume=51&amp;rft.issue=1&amp;rft.pages=21-61&amp;rft.date=2013-08-18&amp;rft_id=info%3Aarxiv%2F1208.5723&amp;rft_id=info%3Adoi%2F10.1146%2Fannurev-astro-081811-125539&amp;rft_id=info%3Abibcode%2F2013ARA%26A..51...21H&amp;rft.aulast=Haxton&amp;rft.aufirst=W.C.&amp;rft.au=Hamish+Robertson%2C+R.G.&amp;rft.au=Serenelli%2C+Aldo+M.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+neutrino">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+      </ul>
+      <!-- 
+NewPP limit report
+Parsed by mw1240
+Cached time: 20180322154557
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.160 seconds
+Real time usage: 0.224 seconds
+Preprocessor visited node count: 685/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 23581/2097152 bytes
+Template argument size: 594/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 12452/5000000 bytes
+Lua time usage: 0.078/10.000 seconds
+Lua memory usage: 2.99 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  154.485      1 -total
+ 96.78%  149.514      1 Template:Reflist
+ 38.84%   60.006      4 Template:Cite_journal
+ 28.44%   43.941      1 Template:Page_needed
+ 25.79%   39.845      1 Template:Fix
+ 14.71%   22.721      2 Template:Category_handler
+ 14.56%   22.491      4 Template:Citation
+  8.81%   13.609      1 Template:Delink
+  3.20%    4.948      1 Template:Harvnb
+  1.48%    2.287      1 Template:Fix/category
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:1929534-0!canonical!math=5 and timestamp 20180322154556 and revision id 800442770
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Solar_neutrino&amp;oldid=800442770">
+      https://en.wikipedia.org/w/index.php?title=Solar_neutrino&amp;oldid=800442770
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Nuclear_fusion" title="Category:Nuclear fusion">
+         Nuclear fusion
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Sun" title="Category:Sun">
+         Sun
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Neutrino_astronomy" title="Category:Neutrino astronomy">
+         Neutrino astronomy
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_needing_page_number_citations_from_October_2013" title="Category:Wikipedia articles needing page number citations from October 2013">
+         Wikipedia articles needing page number citations from October 2013
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:CS1_maint:_Uses_authors_parameter" title="Category:CS1 maint: Uses authors parameter">
+         CS1 maint: Uses authors parameter
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Solar+neutrino" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Solar+neutrino" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Solar_neutrino" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Solar_neutrino" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Solar_neutrino">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Solar_neutrino&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Solar_neutrino&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Solar_neutrino" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Solar_neutrino" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Solar_neutrino&amp;oldid=800442770" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Solar_neutrino&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q2216633" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Solar_neutrino&amp;id=800442770" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Solar+neutrino">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Solar+neutrino&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Solar_neutrino&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-wikiversity">
+        <a href="https://en.wikiversity.org/wiki/Stars/Sun/Neutrinos/Lecture" hreflang="en">
+         Wikiversity
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%86%D9%8A%D9%88%D8%AA%D8%B1%D9%8A%D9%86%D9%88_%D8%B4%D9%85%D8%B3%D9%8A" hreflang="ar" lang="ar" title="نيوترينو شمسي – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Neutr%C3%AD_solar" hreflang="ca" lang="ca" title="Neutrí solar – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Neutrino_solaire" hreflang="fr" lang="fr" title="Neutrino solaire – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Zonneneutrino" hreflang="nl" lang="nl" title="Zonneneutrino – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%A4%AA%E9%99%BD%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%83%8E" hreflang="ja" lang="ja" title="太陽ニュートリノ – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Neutrina_s%C5%82oneczne" hreflang="pl" lang="pl" title="Neutrina słoneczne – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%A4%AA%E9%99%BD%E5%BE%AE%E4%B8%AD%E5%AD%90" hreflang="zh" lang="zh" title="太陽微中子 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q2216633#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 13 September 2017, at 15:43.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Solar_neutrino&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.160","walltime":"0.224","ppvisitednodes":{"value":685,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":23581,"limit":2097152},"templateargumentsize":{"value":594,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":12452,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  154.485      1 -total"," 96.78%  149.514      1 Template:Reflist"," 38.84%   60.006      4 Template:Cite_journal"," 28.44%   43.941      1 Template:Page_needed"," 25.79%   39.845      1 Template:Fix"," 14.71%   22.721      2 Template:Category_handler"," 14.56%   22.491      4 Template:Citation","  8.81%   13.609      1 Template:Delink","  3.20%    4.948      1 Template:Harvnb","  1.48%    2.287      1 Template:Fix/category"]},"scribunto":{"limitreport-timeusage":{"value":"0.078","limit":"10.000"},"limitreport-memusage":{"value":3131015,"limit":52428800}},"cachereport":{"origin":"mw1240","timestamp":"20180322154557","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":98,"wgHostname":"mw1262"});});
+  </script>
+ </body>
+</html>

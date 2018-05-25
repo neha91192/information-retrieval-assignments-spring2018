@@ -1,0 +1,3380 @@
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Steadicam - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Steadicam","wgTitle":"Steadicam","wgCurRevisionId":828705819,"wgRevisionId":828705819,"wgArticleId":215750,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use mdy dates from October 2016","Use American English from October 2016","All Wikipedia articles written in American English","Products introduced in 1976","American inventions","Cinematography","Film and video technology","Photography equipment","Trademarks"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Steadicam","wgRelevantArticleId":215750,"wgRequestId":"WrLUzApAADwAAAeN6DoAAAAC","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q744618","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.25" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Steadicam_and_operator_in_front_of_crowd.jpg/1200px-Steadicam_and_operator_in_front_of_crowd.jpg" property="og:image"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Steadicam" rel="alternate"/>
+  <link href="/w/index.php?title=Steadicam&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Steadicam&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Steadicam" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Steadicam rootpage-Steadicam skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Steadicam
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <table class="infobox hproduct" style="width:22em">
+       <caption class="fn">
+        Steadicam
+       </caption>
+       <tr>
+        <td colspan="2" style="text-align:center">
+         <a class="image" href="/wiki/File:Steadicam_and_operator_in_front_of_crowd.jpg">
+          <img alt="Steadicam and operator in front of crowd.jpg" data-file-height="2272" data-file-width="1704" height="227" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Steadicam_and_operator_in_front_of_crowd.jpg/170px-Steadicam_and_operator_in_front_of_crowd.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Steadicam_and_operator_in_front_of_crowd.jpg/255px-Steadicam_and_operator_in_front_of_crowd.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Steadicam_and_operator_in_front_of_crowd.jpg/340px-Steadicam_and_operator_in_front_of_crowd.jpg 2x" width="170"/>
+         </a>
+         <div>
+          A
+          <a href="/wiki/Camera_operator" title="Camera operator">
+           camera operator
+          </a>
+          using the Steadicam in front of an audience.
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         Product type
+        </th>
+        <td class="type">
+         <a href="/wiki/Camera_stabilizer" title="Camera stabilizer">
+          Camera stabilizer
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         Owner
+        </th>
+        <td class="brand">
+         <a href="/wiki/Tiffen" title="Tiffen">
+          Tiffen
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         Country
+        </th>
+        <td>
+         <a href="/wiki/United_States" title="United States">
+          United States
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         Introduced
+        </th>
+        <td>
+         1975
+         <span class="noprint">
+          ; 43 years ago
+         </span>
+         <span style="display:none">
+          (
+          <span class="bday dtstart published updated">
+           1975
+          </span>
+          )
+         </span>
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         Website
+        </th>
+        <td>
+         <a class="external text" href="http://www.steadicam.com" rel="nofollow">
+          steadicam.com
+         </a>
+        </td>
+       </tr>
+      </table>
+      <p>
+       <b>
+        Steadicam
+       </b>
+       is a brand of
+       <a href="/wiki/Camera_stabilizer" title="Camera stabilizer">
+        camera stabilizer
+       </a>
+       mounts for
+       <a href="/wiki/Movie_camera" title="Movie camera">
+        motion picture cameras
+       </a>
+       invented by
+       <a href="/wiki/Garrett_Brown" title="Garrett Brown">
+        Garrett Brown
+       </a>
+       and introduced in 1975 by
+       <a href="/wiki/Cinema_Products_Corporation" title="Cinema Products Corporation">
+        Cinema Products Corporation
+       </a>
+       . It mechanically isolates the operator's movement, allowing for a smooth shot, even when the camera moves over an irregular surface.
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#History">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           History
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#Description">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Description
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-3">
+         <a href="#Awards_and_recognitions">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           Awards and recognitions
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-4">
+           <a href="#Academy_Award">
+            <span class="tocnumber">
+             3.1
+            </span>
+            <span class="toctext">
+             Academy Award
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-5">
+           <a href="#American_Society_of_Cinematographers">
+            <span class="tocnumber">
+             3.2
+            </span>
+            <span class="toctext">
+             American Society of Cinematographers
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-6">
+           <a href="#Society_of_Camera_Operators">
+            <span class="tocnumber">
+             3.3
+            </span>
+            <span class="toctext">
+             Society of Camera Operators
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-7">
+           <a href="#Steadicam_Guild_Life_Achievement_Award">
+            <span class="tocnumber">
+             3.4
+            </span>
+            <span class="toctext">
+             Steadicam Guild Life Achievement Award
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-8">
+           <a href="#Nikola_Tesla_Satellite_Award">
+            <span class="tocnumber">
+             3.5
+            </span>
+            <span class="toctext">
+             Nikola Tesla Satellite Award
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-9">
+         <a href="#See_also">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-10">
+         <a href="#References">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-11">
+         <a href="#External_links">
+          <span class="tocnumber">
+           6
+          </span>
+          <span class="toctext">
+           External links
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="History">
+        History
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Steadicam&amp;action=edit&amp;section=1" title="Edit section: History">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Before the camera stabilizing system, a director had two choices for moving (or "
+       <a href="/wiki/Tracking_shot" title="Tracking shot">
+        tracking
+       </a>
+       ") shots:
+      </p>
+      <ul>
+       <li>
+        The camera could be mounted on a
+        <a href="/wiki/Camera_dolly" title="Camera dolly">
+         dolly
+        </a>
+        , a wheeled mount that rolls on tracks or leveled boards. This procedure is time consuming to set up, and it is impractical in many situations.
+       </li>
+       <li>
+        The
+        <a href="/wiki/Camera_operator" title="Camera operator">
+         camera operator
+        </a>
+        could simply hold the camera. This manual grip allows speed and flexibility, but even the most skilled operator cannot entirely prevent shaking.
+        <a href="/wiki/Hand-held_camera" title="Hand-held camera">
+         Hand-held camera
+        </a>
+        footage has traditionally been considered suitable mostly for
+        <a class="mw-redirect" href="/wiki/Documentaries" title="Documentaries">
+         documentaries
+        </a>
+        ,
+        <a href="/wiki/News" title="News">
+         news
+        </a>
+        , reportage, live action, unrehearsable footage, or the evocation of authentic immediacy or
+        <i>
+         <a href="/wiki/Cin%C3%A9ma_v%C3%A9rit%C3%A9" title="Cinéma vérité">
+          cinéma vérité
+         </a>
+        </i>
+        during dramatic sequences.
+       </li>
+      </ul>
+      <p>
+       While these
+       <a href="/wiki/Cinematic_techniques" title="Cinematic techniques">
+        cinematic techniques
+       </a>
+       are still common, the Steadicam has added another dimension to motion picture
+       <a href="/wiki/Cinematography" title="Cinematography">
+        cinematography
+       </a>
+       and
+       <a href="/wiki/Videography" title="Videography">
+        videography
+       </a>
+       .
+      </p>
+      <p>
+       A Steadicam combines the stabilized steady footage of a conventional tripod mount with the fluid motion of a dolly shot and the flexibility of hand-held camera work. While smoothly following the operator's broad movements, the Steadicam's arm absorbs jerks, bumps, and shakes, while its almost frictionless gimbal gives precise control of the camera and framing.
+      </p>
+      <p>
+       The Steadicam was introduced to the industry in 1975 by inventor and cameraman Garrett Brown, who originally named the invention the "Brown Stabilizer".
+       <sup class="reference" id="cite_ref-1">
+        <a href="#cite_note-1">
+         [1]
+        </a>
+       </sup>
+       After completing the first working prototype, Brown shot a ten-minute demo reel of the revolutionary moves this new device could produce. This reel was seen by numerous directors, including
+       <a href="/wiki/Stanley_Kubrick" title="Stanley Kubrick">
+        Stanley Kubrick
+       </a>
+       and
+       <a href="/wiki/John_G._Avildsen" title="John G. Avildsen">
+        John G. Avildsen
+       </a>
+       . The Steadicam was subsequently licensed to and manufactured by Cinema Products Corporation, which later diversified the brand into a consumer line for
+       <a href="/wiki/DV" title="DV">
+        DV
+       </a>
+       cameras.
+      </p>
+      <p>
+       The Steadicam was first used in the
+       <a href="/wiki/Academy_Award_for_Best_Picture" title="Academy Award for Best Picture">
+        Best Picture
+       </a>
+       –nominated
+       <a href="/wiki/Woody_Guthrie" title="Woody Guthrie">
+        Woody Guthrie
+       </a>
+       biopic
+       <i>
+        <a href="/wiki/Bound_for_Glory_(film)" title="Bound for Glory (film)">
+         Bound for Glory
+        </a>
+       </i>
+       (1976),
+       <sup class="reference" id="cite_ref-steadicam30anniv_2-0">
+        <a href="#cite_note-steadicam30anniv-2">
+         [2]
+        </a>
+       </sup>
+       debuting with a shot that compounded the Steadicam's innovation:
+       <a href="/wiki/Cinematographer" title="Cinematographer">
+        cinematographer
+       </a>
+       <a href="/wiki/Haskell_Wexler" title="Haskell Wexler">
+        Haskell Wexler
+       </a>
+       had Brown start the shot on a fully elevated platform crane which
+       <a href="/wiki/Jib_(camera)" title="Jib (camera)">
+        jibbed
+       </a>
+       down, and when it reached the ground, Brown stepped off and walked the camera through the set. This technically audacious and previously impossible shot created considerable interest in how it had been accomplished, and impressed the Academy enough for Wexler to win the
+       <a class="mw-redirect" href="/wiki/Academy_Award" title="Academy Award">
+        Oscar
+       </a>
+       for
+       <a href="/wiki/Academy_Award_for_Best_Cinematography" title="Academy Award for Best Cinematography">
+        Best Cinematography
+       </a>
+       that year.
+      </p>
+      <p>
+       It was then used in extensive running and chase scenes on the streets of New York City in
+       <i>
+        <a href="/wiki/Marathon_Man_(film)" title="Marathon Man (film)">
+         Marathon Man
+        </a>
+       </i>
+       (1976), which was actually released two months before
+       <i>
+        Bound for Glory
+       </i>
+       . It landed a notable third credit in Avildsen's Best Picture–winning
+       <i>
+        <a href="/wiki/Rocky" title="Rocky">
+         Rocky
+        </a>
+       </i>
+       in 1976, where it was an integral part of the film's Philadelphia street jogging/training sequences and the run up the
+       <a href="/wiki/Philadelphia_Museum_of_Art" title="Philadelphia Museum of Art">
+        Art Museum
+       </a>
+       's
+       <a href="/wiki/Rocky_Steps" title="Rocky Steps">
+        flight of stairs
+       </a>
+       , as well as the fight scenes where it can even be plainly seen in operation at the ringside during some wide shots of the final fight.
+       <i>
+        Rocky
+       </i>
+       was also released before
+       <i>
+        Bound For Glory
+       </i>
+       . Garrett Brown was the Steadicam operator on all of these.
+       <sup class="reference" id="cite_ref-steadicam30anniv_2-1">
+        <a href="#cite_note-steadicam30anniv-2">
+         [2]
+        </a>
+       </sup>
+      </p>
+      <p>
+       <i>
+        <a href="/wiki/The_Shining_(film)" title="The Shining (film)">
+         The Shining
+        </a>
+       </i>
+       (1980) pushed Brown's innovations even further, when director Stanley Kubrick requested that the camera shoot from barely above the floor. This prompted the innovation of "low mode" to mount the top of the camera to the bottom of an inverted post, which substantially increased the creative angles of the system which previously could not go much lower than the operator's waist height.
+       <sup class="reference" id="cite_ref-Ferrara2001_3-0">
+        <a href="#cite_note-Ferrara2001-3">
+         [3]
+        </a>
+       </sup>
+       This low-mode concept remains the most important extension to the system since its inception.
+      </p>
+      <p>
+       A Steadicam rig was also employed during the filming of
+       <i>
+        <a href="/wiki/Return_of_the_Jedi" title="Return of the Jedi">
+         Return of the Jedi
+        </a>
+       </i>
+       (1983), in conjunction with two gyroscopes for extra stabilization, to film the background plates for the
+       <a href="/wiki/Speeder_bike" title="Speeder bike">
+        speeder bike
+       </a>
+       chase. Brown, who personally operated the shot, walked through a redwood forest, with the camera running at a speed of less than one frame per second. The end result, when projected at 24 frames per second, gave the impression of flying through the air at perilous speeds.
+       <sup class="reference" id="cite_ref-4">
+        <a href="#cite_note-4">
+         [4]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-EmpireOfDreams_5-0">
+        <a href="#cite_note-EmpireOfDreams-5">
+         [5]
+        </a>
+       </sup>
+       In the
+       <a href="/wiki/Michael_Crichton" title="Michael Crichton">
+        Michael Crichton
+       </a>
+       film
+       <i>
+        <a href="/wiki/Runaway_(1984_film)" title="Runaway (1984 film)">
+         Runaway
+        </a>
+       </i>
+       (1984), a Steadicam rig was used to simulate the point of view of a futuristic smart bullet in flight while targeting specific individuals by their heat signature.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Description">
+        Description
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Steadicam&amp;action=edit&amp;section=2" title="Edit section: Description">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:172px;">
+        <a class="image" href="/wiki/File:Steadicam_Operator_John_Fry_with_Master_Steadicam_%26_Arri_Alexa_camera.jpg">
+         <img alt="" class="thumbimage" data-file-height="3702" data-file-width="2208" height="285" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Steadicam_Operator_John_Fry_with_Master_Steadicam_%26_Arri_Alexa_camera.jpg/170px-Steadicam_Operator_John_Fry_with_Master_Steadicam_%26_Arri_Alexa_camera.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Steadicam_Operator_John_Fry_with_Master_Steadicam_%26_Arri_Alexa_camera.jpg/255px-Steadicam_Operator_John_Fry_with_Master_Steadicam_%26_Arri_Alexa_camera.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Steadicam_Operator_John_Fry_with_Master_Steadicam_%26_Arri_Alexa_camera.jpg/340px-Steadicam_Operator_John_Fry_with_Master_Steadicam_%26_Arri_Alexa_camera.jpg 2x" width="170"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Steadicam_Operator_John_Fry_with_Master_Steadicam_%26_Arri_Alexa_camera.jpg" title="Enlarge">
+          </a>
+         </div>
+         The larger Steadicams are designed to support
+         <a href="/wiki/35_mm_film" title="35 mm film">
+          35 mm film
+         </a>
+         cameras,
+         <a class="mw-redirect" href="/wiki/Digital_cinema_camera" title="Digital cinema camera">
+          digital cinema cameras
+         </a>
+         , and
+         <a href="/wiki/IMAX" title="IMAX">
+          IMAX
+         </a>
+         cameras.
+        </div>
+       </div>
+      </div>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:172px;">
+        <a class="image" href="/wiki/File:LondonSmog.jpg">
+         <img alt="" class="thumbimage" data-file-height="1024" data-file-width="768" height="227" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/LondonSmog.jpg/170px-LondonSmog.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/LondonSmog.jpg/255px-LondonSmog.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e1/LondonSmog.jpg/340px-LondonSmog.jpg 2x" width="170"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:LondonSmog.jpg" title="Enlarge">
+          </a>
+         </div>
+         To film this recreated Victorian London street scene, the Steadicam Operator is next to the lamp post wearing one of the smart leather Steadicam vests.
+        </div>
+       </div>
+      </div>
+      <p>
+       The operator wears a harness—the Steadicam
+       <i>
+        vest
+       </i>
+       —which is attached to an
+       <a href="/wiki/Iso-elastic" title="Iso-elastic">
+        iso-elastic
+       </a>
+       arm. This is connected by a multiaxis and ultra-low friction
+       <a href="/wiki/Gimbal" title="Gimbal">
+        gimbal
+       </a>
+       to the Steadicam "sled" which has the camera mounted at one end and counterbalancing weight (the monitor and batteries) at the other. The monitor substitutes for the camera's viewfinder, since the range of motion of the camera relative to the operator makes the camera's own viewfinder unusable. In the film industry the armature and weight are traditionally called the
+       <i>
+        sled
+       </i>
+       , as the two units combined resembled a
+       <a href="/wiki/Sled" title="Sled">
+        sled
+       </a>
+       in an early model of the Steadicam. The sled includes the top
+       <i>
+        stage
+       </i>
+       where the camera is attached, the
+       <i>
+        post
+       </i>
+       which in most models can be extended, with the monitor and batteries at the bottom to counterbalance the camera weight. This is how the Steadicam stays upright, by simply making the bottom slightly heavier than the top, pivoting at the gimbal. This leaves the
+       <a class="mw-redirect" href="/wiki/Center_of_gravity" title="Center of gravity">
+        center of gravity
+       </a>
+       of the whole rig, however heavy it may be, exactly at the operator's fingertip, allowing deft and finite control of the whole system with the lightest of touches on the gimbal. The skill of the operator is to keep the desired framing and composition by feathering his touch on the gimbal, while the rig and operator is in motion, and, indeed, when still.
+       <sup class="reference" id="cite_ref-6">
+        <a href="#cite_note-6">
+         [6]
+        </a>
+       </sup>
+      </p>
+      <p>
+       The combined weight of the counterbalance and camera means that the armature bears a relatively high
+       <a href="/wiki/Inertia" title="Inertia">
+        inertial
+       </a>
+       mass which is not easily moved by small body movements from the operator (much as it is difficult to quickly shake a
+       <a href="/wiki/Bowling_ball" title="Bowling ball">
+        bowling ball
+       </a>
+       ). The freely pivoting armature adds additional stabilization to the photographed image, and makes the weight of the camera-sled assembly acceptable by allowing the body harness to support it.
+      </p>
+      <p>
+       When the armature is correctly adjusted, operators can remove their hands from the Steadicam entirely and the camera stays in place. During operation, the operator usually rests a hand on the camera gimbal and applies force at that point to move the camera. To avoid shaking the camera when lens adjustments are made, a wireless remote operated by the camera assistant is used to control focus and iris.
+      </p>
+      <p>
+       For low-angle shots, the Steadicam sled can be inverted vertically, putting the camera on the bottom, and the monitor and batteries on the top. This is referred to as
+       <i>
+        low mode
+       </i>
+       operation.
+      </p>
+      <p>
+       The newest generation is the Tango. A body-supported camera-stabilization-system, its horizontal mechanism makes it possible to move the camera freely while staying horizontal. A Steadicam operator can change from low mode to high mode without any alteration. Dimensions are not limited to ups and downs, but also in depth and over or through obstacles.
+      </p>
+      <p>
+       The smallest, lightest Steadicam that can be used with a support arm and vest is the Merlin. It is light enough to be hand held with cameras weighing up to about 5.5 pounds (2.5 kg), and may carry cameras up to about 7 pounds (3.2 kg) when used with the arm. The Merlin may be folded and carried in comparatively small spaces such as medium-size camera bags. In its lightest configuration, the Merlin weighs just 12.5 ounces (0.35 kg). Photographers who shoot with
+       <a href="/wiki/Digital_single-lens_reflex_camera" title="Digital single-lens reflex camera">
+        HDSLR cameras
+       </a>
+       that combine still and motion photography most often work with the Merlin. Since the Merlin has no facility to carry a separate monitor, cameras suitable for it must have built-in monitors.
+      </p>
+      <p>
+       Steadicam introduced a camera mount for smartphones, called the Smoothee, in 2012. Marketed to consumers instead of video professionals, its tubular frame supports iPhone and Android phones that are 4.53" to 6.26" long by 2.32" to 3.27" wide (115 to 159 mm long by 59 to 83 mm wide).
+       <sup class="reference" id="cite_ref-7">
+        <a href="#cite_note-7">
+         [7]
+        </a>
+       </sup>
+       An adapter can be used to fit a GoPro camera to it. An even smaller, camera-specific Steadicam Curve (a single, curved aluminum slash) is available for GoPro cameras. It is also marketed to consumers.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Awards_and_recognitions">
+        Awards and recognitions
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Steadicam&amp;action=edit&amp;section=3" title="Edit section: Awards and recognitions">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <h3>
+       <span class="mw-headline" id="Academy_Award">
+        <a class="mw-redirect" href="/wiki/Academy_Award" title="Academy Award">
+         Academy Award
+        </a>
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Steadicam&amp;action=edit&amp;section=4" title="Edit section: Academy Award">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <ul>
+       <li>
+        1978 – Academy Award of Merit – Awarded to
+        <a href="/wiki/Garrett_Brown" title="Garrett Brown">
+         Garrett Brown
+        </a>
+        (The
+        <a href="/wiki/Cinema_Products_Corporation" title="Cinema Products Corporation">
+         Cinema Products Corporation
+        </a>
+        . Engineering Staff under the supervision of John Jurgens) for the invention and development of Steadicam.
+       </li>
+      </ul>
+      <h3>
+       <span class="mw-headline" id="American_Society_of_Cinematographers">
+        <a href="/wiki/American_Society_of_Cinematographers" title="American Society of Cinematographers">
+         American Society of Cinematographers
+        </a>
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Steadicam&amp;action=edit&amp;section=5" title="Edit section: American Society of Cinematographers">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <ul>
+       <li>
+        2001 – President's Award, awarded to
+        <a href="/wiki/Garrett_Brown" title="Garrett Brown">
+         Garrett Brown
+        </a>
+       </li>
+      </ul>
+      <h3>
+       <span class="mw-headline" id="Society_of_Camera_Operators">
+        <a href="/wiki/Society_of_Operating_Cameramen" title="Society of Operating Cameramen">
+         Society of Camera Operators
+        </a>
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Steadicam&amp;action=edit&amp;section=6" title="Edit section: Society of Camera Operators">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <ul>
+       <li>
+        2008 – Technical Achievement Award, awarded to
+        <a href="/wiki/Garrett_Brown" title="Garrett Brown">
+         Garrett Brown
+        </a>
+        &amp; shared with:
+        <a class="new" href="/w/index.php?title=Jerry_Holway&amp;action=edit&amp;redlink=1" title="Jerry Holway (page does not exist)">
+         Jerry Holway
+        </a>
+        (inventor) (
+        <a href="/wiki/Tiffen" title="Tiffen">
+         The Tiffen Company
+        </a>
+        [us] (developer) ). For the Ultra2 Steadicam camera support system.
+       </li>
+       <li>
+        1992 – Technical achievement Award, awarded to
+        <a href="/wiki/Garrett_Brown" title="Garrett Brown">
+         Garrett Brown
+        </a>
+        &amp; shared with: Ed Di Giulio (CEO)
+        <a href="/wiki/Cinema_Products_Corporation" title="Cinema Products Corporation">
+         Cinema Products
+        </a>
+        ) (developer) ). For the Steadicam camera stabilizing system.
+       </li>
+      </ul>
+      <h3>
+       <span class="mw-headline" id="Steadicam_Guild_Life_Achievement_Award">
+        <a class="new" href="/w/index.php?title=Steadicam_Guild_Life_Achievement_Award&amp;action=edit&amp;redlink=1" title="Steadicam Guild Life Achievement Award (page does not exist)">
+         Steadicam Guild Life Achievement Award
+        </a>
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Steadicam&amp;action=edit&amp;section=7" title="Edit section: Steadicam Guild Life Achievement Award">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <ul>
+       <li>
+        2012 – The Steadicam Guild's Life Achievement Award, awarded to
+        <a href="/wiki/Garrett_Brown" title="Garrett Brown">
+         Garrett Brown
+        </a>
+        (inventor and steadicam Operator) for his Invention of the Steadicam and his Steadicam work on nearly 100 major motion pictures.
+       </li>
+      </ul>
+      <h3>
+       <span class="mw-headline" id="Nikola_Tesla_Satellite_Award">
+        <a href="/wiki/Nikola_Tesla_Satellite_Award" title="Nikola Tesla Satellite Award">
+         Nikola Tesla Satellite Award
+        </a>
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Steadicam&amp;action=edit&amp;section=8" title="Edit section: Nikola Tesla Satellite Award">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <ul>
+       <li>
+        2014 – Awarded to
+        <a href="/wiki/Garrett_Brown" title="Garrett Brown">
+         Garrett Brown
+        </a>
+        for visionary achievement in filmmaking technology
+        <sup class="reference" id="cite_ref-8">
+         <a href="#cite_note-8">
+          [8]
+         </a>
+        </sup>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Steadicam&amp;action=edit&amp;section=9" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="div-col columns column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em;">
+       <ul>
+        <li>
+         <a href="/wiki/1976_in_film" title="1976 in film">
+          1976 in film
+         </a>
+        </li>
+        <li>
+         <a class="mw-redirect" href="/wiki/Camera_shake" title="Camera shake">
+          Camera shake
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Camera_stabilizer" title="Camera stabilizer">
+          Camera stabilizer
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/List_of_generic_and_genericized_trademarks" title="List of generic and genericized trademarks">
+          List of generic and genericized trademarks
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Skycam" title="Skycam">
+          Skycam
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/SnorriCam" title="SnorriCam">
+          SnorriCam
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Spidercam" title="Spidercam">
+          Spidercam
+         </a>
+        </li>
+        <li>
+         <a class="mw-redirect" href="/wiki/Timeline_of_United_States_inventions_(1946%E2%80%931991)" title="Timeline of United States inventions (1946–1991)">
+          Timeline of United States inventions (1946–1991)
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div aria-label="Portals" class="noprint metadata navbox" role="navigation" style="font-weight:bold;padding:0.4em 2em">
+       <ul style="margin:0.1em 0 0">
+        <li style="display:inline">
+         <span style="display:inline-block;white-space:nowrap">
+          <span style="margin:0 0.5em">
+           <a class="image" href="/wiki/File:Video-x-generic.svg">
+            <img alt="Video-x-generic.svg" data-file-height="48" data-file-width="48" height="21" src="//upload.wikimedia.org/wikipedia/en/thumb/e/e7/Video-x-generic.svg/21px-Video-x-generic.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/e/e7/Video-x-generic.svg/32px-Video-x-generic.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/e/e7/Video-x-generic.svg/42px-Video-x-generic.svg.png 2x" width="21"/>
+           </a>
+          </span>
+          <a href="/wiki/Portal:Film" title="Portal:Film">
+           Film portal
+          </a>
+         </span>
+        </li>
+        <li style="display:inline">
+         <span style="display:inline-block;white-space:nowrap">
+          <span style="margin:0 0.5em">
+           <a class="image" href="/wiki/File:Large_format_camera_lens.png">
+            <img alt="Large format camera lens.png" data-file-height="252" data-file-width="218" height="21" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Large_format_camera_lens.png/18px-Large_format_camera_lens.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Large_format_camera_lens.png/28px-Large_format_camera_lens.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/56/Large_format_camera_lens.png/36px-Large_format_camera_lens.png 2x" width="18"/>
+           </a>
+          </span>
+          <a href="/wiki/Portal:Photography" title="Portal:Photography">
+           Photography portal
+          </a>
+         </span>
+        </li>
+       </ul>
+      </div>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Steadicam&amp;action=edit&amp;section=10" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist" style="list-style-type: decimal;">
+       <div class="mw-references-wrap">
+        <ol class="references">
+         <li id="cite_note-1">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-1">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <a class="external autonumber" href="http://www.stabilizer-news.com/garrett-brown-father-of-the-steadicam/" rel="nofollow">
+            [1]
+           </a>
+           Stabilizer News
+          </span>
+         </li>
+         <li id="cite_note-steadicam30anniv-2">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-steadicam30anniv_2-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-steadicam30anniv_2-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           <cite class="citation pressrelease">
+            <a class="external text" href="https://web.archive.org/web/20051225070154/http://lserv2.dtopinc.com:80/tiffen/staging_html/tiffen_news_Steadicam30th_Anniv.html" rel="nofollow">
+             "Steadicam Celebrates its 30th Anniversary at NAB 2005"
+            </a>
+            (Press release). Tiffen. Archived from
+            <a class="external text" href="http://lserv2.dtopinc.com/tiffen/staging_html/tiffen_news_Steadicam30th_Anniv.html" rel="nofollow">
+             the original
+            </a>
+            on December 25, 2005
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              March 3,
+             </span>
+             2014
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Steadicam+Celebrates+its+30th+Anniversary+at+NAB+2005&amp;rft.pub=Tiffen&amp;rft_id=http%3A%2F%2Flserv2.dtopinc.com%2Ftiffen%2Fstaging_html%2Ftiffen_news_Steadicam30th_Anniv.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASteadicam">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-Ferrara2001-3">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-Ferrara2001_3-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            Ferrara, Serena (2001).
+            <i>
+             Steadicam: techniques and aesthetics
+            </i>
+            . Oxford [u.a.]: Focal. pp. 26–31.
+            <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+             ISBN
+            </a>
+            <a href="/wiki/Special:BookSources/978-0-240-51607-3" title="Special:BookSources/978-0-240-51607-3">
+             978-0-240-51607-3
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Steadicam%3A+techniques+and+aesthetics&amp;rft.place=Oxford+%5Bu.a.%5D&amp;rft.pages=26-31&amp;rft.pub=Focal&amp;rft.date=2001&amp;rft.isbn=978-0-240-51607-3&amp;rft.aulast=Ferrara&amp;rft.aufirst=Serena&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASteadicam">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-4">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-4">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Brown, Garrett. "Return of the Jedi",
+           <i>
+            <a href="/wiki/American_Cinematographer" title="American Cinematographer">
+             American Cinematographer
+            </a>
+           </i>
+           , June 1983.
+          </span>
+         </li>
+         <li id="cite_note-EmpireOfDreams-5">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-EmpireOfDreams_5-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <i>
+            Empire of Dreams: The Story of the Star Wars Trilogy
+           </i>
+           Star Wars Trilogy Box Set DVD documentary, [2004]
+          </span>
+         </li>
+         <li id="cite_note-6">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-6">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://www.jerryholway.com/manuals/" rel="nofollow">
+             "Manuals"
+            </a>
+            .
+            <i>
+             Jerry Holway
+            </i>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              2017-08-04
+             </span>
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Jerry+Holway&amp;rft.atitle=Manuals&amp;rft_id=https%3A%2F%2Fwww.jerryholway.com%2Fmanuals%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASteadicam">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-7">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-7">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://tiffen.com/steadicamsmoothee/" rel="nofollow">
+             "Steadicam Smoothee Universal Camera Mount"
+            </a>
+            .
+            <i>
+             Tiffen
+            </i>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              2017-07-07
+             </span>
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Tiffen&amp;rft.atitle=Steadicam+Smoothee+Universal+Camera+Mount&amp;rft_id=https%3A%2F%2Ftiffen.com%2Fsteadicamsmoothee%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASteadicam">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-8">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-8">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            Kilday, Gregg (February 23, 2014).
+            <a class="external text" href="http://www.hollywoodreporter.com/news/satellite-awards-12-years-a-682716" rel="nofollow">
+             "Satellite Awards: '12 Years a Slave' Wins Best Motion Picture"
+            </a>
+            .
+            <i>
+             <a href="/wiki/The_Hollywood_Reporter" title="The Hollywood Reporter">
+              The Hollywood Reporter
+             </a>
+            </i>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              December 3,
+             </span>
+             2014
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Hollywood+Reporter&amp;rft.atitle=Satellite+Awards%3A+%2712+Years+a+Slave%27+Wins+Best+Motion+Picture&amp;rft.date=2014-02-23&amp;rft.au=Kilday%2C+Gregg&amp;rft_id=http%3A%2F%2Fwww.hollywoodreporter.com%2Fnews%2Fsatellite-awards-12-years-a-682716&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASteadicam">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Steadicam&amp;action=edit&amp;section=11" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+       <tr>
+        <td class="mbox-image">
+         <img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/>
+        </td>
+        <td class="mbox-text plainlist">
+         Wikimedia Commons has media related to
+         <i>
+          <b>
+           <a class="extiw" href="https://commons.wikimedia.org/wiki/Special:Search/Steadicam" title="commons:Special:Search/Steadicam">
+            Steadicam
+           </a>
+          </b>
+         </i>
+         .
+        </td>
+       </tr>
+      </table>
+      <table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+       <tr>
+        <td class="mbox-image">
+         <img alt="" class="noviewer" data-file-height="391" data-file-width="391" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" width="40"/>
+        </td>
+        <td class="mbox-text plainlist">
+         Look up
+         <i>
+          <b>
+           <a class="extiw" href="https://en.wiktionary.org/wiki/Steadicam" title="wiktionary:Steadicam">
+            Steadicam
+           </a>
+          </b>
+         </i>
+         in Wiktionary, the free dictionary.
+        </td>
+       </tr>
+      </table>
+      <ul>
+       <li>
+        <a class="external text" href="http://www.garrettbrown.com/" rel="nofollow">
+         garrettbrown.com
+        </a>
+        , inventor's official website
+       </li>
+       <li>
+        <a class="external text" href="http://www.steadicam.com/" rel="nofollow">
+         steadicam.com
+        </a>
+        , product's official website
+       </li>
+       <li>
+        <a class="external text" href="http://www.flysteadicam.tiffen.com/" rel="nofollow">
+         flysteadicam.tiffen.com
+        </a>
+        , official Steadicam Workshop training website
+       </li>
+       <li>
+        <a class="external text" href="http://www.steadivision.com/steadipos.html" rel="nofollow">
+         "Steadicam Posture"
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://www.enzogiobbe.com/steadicam.html" rel="nofollow">
+         "Steadicam, the Early Years—Enzo Giobbe and the Model 1"
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://www.sglaa.org/" rel="nofollow">
+         "Steadicam Guild Life Achievement Award"
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="https://www.youtube.com/watch?v=EsoO5Mwes54" rel="nofollow">
+         Opérateur Steadicam / Steadicamer in vidéos
+        </a>
+       </li>
+       <li>
+        <cite class="citation web">
+         Fishko, Sara (December 15, 2016).
+         <a class="external text" href="http://www.wnyc.org/story/the-steadicam-story" rel="nofollow">
+          "The Steadicam Story"
+         </a>
+         . Fischco Files.
+         <a href="/wiki/WNYC" title="WNYC">
+          WNYC
+         </a>
+         <span class="reference-accessdate">
+          . Retrieved
+          <span class="nowrap">
+           February 19,
+          </span>
+          2017
+         </span>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Steadicam+Story&amp;rft.pub=WNYC&amp;rft.date=2016-12-15&amp;rft.aulast=Fishko&amp;rft.aufirst=Sara&amp;rft_id=http%3A%2F%2Fwww.wnyc.org%2Fstory%2Fthe-steadicam-story&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASteadicam">
+         <span style="display:none;">
+         </span>
+        </span>
+        Produced for the thirtieth anniversary of the Steadicam.
+       </li>
+      </ul>
+      <div aria-labelledby="Film_crew_(filmmaking)" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="2" scope="col">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:Film_crew" title="Template:Film crew">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a href="/wiki/Template_talk:Film_crew" title="Template talk:Film crew">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Film_crew&amp;action=edit">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="Film_crew_(filmmaking)" style="font-size:114%;margin:0 4em">
+           <a href="/wiki/Film_crew" title="Film crew">
+            Film crew
+           </a>
+           (
+           <a href="/wiki/Filmmaking" title="Filmmaking">
+            filmmaking
+           </a>
+           )
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+          </div>
+          <table class="nowraplinks collapsible autocollapse navbox-subgroup" style="border-spacing:0">
+           <tr>
+            <th class="navbox-title" colspan="2" scope="col" style=";">
+             <div id="Above_the_line" style="font-size:114%;margin:0 4em">
+              <a href="/wiki/Above-the-line_(filmmaking)" title="Above-the-line (filmmaking)">
+               Above the line
+              </a>
+             </div>
+            </th>
+           </tr>
+           <tr>
+            <td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Actor" title="Actor">
+                 Actor
+                </a>
+                <ul>
+                 <li>
+                  <a href="/wiki/Leading_actor" title="Leading actor">
+                   Leading actor
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Movie_star" title="Movie star">
+                   Movie star
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Superstar" title="Superstar">
+                   Superstar
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Character_actor" title="Character actor">
+                   Character actor
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Cameo_appearance" title="Cameo appearance">
+                   Cameo actors
+                  </a>
+                 </li>
+                </ul>
+               </li>
+               <li>
+                <a href="/wiki/Film_director" title="Film director">
+                 Film director
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Screenwriter" title="Screenwriter">
+                 Screenwriter
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Film_producer" title="Film producer">
+                 Film producer
+                </a>
+                <ul>
+                 <li>
+                  <a href="/wiki/Executive_producer" title="Executive producer">
+                   Executive producer
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Line_producer" title="Line producer">
+                   Line producer
+                  </a>
+                 </li>
+                </ul>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+        <tr>
+         <td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+          </div>
+          <table class="nowraplinks collapsible autocollapse navbox-subgroup" style="border-spacing:0">
+           <tr>
+            <th class="navbox-title" colspan="2" scope="col" style=";">
+             <div id="Below_the_line" style="font-size:114%;margin:0 4em">
+              <a href="/wiki/Below-the-line_(filmmaking)" title="Below-the-line (filmmaking)">
+               Below the line
+              </a>
+             </div>
+            </th>
+           </tr>
+           <tr>
+            <td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+             </div>
+             <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+              <tr>
+               <th class="navbox-group" scope="row" style="width:1%">
+                <a href="/wiki/Pre-production" title="Pre-production">
+                 Pre-production
+                </a>
+               </th>
+               <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                <div style="padding:0em 0.25em">
+                 <ul>
+                  <li>
+                   <a href="/wiki/Unit_production_manager" title="Unit production manager">
+                    Unit production manager
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Production_coordinator" title="Production coordinator">
+                    Production coordinator
+                   </a>
+                  </li>
+                  <li>
+                   <a class="mw-redirect" href="/wiki/Production_accountant" title="Production accountant">
+                    Production accountant
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Assistant_director" title="Assistant director">
+                    Assistant director
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Script_supervisor" title="Script supervisor">
+                    Script supervisor
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Script_coordinator" title="Script coordinator">
+                    Script coordinator
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Casting_(performing_arts)" title="Casting (performing arts)">
+                    Casting director
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Production_assistant" title="Production assistant">
+                    Production assistant
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Location_manager" title="Location manager">
+                    Location manager
+                   </a>
+                  </li>
+                 </ul>
+                </div>
+                <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                 <tr>
+                  <th class="navbox-group" scope="row" style="width:1%">
+                   <a href="/wiki/Storyboard" title="Storyboard">
+                    Storyboard
+                   </a>
+                  </th>
+                  <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em">
+                    <ul>
+                     <li>
+                      <a href="/wiki/Storyboard_artist" title="Storyboard artist">
+                       Storyboard artist
+                      </a>
+                     </li>
+                    </ul>
+                   </div>
+                  </td>
+                 </tr>
+                </table>
+               </td>
+              </tr>
+              <tr>
+               <th class="navbox-group" scope="row" style="width:1%">
+                Production design
+               </th>
+               <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                <div style="padding:0em 0.25em">
+                 <ul>
+                  <li>
+                   <a href="/wiki/Production_designer" title="Production designer">
+                    Production designer
+                   </a>
+                   <ul>
+                    <li>
+                     <a href="/wiki/Art_director#In_film" title="Art director">
+                      Art director
+                     </a>
+                    </li>
+                   </ul>
+                  </li>
+                  <li>
+                   <a href="/wiki/Costume_designer" title="Costume designer">
+                    Costume designer
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Hairdresser" title="Hairdresser">
+                    Hairdresser
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Make-up_artist" title="Make-up artist">
+                    Make-up artist
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Set_decorator" title="Set decorator">
+                    Set decorator
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Property_master" title="Property master">
+                    Property master
+                    <span style="white-space:nowrap">
+                    </span>
+                    /
+                    <span style="white-space:nowrap">
+                    </span>
+                    mistress
+                    <span style="font-size:90%;">
+                     ("props")
+                    </span>
+                   </a>
+                  </li>
+                 </ul>
+                </div>
+                <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                 <tr>
+                  <th class="navbox-group" scope="row" style="width:1%">
+                   <a class="mw-redirect" href="/wiki/Visual_Art" title="Visual Art">
+                    Visual Art
+                   </a>
+                  </th>
+                  <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em">
+                    <ul>
+                     <li>
+                      <a href="/wiki/Matte_painting" title="Matte painting">
+                       Matte painter
+                      </a>
+                     </li>
+                     <li>
+                      <a href="/wiki/Illustrator" title="Illustrator">
+                       Illustrator
+                      </a>
+                     </li>
+                     <li>
+                      <a href="/wiki/Scenic_design" title="Scenic design">
+                       Scenic design
+                      </a>
+                     </li>
+                    </ul>
+                   </div>
+                  </td>
+                 </tr>
+                </table>
+               </td>
+              </tr>
+              <tr>
+               <th class="navbox-group" scope="row" style="width:1%">
+                <a href="/wiki/Principal_photography" title="Principal photography">
+                 Photography
+                </a>
+               </th>
+               <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                <div style="padding:0em 0.25em">
+                 <ul>
+                  <li>
+                   <a href="/wiki/Cinematographer" title="Cinematographer">
+                    Cinematographer / Director of photography
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Camera_operator" title="Camera operator">
+                    Camera operator
+                   </a>
+                   <ul>
+                    <li>
+                     <a href="/wiki/Focus_puller" title="Focus puller">
+                      Focus puller
+                     </a>
+                    </li>
+                    <li>
+                     <a href="/wiki/Clapper_loader" title="Clapper loader">
+                      Clapper loader
+                     </a>
+                    </li>
+                    <li>
+                     <a class="mw-selflink selflink">
+                      Steadicam
+                     </a>
+                    </li>
+                   </ul>
+                  </li>
+                  <li>
+                   <a href="/wiki/Gaffer_(filmmaking)" title="Gaffer (filmmaking)">
+                    Gaffer
+                   </a>
+                   <ul>
+                    <li>
+                     <a href="/wiki/Best_boy" title="Best boy">
+                      Best boy
+                      <span style="font-size:90%;">
+                       (electrical)
+                      </span>
+                     </a>
+                    </li>
+                    <li>
+                     <a href="/wiki/Lighting_technician" title="Lighting technician">
+                      Lighting technician
+                     </a>
+                    </li>
+                   </ul>
+                  </li>
+                  <li>
+                   <a href="/wiki/Key_grip" title="Key grip">
+                    Key grip
+                   </a>
+                   <ul>
+                    <li>
+                     <a href="/wiki/Best_boy" title="Best boy">
+                      Best boy
+                      <span style="font-size:90%;">
+                       (grip)
+                      </span>
+                     </a>
+                    </li>
+                    <li>
+                     <a href="/wiki/Grip_(job)" title="Grip (job)">
+                      Grip
+                     </a>
+                    </li>
+                    <li>
+                     <a href="/wiki/Dolly_grip" title="Dolly grip">
+                      Dolly grip
+                     </a>
+                    </li>
+                   </ul>
+                  </li>
+                 </ul>
+                </div>
+               </td>
+              </tr>
+              <tr>
+               <th class="navbox-group" scope="row" style="width:1%">
+                <a href="/wiki/Sound_design" title="Sound design">
+                 Sound
+                </a>
+               </th>
+               <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                <div style="padding:0em 0.25em">
+                 <ul>
+                  <li>
+                   <a href="/wiki/Director_of_audiography" title="Director of audiography">
+                    Director of audiography
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Production_sound_mixer" title="Production sound mixer">
+                    Production sound mixer
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Boom_operator_(media)" title="Boom operator (media)">
+                    Boom operator
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Utility_sound_technician" title="Utility sound technician">
+                    Utility sound technician
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Dialogue_editor" title="Dialogue editor">
+                    Dialogue editor
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Re-recording_mixer" title="Re-recording mixer">
+                    Re-recording mixer
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Foley_(filmmaking)" title="Foley (filmmaking)">
+                    Foley artist
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Composer" title="Composer">
+                    Composer
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Music_supervisor" title="Music supervisor">
+                    Music supervisor
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Music_editor_(filmmaking)" title="Music editor (filmmaking)">
+                    Music editor
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Orchestration" title="Orchestration">
+                    Orchestrator
+                   </a>
+                  </li>
+                 </ul>
+                </div>
+               </td>
+              </tr>
+              <tr>
+               <th class="navbox-group" scope="row" style="width:1%">
+                <a href="/wiki/Special_effect" title="Special effect">
+                 Special effects
+                </a>
+               </th>
+               <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                <div style="padding:0em 0.25em">
+                 <ul>
+                  <li>
+                   <a href="/wiki/Special_effects_supervisor" title="Special effects supervisor">
+                    Special effects supervisor
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Visual_effects_supervisor" title="Visual effects supervisor">
+                    Visual effects supervisor
+                   </a>
+                  </li>
+                 </ul>
+                </div>
+               </td>
+              </tr>
+              <tr>
+               <th class="navbox-group" scope="row" style="width:1%">
+                <a href="/wiki/Animation_department" title="Animation department">
+                 Animation
+                </a>
+               </th>
+               <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                <div style="padding:0em 0.25em">
+                 <ul>
+                  <li>
+                   <a href="/wiki/Animator" title="Animator">
+                    Animator
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Visual_effects" title="Visual effects">
+                    Visual effects
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Conceptual_model" title="Conceptual model">
+                    Modeling
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Rigging" title="Rigging">
+                    Rigging
+                   </a>
+                  </li>
+                  <li>
+                   <a class="mw-redirect" href="/wiki/Layout_artist" title="Layout artist">
+                    Layout artist
+                   </a>
+                  </li>
+                 </ul>
+                </div>
+               </td>
+              </tr>
+              <tr>
+               <th class="navbox-group" scope="row" style="width:1%">
+                Talent
+               </th>
+               <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                <div style="padding:0em 0.25em">
+                 <ul>
+                  <li>
+                   <a href="/wiki/Acting_coach" title="Acting coach">
+                    Acting coach
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Dialect_coach" title="Dialect coach">
+                    Dialect coach
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Movement_director" title="Movement director">
+                    Movement director
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Choreography" title="Choreography">
+                    Choreographer
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Extra_(acting)" title="Extra (acting)">
+                    Extra
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Talent_agent" title="Talent agent">
+                    Talent agent
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Actor" title="Actor">
+                    Actor
+                   </a>
+                   (
+                   <a class="mw-redirect" href="/wiki/List_of_voice_actors" title="List of voice actors">
+                    voice
+                   </a>
+                   )
+                  </li>
+                  <li>
+                   <a class="mw-redirect" href="/wiki/Cast_member" title="Cast member">
+                    Cast member
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Stand-in" title="Stand-in">
+                    Stand-in
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Acting_instructor" title="Acting instructor">
+                    Acting instructor
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Stunt_double" title="Stunt double">
+                    Stunt double
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Stunt_performer" title="Stunt performer">
+                    Stunt performer
+                   </a>
+                  </li>
+                 </ul>
+                </div>
+               </td>
+              </tr>
+              <tr>
+               <th class="navbox-group" scope="row" style="width:1%">
+                <a href="/wiki/Post-production" title="Post-production">
+                 Post-production
+                </a>
+               </th>
+               <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                <div style="padding:0em 0.25em">
+                 <ul>
+                  <li>
+                   <a href="/wiki/Film_editing" title="Film editing">
+                    Film editor
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Sound_editor_(filmmaking)" title="Sound editor (filmmaking)">
+                    Sound editor
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Color_grading" title="Color grading">
+                    Colorist
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Animator" title="Animator">
+                    Animator
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Technical_director#Film" title="Technical director">
+                    Technical director
+                   </a>
+                  </li>
+                 </ul>
+                </div>
+                <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                 <tr>
+                  <th class="navbox-group" scope="row" style="width:1%">
+                   <a href="/wiki/Visual_effects" title="Visual effects">
+                    Visual effects
+                   </a>
+                  </th>
+                  <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em">
+                    <ul>
+                     <li>
+                      <a href="/wiki/Visual_effects" title="Visual effects">
+                       Visual effects editor
+                      </a>
+                     </li>
+                     <li>
+                      <a href="/wiki/Compositing" title="Compositing">
+                       Compositor
+                      </a>
+                     </li>
+                     <li>
+                      <a href="/wiki/Computer-generated_imagery" title="Computer-generated imagery">
+                       Computer-generated imagery
+                      </a>
+                     </li>
+                     <li>
+                      <a href="/wiki/Rendering_(computer_graphics)" title="Rendering (computer graphics)">
+                       Rendering
+                      </a>
+                     </li>
+                    </ul>
+                   </div>
+                  </td>
+                 </tr>
+                </table>
+               </td>
+              </tr>
+             </table>
+            </td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <div aria-labelledby="Cinematic_techniques" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="2" scope="col">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:Cinematic_techniques" title="Template:Cinematic techniques">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a href="/wiki/Template_talk:Cinematic_techniques" title="Template talk:Cinematic techniques">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cinematic_techniques&amp;action=edit">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="Cinematic_techniques" style="font-size:114%;margin:0 4em">
+           <a href="/wiki/Cinematic_techniques" title="Cinematic techniques">
+            Cinematic techniques
+           </a>
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:5.0em">
+          <a href="/wiki/Stage_lighting" title="Stage lighting">
+           Lighting
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Background_light" title="Background light">
+              Background
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Cameo_lighting" title="Cameo lighting">
+              Cameo
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Fill_light" title="Fill light">
+              Fill
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Stage_lighting_instrument#Floodlights" title="Stage lighting instrument">
+              Flood
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/High-key_lighting" title="High-key lighting">
+              High-key
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Key_light" title="Key light">
+              Key
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Lens_flare" title="Lens flare">
+              Lens flare
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Low-key_lighting" title="Low-key lighting">
+              Low-key
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Mood_lighting" title="Mood lighting">
+              Mood
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Rembrandt_lighting" title="Rembrandt lighting">
+              Rembrandt
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Stage_lighting" title="Stage lighting">
+              Stage
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Soft_light" title="Soft light">
+              Soft
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:5.0em">
+          <a href="/wiki/Sound" title="Sound">
+           Sound
+          </a>
+         </th>
+         <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Cinematic_techniques#Diegetic_sound" title="Cinematic techniques">
+              Diegetic
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Cinematic_techniques#Non-diegetic_sound" title="Cinematic techniques">
+              Non-diegetic
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Narrative" title="Narrative">
+                Narration
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Film_score" title="Film score">
+                Film score
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Sound_effect" title="Sound effect">
+                Sound effects
+               </a>
+              </li>
+             </ul>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:5.0em">
+          <a href="/wiki/Shot_(filmmaking)" title="Shot (filmmaking)">
+           Shooting
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+          <div style="padding:0em 0.25em">
+          </div>
+          <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%;font-weight:normal;">
+             Field size
+            </th>
+            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Long_shot" title="Long shot">
+                 Long / Extreme long / Full
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/American_shot" title="American shot">
+                 American
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Medium_shot" title="Medium shot">
+                 Medium
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Close-up" title="Close-up">
+                 Close-up
+                </a>
+               </li>
+               <li>
+                <a class="mw-redirect" href="/wiki/Italian_shot" title="Italian shot">
+                 Italian
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Two_shot" title="Two shot">
+                 Two shot
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%;font-weight:normal;">
+             Camera placement
+            </th>
+            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+             </div>
+             <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+              <tr>
+               <td class="navbox-list navbox-even" colspan="2" style="width:100%;padding:0px">
+                <div style="padding:0em 0.25em">
+                 <ul>
+                  <li>
+                   <a href="/wiki/Perspective_(graphical)" title="Perspective (graphical)">
+                    Perspective
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Over_the_shoulder_shot" title="Over the shoulder shot">
+                    Over-the-shoulder
+                   </a>
+                  </li>
+                  <li>
+                   <a class="mw-redirect" href="/wiki/Point_of_view_shot" title="Point of view shot">
+                    Point-of-view
+                    <span style="font-size:90%;">
+                     (POV)
+                    </span>
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Shot_reverse_shot" title="Shot reverse shot">
+                    Reverse
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Trunk_shot" title="Trunk shot">
+                    Trunk
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Single-camera_setup" title="Single-camera setup">
+                    Single
+                   </a>
+                   /
+                   <a href="/wiki/Multiple-camera_setup" title="Multiple-camera setup">
+                    multiple-camera setup
+                   </a>
+                  </li>
+                 </ul>
+                </div>
+               </td>
+              </tr>
+              <tr>
+               <th class="navbox-group" scope="row" style="width:1%;font-weight:normal;">
+                <a href="/wiki/Camera_angle" title="Camera angle">
+                 Camera angle
+                </a>
+               </th>
+               <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                <div style="padding:0em 0.25em">
+                 <ul>
+                  <li>
+                   <a href="/wiki/Tilt_(camera)" title="Tilt (camera)">
+                    Tilt
+                   </a>
+                  </li>
+                  <li>
+                   <a class="mw-redirect" href="/wiki/Aerial_shot" title="Aerial shot">
+                    Aerial
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/High-angle_shot" title="High-angle shot">
+                    High-angle
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Bird%27s-eye_view" title="Bird's-eye view">
+                    Bird's-eye
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Crane_shot" title="Crane shot">
+                    Crane shot
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Jib_(camera)" title="Jib (camera)">
+                    Jib
+                   </a>
+                   /
+                   <a href="/wiki/Boom_shot" title="Boom shot">
+                    boom shot
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Low-angle_shot" title="Low-angle shot">
+                    Low-angle
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Worm%27s-eye_view" title="Worm's-eye view">
+                    Worm's-eye view
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Dutch_angle" title="Dutch angle">
+                    Dutch angle
+                   </a>
+                  </li>
+                 </ul>
+                </div>
+               </td>
+              </tr>
+             </table>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%;font-weight:normal;">
+             Camera movement
+            </th>
+            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Tilt_(camera)" title="Tilt (camera)">
+                 Tilting
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Panning_(camera)" title="Panning (camera)">
+                 Panning
+                </a>
+                <ul>
+                 <li>
+                  <a href="/wiki/Whip_pan" title="Whip pan">
+                   Whip pan
+                  </a>
+                 </li>
+                </ul>
+               </li>
+               <li>
+                <a href="/wiki/Hand-held_camera" title="Hand-held camera">
+                 Hand-held
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Shaky_camera" title="Shaky camera">
+                 Shaky
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Tracking_shot" title="Tracking shot">
+                 Tracking
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Camera_dolly" title="Camera dolly">
+                 Dolly
+                </a>
+               </li>
+               <li>
+                <a class="mw-selflink selflink">
+                 Steadicam
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/SnorriCam" title="SnorriCam">
+                 SnorriCam
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Walk_and_talk" title="Walk and talk">
+                 Walk and talk
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Follow_shot" title="Follow shot">
+                 Follow
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Dolly_zoom" title="Dolly zoom">
+                 Dolly zoom
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%;font-weight:normal;">
+             Lens effects
+            </th>
+            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Focus_(optics)" title="Focus (optics)">
+                 Focus
+                </a>
+                <ul>
+                 <li>
+                  <a href="/wiki/Racking_focus" title="Racking focus">
+                   Racking
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Depth_of_field" title="Depth of field">
+                   Depth of field
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Shallow_focus" title="Shallow focus">
+                   Shallow
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Deep_focus" title="Deep focus">
+                   Deep
+                  </a>
+                 </li>
+                </ul>
+               </li>
+               <li>
+                <a href="/wiki/Zooming_(filmmaking)" title="Zooming (filmmaking)">
+                 Zooming
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%;font-weight:normal;">
+             Other techniques
+            </th>
+            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Establishing_shot" title="Establishing shot">
+                 Establishing shot
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Master_shot" title="Master shot">
+                 Master shot
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/B-roll" title="B-roll">
+                 B-roll
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Freeze-frame_shot" title="Freeze-frame shot">
+                 Freeze-frame shot
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Long_take" title="Long take">
+                 Long take
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Insert_(filmmaking)" title="Insert (filmmaking)">
+                 Insert
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+        <tr>
+         <td class="navbox-list navbox-odd hlist" colspan="2" style="padding:0px">
+          <div style="padding:0em 0.25em">
+          </div>
+          <table class="nowraplinks collapsible expanded navbox-subgroup" style="border-spacing:0">
+           <tr>
+            <th class="navbox-title" colspan="2" scope="col" style="text-align: center;">
+             <div class="plainlinks hlist navbar mini">
+              <ul>
+               <li class="nv-view">
+                <a href="/wiki/Template:Special_effects" title="Template:Special effects">
+                 <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+                  v
+                 </abbr>
+                </a>
+               </li>
+               <li class="nv-talk">
+                <a href="/wiki/Template_talk:Special_effects" title="Template talk:Special effects">
+                 <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+                  t
+                 </abbr>
+                </a>
+               </li>
+               <li class="nv-edit">
+                <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Special_effects&amp;action=edit">
+                 <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+                  e
+                 </abbr>
+                </a>
+               </li>
+              </ul>
+             </div>
+             <div id="Special_effects" style="font-size:114%;margin:0 4em">
+              <a href="/wiki/Special_effect" title="Special effect">
+               Special effects
+              </a>
+             </div>
+            </th>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="text-align: center;;width:5.0em">
+             <a href="/wiki/Practical_effect" title="Practical effect">
+              Practical
+             </a>
+            </th>
+            <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Prosthetic_makeup" title="Prosthetic makeup">
+                 Prosthetic makeup
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Animatronics" title="Animatronics">
+                 Animatronics
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Puppetry" title="Puppetry">
+                 Puppetry
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Creature_suit" title="Creature suit">
+                 Creature suit
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Miniature_effect" title="Miniature effect">
+                 Miniature effect
+                </a>
+                (
+                <a href="/wiki/Hanging_miniature" title="Hanging miniature">
+                 hanging
+                </a>
+                )
+               </li>
+               <li>
+                <a href="/wiki/Pyrotechnics" title="Pyrotechnics">
+                 Pyrotechnics
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Aerial_rigging" title="Aerial rigging">
+                 Aerial rigging
+                </a>
+                (
+                <a href="/wiki/Wire-flying" title="Wire-flying">
+                 Wire-flying
+                </a>
+                )
+               </li>
+               <li>
+                <a href="/wiki/Squib_(explosive)" title="Squib (explosive)">
+                 Squib
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Matte_painting" title="Matte painting">
+                 Matte painting
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Sugar_glass" title="Sugar glass">
+                 Sugar glass
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Theatrical_blood" title="Theatrical blood">
+                 Theatrical blood
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="text-align: center;;width:5.0em">
+             <a href="/wiki/In-camera_effect" title="In-camera effect">
+              In-camera
+             </a>
+            </th>
+            <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Tilted_plane_focus" title="Tilted plane focus">
+                 Tilted plane focus
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Forced_perspective" title="Forced perspective">
+                 Forced perspective
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Sch%C3%BCfftan_process" title="Schüfftan process">
+                 Schüfftan process
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Dolly_zoom" title="Dolly zoom">
+                 Dolly zoom
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Lens_flare" title="Lens flare">
+                 Lens flares
+                </a>
+               </li>
+               <li>
+                <a class="mw-redirect" href="/wiki/Lighting_effects" title="Lighting effects">
+                 Lighting effects
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Photographic_filter" title="Photographic filter">
+                 Filtration
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Shutter_(photography)" title="Shutter (photography)">
+                 Shutter effects
+                </a>
+               </li>
+               <li>
+                <a class="mw-redirect" href="/wiki/Time-lapse" title="Time-lapse">
+                 Time-lapse
+                </a>
+                <ul>
+                 <li>
+                  <a href="/wiki/Slow_motion" title="Slow motion">
+                   Slow motion
+                  </a>
+                 </li>
+                 <li>
+                  <a class="mw-redirect" href="/wiki/Fast_motion" title="Fast motion">
+                   Fast motion
+                  </a>
+                 </li>
+                 <li>
+                  <a class="mw-redirect" href="/wiki/Speed_ramping" title="Speed ramping">
+                   Speed ramping
+                  </a>
+                 </li>
+                </ul>
+               </li>
+               <li>
+                <a href="/wiki/Bipack" title="Bipack">
+                 Bipacks
+                </a>
+               </li>
+               <li>
+                <a class="mw-redirect" href="/wiki/Slit-scan" title="Slit-scan">
+                 Slit-scan
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Reverse_motion" title="Reverse motion">
+                 Reverse motion
+                </a>
+               </li>
+               <li>
+                <a class="mw-redirect" href="/wiki/Front_projection" title="Front projection">
+                 Front projection
+                </a>
+               </li>
+               <li>
+                <a class="mw-redirect" href="/wiki/Rear_projection" title="Rear projection">
+                 Rear projection
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Multiple_exposure" title="Multiple exposure">
+                 Multiple exposure
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Infrared_photography" title="Infrared photography">
+                 Infrared photography
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Bullet_time" title="Bullet time">
+                 Bullet time
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="text-align: center;;width:5.0em">
+             <a href="/wiki/Visual_effects" title="Visual effects">
+              Visual
+             </a>
+            </th>
+            <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Computer-generated_imagery" title="Computer-generated imagery">
+                 Computer-generated imagery
+                </a>
+               </li>
+               <li>
+                <a class="mw-redirect" href="/wiki/Split_screen_(filmmaking)" title="Split screen (filmmaking)">
+                 Split screen
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Stop_motion" title="Stop motion">
+                 Stop motion
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Go_motion" title="Go motion">
+                 Go motion
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Chroma_key" title="Chroma key">
+                 Chroma key
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Compositing" title="Compositing">
+                 Compositing
+                </a>
+                (
+                <a href="/wiki/Digital_compositing" title="Digital compositing">
+                 digital
+                </a>
+                )
+               </li>
+               <li>
+                <a href="/wiki/Optical_printer" title="Optical printer">
+                 Optical printing
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Introvision" title="Introvision">
+                 Introvision
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Smallgantics" title="Smallgantics">
+                 Smallgantics
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Match_moving" title="Match moving">
+                 Match moving
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1324
+Cached time: 20180321212328
+Cache expiry: 86400
+Dynamic content: true
+CPU time usage: 0.300 seconds
+Real time usage: 0.384 seconds
+Preprocessor visited node count: 1858/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 113760/2097152 bytes
+Template argument size: 7440/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 6372/5000000 bytes
+Lua time usage: 0.110/10.000 seconds
+Lua memory usage: 4.56 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  302.680      1 -total
+ 27.72%   83.910      1 Template:Reflist
+ 22.49%   68.076      1 Template:Film_crew
+ 21.09%   63.830      1 Template:Navbox_with_collapsible_groups
+ 18.21%   55.116      8 Template:Navbox
+ 14.58%   44.134      1 Template:Cite_press_release
+ 11.86%   35.905      1 Template:Infobox_brand
+ 10.88%   32.942      1 Template:Infobox
+  9.25%   27.990      1 Template:Use_mdy_dates
+  7.63%   23.103      1 Template:Portal_bar
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:215750-0!canonical and timestamp 20180321212328 and revision id 828705819
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Steadicam&amp;oldid=828705819">
+      https://en.wikipedia.org/w/index.php?title=Steadicam&amp;oldid=828705819
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Products_introduced_in_1976" title="Category:Products introduced in 1976">
+         Products introduced in 1976
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:American_inventions" title="Category:American inventions">
+         American inventions
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Cinematography" title="Category:Cinematography">
+         Cinematography
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Film_and_video_technology" title="Category:Film and video technology">
+         Film and video technology
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Photography_equipment" title="Category:Photography equipment">
+         Photography equipment
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Trademarks" title="Category:Trademarks">
+         Trademarks
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Use_mdy_dates_from_October_2016" title="Category:Use mdy dates from October 2016">
+         Use mdy dates from October 2016
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Use_American_English_from_October_2016" title="Category:Use American English from October 2016">
+         Use American English from October 2016
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_Wikipedia_articles_written_in_American_English" title="Category:All Wikipedia articles written in American English">
+         All Wikipedia articles written in American English
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Steadicam" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Steadicam" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Steadicam" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Steadicam" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Steadicam">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Steadicam&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Steadicam&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Steadicam" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Steadicam" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Steadicam&amp;oldid=828705819" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Steadicam&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q744618" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Steadicam&amp;id=828705819" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Steadicam">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Steadicam&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Steadicam&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Category:Steadicams" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Steadicam" hreflang="ca" lang="ca" title="Steadicam – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Steadicam" hreflang="cs" lang="cs" title="Steadicam – Czech">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Steadicam" hreflang="de" lang="de" title="Steadicam – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Steadicam" hreflang="es" lang="es" title="Steadicam – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%A7%D8%B3%D8%AA%D8%AF%DB%8C%E2%80%8C%DA%A9%D9%85" hreflang="fa" lang="fa" title="استدی‌کم – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Steadicam" hreflang="fr" lang="fr" title="Steadicam – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gl">
+        <a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Steadicam" hreflang="gl" lang="gl" title="Steadicam – Galician">
+         Galego
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%8A%A4%ED%85%8C%EB%94%94%EC%BA%A0" hreflang="ko" lang="ko" title="스테디캠 – Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Steadicam" hreflang="it" lang="it" title="Steadicam – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he">
+        <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%A1%D7%98%D7%93%D7%99%D7%A7%D7%90%D7%9D" hreflang="he" lang="he" title="סטדיקאם – Hebrew">
+         עברית
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lt">
+        <a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Steadicam" hreflang="lt" lang="lt" title="Steadicam – Lithuanian">
+         Lietuvių
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hu">
+        <a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Steadicam" hreflang="hu" lang="hu" title="Steadicam – Hungarian">
+         Magyar
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Steadicam" hreflang="nl" lang="nl" title="Steadicam – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%86%E3%83%87%E3%82%A3%E3%82%AB%E3%83%A0" hreflang="ja" lang="ja" title="ステディカム – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Steadicam" hreflang="no" lang="no" title="Steadicam – Norwegian">
+         Norsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nn">
+        <a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Steadicam" hreflang="nn" lang="nn" title="Steadicam – Norwegian Nynorsk">
+         Norsk nynorsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Steadicam" hreflang="pl" lang="pl" title="Steadicam – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Steadicam" hreflang="pt" lang="pt" title="Steadicam – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/Steadicam" hreflang="ru" lang="ru" title="Steadicam – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sh">
+        <a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Steadicam" hreflang="sh" lang="sh" title="Steadicam – Serbo-Croatian">
+         Srpskohrvatski / српскохрватски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Steadicam" hreflang="fi" lang="fi" title="Steadicam – Finnish">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Steadicam" hreflang="sv" lang="sv" title="Steadicam – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tr">
+        <a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Steadicam" hreflang="tr" lang="tr" title="Steadicam – Turkish">
+         Türkçe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/Steadicam" hreflang="uk" lang="uk" title="Steadicam – Ukrainian">
+         Українська
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q744618#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 4 March 2018, at 07:15.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Steadicam&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.300","walltime":"0.384","ppvisitednodes":{"value":1858,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":113760,"limit":2097152},"templateargumentsize":{"value":7440,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":6372,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  302.680      1 -total"," 27.72%   83.910      1 Template:Reflist"," 22.49%   68.076      1 Template:Film_crew"," 21.09%   63.830      1 Template:Navbox_with_collapsible_groups"," 18.21%   55.116      8 Template:Navbox"," 14.58%   44.134      1 Template:Cite_press_release"," 11.86%   35.905      1 Template:Infobox_brand"," 10.88%   32.942      1 Template:Infobox","  9.25%   27.990      1 Template:Use_mdy_dates","  7.63%   23.103      1 Template:Portal_bar"]},"scribunto":{"limitreport-timeusage":{"value":"0.110","limit":"10.000"},"limitreport-memusage":{"value":4785258,"limit":52428800}},"cachereport":{"origin":"mw1324","timestamp":"20180321212328","ttl":86400,"transientcontent":true}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":82,"wgHostname":"mw1265"});});
+  </script>
+ </body>
+</html>

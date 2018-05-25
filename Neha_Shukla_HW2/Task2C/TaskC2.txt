@@ -1,0 +1,50 @@
+
+When the page rank computation is stopped at iteration 4, we can see that the PageRank is not completely computed, that is the values are not significantly converged. At each iteration, PageRank algorithm checks for the convergence - whether it has reached a steady state or final values of PageRank is computed for all the documents.
+
+The following are the baseline results compared with the G1 PageRank values till iteration 4. We can see that in iteration 4 results, the document with Rank 2 - "Virtual_International_Authority_File" with PR value(0.018223091137037083) ranks 1st when the PageRank value is completely converged in the baseline result(0.020338218996984046). Similarly, it can be noticed that documents at Rank 13 and 14 has exchanged places in the baseline as compared to the iteration 4 values.
+
+
+PageRank Values for G1(baseline):
+1.   Virtual_International_Authority_File         0.020338218996984046
+2.   International_Standard_Book_Number           0.020096583364654873
+3.   Digital_object_identifier                    0.017563883676440063
+4.   Integrated_Authority_File                    0.01560163467132466
+5.   Wayback_Machine                              0.01284234606624947
+6.   Biblioth%C3%A8que_nationale_de_France        0.011737036374080191
+7.   International_Standard_Name_Identifier       0.01083650461620879
+8.   Library_of_Congress_Control_Number           0.009967670164164739
+9.   National_Diet_Library                        0.00807828990200976
+10.  OCLC                                         0.007087362643491363
+11.  Bibcode                                      0.00631563698027494
+12.  Moon                                         0.005112066204981868
+13.  Astronomy                                    0.004116243996242602
+14.  Earth                                        0.003982687456065959
+15.  Sun                                          0.003916270250346015
+16.  ArXiv                                        0.003757868857346799
+17.  Russia                                       0.003551196305844598
+18.  Solar_eclipse                                0.0030281819133615197
+19.  Solar_System                                 0.0025826005734109203
+20.  NASA                                         0.00251524677717622
+
+
+PageRank Values for iteration 4
+1.  International_Standard_Book_Number            0.019790843480981948
+2.  Virtual_International_Authority_File          0.018223091137037083
+3.  Digital_object_identifier                     0.016833400998319443
+4.  Integrated_Authority_File                     0.014349185953081925
+5.  Wayback_Machine                               0.011746983156235197
+6.  Biblioth%C3%A8que_nationale_de_France         0.010501507837614478
+7.  International_Standard_Name_Identifier        0.00965435140645942
+8.  Library_of_Congress_Control_Number            0.009376009748618989
+9.  National_Diet_Library                         0.007455609396483705
+10. OCLC                                          0.006632741894092381
+11. Bibcode                                       0.006481689411139106
+12. Moon                                          0.005644053329952119
+13. Earth                                         0.004349167750147142
+14. Astronomy                                     0.004281976785291776
+15. Sun                                           0.004198370956897329
+16. ArXiv                                         0.0037673408850769307
+17. Russia                                        0.0031530620625190037
+18. Solar_eclipse                                 0.003152317528219251
+19. Solar_System                                  0.0028218845236249067
+20. NASA                                          0.0026491151150489813

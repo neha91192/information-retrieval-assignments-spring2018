@@ -1,0 +1,2400 @@
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Anisotropy - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Anisotropy","wgTitle":"Anisotropy","wgCurRevisionId":828565941,"wgRevisionId":828565941,"wgArticleId":1264,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from May 2017","All articles needing additional references","Use dmy dates from April 2013","Wikipedia articles with GND identifiers","Orientation (geometry)"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Anisotropy","wgRelevantArticleId":1264,"wgRequestId":"Wq5hiwpAIC8AALMQCnUAAAAU","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q466686","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.25" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/WMAP_2010.png/1200px-WMAP_2010.png" property="og:image"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Anisotropy" rel="alternate"/>
+  <link href="/w/index.php?title=Anisotropy&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Anisotropy&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Anisotropy" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Anisotropy rootpage-Anisotropy skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Anisotropy
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+       <tr>
+        <td class="mbox-image">
+         <div style="width:52px">
+          <a class="image" href="/wiki/File:Question_book-new.svg">
+           <img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/>
+          </a>
+         </div>
+        </td>
+        <td class="mbox-text">
+         <div class="mbox-text-span">
+          This article
+          <b>
+           needs additional citations for
+           <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">
+            verification
+           </a>
+          </b>
+          .
+          <span class="hide-when-compact">
+           Please help
+           <a class="external text" href="//en.wikipedia.org/w/index.php?title=Anisotropy&amp;action=edit">
+            improve this article
+           </a>
+           by
+           <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">
+            adding citations to reliable sources
+           </a>
+           . Unsourced material may be challenged and removed.
+          </span>
+          <small>
+           <i>
+            (May 2017)
+           </i>
+          </small>
+          <small class="hide-when-compact">
+           <i>
+            (
+            <a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">
+             Learn how and when to remove this template message
+            </a>
+            )
+           </i>
+          </small>
+         </div>
+        </td>
+       </tr>
+      </table>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:302px;">
+        <a class="image" href="/wiki/File:WMAP_2010.png">
+         <img alt="" class="thumbimage" data-file-height="2048" data-file-width="4096" height="150" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/WMAP_2010.png/300px-WMAP_2010.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/WMAP_2010.png/450px-WMAP_2010.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2d/WMAP_2010.png/600px-WMAP_2010.png 2x" width="300"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:WMAP_2010.png" title="Enlarge">
+          </a>
+         </div>
+         <a href="/wiki/Wilkinson_Microwave_Anisotropy_Probe" title="Wilkinson Microwave Anisotropy Probe">
+          WMAP
+         </a>
+         image of the (extremely tiny) anisotropies in the
+         <a href="/wiki/Cosmic_background_radiation" title="Cosmic background radiation">
+          cosmic background radiation
+         </a>
+        </div>
+       </div>
+      </div>
+      <p>
+       <b>
+        Anisotropy
+       </b>
+       <span class="nowrap">
+        <span class="IPA nopopups noexcerpt">
+         <a href="/wiki/Help:IPA/English" title="Help:IPA/English">
+          /
+          <span style="border-bottom:1px dotted">
+           <span title="/ˌ/: secondary stress follows">
+            ˌ
+           </span>
+           <span title="/æ/: 'a' in 'bad'">
+            æ
+           </span>
+           <span title="'n' in 'nigh'">
+            n
+           </span>
+           <span title="/ɪ/: 'i' in 'kit'">
+            ɪ
+           </span>
+           <span title="/ˈ/: primary stress follows">
+            ˈ
+           </span>
+           <span title="'s' in 'sigh'">
+            s
+           </span>
+           <span title="/ɒ/: 'o' in 'body'">
+            ɒ
+           </span>
+           <span title="'t' in 'tie'">
+            t
+           </span>
+           <span title="'r' in 'rye'">
+            r
+           </span>
+           <span title="/ə/: 'a' in 'about'">
+            ə
+           </span>
+           <span title="'p' in 'pie'">
+            p
+           </span>
+           <span title="/i/: 'y' in 'happy'">
+            i
+           </span>
+          </span>
+          /
+         </a>
+        </span>
+       </span>
+       ,
+       <span class="nowrap">
+        <span class="IPA nopopups noexcerpt">
+         <a href="/wiki/Help:IPA/English" title="Help:IPA/English">
+          /
+          <span style="border-bottom:1px dotted">
+           <span title="/ˌ/: secondary stress follows">
+            ˌ
+           </span>
+           <span title="/æ/: 'a' in 'bad'">
+            æ
+           </span>
+           <span title="'n' in 'nigh'">
+            n
+           </span>
+           <span title="/aɪ/: 'i' in 'tide'">
+            aɪ
+           </span>
+           <span title="/ˈ/: primary stress follows">
+            ˈ
+           </span>
+           <span title="'s' in 'sigh'">
+            s
+           </span>
+           <span title="/ɒ/: 'o' in 'body'">
+            ɒ
+           </span>
+           <span title="'t' in 'tie'">
+            t
+           </span>
+           <span title="'r' in 'rye'">
+            r
+           </span>
+           <span title="/ə/: 'a' in 'about'">
+            ə
+           </span>
+           <span title="'p' in 'pie'">
+            p
+           </span>
+           <span title="/i/: 'y' in 'happy'">
+            i
+           </span>
+          </span>
+          /
+         </a>
+        </span>
+       </span>
+       is the property of being directionally dependent, which implies different properties in different directions, as opposed to
+       <a href="/wiki/Isotropy" title="Isotropy">
+        isotropy
+       </a>
+       . It can be defined as a difference, when measured along different axes, in a material's
+       <a href="/wiki/Physical_property" title="Physical property">
+        physical
+       </a>
+       or
+       <a href="/wiki/List_of_materials_properties#Mechanical_properties" title="List of materials properties">
+        mechanical properties
+       </a>
+       (
+       <a href="/wiki/Absorbance" title="Absorbance">
+        absorbance
+       </a>
+       ,
+       <a href="/wiki/Refractive_index" title="Refractive index">
+        refractive index
+       </a>
+       ,
+       <a href="/wiki/Electrical_resistivity_and_conductivity" title="Electrical resistivity and conductivity">
+        conductivity
+       </a>
+       ,
+       <a class="mw-redirect" href="/wiki/Tensile_strength" title="Tensile strength">
+        tensile strength
+       </a>
+       , etc.) An example of anisotropy is the light coming through a
+       <a href="/wiki/Polarizer" title="Polarizer">
+        polarizer
+       </a>
+       . Another is
+       <a href="/wiki/Wood" title="Wood">
+        wood
+       </a>
+       , which is easier to split along its
+       <a href="/wiki/Wood_grain" title="Wood grain">
+        grain
+       </a>
+       than against it.
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Fields_of_interest">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Fields of interest
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-2">
+           <a href="#Computer_graphics">
+            <span class="tocnumber">
+             1.1
+            </span>
+            <span class="toctext">
+             Computer graphics
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-3">
+           <a href="#Chemistry">
+            <span class="tocnumber">
+             1.2
+            </span>
+            <span class="toctext">
+             Chemistry
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-4">
+           <a href="#Real-world_imagery">
+            <span class="tocnumber">
+             1.3
+            </span>
+            <span class="toctext">
+             Real-world imagery
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-5">
+           <a href="#Physics">
+            <span class="tocnumber">
+             1.4
+            </span>
+            <span class="toctext">
+             Physics
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-6">
+           <a href="#Geophysics_and_geology">
+            <span class="tocnumber">
+             1.5
+            </span>
+            <span class="toctext">
+             Geophysics and geology
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-7">
+           <a href="#Medical_acoustics">
+            <span class="tocnumber">
+             1.6
+            </span>
+            <span class="toctext">
+             Medical acoustics
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-8">
+           <a href="#Material_science_and_engineering">
+            <span class="tocnumber">
+             1.7
+            </span>
+            <span class="toctext">
+             Material science and engineering
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-9">
+           <a href="#Microfabrication">
+            <span class="tocnumber">
+             1.8
+            </span>
+            <span class="toctext">
+             Microfabrication
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-10">
+           <a href="#Neuroscience">
+            <span class="tocnumber">
+             1.9
+            </span>
+            <span class="toctext">
+             Neuroscience
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-11">
+           <a href="#Atmospheric_radiative_transfer">
+            <span class="tocnumber">
+             1.10
+            </span>
+            <span class="toctext">
+             Atmospheric radiative transfer
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-12">
+         <a href="#See_also">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-13">
+         <a href="#References">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-14">
+         <a href="#External_links">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           External links
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Fields_of_interest">
+        Fields of interest
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Anisotropy&amp;action=edit&amp;section=1" title="Edit section: Fields of interest">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <h3>
+       <span class="mw-headline" id="Computer_graphics">
+        Computer graphics
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Anisotropy&amp;action=edit&amp;section=2" title="Edit section: Computer graphics">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       In the field of
+       <a href="/wiki/Computer_graphics" title="Computer graphics">
+        computer graphics
+       </a>
+       , an anisotropic surface changes in appearance as it rotates about its
+       <a href="/wiki/Normal_(geometry)" title="Normal (geometry)">
+        geometric normal
+       </a>
+       , as is the case with
+       <a href="/wiki/Velvet" title="Velvet">
+        velvet
+       </a>
+       .
+      </p>
+      <p>
+       <a href="/wiki/Anisotropic_filtering" title="Anisotropic filtering">
+        Anisotropic filtering
+       </a>
+       (AF) is a method of enhancing the image quality of textures on surfaces that are far away and steeply angled with respect to the point of view. Older techniques, such as
+       <a href="/wiki/Bilinear_filtering" title="Bilinear filtering">
+        bilinear
+       </a>
+       and
+       <a href="/wiki/Trilinear_filtering" title="Trilinear filtering">
+        trilinear filtering
+       </a>
+       , do not take into account the angle a surface is viewed from, which can result in
+       <a href="/wiki/Aliasing" title="Aliasing">
+        aliasing
+       </a>
+       or blurring of textures. By reducing detail in one direction more than another, these effects can be reduced.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Chemistry">
+        Chemistry
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Anisotropy&amp;action=edit&amp;section=3" title="Edit section: Chemistry">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       A chemical anisotropic
+       <a class="mw-redirect" href="/wiki/Filter_(chemistry)" title="Filter (chemistry)">
+        filter
+       </a>
+       , as used to filter particles, is a filter with increasingly smaller interstitial spaces in the direction of filtration so that the
+       <a href="/wiki/Anatomical_terms_of_location#Proximal_and_distal" title="Anatomical terms of location">
+        proximal
+       </a>
+       <a href="/wiki/Region" title="Region">
+        regions
+       </a>
+       filter out larger particles and
+       <a href="/wiki/Anatomical_terms_of_location#Proximal_and_distal" title="Anatomical terms of location">
+        distal
+       </a>
+       regions increasingly remove smaller particles, resulting in greater flow-through and more efficient filtration.
+      </p>
+      <p>
+       In
+       <a href="/wiki/Nuclear_magnetic_resonance_spectroscopy" title="Nuclear magnetic resonance spectroscopy">
+        NMR spectroscopy
+       </a>
+       , the orientation of nuclei with respect to the applied magnetic field determines their
+       <a href="/wiki/Chemical_shift" title="Chemical shift">
+        chemical shift
+       </a>
+       . In this context, anisotropic systems refer to the electron distribution of molecules with abnormally high electron density, like the pi system of
+       <a href="/wiki/Benzene" title="Benzene">
+        benzene
+       </a>
+       . This abnormal electron density affects the applied magnetic field and causes the observed chemical shift to change.
+      </p>
+      <p>
+       In
+       <a href="/wiki/Fluorescence_spectroscopy" title="Fluorescence spectroscopy">
+        fluorescence spectroscopy
+       </a>
+       , the
+       <a href="/wiki/Fluorescence_anisotropy" title="Fluorescence anisotropy">
+        fluorescence anisotropy
+       </a>
+       , calculated from the
+       <a href="/wiki/Polarization_(waves)" title="Polarization (waves)">
+        polarization
+       </a>
+       properties of fluorescence from samples excited with plane-polarized light, is used, e.g., to determine the shape of a macromolecule. Anisotropy measurements reveal the average angular displacement of the fluorophore that occurs between absorption and subsequent emission of a photon.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Real-world_imagery">
+        Real-world imagery
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Anisotropy&amp;action=edit&amp;section=4" title="Edit section: Real-world imagery">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       Images of a gravity-bound or man-made environment are particularly anisotropic in the orientation domain, with more image structure located at orientations parallel with or orthogonal to the direction of gravity (vertical and horizontal).
+      </p>
+      <h3>
+       <span class="mw-headline" id="Physics">
+        Physics
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Anisotropy&amp;action=edit&amp;section=5" title="Edit section: Physics">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:302px;">
+        <a class="image" href="/wiki/File:Plasma-lamp_2.jpg">
+         <img alt="" class="thumbimage" data-file-height="1609" data-file-width="1589" height="304" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Plasma-lamp_2.jpg/300px-Plasma-lamp_2.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Plasma-lamp_2.jpg/450px-Plasma-lamp_2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/26/Plasma-lamp_2.jpg/600px-Plasma-lamp_2.jpg 2x" width="300"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Plasma-lamp_2.jpg" title="Enlarge">
+          </a>
+         </div>
+         A
+         <a href="/wiki/Plasma_globe" title="Plasma globe">
+          plasma lamp
+         </a>
+         displaying the nature of
+         <a href="/wiki/Plasma_(physics)" title="Plasma (physics)">
+          plasmas
+         </a>
+         , in this case, the phenomenon of "filamentation"
+        </div>
+       </div>
+      </div>
+      <p>
+       <a class="mw-redirect" href="/wiki/Physicists" title="Physicists">
+        Physicists
+       </a>
+       from
+       <a href="/wiki/University_of_California,_Berkeley" title="University of California, Berkeley">
+        University of California, Berkeley
+       </a>
+       reported about their detection of the cosine anisotropy in
+       <a class="mw-redirect" href="/wiki/Cosmic_microwave_background_radiation" title="Cosmic microwave background radiation">
+        cosmic microwave background radiation
+       </a>
+       in 1977. Their experiment demonstrated the
+       <a class="mw-redirect" href="/wiki/Doppler_shift" title="Doppler shift">
+        Doppler shift
+       </a>
+       caused by the movement of the earth with respect to the
+       <a href="/wiki/Big_Bang" title="Big Bang">
+        early Universe matter
+       </a>
+       , the source of the radiation.
+       <sup class="reference" id="cite_ref-1">
+        <a href="#cite_note-1">
+         [1]
+        </a>
+       </sup>
+       Cosmic anisotropy has also been seen in the alignment of galaxies' rotation axes and polarisation angles of quasars.
+      </p>
+      <p>
+       Physicists use the term anisotropy to describe direction-dependent properties of materials.
+       <a href="/wiki/Magnetic_anisotropy" title="Magnetic anisotropy">
+        Magnetic anisotropy
+       </a>
+       , for example, may occur in a
+       <a href="/wiki/Plasma_(physics)" title="Plasma (physics)">
+        plasma
+       </a>
+       , so that its magnetic field is oriented in a preferred direction. Plasmas may also show "filamentation" (such as that seen in
+       <a href="/wiki/Lightning" title="Lightning">
+        lightning
+       </a>
+       or a
+       <a href="/wiki/Plasma_globe" title="Plasma globe">
+        plasma globe
+       </a>
+       ) that is directional.
+      </p>
+      <p>
+       An
+       <i>
+        anisotropic liquid
+       </i>
+       has the fluidity of a normal liquid, but has an average structural order relative to each other along the molecular axis, unlike water or
+       <a href="/wiki/Chloroform" title="Chloroform">
+        chloroform
+       </a>
+       , which contain no structural ordering of the molecules.
+       <a class="mw-redirect" href="/wiki/Liquid_crystals" title="Liquid crystals">
+        Liquid crystals
+       </a>
+       are examples of anisotropic liquids.
+      </p>
+      <p>
+       Some materials
+       <a class="mw-redirect" href="/wiki/Heat_conduction" title="Heat conduction">
+        conduct heat
+       </a>
+       in a way that is isotropic, that is independent of spatial orientation around the heat source. Heat conduction is more commonly anisotropic, which implies that detailed geometric modeling of typically diverse materials being thermally managed is required. The materials used to transfer and reject heat from the heat source in
+       <a href="/wiki/Electronics" title="Electronics">
+        electronics
+       </a>
+       are often anisotropic.
+       <sup class="reference" id="cite_ref-Nature8April2013_2-0">
+        <a href="#cite_note-Nature8April2013-2">
+         [2]
+        </a>
+       </sup>
+      </p>
+      <p>
+       Many
+       <a href="/wiki/Crystal" title="Crystal">
+        crystals
+       </a>
+       are anisotropic to
+       <a href="/wiki/Light" title="Light">
+        light
+       </a>
+       ("optical anisotropy"), and exhibit properties such as
+       <a href="/wiki/Birefringence" title="Birefringence">
+        birefringence
+       </a>
+       .
+       <a href="/wiki/Crystal_optics" title="Crystal optics">
+        Crystal optics
+       </a>
+       describes light propagation in these media. An "axis of anisotropy" is defined as the axis along which isotropy is broken (or an axis of symmetry, such as normal to crystalline layers). Some materials can have multiple such
+       <a href="/wiki/Optical_axis" title="Optical axis">
+        optical axes
+       </a>
+       .
+      </p>
+      <h3>
+       <span class="mw-headline" id="Geophysics_and_geology">
+        Geophysics and geology
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Anisotropy&amp;action=edit&amp;section=6" title="Edit section: Geophysics and geology">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       <a href="/wiki/Seismic_anisotropy" title="Seismic anisotropy">
+        Seismic anisotropy
+       </a>
+       is the variation of seismic wavespeed with direction. Seismic anisotropy is an indicator of long range order in a material, where features smaller than the seismic
+       <a href="/wiki/Wavelength" title="Wavelength">
+        wavelength
+       </a>
+       (e.g., crystals, cracks, pores, layers or inclusions) have a dominant alignment. This alignment leads to a directional variation of
+       <a href="/wiki/Elasticity_(physics)" title="Elasticity (physics)">
+        elasticity
+       </a>
+       wavespeed. Measuring the effects of anisotropy in seismic data can provide important information about processes and mineralogy in the Earth; indeed, significant seismic anisotropy has been detected in the Earth's
+       <a href="/wiki/Crust_(geology)" title="Crust (geology)">
+        crust
+       </a>
+       ,
+       <a href="/wiki/Mantle_(geology)" title="Mantle (geology)">
+        mantle
+       </a>
+       and
+       <a href="/wiki/Inner_core" title="Inner core">
+        inner core
+       </a>
+       .
+      </p>
+      <p>
+       <a class="mw-redirect" href="/wiki/Geological" title="Geological">
+        Geological
+       </a>
+       formations with distinct layers of
+       <a class="mw-redirect" href="/wiki/Sedimentary" title="Sedimentary">
+        sedimentary
+       </a>
+       material can exhibit electrical anisotropy;
+       <a class="mw-redirect" href="/wiki/Electrical_conductivity" title="Electrical conductivity">
+        electrical conductivity
+       </a>
+       in one direction (e.g. parallel to a layer), is different from that in another (e.g. perpendicular to a layer). This property is used in the gas and
+       <a class="mw-redirect" href="/wiki/Oil_exploration" title="Oil exploration">
+        oil exploration
+       </a>
+       industry to identify
+       <a href="/wiki/Hydrocarbon" title="Hydrocarbon">
+        hydrocarbon
+       </a>
+       -bearing sands in sequences of
+       <a href="/wiki/Sand" title="Sand">
+        sand
+       </a>
+       and
+       <a href="/wiki/Shale" title="Shale">
+        shale
+       </a>
+       . Sand-bearing hydrocarbon assets have high
+       <a class="mw-redirect" href="/wiki/Resistivity" title="Resistivity">
+        resistivity
+       </a>
+       (low conductivity), whereas shales have lower resistivity.
+       <a href="/wiki/Formation_evaluation" title="Formation evaluation">
+        Formation evaluation
+       </a>
+       instruments measure this conductivity/resistivity and the results are used to help find oil and gas in wells.
+      </p>
+      <p>
+       The
+       <a href="/wiki/Hydraulic_conductivity" title="Hydraulic conductivity">
+        hydraulic conductivity
+       </a>
+       of
+       <a href="/wiki/Aquifer" title="Aquifer">
+        aquifers
+       </a>
+       is often anisotropic for the same reason. When calculating groundwater flow to
+       <a href="/wiki/Drainage" title="Drainage">
+        drains
+       </a>
+       <sup class="reference" id="cite_ref-3">
+        <a href="#cite_note-3">
+         [3]
+        </a>
+       </sup>
+       or to
+       <a href="/wiki/Water_well" title="Water well">
+        wells
+       </a>
+       ,
+       <sup class="reference" id="cite_ref-4">
+        <a href="#cite_note-4">
+         [4]
+        </a>
+       </sup>
+       the difference between horizontal and vertical permeability must be taken into account, otherwise the results may be subject to error.
+      </p>
+      <p>
+       Most common rock-forming
+       <a href="/wiki/Mineral" title="Mineral">
+        minerals
+       </a>
+       are anisotropic, including
+       <a href="/wiki/Quartz" title="Quartz">
+        quartz
+       </a>
+       and
+       <a href="/wiki/Feldspar" title="Feldspar">
+        feldspar
+       </a>
+       . Anisotropy in minerals is most reliably seen in their
+       <a href="/wiki/Optical_mineralogy" title="Optical mineralogy">
+        optical properties
+       </a>
+       . An example of an isotropic mineral is
+       <a href="/wiki/Garnet" title="Garnet">
+        garnet
+       </a>
+       .
+      </p>
+      <h3>
+       <span class="mw-headline" id="Medical_acoustics">
+        Medical acoustics
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Anisotropy&amp;action=edit&amp;section=7" title="Edit section: Medical acoustics">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       Anisotropy is also a well-known property in medical ultrasound imaging describing a different resulting
+       <a href="/wiki/Echogenicity" title="Echogenicity">
+        echogenicity
+       </a>
+       of soft tissues, such as tendons, when the angle of the transducer is changed. Tendon fibers appear hyperechoic (bright) when the transducer is perpendicular to the tendon, but can appear hypoechoic (darker) when the transducer is angled obliquely. This can be a source of interpretation error for inexperienced practitioners.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Material_science_and_engineering">
+        Material science and engineering
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Anisotropy&amp;action=edit&amp;section=8" title="Edit section: Material science and engineering">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       Anisotropy, in Material Science, is a material's directional dependence of a physical property. Most materials exhibit anisotropic behavior. An example would be the dependence of
+       <a href="/wiki/Young%27s_modulus" title="Young's modulus">
+        Young's modulus
+       </a>
+       on the direction of load.
+       <sup class="reference" id="cite_ref-5">
+        <a href="#cite_note-5">
+         [5]
+        </a>
+       </sup>
+       Anisotropy in polycrystalline materials can also be due to certain
+       <a href="/wiki/Texture_(crystalline)" title="Texture (crystalline)">
+        texture
+       </a>
+       patterns often produced during manufacturing of the material. In the case of rolling, "stringers" of texture are produced in the direction of rolling, which can lead to vastly different properties in the rolling and transverse directions. Some materials, such as wood and fibre-reinforced
+       <a href="/wiki/Composite_material" title="Composite material">
+        composites
+       </a>
+       are very anisotropic, being much stronger along the grain/fibre than across it. Metals and alloys tend to be more isotropic, though they can sometimes exhibit significant anisotropic behaviour. This is especially important in processes such as
+       <a href="/wiki/Deep_drawing" title="Deep drawing">
+        deep-drawing
+       </a>
+       .
+      </p>
+      <p>
+       Wood is a naturally anisotropic (but often simplified to be
+       <a class="mw-redirect" href="/wiki/Transversely_isotropic" title="Transversely isotropic">
+        transversely isotropic
+       </a>
+       ) material. Its properties vary widely when measured with or against the growth grain. For example, wood's strength and hardness is different for the same sample measured in different orientations.
+      </p>
+      <p>
+       In the Mechanics of Continuum Materials isotropy and anisotropy are rigorously described through the symmetry group of the constitutive relation.
+       <sup class="reference" id="cite_ref-6">
+        <a href="#cite_note-6">
+         [6]
+        </a>
+       </sup>
+      </p>
+      <h3>
+       <span class="mw-headline" id="Microfabrication">
+        Microfabrication
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Anisotropy&amp;action=edit&amp;section=9" title="Edit section: Microfabrication">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       Anisotropic etching techniques (such as
+       <a class="mw-redirect" href="/wiki/Deep_reactive_ion_etching" title="Deep reactive ion etching">
+        deep reactive ion etching
+       </a>
+       ) are used in microfabrication processes to create well defined microscopic features with a high
+       <a href="/wiki/Aspect_ratio" title="Aspect ratio">
+        aspect ratio
+       </a>
+       . These features are commonly used in
+       <a href="/wiki/Microelectromechanical_systems" title="Microelectromechanical systems">
+        MEMS
+       </a>
+       and
+       <a class="mw-redirect" href="/wiki/Microfluidic" title="Microfluidic">
+        microfluidic
+       </a>
+       devices, where the anisotropy of the features is needed to impart desired optical, electrical, or physical properties to the device. Anisotropic etching can also refer to certain chemical etchants used to etch a certain material preferentially over certain crystallographic planes (e.g., KOH etching of
+       <a href="/wiki/Silicon" title="Silicon">
+        silicon
+       </a>
+       [100] produces pyramid-like structures)
+      </p>
+      <h3>
+       <span class="mw-headline" id="Neuroscience">
+        Neuroscience
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Anisotropy&amp;action=edit&amp;section=10" title="Edit section: Neuroscience">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       <a class="mw-redirect" href="/wiki/Diffusion_tensor_imaging" title="Diffusion tensor imaging">
+        Diffusion tensor imaging
+       </a>
+       is an
+       <a href="/wiki/Magnetic_resonance_imaging" title="Magnetic resonance imaging">
+        MRI
+       </a>
+       technique that involves measuring the fractional anisotropy of the random motion (
+       <a href="/wiki/Brownian_motion" title="Brownian motion">
+        Brownian motion
+       </a>
+       ) of water molecules in the brain. Water molecules located in
+       <a href="/wiki/White_matter" title="White matter">
+        fiber tracts
+       </a>
+       are more likely to be anisotropic, since they are restricted in their movement (they move more in the dimension parallel to the fiber tract rather than in the two dimensions orthogonal to it), whereas water molecules dispersed in the rest of the brain have less restricted movement and therefore display more isotropy. This difference in fractional anisotropy is exploited to create a map of the fiber tracts in the brains of the individual.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Atmospheric_radiative_transfer">
+        Atmospheric radiative transfer
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Anisotropy&amp;action=edit&amp;section=11" title="Edit section: Atmospheric radiative transfer">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       <a href="/wiki/Radiance" title="Radiance">
+        Radiance
+       </a>
+       fields (see
+       <a class="mw-redirect" href="/wiki/BRDF" title="BRDF">
+        BRDF
+       </a>
+       ) from a reflective surface are often not isotropic in nature. This makes calculations of the total energy being reflected from any scene a difficult quantity to calculate. In
+       <a href="/wiki/Remote_sensing" title="Remote sensing">
+        remote sensing
+       </a>
+       applications, anisotropy functions can be derived for specific scenes, immensely simplifying the calculation of the net reflectance or (thereby) the net
+       <a href="/wiki/Irradiance" title="Irradiance">
+        irradiance
+       </a>
+       of a scene. For example, let the
+       <a class="mw-redirect" href="/wiki/BRDF" title="BRDF">
+        BRDF
+       </a>
+       be
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \gamma (\Omega _{i},\Omega _{v})}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              γ
+              <!-- γ -->
+             </mi>
+             <mo stretchy="false">
+              (
+             </mo>
+             <msub>
+              <mi mathvariant="normal">
+               Ω
+               <!-- Ω -->
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                i
+               </mi>
+              </mrow>
+             </msub>
+             <mo>
+              ,
+             </mo>
+             <msub>
+              <mi mathvariant="normal">
+               Ω
+               <!-- Ω -->
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                v
+               </mi>
+              </mrow>
+             </msub>
+             <mo stretchy="false">
+              )
+             </mo>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \gamma (\Omega _{i},\Omega _{v})}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\gamma (\Omega _{i},\Omega _{v})" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a7140df5b75183537ffeedf1d78e80cf4bb376d2" style="vertical-align: -0.838ex; width:9.291ex; height:2.843ex;"/>
+       </span>
+       where 'i' denotes incident direction and 'v' denotes viewing direction (as if from a satellite or other instrument). And let P be the Planar Albedo, which represents the total reflectance from the scene.
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle P(\Omega _{i})=\int _{\Omega _{v}}\gamma (\Omega _{i},\Omega _{v}){\hat {n}}\cdot d{\hat {\Omega }}_{v}}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               P
+              </mi>
+              <mo stretchy="false">
+               (
+              </mo>
+              <msub>
+               <mi mathvariant="normal">
+                Ω
+                <!-- Ω -->
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 i
+                </mi>
+               </mrow>
+              </msub>
+              <mo stretchy="false">
+               )
+              </mo>
+              <mo>
+               =
+              </mo>
+              <msub>
+               <mo>
+                ∫
+                <!-- ∫ -->
+               </mo>
+               <mrow class="MJX-TeXAtom-ORD">
+                <msub>
+                 <mi mathvariant="normal">
+                  Ω
+                  <!-- Ω -->
+                 </mi>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mi>
+                   v
+                  </mi>
+                 </mrow>
+                </msub>
+               </mrow>
+              </msub>
+              <mi>
+               γ
+               <!-- γ -->
+              </mi>
+              <mo stretchy="false">
+               (
+              </mo>
+              <msub>
+               <mi mathvariant="normal">
+                Ω
+                <!-- Ω -->
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 i
+                </mi>
+               </mrow>
+              </msub>
+              <mo>
+               ,
+              </mo>
+              <msub>
+               <mi mathvariant="normal">
+                Ω
+                <!-- Ω -->
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 v
+                </mi>
+               </mrow>
+              </msub>
+              <mo stretchy="false">
+               )
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mrow class="MJX-TeXAtom-ORD">
+                <mover>
+                 <mi>
+                  n
+                 </mi>
+                 <mo stretchy="false">
+                  ^
+                  <!-- ^ -->
+                 </mo>
+                </mover>
+               </mrow>
+              </mrow>
+              <mo>
+               ⋅
+               <!-- ⋅ -->
+              </mo>
+              <mi>
+               d
+              </mi>
+              <msub>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mrow class="MJX-TeXAtom-ORD">
+                 <mover>
+                  <mi mathvariant="normal">
+                   Ω
+                   <!-- Ω -->
+                  </mi>
+                  <mo stretchy="false">
+                   ^
+                   <!-- ^ -->
+                  </mo>
+                 </mover>
+                </mrow>
+               </mrow>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 v
+                </mi>
+               </mrow>
+              </msub>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle P(\Omega _{i})=\int _{\Omega _{v}}\gamma (\Omega _{i},\Omega _{v}){\hat {n}}\cdot d{\hat {\Omega }}_{v}}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle P(\Omega _{i})=\int _{\Omega _{v}}\gamma (\Omega _{i},\Omega _{v}){\hat {n}}\cdot d{\hat {\Omega }}_{v}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/90bff0bbd8e083828d73e77c62a13d99a8121ef2" style="vertical-align: -2.671ex; width:29.329ex; height:6.009ex;"/>
+        </span>
+       </dd>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle A(\Omega _{i},\Omega _{v})={\frac {\gamma (\Omega _{i},\Omega _{v})}{P(\Omega _{i})}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               A
+              </mi>
+              <mo stretchy="false">
+               (
+              </mo>
+              <msub>
+               <mi mathvariant="normal">
+                Ω
+                <!-- Ω -->
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 i
+                </mi>
+               </mrow>
+              </msub>
+              <mo>
+               ,
+              </mo>
+              <msub>
+               <mi mathvariant="normal">
+                Ω
+                <!-- Ω -->
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 v
+                </mi>
+               </mrow>
+              </msub>
+              <mo stretchy="false">
+               )
+              </mo>
+              <mo>
+               =
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mrow>
+                 <mi>
+                  γ
+                  <!-- γ -->
+                 </mi>
+                 <mo stretchy="false">
+                  (
+                 </mo>
+                 <msub>
+                  <mi mathvariant="normal">
+                   Ω
+                   <!-- Ω -->
+                  </mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mi>
+                    i
+                   </mi>
+                  </mrow>
+                 </msub>
+                 <mo>
+                  ,
+                 </mo>
+                 <msub>
+                  <mi mathvariant="normal">
+                   Ω
+                   <!-- Ω -->
+                  </mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mi>
+                    v
+                   </mi>
+                  </mrow>
+                 </msub>
+                 <mo stretchy="false">
+                  )
+                 </mo>
+                </mrow>
+                <mrow>
+                 <mi>
+                  P
+                 </mi>
+                 <mo stretchy="false">
+                  (
+                 </mo>
+                 <msub>
+                  <mi mathvariant="normal">
+                   Ω
+                   <!-- Ω -->
+                  </mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mi>
+                    i
+                   </mi>
+                  </mrow>
+                 </msub>
+                 <mo stretchy="false">
+                  )
+                 </mo>
+                </mrow>
+               </mfrac>
+              </mrow>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle A(\Omega _{i},\Omega _{v})={\frac {\gamma (\Omega _{i},\Omega _{v})}{P(\Omega _{i})}}}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="A(\Omega _{i},\Omega _{v})={\frac {\gamma (\Omega _{i},\Omega _{v})}{P(\Omega _{i})}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6ffefa34a1e1861761bdd2bb49159100ac276f00" style="vertical-align: -2.671ex; width:22.997ex; height:6.509ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       It is of interest because, with knowledge of the anisotropy function as defined, a measurement of the
+       <a class="mw-redirect" href="/wiki/BRDF" title="BRDF">
+        BRDF
+       </a>
+       from a single viewing direction (say,
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \Omega _{v}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi mathvariant="normal">
+               Ω
+               <!-- Ω -->
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                v
+               </mi>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \Omega _{v}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\Omega _{v}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4d6f1be675b12ad16e7d9ac143acbe88af2b5d8a" style="vertical-align: -0.671ex; width:2.708ex; height:2.509ex;"/>
+       </span>
+       ) yields a measure of the total scene reflectance (Planar Albedo) for that specific incident geometry (say,
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \Omega _{i}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi mathvariant="normal">
+               Ω
+               <!-- Ω -->
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                i
+               </mi>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \Omega _{i}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\Omega _{i}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/74acfe88f6f249b5d944825a319d225b182e47fd" style="vertical-align: -0.671ex; width:2.478ex; height:2.509ex;"/>
+       </span>
+       ).
+      </p>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Anisotropy&amp;action=edit&amp;section=12" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a href="/wiki/Circular_symmetry" title="Circular symmetry">
+         Circular symmetry
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Anisotropy&amp;action=edit&amp;section=13" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist" style="list-style-type: decimal;">
+       <div class="mw-references-wrap">
+        <ol class="references">
+         <li id="cite_note-1">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-1">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            Smoot G. F.; Gorenstein M. V. &amp;
+            <a href="/wiki/Richard_A._Muller" title="Richard A. Muller">
+             Muller R. A.
+            </a>
+            (5 October 1977).
+            <a class="external text" href="http://www.muller.lbl.gov/COBE-early_history/anisotropy-PRL.pdf" rel="nofollow">
+             "Detection of Anisotropy in the Cosmic Blackbody Radiation"
+            </a>
+            <span style="font-size:85%;">
+             (PDF)
+            </span>
+            .
+            <a class="mw-redirect" href="/wiki/Lawrence_Berkeley_Laboratory" title="Lawrence Berkeley Laboratory">
+             Lawrence Berkeley Laboratory
+            </a>
+            and
+            <a href="/wiki/Space_Sciences_Laboratory" title="Space Sciences Laboratory">
+             Space Sciences Laboratory
+            </a>
+            ,
+            <a href="/wiki/University_of_California,_Berkeley" title="University of California, Berkeley">
+             University of California, Berkeley
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              15 September
+             </span>
+             2013
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Detection+of+Anisotropy+in+the+Cosmic+Blackbody+Radiation&amp;rft.pub=Lawrence+Berkeley+Laboratory+and+Space+Sciences+Laboratory%2C+University+of+California%2C+Berkeley&amp;rft.date=1977-10-05&amp;rft.au=Smoot+G.+F.&amp;rft.au=Gorenstein+M.+V.&amp;rft.au=Muller+R.+A.&amp;rft_id=http%3A%2F%2Fwww.muller.lbl.gov%2FCOBE-early_history%2Fanisotropy-PRL.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnisotropy">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-Nature8April2013-2">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-Nature8April2013_2-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            Tian, Xiaojuan; Itkis, Mikhail E; Bekyarova, Elena B; Haddon, Robert C (8 April 2013).
+            <a class="external text" href="https://web.archive.org/web/20160811183641/http://www.nature.com/articles/srep01710" rel="nofollow">
+             "Anisotropic Thermal and Electrical Properties of Thin Thermal Interface Layers of Graphite Nanoplatelet-Based Composites"
+            </a>
+            .
+            <i>
+             Nature.com
+            </i>
+            . Archived from
+            <a class="external text" href="http://www.nature.com/articles/srep01710" rel="nofollow">
+             the original
+            </a>
+            on 11 August 2016
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              11 August
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Nature.com&amp;rft.atitle=Anisotropic+Thermal+and+Electrical+Properties+of+Thin+Thermal+Interface+Layers+of+Graphite+Nanoplatelet-Based+Composites&amp;rft.date=2013-04-08&amp;rft.aulast=Tian&amp;rft.aufirst=Xiaojuan&amp;rft.au=Itkis%2C+Mikhail+E&amp;rft.au=Bekyarova%2C+Elena+B&amp;rft.au=Haddon%2C+Robert+C&amp;rft_id=http%3A%2F%2Fwww.nature.com%2Farticles%2Fsrep01710&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnisotropy">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-3">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-3">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           R.J.Oosterbaan, 1997, The energy balance of groundwater flow applied to subsurface drainage in anisotropic soils by pipes or ditches with entrance resistance. On line:
+           <a class="external autonumber" href="http://www.waterlog.info/pdf/enerart.pdf" rel="nofollow">
+            [1]
+           </a>
+           . The corresponding free EnDrain program can be downloaded from:
+           <a class="external autonumber" href="http://www.waterlog.info/endrain.htm" rel="nofollow">
+            [2]
+           </a>
+           .
+          </span>
+         </li>
+         <li id="cite_note-4">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-4">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           R.J.Oosterbaan, 2002, Subsurface drainage by (tube)wells, 9 pp. On line:
+           <a class="external autonumber" href="http://www.waterlog.info/pdf/wellspac.pdf" rel="nofollow">
+            [3]
+           </a>
+           . The corresponding free WellDrain program can be downloaded from:
+           <a class="external autonumber" href="http://www.waterlog.info/weldrain.htm" rel="nofollow">
+            [4]
+           </a>
+          </span>
+         </li>
+         <li id="cite_note-5">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-5">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            Kocks, U.F. (2000).
+            <i>
+             Texture and Anisotropy: Preferred Orientations in Polycrystals and their effect on Materials Properties
+            </i>
+            .
+            <a href="/wiki/Cambridge" title="Cambridge">
+             Cambridge
+            </a>
+            .
+            <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+             ISBN
+            </a>
+            <a href="/wiki/Special:BookSources/9780521794206" title="Special:BookSources/9780521794206">
+             9780521794206
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Texture+and+Anisotropy%3A+Preferred+Orientations+in+Polycrystals+and+their+effect+on+Materials+Properties&amp;rft.pub=Cambridge&amp;rft.date=2000&amp;rft.isbn=9780521794206&amp;rft.aulast=Kocks&amp;rft.aufirst=U.F.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnisotropy">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-6">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-6">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            Truesdell, Clifford; Noll, Walter.
+            <a class="external text" href="https://link.springer.com/10.1007/978-3-662-10388-3" rel="nofollow">
+             <i>
+              The Non-Linear Field Theories of Mechanics - Springer
+             </i>
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1007%2F978-3-662-10388-3" rel="nofollow">
+             10.1007/978-3-662-10388-3
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Non-Linear+Field+Theories+of+Mechanics+-+Springer&amp;rft_id=info%3Adoi%2F10.1007%2F978-3-662-10388-3&amp;rft.aulast=Truesdell&amp;rft.aufirst=Clifford&amp;rft.au=Noll%2C+Walter&amp;rft_id=https%3A%2F%2Flink.springer.com%2F10.1007%2F978-3-662-10388-3&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnisotropy">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Anisotropy&amp;action=edit&amp;section=14" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+       <tr>
+        <td class="mbox-image">
+         <img alt="" class="noviewer" data-file-height="391" data-file-width="391" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" width="40"/>
+        </td>
+        <td class="mbox-text plainlist">
+         Look up
+         <i>
+          <b>
+           <a class="extiw" href="https://en.wiktionary.org/wiki/anisotropy" title="wiktionary:anisotropy">
+            anisotropy
+           </a>
+          </b>
+         </i>
+         in Wiktionary, the free dictionary.
+        </td>
+       </tr>
+      </table>
+      <ul>
+       <li>
+        <a class="external text" href="http://www.knitty.com/ISSUEsummer05/FEATsum05TBP.html" rel="nofollow">
+         "Gauge, and knitted fabric generally, is an anisotropic phenomenon"
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="https://web.archive.org/web/20100303080919/http://aluminium.matter.org.uk/content/html/eng/default.asp?catid=99&amp;pageid=1028022659" rel="nofollow">
+         "Overview of Anisotropy"
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://www.doitpoms.ac.uk/tlplib/anisotropy/index.php" rel="nofollow">
+         DoITPoMS Teaching and Learning Package: "Introduction to Anisotropy"
+        </a>
+       </li>
+      </ul>
+      <div aria-label="Navbox" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <a href="/wiki/Help:Authority_control" title="Help:Authority control">
+           Authority control
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <span class="nowrap">
+              <a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">
+               GND
+              </a>
+              :
+              <span class="uid">
+               <a class="external text" href="https://d-nb.info/gnd/4002073-3" rel="nofollow">
+                4002073-3
+               </a>
+              </span>
+             </span>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1275
+Cached time: 20180316141337
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.156 seconds
+Real time usage: 0.246 seconds
+Preprocessor visited node count: 718/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 17284/2097152 bytes
+Template argument size: 306/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 6354/5000000 bytes
+Lua time usage: 0.074/10.000 seconds
+Lua memory usage: 2.78 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  171.390      1 -total
+ 38.31%   65.666      1 Template:Reflist
+ 23.91%   40.972      2 Template:Cite_web
+ 23.42%   40.146      1 Template:Refimprove
+ 14.70%   25.186      1 Template:Ambox
+ 13.56%   23.245      1 Template:Authority_control
+  9.30%   15.940      2 Template:IPAc-en
+  7.55%   12.938      1 Template:Use_dmy_dates
+  6.42%   10.996      1 Template:DMCA
+  5.44%    9.328      2 Template:Cite_book
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:1264-0!canonical!math=5 and timestamp 20180316141337 and revision id 828565941
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Anisotropy&amp;oldid=828565941">
+      https://en.wikipedia.org/w/index.php?title=Anisotropy&amp;oldid=828565941
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Orientation_(geometry)" title="Category:Orientation (geometry)">
+         Orientation (geometry)
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Articles_needing_additional_references_from_May_2017" title="Category:Articles needing additional references from May 2017">
+         Articles needing additional references from May 2017
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">
+         All articles needing additional references
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Use_dmy_dates_from_April_2013" title="Category:Use dmy dates from April 2013">
+         Use dmy dates from April 2013
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">
+         Wikipedia articles with GND identifiers
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Anisotropy" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Anisotropy" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Anisotropy" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Anisotropy" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Anisotropy">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Anisotropy&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Anisotropy&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Anisotropy" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Anisotropy" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Anisotropy&amp;oldid=828565941" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Anisotropy&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q466686" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Anisotropy&amp;id=828565941" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Anisotropy">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Anisotropy&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Anisotropy&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AA%D8%A8%D8%A7%D9%8A%D9%86_%D8%A7%D9%84%D8%AE%D9%88%D8%A7%D8%B5" hreflang="ar" lang="ar" title="تباين الخواص – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ast">
+        <a class="interlanguage-link-target" href="https://ast.wikipedia.org/wiki/Anisotrop%C3%ADa" hreflang="ast" lang="ast" title="Anisotropía – Asturian">
+         Asturianu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-az">
+        <a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/Anizotropiya" hreflang="az" lang="az" title="Anizotropiya – Azerbaijani">
+         Azərbaycanca
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be">
+        <a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%90%D0%BD%D1%96%D0%B7%D0%B0%D1%82%D1%80%D0%B0%D0%BF%D1%96%D1%8F" hreflang="be" lang="be" title="Анізатрапія – Belarusian">
+         Беларуская
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bg">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%90%D0%BD%D0%B8%D0%B7%D0%BE%D1%82%D1%80%D0%BE%D0%BF%D0%B8%D1%8F" hreflang="bg" lang="bg" title="Анизотропия – Bulgarian">
+         Български
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Anisotropia" hreflang="ca" lang="ca" title="Anisotropia – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Anizotropie" hreflang="cs" lang="cs" title="Anizotropie – Czech">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Anisotropie" hreflang="de" lang="de" title="Anisotropie – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-et">
+        <a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Anisotroopia" hreflang="et" lang="et" title="Anisotroopia – Estonian">
+         Eesti
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Anisotrop%C3%ADa" hreflang="es" lang="es" title="Anisotropía – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eo">
+        <a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Neizotropeco" hreflang="eo" lang="eo" title="Neizotropeco – Esperanto">
+         Esperanto
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eu">
+        <a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Anisotropia" hreflang="eu" lang="eu" title="Anisotropia – Basque">
+         Euskara
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%86%D8%A7%D9%87%D9%85%D8%B3%D8%A7%D9%86%E2%80%8C%DA%AF%D8%B1%D8%AF%DB%8C" hreflang="fa" lang="fa" title="ناهمسان‌گردی – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Anisotropie" hreflang="fr" lang="fr" title="Anisotropie – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EB%B9%84%EB%93%B1%EB%B0%A9%EC%84%B1" hreflang="ko" lang="ko" title="비등방성 – Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hy">
+        <a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D4%B1%D5%B6%D5%AB%D5%A6%D5%B8%D5%BF%D6%80%D5%B8%D5%BA%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6" hreflang="hy" lang="hy" title="Անիզոտրոպություն – Armenian">
+         Հայերեն
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hr">
+        <a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Anizotropija" hreflang="hr" lang="hr" title="Anizotropija – Croatian">
+         Hrvatski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Anisotropia" hreflang="it" lang="it" title="Anisotropia – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he">
+        <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%90%D7%A0%D7%90%D7%99%D7%96%D7%95%D7%98%D7%A8%D7%95%D7%A4%D7%99%D7%95%D7%AA" hreflang="he" lang="he" title="אנאיזוטרופיות – Hebrew">
+         עברית
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-kk">
+        <a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%90%D0%BD%D0%B8%D0%B7%D0%BE%D1%82%D1%80%D0%BE%D0%BF%D0%B8%D1%8F" hreflang="kk" lang="kk" title="Анизотропия – Kazakh">
+         Қазақша
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ky">
+        <a class="interlanguage-link-target" href="https://ky.wikipedia.org/wiki/%D0%90%D0%BD%D0%B8%D0%B7%D0%BE%D1%82%D1%80%D0%BE%D0%BF%D0%B8%D1%8F" hreflang="ky" lang="ky" title="Анизотропия – Kyrgyz">
+         Кыргызча
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Anisotropie" hreflang="nl" lang="nl" title="Anisotropie – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E7%AD%89%E6%96%B9%E7%9A%84%E3%81%A8%E7%95%B0%E6%96%B9%E7%9A%84" hreflang="ja" lang="ja" title="等方的と異方的 – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Anisotropi" hreflang="no" lang="no" title="Anisotropi – Norwegian">
+         Norsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nn">
+        <a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Anisotropi" hreflang="nn" lang="nn" title="Anisotropi – Norwegian Nynorsk">
+         Norsk nynorsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uz">
+        <a class="interlanguage-link-target" href="https://uz.wikipedia.org/wiki/Anizotropiya" hreflang="uz" lang="uz" title="Anizotropiya – Uzbek">
+         Oʻzbekcha/ўзбекча
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Anizotropia" hreflang="pl" lang="pl" title="Anizotropia – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Anisotropia" hreflang="pt" lang="pt" title="Anisotropia – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ro">
+        <a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Anizotropie" hreflang="ro" lang="ro" title="Anizotropie – Romanian">
+         Română
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B8%D0%B7%D0%BE%D1%82%D1%80%D0%BE%D0%BF%D0%B8%D1%8F" hreflang="ru" lang="ru" title="Анизотропия – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sk">
+        <a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Anizotropia" hreflang="sk" lang="sk" title="Anizotropia – Slovak">
+         Slovenčina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sl">
+        <a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Anizotropija" hreflang="sl" lang="sl" title="Anizotropija – Slovenian">
+         Slovenščina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sr">
+        <a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%90%D0%BD%D0%B8%D0%B7%D0%BE%D1%82%D1%80%D0%BE%D0%BF%D0%B8%D1%98%D0%B0" hreflang="sr" lang="sr" title="Анизотропија – Serbian">
+         Српски / srpski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sh">
+        <a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Anizotropija" hreflang="sh" lang="sh" title="Anizotropija – Serbo-Croatian">
+         Srpskohrvatski / српскохрватски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Anisotropi" hreflang="sv" lang="sv" title="Anisotropi – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ta">
+        <a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%A4%E0%AE%BF%E0%AE%9A%E0%AF%88%E0%AE%B5%E0%AF%87%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AF%81%E0%AE%AE%E0%AF%88" hreflang="ta" lang="ta" title="திசைவேற்றுமை – Tamil">
+         தமிழ்
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%90%D0%BD%D1%96%D0%B7%D0%BE%D1%82%D1%80%D0%BE%D0%BF%D1%96%D1%8F" hreflang="uk" lang="uk" title="Анізотропія – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%90%84%E5%90%91%E5%BC%82%E6%80%A7" hreflang="zh" lang="zh" title="各向异性 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q466686#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 3 March 2018, at 10:35.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Anisotropy&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.156","walltime":"0.246","ppvisitednodes":{"value":718,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":17284,"limit":2097152},"templateargumentsize":{"value":306,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":6354,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  171.390      1 -total"," 38.31%   65.666      1 Template:Reflist"," 23.91%   40.972      2 Template:Cite_web"," 23.42%   40.146      1 Template:Refimprove"," 14.70%   25.186      1 Template:Ambox"," 13.56%   23.245      1 Template:Authority_control","  9.30%   15.940      2 Template:IPAc-en","  7.55%   12.938      1 Template:Use_dmy_dates","  6.42%   10.996      1 Template:DMCA","  5.44%    9.328      2 Template:Cite_book"]},"scribunto":{"limitreport-timeusage":{"value":"0.074","limit":"10.000"},"limitreport-memusage":{"value":2910550,"limit":52428800}},"cachereport":{"origin":"mw1275","timestamp":"20180316141337","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":99,"wgHostname":"mw1326"});});
+  </script>
+ </body>
+</html>

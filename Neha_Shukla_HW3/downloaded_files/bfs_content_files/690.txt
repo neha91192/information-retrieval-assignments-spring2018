@@ -1,0 +1,1873 @@
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Stellar atmosphere - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Stellar_atmosphere","wgTitle":"Stellar atmosphere","wgCurRevisionId":828137954,"wgRevisionId":828137954,"wgArticleId":535458,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Stellar astronomy"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Stellar_atmosphere","wgRelevantArticleId":535458,"wgRequestId":"WrM0VApAAD8AAICs-h4AAAAF","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q6311","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.25" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Solar_eclipse_1999_4_NR.jpg/1200px-Solar_eclipse_1999_4_NR.jpg" property="og:image"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Stellar_atmosphere" rel="alternate"/>
+  <link href="/w/index.php?title=Stellar_atmosphere&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Stellar_atmosphere&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Stellar_atmosphere" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Stellar_atmosphere rootpage-Stellar_atmosphere skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Stellar atmosphere
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:252px;">
+        <a class="image" href="/wiki/File:Solar_eclipse_1999_4_NR.jpg">
+         <img alt="" class="thumbimage" data-file-height="3489" data-file-width="3543" height="246" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Solar_eclipse_1999_4_NR.jpg/250px-Solar_eclipse_1999_4_NR.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Solar_eclipse_1999_4_NR.jpg/375px-Solar_eclipse_1999_4_NR.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Solar_eclipse_1999_4_NR.jpg/500px-Solar_eclipse_1999_4_NR.jpg 2x" width="250"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Solar_eclipse_1999_4_NR.jpg" title="Enlarge">
+          </a>
+         </div>
+         Photo taken in
+         <a href="/wiki/France" title="France">
+          France
+         </a>
+         during the
+         <a href="/wiki/Solar_eclipse_of_August_11,_1999" title="Solar eclipse of August 11, 1999">
+          1999 eclipse
+         </a>
+        </div>
+       </div>
+      </div>
+      <p>
+       The
+       <b>
+        stellar atmosphere
+       </b>
+       is the outer region of the volume of a
+       <a href="/wiki/Star" title="Star">
+        star
+       </a>
+       , lying above the
+       <a href="/wiki/Solar_core" title="Solar core">
+        stellar core
+       </a>
+       ,
+       <a href="/wiki/Radiation_zone" title="Radiation zone">
+        radiation zone
+       </a>
+       and
+       <a href="/wiki/Convection_zone" title="Convection zone">
+        convection zone
+       </a>
+       . It is divided into several regions of distinct character:
+      </p>
+      <ul>
+       <li>
+        The
+        <a href="/wiki/Photosphere" title="Photosphere">
+         photosphere
+        </a>
+        , which is the atmosphere's lowest and coolest layer, is normally its only visible part.
+        <sup class="reference" id="cite_ref-BrightPS_1-0">
+         <a href="#cite_note-BrightPS-1">
+          [1]
+         </a>
+        </sup>
+        <a href="/wiki/Light" title="Light">
+         Light
+        </a>
+        escaping from the surface of the star stems from this region and passes through the higher layers. The
+        <a href="/wiki/Sun" title="Sun">
+         Sun
+        </a>
+        's photosphere has a
+        <a href="/wiki/Effective_temperature" title="Effective temperature">
+         temperature
+        </a>
+        in the 5,770
+        <a href="/wiki/Kelvin" title="Kelvin">
+         K
+        </a>
+        to 5,780 K range.
+        <sup class="reference" id="cite_ref-lowTemp_2-0">
+         <a href="#cite_note-lowTemp-2">
+          [2]
+         </a>
+        </sup>
+        <sup class="reference" id="cite_ref-higherTemp_3-0">
+         <a href="#cite_note-higherTemp-3">
+          [3]
+         </a>
+        </sup>
+        <a href="/wiki/Starspot" title="Starspot">
+         Starspots
+        </a>
+        , cool regions of disrupted
+        <a href="/wiki/Magnetic_field" title="Magnetic field">
+         magnetic field
+        </a>
+        lie on the photosphere.
+        <sup class="reference" id="cite_ref-higherTemp_3-1">
+         <a href="#cite_note-higherTemp-3">
+          [3]
+         </a>
+        </sup>
+       </li>
+       <li>
+        Above the photosphere lies the
+        <a href="/wiki/Chromosphere" title="Chromosphere">
+         chromosphere
+        </a>
+        . This part of the atmosphere first cools down and then starts to heat up to about 10 times the temperature of the photosphere.
+       </li>
+       <li>
+        Above the chromosphere lies the
+        <a href="/wiki/Solar_transition_region" title="Solar transition region">
+         transition region
+        </a>
+        , where the temperature increases rapidly on a distance of only around 100 km.
+        <sup class="reference" id="cite_ref-4">
+         <a href="#cite_note-4">
+          [4]
+         </a>
+        </sup>
+       </li>
+       <li>
+        The outermost part of the stellar atmosphere is the
+        <a href="/wiki/Corona" title="Corona">
+         corona
+        </a>
+        , a tenuous
+        <a href="/wiki/Plasma_(physics)" title="Plasma (physics)">
+         plasma
+        </a>
+        which has a temperature above one million Kelvin.
+        <sup class="reference" id="cite_ref-5">
+         <a href="#cite_note-5">
+          [5]
+         </a>
+        </sup>
+        While all stars on the
+        <a href="/wiki/Main_sequence" title="Main sequence">
+         main sequence
+        </a>
+        feature transition regions and coronae, not all
+        <a href="/wiki/Stellar_evolution" title="Stellar evolution">
+         evolved stars
+        </a>
+        do so. It seems that only some
+        <a href="/wiki/Giant_star" title="Giant star">
+         giants
+        </a>
+        , and very few
+        <a class="mw-redirect" href="/wiki/Supergiant" title="Supergiant">
+         supergiants
+        </a>
+        , possess coronae.
+        <a href="/wiki/Corona#Coronal_heating_problem" title="Corona">
+         An unresolved problem
+        </a>
+        in stellar
+        <a href="/wiki/Astrophysics" title="Astrophysics">
+         astrophysics
+        </a>
+        is how the corona can be heated to such high temperatures. The answer lies in
+        <a href="/wiki/Magnetic_field" title="Magnetic field">
+         magnetic fields
+        </a>
+        , but the exact mechanism remains unclear.
+        <sup class="reference" id="cite_ref-6">
+         <a href="#cite_note-6">
+          [6]
+         </a>
+        </sup>
+       </li>
+      </ul>
+      <p>
+       During a total
+       <a href="/wiki/Solar_eclipse" title="Solar eclipse">
+        solar eclipse
+       </a>
+       , the photosphere of the Sun is
+       <a href="/wiki/Occultation" title="Occultation">
+        obscured
+       </a>
+       , revealing its atmosphere's other layers.
+       <sup class="reference" id="cite_ref-BrightPS_1-1">
+        <a href="#cite_note-BrightPS-1">
+         [1]
+        </a>
+       </sup>
+       Observed during eclipse, the sun's chromosphere appears (briefly) as a thin pinkish
+       <a href="/wiki/Arc_(geometry)" title="Arc (geometry)">
+        arc
+       </a>
+       ,
+       <sup class="reference" id="cite_ref-7">
+        <a href="#cite_note-7">
+         [7]
+        </a>
+       </sup>
+       and its corona is seen as a tufted
+       <a href="/wiki/Halo_(optical_phenomenon)" title="Halo (optical phenomenon)">
+        halo
+       </a>
+       . The same phenomenon in
+       <a href="/wiki/Binary_star#Eclipsing_binaries" title="Binary star">
+        eclipsing binaries
+       </a>
+       can make the chromosphere of giant stars visible.
+       <sup class="reference" id="cite_ref-8">
+        <a href="#cite_note-8">
+         [8]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Stellar_atmosphere&amp;action=edit&amp;section=1" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a href="/wiki/Cecilia_Payne-Gaposchkin" title="Cecilia Payne-Gaposchkin">
+         Cecilia Payne-Gaposchkin
+        </a>
+        , who first proposed the presently-accepted composition of stellar atmospheres
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="Notes">
+        Notes
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Stellar_atmosphere&amp;action=edit&amp;section=2" title="Edit section: Notes">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist" style="list-style-type: decimal;">
+       <div class="mw-references-wrap">
+        <ol class="references">
+         <li id="cite_note-BrightPS-1">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-BrightPS_1-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-BrightPS_1-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://www.sciencedaily.com/releases/1999/08/990805111308.htm" rel="nofollow">
+             "
+             <span style="padding-left:0.2em;">
+              "
+             </span>
+             Beyond the Blue Horizon" – A Total Solar Eclipse Chase"
+            </a>
+            . 1999-08-05
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              2010-05-21
+             </span>
+            </span>
+            .
+            <q>
+             On ordinary days, the corona is hidden by the blue sky, since it is about a million times fainter than the layer of the sun we see shining every day, the photosphere.
+            </q>
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%22Beyond+the+Blue+Horizon%22+%E2%80%93+A+Total+Solar+Eclipse+Chase&amp;rft.date=1999-08-05&amp;rft_id=https%3A%2F%2Fwww.sciencedaily.com%2Freleases%2F1999%2F08%2F990805111308.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStellar+atmosphere">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-lowTemp-2">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-lowTemp_2-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            Mariska, J.T.
+            <a class="external text" href="http://www.cambridge.org/catalogue/catalogue.asp?isbn=9780521382618&amp;ss=toc" rel="nofollow">
+             <i>
+              The solar transition region
+             </i>
+            </a>
+            . Cambridge Astrophysics Series.
+            <a href="/wiki/Cambridge_University_Press" title="Cambridge University Press">
+             Cambridge University Press
+            </a>
+            .
+            <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+             ISBN
+            </a>
+            <a href="/wiki/Special:BookSources/978-0-521-38261-8" title="Special:BookSources/978-0-521-38261-8">
+             978-0-521-38261-8
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+solar+transition+region&amp;rft.series=Cambridge+Astrophysics+Series&amp;rft.pub=Cambridge+University+Press&amp;rft.isbn=978-0-521-38261-8&amp;rft.aulast=Mariska&amp;rft.aufirst=J.T.&amp;rft_id=http%3A%2F%2Fwww.cambridge.org%2Fcatalogue%2Fcatalogue.asp%3Fisbn%3D9780521382618%26ss%3Dtoc&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStellar+atmosphere">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-higherTemp-3">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-higherTemp_3-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-higherTemp_3-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            Lang, K.R. (September 2006). "5.1 MAGNETIC FIELDS IN THE VISIBLE PHOTOSPHERE".
+            <i>
+             Sun, earth, and sky
+            </i>
+            (2nd ed.). Springer. p. 81.
+            <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+             ISBN
+            </a>
+            <a href="/wiki/Special:BookSources/978-0-387-30456-4" title="Special:BookSources/978-0-387-30456-4">
+             978-0-387-30456-4
+            </a>
+            .
+            <q>
+             this opaque layer is the photosphere, the level of the Sun from which we get our light and heat
+            </q>
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=5.1+MAGNETIC+FIELDS+IN+THE+VISIBLE+PHOTOSPHERE&amp;rft.btitle=Sun%2C+earth%2C+and+sky&amp;rft.pages=81&amp;rft.edition=2nd&amp;rft.pub=Springer&amp;rft.date=2006-09&amp;rft.isbn=978-0-387-30456-4&amp;rft.aulast=Lang&amp;rft.aufirst=K.R.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStellar+atmosphere">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-4">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-4">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            Mariska, J.T.
+            <i>
+             The solar transition region
+            </i>
+            . p. 60.
+            <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+             ISBN
+            </a>
+            <a href="/wiki/Special:BookSources/978-0-521-38261-8" title="Special:BookSources/978-0-521-38261-8">
+             978-0-521-38261-8
+            </a>
+            .
+            <q>
+             100 km suggested by average models
+            </q>
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+solar+transition+region&amp;rft.pages=60&amp;rft.isbn=978-0-521-38261-8&amp;rft.aulast=Mariska&amp;rft.aufirst=J.T.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStellar+atmosphere">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-5">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-5">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            R.C. Altrock (2004). "The Temperature of the Low Corona During Solar Cycles 21–23".
+            <i>
+             Solar Physics
+            </i>
+            .
+            <b>
+             224
+            </b>
+            : 255.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/2004SoPh..224..255A" rel="nofollow">
+             2004SoPh..224..255A
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1007%2Fs11207-005-6502-4" rel="nofollow">
+             10.1007/s11207-005-6502-4
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Solar+Physics&amp;rft.atitle=The+Temperature+of+the+Low+Corona+During+Solar+Cycles+21%E2%80%9323&amp;rft.volume=224&amp;rft.pages=255&amp;rft.date=2004&amp;rft_id=info%3Adoi%2F10.1007%2Fs11207-005-6502-4&amp;rft_id=info%3Abibcode%2F2004SoPh..224..255A&amp;rft.au=R.C.+Altrock&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStellar+atmosphere">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-6">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-6">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://imagine.gsfc.nasa.gov/docs/science/mysteries_l1/corona.html" rel="nofollow">
+             "The Sun's Corona – Introduction"
+            </a>
+            .
+            <a href="/wiki/NASA" title="NASA">
+             NASA
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              2010-05-21
+             </span>
+            </span>
+            .
+            <q>
+             Now most scientists believe that the heating of the corona is linked to the interaction of the magnetic field lines.
+            </q>
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Sun%27s+Corona+%E2%80%93+Introduction&amp;rft.pub=NASA&amp;rft_id=http%3A%2F%2Fimagine.gsfc.nasa.gov%2Fdocs%2Fscience%2Fmysteries_l1%2Fcorona.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStellar+atmosphere">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-7">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-7">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            Lewis, J.S. (2004-02-23).
+            <i>
+             Physics and chemistry of the solar system
+            </i>
+            (Second ed.). Elsevier Academic Press. p. 87.
+            <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+             ISBN
+            </a>
+            <a href="/wiki/Special:BookSources/978-0-12-446744-6" title="Special:BookSources/978-0-12-446744-6">
+             978-0-12-446744-6
+            </a>
+            .
+            <q>
+             The dominant color is influenced by the
+             <a href="/wiki/Balmer_series" title="Balmer series">
+              Balmer radiation
+             </a>
+             of atomic hydrogen
+            </q>
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Physics+and+chemistry+of+the+solar+system&amp;rft.pages=87&amp;rft.edition=Second&amp;rft.pub=Elsevier+Academic+Press&amp;rft.date=2004-02-23&amp;rft.isbn=978-0-12-446744-6&amp;rft.aulast=Lewis&amp;rft.aufirst=J.S.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStellar+atmosphere">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-8">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-8">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            Griffin, R.E. (2007-08-27). Hartkopft, W.I.; Guinan, E.F., eds.
+            <a class="external text" href="http://journals.cambridge.org/action/displayAbstract;jsessionid=4D942A9E34D86C61DB71B8CA41182D5A.tomcat1?fromPage=online&amp;aid=1297860" rel="nofollow">
+             <i>
+              Only Binary Stars Can Help Us Actually SEE a Stellar Chromosphere
+             </i>
+            </a>
+            (1 ed.). Cambridge University Press. p. 460.
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1017%2FS1743921307006163" rel="nofollow">
+             10.1017/S1743921307006163
+            </a>
+            .
+            <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+             ISBN
+            </a>
+            <a href="/wiki/Special:BookSources/978-0-521-86348-3" title="Special:BookSources/978-0-521-86348-3">
+             978-0-521-86348-3
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              2010-05-21
+             </span>
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Only+Binary+Stars+Can+Help+Us+Actually+SEE+a+Stellar+Chromosphere&amp;rft.pages=460&amp;rft.edition=1&amp;rft.pub=Cambridge+University+Press&amp;rft.date=2007-08-27&amp;rft_id=info%3Adoi%2F10.1017%2FS1743921307006163&amp;rft.isbn=978-0-521-86348-3&amp;rft.aulast=Griffin&amp;rft.aufirst=R.E.&amp;rft_id=http%3A%2F%2Fjournals.cambridge.org%2Faction%2FdisplayAbstract%3Bjsessionid%3D4D942A9E34D86C61DB71B8CA41182D5A.tomcat1%3FfromPage%3Donline%26aid%3D1297860&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStellar+atmosphere">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <div aria-labelledby="The_Sun" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="3" scope="col" style="text-align: center;">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:The_Sun" title="Template:The Sun">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a href="/wiki/Template_talk:The_Sun" title="Template talk:The Sun">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:The_Sun&amp;action=edit">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="The_Sun" style="font-size:114%;margin:0 4em">
+           <a href="/wiki/Sun" title="Sun">
+            The Sun
+           </a>
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Standard_solar_model" title="Standard solar model">
+           Internal structure
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Solar_core" title="Solar core">
+              Core
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Radiation_zone" title="Radiation zone">
+              Radiation zone
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tachocline" title="Tachocline">
+              Tachocline
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Convection_zone" title="Convection zone">
+              Convection zone
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+         <td class="navbox-image" rowspan="5" style="width:1px;padding:0px 0px 0px 2px">
+          <div>
+           <div class="floatright">
+            <a class="image" href="/wiki/File:Sun_in_February.jpg">
+             <img alt="Sun in February.jpg" class="thumbborder" data-file-height="2632" data-file-width="2632" height="155" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Sun_in_February.jpg/155px-Sun_in_February.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Sun_in_February.jpg/233px-Sun_in_February.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Sun_in_February.jpg/310px-Sun_in_February.jpg 2x" width="155"/>
+            </a>
+           </div>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a class="mw-selflink selflink">
+           Atmosphere
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+          </div>
+          <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%;text-align: center;">
+             <a href="/wiki/Photosphere" title="Photosphere">
+              Photosphere
+             </a>
+            </th>
+            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Supergranulation" title="Supergranulation">
+                 Supergranulation
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Granule_(solar_physics)" title="Granule (solar physics)">
+                 Granule
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Facula" title="Facula">
+                 Faculae
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Sunspot" title="Sunspot">
+                 Sunspot
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%;text-align: center;">
+             <a href="/wiki/Chromosphere" title="Chromosphere">
+              Chromosphere
+             </a>
+            </th>
+            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Plage_(astronomy)" title="Plage (astronomy)">
+                 Plage
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Spicule_(solar_physics)" title="Spicule (solar physics)">
+                 Spicule
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Moreton_wave" title="Moreton wave">
+                 Moreton wave
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%;text-align: center;">
+             <a href="/wiki/Corona" title="Corona">
+              Corona
+             </a>
+            </th>
+            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Solar_transition_region" title="Solar transition region">
+                 Transition region
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Coronal_hole" title="Coronal hole">
+                 Coronal hole
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Coronal_loop" title="Coronal loop">
+                 Coronal loop
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Coronal_mass_ejection" title="Coronal mass ejection">
+                 Coronal mass ejection
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Solar_prominence" title="Solar prominence">
+                 Prominence
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Helmet_streamer" title="Helmet streamer">
+                 Helmet streamer
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Supra-arcade_downflows" title="Supra-arcade downflows">
+                 Supra-arcade downflows
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a class="mw-redirect" href="/wiki/Solar_variation" title="Solar variation">
+           Variation
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Solar_cycle" title="Solar cycle">
+              Solar cycle
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/List_of_solar_cycles" title="List of solar cycles">
+                List of solar cycles
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Solar_maximum" title="Solar maximum">
+              Solar maximum
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_minimum" title="Solar minimum">
+              Solar minimum
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Wolf_number" title="Wolf number">
+              Wolf number
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_wind" title="Solar wind">
+              Solar wind
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_flare" title="Solar flare">
+              Flare
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Helioseismology" title="Helioseismology">
+              Helioseismology
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Heliosphere" title="Heliosphere">
+           Heliosphere
+          </a>
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Heliospheric_current_sheet" title="Heliospheric current sheet">
+              Current sheet
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Heliosphere#Termination_shock" title="Heliosphere">
+              Termination shock
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Heliosphere#Heliosheath" title="Heliosphere">
+              Heliosheath
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Heliosphere#Heliopause" title="Heliosphere">
+              Heliopause
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Bow_shock" title="Bow shock">
+              Bow shock
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          Related topics
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Heliophysics" title="Heliophysics">
+              Heliophysics
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Solar_activity" title="Solar activity">
+              Solar activity
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Solar_astronomy" title="Solar astronomy">
+              Solar astronomy
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_dynamo" title="Solar dynamo">
+              Solar dynamo
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_eclipse" title="Solar eclipse">
+              Eclipse
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_energy" title="Solar energy">
+              Solar energy
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_neutrino" title="Solar neutrino">
+              Solar neutrino
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_observation" title="Solar observation">
+              Solar observation
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_phenomena" title="Solar phenomena">
+              Solar phenomena
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_physics" title="Solar physics">
+              Solar physics
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_System" title="Solar System">
+              Solar System
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_telescope" title="Solar telescope">
+              Solar telescope
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_time" title="Solar time">
+              Solar time
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Space_weather" title="Space weather">
+              Space weather
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Standard_solar_model" title="Standard solar model">
+              Standard solar model
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Sunlight" title="Sunlight">
+              Radiation
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <td class="navbox-abovebelow" colspan="3" style="text-align: center;">
+          <div>
+           <ul>
+            <li>
+             <a href="/wiki/Stellar_classification" title="Stellar classification">
+              Spectral class
+             </a>
+             :
+             <a href="/wiki/G-type_main-sequence_star" title="G-type main-sequence star">
+              G2V
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <div aria-labelledby="Atmospheres" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="3" scope="col" style="text-align: center;">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:Atmospheres" title="Template:Atmospheres">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a href="/wiki/Template_talk:Atmospheres" title="Template talk:Atmospheres">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Atmospheres&amp;action=edit">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="Atmospheres" style="font-size:114%;margin:0 4em">
+           <a href="/wiki/Atmosphere" title="Atmosphere">
+            Atmospheres
+           </a>
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          Star
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a class="mw-selflink selflink">
+              Sun
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+         <td class="navbox-image" rowspan="6" style="width:1px;padding:0px 0px 0px 2px">
+          <div>
+           <a class="image" href="/wiki/File:Top_of_Atmosphere.jpg" title="Toward the top of Earth's atmosphere">
+            <img alt="Toward the top of Earth's atmosphere" data-file-height="2010" data-file-width="3027" height="50" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Top_of_Atmosphere.jpg/76px-Top_of_Atmosphere.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Top_of_Atmosphere.jpg/114px-Top_of_Atmosphere.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/be/Top_of_Atmosphere.jpg/152px-Top_of_Atmosphere.jpg 2x" width="76"/>
+           </a>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          Exoplanet
+         </th>
+         <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/HD_209458_b#Stratosphere_and_upper_clouds" title="HD 209458 b">
+              HD 209458 b
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Kepler-7b#Cloud_mapping" title="Kepler-7b">
+              Kepler-7b
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          Planet
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Atmosphere_of_Mercury" title="Atmosphere of Mercury">
+              Mercury
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Atmosphere_of_Venus" title="Atmosphere of Venus">
+              Venus
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Atmosphere_of_Earth" title="Atmosphere of Earth">
+              Earth
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Atmosphere_of_Mars" title="Atmosphere of Mars">
+              Mars
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Atmosphere_of_Jupiter" title="Atmosphere of Jupiter">
+              Jupiter
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Saturn#Atmosphere" title="Saturn">
+              Saturn
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Atmosphere_of_Uranus" title="Atmosphere of Uranus">
+              Uranus
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Neptune#Atmosphere" title="Neptune">
+              Neptune
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          Dwarf planet
+         </th>
+         <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Ceres_(dwarf_planet)#Atmosphere" title="Ceres (dwarf planet)">
+              Ceres
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Atmosphere_of_Pluto" title="Atmosphere of Pluto">
+              Pluto
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Makemake#Atmosphere" title="Makemake">
+              Makemake
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          Satellite
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Callisto_(moon)#Atmosphere_and_ionosphere" title="Callisto (moon)">
+              Callisto
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Dione_(moon)#Exosphere" title="Dione (moon)">
+              Dione
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Enceladus#Atmosphere" title="Enceladus">
+              Enceladus
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Europa_(moon)#Atmosphere" title="Europa (moon)">
+              Europa
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Ganymede_(moon)#Atmosphere_and_ionosphere" title="Ganymede (moon)">
+              Ganymede
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Io_(moon)#Atmosphere" title="Io (moon)">
+              Io
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Atmosphere_of_the_Moon" title="Atmosphere of the Moon">
+              Moon
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Rhea_(moon)#Atmosphere" title="Rhea (moon)">
+              Rhea
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Atmosphere_of_Titan" title="Atmosphere of Titan">
+              Titan
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Atmosphere_of_Triton" title="Atmosphere of Triton">
+              Triton
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          See also
+         </th>
+         <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Coma_(cometary)" title="Coma (cometary)">
+              Coma (cometary)
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Extraterrestrial_atmosphere" title="Extraterrestrial atmosphere">
+              Extraterrestrial atmosphere
+             </a>
+            </li>
+            <li>
+             <a class="mw-selflink selflink">
+              Stellar atmosphere
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1343
+Cached time: 20180228195308
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.144 seconds
+Real time usage: 0.179 seconds
+Preprocessor visited node count: 569/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 43413/2097152 bytes
+Template argument size: 82/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
+Lua time usage: 0.069/10.000 seconds
+Lua memory usage: 2.6 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  131.400      1 -total
+ 84.20%  110.640      1 Template:Reflist
+ 43.44%   57.079      2 Template:Cite_web
+ 19.23%   25.262      5 Template:Cite_book
+ 13.89%   18.247      3 Template:Navbox
+ 12.00%   15.769      1 Template:The_Sun
+  5.59%    7.343      1 Template:Cite_journal
+  3.69%    4.848      1 Template:Atmospheres
+  1.60%    2.100      1 Template:Main_other
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:535458-0!canonical and timestamp 20180228195308 and revision id 828137954
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Stellar_atmosphere&amp;oldid=828137954">
+      https://en.wikipedia.org/w/index.php?title=Stellar_atmosphere&amp;oldid=828137954
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Stellar_astronomy" title="Category:Stellar astronomy">
+         Stellar astronomy
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Stellar+atmosphere" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Stellar+atmosphere" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Stellar_atmosphere" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Stellar_atmosphere" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Stellar_atmosphere">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Stellar_atmosphere&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Stellar_atmosphere&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Stellar_atmosphere" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Stellar_atmosphere" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Stellar_atmosphere&amp;oldid=828137954" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Stellar_atmosphere&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q6311" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Stellar_atmosphere&amp;id=828137954" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Stellar+atmosphere">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Stellar+atmosphere&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Stellar_atmosphere&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%BA%D9%84%D8%A7%D9%81_%D8%A7%D9%84%D9%86%D8%AC%D9%85_%D8%A7%D9%84%D8%AC%D9%88%D9%8A" hreflang="ar" lang="ar" title="غلاف النجم الجوي – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bn">
+        <a class="interlanguage-link-target" href="https://bn.wikipedia.org/wiki/%E0%A6%A8%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%AC%E0%A6%BE%E0%A6%A4%E0%A6%BE%E0%A6%AC%E0%A6%B0%E0%A6%A3" hreflang="bn" lang="bn" title="নাক্ষত্রিক বাতাবরণ – Bangla">
+         বাংলা
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be">
+        <a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%97%D0%BE%D1%80%D0%BD%D0%B0%D1%8F_%D0%B0%D1%82%D0%BC%D0%B0%D1%81%D1%84%D0%B5%D1%80%D0%B0" hreflang="be" lang="be" title="Зорная атмасфера – Belarusian">
+         Беларуская
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Atmosfera_estel%C2%B7lar" hreflang="ca" lang="ca" title="Atmosfera estel·lar – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Sternatmosph%C3%A4re" hreflang="de" lang="de" title="Sternatmosphäre – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-et">
+        <a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/T%C3%A4he_atmosf%C3%A4%C3%A4r" hreflang="et" lang="et" title="Tähe atmosfäär – Estonian">
+         Eesti
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Atmosph%C3%A8re_stellaire" hreflang="fr" lang="fr" title="Atmosphère stellaire – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%ED%83%9C%EC%96%91_%EB%8C%80%EA%B8%B0%EA%B6%8C" hreflang="ko" lang="ko" title="태양 대기권 – Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hy">
+        <a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D4%B1%D5%BD%D5%BF%D5%B2%D5%A5%D6%80%D5%AB_%D5%B4%D5%A9%D5%B6%D5%B8%D5%AC%D5%B8%D6%80%D5%BF" hreflang="hy" lang="hy" title="Աստղերի մթնոլորտ – Armenian">
+         Հայերեն
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Atmosfera_stellare" hreflang="it" lang="it" title="Atmosfera stellare – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ka">
+        <a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%95%E1%83%90%E1%83%A0%E1%83%A1%E1%83%99%E1%83%95%E1%83%9A%E1%83%90%E1%83%95%E1%83%98%E1%83%A1_%E1%83%90%E1%83%A2%E1%83%9B%E1%83%9D%E1%83%A1%E1%83%A4%E1%83%94%E1%83%A0%E1%83%9D" hreflang="ka" lang="ka" title="ვარსკვლავის ატმოსფერო – Georgian">
+         ქართული
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mk">
+        <a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%85%D0%B2%D0%B5%D0%B7%D0%B4%D0%B5%D0%BD%D0%B0_%D0%B0%D1%82%D0%BC%D0%BE%D1%81%D1%84%D0%B5%D1%80%D0%B0" hreflang="mk" lang="mk" title="Ѕвездена атмосфера – Macedonian">
+         Македонски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Steratmosfeer" hreflang="nl" lang="nl" title="Steratmosfeer – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E6%81%92%E6%98%9F%E5%A4%A7%E6%B0%97" hreflang="ja" lang="ja" title="恒星大気 – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Stjerneatmosf%C3%A6re" hreflang="no" lang="no" title="Stjerneatmosfære – Norwegian">
+         Norsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Atmosfera_s%C5%82oneczna" hreflang="pl" lang="pl" title="Atmosfera słoneczna – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Atmosfera_estelar" hreflang="pt" lang="pt" title="Atmosfera estelar – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ro">
+        <a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Atmosfer%C4%83_stelar%C4%83" hreflang="ro" lang="ro" title="Atmosferă stelară – Romanian">
+         Română
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%97%D0%B2%D1%91%D0%B7%D0%B4%D0%BD%D0%B0%D1%8F_%D0%B0%D1%82%D0%BC%D0%BE%D1%81%D1%84%D0%B5%D1%80%D0%B0" hreflang="ru" lang="ru" title="Звёздная атмосфера – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sr">
+        <a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/Sun%C4%8Deva_atmosfera" hreflang="sr" lang="sr" title="Sunčeva atmosfera – Serbian">
+         Српски / srpski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Solens_atmosf%C3%A4r" hreflang="sv" lang="sv" title="Solens atmosfär – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tg">
+        <a class="interlanguage-link-target" href="https://tg.wikipedia.org/wiki/%D0%90%D1%82%D0%BC%D0%BE%D1%81%D1%84%D0%B5%D1%80%D0%B0%D0%B8_%D1%81%D0%B8%D1%82%D0%BE%D1%80%D0%B0%D2%B3%D0%BE" hreflang="tg" lang="tg" title="Атмосфераи ситораҳо – Tajik">
+         Тоҷикӣ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tr">
+        <a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Y%C4%B1ld%C4%B1z_gazyuvar%C4%B1" hreflang="tr" lang="tr" title="Yıldız gazyuvarı – Turkish">
+         Türkçe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%97%D0%BE%D1%80%D1%8F%D0%BD%D0%B0_%D0%B0%D1%82%D0%BC%D0%BE%D1%81%D1%84%D0%B5%D1%80%D0%B0" hreflang="uk" lang="uk" title="Зоряна атмосфера – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vls">
+        <a class="interlanguage-link-target" href="https://vls.wikipedia.org/wiki/Atmosfeer_(Sterre)" hreflang="vls" lang="vls" title="Atmosfeer (Sterre) – West Flemish">
+         West-Vlams
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E6%81%86%E6%98%9F%E5%A4%A7%E6%B0%A3%E5%B1%A4" hreflang="zh" lang="zh" title="恆星大氣層 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q6311#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 28 February 2018, at 19:53.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Stellar_atmosphere&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.144","walltime":"0.179","ppvisitednodes":{"value":569,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":43413,"limit":2097152},"templateargumentsize":{"value":82,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  131.400      1 -total"," 84.20%  110.640      1 Template:Reflist"," 43.44%   57.079      2 Template:Cite_web"," 19.23%   25.262      5 Template:Cite_book"," 13.89%   18.247      3 Template:Navbox"," 12.00%   15.769      1 Template:The_Sun","  5.59%    7.343      1 Template:Cite_journal","  3.69%    4.848      1 Template:Atmospheres","  1.60%    2.100      1 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.069","limit":"10.000"},"limitreport-memusage":{"value":2728821,"limit":52428800}},"cachereport":{"origin":"mw1343","timestamp":"20180228195308","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":83,"wgHostname":"mw1268"});});
+  </script>
+ </body>
+</html>

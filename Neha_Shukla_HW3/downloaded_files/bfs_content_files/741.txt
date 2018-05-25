@@ -1,0 +1,5090 @@
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Orbital elements - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Orbital_elements","wgTitle":"Orbital elements","wgCurRevisionId":828972266,"wgRevisionId":828972266,"wgArticleId":98663,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Orbits"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Orbital_elements","wgRelevantArticleId":98663,"wgRequestId":"WqvXrwpAMFsAABLRutsAAACJ","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q272626","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.25" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Orbital_elements" rel="alternate"/>
+  <link href="/w/index.php?title=Orbital_elements&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Orbital_elements&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Orbital_elements" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Orbital_elements rootpage-Orbital_elements skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Orbital elements
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <p>
+       <b>
+        Orbital elements
+       </b>
+       are the
+       <a href="/wiki/Parameter" title="Parameter">
+        parameters
+       </a>
+       required to uniquely identify a specific
+       <a href="/wiki/Orbit" title="Orbit">
+        orbit
+       </a>
+       . In
+       <a href="/wiki/Celestial_mechanics" title="Celestial mechanics">
+        celestial mechanics
+       </a>
+       these elements are generally considered in
+       <a href="/wiki/Classical_mechanics" title="Classical mechanics">
+        classical
+       </a>
+       <a class="mw-redirect" href="/wiki/Two-body_system" title="Two-body system">
+        two-body systems
+       </a>
+       , where a
+       <a href="/wiki/Kepler_orbit" title="Kepler orbit">
+        Kepler orbit
+       </a>
+       is used. There are many different ways to mathematically describe the same orbit, but certain schemes, each consisting of a set of six parameters, are commonly used in
+       <a href="/wiki/Astronomy" title="Astronomy">
+        astronomy
+       </a>
+       and
+       <a href="/wiki/Orbital_mechanics" title="Orbital mechanics">
+        orbital mechanics
+       </a>
+       .
+      </p>
+      <p>
+       A real orbit (and its elements) changes over time due to gravitational
+       <a href="/wiki/Perturbation_(astronomy)" title="Perturbation (astronomy)">
+        perturbations
+       </a>
+       by other objects and the effects of
+       <a href="/wiki/General_relativity" title="General relativity">
+        relativity
+       </a>
+       . A Keplerian orbit is merely an idealized, mathematical approximation at a particular time.
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Keplerian_elements">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Keplerian elements
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-2">
+           <a href="#Required_parameters">
+            <span class="tocnumber">
+             1.1
+            </span>
+            <span class="toctext">
+             Required parameters
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-3">
+           <a href="#Alternative_parametrizations">
+            <span class="tocnumber">
+             1.2
+            </span>
+            <span class="toctext">
+             Alternative parametrizations
+            </span>
+           </a>
+           <ul>
+            <li class="toclevel-3 tocsection-4">
+             <a href="#Euler_angle_transformations">
+              <span class="tocnumber">
+               1.2.1
+              </span>
+              <span class="toctext">
+               Euler angle transformations
+              </span>
+             </a>
+            </li>
+           </ul>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-5">
+         <a href="#Orbit_prediction">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Orbit prediction
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-6">
+         <a href="#Perturbations_and_elemental_variance">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           Perturbations and elemental variance
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-7">
+         <a href="#Two-line_elements">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           Two-line elements
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-8">
+         <a href="#Delaunay_variables">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           Delaunay variables
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-9">
+         <a href="#See_also">
+          <span class="tocnumber">
+           6
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-10">
+         <a href="#References">
+          <span class="tocnumber">
+           7
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-11">
+         <a href="#External_links">
+          <span class="tocnumber">
+           8
+          </span>
+          <span class="toctext">
+           External links
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Keplerian_elements">
+        Keplerian elements
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Orbital_elements&amp;action=edit&amp;section=1" title="Edit section: Keplerian elements">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:402px;">
+        <a class="image" href="/wiki/File:Orbit1.svg">
+         <img alt="" class="thumbimage" data-file-height="500" data-file-width="555" height="360" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Orbit1.svg/400px-Orbit1.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Orbit1.svg/600px-Orbit1.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Orbit1.svg/800px-Orbit1.svg.png 2x" width="400"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Orbit1.svg" title="Enlarge">
+          </a>
+         </div>
+         In this diagram, the
+         <a href="/wiki/Orbital_plane_(astronomy)" title="Orbital plane (astronomy)">
+          orbital plane
+         </a>
+         (yellow) intersects a reference plane (gray). For Earth-orbiting satellites, the reference plane is usually the Earth's equatorial plane, and for satellites in solar orbits it is the
+         <a class="mw-redirect" href="/wiki/Plane_of_the_ecliptic" title="Plane of the ecliptic">
+          ecliptic plane
+         </a>
+         . The intersection is called the
+         <a href="/wiki/Orbital_node" title="Orbital node">
+          line of nodes
+         </a>
+         , as it connects the center of mass with the ascending and descending nodes. The reference plane, together with the
+         <a class="mw-redirect" href="/wiki/Vernal_point" title="Vernal point">
+          vernal point
+         </a>
+         (
+         <big>
+          ♈
+         </big>
+         ), establishes a reference frame.
+        </div>
+       </div>
+      </div>
+      <p>
+       The traditional orbital elements are the six
+       <b>
+        Keplerian elements
+       </b>
+       , after
+       <a href="/wiki/Johannes_Kepler" title="Johannes Kepler">
+        Johannes Kepler
+       </a>
+       and his
+       <a class="mw-redirect" href="/wiki/Kepler%27s_laws" title="Kepler's laws">
+        laws of planetary motion
+       </a>
+       .
+      </p>
+      <p>
+       When viewed from an
+       <a class="mw-redirect" href="/wiki/Inertial_frame" title="Inertial frame">
+        inertial frame
+       </a>
+       , two orbiting bodies trace out distinct trajectories. Each of these trajectories has its focus at the common
+       <a href="/wiki/Center_of_mass" title="Center of mass">
+        center of mass
+       </a>
+       . When viewed from a non-inertial frame centred on one of the bodies, only the trajectory of the opposite body is apparent; Keplerian elements describe these non-inertial trajectories. An orbit has two sets of Keplerian elements depending on which body is used as the point of reference. The reference body is called the
+       <i>
+        <a href="/wiki/Primary_(astronomy)" title="Primary (astronomy)">
+         primary
+        </a>
+       </i>
+       , the other body is called the
+       <i>
+        secondary
+       </i>
+       . The primary does not necessarily possess more mass than the secondary, and even when the bodies are of equal mass, the orbital elements depend on the choice of the primary.
+      </p>
+      <p>
+       The main two elements that define the shape and size of the ellipse:
+      </p>
+      <ul>
+       <li>
+        <a class="mw-redirect" href="/wiki/Eccentricity_(orbit)" title="Eccentricity (orbit)">
+         Eccentricity
+        </a>
+        (
+        <span class="texhtml mvar" style="font-style:italic;">
+         e
+        </span>
+        )—shape of the ellipse, describing how much it is elongated compared to a circle (not marked in diagram).
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Semimajor_axis" title="Semimajor axis">
+         Semimajor axis
+        </a>
+        (
+        <span class="texhtml mvar" style="font-style:italic;">
+         a
+        </span>
+        )—the sum of the
+        <a href="/wiki/Apsis" title="Apsis">
+         periapsis and apoapsis distances
+        </a>
+        divided by two. For circular orbits, the semimajor axis is the distance between the centers of the bodies, not the distance of the bodies from the center of mass.
+       </li>
+      </ul>
+      <p>
+       Two elements define the orientation of the
+       <a href="/wiki/Orbital_plane_(astronomy)" title="Orbital plane (astronomy)">
+        orbital plane
+       </a>
+       in which the ellipse is embedded:
+      </p>
+      <ul>
+       <li>
+        <a class="mw-redirect" href="/wiki/Inclination" title="Inclination">
+         Inclination
+        </a>
+        (
+        <span class="texhtml mvar" style="font-style:italic;">
+         i
+        </span>
+        )—vertical tilt of the ellipse with respect to the reference plane, measured at the
+        <a class="mw-redirect" href="/wiki/Ascending_node" title="Ascending node">
+         ascending node
+        </a>
+        (where the orbit passes upward through the reference plane, the green angle
+        <span class="texhtml mvar" style="font-style:italic;">
+         i
+        </span>
+        in the diagram). Tilt angle is measured perpendicular to line of intersection between orbital plane and reference plane. Any three points on an ellipse will define the ellipse orbital plane. The plane and the ellipse are both two-dimensional objects defined in three-dimensional space.
+       </li>
+       <li>
+        <a href="/wiki/Longitude_of_the_ascending_node" title="Longitude of the ascending node">
+         Longitude of the ascending node
+        </a>
+        (
+        <span class="texhtml mvar" style="font-style:italic;">
+         ☊
+        </span>
+        or
+        <span class="texhtml mvar" style="font-style:italic;">
+         Ω
+        </span>
+        )—horizontally orients the
+        <a class="mw-redirect" href="/wiki/Ascending_node" title="Ascending node">
+         ascending node
+        </a>
+        of the ellipse (where the orbit passes upward through the reference plane) with respect to the reference frame's
+        <a class="mw-redirect" href="/wiki/Vernal_point" title="Vernal point">
+         vernal point
+        </a>
+        (the green angle
+        <span class="texhtml mvar" style="font-style:italic;">
+         Ω
+        </span>
+        in the diagram).
+       </li>
+      </ul>
+      <p>
+       And finally:
+      </p>
+      <ul>
+       <li>
+        <a href="/wiki/Argument_of_periapsis" title="Argument of periapsis">
+         Argument of periapsis
+        </a>
+        (
+        <span class="texhtml mvar" style="font-style:italic;">
+         ω
+        </span>
+        ) defines the orientation of the ellipse in the orbital plane, as an angle measured from the ascending node to the periapsis (the closest point the satellite object comes to the primary object around which it orbits, the blue angle
+        <span class="texhtml mvar" style="font-style:italic;">
+         ω
+        </span>
+        in the diagram).
+       </li>
+       <li>
+        <a href="/wiki/True_anomaly" title="True anomaly">
+         True anomaly
+        </a>
+        (
+        <span class="texhtml mvar" style="font-style:italic;">
+         ν
+        </span>
+        ,
+        <span class="texhtml mvar" style="font-style:italic;">
+         θ
+        </span>
+        , or
+        <span class="texhtml mvar" style="font-style:italic;">
+         f
+        </span>
+        ) at
+        <a href="/wiki/Epoch_(astronomy)" title="Epoch (astronomy)">
+         epoch
+        </a>
+        (
+        <span class="texhtml">
+         <i>
+          M
+         </i>
+         <sub>
+          0
+         </sub>
+        </span>
+        ) defines the position of the orbiting body along the ellipse at a specific time (the "epoch").
+       </li>
+      </ul>
+      <p>
+       The
+       <a href="/wiki/Mean_anomaly" title="Mean anomaly">
+        mean anomaly
+       </a>
+       is a mathematically convenient "angle" which varies linearly with time, but which does not correspond to a real geometric angle. It can be converted into the
+       <a href="/wiki/True_anomaly" title="True anomaly">
+        true anomaly
+       </a>
+       <span class="texhtml mvar" style="font-style:italic;">
+        ν
+       </span>
+       , which does represent the real geometric angle in the plane of the ellipse, between
+       <a class="mw-redirect" href="/wiki/Periapsis" title="Periapsis">
+        periapsis
+       </a>
+       (closest approach to the central body) and the position of the orbiting object at any given time. Thus, the true anomaly is shown as the red angle
+       <span class="texhtml mvar" style="font-style:italic;">
+        ν
+       </span>
+       in the diagram, and the mean anomaly is not shown.
+      </p>
+      <p>
+       The angles of inclination, longitude of the ascending node, and argument of periapsis can also be described as the
+       <a href="/wiki/Euler_angles" title="Euler angles">
+        Euler angles
+       </a>
+       defining the orientation of the orbit relative to the reference coordinate system.
+      </p>
+      <p>
+       Note that non-elliptic trajectories also exist, but are not closed, and are thus not orbits. If the eccentricity is greater than one, the trajectory is a
+       <a href="/wiki/Hyperbola" title="Hyperbola">
+        hyperbola
+       </a>
+       . If the eccentricity is equal to one and the angular momentum is zero, the trajectory is
+       <a href="/wiki/Radial_trajectory" title="Radial trajectory">
+        radial
+       </a>
+       . If the eccentricity is one and there is angular momentum, the trajectory is a
+       <a href="/wiki/Parabola" title="Parabola">
+        parabola
+       </a>
+       .
+      </p>
+      <h3>
+       <span class="mw-headline" id="Required_parameters">
+        Required parameters
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Orbital_elements&amp;action=edit&amp;section=2" title="Edit section: Required parameters">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       Given an
+       <a href="/wiki/Inertial_frame_of_reference" title="Inertial frame of reference">
+        inertial frame of reference
+       </a>
+       and an arbitrary
+       <a href="/wiki/Epoch_(astronomy)" title="Epoch (astronomy)">
+        epoch
+       </a>
+       (a specified point in time), exactly six parameters are necessary to unambiguously define an arbitrary and unperturbed orbit.
+      </p>
+      <p>
+       This is because the problem contains six
+       <a href="/wiki/Degrees_of_freedom_(mechanics)" title="Degrees of freedom (mechanics)">
+        degrees of freedom
+       </a>
+       . These correspond to the three spatial
+       <a href="/wiki/Dimension" title="Dimension">
+        dimensions
+       </a>
+       which define position (
+       <span class="texhtml mvar" style="font-style:italic;">
+        x
+       </span>
+       ,
+       <span class="texhtml mvar" style="font-style:italic;">
+        y
+       </span>
+       ,
+       <span class="texhtml mvar" style="font-style:italic;">
+        z
+       </span>
+       in a
+       <a href="/wiki/Cartesian_coordinate_system" title="Cartesian coordinate system">
+        Cartesian coordinate system
+       </a>
+       ), plus the velocity in each of these dimensions. These can be described as
+       <a href="/wiki/Orbital_state_vectors" title="Orbital state vectors">
+        orbital state vectors
+       </a>
+       , but this is often an inconvenient way to represent an orbit, which is why Keplerian elements are commonly used instead.
+      </p>
+      <p>
+       Sometimes the epoch is considered a "seventh" orbital parameter, rather than part of the reference frame.
+      </p>
+      <p>
+       If the epoch is defined to be at the moment when one of the elements is zero, the number of unspecified elements is reduced to five. (The sixth parameter is still necessary to define the orbit; it is merely numerically set to zero by convention or "moved" into the definition of the epoch with respect to real-world clock time.)
+      </p>
+      <h3>
+       <span class="mw-headline" id="Alternative_parametrizations">
+        Alternative parametrizations
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Orbital_elements&amp;action=edit&amp;section=3" title="Edit section: Alternative parametrizations">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       Keplerian elements can be obtained from
+       <a href="/wiki/Orbital_state_vectors" title="Orbital state vectors">
+        orbital state vectors
+       </a>
+       (a three-dimensional vector for the position and another for the velocity) by manual transformations or with computer software.
+       <sup class="reference" id="cite_ref-1">
+        <a href="#cite_note-1">
+         [1]
+        </a>
+       </sup>
+      </p>
+      <p>
+       Other orbital parameters can be computed from the Keplerian elements such as the
+       <a href="/wiki/Orbital_period" title="Orbital period">
+        period
+       </a>
+       ,
+       <a href="/wiki/Apsis" title="Apsis">
+        apoapsis, and periapsis
+       </a>
+       . (When orbiting the Earth, the last two terms are known as the apogee and perigee.) It is common to specify the period instead of the semi-major axis in Keplerian element sets, as each can be computed from the other provided the
+       <a href="/wiki/Standard_gravitational_parameter" title="Standard gravitational parameter">
+        standard gravitational parameter
+       </a>
+       ,
+       <span class="texhtml mvar" style="font-style:italic;">
+        GM
+       </span>
+       , is given for the central body.
+      </p>
+      <p>
+       Instead of the
+       <a href="/wiki/Mean_anomaly" title="Mean anomaly">
+        mean anomaly
+       </a>
+       at
+       <a href="/wiki/Epoch_(astronomy)" title="Epoch (astronomy)">
+        epoch
+       </a>
+       , the
+       <a href="/wiki/Mean_anomaly" title="Mean anomaly">
+        mean anomaly
+       </a>
+       <span class="texhtml mvar" style="font-style:italic;">
+        M
+       </span>
+       ,
+       <a href="/wiki/Mean_longitude" title="Mean longitude">
+        mean longitude
+       </a>
+       ,
+       <a href="/wiki/True_anomaly" title="True anomaly">
+        true anomaly
+       </a>
+       <span class="texhtml">
+        <i>
+         ν
+        </i>
+        <sub>
+         0
+        </sub>
+       </span>
+       , or (rarely) the
+       <a href="/wiki/Eccentric_anomaly" title="Eccentric anomaly">
+        eccentric anomaly
+       </a>
+       might be used.
+      </p>
+      <p>
+       Using, for example, the "mean anomaly" instead of "mean anomaly at epoch" means that time
+       <span class="texhtml mvar" style="font-style:italic;">
+        t
+       </span>
+       must be specified as a seventh orbital element. Sometimes it is assumed that mean anomaly is zero at the epoch (by choosing the appropriate definition of the epoch), leaving only the five other orbital elements to be specified.
+      </p>
+      <p>
+       Different sets of elements are used for various astronomical bodies. The eccentricity,
+       <span class="texhtml mvar" style="font-style:italic;">
+        e
+       </span>
+       , and either the semi-major axis,
+       <span class="texhtml mvar" style="font-style:italic;">
+        a
+       </span>
+       , or the distance of periapsis,
+       <span class="texhtml mvar" style="font-style:italic;">
+        q
+       </span>
+       , are used to specify the shape and size of an orbit. The angle of the ascending node,
+       <span class="texhtml mvar" style="font-style:italic;">
+        Ω
+       </span>
+       , the inclination,
+       <span class="texhtml mvar" style="font-style:italic;">
+        i
+       </span>
+       , and the argument of periapsis,
+       <span class="texhtml mvar" style="font-style:italic;">
+        ω
+       </span>
+       , or the longitude of periapsis,
+       <span class="texhtml mvar" style="font-style:italic;">
+        ϖ
+       </span>
+       , specify the orientation of the orbit in its plane. Either the longitude at epoch,
+       <span class="texhtml">
+        <i>
+         L
+        </i>
+        <sub>
+         0
+        </sub>
+       </span>
+       , the mean anomaly at epoch,
+       <span class="texhtml">
+        <i>
+         M
+        </i>
+        <sub>
+         0
+        </sub>
+       </span>
+       , or the time of perihelion passage,
+       <span class="texhtml">
+        <i>
+         T
+        </i>
+        <sub>
+         0
+        </sub>
+       </span>
+       , are used to specify a known point in the orbit. The choices made depend whether the vernal equinox or the node are used as the primary reference. The semi-major axis is known if the mean motion and the
+       <a href="/wiki/Mass#Gravitational_mass" title="Mass">
+        gravitational mass
+       </a>
+       are known.
+       <sup class="reference" id="cite_ref-Green_2-0">
+        <a href="#cite_note-Green-2">
+         [2]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-Danby_3-0">
+        <a href="#cite_note-Danby-3">
+         [3]
+        </a>
+       </sup>
+      </p>
+      <p>
+       It is also quite common to see either the mean anomaly (
+       <span class="texhtml mvar" style="font-style:italic;">
+        M
+       </span>
+       ) or the mean longitude (
+       <span class="texhtml mvar" style="font-style:italic;">
+        L
+       </span>
+       ) expressed directly, without either
+       <span class="texhtml">
+        <i>
+         M
+        </i>
+        <sub>
+         0
+        </sub>
+       </span>
+       or
+       <span class="texhtml">
+        <i>
+         L
+        </i>
+        <sub>
+         0
+        </sub>
+       </span>
+       as intermediary steps, as a
+       <a href="/wiki/Polynomial" title="Polynomial">
+        polynomial
+       </a>
+       function with respect to time. This method of expression will consolidate the mean motion (
+       <span class="texhtml mvar" style="font-style:italic;">
+        n
+       </span>
+       ) into the polynomial as one of the coefficients. The appearance will be that
+       <span class="texhtml mvar" style="font-style:italic;">
+        L
+       </span>
+       or
+       <span class="texhtml mvar" style="font-style:italic;">
+        M
+       </span>
+       are expressed in a more complicated manner, but we will appear to need one fewer orbital element.
+      </p>
+      <p>
+       Mean motion can also be obscured behind citations of the orbital period
+       <span class="texhtml mvar" style="font-style:italic;">
+        P
+       </span>
+       .
+      </p>
+      <dl>
+       <dd>
+        <table class="wikitable" style="text-align: center">
+         <caption>
+          Sets of orbital elements
+         </caption>
+         <tr>
+          <th>
+           Object
+          </th>
+          <th>
+           Elements used
+          </th>
+         </tr>
+         <tr>
+          <td>
+           Major planet
+          </td>
+          <td>
+           <span class="texhtml">
+            <i>
+             e
+            </i>
+            ,
+            <i>
+             a
+            </i>
+            ,
+            <a class="mw-redirect" href="/wiki/Inclination" title="Inclination">
+             <i>
+              i
+             </i>
+            </a>
+            ,
+            <a class="mw-redirect" href="/wiki/Ascending_node" title="Ascending node">
+             <i>
+              Ω
+             </i>
+            </a>
+            ,
+            <a class="mw-redirect" href="/wiki/Longitude_of_periapsis" title="Longitude of periapsis">
+             <i>
+              ϖ
+             </i>
+            </a>
+            ,
+            <a href="/wiki/Mean_longitude" title="Mean longitude">
+             <i>
+              L
+             </i>
+             <sub>
+              0
+             </sub>
+            </a>
+           </span>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           Comet
+          </td>
+          <td>
+           <span class="texhtml">
+            <i>
+             e
+            </i>
+            ,
+            <a class="mw-redirect" href="/wiki/Periapsis" title="Periapsis">
+             <i>
+              q
+             </i>
+            </a>
+            ,
+            <i>
+             i
+            </i>
+            ,
+            <i>
+             Ω
+            </i>
+            ,
+            <a href="/wiki/Argument_of_periapsis" title="Argument of periapsis">
+             <i>
+              ω
+             </i>
+            </a>
+            ,
+            <i>
+             T
+            </i>
+            <sub>
+             0
+            </sub>
+           </span>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           Asteroid
+          </td>
+          <td>
+           <span class="texhtml">
+            <i>
+             e
+            </i>
+            ,
+            <i>
+             a
+            </i>
+            ,
+            <i>
+             i
+            </i>
+            ,
+            <i>
+             Ω
+            </i>
+            ,
+            <a href="/wiki/Argument_of_periapsis" title="Argument of periapsis">
+             <i>
+              ω
+             </i>
+            </a>
+            ,
+            <a href="/wiki/Mean_anomaly" title="Mean anomaly">
+             <i>
+              M
+             </i>
+             <sub>
+              0
+             </sub>
+            </a>
+           </span>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           <a href="/wiki/Orbital_elements#Two-line_elements" title="Orbital elements">
+            Two-line elements
+           </a>
+          </td>
+          <td>
+           <span class="texhtml">
+            <i>
+             e
+            </i>
+            ,
+            <i>
+             i
+            </i>
+            ,
+            <i>
+             Ω
+            </i>
+            ,
+            <i>
+             ω
+            </i>
+            ,
+            <a href="/wiki/Mean_motion" title="Mean motion">
+             <i>
+              n
+             </i>
+            </a>
+            ,
+            <i>
+             M
+            </i>
+            <sub>
+             0
+            </sub>
+           </span>
+          </td>
+         </tr>
+        </table>
+       </dd>
+      </dl>
+      <h4>
+       <span class="mw-headline" id="Euler_angle_transformations">
+        Euler angle transformations
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Orbital_elements&amp;action=edit&amp;section=4" title="Edit section: Euler angle transformations">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h4>
+      <p>
+       The angles
+       <span class="texhtml mvar" style="font-style:italic;">
+        Ω
+       </span>
+       ,
+       <span class="texhtml mvar" style="font-style:italic;">
+        i
+       </span>
+       ,
+       <span class="texhtml mvar" style="font-style:italic;">
+        ω
+       </span>
+       are the
+       <a href="/wiki/Euler_angles" title="Euler angles">
+        Euler angles
+       </a>
+       (
+       <span class="texhtml mvar" style="font-style:italic;">
+        α
+       </span>
+       ,
+       <span class="texhtml mvar" style="font-style:italic;">
+        β
+       </span>
+       ,
+       <span class="texhtml mvar" style="font-style:italic;">
+        γ
+       </span>
+       with the notations of that article) characterizing the orientation of the coordinate system
+      </p>
+      <dl>
+       <dd>
+        <span class="texhtml mvar" style="font-style:italic;">
+         x̂
+        </span>
+        ,
+        <span class="texhtml mvar" style="font-style:italic;">
+         ŷ
+        </span>
+        ,
+        <span class="texhtml mvar" style="font-style:italic;">
+         ẑ
+        </span>
+        from the inertial coordinate frame
+        <span class="texhtml mvar" style="font-style:italic;">
+         Î
+        </span>
+        ,
+        <span class="texhtml mvar" style="font-style:italic;">
+         Ĵ
+        </span>
+        ,
+        <span class="texhtml mvar" style="font-style:italic;">
+         K̂
+        </span>
+       </dd>
+      </dl>
+      <p>
+       where:
+      </p>
+      <ul>
+       <li>
+        <span class="texhtml mvar" style="font-style:italic;">
+         Î
+        </span>
+        ,
+        <span class="texhtml mvar" style="font-style:italic;">
+         Ĵ
+        </span>
+        is in the equatorial plane of the central body.
+        <span class="texhtml mvar" style="font-style:italic;">
+         Î
+        </span>
+        is in the direction of the vernal equinox.
+        <span class="texhtml mvar" style="font-style:italic;">
+         Ĵ
+        </span>
+        is perpendicular to
+        <span class="texhtml mvar" style="font-style:italic;">
+         Î
+        </span>
+        and with
+        <span class="texhtml mvar" style="font-style:italic;">
+         Î
+        </span>
+        defines the reference plane.
+        <span class="texhtml mvar" style="font-style:italic;">
+         K̂
+        </span>
+        is perpendicular to the reference plane. Orbital elements of bodies (planets, comets, asteroids,...) in the solar system usually use the
+        <a href="/wiki/Ecliptic" title="Ecliptic">
+         ecliptic
+        </a>
+        as that plane.
+       </li>
+       <li>
+        <span class="texhtml mvar" style="font-style:italic;">
+         x̂
+        </span>
+        ,
+        <span class="texhtml mvar" style="font-style:italic;">
+         ŷ
+        </span>
+        are in the orbital plane and with
+        <span class="texhtml mvar" style="font-style:italic;">
+         x̂
+        </span>
+        in the direction to the
+        <a class="mw-redirect" href="/wiki/Pericenter" title="Pericenter">
+         pericenter
+        </a>
+        (
+        <a class="mw-redirect" href="/wiki/Periapsis" title="Periapsis">
+         periapsis
+        </a>
+        ).
+        <span class="texhtml mvar" style="font-style:italic;">
+         ẑ
+        </span>
+        is perpendicular to the plane of the orbit.
+        <span class="texhtml mvar" style="font-style:italic;">
+         ŷ
+        </span>
+        is mutually perpendicular to
+        <span class="texhtml mvar" style="font-style:italic;">
+         x̂
+        </span>
+        and
+        <span class="texhtml mvar" style="font-style:italic;">
+         ẑ
+        </span>
+        .
+       </li>
+      </ul>
+      <p>
+       Then, the transformation from the
+       <span class="texhtml mvar" style="font-style:italic;">
+        Î
+       </span>
+       ,
+       <span class="texhtml mvar" style="font-style:italic;">
+        Ĵ
+       </span>
+       ,
+       <span class="texhtml mvar" style="font-style:italic;">
+        K̂
+       </span>
+       coordinate frame to the
+       <span class="texhtml mvar" style="font-style:italic;">
+        x̂
+       </span>
+       ,
+       <span class="texhtml mvar" style="font-style:italic;">
+        ŷ
+       </span>
+       ,
+       <span class="texhtml mvar" style="font-style:italic;">
+        ẑ
+       </span>
+       frame with the Euler angles
+       <span class="texhtml mvar" style="font-style:italic;">
+        Ω
+       </span>
+       ,
+       <span class="texhtml mvar" style="font-style:italic;">
+        i
+       </span>
+       ,
+       <span class="texhtml mvar" style="font-style:italic;">
+        ω
+       </span>
+       is:
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle {\begin{aligned}x_{1}&amp;=\cos \Omega \cdot \cos \omega -\sin \Omega \cdot \cos i\cdot \sin \omega ;\\x_{2}&amp;=\sin \Omega \cdot \cos \omega +\cos \Omega \cdot \cos i\cdot \sin \omega ;\\x_{3}&amp;=\sin i\cdot \sin \omega ;\\y_{1}&amp;=-\cos \Omega \cdot \sin \omega -\sin \Omega \cdot \cos i\cdot \cos \omega ;\\y_{2}&amp;=-\sin \Omega \cdot \sin \omega +\cos \Omega \cdot \cos i\cdot \cos \omega ;\\y_{3}&amp;=\sin i\cdot \cos \omega ;\\z_{1}&amp;=\sin i\cdot \sin \Omega ;\\z_{2}&amp;=-\sin i\cdot \cos \Omega ;\\z_{3}&amp;=\cos i;\end{aligned}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mrow class="MJX-TeXAtom-ORD">
+               <mtable columnalign="right left right left right left right left right left right left" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true" rowspacing="3pt">
+                <mtr>
+                 <mtd>
+                  <msub>
+                   <mi>
+                    x
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mn>
+                     1
+                    </mn>
+                   </mrow>
+                  </msub>
+                 </mtd>
+                 <mtd>
+                  <mi>
+                  </mi>
+                  <mo>
+                   =
+                  </mo>
+                  <mi>
+                   cos
+                  </mi>
+                  <mo>
+                   ⁡
+                   <!-- ⁡ -->
+                  </mo>
+                  <mi mathvariant="normal">
+                   Ω
+                   <!-- Ω -->
+                  </mi>
+                  <mo>
+                   ⋅
+                   <!-- ⋅ -->
+                  </mo>
+                  <mi>
+                   cos
+                  </mi>
+                  <mo>
+                   ⁡
+                   <!-- ⁡ -->
+                  </mo>
+                  <mi>
+                   ω
+                   <!-- ω -->
+                  </mi>
+                  <mo>
+                   −
+                   <!-- − -->
+                  </mo>
+                  <mi>
+                   sin
+                  </mi>
+                  <mo>
+                   ⁡
+                   <!-- ⁡ -->
+                  </mo>
+                  <mi mathvariant="normal">
+                   Ω
+                   <!-- Ω -->
+                  </mi>
+                  <mo>
+                   ⋅
+                   <!-- ⋅ -->
+                  </mo>
+                  <mi>
+                   cos
+                  </mi>
+                  <mo>
+                   ⁡
+                   <!-- ⁡ -->
+                  </mo>
+                  <mi>
+                   i
+                  </mi>
+                  <mo>
+                   ⋅
+                   <!-- ⋅ -->
+                  </mo>
+                  <mi>
+                   sin
+                  </mi>
+                  <mo>
+                   ⁡
+                   <!-- ⁡ -->
+                  </mo>
+                  <mi>
+                   ω
+                   <!-- ω -->
+                  </mi>
+                  <mo>
+                   ;
+                  </mo>
+                 </mtd>
+                </mtr>
+                <mtr>
+                 <mtd>
+                  <msub>
+                   <mi>
+                    x
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mn>
+                     2
+                    </mn>
+                   </mrow>
+                  </msub>
+                 </mtd>
+                 <mtd>
+                  <mi>
+                  </mi>
+                  <mo>
+                   =
+                  </mo>
+                  <mi>
+                   sin
+                  </mi>
+                  <mo>
+                   ⁡
+                   <!-- ⁡ -->
+                  </mo>
+                  <mi mathvariant="normal">
+                   Ω
+                   <!-- Ω -->
+                  </mi>
+                  <mo>
+                   ⋅
+                   <!-- ⋅ -->
+                  </mo>
+                  <mi>
+                   cos
+                  </mi>
+                  <mo>
+                   ⁡
+                   <!-- ⁡ -->
+                  </mo>
+                  <mi>
+                   ω
+                   <!-- ω -->
+                  </mi>
+                  <mo>
+                   +
+                  </mo>
+                  <mi>
+                   cos
+                  </mi>
+                  <mo>
+                   ⁡
+                   <!-- ⁡ -->
+                  </mo>
+                  <mi mathvariant="normal">
+                   Ω
+                   <!-- Ω -->
+                  </mi>
+                  <mo>
+                   ⋅
+                   <!-- ⋅ -->
+                  </mo>
+                  <mi>
+                   cos
+                  </mi>
+                  <mo>
+                   ⁡
+                   <!-- ⁡ -->
+                  </mo>
+                  <mi>
+                   i
+                  </mi>
+                  <mo>
+                   ⋅
+                   <!-- ⋅ -->
+                  </mo>
+                  <mi>
+                   sin
+                  </mi>
+                  <mo>
+                   ⁡
+                   <!-- ⁡ -->
+                  </mo>
+                  <mi>
+                   ω
+                   <!-- ω -->
+                  </mi>
+                  <mo>
+                   ;
+                  </mo>
+                 </mtd>
+                </mtr>
+                <mtr>
+                 <mtd>
+                  <msub>
+                   <mi>
+                    x
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mn>
+                     3
+                    </mn>
+                   </mrow>
+                  </msub>
+                 </mtd>
+                 <mtd>
+                  <mi>
+                  </mi>
+                  <mo>
+                   =
+                  </mo>
+                  <mi>
+                   sin
+                  </mi>
+                  <mo>
+                   ⁡
+                   <!-- ⁡ -->
+                  </mo>
+                  <mi>
+                   i
+                  </mi>
+                  <mo>
+                   ⋅
+                   <!-- ⋅ -->
+                  </mo>
+                  <mi>
+                   sin
+                  </mi>
+                  <mo>
+                   ⁡
+                   <!-- ⁡ -->
+                  </mo>
+                  <mi>
+                   ω
+                   <!-- ω -->
+                  </mi>
+                  <mo>
+                   ;
+                  </mo>
+                 </mtd>
+                </mtr>
+                <mtr>
+                 <mtd>
+                  <msub>
+                   <mi>
+                    y
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mn>
+                     1
+                    </mn>
+                   </mrow>
+                  </msub>
+                 </mtd>
+                 <mtd>
+                  <mi>
+                  </mi>
+                  <mo>
+                   =
+                  </mo>
+                  <mo>
+                   −
+                   <!-- − -->
+                  </mo>
+                  <mi>
+                   cos
+                  </mi>
+                  <mo>
+                   ⁡
+                   <!-- ⁡ -->
+                  </mo>
+                  <mi mathvariant="normal">
+                   Ω
+                   <!-- Ω -->
+                  </mi>
+                  <mo>
+                   ⋅
+                   <!-- ⋅ -->
+                  </mo>
+                  <mi>
+                   sin
+                  </mi>
+                  <mo>
+                   ⁡
+                   <!-- ⁡ -->
+                  </mo>
+                  <mi>
+                   ω
+                   <!-- ω -->
+                  </mi>
+                  <mo>
+                   −
+                   <!-- − -->
+                  </mo>
+                  <mi>
+                   sin
+                  </mi>
+                  <mo>
+                   ⁡
+                   <!-- ⁡ -->
+                  </mo>
+                  <mi mathvariant="normal">
+                   Ω
+                   <!-- Ω -->
+                  </mi>
+                  <mo>
+                   ⋅
+                   <!-- ⋅ -->
+                  </mo>
+                  <mi>
+                   cos
+                  </mi>
+                  <mo>
+                   ⁡
+                   <!-- ⁡ -->
+                  </mo>
+                  <mi>
+                   i
+                  </mi>
+                  <mo>
+                   ⋅
+                   <!-- ⋅ -->
+                  </mo>
+                  <mi>
+                   cos
+                  </mi>
+                  <mo>
+                   ⁡
+                   <!-- ⁡ -->
+                  </mo>
+                  <mi>
+                   ω
+                   <!-- ω -->
+                  </mi>
+                  <mo>
+                   ;
+                  </mo>
+                 </mtd>
+                </mtr>
+                <mtr>
+                 <mtd>
+                  <msub>
+                   <mi>
+                    y
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mn>
+                     2
+                    </mn>
+                   </mrow>
+                  </msub>
+                 </mtd>
+                 <mtd>
+                  <mi>
+                  </mi>
+                  <mo>
+                   =
+                  </mo>
+                  <mo>
+                   −
+                   <!-- − -->
+                  </mo>
+                  <mi>
+                   sin
+                  </mi>
+                  <mo>
+                   ⁡
+                   <!-- ⁡ -->
+                  </mo>
+                  <mi mathvariant="normal">
+                   Ω
+                   <!-- Ω -->
+                  </mi>
+                  <mo>
+                   ⋅
+                   <!-- ⋅ -->
+                  </mo>
+                  <mi>
+                   sin
+                  </mi>
+                  <mo>
+                   ⁡
+                   <!-- ⁡ -->
+                  </mo>
+                  <mi>
+                   ω
+                   <!-- ω -->
+                  </mi>
+                  <mo>
+                   +
+                  </mo>
+                  <mi>
+                   cos
+                  </mi>
+                  <mo>
+                   ⁡
+                   <!-- ⁡ -->
+                  </mo>
+                  <mi mathvariant="normal">
+                   Ω
+                   <!-- Ω -->
+                  </mi>
+                  <mo>
+                   ⋅
+                   <!-- ⋅ -->
+                  </mo>
+                  <mi>
+                   cos
+                  </mi>
+                  <mo>
+                   ⁡
+                   <!-- ⁡ -->
+                  </mo>
+                  <mi>
+                   i
+                  </mi>
+                  <mo>
+                   ⋅
+                   <!-- ⋅ -->
+                  </mo>
+                  <mi>
+                   cos
+                  </mi>
+                  <mo>
+                   ⁡
+                   <!-- ⁡ -->
+                  </mo>
+                  <mi>
+                   ω
+                   <!-- ω -->
+                  </mi>
+                  <mo>
+                   ;
+                  </mo>
+                 </mtd>
+                </mtr>
+                <mtr>
+                 <mtd>
+                  <msub>
+                   <mi>
+                    y
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mn>
+                     3
+                    </mn>
+                   </mrow>
+                  </msub>
+                 </mtd>
+                 <mtd>
+                  <mi>
+                  </mi>
+                  <mo>
+                   =
+                  </mo>
+                  <mi>
+                   sin
+                  </mi>
+                  <mo>
+                   ⁡
+                   <!-- ⁡ -->
+                  </mo>
+                  <mi>
+                   i
+                  </mi>
+                  <mo>
+                   ⋅
+                   <!-- ⋅ -->
+                  </mo>
+                  <mi>
+                   cos
+                  </mi>
+                  <mo>
+                   ⁡
+                   <!-- ⁡ -->
+                  </mo>
+                  <mi>
+                   ω
+                   <!-- ω -->
+                  </mi>
+                  <mo>
+                   ;
+                  </mo>
+                 </mtd>
+                </mtr>
+                <mtr>
+                 <mtd>
+                  <msub>
+                   <mi>
+                    z
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mn>
+                     1
+                    </mn>
+                   </mrow>
+                  </msub>
+                 </mtd>
+                 <mtd>
+                  <mi>
+                  </mi>
+                  <mo>
+                   =
+                  </mo>
+                  <mi>
+                   sin
+                  </mi>
+                  <mo>
+                   ⁡
+                   <!-- ⁡ -->
+                  </mo>
+                  <mi>
+                   i
+                  </mi>
+                  <mo>
+                   ⋅
+                   <!-- ⋅ -->
+                  </mo>
+                  <mi>
+                   sin
+                  </mi>
+                  <mo>
+                   ⁡
+                   <!-- ⁡ -->
+                  </mo>
+                  <mi mathvariant="normal">
+                   Ω
+                   <!-- Ω -->
+                  </mi>
+                  <mo>
+                   ;
+                  </mo>
+                 </mtd>
+                </mtr>
+                <mtr>
+                 <mtd>
+                  <msub>
+                   <mi>
+                    z
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mn>
+                     2
+                    </mn>
+                   </mrow>
+                  </msub>
+                 </mtd>
+                 <mtd>
+                  <mi>
+                  </mi>
+                  <mo>
+                   =
+                  </mo>
+                  <mo>
+                   −
+                   <!-- − -->
+                  </mo>
+                  <mi>
+                   sin
+                  </mi>
+                  <mo>
+                   ⁡
+                   <!-- ⁡ -->
+                  </mo>
+                  <mi>
+                   i
+                  </mi>
+                  <mo>
+                   ⋅
+                   <!-- ⋅ -->
+                  </mo>
+                  <mi>
+                   cos
+                  </mi>
+                  <mo>
+                   ⁡
+                   <!-- ⁡ -->
+                  </mo>
+                  <mi mathvariant="normal">
+                   Ω
+                   <!-- Ω -->
+                  </mi>
+                  <mo>
+                   ;
+                  </mo>
+                 </mtd>
+                </mtr>
+                <mtr>
+                 <mtd>
+                  <msub>
+                   <mi>
+                    z
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mn>
+                     3
+                    </mn>
+                   </mrow>
+                  </msub>
+                 </mtd>
+                 <mtd>
+                  <mi>
+                  </mi>
+                  <mo>
+                   =
+                  </mo>
+                  <mi>
+                   cos
+                  </mi>
+                  <mo>
+                   ⁡
+                   <!-- ⁡ -->
+                  </mo>
+                  <mi>
+                   i
+                  </mi>
+                  <mo>
+                   ;
+                  </mo>
+                 </mtd>
+                </mtr>
+               </mtable>
+              </mrow>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle {\begin{aligned}x_{1}&amp;=\cos \Omega \cdot \cos \omega -\sin \Omega \cdot \cos i\cdot \sin \omega ;\\x_{2}&amp;=\sin \Omega \cdot \cos \omega +\cos \Omega \cdot \cos i\cdot \sin \omega ;\\x_{3}&amp;=\sin i\cdot \sin \omega ;\\y_{1}&amp;=-\cos \Omega \cdot \sin \omega -\sin \Omega \cdot \cos i\cdot \cos \omega ;\\y_{2}&amp;=-\sin \Omega \cdot \sin \omega +\cos \Omega \cdot \cos i\cdot \cos \omega ;\\y_{3}&amp;=\sin i\cdot \cos \omega ;\\z_{1}&amp;=\sin i\cdot \sin \Omega ;\\z_{2}&amp;=-\sin i\cdot \cos \Omega ;\\z_{3}&amp;=\cos i;\end{aligned}}}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle {\begin{aligned}x_{1}&amp;=\cos \Omega \cdot \cos \omega -\sin \Omega \cdot \cos i\cdot \sin \omega ;\\x_{2}&amp;=\sin \Omega \cdot \cos \omega +\cos \Omega \cdot \cos i\cdot \sin \omega ;\\x_{3}&amp;=\sin i\cdot \sin \omega ;\\y_{1}&amp;=-\cos \Omega \cdot \sin \omega -\sin \Omega \cdot \cos i\cdot \cos \omega ;\\y_{2}&amp;=-\sin \Omega \cdot \sin \omega +\cos \Omega \cdot \cos i\cdot \cos \omega ;\\y_{3}&amp;=\sin i\cdot \cos \omega ;\\z_{1}&amp;=\sin i\cdot \sin \Omega ;\\z_{2}&amp;=-\sin i\cdot \cos \Omega ;\\z_{3}&amp;=\cos i;\end{aligned}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/115bf9fba4713571d692a3bfbbba82d889fc2beb" style="vertical-align: -13.005ex; width:40.984ex; height:27.176ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle \left({\begin{array}{ccc}x_{1}&amp;x_{2}&amp;x_{3}\\y_{1}&amp;y_{2}&amp;y_{3}\\z_{1}&amp;z_{2}&amp;z_{3}\end{array}}\right)=\left({\begin{array}{ccc}\cos \omega &amp;\sin \omega &amp;0\\-\sin \omega &amp;\cos \omega &amp;0\\0&amp;0&amp;1\end{array}}\right)\cdot \left({\begin{array}{ccc}1&amp;0&amp;0\\0&amp;\cos i&amp;\sin i\\0&amp;-\sin i&amp;\cos i\end{array}}\right)\cdot \left({\begin{array}{ccc}\cos \Omega &amp;\sin \Omega &amp;0\\-\sin \Omega &amp;\cos \Omega &amp;0\\0&amp;0&amp;1\end{array}}\right);}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mrow>
+               <mo>
+                (
+               </mo>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mtable columnalign="center center center" columnspacing="1em" rowspacing="4pt">
+                 <mtr>
+                  <mtd>
+                   <msub>
+                    <mi>
+                     x
+                    </mi>
+                    <mrow class="MJX-TeXAtom-ORD">
+                     <mn>
+                      1
+                     </mn>
+                    </mrow>
+                   </msub>
+                  </mtd>
+                  <mtd>
+                   <msub>
+                    <mi>
+                     x
+                    </mi>
+                    <mrow class="MJX-TeXAtom-ORD">
+                     <mn>
+                      2
+                     </mn>
+                    </mrow>
+                   </msub>
+                  </mtd>
+                  <mtd>
+                   <msub>
+                    <mi>
+                     x
+                    </mi>
+                    <mrow class="MJX-TeXAtom-ORD">
+                     <mn>
+                      3
+                     </mn>
+                    </mrow>
+                   </msub>
+                  </mtd>
+                 </mtr>
+                 <mtr>
+                  <mtd>
+                   <msub>
+                    <mi>
+                     y
+                    </mi>
+                    <mrow class="MJX-TeXAtom-ORD">
+                     <mn>
+                      1
+                     </mn>
+                    </mrow>
+                   </msub>
+                  </mtd>
+                  <mtd>
+                   <msub>
+                    <mi>
+                     y
+                    </mi>
+                    <mrow class="MJX-TeXAtom-ORD">
+                     <mn>
+                      2
+                     </mn>
+                    </mrow>
+                   </msub>
+                  </mtd>
+                  <mtd>
+                   <msub>
+                    <mi>
+                     y
+                    </mi>
+                    <mrow class="MJX-TeXAtom-ORD">
+                     <mn>
+                      3
+                     </mn>
+                    </mrow>
+                   </msub>
+                  </mtd>
+                 </mtr>
+                 <mtr>
+                  <mtd>
+                   <msub>
+                    <mi>
+                     z
+                    </mi>
+                    <mrow class="MJX-TeXAtom-ORD">
+                     <mn>
+                      1
+                     </mn>
+                    </mrow>
+                   </msub>
+                  </mtd>
+                  <mtd>
+                   <msub>
+                    <mi>
+                     z
+                    </mi>
+                    <mrow class="MJX-TeXAtom-ORD">
+                     <mn>
+                      2
+                     </mn>
+                    </mrow>
+                   </msub>
+                  </mtd>
+                  <mtd>
+                   <msub>
+                    <mi>
+                     z
+                    </mi>
+                    <mrow class="MJX-TeXAtom-ORD">
+                     <mn>
+                      3
+                     </mn>
+                    </mrow>
+                   </msub>
+                  </mtd>
+                 </mtr>
+                </mtable>
+               </mrow>
+               <mo>
+                )
+               </mo>
+              </mrow>
+              <mo>
+               =
+              </mo>
+              <mrow>
+               <mo>
+                (
+               </mo>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mtable columnalign="center center center" columnspacing="1em" rowspacing="4pt">
+                 <mtr>
+                  <mtd>
+                   <mi>
+                    cos
+                   </mi>
+                   <mo>
+                    ⁡
+                    <!-- ⁡ -->
+                   </mo>
+                   <mi>
+                    ω
+                    <!-- ω -->
+                   </mi>
+                  </mtd>
+                  <mtd>
+                   <mi>
+                    sin
+                   </mi>
+                   <mo>
+                    ⁡
+                    <!-- ⁡ -->
+                   </mo>
+                   <mi>
+                    ω
+                    <!-- ω -->
+                   </mi>
+                  </mtd>
+                  <mtd>
+                   <mn>
+                    0
+                   </mn>
+                  </mtd>
+                 </mtr>
+                 <mtr>
+                  <mtd>
+                   <mo>
+                    −
+                    <!-- − -->
+                   </mo>
+                   <mi>
+                    sin
+                   </mi>
+                   <mo>
+                    ⁡
+                    <!-- ⁡ -->
+                   </mo>
+                   <mi>
+                    ω
+                    <!-- ω -->
+                   </mi>
+                  </mtd>
+                  <mtd>
+                   <mi>
+                    cos
+                   </mi>
+                   <mo>
+                    ⁡
+                    <!-- ⁡ -->
+                   </mo>
+                   <mi>
+                    ω
+                    <!-- ω -->
+                   </mi>
+                  </mtd>
+                  <mtd>
+                   <mn>
+                    0
+                   </mn>
+                  </mtd>
+                 </mtr>
+                 <mtr>
+                  <mtd>
+                   <mn>
+                    0
+                   </mn>
+                  </mtd>
+                  <mtd>
+                   <mn>
+                    0
+                   </mn>
+                  </mtd>
+                  <mtd>
+                   <mn>
+                    1
+                   </mn>
+                  </mtd>
+                 </mtr>
+                </mtable>
+               </mrow>
+               <mo>
+                )
+               </mo>
+              </mrow>
+              <mo>
+               ⋅
+               <!-- ⋅ -->
+              </mo>
+              <mrow>
+               <mo>
+                (
+               </mo>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mtable columnalign="center center center" columnspacing="1em" rowspacing="4pt">
+                 <mtr>
+                  <mtd>
+                   <mn>
+                    1
+                   </mn>
+                  </mtd>
+                  <mtd>
+                   <mn>
+                    0
+                   </mn>
+                  </mtd>
+                  <mtd>
+                   <mn>
+                    0
+                   </mn>
+                  </mtd>
+                 </mtr>
+                 <mtr>
+                  <mtd>
+                   <mn>
+                    0
+                   </mn>
+                  </mtd>
+                  <mtd>
+                   <mi>
+                    cos
+                   </mi>
+                   <mo>
+                    ⁡
+                    <!-- ⁡ -->
+                   </mo>
+                   <mi>
+                    i
+                   </mi>
+                  </mtd>
+                  <mtd>
+                   <mi>
+                    sin
+                   </mi>
+                   <mo>
+                    ⁡
+                    <!-- ⁡ -->
+                   </mo>
+                   <mi>
+                    i
+                   </mi>
+                  </mtd>
+                 </mtr>
+                 <mtr>
+                  <mtd>
+                   <mn>
+                    0
+                   </mn>
+                  </mtd>
+                  <mtd>
+                   <mo>
+                    −
+                    <!-- − -->
+                   </mo>
+                   <mi>
+                    sin
+                   </mi>
+                   <mo>
+                    ⁡
+                    <!-- ⁡ -->
+                   </mo>
+                   <mi>
+                    i
+                   </mi>
+                  </mtd>
+                  <mtd>
+                   <mi>
+                    cos
+                   </mi>
+                   <mo>
+                    ⁡
+                    <!-- ⁡ -->
+                   </mo>
+                   <mi>
+                    i
+                   </mi>
+                  </mtd>
+                 </mtr>
+                </mtable>
+               </mrow>
+               <mo>
+                )
+               </mo>
+              </mrow>
+              <mo>
+               ⋅
+               <!-- ⋅ -->
+              </mo>
+              <mrow>
+               <mo>
+                (
+               </mo>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mtable columnalign="center center center" columnspacing="1em" rowspacing="4pt">
+                 <mtr>
+                  <mtd>
+                   <mi>
+                    cos
+                   </mi>
+                   <mo>
+                    ⁡
+                    <!-- ⁡ -->
+                   </mo>
+                   <mi mathvariant="normal">
+                    Ω
+                    <!-- Ω -->
+                   </mi>
+                  </mtd>
+                  <mtd>
+                   <mi>
+                    sin
+                   </mi>
+                   <mo>
+                    ⁡
+                    <!-- ⁡ -->
+                   </mo>
+                   <mi mathvariant="normal">
+                    Ω
+                    <!-- Ω -->
+                   </mi>
+                  </mtd>
+                  <mtd>
+                   <mn>
+                    0
+                   </mn>
+                  </mtd>
+                 </mtr>
+                 <mtr>
+                  <mtd>
+                   <mo>
+                    −
+                    <!-- − -->
+                   </mo>
+                   <mi>
+                    sin
+                   </mi>
+                   <mo>
+                    ⁡
+                    <!-- ⁡ -->
+                   </mo>
+                   <mi mathvariant="normal">
+                    Ω
+                    <!-- Ω -->
+                   </mi>
+                  </mtd>
+                  <mtd>
+                   <mi>
+                    cos
+                   </mi>
+                   <mo>
+                    ⁡
+                    <!-- ⁡ -->
+                   </mo>
+                   <mi mathvariant="normal">
+                    Ω
+                    <!-- Ω -->
+                   </mi>
+                  </mtd>
+                  <mtd>
+                   <mn>
+                    0
+                   </mn>
+                  </mtd>
+                 </mtr>
+                 <mtr>
+                  <mtd>
+                   <mn>
+                    0
+                   </mn>
+                  </mtd>
+                  <mtd>
+                   <mn>
+                    0
+                   </mn>
+                  </mtd>
+                  <mtd>
+                   <mn>
+                    1
+                   </mn>
+                  </mtd>
+                 </mtr>
+                </mtable>
+               </mrow>
+               <mo>
+                )
+               </mo>
+              </mrow>
+              <mo>
+               ;
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle \left({\begin{array}{ccc}x_{1}&amp;x_{2}&amp;x_{3}\\y_{1}&amp;y_{2}&amp;y_{3}\\z_{1}&amp;z_{2}&amp;z_{3}\end{array}}\right)=\left({\begin{array}{ccc}\cos \omega &amp;\sin \omega &amp;0\\-\sin \omega &amp;\cos \omega &amp;0\\0&amp;0&amp;1\end{array}}\right)\cdot \left({\begin{array}{ccc}1&amp;0&amp;0\\0&amp;\cos i&amp;\sin i\\0&amp;-\sin i&amp;\cos i\end{array}}\right)\cdot \left({\begin{array}{ccc}\cos \Omega &amp;\sin \Omega &amp;0\\-\sin \Omega &amp;\cos \Omega &amp;0\\0&amp;0&amp;1\end{array}}\right);}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle \left({\begin{array}{ccc}x_{1}&amp;x_{2}&amp;x_{3}\\y_{1}&amp;y_{2}&amp;y_{3}\\z_{1}&amp;z_{2}&amp;z_{3}\end{array}}\right)=\left({\begin{array}{ccc}\cos \omega &amp;\sin \omega &amp;0\\-\sin \omega &amp;\cos \omega &amp;0\\0&amp;0&amp;1\end{array}}\right)\cdot \left({\begin{array}{ccc}1&amp;0&amp;0\\0&amp;\cos i&amp;\sin i\\0&amp;-\sin i&amp;\cos i\end{array}}\right)\cdot \left({\begin{array}{ccc}\cos \Omega &amp;\sin \Omega &amp;0\\-\sin \Omega &amp;\cos \Omega &amp;0\\0&amp;0&amp;1\end{array}}\right);}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/cb023c00f2a84f7bc9e3716a399cccfe4e0ec698" style="vertical-align: -4.171ex; width:90.645ex; height:9.509ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       where
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle {\begin{aligned}{\hat {x}}&amp;=x_{1}{\hat {I}}+x_{2}{\hat {J}}+x_{3}{\hat {K}};\\{\hat {y}}&amp;=y_{1}{\hat {I}}+y_{2}{\hat {J}}+y_{3}{\hat {K}};\\{\hat {z}}&amp;=z_{1}{\hat {I}}+z_{2}{\hat {J}}+z_{3}{\hat {K}}.\end{aligned}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mrow class="MJX-TeXAtom-ORD">
+               <mtable columnalign="right left right left right left right left right left right left" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true" rowspacing="3pt">
+                <mtr>
+                 <mtd>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mover>
+                     <mi>
+                      x
+                     </mi>
+                     <mo stretchy="false">
+                      ^
+                      <!-- ^ -->
+                     </mo>
+                    </mover>
+                   </mrow>
+                  </mrow>
+                 </mtd>
+                 <mtd>
+                  <mi>
+                  </mi>
+                  <mo>
+                   =
+                  </mo>
+                  <msub>
+                   <mi>
+                    x
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mn>
+                     1
+                    </mn>
+                   </mrow>
+                  </msub>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mover>
+                     <mi>
+                      I
+                     </mi>
+                     <mo stretchy="false">
+                      ^
+                      <!-- ^ -->
+                     </mo>
+                    </mover>
+                   </mrow>
+                  </mrow>
+                  <mo>
+                   +
+                  </mo>
+                  <msub>
+                   <mi>
+                    x
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mn>
+                     2
+                    </mn>
+                   </mrow>
+                  </msub>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mover>
+                     <mi>
+                      J
+                     </mi>
+                     <mo stretchy="false">
+                      ^
+                      <!-- ^ -->
+                     </mo>
+                    </mover>
+                   </mrow>
+                  </mrow>
+                  <mo>
+                   +
+                  </mo>
+                  <msub>
+                   <mi>
+                    x
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mn>
+                     3
+                    </mn>
+                   </mrow>
+                  </msub>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mover>
+                     <mi>
+                      K
+                     </mi>
+                     <mo stretchy="false">
+                      ^
+                      <!-- ^ -->
+                     </mo>
+                    </mover>
+                   </mrow>
+                  </mrow>
+                  <mo>
+                   ;
+                  </mo>
+                 </mtd>
+                </mtr>
+                <mtr>
+                 <mtd>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mover>
+                     <mi>
+                      y
+                     </mi>
+                     <mo stretchy="false">
+                      ^
+                      <!-- ^ -->
+                     </mo>
+                    </mover>
+                   </mrow>
+                  </mrow>
+                 </mtd>
+                 <mtd>
+                  <mi>
+                  </mi>
+                  <mo>
+                   =
+                  </mo>
+                  <msub>
+                   <mi>
+                    y
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mn>
+                     1
+                    </mn>
+                   </mrow>
+                  </msub>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mover>
+                     <mi>
+                      I
+                     </mi>
+                     <mo stretchy="false">
+                      ^
+                      <!-- ^ -->
+                     </mo>
+                    </mover>
+                   </mrow>
+                  </mrow>
+                  <mo>
+                   +
+                  </mo>
+                  <msub>
+                   <mi>
+                    y
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mn>
+                     2
+                    </mn>
+                   </mrow>
+                  </msub>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mover>
+                     <mi>
+                      J
+                     </mi>
+                     <mo stretchy="false">
+                      ^
+                      <!-- ^ -->
+                     </mo>
+                    </mover>
+                   </mrow>
+                  </mrow>
+                  <mo>
+                   +
+                  </mo>
+                  <msub>
+                   <mi>
+                    y
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mn>
+                     3
+                    </mn>
+                   </mrow>
+                  </msub>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mover>
+                     <mi>
+                      K
+                     </mi>
+                     <mo stretchy="false">
+                      ^
+                      <!-- ^ -->
+                     </mo>
+                    </mover>
+                   </mrow>
+                  </mrow>
+                  <mo>
+                   ;
+                  </mo>
+                 </mtd>
+                </mtr>
+                <mtr>
+                 <mtd>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mover>
+                     <mi>
+                      z
+                     </mi>
+                     <mo stretchy="false">
+                      ^
+                      <!-- ^ -->
+                     </mo>
+                    </mover>
+                   </mrow>
+                  </mrow>
+                 </mtd>
+                 <mtd>
+                  <mi>
+                  </mi>
+                  <mo>
+                   =
+                  </mo>
+                  <msub>
+                   <mi>
+                    z
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mn>
+                     1
+                    </mn>
+                   </mrow>
+                  </msub>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mover>
+                     <mi>
+                      I
+                     </mi>
+                     <mo stretchy="false">
+                      ^
+                      <!-- ^ -->
+                     </mo>
+                    </mover>
+                   </mrow>
+                  </mrow>
+                  <mo>
+                   +
+                  </mo>
+                  <msub>
+                   <mi>
+                    z
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mn>
+                     2
+                    </mn>
+                   </mrow>
+                  </msub>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mover>
+                     <mi>
+                      J
+                     </mi>
+                     <mo stretchy="false">
+                      ^
+                      <!-- ^ -->
+                     </mo>
+                    </mover>
+                   </mrow>
+                  </mrow>
+                  <mo>
+                   +
+                  </mo>
+                  <msub>
+                   <mi>
+                    z
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mn>
+                     3
+                    </mn>
+                   </mrow>
+                  </msub>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mover>
+                     <mi>
+                      K
+                     </mi>
+                     <mo stretchy="false">
+                      ^
+                      <!-- ^ -->
+                     </mo>
+                    </mover>
+                   </mrow>
+                  </mrow>
+                  <mo>
+                   .
+                  </mo>
+                 </mtd>
+                </mtr>
+               </mtable>
+              </mrow>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle {\begin{aligned}{\hat {x}}&amp;=x_{1}{\hat {I}}+x_{2}{\hat {J}}+x_{3}{\hat {K}};\\{\hat {y}}&amp;=y_{1}{\hat {I}}+y_{2}{\hat {J}}+y_{3}{\hat {K}};\\{\hat {z}}&amp;=z_{1}{\hat {I}}+z_{2}{\hat {J}}+z_{3}{\hat {K}}.\end{aligned}}}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle {\begin{aligned}{\hat {x}}&amp;=x_{1}{\hat {I}}+x_{2}{\hat {J}}+x_{3}{\hat {K}};\\{\hat {y}}&amp;=y_{1}{\hat {I}}+y_{2}{\hat {J}}+y_{3}{\hat {K}};\\{\hat {z}}&amp;=z_{1}{\hat {I}}+z_{2}{\hat {J}}+z_{3}{\hat {K}}.\end{aligned}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/83530447f4fafc1fe62dbc30b2768e91cd8f7a7e" style="vertical-align: -4.338ex; width:24.069ex; height:9.843ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       The inverse transformation, which computes the 3 coordinates in the I-J-K system given the 3 (or 2) coordinates in the x-y-z system, is represented by the inverse matrix. According to the rules of
+       <a href="/wiki/Invertible_matrix" title="Invertible matrix">
+        matrix algebra
+       </a>
+       , the inverse matrix of the product of the 3 rotation matrices is obtained by inverting the order of the three matrices and switching the signs of the three Euler angles.
+      </p>
+      <p>
+       The transformation from
+       <span class="texhtml mvar" style="font-style:italic;">
+        x̂
+       </span>
+       ,
+       <span class="texhtml mvar" style="font-style:italic;">
+        ŷ
+       </span>
+       ,
+       <span class="texhtml mvar" style="font-style:italic;">
+        ẑ
+       </span>
+       to Euler angles
+       <span class="texhtml mvar" style="font-style:italic;">
+        Ω
+       </span>
+       ,
+       <span class="texhtml mvar" style="font-style:italic;">
+        i
+       </span>
+       ,
+       <span class="texhtml mvar" style="font-style:italic;">
+        ω
+       </span>
+       is:
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle {\begin{aligned}\Omega &amp;=\operatorname {arg} \left(-z_{2},z_{1}\right)\\i&amp;=\operatorname {arg} \left(z_{3},{\sqrt {{z_{1}}^{2}+{z_{2}}^{2}}}\right)\\\omega &amp;=\operatorname {arg} \left(y_{3},x_{3}\right)\end{aligned}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mrow class="MJX-TeXAtom-ORD">
+               <mtable columnalign="right left right left right left right left right left right left" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true" rowspacing="3pt">
+                <mtr>
+                 <mtd>
+                  <mi mathvariant="normal">
+                   Ω
+                   <!-- Ω -->
+                  </mi>
+                 </mtd>
+                 <mtd>
+                  <mi>
+                  </mi>
+                  <mo>
+                   =
+                  </mo>
+                  <mi>
+                   arg
+                  </mi>
+                  <mo>
+                   ⁡
+                   <!-- ⁡ -->
+                  </mo>
+                  <mrow>
+                   <mo>
+                    (
+                   </mo>
+                   <mrow>
+                    <mo>
+                     −
+                     <!-- − -->
+                    </mo>
+                    <msub>
+                     <mi>
+                      z
+                     </mi>
+                     <mrow class="MJX-TeXAtom-ORD">
+                      <mn>
+                       2
+                      </mn>
+                     </mrow>
+                    </msub>
+                    <mo>
+                     ,
+                    </mo>
+                    <msub>
+                     <mi>
+                      z
+                     </mi>
+                     <mrow class="MJX-TeXAtom-ORD">
+                      <mn>
+                       1
+                      </mn>
+                     </mrow>
+                    </msub>
+                   </mrow>
+                   <mo>
+                    )
+                   </mo>
+                  </mrow>
+                 </mtd>
+                </mtr>
+                <mtr>
+                 <mtd>
+                  <mi>
+                   i
+                  </mi>
+                 </mtd>
+                 <mtd>
+                  <mi>
+                  </mi>
+                  <mo>
+                   =
+                  </mo>
+                  <mi>
+                   arg
+                  </mi>
+                  <mo>
+                   ⁡
+                   <!-- ⁡ -->
+                  </mo>
+                  <mrow>
+                   <mo>
+                    (
+                   </mo>
+                   <mrow>
+                    <msub>
+                     <mi>
+                      z
+                     </mi>
+                     <mrow class="MJX-TeXAtom-ORD">
+                      <mn>
+                       3
+                      </mn>
+                     </mrow>
+                    </msub>
+                    <mo>
+                     ,
+                    </mo>
+                    <mrow class="MJX-TeXAtom-ORD">
+                     <msqrt>
+                      <msup>
+                       <mrow class="MJX-TeXAtom-ORD">
+                        <msub>
+                         <mi>
+                          z
+                         </mi>
+                         <mrow class="MJX-TeXAtom-ORD">
+                          <mn>
+                           1
+                          </mn>
+                         </mrow>
+                        </msub>
+                       </mrow>
+                       <mrow class="MJX-TeXAtom-ORD">
+                        <mn>
+                         2
+                        </mn>
+                       </mrow>
+                      </msup>
+                      <mo>
+                       +
+                      </mo>
+                      <msup>
+                       <mrow class="MJX-TeXAtom-ORD">
+                        <msub>
+                         <mi>
+                          z
+                         </mi>
+                         <mrow class="MJX-TeXAtom-ORD">
+                          <mn>
+                           2
+                          </mn>
+                         </mrow>
+                        </msub>
+                       </mrow>
+                       <mrow class="MJX-TeXAtom-ORD">
+                        <mn>
+                         2
+                        </mn>
+                       </mrow>
+                      </msup>
+                     </msqrt>
+                    </mrow>
+                   </mrow>
+                   <mo>
+                    )
+                   </mo>
+                  </mrow>
+                 </mtd>
+                </mtr>
+                <mtr>
+                 <mtd>
+                  <mi>
+                   ω
+                   <!-- ω -->
+                  </mi>
+                 </mtd>
+                 <mtd>
+                  <mi>
+                  </mi>
+                  <mo>
+                   =
+                  </mo>
+                  <mi>
+                   arg
+                  </mi>
+                  <mo>
+                   ⁡
+                   <!-- ⁡ -->
+                  </mo>
+                  <mrow>
+                   <mo>
+                    (
+                   </mo>
+                   <mrow>
+                    <msub>
+                     <mi>
+                      y
+                     </mi>
+                     <mrow class="MJX-TeXAtom-ORD">
+                      <mn>
+                       3
+                      </mn>
+                     </mrow>
+                    </msub>
+                    <mo>
+                     ,
+                    </mo>
+                    <msub>
+                     <mi>
+                      x
+                     </mi>
+                     <mrow class="MJX-TeXAtom-ORD">
+                      <mn>
+                       3
+                      </mn>
+                     </mrow>
+                    </msub>
+                   </mrow>
+                   <mo>
+                    )
+                   </mo>
+                  </mrow>
+                 </mtd>
+                </mtr>
+               </mtable>
+              </mrow>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle {\begin{aligned}\Omega &amp;=\operatorname {arg} \left(-z_{2},z_{1}\right)\\i&amp;=\operatorname {arg} \left(z_{3},{\sqrt {{z_{1}}^{2}+{z_{2}}^{2}}}\right)\\\omega &amp;=\operatorname {arg} \left(y_{3},x_{3}\right)\end{aligned}}}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle {\begin{aligned}\Omega &amp;=\operatorname {arg} \left(-z_{2},z_{1}\right)\\i&amp;=\operatorname {arg} \left(z_{3},{\sqrt {{z_{1}}^{2}+{z_{2}}^{2}}}\right)\\\omega &amp;=\operatorname {arg} \left(y_{3},x_{3}\right)\end{aligned}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c172f33983c985613db5ca0000cbbd597c468898" style="vertical-align: -5.671ex; width:26.898ex; height:12.509ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       where
+       <span class="texhtml">
+        arg(
+        <i>
+         x
+        </i>
+        ,
+        <i>
+         y
+        </i>
+        )
+       </span>
+       signifies the polar argument that can be computed with the standard function
+       <tt>
+        <a href="/wiki/Atan2" title="Atan2">
+         atan2(y,x)
+        </a>
+       </tt>
+       available in many programming languages.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Orbit_prediction">
+        Orbit prediction
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Orbital_elements&amp;action=edit&amp;section=5" title="Edit section: Orbit prediction">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Under ideal conditions of a perfectly spherical central body and zero perturbations, all orbital elements except the
+       <a href="/wiki/Mean_anomaly" title="Mean anomaly">
+        mean anomaly
+       </a>
+       are constants. The mean anomaly changes linearly with time, scaled by the
+       <a href="/wiki/Mean_motion" title="Mean motion">
+        mean motion
+       </a>
+       ,
+       <sup class="reference" id="cite_ref-Green_2-1">
+        <a href="#cite_note-Green-2">
+         [2]
+        </a>
+       </sup>
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle n={\sqrt {\frac {\mu }{a^{3}}}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               n
+              </mi>
+              <mo>
+               =
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <msqrt>
+                <mfrac>
+                 <mi>
+                  μ
+                  <!-- μ -->
+                 </mi>
+                 <msup>
+                  <mi>
+                   a
+                  </mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mn>
+                    3
+                   </mn>
+                  </mrow>
+                 </msup>
+                </mfrac>
+               </msqrt>
+              </mrow>
+              <mo>
+               .
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle n={\sqrt {\frac {\mu }{a^{3}}}}.}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle n={\sqrt {\frac {\mu }{a^{3}}}}.}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f2122afec0f7eb3e19b9b2664228d66c7623b0cb" style="vertical-align: -2.671ex; width:10.584ex; height:6.176ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       Hence if at any instant
+       <span class="texhtml">
+        <i>
+         t
+        </i>
+        <sub>
+         0
+        </sub>
+       </span>
+       the orbital parameters are
+       <span class="texhtml">
+        [
+        <i>
+         e
+        </i>
+        <sub>
+         0
+        </sub>
+        ,
+        <i>
+         a
+        </i>
+        <sub>
+         0
+        </sub>
+        ,
+        <i>
+         i
+        </i>
+        <sub>
+         0
+        </sub>
+        ,
+        <i>
+         Ω
+        </i>
+        <sub>
+         0
+        </sub>
+        ,
+        <i>
+         ω
+        </i>
+        <sub>
+         0
+        </sub>
+        ,
+        <i>
+         M
+        </i>
+        <sub>
+         0
+        </sub>
+        ]
+       </span>
+       , then the elements at time
+       <span class="texhtml">
+        <i>
+         t
+        </i>
+        <sub>
+         0
+        </sub>
+        +
+        <i>
+         δt
+        </i>
+       </span>
+       is given by
+       <span class="texhtml">
+        [
+        <i>
+         e
+        </i>
+        <sub>
+         0
+        </sub>
+        ,
+        <i>
+         a
+        </i>
+        <sub>
+         0
+        </sub>
+        ,
+        <i>
+         i
+        </i>
+        <sub>
+         0
+        </sub>
+        ,
+        <i>
+         Ω
+        </i>
+        <sub>
+         0
+        </sub>
+        ,
+        <i>
+         ω
+        </i>
+        <sub>
+         0
+        </sub>
+        ,
+        <i>
+         M
+        </i>
+        <sub>
+         0
+        </sub>
+        +
+        <i>
+         n δt
+        </i>
+        ]
+       </span>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Perturbations_and_elemental_variance">
+        Perturbations and elemental variance
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Orbital_elements&amp;action=edit&amp;section=6" title="Edit section: Perturbations and elemental variance">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main article:
+       <a href="/wiki/Perturbation_(astronomy)" title="Perturbation (astronomy)">
+        Perturbation (astronomy)
+       </a>
+      </div>
+      <p>
+       Unperturbed,
+       <a href="/wiki/Two-body_problem" title="Two-body problem">
+        two-body
+       </a>
+       ,
+       <a class="mw-redirect" href="/wiki/Newtonian_gravitation" title="Newtonian gravitation">
+        Newtonian
+       </a>
+       orbits are always
+       <a href="/wiki/Conic_section" title="Conic section">
+        conic sections
+       </a>
+       , so the Keplerian elements define an
+       <a href="/wiki/Ellipse" title="Ellipse">
+        ellipse
+       </a>
+       ,
+       <a href="/wiki/Parabola" title="Parabola">
+        parabola
+       </a>
+       , or
+       <a href="/wiki/Hyperbola" title="Hyperbola">
+        hyperbola
+       </a>
+       . Real orbits have perturbations, so a given set of Keplerian elements accurately describes an orbit only at the epoch. Evolution of the orbital elements takes place due to the
+       <a class="mw-redirect" href="/wiki/Gravitational" title="Gravitational">
+        gravitational
+       </a>
+       pull of bodies other than the primary, the
+       <a href="/wiki/Sphericity" title="Sphericity">
+        nonsphericity
+       </a>
+       of the primary,
+       <a class="mw-redirect" href="/wiki/Atmospheric" title="Atmospheric">
+        atmospheric
+       </a>
+       <a href="/wiki/Drag_(physics)" title="Drag (physics)">
+        drag
+       </a>
+       ,
+       <a href="/wiki/Theory_of_relativity" title="Theory of relativity">
+        relativistic effects
+       </a>
+       ,
+       <a href="/wiki/Radiation_pressure" title="Radiation pressure">
+        radiation pressure
+       </a>
+       ,
+       <a class="mw-redirect" href="/wiki/Electromagnetic_force" title="Electromagnetic force">
+        electromagnetic forces
+       </a>
+       , and so on.
+      </p>
+      <p>
+       Keplerian elements can often be used to produce useful predictions at times near the epoch. Alternatively, real trajectories can be modeled as a sequence of Keplerian orbits that
+       <a href="/wiki/Osculating_orbit" title="Osculating orbit">
+        osculate
+       </a>
+       ("kiss" or touch) the real trajectory. They can also be described by the so-called planetary equations, differential equations which come in different forms developed by
+       <a class="mw-redirect" href="/wiki/Joseph_Louis_Lagrange" title="Joseph Louis Lagrange">
+        Lagrange
+       </a>
+       ,
+       <a href="/wiki/Carl_Friedrich_Gauss" title="Carl Friedrich Gauss">
+        Gauss
+       </a>
+       ,
+       <a href="/wiki/Charles-Eug%C3%A8ne_Delaunay" title="Charles-Eugène Delaunay">
+        Delaunay
+       </a>
+       ,
+       <a href="/wiki/Henri_Poincar%C3%A9" title="Henri Poincaré">
+        Poincaré
+       </a>
+       , or
+       <a href="/wiki/George_William_Hill" title="George William Hill">
+        Hill
+       </a>
+       .
+      </p>
+      <h2>
+       <span class="mw-headline" id="Two-line_elements">
+        Two-line elements
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Orbital_elements&amp;action=edit&amp;section=7" title="Edit section: Two-line elements">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main article:
+       <a class="mw-redirect" href="/wiki/Two-line_elements" title="Two-line elements">
+        Two-line elements
+       </a>
+      </div>
+      <p>
+       Keplerian elements parameters can be encoded as text in a number of formats. The most common of them is the
+       <a href="/wiki/NASA" title="NASA">
+        NASA
+       </a>
+       /
+       <a class="mw-redirect" href="/wiki/NORAD" title="NORAD">
+        NORAD
+       </a>
+       <b>
+        "two-line elements"
+       </b>
+       (TLE) format,
+       <sup class="reference" id="cite_ref-Kelso_FAQ_4-0">
+        <a href="#cite_note-Kelso_FAQ-4">
+         [4]
+        </a>
+       </sup>
+       originally designed for use with 80-column punched cards, but still in use because it is the most common format, and can be handled easily by all modern data storages as well.
+      </p>
+      <p>
+       Depending on the application and object orbit, the data derived from TLEs older than 30 days can become unreliable. Orbital positions can be calculated from TLEs through the SGP/
+       <a class="mw-redirect" href="/wiki/SGP4" title="SGP4">
+        SGP4
+       </a>
+       /
+       <a class="mw-redirect" href="/wiki/SDP4" title="SDP4">
+        SDP4
+       </a>
+       /SGP8/SDP8 algorithms.
+       <sup class="reference" id="cite_ref-5">
+        <a href="#cite_note-5">
+         [5]
+        </a>
+       </sup>
+      </p>
+      <p>
+       Example of a two-line element:
+       <sup class="reference" id="cite_ref-6">
+        <a href="#cite_note-6">
+         [6]
+        </a>
+       </sup>
+      </p>
+      <pre>
+ 1 27651U 03004A   07083.49636287  .00000119  00000-0  30706-4 0  2692
+ 2 27651 039.9951 132.2059 0025931 073.4582 286.9047 14.81909376225249
+</pre>
+      <h2>
+       <span class="mw-headline" id="Delaunay_variables">
+        Delaunay variables
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Orbital_elements&amp;action=edit&amp;section=8" title="Edit section: Delaunay variables">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       The Delaunay orbital elements, commonly referred to as Delaunay variables, are
+       <a href="/wiki/Action-angle_coordinates" title="Action-angle coordinates">
+        action-angle coordinates
+       </a>
+       consisting of the
+       <a href="/wiki/Argument_of_periapsis" title="Argument of periapsis">
+        argument of periapsis
+       </a>
+       , the
+       <a href="/wiki/Mean_anomaly" title="Mean anomaly">
+        mean anomaly
+       </a>
+       and the
+       <a href="/wiki/Longitude_of_the_ascending_node" title="Longitude of the ascending node">
+        longitude of the ascending node
+       </a>
+       , along with their
+       <a class="mw-redirect" href="/wiki/Conjugate_momentum" title="Conjugate momentum">
+        conjugate momenta
+       </a>
+       .
+       <sup class="reference" id="cite_ref-Shevchenko_2017_p._7-0">
+        <a href="#cite_note-Shevchenko_2017_p.-7">
+         [7]
+        </a>
+       </sup>
+       They are used to simplify perturbative calculations in celestial mechanics, for example while investigating the
+       <a class="mw-redirect" href="/wiki/Kozai%E2%80%93Lidov_oscillations" title="Kozai–Lidov oscillations">
+        Kozai–Lidov oscillations
+       </a>
+       in hierarchical triple systems.
+       <sup class="reference" id="cite_ref-Shevchenko_2017_p._7-1">
+        <a href="#cite_note-Shevchenko_2017_p.-7">
+         [7]
+        </a>
+       </sup>
+       They were introduced by
+       <a href="/wiki/Charles-Eug%C3%A8ne_Delaunay" title="Charles-Eugène Delaunay">
+        Charles-Eugène Delaunay
+       </a>
+       during his study of the motion of the
+       <a href="/wiki/Moon" title="Moon">
+        Moon
+       </a>
+       .
+       <sup class="reference" id="cite_ref-Aubin_2014_pp._548–549_8-0">
+        <a href="#cite_note-Aubin_2014_pp._548–549-8">
+         [8]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Orbital_elements&amp;action=edit&amp;section=9" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a href="/wiki/Beta_angle" title="Beta angle">
+         Beta angle
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Ephemeris" title="Ephemeris">
+         Ephemeris
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Geopotential_model" title="Geopotential model">
+         Geopotential model
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Orbital_state_vectors" title="Orbital state vectors">
+         Orbital state vectors
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Proper_orbital_elements" title="Proper orbital elements">
+         Proper orbital elements
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Osculating_orbit" title="Osculating orbit">
+         Osculating orbit
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Orbital_elements&amp;action=edit&amp;section=10" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist" style="list-style-type: decimal;">
+       <div class="mw-references-wrap">
+        <ol class="references">
+         <li id="cite_note-1">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-1">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           For example, with
+           <a class="external text" href="http://www.amsat.org/amsat-new/information/faqs/sv_keps.php" rel="nofollow">
+            VEC2TLE
+           </a>
+          </span>
+         </li>
+         <li id="cite_note-Green-2">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-Green_2-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-Green_2-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            Green, Robin M. (1985).
+            <i>
+             Spherical Astronomy
+            </i>
+            . Cambridge University Press.
+            <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+             ISBN
+            </a>
+            <a href="/wiki/Special:BookSources/978-0-521-23988-2" title="Special:BookSources/978-0-521-23988-2">
+             978-0-521-23988-2
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Spherical+Astronomy&amp;rft.pub=Cambridge+University+Press&amp;rft.date=1985&amp;rft.isbn=978-0-521-23988-2&amp;rft.aulast=Green&amp;rft.aufirst=Robin+M.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOrbital+elements">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-Danby-3">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-Danby_3-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            Danby, J. M. A. (1962).
+            <i>
+             Fundamentals of Celestial Mechanics
+            </i>
+            . Willmann-Bell.
+            <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+             ISBN
+            </a>
+            <a href="/wiki/Special:BookSources/978-0-943396-20-0" title="Special:BookSources/978-0-943396-20-0">
+             978-0-943396-20-0
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Fundamentals+of+Celestial+Mechanics&amp;rft.pub=Willmann-Bell&amp;rft.date=1962&amp;rft.isbn=978-0-943396-20-0&amp;rft.aulast=Danby&amp;rft.aufirst=J.+M.+A.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOrbital+elements">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-Kelso_FAQ-4">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-Kelso_FAQ_4-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            Kelso, T. S.
+            <a class="external text" href="https://web.archive.org/web/20160326061740/http://celestrak.com/columns/v04n03/" rel="nofollow">
+             "CelesTrak: "FAQs: Two-Line Element Set Format
+             <span style="padding-right:0.2em;">
+              "
+             </span>
+             "
+            </a>
+            .
+            <i>
+             celestrak.com
+            </i>
+            . Archived from
+            <a class="external text" href="http://celestrak.com/columns/v04n03/" rel="nofollow">
+             the original
+            </a>
+            on 26 March 2016
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              15 June
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=celestrak.com&amp;rft.atitle=CelesTrak%3A+%22FAQs%3A+Two-Line+Element+Set+Format%22&amp;rft.aulast=Kelso&amp;rft.aufirst=T.+S.&amp;rft_id=http%3A%2F%2Fcelestrak.com%2Fcolumns%2Fv04n03%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOrbital+elements">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-5">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-5">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Explanatory Supplement to the Astronomical Almanac. 1992. K. P. Seidelmann, Ed., University Science Books, Mill Valley, California.
+          </span>
+         </li>
+         <li id="cite_note-6">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-6">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <a class="external text" href="http://www.heavens-above.com/orbitdisplay.asp?lat=0&amp;lng=0&amp;alt=0&amp;loc=Unspecified&amp;TZ=CET&amp;satid=27651" rel="nofollow">
+            SORCE
+           </a>
+           <a class="external text" href="https://web.archive.org/web/20070927203806/http://www.heavens-above.com/orbitdisplay.asp?lat=0&amp;lng=0&amp;alt=0&amp;loc=Unspecified&amp;TZ=CET&amp;satid=27651" rel="nofollow">
+            Archived
+           </a>
+           2007-09-27 at the
+           <a href="/wiki/Wayback_Machine" title="Wayback Machine">
+            Wayback Machine
+           </a>
+           . – orbit data at Heavens-Above.com
+          </span>
+         </li>
+         <li id="cite_note-Shevchenko_2017_p.-7">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-Shevchenko_2017_p._7-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-Shevchenko_2017_p._7-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            Shevchenko, Ivan (2017).
+            <i>
+             The Lidov–Kozai effect: applications in exoplanet research and dynamical astronomy
+            </i>
+            . Cham: Springer.
+            <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+             ISBN
+            </a>
+            <a href="/wiki/Special:BookSources/978-3-319-43522-0" title="Special:BookSources/978-3-319-43522-0">
+             978-3-319-43522-0
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Lidov%E2%80%93Kozai+effect%3A+applications+in+exoplanet+research+and+dynamical+astronomy&amp;rft.place=Cham&amp;rft.pub=Springer&amp;rft.date=2017&amp;rft.isbn=978-3-319-43522-0&amp;rft.aulast=Shevchenko&amp;rft.aufirst=Ivan&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOrbital+elements">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-Aubin_2014_pp._548–549-8">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-Aubin_2014_pp._548–549_8-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            Aubin, David (2014). "Delaunay, Charles-Eugène".
+            <i>
+             Biographical Encyclopedia of Astronomers
+            </i>
+            . New York, NY: Springer New York. pp. 548–549.
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1007%2F978-1-4419-9917-7_347" rel="nofollow">
+             10.1007/978-1-4419-9917-7_347
+            </a>
+            .
+            <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+             ISBN
+            </a>
+            <a href="/wiki/Special:BookSources/978-1-4419-9916-0" title="Special:BookSources/978-1-4419-9916-0">
+             978-1-4419-9916-0
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Delaunay%2C+Charles-Eug%C3%A8ne&amp;rft.btitle=Biographical+Encyclopedia+of+Astronomers&amp;rft.place=New+York%2C+NY&amp;rft.pages=548-549&amp;rft.pub=Springer+New+York&amp;rft.date=2014&amp;rft_id=info%3Adoi%2F10.1007%2F978-1-4419-9917-7_347&amp;rft.isbn=978-1-4419-9916-0&amp;rft.aulast=Aubin&amp;rft.aufirst=David&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOrbital+elements">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <ul>
+       <li>
+        <cite class="citation news">
+         Gurfil, Pini (2005). "Euler parameters as nonsingular orbital elements in Near-Equatorial Orbits".
+         <i>
+          J. Guid. Contrl. Dynamics
+         </i>
+         .
+         <b>
+          28
+         </b>
+         (5).
+         <a href="/wiki/Bibcode" title="Bibcode">
+          Bibcode
+         </a>
+         :
+         <a class="external text" href="http://adsabs.harvard.edu/abs/2005JGCD...28.1079G" rel="nofollow">
+          2005JGCD...28.1079G
+         </a>
+         .
+         <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+          doi
+         </a>
+         :
+         <a class="external text" href="//doi.org/10.2514%2F1.14760" rel="nofollow">
+          10.2514/1.14760
+         </a>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J.+Guid.+Contrl.+Dynamics&amp;rft.atitle=Euler+parameters+as+nonsingular+orbital+elements+in+Near-Equatorial+Orbits&amp;rft.volume=28&amp;rft.issue=5&amp;rft.date=2005&amp;rft_id=info%3Adoi%2F10.2514%2F1.14760&amp;rft_id=info%3Abibcode%2F2005JGCD...28.1079G&amp;rft.aulast=Gurfil&amp;rft.aufirst=Pini&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOrbital+elements">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Orbital_elements&amp;action=edit&amp;section=11" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+       <tr>
+        <td class="mbox-image">
+         <img alt="" class="noviewer" data-file-height="400" data-file-width="400" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/40px-Wikibooks-logo-en-noslogan.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/60px-Wikibooks-logo-en-noslogan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/80px-Wikibooks-logo-en-noslogan.svg.png 2x" width="40"/>
+        </td>
+        <td class="mbox-text plainlist">
+         Wikibooks has a book on the topic of:
+         <i>
+          <b>
+           <a class="extiw" href="https://en.wikibooks.org/wiki/Astrodynamics/Classical_Orbit_Elements" title="wikibooks:Astrodynamics/Classical Orbit Elements">
+            Astrodynamics/Classical Orbit Elements
+           </a>
+          </b>
+         </i>
+        </td>
+       </tr>
+      </table>
+      <ul>
+       <li>
+        <a class="external text" href="https://web.archive.org/web/20021014232553/http://www.amsat.org/amsat/keps/kepmodel.html" rel="nofollow">
+         Keplerian Elements tutorial
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://marine.rutgers.edu/mrs/education/class/paul/orbits.html" rel="nofollow">
+         Orbits Tutorial
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://ww2.amsat.org/xtra/spacetrk.pdf" rel="nofollow">
+         Spacetrack Report No. 3
+        </a>
+        , a serious treatment of orbital elements from
+        <a href="/wiki/North_American_Aerospace_Defense_Command" title="North American Aerospace Defense Command">
+         NORAD
+        </a>
+        (in pdf format)
+       </li>
+       <li>
+        <a class="external text" href="https://web.archive.org/web/20160326061740/http://celestrak.com/columns/v04n03/" rel="nofollow">
+         Celestrak Two-Line Elements FAQ
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://ssd.jpl.nasa.gov/?horizons" rel="nofollow">
+         The JPL HORIZONS online ephemeris.
+        </a>
+        Also furnishes orbital elements for a large number of solar system objects.
+       </li>
+       <li>
+        <a class="external text" href="http://ssd.jpl.nasa.gov/?sat_elem" rel="nofollow">
+         NASA Planetary Satellite Mean Orbital Parameters.
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="ftp://ssd.jpl.nasa.gov/pub/eph/planets/README.txt" rel="nofollow">
+         Introduction to exporting JPL planetary and lunar ephemerides
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://www.mindspring.com/~n2wwd/html/body_state_vectors.html" rel="nofollow">
+         State vectors: VEC2TLE
+        </a>
+        Access to VEC2TLE software
+       </li>
+       <li>
+        <a class="external text" href="http://www.iausofa.org/2016_0503_C/sofa/plan94.c" rel="nofollow">
+         Orbital Elements of the Major Planets
+        </a>
+        IAU SOFA C Library function iauPlan94
+       </li>
+      </ul>
+      <div aria-labelledby="Gravitational_orbits" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="2" scope="col">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:Orbits" title="Template:Orbits">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a href="/wiki/Template_talk:Orbits" title="Template talk:Orbits">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Orbits&amp;action=edit">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="Gravitational_orbits" style="font-size:114%;margin:0 4em">
+           Gravitational
+           <a href="/wiki/Orbit" title="Orbit">
+            orbits
+           </a>
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <a href="/wiki/Orbit" title="Orbit">
+           Types
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+          </div>
+          <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+           <tr>
+            <th class="navbox-group" scope="row" style="width:9em">
+             General
+            </th>
+            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Box_orbit" title="Box orbit">
+                 Box
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Parabolic_trajectory" title="Parabolic trajectory">
+                 Capture
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Circular_orbit" title="Circular orbit">
+                 Circular
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Elliptic_orbit" title="Elliptic orbit">
+                 Elliptical
+                </a>
+                /
+                <a href="/wiki/Highly_elliptical_orbit" title="Highly elliptical orbit">
+                 Highly elliptical
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Parabolic_trajectory" title="Parabolic trajectory">
+                 Escape
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Graveyard_orbit" title="Graveyard orbit">
+                 Graveyard
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Horseshoe_orbit" title="Horseshoe orbit">
+                 Horseshoe
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Hyperbolic_trajectory" title="Hyperbolic trajectory">
+                 Hyperbolic trajectory
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Inclined_orbit" title="Inclined orbit">
+                 Inclined
+                </a>
+                /
+                <a href="/wiki/Non-inclined_orbit" title="Non-inclined orbit">
+                 Non-inclined
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Osculating_orbit" title="Osculating orbit">
+                 Osculating
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Parabolic_trajectory" title="Parabolic trajectory">
+                 Parabolic trajectory
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Parking_orbit" title="Parking orbit">
+                 Parking
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Synchronous_orbit" title="Synchronous orbit">
+                 Synchronous
+                </a>
+                <ul>
+                 <li>
+                  <a href="/wiki/Semi-synchronous_orbit" title="Semi-synchronous orbit">
+                   semi
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Subsynchronous_orbit" title="Subsynchronous orbit">
+                   sub
+                  </a>
+                 </li>
+                </ul>
+               </li>
+               <li>
+                <a href="/wiki/Hohmann_transfer_orbit" title="Hohmann transfer orbit">
+                 Transfer orbit
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="width:9em">
+             <a href="/wiki/Geocentric_orbit" title="Geocentric orbit">
+              Geocentric
+             </a>
+            </th>
+            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Geosynchronous_orbit" title="Geosynchronous orbit">
+                 Geosynchronous
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Geostationary_orbit" title="Geostationary orbit">
+                 Geostationary
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Sun-synchronous_orbit" title="Sun-synchronous orbit">
+                 Sun-synchronous
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Low_Earth_orbit" title="Low Earth orbit">
+                 Low Earth
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Medium_Earth_orbit" title="Medium Earth orbit">
+                 Medium Earth
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/High_Earth_orbit" title="High Earth orbit">
+                 High Earth
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Molniya_orbit" title="Molniya orbit">
+                 Molniya
+                </a>
+               </li>
+               <li>
+                <a class="mw-redirect" href="/wiki/Near_equatorial_orbit" title="Near equatorial orbit">
+                 Near-equatorial
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Orbit_of_the_Moon" title="Orbit of the Moon">
+                 Orbit of the Moon
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Polar_orbit" title="Polar orbit">
+                 Polar
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Tundra_orbit" title="Tundra orbit">
+                 Tundra
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="width:9em">
+             About other points
+            </th>
+            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Areosynchronous_orbit" title="Areosynchronous orbit">
+                 Areosynchronous
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Areostationary_orbit" title="Areostationary orbit">
+                 Areostationary
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Halo_orbit" title="Halo orbit">
+                 Halo
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Lissajous_orbit" title="Lissajous orbit">
+                 Lissajous
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Lunar_orbit" title="Lunar orbit">
+                 Lunar
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Heliocentric_orbit" title="Heliocentric orbit">
+                 Heliocentric
+                </a>
+               </li>
+               <li>
+                <a class="mw-redirect" href="/wiki/Heliosynchronous_orbit" title="Heliosynchronous orbit">
+                 Heliosynchronous
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <a class="mw-selflink selflink">
+           Parameters
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+          </div>
+          <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+           <tr>
+            <th class="navbox-group" scope="row" style="width:9em">
+             <div class="hlist hlist-separated">
+              <ul>
+               <li>
+                Shape
+               </li>
+               <li>
+                Size
+               </li>
+              </ul>
+             </div>
+            </th>
+            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <span class="texhtml mvar" style="font-style:italic;">
+                 e
+                </span>
+                <a href="/wiki/Orbital_eccentricity" title="Orbital eccentricity">
+                 Eccentricity
+                </a>
+               </li>
+               <li>
+                <span class="texhtml mvar" style="font-style:italic;">
+                 a
+                </span>
+                <a class="mw-redirect" href="/wiki/Semi-major_axis" title="Semi-major axis">
+                 Semi-major axis
+                </a>
+               </li>
+               <li>
+                <span class="texhtml mvar" style="font-style:italic;">
+                 b
+                </span>
+                <a class="mw-redirect" href="/wiki/Semi-minor_axis" title="Semi-minor axis">
+                 Semi-minor axis
+                </a>
+               </li>
+               <li>
+                <span class="texhtml mvar" style="font-style:italic;">
+                 Q
+                </span>
+                ,
+                <span class="texhtml mvar" style="font-style:italic;">
+                 q
+                </span>
+                <a href="/wiki/Apsis" title="Apsis">
+                 Apsides
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="width:9em">
+             Orientation
+            </th>
+            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <span class="texhtml mvar" style="font-style:italic;">
+                 i
+                </span>
+                <a class="mw-redirect" href="/wiki/Inclination" title="Inclination">
+                 Inclination
+                </a>
+               </li>
+               <li>
+                <span class="texhtml mvar" style="font-style:italic;">
+                 Ω
+                </span>
+                <a href="/wiki/Longitude_of_the_ascending_node" title="Longitude of the ascending node">
+                 Longitude of the ascending node
+                </a>
+               </li>
+               <li>
+                <span class="texhtml mvar" style="font-style:italic;">
+                 ω
+                </span>
+                <a href="/wiki/Argument_of_periapsis" title="Argument of periapsis">
+                 Argument of periapsis
+                </a>
+               </li>
+               <li>
+                <span class="texhtml mvar" style="font-style:italic;">
+                 ϖ
+                </span>
+                <a href="/wiki/Longitude_of_the_periapsis" title="Longitude of the periapsis">
+                 Longitude of the periapsis
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="width:9em">
+             Position
+            </th>
+            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <span class="texhtml mvar" style="font-style:italic;">
+                 M
+                </span>
+                <a href="/wiki/Mean_anomaly" title="Mean anomaly">
+                 Mean anomaly
+                </a>
+               </li>
+               <li>
+                <span class="texhtml mvar" style="font-style:italic;">
+                 ν
+                </span>
+                ,
+                <span class="texhtml mvar" style="font-style:italic;">
+                 θ
+                </span>
+                ,
+                <span class="texhtml mvar" style="font-style:italic;">
+                 f
+                </span>
+                <a href="/wiki/True_anomaly" title="True anomaly">
+                 True anomaly
+                </a>
+               </li>
+               <li>
+                <span class="texhtml mvar" style="font-style:italic;">
+                 E
+                </span>
+                <a href="/wiki/Eccentric_anomaly" title="Eccentric anomaly">
+                 Eccentric anomaly
+                </a>
+               </li>
+               <li>
+                <span class="texhtml mvar" style="font-style:italic;">
+                 L
+                </span>
+                <a href="/wiki/Mean_longitude" title="Mean longitude">
+                 Mean longitude
+                </a>
+               </li>
+               <li>
+                <span class="texhtml mvar" style="font-style:italic;">
+                 l
+                </span>
+                <a href="/wiki/True_longitude" title="True longitude">
+                 True longitude
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="width:9em">
+             Variation
+            </th>
+            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <span class="texhtml mvar" style="font-style:italic;">
+                 T
+                </span>
+                <a href="/wiki/Orbital_period" title="Orbital period">
+                 Orbital period
+                </a>
+               </li>
+               <li>
+                <span class="texhtml mvar" style="font-style:italic;">
+                 n
+                </span>
+                <a href="/wiki/Mean_motion" title="Mean motion">
+                 Mean motion
+                </a>
+               </li>
+               <li>
+                <span class="texhtml mvar" style="font-style:italic;">
+                 v
+                </span>
+                <a href="/wiki/Orbital_speed" title="Orbital speed">
+                 Orbital speed
+                </a>
+               </li>
+               <li>
+                <span class="texhtml">
+                 <i>
+                  t
+                 </i>
+                 <sub>
+                  0
+                 </sub>
+                </span>
+                <a href="/wiki/Epoch_(astronomy)" title="Epoch (astronomy)">
+                 Epoch
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <a href="/wiki/Orbital_maneuver" title="Orbital maneuver">
+           Maneuvers
+          </a>
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Collision_avoidance_(spacecraft)" title="Collision avoidance (spacecraft)">
+              Collision avoidance (spacecraft)
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Delta-v" title="Delta-v">
+              Delta-v
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Delta-v_budget" title="Delta-v budget">
+              Delta-v budget
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Bi-elliptic_transfer" title="Bi-elliptic transfer">
+              Bi-elliptic transfer
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Geostationary_transfer_orbit" title="Geostationary transfer orbit">
+              Geostationary transfer
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Gravity_assist" title="Gravity assist">
+              Gravity assist
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Gravity_turn" title="Gravity turn">
+              Gravity turn
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Hohmann_transfer_orbit" title="Hohmann transfer orbit">
+              Hohmann transfer
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Low_energy_transfer" title="Low energy transfer">
+              Low energy transfer
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Oberth_effect" title="Oberth effect">
+              Oberth effect
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Orbital_inclination_change" title="Orbital inclination change">
+              Inclination change
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Orbit_phasing" title="Orbit phasing">
+              Phasing
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tsiolkovsky_rocket_equation" title="Tsiolkovsky rocket equation">
+              Rocket equation
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Space_rendezvous" title="Space rendezvous">
+              Rendezvous
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Transposition,_docking,_and_extraction" title="Transposition, docking, and extraction">
+              Transposition, docking, and extraction
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <a href="/wiki/Orbital_mechanics" title="Orbital mechanics">
+           Orbital mechanics
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Celestial_coordinate_system" title="Celestial coordinate system">
+              Celestial coordinate system
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Characteristic_energy" title="Characteristic energy">
+              Characteristic energy
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Escape_velocity" title="Escape velocity">
+              Escape velocity
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Ephemeris" title="Ephemeris">
+              Ephemeris
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Equatorial_coordinate_system" title="Equatorial coordinate system">
+              Equatorial coordinate system
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Ground_track" title="Ground track">
+              Ground track
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Hill_sphere" title="Hill sphere">
+              Hill sphere
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Interplanetary_Transport_Network" title="Interplanetary Transport Network">
+              Interplanetary Transport Network
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Kepler%27s_laws_of_planetary_motion" title="Kepler's laws of planetary motion">
+              Kepler's laws of planetary motion
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Lagrangian_point" title="Lagrangian point">
+              Lagrangian point
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/N-body_problem" title="N-body problem">
+              <i>
+               n
+              </i>
+              -body problem
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Orbit_equation" title="Orbit equation">
+              Orbit equation
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Orbital_state_vectors" title="Orbital state vectors">
+              Orbital state vectors
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Perturbation_(astronomy)" title="Perturbation (astronomy)">
+              Perturbation
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Retrograde_motion" title="Retrograde motion">
+              Retrograde motion
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Specific_orbital_energy" title="Specific orbital energy">
+              Specific orbital energy
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Specific_relative_angular_momentum" title="Specific relative angular momentum">
+              Specific relative angular momentum
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Two-line_element_set" title="Two-line element set">
+              Two-line elements
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <td class="navbox-abovebelow" colspan="2">
+          <div>
+           <ul>
+            <li>
+             <b>
+              <a href="/wiki/List_of_orbits" title="List of orbits">
+               List of orbits
+              </a>
+             </b>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1262
+Cached time: 20180314004113
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.212 seconds
+Real time usage: 0.303 seconds
+Preprocessor visited node count: 1559/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 55091/2097152 bytes
+Template argument size: 1462/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 7671/5000000 bytes
+Lua time usage: 0.062/10.000 seconds
+Lua memory usage: 2.81 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  172.099      1 -total
+ 43.22%   74.373      1 Template:Reflist
+ 28.84%   49.631      3 Template:Navbox
+ 26.87%   46.247      4 Template:Cite_book
+ 20.16%   34.695      1 Template:Orbits
+ 14.64%   25.190      2 Template:Main
+  7.81%   13.440      1 Template:Wikibooks
+  6.56%   11.289      1 Template:Sister_project
+  5.23%    9.001      1 Template:Hlist
+  4.97%    8.549      1 Template:Side_box
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:98663-0!canonical!math=5 and timestamp 20180314004113 and revision id 828972266
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Orbital_elements&amp;oldid=828972266">
+      https://en.wikipedia.org/w/index.php?title=Orbital_elements&amp;oldid=828972266
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Orbits" title="Category:Orbits">
+         Orbits
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">
+         Webarchive template wayback links
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Orbital+elements" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Orbital+elements" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Orbital_elements" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Orbital_elements" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Orbital_elements">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Orbital_elements&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Orbital_elements&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Orbital_elements" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Orbital_elements" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Orbital_elements&amp;oldid=828972266" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Orbital_elements&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q272626" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Orbital_elements&amp;id=828972266" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Orbital+elements">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Orbital+elements&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Orbital_elements&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-als">
+        <a class="interlanguage-link-target" href="https://als.wikipedia.org/wiki/Bahnelement" hreflang="als" lang="als" title="Bahnelement – Alemannisch">
+         Alemannisch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%B9%D9%86%D8%A7%D8%B5%D8%B1_%D9%85%D8%AF%D8%A7%D8%B1%D9%8A%D8%A9" hreflang="ar" lang="ar" title="عناصر مدارية – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ast">
+        <a class="interlanguage-link-target" href="https://ast.wikipedia.org/wiki/Elementos_orbitales" hreflang="ast" lang="ast" title="Elementos orbitales – Asturian">
+         Asturianu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bn">
+        <a class="interlanguage-link-target" href="https://bn.wikipedia.org/wiki/%E0%A6%95%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%AA%E0%A6%A5%E0%A7%87%E0%A6%B0_%E0%A6%B0%E0%A6%BE%E0%A6%B6%E0%A6%BF" hreflang="bn" lang="bn" title="কক্ষপথের রাশি – Bangla">
+         বাংলা
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Elements_orbitals" hreflang="ca" lang="ca" title="Elements orbitals – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Elementy_dr%C3%A1hy" hreflang="cs" lang="cs" title="Elementy dráhy – Czech">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Baneparameter" hreflang="da" lang="da" title="Baneparameter – Danish">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Bahnelement" hreflang="de" lang="de" title="Bahnelement – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-el">
+        <a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%A4%CF%81%CE%BF%CF%87%CE%B9%CE%B1%CE%BA%CE%AC_%CF%83%CF%84%CE%BF%CE%B9%CF%87%CE%B5%CE%AF%CE%B1" hreflang="el" lang="el" title="Τροχιακά στοιχεία – Greek">
+         Ελληνικά
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Elementos_orbitales" hreflang="es" lang="es" title="Elementos orbitales – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%B9%D9%86%D8%A7%D8%B5%D8%B1_%D9%85%D8%AF%D8%A7%D8%B1%DB%8C" hreflang="fa" lang="fa" title="عناصر مداری – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Orbite#Paramètres_orbitaux" hreflang="fr" lang="fr" title="Orbite – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gl">
+        <a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Elementos_orbitais" hreflang="gl" lang="gl" title="Elementos orbitais – Galician">
+         Galego
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EA%B6%A4%EB%8F%84_%EC%9A%94%EC%86%8C" hreflang="ko" lang="ko" title="궤도 요소 – Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hy">
+        <a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D5%88%D6%82%D5%B2%D5%A5%D5%AE%D6%80%D5%AB_%D5%A7%D5%AC%D5%A5%D5%B4%D5%A5%D5%B6%D5%BF%D5%B6%D5%A5%D6%80" hreflang="hy" lang="hy" title="Ուղեծրի էլեմենտներ – Armenian">
+         Հայերեն
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hi">
+        <a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%95%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%80%E0%A4%AF_%E0%A4%B0%E0%A4%BE%E0%A4%B6%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%81" hreflang="hi" lang="hi" title="कक्षीय राशियाँ – Hindi">
+         हिन्दी
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Parametri_orbitali" hreflang="it" lang="it" title="Parametri orbitali – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lb">
+        <a class="interlanguage-link-target" href="https://lb.wikipedia.org/wiki/Bunnelement" hreflang="lb" lang="lb" title="Bunnelement – Luxembourgish">
+         Lëtzebuergesch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lt">
+        <a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Orbitos_elementai" hreflang="lt" lang="lt" title="Orbitos elementai – Lithuanian">
+         Lietuvių
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mk">
+        <a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%9E%D1%80%D0%B1%D0%B8%D1%82%D0%B0%D0%BB%D0%BD%D0%B8_%D0%B5%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B8" hreflang="mk" lang="mk" title="Орбитални елементи – Macedonian">
+         Македонски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Baanelement" hreflang="nl" lang="nl" title="Baanelement – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E8%BB%8C%E9%81%93%E8%A6%81%E7%B4%A0" hreflang="ja" lang="ja" title="軌道要素 – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Baneelement" hreflang="no" lang="no" title="Baneelement – Norwegian">
+         Norsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nn">
+        <a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Baneelement" hreflang="nn" lang="nn" title="Baneelement – Norwegian Nynorsk">
+         Norsk nynorsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pms">
+        <a class="interlanguage-link-target" href="https://pms.wikipedia.org/wiki/Element_orbitaj" hreflang="pms" lang="pms" title="Element orbitaj – Piedmontese">
+         Piemontèis
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Elementy_orbitalne" hreflang="pl" lang="pl" title="Elementy orbitalne – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Elementos_orbitais" hreflang="pt" lang="pt" title="Elementos orbitais – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%AD%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D1%8B_%D0%BE%D1%80%D0%B1%D0%B8%D1%82%D1%8B" hreflang="ru" lang="ru" title="Элементы орбиты – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sk">
+        <a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Elementy_dr%C3%A1hy" hreflang="sk" lang="sk" title="Elementy dráhy – Slovak">
+         Slovenčina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sl">
+        <a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Elementi_tira" hreflang="sl" lang="sl" title="Elementi tira – Slovenian">
+         Slovenščina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sr">
+        <a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%9E%D1%80%D0%B1%D0%B8%D1%82%D0%B0%D0%BB%D0%BD%D0%B8_%D0%B5%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B8" hreflang="sr" lang="sr" title="Орбитални елементи – Serbian">
+         Српски / srpski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Rata-arvo" hreflang="fi" lang="fi" title="Rata-arvo – Finnish">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Banelement" hreflang="sv" lang="sv" title="Banelement – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-th">
+        <a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%A7%E0%B8%87%E0%B9%82%E0%B8%84%E0%B8%88%E0%B8%A3" hreflang="th" lang="th" title="องค์ประกอบของวงโคจร – Thai">
+         ไทย
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tr">
+        <a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Y%C3%B6r%C3%BCnge_%C3%B6geleri" hreflang="tr" lang="tr" title="Yörünge ögeleri – Turkish">
+         Türkçe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%95%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B8_%D0%BE%D1%80%D0%B1%D1%96%D1%82%D0%B8" hreflang="uk" lang="uk" title="Елементи орбіти – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vi">
+        <a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Tham_s%E1%BB%91_qu%E1%BB%B9_%C4%91%E1%BA%A1o" hreflang="vi" lang="vi" title="Tham số quỹ đạo – Vietnamese">
+         Tiếng Việt
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E8%BB%8C%E9%81%93%E6%A0%B9%E6%95%B8" hreflang="zh" lang="zh" title="軌道根數 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q272626#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 5 March 2018, at 21:42.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Orbital_elements&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.212","walltime":"0.303","ppvisitednodes":{"value":1559,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":55091,"limit":2097152},"templateargumentsize":{"value":1462,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":7671,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  172.099      1 -total"," 43.22%   74.373      1 Template:Reflist"," 28.84%   49.631      3 Template:Navbox"," 26.87%   46.247      4 Template:Cite_book"," 20.16%   34.695      1 Template:Orbits"," 14.64%   25.190      2 Template:Main","  7.81%   13.440      1 Template:Wikibooks","  6.56%   11.289      1 Template:Sister_project","  5.23%    9.001      1 Template:Hlist","  4.97%    8.549      1 Template:Side_box"]},"scribunto":{"limitreport-timeusage":{"value":"0.062","limit":"10.000"},"limitreport-memusage":{"value":2941724,"limit":52428800}},"cachereport":{"origin":"mw1262","timestamp":"20180314004113","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":69,"wgHostname":"mw1256"});});
+  </script>
+ </body>
+</html>

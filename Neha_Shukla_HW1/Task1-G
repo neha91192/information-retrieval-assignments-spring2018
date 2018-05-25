@@ -1,0 +1,26 @@
+
+BFS and DFS are two popular algorithms for any Graph Traversal. To crawl a website  
+which is eventually a form of a graph of all the linked URLs, these two algorithms are therefore highly applicable. As per my observation while developing this crawler, both the algorithms can be used depending upon the requirement of the search engine. Let's analyze the two algorithms on the following points.
+
+1. URL Overlap: 
+
+For the crawl size of 1000, both the algorithms had very limited overlapping. DFS started visiting the very first encountered link - https://en.wikipedia.org/wiki/Eclipse_of_the_Sun_(film), and then all the links that were followed revolved around the
+Film, origin of the film, characters etc., until it backtracked to the parent pages. 
+For BFS, the links were mainly around Solar Eclipse. Because BFS visits all the links of the current depth first, most of the URLs were discovered before as compared to DFS where it happened in the later stages 
+
+2. Perceived Quality:
+
+As per the relevance of the link is concerned, BFS mostly revolved around the topic - Solar Eclipse where as DFS digressed for more than half of the crawl size links. So in a scenario where user wants to know more about the same topic, DFS may not be very helpful. BFS had a great reach to all the topics related to solar eclipse.
+
+3. Efficiency Aspect:
+
+DFS can be difficult to handle when the maximum depth is not set. The crawler can go deep down without any stopping condition leading to memory issues. Therefore, designing DFS requires a careful decision of deciding the depth range in order to achieve efficient in crawling of pages. So whenever there is a requirement where a topic has to be searched along with the few other topics on it, DFS can be very efficient. BFS on the other hand can be valuable and doesn't essentially require depth size if crawl size is provided.      
+
+Coverage of Crawl Topic:
+
+BFS crawl can be very specific to the topic as it will search all the links in the current 
+Page first. Owing to this reason, the relevance of BFS crawl becomes very high.  
+A very important thing that can be seen here is that, DFS crawl achieves a large extent of varied topics and so for a finite number of depth and crawls, storing links parsed through DFS can also be helpful where keyword is not provided.  
+
+
+ 

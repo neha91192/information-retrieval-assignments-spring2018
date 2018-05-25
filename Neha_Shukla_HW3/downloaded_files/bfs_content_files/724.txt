@@ -1,0 +1,3008 @@
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Solar physics - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Solar_physics","wgTitle":"Solar physics","wgCurRevisionId":822210040,"wgRevisionId":822210040,"wgArticleId":2792708,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Astrophysics","Sun","Space science","Stellar physics"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Solar_physics","wgRelevantArticleId":2792708,"wgRequestId":"WrB5VApAME8AACfRyasAAABE","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q2043698","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.25" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Solar_physics" rel="alternate"/>
+  <link href="/w/index.php?title=Solar_physics&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Solar_physics&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Solar_physics" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Solar_physics rootpage-Solar_physics skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Solar physics
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <div class="hatnote navigation-not-searchable" role="note">
+       This article is about stellar physics of the Sun. For the physics of stars, see
+       <a class="mw-redirect" href="/wiki/Stellar_physics" title="Stellar physics">
+        stellar physics
+       </a>
+       . For the physics journal, see
+       <a href="/wiki/Solar_Physics_(journal)" title="Solar Physics (journal)">
+        Solar Physics (journal)
+       </a>
+       .
+      </div>
+      <p>
+       <b>
+        Solar physics
+       </b>
+       is the branch of astrophysics that specializes in the study of the
+       <a href="/wiki/Sun" title="Sun">
+        Sun
+       </a>
+       . It deals with detailed measurements that are possible only for our closest star. It intersects with many disciplines of pure
+       <a href="/wiki/Physics" title="Physics">
+        physics
+       </a>
+       ,
+       <a href="/wiki/Astrophysics" title="Astrophysics">
+        astrophysics
+       </a>
+       , and
+       <a href="/wiki/Computer_science" title="Computer science">
+        computer science
+       </a>
+       , including
+       <a href="/wiki/Fluid_dynamics" title="Fluid dynamics">
+        fluid dynamics
+       </a>
+       ,
+       <a class="mw-redirect" href="/wiki/Plasma_physics" title="Plasma physics">
+        plasma physics
+       </a>
+       including
+       <a href="/wiki/Magnetohydrodynamics" title="Magnetohydrodynamics">
+        magnetohydrodynamics
+       </a>
+       ,
+       <a href="/wiki/Seismology" title="Seismology">
+        seismology
+       </a>
+       ,
+       <a href="/wiki/Particle_physics" title="Particle physics">
+        particle physics
+       </a>
+       ,
+       <a href="/wiki/Atomic_physics" title="Atomic physics">
+        atomic physics
+       </a>
+       ,
+       <a href="/wiki/Nuclear_physics" title="Nuclear physics">
+        nuclear physics
+       </a>
+       ,
+       <a href="/wiki/Stellar_evolution" title="Stellar evolution">
+        stellar evolution
+       </a>
+       ,
+       <a href="/wiki/Space_physics" title="Space physics">
+        space physics
+       </a>
+       ,
+       <a href="/wiki/Spectroscopy" title="Spectroscopy">
+        spectroscopy
+       </a>
+       ,
+       <a href="/wiki/Radiative_transfer" title="Radiative transfer">
+        radiative transfer
+       </a>
+       ,
+       <a href="/wiki/Optics" title="Optics">
+        applied optics
+       </a>
+       ,
+       <a href="/wiki/Signal_processing" title="Signal processing">
+        signal processing
+       </a>
+       ,
+       <a href="/wiki/Computer_vision" title="Computer vision">
+        computer vision
+       </a>
+       ,
+       <a href="/wiki/Computational_physics" title="Computational physics">
+        computational physics
+       </a>
+       ,
+       <a class="mw-redirect" href="/wiki/Stellar_physics" title="Stellar physics">
+        stellar physics
+       </a>
+       and
+       <a class="mw-redirect" href="/wiki/Solar_astronomy" title="Solar astronomy">
+        solar astronomy
+       </a>
+       .
+      </p>
+      <p>
+       Because the Sun is uniquely situated for close-range observing (other stars cannot be resolved with anything like the spatial or temporal resolution that the Sun can), there is a split between the related discipline of observational astrophysics (of distant stars) and observational solar physics.
+      </p>
+      <p>
+       The study of solar physics is also important as it is believed that changes in the solar atmosphere and solar activity can have a major impact on Earth's climate. The Sun also provides a "physical laboratory" for the study of plasma physics.
+       <sup class="reference" id="cite_ref-1">
+        <a href="#cite_note-1">
+         [1]
+        </a>
+       </sup>
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#History">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           History
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-2">
+           <a href="#Ancient_times">
+            <span class="tocnumber">
+             1.1
+            </span>
+            <span class="toctext">
+             Ancient times
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-3">
+           <a href="#Medieval_times">
+            <span class="tocnumber">
+             1.2
+            </span>
+            <span class="toctext">
+             Medieval times
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-4">
+           <a href="#Renaissance_period">
+            <span class="tocnumber">
+             1.3
+            </span>
+            <span class="toctext">
+             Renaissance period
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-5">
+           <a href="#Modern_times">
+            <span class="tocnumber">
+             1.4
+            </span>
+            <span class="toctext">
+             Modern times
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-6">
+         <a href="#Research">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Research
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-7">
+           <a href="#Space_based">
+            <span class="tocnumber">
+             2.1
+            </span>
+            <span class="toctext">
+             Space based
+            </span>
+           </a>
+           <ul>
+            <li class="toclevel-3 tocsection-8">
+             <a href="#SDO">
+              <span class="tocnumber">
+               2.1.1
+              </span>
+              <span class="toctext">
+               SDO
+              </span>
+             </a>
+            </li>
+            <li class="toclevel-3 tocsection-9">
+             <a href="#SOHO">
+              <span class="tocnumber">
+               2.1.2
+              </span>
+              <span class="toctext">
+               SOHO
+              </span>
+             </a>
+            </li>
+            <li class="toclevel-3 tocsection-10">
+             <a href="#HINODE">
+              <span class="tocnumber">
+               2.1.3
+              </span>
+              <span class="toctext">
+               HINODE
+              </span>
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class="toclevel-2 tocsection-11">
+           <a href="#Ground_based">
+            <span class="tocnumber">
+             2.2
+            </span>
+            <span class="toctext">
+             Ground based
+            </span>
+           </a>
+           <ul>
+            <li class="toclevel-3 tocsection-12">
+             <a href="#ATST">
+              <span class="tocnumber">
+               2.2.1
+              </span>
+              <span class="toctext">
+               ATST
+              </span>
+             </a>
+            </li>
+            <li class="toclevel-3 tocsection-13">
+             <a href="#Big_Bear">
+              <span class="tocnumber">
+               2.2.2
+              </span>
+              <span class="toctext">
+               Big Bear
+              </span>
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class="toclevel-2 tocsection-14">
+           <a href="#Other">
+            <span class="tocnumber">
+             2.3
+            </span>
+            <span class="toctext">
+             Other
+            </span>
+           </a>
+           <ul>
+            <li class="toclevel-3 tocsection-15">
+             <a href="#EUNIS">
+              <span class="tocnumber">
+               2.3.1
+              </span>
+              <span class="toctext">
+               EUNIS
+              </span>
+             </a>
+            </li>
+           </ul>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-16">
+         <a href="#See_also">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-17">
+         <a href="#Further_reading">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           Further reading
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-18">
+         <a href="#External_links">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           External links
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-19">
+         <a href="#References">
+          <span class="tocnumber">
+           6
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="History">
+        History
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Solar_physics&amp;action=edit&amp;section=1" title="Edit section: History">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <h3>
+       <span class="mw-headline" id="Ancient_times">
+        Ancient times
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Solar_physics&amp;action=edit&amp;section=2" title="Edit section: Ancient times">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       Babylonians were keeping a record of solar eclipses, with the oldest record originating from the ancient city of Ugarit, in modern-day Syria. This record dates to about 1300 BC.
+       <sup class="reference" id="cite_ref-2">
+        <a href="#cite_note-2">
+         [2]
+        </a>
+       </sup>
+       Ancient Chinese astronomers were also observing solar phenomena (such as solar eclipses and visible sunspots) with the purpose of keeping track of calendars, which were based on lunar and solar cycles. Unfortunately, records kept before 720 BC are very vague and offer no useful information. However, after 720 BC, 37 solar eclipses were noted over the course of 240 years.
+       <sup class="reference" id="cite_ref-ancient_china_3-0">
+        <a href="#cite_note-ancient_china-3">
+         [3]
+        </a>
+       </sup>
+      </p>
+      <h3>
+       <span class="mw-headline" id="Medieval_times">
+        Medieval times
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Solar_physics&amp;action=edit&amp;section=3" title="Edit section: Medieval times">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       Astronomical knowledge flourished in the Islamic world during medieval times. Many observatories were built in cities from Damascus to Baghdad, where detailed astronomical observations were taken. Particularly, a few solar parameters were measured and detailed observations of the Sun were taken. Solar observations were taken with the purpose of navigation, but mostly for timekeeping. Islam requires its followers to pray five times a day, at specific position of the Sun in the sky. As such, accurate observations of the Sun and its trajectory on the sky were needed. In the late 10th century, Iranian astronomer
+       <a class="mw-redirect" href="/wiki/Al-Khujandi" title="Al-Khujandi">
+        Abu-Mahmud Khojandi
+       </a>
+       built a massive observatory near Tehran. There, he took accurate measurements of a series of meridian transits of the Sun, which he later used to calculate the obliquity of the ecliptic.
+       <sup class="reference" id="cite_ref-4">
+        <a href="#cite_note-4">
+         [4]
+        </a>
+       </sup>
+       Following the fall of the Western Roman Empire, Western Europe was cut from all sources of ancient scientific knowledge, especially those written in Greek. This, plus de-urbanisation and diseases such as the Black Death led to a decline in scientific knowledge in Medieval Europe, especially in the early Middle Ages. During this period, observations of the Sun were taken either in relation to the zodiac, or to assist in building places of worship such as churches and cathedrals.
+       <sup class="reference" id="cite_ref-5">
+        <a href="#cite_note-5">
+         [5]
+        </a>
+       </sup>
+      </p>
+      <h3>
+       <span class="mw-headline" id="Renaissance_period">
+        Renaissance period
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Solar_physics&amp;action=edit&amp;section=4" title="Edit section: Renaissance period">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       In astronomy, the renaissance period started with the work of
+       <a href="/wiki/Nicolaus_Copernicus" title="Nicolaus Copernicus">
+        Nicolaus Copernicus
+       </a>
+       . He proposed that planets revolve around the Sun and not around the Earth, as it was believed at the time. This model is known as the heliocentric model.
+       <sup class="reference" id="cite_ref-6">
+        <a href="#cite_note-6">
+         [6]
+        </a>
+       </sup>
+       His work was later expanded by
+       <a href="/wiki/Johannes_Kepler" title="Johannes Kepler">
+        Johannes Kepler
+       </a>
+       and
+       <a href="/wiki/Galileo_Galilei" title="Galileo Galilei">
+        Galileo Galilei
+       </a>
+       . Particularly, Galilei used his new telescope to look at the Sun. In 1610, he discovered sunspots on its surface. In the autumn of 1611,
+       <a href="/wiki/Johannes_Fabricius" title="Johannes Fabricius">
+        Johannes Fabricius
+       </a>
+       wrote the first book on sunspots, "De Maculis in Sole Observatis" (On the spots observed in the Sun).
+       <sup class="reference" id="cite_ref-7">
+        <a href="#cite_note-7">
+         [7]
+        </a>
+       </sup>
+      </p>
+      <h3>
+       <span class="mw-headline" id="Modern_times">
+        Modern times
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Solar_physics&amp;action=edit&amp;section=5" title="Edit section: Modern times">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       Modern day solar physics is focused towards understanding the many phenomena observed with the help of modern telescopes and satellites. Of particular interest are the structure of the solar photosphere, the coronal heat problem and sunspots.
+       <sup class="reference" id="cite_ref-8">
+        <a href="#cite_note-8">
+         [8]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Research">
+        Research
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Solar_physics&amp;action=edit&amp;section=6" title="Edit section: Research">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       The
+       <a href="/wiki/Solar_Physics_Division" title="Solar Physics Division">
+        Solar Physics Division
+       </a>
+       of the
+       <a href="/wiki/American_Astronomical_Society" title="American Astronomical Society">
+        American Astronomical Society
+       </a>
+       boasts 555 members (as of May 2007), compared to several thousand in the parent organization.
+       <sup class="reference" id="cite_ref-9">
+        <a href="#cite_note-9">
+         [9]
+        </a>
+       </sup>
+      </p>
+      <p>
+       A major thrust of current (2009) effort in the field of solar physics is integrated understanding of the entire
+       <a class="mw-redirect" href="/wiki/Solar_system" title="Solar system">
+        solar system
+       </a>
+       including the Sun and its effects throughout interplanetary space within the
+       <a href="/wiki/Heliosphere" title="Heliosphere">
+        heliosphere
+       </a>
+       and on
+       <a href="/wiki/Planet" title="Planet">
+        planets
+       </a>
+       and planetary
+       <a href="/wiki/Atmosphere" title="Atmosphere">
+        atmospheres
+       </a>
+       . Studies of phenomena that affect multiple systems in the heliosphere, or that are considered to fit within a heliospheric context, are called
+       <a href="/wiki/Heliophysics" title="Heliophysics">
+        heliophysics
+       </a>
+       , a new coinage that entered usage in the early years of the current millennium.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Space_based">
+        Space based
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Solar_physics&amp;action=edit&amp;section=7" title="Edit section: Space based">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <h4>
+       <span class="mw-headline" id="SDO">
+        SDO
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Solar_physics&amp;action=edit&amp;section=8" title="Edit section: SDO">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h4>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main article:
+       <a href="/wiki/Solar_Dynamics_Observatory" title="Solar Dynamics Observatory">
+        Solar Dynamics Observatory
+       </a>
+      </div>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Solar_Dynamics_Observatory_1.jpg">
+         <img alt="" class="thumbimage" data-file-height="720" data-file-width="1280" height="124" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Solar_Dynamics_Observatory_1.jpg/220px-Solar_Dynamics_Observatory_1.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Solar_Dynamics_Observatory_1.jpg/330px-Solar_Dynamics_Observatory_1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Solar_Dynamics_Observatory_1.jpg/440px-Solar_Dynamics_Observatory_1.jpg 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Solar_Dynamics_Observatory_1.jpg" title="Enlarge">
+          </a>
+         </div>
+         The SDO satellite
+        </div>
+       </div>
+      </div>
+      <p>
+       The Solar Dynamics Observatory (SDO) was launched by NASA in February 2010 from Cape Canaveral. The main goals of the mission are understanding how solar activity arises and how it affects life on Earth by determining how the Sun's magnetic field is generated and structured and how the stored magnetic energy is converted and released into space.
+       <sup class="reference" id="cite_ref-10">
+        <a href="#cite_note-10">
+         [10]
+        </a>
+       </sup>
+      </p>
+      <h4>
+       <span class="mw-headline" id="SOHO">
+        SOHO
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Solar_physics&amp;action=edit&amp;section=9" title="Edit section: SOHO">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h4>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main article:
+       <a href="/wiki/Solar_and_Heliospheric_Observatory" title="Solar and Heliospheric Observatory">
+        Solar and Heliospheric Observatory
+       </a>
+      </div>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:NASA_SOHO_spacecraft.png">
+         <img alt="" class="thumbimage" data-file-height="1984" data-file-width="1889" height="231" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/NASA_SOHO_spacecraft.png/220px-NASA_SOHO_spacecraft.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/NASA_SOHO_spacecraft.png/330px-NASA_SOHO_spacecraft.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6f/NASA_SOHO_spacecraft.png/440px-NASA_SOHO_spacecraft.png 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:NASA_SOHO_spacecraft.png" title="Enlarge">
+          </a>
+         </div>
+         Image of SOHO spacecraft
+        </div>
+       </div>
+      </div>
+      <p>
+       The Solar &amp; Heliospheric Observatory, SOHO, is a joint project between
+       <a href="/wiki/NASA" title="NASA">
+        NASA
+       </a>
+       and ESA that was launched in December 1995. It was launched to probe the interior of the Sun, make observations of the solar wind and phenomena associated with it and investigate the outer layers of the Sun.
+       <sup class="reference" id="cite_ref-11">
+        <a href="#cite_note-11">
+         [11]
+        </a>
+       </sup>
+      </p>
+      <h4>
+       <span class="mw-headline" id="HINODE">
+        HINODE
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Solar_physics&amp;action=edit&amp;section=10" title="Edit section: HINODE">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h4>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main article:
+       <a href="/wiki/Hinode" title="Hinode">
+        Hinode
+       </a>
+      </div>
+      <p>
+       A publicly funded mission led by the Japanese Aerospace Exploration Agency, the HINODE satellite, launched in 2006, consists of a coordinated set of optical, extreme ultraviolet and X-ray instruments. These investigate the interaction between the solar corona and the Sun's magnetic field.
+       <sup class="reference" id="cite_ref-12">
+        <a href="#cite_note-12">
+         [12]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-13">
+        <a href="#cite_note-13">
+         [13]
+        </a>
+       </sup>
+      </p>
+      <h3>
+       <span class="mw-headline" id="Ground_based">
+        Ground based
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Solar_physics&amp;action=edit&amp;section=11" title="Edit section: Ground based">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <h4>
+       <span class="mw-headline" id="ATST">
+        ATST
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Solar_physics&amp;action=edit&amp;section=12" title="Edit section: ATST">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h4>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main article:
+       <a class="mw-redirect" href="/wiki/Advanced_Technology_Solar_Telescope" title="Advanced Technology Solar Telescope">
+        Advanced Technology Solar Telescope
+       </a>
+      </div>
+      <p>
+       The Advanced Technology Solar Telescope (ATST) is a solar telescope facility that is under construction in Maui. Twenty-two institutions are collaborating on the ATST project, with the main funding agency being the National Science Foundation.
+       <sup class="reference" id="cite_ref-14">
+        <a href="#cite_note-14">
+         [14]
+        </a>
+       </sup>
+      </p>
+      <h4>
+       <span class="mw-headline" id="Big_Bear">
+        Big Bear
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Solar_physics&amp;action=edit&amp;section=13" title="Edit section: Big Bear">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h4>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main article:
+       <a href="/wiki/Big_Bear_Solar_Observatory" title="Big Bear Solar Observatory">
+        Big Bear Solar Observatory
+       </a>
+      </div>
+      <p>
+       The Big Bear Solar Observatory in California houses several telescopes including the New Solar Telescope(NTS) which is a 1.6 meter, clear-aperture, off-axis Gregorian telescope. The NTS saw first light in December 2008. Until the ATST comes on line, the NTS remains the largest solar telescope in the world. The Big Bear Observatory is one of several facilities operated by the Center for Solar-Terrestrial Research at New Jersey Institute of Technology (NJIT).
+       <sup class="reference" id="cite_ref-15">
+        <a href="#cite_note-15">
+         [15]
+        </a>
+       </sup>
+      </p>
+      <h3>
+       <span class="mw-headline" id="Other">
+        Other
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Solar_physics&amp;action=edit&amp;section=14" title="Edit section: Other">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <h4>
+       <span class="mw-headline" id="EUNIS">
+        EUNIS
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Solar_physics&amp;action=edit&amp;section=15" title="Edit section: EUNIS">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h4>
+      <p>
+       The Extreme Ultraviolet Normal Incidence Spectrograph (EUNIS)is a two channel imaging spectrograph that first flew in 2006. It observes the solar corona with high spectral resolution. So far, it has provided information on the nature of coronal bright points, cool transients and coronal loop arcades. Data from it also helped calibrating SOHO and a few other telescopes.
+       <sup class="reference" id="cite_ref-16">
+        <a href="#cite_note-16">
+         [16]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Solar_physics&amp;action=edit&amp;section=16" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a href="/wiki/Aeronomy" title="Aeronomy">
+         Aeronomy
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Helioseismography" title="Helioseismography">
+         Helioseismography
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Introduction_to_heliophysics" title="Introduction to heliophysics">
+         Introduction to heliophysics
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Institute_for_Solar_Physics" title="Institute for Solar Physics">
+         Institute for Solar Physics
+        </a>
+        (in La Palma in the Canary Islands)
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="Further_reading">
+        Further reading
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Solar_physics&amp;action=edit&amp;section=17" title="Edit section: Further reading">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <cite class="citation book">
+         Mullan, Dermott J. (2009).
+         <i>
+          Physics of the Sun: A First Course
+         </i>
+         .
+         <a href="/wiki/Taylor_%26_Francis" title="Taylor &amp; Francis">
+          Taylor &amp; Francis
+         </a>
+         .
+         <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+          ISBN
+         </a>
+         <a href="/wiki/Special:BookSources/978-1-4200-8307-1" title="Special:BookSources/978-1-4200-8307-1">
+          978-1-4200-8307-1
+         </a>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Physics+of+the+Sun%3A+A+First+Course&amp;rft.pub=Taylor+%26+Francis&amp;rft.date=2009&amp;rft.isbn=978-1-4200-8307-1&amp;rft.aulast=Mullan&amp;rft.aufirst=Dermott+J.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+physics">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+       <li>
+        <cite class="citation book">
+         <a href="/wiki/Harold_Zirin" title="Harold Zirin">
+          Zirin
+         </a>
+         , Harold (1988).
+         <i>
+          Astrophysics of the Sun
+         </i>
+         .
+         <a href="/wiki/Cambridge_University_Press" title="Cambridge University Press">
+          Cambridge University Press
+         </a>
+         .
+         <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+          ISBN
+         </a>
+         <a href="/wiki/Special:BookSources/0-521-30268-4" title="Special:BookSources/0-521-30268-4">
+          0-521-30268-4
+         </a>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Astrophysics+of+the+Sun&amp;rft.pub=Cambridge+University+Press&amp;rft.date=1988&amp;rft.isbn=0-521-30268-4&amp;rft.aulast=Zirin&amp;rft.aufirst=Harold&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+physics">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Solar_physics&amp;action=edit&amp;section=18" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a class="external text" href="http://solarphysics.livingreviews.org/" rel="nofollow">
+         Living Reviews in Solar Physics
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://solarscience.msfc.nasa.gov/" rel="nofollow">
+         NASA Solar Physics Page
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://www.mps.mpg.de/solar-physics" rel="nofollow">
+         MPS Solar Physics Group
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://www.suparco.gov.pk/pages/solar-system.asp" rel="nofollow">
+         SUPARCO Solar physics Page
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://centers.njit.edu/cstr/cstr-home/" rel="nofollow">
+         Center for Solar-Terrestrial Research
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Solar_physics&amp;action=edit&amp;section=19" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+       <ol class="references">
+        <li id="cite_note-1">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-1">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           Solar Physics, Marshall Space Flight Center.
+           <a class="external text" href="http://solarscience.msfc.nasa.gov/whysolar.shtml" rel="nofollow">
+            "Why we study the Sun"
+           </a>
+           .
+           <i>
+            NASA
+           </i>
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             28 January
+            </span>
+            2014
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=NASA&amp;rft.atitle=Why+we+study+the+Sun&amp;rft.aulast=Solar+Physics&amp;rft.aufirst=Marshall+Space+Flight+Center&amp;rft_id=http%3A%2F%2Fsolarscience.msfc.nasa.gov%2Fwhysolar.shtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+physics">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-2">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-2">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation book">
+           Littman, M.; Willcox, F; Espenak, F. (2000).
+           <i>
+            Totality: Eclipses of the Sun
+           </i>
+           (2nd ed.).
+           <a href="/wiki/Oxford_University_Press" title="Oxford University Press">
+            Oxford University Press
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Totality%3A+Eclipses+of+the+Sun&amp;rft.edition=2nd&amp;rft.pub=Oxford+University+Press&amp;rft.date=2000&amp;rft.aulast=Littman&amp;rft.aufirst=M.&amp;rft.au=Willcox%2C+F&amp;rft.au=Espenak%2C+F.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+physics">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-ancient_china-3">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-ancient_china_3-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           Sten, Odenwald.
+           <a class="external text" href="http://sunearthday.nasa.gov/2009eclipse/ancienteclipses.php" rel="nofollow">
+            "Ancient eclipses in China"
+           </a>
+           .
+           <i>
+            NASA Goddard Space Flight Center
+           </i>
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             17 January
+            </span>
+            2014
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=NASA+Goddard+Space+Flight+Center&amp;rft.atitle=Ancient+eclipses+in+China&amp;rft.aulast=Sten&amp;rft.aufirst=Odenwald&amp;rft_id=http%3A%2F%2Fsunearthday.nasa.gov%2F2009eclipse%2Fancienteclipses.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+physics">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-4">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-4">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           <a class="external text" href="http://www.starteachastronomy.com/arab.html" rel="nofollow">
+            "Arab and Islamic astronomy"
+           </a>
+           .
+           <i>
+            StarTeach Astronomy Education
+           </i>
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             18 January
+            </span>
+            2014
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=StarTeach+Astronomy+Education&amp;rft.atitle=Arab+and+Islamic+astronomy&amp;rft_id=http%3A%2F%2Fwww.starteachastronomy.com%2Farab.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+physics">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-5">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-5">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           Portal to the heritage of astronomy.
+           <a class="external text" href="http://www2.astronomicalheritage.net/index.php/show-theme?idtheme=16" rel="nofollow">
+            "Theme: medieval astronomy in Europe"
+           </a>
+           .
+           <i>
+            UNESCO
+           </i>
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             18 January
+            </span>
+            2014
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=UNESCO&amp;rft.atitle=Theme%3A+medieval+astronomy+in+Europe&amp;rft.au=Portal+to+the+heritage+of+astronomy&amp;rft_id=http%3A%2F%2Fwww2.astronomicalheritage.net%2Findex.php%2Fshow-theme%3Fidtheme%3D16&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+physics">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-6">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-6">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           Taylor Redd, Nola.
+           <a class="external text" href="http://www.space.com/15684-nicolaus-copernicus.html" rel="nofollow">
+            "Nicolaus Copernicus biography: facts &amp; discoveries"
+           </a>
+           .
+           <i>
+            Space.com
+           </i>
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             18 January
+            </span>
+            2014
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Space.com&amp;rft.atitle=Nicolaus+Copernicus+biography%3A+facts+%26+discoveries&amp;rft.aulast=Taylor+Redd&amp;rft.aufirst=Nola&amp;rft_id=http%3A%2F%2Fwww.space.com%2F15684-nicolaus-copernicus.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+physics">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-7">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-7">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           <a class="external text" href="http://galileo.rice.edu/sci/observations/sunspots.html" rel="nofollow">
+            "Sunspots"
+           </a>
+           .
+           <i>
+            The Galileo Project
+           </i>
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             18 January
+            </span>
+            2014
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Galileo+Project&amp;rft.atitle=Sunspots&amp;rft_id=http%3A%2F%2Fgalileo.rice.edu%2Fsci%2Fobservations%2Fsunspots.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+physics">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-8">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-8">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation book">
+           Wang, Pinghzi (2008).
+           <a class="external text" href="https://books.google.com/books?id=royEo2yT9XMC&amp;pg=PA358" rel="nofollow">
+            <i>
+             Solar physics research trends
+            </i>
+           </a>
+           .
+           <a href="/wiki/Nova_Science_Publishers" title="Nova Science Publishers">
+            Nova Science Publishers
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Solar+physics+research+trends&amp;rft.pub=Nova+Science+Publishers&amp;rft.date=2008&amp;rft.aulast=Wang&amp;rft.aufirst=Pinghzi&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DroyEo2yT9XMC%26pg%3DPA358&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+physics">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-9">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-9">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           Solar Physics Division.
+           <a class="external text" href="https://web.archive.org/web/20140322013145/http://spd.aas.org/navbar_members.html" rel="nofollow">
+            "Membership"
+           </a>
+           .
+           <i>
+            American Astronomical Society
+           </i>
+           . Archived from
+           <a class="external text" href="http://spd.aas.org/navbar_members.html" rel="nofollow">
+            the original
+           </a>
+           on 22 March 2014
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             28 January
+            </span>
+            2014
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=American+Astronomical+Society&amp;rft.atitle=Membership&amp;rft.au=Solar+Physics+Division&amp;rft_id=http%3A%2F%2Fspd.aas.org%2Fnavbar_members.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+physics">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-10">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-10">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           SDO, Solar Dynamics Observatory.
+           <a class="external text" href="http://sdo.gsfc.nasa.gov/mission/about.php" rel="nofollow">
+            "About the SDO mission"
+           </a>
+           .
+           <i>
+            NASA Goddard Space Flight Centre
+           </i>
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             17 January
+            </span>
+            2014
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=NASA+Goddard+Space+Flight+Centre&amp;rft.atitle=About+the+SDO+mission&amp;rft.aulast=SDO&amp;rft.aufirst=Solar+Dynamics+Observatory&amp;rft_id=http%3A%2F%2Fsdo.gsfc.nasa.gov%2Fmission%2Fabout.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+physics">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-11">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-11">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           SOHO, Solar and Heliospheric Observatory.
+           <a class="external text" href="http://sohowww.nascom.nasa.gov/about/about.html" rel="nofollow">
+            "About the SOHO mission"
+           </a>
+           .
+           <i>
+            ESA; NASA
+           </i>
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             17 January
+            </span>
+            2014
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ESA%3B+NASA&amp;rft.atitle=About+the+SOHO+mission&amp;rft.aulast=SOHO&amp;rft.aufirst=Solar+and+Heliospheric+Observatory&amp;rft_id=http%3A%2F%2Fsohowww.nascom.nasa.gov%2Fabout%2Fabout.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+physics">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-12">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-12">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           Solar Physics Laboratory, Code 671.
+           <a class="external text" href="http://science.gsfc.nasa.gov/sed/index.cfm?fuseAction=projects.view&amp;navOrgCode=671&amp;navTab=nav_about_us&amp;project_id=143" rel="nofollow">
+            "HINODE"
+           </a>
+           .
+           <i>
+            NASA Goddard Space Flight Centre
+           </i>
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             17 January
+            </span>
+            2014
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=NASA+Goddard+Space+Flight+Centre&amp;rft.atitle=HINODE&amp;rft.aulast=Solar+Physics+Laboratory&amp;rft.aufirst=Code+671&amp;rft_id=http%3A%2F%2Fscience.gsfc.nasa.gov%2Fsed%2Findex.cfm%3FfuseAction%3Dprojects.view%26navOrgCode%3D671%26navTab%3Dnav_about_us%26project_id%3D143&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+physics">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-13">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-13">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           <a class="external text" href="http://solarb.msfc.nasa.gov/" rel="nofollow">
+            "Hinode"
+           </a>
+           .
+           <i>
+            NASA Marshall Space Flight Centre
+           </i>
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             17 January
+            </span>
+            2014
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=NASA+Marshall+Space+Flight+Centre&amp;rft.atitle=Hinode&amp;rft_id=http%3A%2F%2Fsolarb.msfc.nasa.gov%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+physics">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-14">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-14">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           <a class="external text" href="http://atst.nso.edu/" rel="nofollow">
+            "Welcome to the ATST"
+           </a>
+           .
+           <i>
+            NSO
+           </i>
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             17 January
+            </span>
+            2014
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=NSO&amp;rft.atitle=Welcome+to+the+ATST&amp;rft_id=http%3A%2F%2Fatst.nso.edu%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+physics">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-15">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-15">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           <a class="external text" href="http://centers.njit.edu/cstr/cstr-home/" rel="nofollow">
+            "Center for Solar-Terrestrial Research Welcome!"
+           </a>
+           .
+           <a class="mw-redirect" href="/wiki/NJIT" title="NJIT">
+            NJIT
+           </a>
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             29 May
+            </span>
+            2016
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Center+for+Solar-Terrestrial+Research+Welcome%21&amp;rft.pub=NJIT&amp;rft_id=http%3A%2F%2Fcenters.njit.edu%2Fcstr%2Fcstr-home%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+physics">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-16">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-16">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           Sciences and Exploration Directorate, Code 600.
+           <a class="external text" href="http://science.gsfc.nasa.gov/sed/index.cfm?fuseaction=projects.view&amp;project_id=142" rel="nofollow">
+            "Extreme Ultraviolet Normal Incidence Spectrograph"
+           </a>
+           .
+           <i>
+            NASA Goddard Space Flight Centre
+           </i>
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             17 January
+            </span>
+            2014
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=NASA+Goddard+Space+Flight+Centre&amp;rft.atitle=Extreme+Ultraviolet+Normal+Incidence+Spectrograph&amp;rft.aulast=Sciences+and+Exploration+Directorate&amp;rft.aufirst=Code+600&amp;rft_id=http%3A%2F%2Fscience.gsfc.nasa.gov%2Fsed%2Findex.cfm%3Ffuseaction%3Dprojects.view%26project_id%3D142&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+physics">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+       </ol>
+      </div>
+      <div aria-labelledby="The_Sun" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="3" scope="col" style="text-align: center;">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:The_Sun" title="Template:The Sun">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a href="/wiki/Template_talk:The_Sun" title="Template talk:The Sun">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:The_Sun&amp;action=edit">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="The_Sun" style="font-size:114%;margin:0 4em">
+           <a href="/wiki/Sun" title="Sun">
+            The Sun
+           </a>
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Standard_solar_model" title="Standard solar model">
+           Internal structure
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Solar_core" title="Solar core">
+              Core
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Radiation_zone" title="Radiation zone">
+              Radiation zone
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tachocline" title="Tachocline">
+              Tachocline
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Convection_zone" title="Convection zone">
+              Convection zone
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+         <td class="navbox-image" rowspan="5" style="width:1px;padding:0px 0px 0px 2px">
+          <div>
+           <div class="floatright">
+            <a class="image" href="/wiki/File:Sun_in_February.jpg">
+             <img alt="Sun in February.jpg" class="thumbborder" data-file-height="2632" data-file-width="2632" height="155" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Sun_in_February.jpg/155px-Sun_in_February.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Sun_in_February.jpg/233px-Sun_in_February.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Sun_in_February.jpg/310px-Sun_in_February.jpg 2x" width="155"/>
+            </a>
+           </div>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Stellar_atmosphere" title="Stellar atmosphere">
+           Atmosphere
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+          </div>
+          <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%;text-align: center;">
+             <a href="/wiki/Photosphere" title="Photosphere">
+              Photosphere
+             </a>
+            </th>
+            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Supergranulation" title="Supergranulation">
+                 Supergranulation
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Granule_(solar_physics)" title="Granule (solar physics)">
+                 Granule
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Facula" title="Facula">
+                 Faculae
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Sunspot" title="Sunspot">
+                 Sunspot
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%;text-align: center;">
+             <a href="/wiki/Chromosphere" title="Chromosphere">
+              Chromosphere
+             </a>
+            </th>
+            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Plage_(astronomy)" title="Plage (astronomy)">
+                 Plage
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Spicule_(solar_physics)" title="Spicule (solar physics)">
+                 Spicule
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Moreton_wave" title="Moreton wave">
+                 Moreton wave
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%;text-align: center;">
+             <a href="/wiki/Corona" title="Corona">
+              Corona
+             </a>
+            </th>
+            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Solar_transition_region" title="Solar transition region">
+                 Transition region
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Coronal_hole" title="Coronal hole">
+                 Coronal hole
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Coronal_loop" title="Coronal loop">
+                 Coronal loop
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Coronal_mass_ejection" title="Coronal mass ejection">
+                 Coronal mass ejection
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Solar_prominence" title="Solar prominence">
+                 Prominence
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Helmet_streamer" title="Helmet streamer">
+                 Helmet streamer
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Supra-arcade_downflows" title="Supra-arcade downflows">
+                 Supra-arcade downflows
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a class="mw-redirect" href="/wiki/Solar_variation" title="Solar variation">
+           Variation
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Solar_cycle" title="Solar cycle">
+              Solar cycle
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/List_of_solar_cycles" title="List of solar cycles">
+                List of solar cycles
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Solar_maximum" title="Solar maximum">
+              Solar maximum
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_minimum" title="Solar minimum">
+              Solar minimum
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Wolf_number" title="Wolf number">
+              Wolf number
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_wind" title="Solar wind">
+              Solar wind
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_flare" title="Solar flare">
+              Flare
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Helioseismology" title="Helioseismology">
+              Helioseismology
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Heliosphere" title="Heliosphere">
+           Heliosphere
+          </a>
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Heliospheric_current_sheet" title="Heliospheric current sheet">
+              Current sheet
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Heliosphere#Termination_shock" title="Heliosphere">
+              Termination shock
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Heliosphere#Heliosheath" title="Heliosphere">
+              Heliosheath
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Heliosphere#Heliopause" title="Heliosphere">
+              Heliopause
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Bow_shock" title="Bow shock">
+              Bow shock
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          Related topics
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Heliophysics" title="Heliophysics">
+              Heliophysics
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Solar_activity" title="Solar activity">
+              Solar activity
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Solar_astronomy" title="Solar astronomy">
+              Solar astronomy
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_dynamo" title="Solar dynamo">
+              Solar dynamo
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_eclipse" title="Solar eclipse">
+              Eclipse
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_energy" title="Solar energy">
+              Solar energy
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_neutrino" title="Solar neutrino">
+              Solar neutrino
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_observation" title="Solar observation">
+              Solar observation
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_phenomena" title="Solar phenomena">
+              Solar phenomena
+             </a>
+            </li>
+            <li>
+             <a class="mw-selflink selflink">
+              Solar physics
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_System" title="Solar System">
+              Solar System
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_telescope" title="Solar telescope">
+              Solar telescope
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_time" title="Solar time">
+              Solar time
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Space_weather" title="Space weather">
+              Space weather
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Standard_solar_model" title="Standard solar model">
+              Standard solar model
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Sunlight" title="Sunlight">
+              Radiation
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <td class="navbox-abovebelow" colspan="3" style="text-align: center;">
+          <div>
+           <ul>
+            <li>
+             <a href="/wiki/Stellar_classification" title="Stellar classification">
+              Spectral class
+             </a>
+             :
+             <a href="/wiki/G-type_main-sequence_star" title="G-type main-sequence star">
+              G2V
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <div aria-labelledby="Branches_of_physics" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="2" scope="col">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:Branches_of_physics" title="Template:Branches of physics">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a href="/wiki/Template_talk:Branches_of_physics" title="Template talk:Branches of physics">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Branches_of_physics&amp;action=edit">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="Branches_of_physics" style="font-size:114%;margin:0 4em">
+           Branches of
+           <a href="/wiki/Physics" title="Physics">
+            physics
+           </a>
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Divisions
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Applied_physics" title="Applied physics">
+              Applied
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Experimental_physics" title="Experimental physics">
+              Experimental
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Theoretical_physics" title="Theoretical physics">
+              Theoretical
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <div class="hlist hlist-separated">
+           <ul>
+            <li>
+             <a href="/wiki/Energy" title="Energy">
+              Energy
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Motion_(physics)" title="Motion (physics)">
+              Motion
+             </a>
+            </li>
+           </ul>
+          </div>
+         </th>
+         <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Thermodynamics" title="Thermodynamics">
+              Thermodynamics
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Mechanics" title="Mechanics">
+              Mechanics
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Classical_mechanics" title="Classical mechanics">
+                Classical
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Ballistics" title="Ballistics">
+                  Ballistics
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Lagrangian_mechanics" title="Lagrangian mechanics">
+                  Lagrangian
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Hamiltonian_mechanics" title="Hamiltonian mechanics">
+                  Hamiltonian
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li>
+               <a href="/wiki/Continuum_mechanics" title="Continuum mechanics">
+                Continuum
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Celestial_mechanics" title="Celestial mechanics">
+                Celestial
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Statistical_mechanics" title="Statistical mechanics">
+                Statistical
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Solid_mechanics" title="Solid mechanics">
+                Solid
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Fluid_mechanics" title="Fluid mechanics">
+                Fluid
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Quantum_mechanics" title="Quantum mechanics">
+                Quantum
+               </a>
+              </li>
+             </ul>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <div class="hlist hlist-separated">
+           <ul>
+            <li>
+             <a href="/wiki/Wave" title="Wave">
+              Waves
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Field_(physics)" title="Field (physics)">
+              Fields
+             </a>
+            </li>
+           </ul>
+          </div>
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Gravity" title="Gravity">
+              Gravitation
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Electromagnetism" title="Electromagnetism">
+              Electromagnetism
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Optics" title="Optics">
+              Optics
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Geometrical_optics" title="Geometrical optics">
+                Geometrical
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Physical_optics" title="Physical optics">
+                Physical
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Nonlinear_optics" title="Nonlinear optics">
+                Nonlinear
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Quantum_optics" title="Quantum optics">
+                Quantum
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Quantum_field_theory" title="Quantum field theory">
+              Quantum field theory
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Theory_of_relativity" title="Theory of relativity">
+              Relativity
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Special_relativity" title="Special relativity">
+                Special
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/General_relativity" title="General relativity">
+                General
+               </a>
+              </li>
+             </ul>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          By speciality
+         </th>
+         <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Accelerator_physics" title="Accelerator physics">
+              Accelerator
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Acoustics" title="Acoustics">
+              Acoustics
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Astrophysics" title="Astrophysics">
+              Astrophysics
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Nuclear_astrophysics" title="Nuclear astrophysics">
+                Nuclear
+               </a>
+              </li>
+              <li>
+               <a class="mw-redirect" href="/wiki/Stellar_physics" title="Stellar physics">
+                Stellar
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Heliophysics" title="Heliophysics">
+                Heliophysics
+               </a>
+               <ul>
+                <li>
+                 <a class="mw-selflink selflink">
+                  Solar
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li>
+               <a href="/wiki/Space_physics" title="Space physics">
+                Space
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Astroparticle_physics" title="Astroparticle physics">
+                Astroparticle
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Atomic,_molecular,_and_optical_physics" title="Atomic, molecular, and optical physics">
+              Atomic–molecular–optical
+              <span style="font-size:90%;">
+               (AMO)
+              </span>
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Communication_physics" title="Communication physics">
+              Communication
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Computational_physics" title="Computational physics">
+              Computational
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Condensed_matter_physics" title="Condensed matter physics">
+              Condensed matter
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Mesoscopic_physics" title="Mesoscopic physics">
+                Mesoscopic
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Solid-state_physics" title="Solid-state physics">
+                Solid-state
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Soft_matter" title="Soft matter">
+                Soft
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Digital_physics" title="Digital physics">
+              Digital
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Engineering_physics" title="Engineering physics">
+              Engineering
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Materials_physics" title="Materials physics">
+              Material
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Mathematical_physics" title="Mathematical physics">
+              Mathematical
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Molecular_physics" title="Molecular physics">
+              Molecular
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Nuclear_physics" title="Nuclear physics">
+              Nuclear
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Particle_physics" title="Particle physics">
+              Particle
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Phenomenology_(particle_physics)" title="Phenomenology (particle physics)">
+                Phenomenology
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Plasma_(physics)" title="Plasma (physics)">
+              Plasma
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Polymer_physics" title="Polymer physics">
+              Polymer
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Statistical_physics" title="Statistical physics">
+              Statistical
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <div style="padding:0.1em 0;line-height:1.2em;">
+           Physics in life science
+          </div>
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Biophysics" title="Biophysics">
+              Biophysics
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Virophysics" title="Virophysics">
+                Virophysics
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Biomechanics" title="Biomechanics">
+                Biomechanics
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Medical_physics" title="Medical physics">
+              Medical physics
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Cardiophysics" title="Cardiophysics">
+                Cardiophysics
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Health_physics" title="Health physics">
+                Health physics
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Laser_medicine" title="Laser medicine">
+                Laser medicine
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Medical_imaging" title="Medical imaging">
+                Medical imaging‎
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Nuclear_medicine" title="Nuclear medicine">
+                Nuclear medicine
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Neurophysics" title="Neurophysics">
+                Neurophysics
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Psychophysics" title="Psychophysics">
+                Psychophysics
+               </a>
+              </li>
+             </ul>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <div style="padding:0.1em 0;line-height:1.2em;">
+           Physics with
+           <br/>
+           other sciences
+          </div>
+         </th>
+         <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Agrophysics" title="Agrophysics">
+              Agrophysics
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Soil_physics" title="Soil physics">
+                Soil
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Atmospheric_physics" title="Atmospheric physics">
+              Atmospheric
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Cloud_physics" title="Cloud physics">
+                Cloud
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Chemical_physics" title="Chemical physics">
+              Chemical
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Econophysics" title="Econophysics">
+              Econophysics
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Geophysics" title="Geophysics">
+              Geophysics
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Physical_chemistry" title="Physical chemistry">
+              Physical chemistry
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1309
+Cached time: 20180318071325
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.252 seconds
+Real time usage: 0.297 seconds
+Preprocessor visited node count: 991/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 59589/2097152 bytes
+Template argument size: 181/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 15353/5000000 bytes
+Lua time usage: 0.131/10.000 seconds
+Lua memory usage: 3.5 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  245.088      1 -total
+ 45.86%  112.388      1 Template:Reflist
+ 29.21%   71.592     14 Template:Cite_web
+ 23.15%   56.738      4 Template:Cite_book
+ 15.06%   36.899      3 Template:Navbox
+ 10.04%   24.595      1 Template:About
+  8.30%   20.331      1 Template:Physics-footer
+  7.93%   19.442      1 Template:The_Sun
+  3.98%    9.744      5 Template:Main
+  2.82%    6.912      2 Template:Hlist
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:2792708-0!canonical and timestamp 20180318071325 and revision id 822210040
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Solar_physics&amp;oldid=822210040">
+      https://en.wikipedia.org/w/index.php?title=Solar_physics&amp;oldid=822210040
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Astrophysics" title="Category:Astrophysics">
+         Astrophysics
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Sun" title="Category:Sun">
+         Sun
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Space_science" title="Category:Space science">
+         Space science
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Stellar_physics" title="Category:Stellar physics">
+         Stellar physics
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Solar+physics" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Solar+physics" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Solar_physics" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Solar_physics" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Solar_physics">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Solar_physics&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Solar_physics&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Solar_physics" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Solar_physics" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Solar_physics&amp;oldid=822210040" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Solar_physics&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q2043698" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Solar_physics&amp;id=822210040" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Solar+physics">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Solar+physics&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Solar_physics&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%81%D9%8A%D8%B2%D9%8A%D8%A7%D8%A1_%D8%B4%D9%85%D8%B3%D9%8A%D8%A9" hreflang="ar" lang="ar" title="فيزياء شمسية – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/F%C3%ADsica_solar" hreflang="ca" lang="ca" title="Física solar – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Sonnenphysik" hreflang="de" lang="de" title="Sonnenphysik – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/F%C3%ADsica_solar" hreflang="es" lang="es" title="Física solar – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hi">
+        <a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A5%8C%E0%A4%B0_%E0%A4%AD%E0%A5%8C%E0%A4%A4%E0%A4%BF%E0%A4%95%E0%A5%80" hreflang="hi" lang="hi" title="सौर भौतिकी – Hindi">
+         हिन्दी
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lb">
+        <a class="interlanguage-link-target" href="https://lb.wikipedia.org/wiki/Sonnephysik" hreflang="lb" lang="lb" title="Sonnephysik – Luxembourgish">
+         Lëtzebuergesch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mr">
+        <a class="interlanguage-link-target" href="https://mr.wikipedia.org/wiki/%E0%A4%B8%E0%A5%8C%E0%A4%B0_%E0%A4%AD%E0%A5%8C%E0%A4%A4%E0%A4%BF%E0%A4%95%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0" hreflang="mr" lang="mr" title="सौर भौतिकशास्त्र – Marathi">
+         मराठी
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Zonnefysica" hreflang="nl" lang="nl" title="Zonnefysica – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%AE%87%E5%AE%99%E7%A9%BA%E9%96%93%E7%89%A9%E7%90%86%E5%AD%A6" hreflang="ja" lang="ja" title="宇宙空間物理学 – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/F%C3%ADsica_solar" hreflang="pt" lang="pt" title="Física solar – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tr">
+        <a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/G%C3%BCne%C5%9F_fizi%C4%9Fi" hreflang="tr" lang="tr" title="Güneş fiziği – Turkish">
+         Türkçe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A4%D1%96%D0%B7%D0%B8%D0%BA%D0%B0_%D0%A1%D0%BE%D0%BD%D1%86%D1%8F" hreflang="uk" lang="uk" title="Фізика Сонця – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%A4%AA%E9%98%B3%E7%89%A9%E7%90%86%E5%AD%A6" hreflang="zh" lang="zh" title="太阳物理学 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q2043698#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 25 January 2018, at 01:27.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Solar_physics&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.252","walltime":"0.297","ppvisitednodes":{"value":991,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":59589,"limit":2097152},"templateargumentsize":{"value":181,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":15353,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  245.088      1 -total"," 45.86%  112.388      1 Template:Reflist"," 29.21%   71.592     14 Template:Cite_web"," 23.15%   56.738      4 Template:Cite_book"," 15.06%   36.899      3 Template:Navbox"," 10.04%   24.595      1 Template:About","  8.30%   20.331      1 Template:Physics-footer","  7.93%   19.442      1 Template:The_Sun","  3.98%    9.744      5 Template:Main","  2.82%    6.912      2 Template:Hlist"]},"scribunto":{"limitreport-timeusage":{"value":"0.131","limit":"10.000"},"limitreport-memusage":{"value":3665728,"limit":52428800}},"cachereport":{"origin":"mw1309","timestamp":"20180318071325","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":65,"wgHostname":"mw1244"});});
+  </script>
+ </body>
+</html>

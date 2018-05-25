@@ -1,0 +1,24 @@
+
+FOCUSED CRAWLING:
+
+Before adding any url in the frontier list, Crawler.is_relevant_link(link) is called. The main purpose of this function is
+to find if the input URL is relavant to the keyword. The scope of relevance in this case is limited to decompounding of words
+where the relative path of url is tokenized to be able to compare with the keywords.
+url_tokens which do not match with the keyword are checked if they are a valid English Word. To implement this part, Pyenchant
+has been used, which is an excellent spellchecking library for python.
+
+
+Steps followed to handle keyword variation:
+    1. Split the link using '/' delimiter and store in a list. This ensures that all the words in the link are tokenized and
+    ready to be consumed for the next step
+    2. For n keywords, check for each keyword if it is present in the list of tokenized url obtained from step 1. If found,
+    save the particular candidate token in a list.
+    3. Remove extra special characters from the candidate token and replace it with ' '. If the candidate token is found to be
+    same as keyword, url becomes acceptable, and so return True, otherwise go to the next step
+    4. Split the candidate token using ' ' delimiter and store it in a processed_word_list. ' ' in candidate token is generated
+    because of the previous step. This step ensures decompounding of the candidate token.
+    5. Now remove keyword from the processed_word_list to consider those only elements in the processed_word_list which do not
+    match with the keyword.
+    6. Using enchant Dictionary for the English language, check if the decompounded words in the processed_word_list is found
+    in dictionary. If all of them fails to, return false, otherwise true
+    7. Repeat the same step for the next keyword in the list

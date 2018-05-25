@@ -1,0 +1,1368 @@
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Lunar node - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Lunar_node","wgTitle":"Lunar node","wgCurRevisionId":822705575,"wgRevisionId":822705575,"wgArticleId":226305,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles lacking in-text citations from January 2018","All articles lacking in-text citations","Orbit of the Moon","Technical factors of astrology","Hindu astrology"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Lunar_node","wgRelevantArticleId":226305,"wgRequestId":"WrUqqwpAICIAAB5QsEwAAABV","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q937943","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.26" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Lunar_eclipse_diagram-en.svg/1200px-Lunar_eclipse_diagram-en.svg.png" property="og:image"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Lunar_node" rel="alternate"/>
+  <link href="/w/index.php?title=Lunar_node&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Lunar_node&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Lunar_node" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Lunar_node rootpage-Lunar_node skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Lunar node
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <table class="plainlinks metadata ambox ambox-style ambox-More_footnotes" role="presentation">
+       <tr>
+        <td class="mbox-image">
+         <div style="width:52px">
+          <img alt="" data-file-height="48" data-file-width="48" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/60px-Text_document_with_red_question_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/80px-Text_document_with_red_question_mark.svg.png 2x" width="40"/>
+         </div>
+        </td>
+        <td class="mbox-text">
+         <div class="mbox-text-span">
+          This article includes a
+          <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">
+           list of references
+          </a>
+          , but
+          <b>
+           its sources remain unclear
+          </b>
+          because it has
+          <b>
+           insufficient
+           <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">
+            inline citations
+           </a>
+          </b>
+          .
+          <span class="hide-when-compact">
+           Please help to
+           <a href="/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check" title="Wikipedia:WikiProject Fact and Reference Check">
+            improve
+           </a>
+           this article by
+           <a href="/wiki/Wikipedia:When_to_cite" title="Wikipedia:When to cite">
+            introducing
+           </a>
+           more precise citations.
+          </span>
+          <small>
+           <i>
+            (January 2018)
+           </i>
+          </small>
+          <small class="hide-when-compact">
+           <i>
+            (
+            <a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">
+             Learn how and when to remove this template message
+            </a>
+            )
+           </i>
+          </small>
+         </div>
+        </td>
+       </tr>
+      </table>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:322px;">
+        <a class="image" href="/wiki/File:Lunar_eclipse_diagram-en.svg">
+         <img alt="" class="thumbimage" data-file-height="476" data-file-width="815" height="187" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Lunar_eclipse_diagram-en.svg/320px-Lunar_eclipse_diagram-en.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Lunar_eclipse_diagram-en.svg/480px-Lunar_eclipse_diagram-en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/34/Lunar_eclipse_diagram-en.svg/640px-Lunar_eclipse_diagram-en.svg.png 2x" width="320"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Lunar_eclipse_diagram-en.svg" title="Enlarge">
+          </a>
+         </div>
+         The lunar nodes are the two points where the
+         <a href="/wiki/Orbit_of_the_Moon" title="Orbit of the Moon">
+          Moon's orbital path
+         </a>
+         crosses the
+         <a href="/wiki/Ecliptic" title="Ecliptic">
+          ecliptic
+         </a>
+         , the Sun's apparent yearly path on the
+         <a href="/wiki/Celestial_sphere" title="Celestial sphere">
+          celestial sphere
+         </a>
+         .
+        </div>
+       </div>
+      </div>
+      <p>
+       The
+       <b>
+        lunar nodes
+       </b>
+       are the
+       <a href="/wiki/Orbital_node" title="Orbital node">
+        orbital nodes
+       </a>
+       of the
+       <a href="/wiki/Moon" title="Moon">
+        Moon
+       </a>
+       , that is, the two points at which the
+       <a href="/wiki/Orbit_of_the_Moon" title="Orbit of the Moon">
+        orbit of the Moon
+       </a>
+       <a class="new" href="/w/index.php?title=Intersection_(Euclidian_geometry)&amp;action=edit&amp;redlink=1" title="Intersection (Euclidian geometry) (page does not exist)">
+        crosses
+       </a>
+       the
+       <a href="/wiki/Ecliptic" title="Ecliptic">
+        ecliptic
+       </a>
+       . The
+       <i>
+        ascending
+       </i>
+       (or
+       <i>
+        north
+       </i>
+       ) node is where the Moon moves into the northern
+       <a href="/wiki/Ecliptic_coordinate_system" title="Ecliptic coordinate system">
+        ecliptic hemisphere
+       </a>
+       , while the
+       <i>
+        descending
+       </i>
+       (or
+       <i>
+        south
+       </i>
+       ) node is where the Moon enters the southern ecliptic hemisphere.
+      </p>
+      <p>
+       <a href="/wiki/Eclipse" title="Eclipse">
+        Eclipses
+       </a>
+       involving the Moon occur only near the lunar nodes. A
+       <a href="/wiki/Solar_eclipse" title="Solar eclipse">
+        solar eclipse
+       </a>
+       occurs when the passage of the Moon through a node coincides with the
+       <a href="/wiki/New_moon" title="New moon">
+        new moon
+       </a>
+       , while a
+       <a href="/wiki/Lunar_eclipse" title="Lunar eclipse">
+        lunar eclipse
+       </a>
+       occurs when the passage coincides with the
+       <a href="/wiki/Full_moon" title="Full moon">
+        full moon
+       </a>
+       . A lunar eclipse may occur if the full Moon is within 11° 38' (ecliptic longitude) of either node, while a solar eclipse may occur if the new Moon is within 17° 25' of either node.
+      </p>
+      <p>
+       Since the
+       <a class="mw-redirect" href="/wiki/Orbital_plane" title="Orbital plane">
+        orbital plane
+       </a>
+       of the Moon
+       <a href="/wiki/Lunar_precession" title="Lunar precession">
+        precesses
+       </a>
+       in space, the lunar nodes
+       <a href="/wiki/Nodal_precession" title="Nodal precession">
+        also precess
+       </a>
+       around the ecliptic, completing one revolution (called a
+       <i>
+        draconic
+       </i>
+       or
+       <i>
+        nodal period
+       </i>
+       ) in 18.612958 years (6,798.383 days). (Note that this is not the same length as a
+       <a href="/wiki/Saros_(astronomy)" title="Saros (astronomy)">
+        saros
+       </a>
+       .) The same cycle measured against an inertial frame of reference, such as
+       <a href="/wiki/International_Celestial_Reference_System" title="International Celestial Reference System">
+        ICRS
+       </a>
+       (relative to the
+       <a href="/wiki/Fixed_stars" title="Fixed stars">
+        fixed stars
+       </a>
+       ), is 18.599525 years.
+      </p>
+      <p>
+       The two solar eclipses of July 2000 (on the
+       <a href="/wiki/Solar_eclipse_of_July_1,_2000" title="Solar eclipse of July 1, 2000">
+        1st
+       </a>
+       and
+       <a href="/wiki/Solar_eclipse_of_July_31,_2000" title="Solar eclipse of July 31, 2000">
+        31st
+       </a>
+       days) occurred around the time when the Moon was at its ascending node. Ascending-node eclipses recur after one
+       <a class="mw-redirect" href="/wiki/Draconic_year" title="Draconic year">
+        draconic year
+       </a>
+       on average, which is about 0.94901
+       <a class="mw-redirect" href="/wiki/Gregorian_year" title="Gregorian year">
+        Gregorian year
+       </a>
+       , and the same goes for descending-node eclipses.
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Names_and_symbols">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Names and symbols
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#Declination_extremes">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Declination extremes
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-3">
+         <a href="#Effect_on_tides">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           Effect on tides
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-4">
+         <a href="#See_also">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-5">
+         <a href="#References">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-6">
+         <a href="#External_links">
+          <span class="tocnumber">
+           6
+          </span>
+          <span class="toctext">
+           External links
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Names_and_symbols">
+        Names and symbols
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Lunar_node&amp;action=edit&amp;section=1" title="Edit section: Names and symbols">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:152px;">
+        <a class="image" href="/wiki/File:Astronomicum_Caesareum.jpg">
+         <img alt="Astronomicum Caesareum.jpg" class="thumbimage" data-file-height="883" data-file-width="574" height="231" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Astronomicum_Caesareum.jpg/150px-Astronomicum_Caesareum.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Astronomicum_Caesareum.jpg/225px-Astronomicum_Caesareum.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Astronomicum_Caesareum.jpg/300px-Astronomicum_Caesareum.jpg 2x" width="150"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Astronomicum_Caesareum.jpg" title="Enlarge">
+          </a>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="tright" style="clear:none">
+       <div class="thumb tright">
+        <div class="thumbinner" style="width:152px;">
+         <a class="image" href="/wiki/File:Astronomicum_Caesareum_(1540).f18.jpg">
+          <img alt="" class="thumbimage" data-file-height="1536" data-file-width="1024" height="225" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Astronomicum_Caesareum_%281540%29.f18.jpg/150px-Astronomicum_Caesareum_%281540%29.f18.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Astronomicum_Caesareum_%281540%29.f18.jpg/225px-Astronomicum_Caesareum_%281540%29.f18.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/63/Astronomicum_Caesareum_%281540%29.f18.jpg/300px-Astronomicum_Caesareum_%281540%29.f18.jpg 2x" width="150"/>
+         </a>
+         <div class="thumbcaption">
+          <div class="magnify">
+           <a class="internal" href="/wiki/File:Astronomicum_Caesareum_(1540).f18.jpg" title="Enlarge">
+           </a>
+          </div>
+          the dragon in
+          <a href="/wiki/Petrus_Apianus" title="Petrus Apianus">
+           Peter Apian
+          </a>
+          's
+          <i>
+           Astronomicum Caesareum
+          </i>
+          , 1540.
+         </div>
+        </div>
+       </div>
+      </div>
+      <p>
+       The nodes are called by different names in different areas of the world.
+      </p>
+      <p>
+       In ancient European texts, the ascending node is referred to as the
+       <b>
+        dragon's head
+       </b>
+       (
+       <i>
+        Caput Draconis
+       </i>
+       , or
+       <i>
+        Anabibazon
+       </i>
+       ). Its symbol is
+       <a class="image" href="/wiki/File:U%2B260A.svg">
+        <img alt="U+260A.svg" data-file-height="180" data-file-width="180" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/U%2B260A.svg/16px-U%2B260A.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/U%2B260A.svg/24px-U%2B260A.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8e/U%2B260A.svg/32px-U%2B260A.svg.png 2x" width="16"/>
+       </a>
+       , the
+       <a href="/wiki/Astronomy" title="Astronomy">
+        astronomical
+       </a>
+       and
+       <a href="/wiki/Astrology" title="Astrology">
+        astrological
+       </a>
+       symbol for the
+       <a class="mw-redirect" href="/wiki/Dragon_(mythology)" title="Dragon (mythology)">
+        dragon
+       </a>
+       's head. By the same analogy, the descending node is also known as the
+       <b>
+        dragon's tail
+       </b>
+       (
+       <i>
+        Cauda Draconis
+       </i>
+       , or
+       <i>
+        Catabibazon
+       </i>
+       ), and its symbol is the inversion of that of the ascending node:
+       <a class="image" href="/wiki/File:U%2B260B.svg">
+        <img alt="U+260B.svg" data-file-height="180" data-file-width="180" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/U%2B260B.svg/16px-U%2B260B.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/U%2B260B.svg/24px-U%2B260B.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/U%2B260B.svg/32px-U%2B260B.svg.png 2x" width="16"/>
+       </a>
+       .
+      </p>
+      <p>
+       In
+       <a class="mw-redirect" href="/wiki/Hindu_astronomy" title="Hindu astronomy">
+        Hindu astronomy
+       </a>
+       , the ascending node ☊ is called
+       <i>
+        <a href="/wiki/Rahu" title="Rahu">
+         Rahu
+        </a>
+       </i>
+       and the descending node ☋ is called
+       <i>
+        <a href="/wiki/Ketu_(mythology)" title="Ketu (mythology)">
+         Ketu
+        </a>
+       </i>
+       . In
+       <a class="mw-redirect" href="/wiki/Tibetan_Astrology" title="Tibetan Astrology">
+        Tibetan Astrology
+       </a>
+       (partially based on the
+       <a href="/wiki/Kalachakra#Astrology" title="Kalachakra">
+        Kalachakra Tantra
+       </a>
+       ) the descending node is named Kalagni.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Declination_extremes">
+        Declination extremes
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Lunar_node&amp;action=edit&amp;section=2" title="Edit section: Declination extremes">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="hatnote navigation-not-searchable" role="note">
+       See also:
+       <a href="/wiki/Lunar_standstill" title="Lunar standstill">
+        Lunar standstill
+       </a>
+      </div>
+      <p>
+       The Moon's orbit is inclined about 5.14° to the
+       <a href="/wiki/Ecliptic" title="Ecliptic">
+        ecliptic
+       </a>
+       ; hence, the Moon can be up to about 5° north or south of the ecliptic. The ecliptic is inclined about 23.44° to the
+       <a href="/wiki/Celestial_equator" title="Celestial equator">
+        celestial equator
+       </a>
+       , whose plane is
+       <a href="/wiki/Perpendicular" title="Perpendicular">
+        perpendicular
+       </a>
+       to the rotational axis of Earth. As a result, once during the 18.6-year nodal period (when the ascending node of the Moon's orbit coincides with the
+       <a class="mw-redirect" href="/wiki/Vernal_equinox" title="Vernal equinox">
+        vernal equinox
+       </a>
+       ), the Moon's
+       <a href="/wiki/Declination" title="Declination">
+        declination
+       </a>
+       reaches a maximum and minimum (northern and southern extremes): about 28.6° from the celestial equator. Therefore, the moonrise or moonset
+       <a href="/wiki/Azimuth" title="Azimuth">
+        azimuth
+       </a>
+       has its northern- and southern-most points on the horizon; the Moon at
+       <a href="/wiki/Culmination" title="Culmination">
+        culmination
+       </a>
+       has its lowest and highest
+       <a href="/wiki/Altitude" title="Altitude">
+        altitude
+       </a>
+       (when the body transits the
+       <a href="/wiki/Meridian_(astronomy)" title="Meridian (astronomy)">
+        meridian
+       </a>
+       ); and first sightings of the
+       <a href="/wiki/New_moon" title="New moon">
+        new moon
+       </a>
+       potentially have their latest times. Furthermore,
+       <a href="/wiki/Occultation" title="Occultation">
+        occultations
+       </a>
+       by the Moon of the
+       <a href="/wiki/Pleiades" title="Pleiades">
+        Pleiades
+       </a>
+       star cluster, which is over 4° north of the ecliptic, occur during a comparatively brief period once every nodal period.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Effect_on_tides">
+        Effect on tides
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Lunar_node&amp;action=edit&amp;section=3" title="Edit section: Effect on tides">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       The
+       <a href="/wiki/Lunar_precession" title="Lunar precession">
+        precession
+       </a>
+       of the lunar nodes has a small effect on Earth's
+       <a href="/wiki/Tide" title="Tide">
+        tides
+       </a>
+       . The U.S.
+       <a href="/wiki/National_Oceanic_and_Atmospheric_Administration" title="National Oceanic and Atmospheric Administration">
+        National Oceanic and Atmospheric Administration
+       </a>
+       (NOAA) determines mean lower low water (
+       <a class="mw-redirect" href="/wiki/MLLW" title="MLLW">
+        MLLW
+       </a>
+       ) at a location by averaging the height of the lowest tide recorded at that location each day during a 19-year recording period, known as the National Tidal Datum Epoch.
+       <sup class="reference" id="cite_ref-1">
+        <a href="#cite_note-1">
+         [1]
+        </a>
+       </sup>
+       The 19-year recording period is the nearest full-year count to the 18.6-year cycle of the lunar nodes.
+       <sup class="reference" id="cite_ref-2">
+        <a href="#cite_note-2">
+         [2]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Lunar_node&amp;action=edit&amp;section=4" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a href="/wiki/Astrology" title="Astrology">
+         Astrology
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Eclipse" title="Eclipse">
+         Eclipse
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Horoscope" title="Horoscope">
+         Horoscope
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Lunar_standstill" title="Lunar standstill">
+         Lunar standstill
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Orbit_of_the_Moon" title="Orbit of the Moon">
+         Orbit of the Moon
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Natal_chart" title="Natal chart">
+         Natal chart
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Lunar_node&amp;action=edit&amp;section=5" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="mw-references-wrap">
+       <ol class="references">
+        <li id="cite_note-1">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-1">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           <a class="external text" href="http://tidesandcurrents.noaa.gov/datum_options.html" rel="nofollow">
+            "Tidal Datums"
+           </a>
+           .
+           <i>
+            Tides and Currents
+           </i>
+           .
+           <a class="mw-redirect" href="/wiki/NOAA" title="NOAA">
+            NOAA
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Tides+and+Currents&amp;rft.atitle=Tidal+Datums&amp;rft_id=http%3A%2F%2Ftidesandcurrents.noaa.gov%2Fdatum_options.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+node">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-2">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-2">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           <a class="external text" href="https://tidesandcurrents.noaa.gov/publications/tidal_datums_and_their_applications.pdf" rel="nofollow">
+            "Tidal Datums and Their Applications"
+           </a>
+           <span style="font-size:85%;">
+            (PDF)
+           </span>
+           .
+           <i>
+            Tides and Currents
+           </i>
+           .
+           <a class="mw-redirect" href="/wiki/Silver_Spring,_MD" title="Silver Spring, MD">
+            Silver Spring, MD
+           </a>
+           :
+           <a class="mw-redirect" href="/wiki/NOAA" title="NOAA">
+            NOAA
+           </a>
+           (Special Publication NOS CO-OPS 1). June 2000.
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Tides+and+Currents&amp;rft.atitle=Tidal+Datums+and+Their+Applications&amp;rft.date=2000-06&amp;rft_id=https%3A%2F%2Ftidesandcurrents.noaa.gov%2Fpublications%2Ftidal_datums_and_their_applications.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+node">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+       </ol>
+      </div>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Lunar_node&amp;action=edit&amp;section=6" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a class="external text" href="http://www.jgiesen.de/sunmoonpolar/" rel="nofollow">
+         Sun and Moon Polar Applet
+        </a>
+        , showing moonrise/moonset azimuths
+       </li>
+       <li>
+        <a class="external text" href="https://web.archive.org/web/20110614150005/http://www.astro.uu.nl/~strous/AA/en/antwoorden/hemel.html#v320" rel="nofollow">
+         Astronomy Answers
+        </a>
+        : What are the standstills of the Moon? Retrieved 2016-08-26.
+       </li>
+       <li>
+        <a class="external text" href="http://www.jqjacobs.net/astro/eclipse.html" rel="nofollow">
+         Eclipses, Cosmic Clockwork of the Ancients
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://www.iol.ie/~geniet/eng/moonfluct.htm" rel="nofollow">
+         Lunar and solar periods
+        </a>
+        , about inertial frame of reference for measuring movements of celestial bodies.
+       </li>
+       <li>
+        <a class="external text" href="http://www.iol.ie/~geniet/eng/moonfluct.htm" rel="nofollow">
+         Mean lunar and solar periods
+        </a>
+       </li>
+      </ul>
+      <!-- 
+NewPP limit report
+Parsed by mw1261
+Cached time: 20180322125000
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.120 seconds
+Real time usage: 0.166 seconds
+Preprocessor visited node count: 300/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 6805/2097152 bytes
+Template argument size: 97/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1869/5000000 bytes
+Lua time usage: 0.060/10.000 seconds
+Lua memory usage: 3.05 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  132.011      1 -total
+ 41.52%   54.817      1 Template:More_footnotes
+ 27.91%   36.843      2 Template:Cite_web
+ 26.43%   34.889      1 Template:Ambox
+ 22.86%   30.172      1 Template:Convert
+  6.17%    8.148      1 Template:See_also
+  2.86%    3.772      2 Template:Yesno-no
+  1.84%    2.434      2 Template:Yesno
+  1.31%    1.730      1 Template:Main_other
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:226305-0!canonical and timestamp 20180322125000 and revision id 822705575
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Lunar_node&amp;oldid=822705575">
+      https://en.wikipedia.org/w/index.php?title=Lunar_node&amp;oldid=822705575
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Orbit_of_the_Moon" title="Category:Orbit of the Moon">
+         Orbit of the Moon
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Technical_factors_of_astrology" title="Category:Technical factors of astrology">
+         Technical factors of astrology
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Hindu_astrology" title="Category:Hindu astrology">
+         Hindu astrology
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Articles_lacking_in-text_citations_from_January_2018" title="Category:Articles lacking in-text citations from January 2018">
+         Articles lacking in-text citations from January 2018
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_lacking_in-text_citations" title="Category:All articles lacking in-text citations">
+         All articles lacking in-text citations
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Lunar+node" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Lunar+node" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Lunar_node" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Lunar_node" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Lunar_node">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Lunar_node&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Lunar_node&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Lunar_node" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Lunar_node" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Lunar_node&amp;oldid=822705575" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Lunar_node&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q937943" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Lunar_node&amp;id=822705575" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Lunar+node">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Lunar+node&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Lunar_node&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-af">
+        <a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Knoop_(sterrekunde)" hreflang="af" lang="af" title="Knoop (sterrekunde) – Afrikaans">
+         Afrikaans
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Nodes_de_la_Lluna" hreflang="ca" lang="ca" title="Nodes de la Lluna – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Lun%C3%A1rn%C3%AD_uzel" hreflang="cs" lang="cs" title="Lunární uzel – Czech">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Mondknoten" hreflang="de" lang="de" title="Mondknoten – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Nodos_de_la_Luna" hreflang="es" lang="es" title="Nodos de la Luna – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/N%C5%93ud_lunaire" hreflang="fr" lang="fr" title="Nœud lunaire – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EB%8B%AC%EC%9D%98_%EA%B5%90%EC%A0%90" hreflang="ko" lang="ko" title="달의 교점 – Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hr">
+        <a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Mjese%C4%8Devi_%C4%8Dvorovi" hreflang="hr" lang="hr" title="Mjesečevi čvorovi – Croatian">
+         Hrvatski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lb">
+        <a class="interlanguage-link-target" href="https://lb.wikipedia.org/wiki/Moundknuet" hreflang="lb" lang="lb" title="Moundknuet – Luxembourgish">
+         Lëtzebuergesch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hu">
+        <a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Holdcsom%C3%B3pontok" hreflang="hu" lang="hu" title="Holdcsomópontok – Hungarian">
+         Magyar
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ml">
+        <a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%B0%E0%B4%BE%E0%B4%B9%E0%B5%81%E0%B4%B5%E0%B5%81%E0%B4%82_%E0%B4%95%E0%B5%87%E0%B4%A4%E0%B5%81%E0%B4%B5%E0%B5%81%E0%B4%82" hreflang="ml" lang="ml" title="രാഹുവും കേതുവും – Malayalam">
+         മലയാളം
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E6%9C%88%E3%81%AE%E4%BA%A4%E7%82%B9" hreflang="ja" lang="ja" title="月の交点 – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/M%C3%A5neknute" hreflang="no" lang="no" title="Måneknute – Norwegian">
+         Norsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/W%C4%99ze%C5%82_ksi%C4%99%C5%BCycowy" hreflang="pl" lang="pl" title="Węzeł księżycowy – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Nodo_lunar" hreflang="pt" lang="pt" title="Nodo lunar – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ro">
+        <a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Nod_lunar" hreflang="ro" lang="ro" title="Nod lunar – Romanian">
+         Română
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A3%D0%B7%D0%BB%D1%8B_%D0%9B%D1%83%D0%BD%D1%8B" hreflang="ru" lang="ru" title="Узлы Луны – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sr">
+        <a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%9C%D0%B5%D1%81%D0%B5%D1%87%D0%B5%D0%B2%D0%B8_%D1%87%D0%B2%D0%BE%D1%80%D0%BE%D0%B2%D0%B8" hreflang="sr" lang="sr" title="Месечеви чворови – Serbian">
+         Српски / srpski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sh">
+        <a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Mjese%C4%8Devi_%C4%8Dvorovi" hreflang="sh" lang="sh" title="Mjesečevi čvorovi – Serbo-Croatian">
+         Srpskohrvatski / српскохрватски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vi">
+        <a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Giao_%C4%91i%E1%BB%83m_M%E1%BA%B7t_Tr%C4%83ng" hreflang="vi" lang="vi" title="Giao điểm Mặt Trăng – Vietnamese">
+         Tiếng Việt
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-wuu">
+        <a class="interlanguage-link-target" href="https://wuu.wikipedia.org/wiki/%E6%9C%88%E7%90%83%E4%BA%A4%E9%BB%9E" hreflang="wuu" lang="wuu" title="月球交點 – Wu Chinese">
+         吴语
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh-yue">
+        <a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E6%9C%88%E7%90%83%E4%BA%A4%E9%BB%9E" hreflang="zh-yue" lang="zh-yue" title="月球交點 – Cantonese">
+         粵語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E6%9C%88%E7%90%83%E4%BA%A4%E9%BB%9E" hreflang="zh" lang="zh" title="月球交點 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q937943#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 28 January 2018, at 00:53.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Lunar_node&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.120","walltime":"0.166","ppvisitednodes":{"value":300,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":6805,"limit":2097152},"templateargumentsize":{"value":97,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1869,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  132.011      1 -total"," 41.52%   54.817      1 Template:More_footnotes"," 27.91%   36.843      2 Template:Cite_web"," 26.43%   34.889      1 Template:Ambox"," 22.86%   30.172      1 Template:Convert","  6.17%    8.148      1 Template:See_also","  2.86%    3.772      2 Template:Yesno-no","  1.84%    2.434      2 Template:Yesno","  1.31%    1.730      1 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.060","limit":"10.000"},"limitreport-memusage":{"value":3200616,"limit":52428800}},"cachereport":{"origin":"mw1261","timestamp":"20180322125000","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":105,"wgHostname":"mw1332"});});
+  </script>
+ </body>
+</html>

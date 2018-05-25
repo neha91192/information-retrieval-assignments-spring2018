@@ -1,0 +1,2223 @@
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Solar telescope - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Solar_telescope","wgTitle":"Solar telescope","wgCurRevisionId":822279450,"wgRevisionId":822279450,"wgArticleId":4713880,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Solar telescopes","Astronomical instruments","Sun"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Solar_telescope","wgRelevantArticleId":4713880,"wgRequestId":"WrQ-kwpAADgAABIuNH4AAABC","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q1238291","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.26" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/d/d0/Swedish_Solar_Telescope.jpg" property="og:image"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Solar_telescope" rel="alternate"/>
+  <link href="/w/index.php?title=Solar_telescope&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Solar_telescope&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Solar_telescope" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Solar_telescope rootpage-Solar_telescope skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Solar telescope
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:177px;">
+        <a class="image" href="/wiki/File:Swedish_Solar_Telescope.jpg">
+         <img alt="" class="thumbimage" data-file-height="1024" data-file-width="685" height="262" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Swedish_Solar_Telescope.jpg/175px-Swedish_Solar_Telescope.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Swedish_Solar_Telescope.jpg/263px-Swedish_Solar_Telescope.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Swedish_Solar_Telescope.jpg/350px-Swedish_Solar_Telescope.jpg 2x" width="175"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Swedish_Solar_Telescope.jpg" title="Enlarge">
+          </a>
+         </div>
+         The
+         <a href="/wiki/Swedish_Solar_Telescope" title="Swedish Solar Telescope">
+          Swedish 1-m Solar Telescope
+         </a>
+         at
+         <a href="/wiki/Roque_de_los_Muchachos_Observatory" title="Roque de los Muchachos Observatory">
+          Roque de los Muchachos Observatory
+         </a>
+         ,
+         <a href="/wiki/La_Palma" title="La Palma">
+          La Palma
+         </a>
+         in the
+         <a href="/wiki/Canary_Islands" title="Canary Islands">
+          Canary Islands
+         </a>
+         .
+        </div>
+       </div>
+      </div>
+      <p>
+       A
+       <b>
+        solar telescope
+       </b>
+       is a special purpose
+       <a href="/wiki/Telescope" title="Telescope">
+        telescope
+       </a>
+       used to observe the
+       <a href="/wiki/Sun" title="Sun">
+        Sun
+       </a>
+       . Solar telescopes usually detect light with wavelengths in, or not far outside, the
+       <a href="/wiki/Visible_spectrum" title="Visible spectrum">
+        visible spectrum
+       </a>
+       . Obsolete names for sun telescopes include
+       <b>
+        heliograph
+       </b>
+       and
+       <b>
+        photoheliograph
+       </b>
+       .
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Professional_solar_telescopes">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Professional solar telescopes
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-2">
+           <a href="#Selected_solar_telescopes">
+            <span class="tocnumber">
+             1.1
+            </span>
+            <span class="toctext">
+             Selected solar telescopes
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-3">
+         <a href="#Other_types_of_observation">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Other types of observation
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-4">
+         <a href="#Amateur_solar_telescopes">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           Amateur solar telescopes
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-5">
+         <a href="#See_also">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-6">
+         <a href="#References">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-7">
+         <a href="#External_links">
+          <span class="tocnumber">
+           6
+          </span>
+          <span class="toctext">
+           External links
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Professional_solar_telescopes">
+        Professional solar telescopes
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Solar_telescope&amp;action=edit&amp;section=1" title="Edit section: Professional solar telescopes">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Solar telescopes need optics large enough to achieve the best possible
+       <a href="/wiki/Diffraction#Diffraction_limit_of_telescopes" title="Diffraction">
+        diffraction limit
+       </a>
+       but less so for the associated light-collecting power of other astronomical telescopes. However, recently newer narrower
+       <a href="/wiki/Optical_filter" title="Optical filter">
+        filters
+       </a>
+       and higher framerates have also driven solar telescopes towards photon-starved operations.
+       <sup class="reference" id="cite_ref-1">
+        <a href="#cite_note-1">
+         [1]
+        </a>
+       </sup>
+       Both the
+       <a href="/wiki/European_Solar_Telescope" title="European Solar Telescope">
+        European Solar Telescope (EST)
+       </a>
+       as well as the
+       <a class="mw-redirect" href="/wiki/Advanced_Technology_Solar_Telescope" title="Advanced Technology Solar Telescope">
+        Advanced Technology Solar Telescope (ATST)
+       </a>
+       have larger apertures not only to increase the resolution, but also to increase the light-collecting power.
+      </p>
+      <p>
+       Because solar telescopes operate during the day, seeing is generally worse than for night-time telescopes, because the ground around the telescope is heated which causes
+       <a href="/wiki/Turbulence" title="Turbulence">
+        turbulence
+       </a>
+       and degrades the resolution. To alleviate this, solar telescopes are usually built on towers and the structures are painted white. The
+       <a href="/wiki/Dutch_Open_Telescope" title="Dutch Open Telescope">
+        Dutch Open Telescope
+       </a>
+       is built on an open framework to allow the wind to pass through the complete structure and provide cooling around the telescope's main mirror.
+      </p>
+      <p>
+       Another solar telescope-specific problem is the heat generated by the tightly-focused sunlight. For this reason, a
+       <a class="new" href="/w/index.php?title=Heat_stop&amp;action=edit&amp;redlink=1" title="Heat stop (page does not exist)">
+        heat stop
+       </a>
+       is an integral part of the design of solar telescopes. For the upcoming
+       <a class="mw-redirect" href="/wiki/Advanced_Technology_Solar_Telescope" title="Advanced Technology Solar Telescope">
+        ATST
+       </a>
+       , the heat load is 2.5 MW/m
+       <sup>
+        2
+       </sup>
+       , with peak powers of 11.4 kW.
+       <sup class="reference" id="cite_ref-2">
+        <a href="#cite_note-2">
+         [2]
+        </a>
+       </sup>
+       The goal of such a heat stop is not only to survive this heat load, but also to remain cool enough not to induce any additional turbulence inside the telescope's dome.
+      </p>
+      <p>
+       Professional solar observatories may have main optical elements with very long
+       <a href="/wiki/Focal_length" title="Focal length">
+        focal lengths
+       </a>
+       (although not always,
+       <a href="/wiki/Dutch_Open_Telescope" title="Dutch Open Telescope">
+        Dutch Open Telescope
+       </a>
+       ) and light paths operating in a
+       <a href="/wiki/Vacuum" title="Vacuum">
+        vacuum
+       </a>
+       or
+       <a href="/wiki/Helium" title="Helium">
+        helium
+       </a>
+       to eliminate air motion due to
+       <a href="/wiki/Convection" title="Convection">
+        convection
+       </a>
+       inside the telescope. However, this is not possible for apertures over 1 meter, at which the pressure difference at the entrance window of the vacuum tube becomes too large. Therefore, the
+       <a href="/wiki/European_Solar_Telescope" title="European Solar Telescope">
+        EST
+       </a>
+       and
+       <a class="mw-redirect" href="/wiki/Advanced_Technology_Solar_Telescope" title="Advanced Technology Solar Telescope">
+        ATST
+       </a>
+       have active cooling of the dome to minimize the temperature difference between the air inside and outside the telescope.
+      </p>
+      <p>
+       Because the Sun travels on a narrow fixed path across the sky, some solar telescopes are fixed in position (and are sometimes buried underground), with the only moving part being a
+       <a href="/wiki/Heliostat" title="Heliostat">
+        heliostat
+       </a>
+       to track the Sun. One example of this is the
+       <a class="mw-redirect" href="/wiki/McMath-Pierce_Solar_Telescope" title="McMath-Pierce Solar Telescope">
+        McMath-Pierce Solar Telescope
+       </a>
+       .
+      </p>
+      <h3>
+       <span class="mw-headline" id="Selected_solar_telescopes">
+        Selected solar telescopes
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Solar_telescope&amp;action=edit&amp;section=2" title="Edit section: Selected solar telescopes">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <div class="hatnote navigation-not-searchable" role="note">
+       See also:
+       <a href="/wiki/List_of_solar_telescopes" title="List of solar telescopes">
+        List of solar telescopes
+       </a>
+      </div>
+      <ul>
+       <li>
+        The
+        <a href="/wiki/Einstein_Tower" title="Einstein Tower">
+         Einstein Tower
+        </a>
+        (
+        <i>
+         Einsteinturm
+        </i>
+        ) became operational in 1924
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/McMath-Pierce_Solar_Telescope" title="McMath-Pierce Solar Telescope">
+         McMath-Pierce Solar Telescope
+        </a>
+        (1.6 m diameter, 1961–)
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/McMath-Hulbert_Observatory" title="McMath-Hulbert Observatory">
+         McMath-Hulbert Observatory
+        </a>
+        (24"/61 cm diameter, 1941–1979)
+       </li>
+       <li>
+        <a href="/wiki/Swedish_Vacuum_Solar_Telescope" title="Swedish Vacuum Solar Telescope">
+         Swedish Vacuum Solar Telescope
+        </a>
+        (47.5 cm diameter, 1985–2000)
+       </li>
+       <li>
+        <a href="/wiki/Swedish_Solar_Telescope" title="Swedish Solar Telescope">
+         Swedish 1-m Solar Telescope
+        </a>
+        (1 m diameter, 2002–)
+       </li>
+       <li>
+        <a href="/wiki/Richard_B._Dunn_Solar_Telescope" title="Richard B. Dunn Solar Telescope">
+         Richard B. Dunn Solar Telescope
+        </a>
+        (1.63 m diameter, 1969–)
+       </li>
+       <li>
+        <a href="/wiki/Mount_Wilson_Observatory" title="Mount Wilson Observatory">
+         Mount Wilson Observatory
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Dutch_Open_Telescope" title="Dutch Open Telescope">
+         Dutch Open Telescope
+        </a>
+        (45 cm diameter, 1997–)
+       </li>
+       <li>
+        The
+        <a href="/wiki/Teide_Observatory" title="Teide Observatory">
+         Teide Observatory
+        </a>
+        hosts multiple solar telescopes, including
+        <ul>
+         <li>
+          the 70 cm
+          <a href="/wiki/Vacuum_Tower_Telescope" title="Vacuum Tower Telescope">
+           Vacuum Tower Telescope
+          </a>
+          (1989–) and
+         </li>
+         <li>
+          the 1.5 m
+          <a href="/wiki/GREGOR_Solar_Telescope" title="GREGOR Solar Telescope">
+           GREGOR Solar Telescope
+          </a>
+          (2012–,
+          <a class="external text" href="http://www.kis.uni-freiburg.de/index.php?id=223&amp;L=1" rel="nofollow">
+           webcam
+          </a>
+          ).
+         </li>
+        </ul>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Advanced_Technology_Solar_Telescope" title="Advanced Technology Solar Telescope">
+         Advanced Technology Solar Telescope
+        </a>
+        , a planned telescope with 4m aperture.
+        <a class="external autonumber" href="http://atst.nso.edu/" rel="nofollow">
+         [1]
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/European_Solar_Telescope" title="European Solar Telescope">
+         European Solar Telescope
+        </a>
+        , a future 4-meter class aperture telescope.
+       </li>
+       <li>
+        <a href="/wiki/National_Large_Solar_Telescope" title="National Large Solar Telescope">
+         National Large Solar Telescope
+        </a>
+        (NLST), is a Gregorian multi-purpose open telescope proposed to be built and Installed in India and aims to study the sun's microscopic structure.
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="Other_types_of_observation">
+        Other types of observation
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Solar_telescope&amp;action=edit&amp;section=3" title="Edit section: Other types of observation">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Most solar observatories observe optically at visible, UV, and near infrared wavelengths, but other solar phenomena can be observed — albeit not from the Earth's surface due to the
+       <a href="/wiki/Atmosphere_of_Earth#Absorption" title="Atmosphere of Earth">
+        absorption
+       </a>
+       of the atmosphere:
+      </p>
+      <ul>
+       <li>
+        Solar X-ray astronomy, observations of the Sun in x-rays
+       </li>
+       <li>
+        Multi-spectral solar telescope array (
+        <a href="/wiki/MSSTA" title="MSSTA">
+         MSSTA
+        </a>
+        ), a rocket launched payload of UV telescopes in the 1990s
+       </li>
+       <li>
+        <a href="/wiki/Leoncito_Astronomical_Complex" title="Leoncito Astronomical Complex">
+         Leoncito Astronomical Complex
+        </a>
+        operated a submillimeter wavelength solar telescope.
+       </li>
+       <li>
+        The
+        <a href="/wiki/Radio_Solar_Telescope_Network" title="Radio Solar Telescope Network">
+         Radio Solar Telescope Network
+        </a>
+        (RSTN) is a network of solar observatories maintained and operated by the U.S.
+        <a class="mw-redirect" href="/wiki/Air_Force_Weather_Agency" title="Air Force Weather Agency">
+         Air Force Weather Agency
+        </a>
+        .
+       </li>
+       <li>
+        <a href="/wiki/CERN_Axion_Solar_Telescope" title="CERN Axion Solar Telescope">
+         CERN Axion Solar Telescope
+        </a>
+        (CAST), looks for solar
+        <a class="mw-redirect" href="/wiki/Axions" title="Axions">
+         axions
+        </a>
+        in the early 2000s
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="Amateur_solar_telescopes">
+        Amateur solar telescopes
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Solar_telescope&amp;action=edit&amp;section=4" title="Edit section: Amateur solar telescopes">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:252px;">
+        <a class="image" href="/wiki/File:Solarborg.jpg">
+         <img alt="" class="thumbimage" data-file-height="390" data-file-width="512" height="190" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Solarborg.jpg/250px-Solarborg.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Solarborg.jpg/375px-Solarborg.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Solarborg.jpg/500px-Solarborg.jpg 2x" width="250"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Solarborg.jpg" title="Enlarge">
+          </a>
+         </div>
+         Example of amateur solar telescope equipped with a
+         <a href="/wiki/H-alpha#Filter" title="H-alpha">
+          hydrogen-alpha filter
+         </a>
+         system.
+        </div>
+       </div>
+      </div>
+      <p>
+       In the field of
+       <a href="/wiki/Amateur_astronomy" title="Amateur astronomy">
+        amateur astronomy
+       </a>
+       there are many methods used to observe the sun. Amateurs use everything from simple systems to project the sun on a piece of white paper, light blocking
+       <a href="/wiki/Astronomical_filter" title="Astronomical filter">
+        filters
+       </a>
+       ,
+       <a href="/wiki/Herschel_wedge" title="Herschel wedge">
+        Herschel wedges
+       </a>
+       which redirect 95% of the light away from the eyepiece,
+       <sup class="reference" id="cite_ref-3">
+        <a href="#cite_note-3">
+         [3]
+        </a>
+       </sup>
+       up to
+       <a href="/wiki/H-alpha#Filter" title="H-alpha">
+        hydrogen-alpha filter
+       </a>
+       systems and even home built
+       <a href="/wiki/Spectrohelioscope" title="Spectrohelioscope">
+        spectrohelioscopes
+       </a>
+       . In contrast to professional telescopes, amateur solar telescopes are usually much smaller.
+      </p>
+      <div class="thumb tleft">
+       <div class="thumbinner" style="width:402px;">
+        <a class="image" href="/wiki/File:SolarEyepieces.png">
+         <img alt="" class="thumbimage" data-file-height="325" data-file-width="654" height="199" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/SolarEyepieces.png/400px-SolarEyepieces.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/SolarEyepieces.png/600px-SolarEyepieces.png 1.5x, //upload.wikimedia.org/wikipedia/commons/b/b4/SolarEyepieces.png 2x" width="400"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:SolarEyepieces.png" title="Enlarge">
+          </a>
+         </div>
+         Diagram of a
+         <i>
+          Herschel Wedge
+         </i>
+         and other solar viewing methods.
+        </div>
+       </div>
+      </div>
+      <div style="clear:both;">
+      </div>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Solar_telescope&amp;action=edit&amp;section=5" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a href="/wiki/List_of_solar_telescopes" title="List of solar telescopes">
+         List of solar telescopes
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/List_of_telescope_types" title="List of telescope types">
+         List of telescope types
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Heliostat" title="Heliostat">
+         Heliostat
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Solar_telescope&amp;action=edit&amp;section=6" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist" style="list-style-type: decimal;">
+       <div class="mw-references-wrap">
+        <ol class="references">
+         <li id="cite_note-1">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-1">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Stenflo, J. O. (2001). G. Mathys; S. K. Solanki; D. T. Wickramasinghe, eds.
+            <a class="external text" href="http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2001ASPC..248..639S&amp;link_type=ARTICLE&amp;db_key=AST&amp;high=" rel="nofollow">
+             "Limitations and Opportunities for the Diagnostics of Solar and Stellar Magnetic Fields"
+            </a>
+            .
+            <i>
+             ASP Conference Proceedings
+            </i>
+            . Magnetic Fields Across the Hertzsprung-Russell Diagram. San Francisco:
+            <a href="/wiki/Astronomical_Society_of_the_Pacific" title="Astronomical Society of the Pacific">
+             Astronomical Society of the Pacific
+            </a>
+            .
+            <b>
+             248
+            </b>
+            : 639.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/2001ASPC..248..639S" rel="nofollow">
+             2001ASPC..248..639S
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=ASP+Conference+Proceedings&amp;rft.atitle=Limitations+and+Opportunities+for+the+Diagnostics+of+Solar+and+Stellar+Magnetic+Fields&amp;rft.volume=248&amp;rft.pages=639&amp;rft.date=2001&amp;rft_id=info%3Abibcode%2F2001ASPC..248..639S&amp;rft.aulast=Stenflo&amp;rft.aufirst=J.+O.&amp;rft_id=http%3A%2F%2Fadsabs.harvard.edu%2Fcgi-bin%2Fnph-data_query%3Fbibcode%3D2001ASPC..248..639S%26link_type%3DARTICLE%26db_key%3DAST%26high%3D&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+telescope">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-2">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-2">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Dalrymple (1 April 2003).
+            <a class="external text" href="http://atst.nso.edu/files/docs/TN-0018.pdf" rel="nofollow">
+             "Heat Stop Concepts"
+            </a>
+            <span style="font-size:85%;">
+             (PDF)
+            </span>
+            . ATST Technical Notes.
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Heat+Stop+Concepts&amp;rft.date=2003-04-01&amp;rft.au=Dalrymple&amp;rft_id=http%3A%2F%2Fatst.nso.edu%2Ffiles%2Fdocs%2FTN-0018.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+telescope">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-3">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-3">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <a class="external text" href="https://books.google.com/books?id=1F_zSwe9iU4C&amp;pg=PA37&amp;dq=herschel+wedge&amp;hl=en&amp;ei=e8YZTsONFYrY0QHZ8dCWBQ&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=1&amp;ved=0CC0Q6AEwAA#v=onepage&amp;q=herschel%20wedge&amp;f=false," rel="nofollow">
+            Pierre Guillermier, Serge Koutchmy, Total eclipses: science, observations, myths, and legends, page 37
+           </a>
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Solar_telescope&amp;action=edit&amp;section=7" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+       <tr>
+        <td class="mbox-image">
+         <img alt="" class="noviewer" data-file-height="391" data-file-width="391" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" width="40"/>
+        </td>
+        <td class="mbox-text plainlist">
+         Look up
+         <i>
+          <b>
+           <a class="extiw" href="https://en.wiktionary.org/wiki/Special:Search/solar_telescope" title="wiktionary:Special:Search/solar telescope">
+            solar telescope
+           </a>
+          </b>
+         </i>
+         in Wiktionary, the free dictionary.
+        </td>
+       </tr>
+      </table>
+      <ul>
+       <li>
+        <a class="external text" href="http://www.scholarpedia.org/article/Solar_telescopes" rel="nofollow">
+         <i>
+          Solar telescopes
+         </i>
+        </a>
+        , Wolfgang Schmidt,
+        <a href="/wiki/Scholarpedia" title="Scholarpedia">
+         Scholarpedia
+        </a>
+        ,3(4):4333.
+        <a class="extiw" href="//doi.org/10.4249/scholarpedia.4333" title="doi:10.4249/scholarpedia.4333">
+         doi:10.4249/scholarpedia.4333
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="https://www.youtube.com/watch?v=pxmDK4AbJs4" rel="nofollow">
+         CSIRO Solar Heliograph
+        </a>
+        <a class="external text" href="https://www.youtube.com/watch?v=_8b6P7qQn5Q" rel="nofollow">
+         part 2
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://osastrolog.blogspot.com/search/label/sun" rel="nofollow">
+         Solar Gallery of an amateur astronomer
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="https://web.archive.org/web/20070430210136/http://gallery.hkas.org.hk/thumbnails.php?album=9" rel="nofollow">
+         Solar Gallery of the Hong Kong Astronomical Society
+        </a>
+       </li>
+       <li>
+        <cite class="citation web">
+         Lawrence, Pete.
+         <a class="external text" href="http://www.deepskyvideos.com/videos/other/solar_observing_one.html" rel="nofollow">
+          "Solar Observing (Part I)"
+         </a>
+         .
+         <i>
+          Deep Sky Videos
+         </i>
+         .
+         <a href="/wiki/Brady_Haran" title="Brady Haran">
+          Brady Haran
+         </a>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Deep+Sky+Videos&amp;rft.atitle=Solar+Observing+%28Part+I%29&amp;rft.aulast=Lawrence&amp;rft.aufirst=Pete&amp;rft_id=http%3A%2F%2Fwww.deepskyvideos.com%2Fvideos%2Fother%2Fsolar_observing_one.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+telescope">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+      </ul>
+      <div aria-labelledby="Solar_space_missions" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="3" scope="col">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:Sun_spacecraft" title="Template:Sun spacecraft">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a href="/wiki/Template_talk:Sun_spacecraft" title="Template talk:Sun spacecraft">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Sun_spacecraft&amp;action=edit">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="Solar_space_missions" style="font-size:114%;margin:0 4em">
+           <a href="/wiki/Sun" title="Sun">
+            Solar
+           </a>
+           <a href="/wiki/Category:Missions_to_the_Sun" title="Category:Missions to the Sun">
+            space missions
+           </a>
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Current
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Advanced_Composition_Explorer" title="Advanced Composition Explorer">
+              ACE
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Deep_Space_Climate_Observatory" title="Deep Space Climate Observatory">
+              DSCOVR
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/WIND_(spacecraft)" title="WIND (spacecraft)">
+              GGS
+              <i>
+               WIND
+              </i>
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Hinode" title="Hinode">
+              Hinode (Solar-B)
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Interface_Region_Imaging_Spectrograph" title="Interface Region Imaging Spectrograph">
+              IRIS
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Miniature_X-ray_Solar_Spectrometer_CubeSat" title="Miniature X-ray Solar Spectrometer CubeSat">
+              MinXSS
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Picard_(satellite)" title="Picard (satellite)">
+              PICARD
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Reuven_Ramaty_High_Energy_Solar_Spectroscopic_Imager" title="Reuven Ramaty High Energy Solar Spectroscopic Imager">
+              RHESSI
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_and_Heliospheric_Observatory" title="Solar and Heliospheric Observatory">
+              SOHO
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_Dynamics_Observatory" title="Solar Dynamics Observatory">
+              SDO
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/SOLAR_(ISS)" title="SOLAR (ISS)">
+              SOLAR
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/STEREO" title="STEREO">
+              STEREO
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+         <td class="navbox-image" rowspan="6" style="width:1px;padding:0px 0px 0px 2px">
+          <div>
+           <a class="image" href="/wiki/File:Skylab_Solar_flare.jpg">
+            <img alt="Skylab Solar flare.jpg" data-file-height="2361" data-file-width="3000" height="79" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/Skylab_Solar_flare.jpg/100px-Skylab_Solar_flare.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/Skylab_Solar_flare.jpg/150px-Skylab_Solar_flare.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/Skylab_Solar_flare.jpg/200px-Skylab_Solar_flare.jpg 2x" width="100"/>
+           </a>
+           <br/>
+           <a class="image" href="/wiki/File:Sun_-_August_1,_2010.jpg">
+            <img alt="Sun - August 1, 2010.jpg" data-file-height="3647" data-file-width="4095" height="89" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sun_-_August_1%2C_2010.jpg/100px-Sun_-_August_1%2C_2010.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sun_-_August_1%2C_2010.jpg/150px-Sun_-_August_1%2C_2010.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sun_-_August_1%2C_2010.jpg/200px-Sun_-_August_1%2C_2010.jpg 2x" width="100"/>
+           </a>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Past
+         </th>
+         <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Apollo_Telescope_Mount" title="Apollo Telescope Mount">
+              Apollo Telescope Mount
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/ESRO_2B" title="ESRO 2B">
+              ESRO 2B
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Genesis_(spacecraft)" title="Genesis (spacecraft)">
+              <i>
+               Genesis
+              </i>
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/GOES_13" title="GOES 13">
+              GOES 13
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Helios_(spacecraft)" title="Helios (spacecraft)">
+              <i>
+               Helios
+              </i>
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Hinotori_(satellite)" title="Hinotori (satellite)">
+              Hinotori (Astro-A)
+             </a>
+            </li>
+            <li>
+             IMP-8
+            </li>
+            <li>
+             <a class="new" href="/w/index.php?title=Intercosmos_26&amp;action=edit&amp;redlink=1" title="Intercosmos 26 (page does not exist)">
+              Intercosmos 26
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/International_Cometary_Explorer" title="International Cometary Explorer">
+              ISEE 1–3
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Koronas-Foton" title="Koronas-Foton">
+              Koronas-Foton
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Orbiting_Solar_Observatory" title="Orbiting Solar Observatory">
+              Orbiting Solar Observatory
+             </a>
+             <ul>
+              <li>
+               <a class="mw-redirect" href="/wiki/OSO_1" title="OSO 1">
+                OSO 1
+               </a>
+              </li>
+              <li>
+               <a class="mw-redirect" href="/wiki/OSO_2" title="OSO 2">
+                OSO 2
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/OSO_3" title="OSO 3">
+                OSO 3
+               </a>
+              </li>
+              <li>
+               <a class="mw-redirect" href="/wiki/OSO_4" title="OSO 4">
+                OSO 4
+               </a>
+              </li>
+              <li>
+               <a class="mw-redirect" href="/wiki/OSO_5" title="OSO 5">
+                OSO 5
+               </a>
+              </li>
+              <li>
+               <a class="mw-redirect" href="/wiki/OSO_6" title="OSO 6">
+                OSO 6
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/OSO_7" title="OSO 7">
+                OSO 7
+               </a>
+              </li>
+              <li>
+               <a class="mw-redirect" href="/wiki/OSO_8" title="OSO 8">
+                OSO 8
+               </a>
+              </li>
+              <li>
+               <a class="mw-redirect" href="/wiki/P78-1" title="P78-1">
+                Solwind
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <i>
+              <a href="/wiki/Pioneer_5" title="Pioneer 5">
+               Pioneer 5
+              </a>
+             </i>
+            </li>
+            <li>
+             <a href="/wiki/Pioneer_6,_7,_8,_and_9" title="Pioneer 6, 7, 8, and 9">
+              <i>
+               Pioneer 6
+              </i>
+              ,
+              <i>
+               7
+              </i>
+              , and
+              <i>
+               8
+              </i>
+             </a>
+            </li>
+            <li>
+             <a class="new" href="/w/index.php?title=Prognoz_6&amp;action=edit&amp;redlink=1" title="Prognoz 6 (page does not exist)">
+              Prognoz 6
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_Maximum_Mission" title="Solar Maximum Mission">
+              SolarMax
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/STS-87#SPARTAN-201" title="STS-87">
+              Spartan 201
+             </a>
+            </li>
+            <li>
+             <a class="new" href="/w/index.php?title=Taiyo_(satellite)&amp;action=edit&amp;redlink=1" title="Taiyo (satellite) (page does not exist)">
+              Taiyo (SRATS)
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/TRACE" title="TRACE">
+              TRACE
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Ulysses_(spacecraft)" title="Ulysses (spacecraft)">
+              <i>
+               Ulysses
+              </i>
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Yohkoh" title="Yohkoh">
+              Yohkoh (Solar-A)
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Planned
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Parker_Solar_Probe" title="Parker Solar Probe">
+              Parker Solar Probe
+             </a>
+             <span style="font-size:85%;">
+              (2018)
+             </span>
+            </li>
+            <li>
+             <a href="/wiki/Aditya-L1" title="Aditya-L1">
+              Aditya-L1
+             </a>
+             <span style="font-size:85%;">
+              (2019)
+             </span>
+            </li>
+            <li>
+             <a href="/wiki/Solar_Orbiter" title="Solar Orbiter">
+              Solar Orbiter
+             </a>
+             <span style="font-size:85%;">
+              (2019)
+             </span>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Proba-3" title="Proba-3">
+              Proba-3
+             </a>
+             <span style="font-size:85%;">
+              (2020)
+             </span>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Proposed
+         </th>
+         <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/ADAHELI" title="ADAHELI">
+              ADAHELI
+             </a>
+            </li>
+            <li>
+             <a class="new" href="/w/index.php?title=EUV/FUV_High_Throughput_Spectroscopic_Telescope&amp;action=edit&amp;redlink=1" title="EUV/FUV High Throughput Spectroscopic Telescope (page does not exist)">
+              EUVST
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Lagrange_(spacecraft)" title="Lagrange (spacecraft)">
+              <i>
+               Lagrange
+              </i>
+             </a>
+            </li>
+            <li>
+             <a class="new" href="/w/index.php?title=Solar-C&amp;action=edit&amp;redlink=1" title="Solar-C (page does not exist)">
+              Solar-C
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Cancelled
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Pioneer_H" title="Pioneer H">
+              Pioneer H
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Orbiting_Solar_Observatory" title="Orbiting Solar Observatory">
+              OSO J
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_Sentinels" title="Solar Sentinels">
+              Solar Sentinels
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Sun-Earth
+         </th>
+         <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Solar_Radiation_and_Climate_Experiment" title="Solar Radiation and Climate Experiment">
+              SORCE
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_X-ray_Imager" title="Solar X-ray Imager">
+              SXI
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/ACRIMSAT" title="ACRIMSAT">
+              ACRIMSAT
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <div aria-labelledby="The_Sun" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="3" scope="col" style="text-align: center;">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:The_Sun" title="Template:The Sun">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a href="/wiki/Template_talk:The_Sun" title="Template talk:The Sun">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:The_Sun&amp;action=edit">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="The_Sun" style="font-size:114%;margin:0 4em">
+           <a href="/wiki/Sun" title="Sun">
+            The Sun
+           </a>
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Standard_solar_model" title="Standard solar model">
+           Internal structure
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Solar_core" title="Solar core">
+              Core
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Radiation_zone" title="Radiation zone">
+              Radiation zone
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tachocline" title="Tachocline">
+              Tachocline
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Convection_zone" title="Convection zone">
+              Convection zone
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+         <td class="navbox-image" rowspan="5" style="width:1px;padding:0px 0px 0px 2px">
+          <div>
+           <div class="floatright">
+            <a class="image" href="/wiki/File:Sun_in_February.jpg">
+             <img alt="Sun in February.jpg" class="thumbborder" data-file-height="2632" data-file-width="2632" height="155" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Sun_in_February.jpg/155px-Sun_in_February.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Sun_in_February.jpg/233px-Sun_in_February.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Sun_in_February.jpg/310px-Sun_in_February.jpg 2x" width="155"/>
+            </a>
+           </div>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Stellar_atmosphere" title="Stellar atmosphere">
+           Atmosphere
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+          </div>
+          <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%;text-align: center;">
+             <a href="/wiki/Photosphere" title="Photosphere">
+              Photosphere
+             </a>
+            </th>
+            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Supergranulation" title="Supergranulation">
+                 Supergranulation
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Granule_(solar_physics)" title="Granule (solar physics)">
+                 Granule
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Facula" title="Facula">
+                 Faculae
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Sunspot" title="Sunspot">
+                 Sunspot
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%;text-align: center;">
+             <a href="/wiki/Chromosphere" title="Chromosphere">
+              Chromosphere
+             </a>
+            </th>
+            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Plage_(astronomy)" title="Plage (astronomy)">
+                 Plage
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Spicule_(solar_physics)" title="Spicule (solar physics)">
+                 Spicule
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Moreton_wave" title="Moreton wave">
+                 Moreton wave
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%;text-align: center;">
+             <a href="/wiki/Corona" title="Corona">
+              Corona
+             </a>
+            </th>
+            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Solar_transition_region" title="Solar transition region">
+                 Transition region
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Coronal_hole" title="Coronal hole">
+                 Coronal hole
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Coronal_loop" title="Coronal loop">
+                 Coronal loop
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Coronal_mass_ejection" title="Coronal mass ejection">
+                 Coronal mass ejection
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Solar_prominence" title="Solar prominence">
+                 Prominence
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Helmet_streamer" title="Helmet streamer">
+                 Helmet streamer
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Supra-arcade_downflows" title="Supra-arcade downflows">
+                 Supra-arcade downflows
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a class="mw-redirect" href="/wiki/Solar_variation" title="Solar variation">
+           Variation
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Solar_cycle" title="Solar cycle">
+              Solar cycle
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/List_of_solar_cycles" title="List of solar cycles">
+                List of solar cycles
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Solar_maximum" title="Solar maximum">
+              Solar maximum
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_minimum" title="Solar minimum">
+              Solar minimum
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Wolf_number" title="Wolf number">
+              Wolf number
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_wind" title="Solar wind">
+              Solar wind
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_flare" title="Solar flare">
+              Flare
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Helioseismology" title="Helioseismology">
+              Helioseismology
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Heliosphere" title="Heliosphere">
+           Heliosphere
+          </a>
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Heliospheric_current_sheet" title="Heliospheric current sheet">
+              Current sheet
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Heliosphere#Termination_shock" title="Heliosphere">
+              Termination shock
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Heliosphere#Heliosheath" title="Heliosphere">
+              Heliosheath
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Heliosphere#Heliopause" title="Heliosphere">
+              Heliopause
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Bow_shock" title="Bow shock">
+              Bow shock
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          Related topics
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Heliophysics" title="Heliophysics">
+              Heliophysics
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Solar_activity" title="Solar activity">
+              Solar activity
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Solar_astronomy" title="Solar astronomy">
+              Solar astronomy
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_dynamo" title="Solar dynamo">
+              Solar dynamo
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_eclipse" title="Solar eclipse">
+              Eclipse
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_energy" title="Solar energy">
+              Solar energy
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_neutrino" title="Solar neutrino">
+              Solar neutrino
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_observation" title="Solar observation">
+              Solar observation
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_phenomena" title="Solar phenomena">
+              Solar phenomena
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_physics" title="Solar physics">
+              Solar physics
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_System" title="Solar System">
+              Solar System
+             </a>
+            </li>
+            <li>
+             <a class="mw-selflink selflink">
+              Solar telescope
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_time" title="Solar time">
+              Solar time
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Space_weather" title="Space weather">
+              Space weather
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Standard_solar_model" title="Standard solar model">
+              Standard solar model
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Sunlight" title="Sunlight">
+              Radiation
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <td class="navbox-abovebelow" colspan="3" style="text-align: center;">
+          <div>
+           <ul>
+            <li>
+             <a href="/wiki/Stellar_classification" title="Stellar classification">
+              Spectral class
+             </a>
+             :
+             <a href="/wiki/G-type_main-sequence_star" title="G-type main-sequence star">
+              G2V
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1247
+Cached time: 20180322142208
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.112 seconds
+Real time usage: 0.149 seconds
+Preprocessor visited node count: 547/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 38698/2097152 bytes
+Template argument size: 252/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 3076/5000000 bytes
+Lua time usage: 0.039/10.000 seconds
+Lua memory usage: 2.5 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  100.264      1 -total
+ 43.32%   43.431      1 Template:Reflist
+ 33.26%   33.348      2 Template:Cite_journal
+ 18.60%   18.645      1 Template:See_also
+ 17.68%   17.730      3 Template:Navbox
+ 11.91%   11.946      1 Template:Sun_spacecraft
+ 10.81%   10.839      1 Template:Wiktionary
+  9.39%    9.411      1 Template:Sister_project
+  7.80%    7.825      1 Template:The_Sun
+  7.40%    7.420      1 Template:Side_box
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:4713880-0!canonical and timestamp 20180322142208 and revision id 822279450
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Solar_telescope&amp;oldid=822279450">
+      https://en.wikipedia.org/w/index.php?title=Solar_telescope&amp;oldid=822279450
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Solar_telescopes" title="Category:Solar telescopes">
+         Solar telescopes
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Astronomical_instruments" title="Category:Astronomical instruments">
+         Astronomical instruments
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Sun" title="Category:Sun">
+         Sun
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Solar+telescope" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Solar+telescope" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Solar_telescope" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Solar_telescope" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Solar_telescope">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Solar_telescope&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Solar_telescope&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Solar_telescope" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Solar_telescope" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Solar_telescope&amp;oldid=822279450" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Solar_telescope&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1238291" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Solar_telescope&amp;id=822279450" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Solar+telescope">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Solar+telescope&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Solar_telescope&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Category:Solar_telescopes" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%85%D8%B1%D8%B5%D8%AF_%D8%B4%D9%85%D8%B3%D9%8A" hreflang="ar" lang="ar" title="مرصد شمسي – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Telescopi_solar" hreflang="ca" lang="ca" title="Telescopi solar – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Sonnenteleskop" hreflang="de" lang="de" title="Sonnenteleskop – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Telescopio_solar" hreflang="es" lang="es" title="Telescopio solar – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%AA%D9%84%D8%B3%DA%A9%D9%88%D9%BE_%D8%AE%D9%88%D8%B1%D8%B4%DB%8C%D8%AF%DB%8C" hreflang="fa" lang="fa" title="تلسکوپ خورشیدی – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/T%C3%A9lescope_solaire" hreflang="fr" lang="fr" title="Télescope solaire – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%ED%83%9C%EC%96%91_%EB%A7%9D%EC%9B%90%EA%B2%BD" hreflang="ko" lang="ko" title="태양 망원경 – Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hi">
+        <a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%AF_%E0%A4%A6%E0%A5%82%E0%A4%B0%E0%A4%AC%E0%A5%80%E0%A4%A8" hreflang="hi" lang="hi" title="सूर्य दूरबीन – Hindi">
+         हिन्दी
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Telescopio_solare" hreflang="it" lang="it" title="Telescopio solare – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lb">
+        <a class="interlanguage-link-target" href="https://lb.wikipedia.org/wiki/Sonnenteleskop" hreflang="lb" lang="lb" title="Sonnenteleskop – Luxembourgish">
+         Lëtzebuergesch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lt">
+        <a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Celostatas" hreflang="lt" lang="lt" title="Celostatas – Lithuanian">
+         Lietuvių
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%A4%AA%E9%99%BD%E6%9C%9B%E9%81%A0%E9%8F%A1" hreflang="ja" lang="ja" title="太陽望遠鏡 – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Solteleskop" hreflang="no" lang="no" title="Solteleskop – Norwegian">
+         Norsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nn">
+        <a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/C%C3%B8lostat" hreflang="nn" lang="nn" title="Cølostat – Norwegian Nynorsk">
+         Norsk nynorsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-simple">
+        <a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Solar_telescope" hreflang="simple" lang="simple" title="Solar telescope – Simple English">
+         Simple English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%93%D0%B5%D0%BB%D1%96%D0%BE%D0%B3%D1%80%D0%B0%D1%84_(%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC%D1%96%D1%8F)" hreflang="uk" lang="uk" title="Геліограф (астрономія) – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vi">
+        <a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/K%C3%ADnh_vi%E1%BB%85n_v%E1%BB%8Dng_M%E1%BA%B7t_Tr%E1%BB%9Di" hreflang="vi" lang="vi" title="Kính viễn vọng Mặt Trời – Vietnamese">
+         Tiếng Việt
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%A4%AA%E9%99%BD%E6%9C%9B%E9%81%A0%E9%8F%A1" hreflang="zh" lang="zh" title="太陽望遠鏡 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1238291#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 25 January 2018, at 13:17.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Solar_telescope&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.112","walltime":"0.149","ppvisitednodes":{"value":547,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":38698,"limit":2097152},"templateargumentsize":{"value":252,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":3076,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  100.264      1 -total"," 43.32%   43.431      1 Template:Reflist"," 33.26%   33.348      2 Template:Cite_journal"," 18.60%   18.645      1 Template:See_also"," 17.68%   17.730      3 Template:Navbox"," 11.91%   11.946      1 Template:Sun_spacecraft"," 10.81%   10.839      1 Template:Wiktionary","  9.39%    9.411      1 Template:Sister_project","  7.80%    7.825      1 Template:The_Sun","  7.40%    7.420      1 Template:Side_box"]},"scribunto":{"limitreport-timeusage":{"value":"0.039","limit":"10.000"},"limitreport-memusage":{"value":2625195,"limit":52428800}},"cachereport":{"origin":"mw1247","timestamp":"20180322142208","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":95,"wgHostname":"mw1261"});});
+  </script>
+ </body>
+</html>

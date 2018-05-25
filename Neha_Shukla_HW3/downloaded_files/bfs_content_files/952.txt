@@ -1,0 +1,1889 @@
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Playwright - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Playwright","wgTitle":"Playwright","wgCurRevisionId":826806158,"wgRevisionId":826806158,"wgArticleId":39262,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles with GND identifiers","Dramatists and playwrights","Media occupations","Theatrical occupations"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Playwright","wgRelevantArticleId":39262,"wgRequestId":"Wq-z6ApAMEwAAKF-Ue4AAABK","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q214917","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.25" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Playwright" rel="alternate"/>
+  <link href="/w/index.php?title=Playwright&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Playwright&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Playwright" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Playwright rootpage-Playwright skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Playwright
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <p>
+       A
+       <b>
+        playwright
+       </b>
+       or
+       <b>
+        dramatist
+       </b>
+       (rarely
+       <i>
+        dramaturg(e)
+       </i>
+       ) is a person who writes
+       <a href="/wiki/Play_(theatre)" title="Play (theatre)">
+        plays
+       </a>
+       .
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Etymology">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Etymology
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#History">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           History
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-3">
+           <a href="#Early_playwrights">
+            <span class="tocnumber">
+             2.1
+            </span>
+            <span class="toctext">
+             Early playwrights
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-4">
+           <a href="#Aristotle's_Poetics_techniques">
+            <span class="tocnumber">
+             2.2
+            </span>
+            <span class="toctext">
+             Aristotle's
+             <i>
+              Poetics
+             </i>
+             techniques
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-5">
+           <a href="#Neo-classical_theory">
+            <span class="tocnumber">
+             2.3
+            </span>
+            <span class="toctext">
+             Neo-classical theory
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-6">
+           <a href="#Well-made_play">
+            <span class="tocnumber">
+             2.4
+            </span>
+            <span class="toctext">
+             Well-made play
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-7">
+         <a href="#Play_formats">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           Play formats
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-8">
+         <a href="#Contemporary_playwrights_in_America">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           Contemporary playwrights in America
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-9">
+         <a href="#New_play_development_in_America">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           New play development in America
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-10">
+         <a href="#See_also">
+          <span class="tocnumber">
+           6
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-11">
+         <a href="#References">
+          <span class="tocnumber">
+           7
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-12">
+         <a href="#External_links">
+          <span class="tocnumber">
+           8
+          </span>
+          <span class="toctext">
+           External links
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Etymology">
+        Etymology
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Playwright&amp;action=edit&amp;section=1" title="Edit section: Etymology">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       The term is not a variant spelling of the common misspelling "playwrite": the word
+       <a class="extiw" href="https://en.wiktionary.org/wiki/wright" title="wikt:wright">
+        wright
+       </a>
+       is an archaic English term for a
+       <a href="/wiki/Artisan" title="Artisan">
+        craftsman
+       </a>
+       or builder (as in a
+       <a href="/wiki/Wheelwright" title="Wheelwright">
+        wheelwright
+       </a>
+       or
+       <a href="/wiki/Wagon" title="Wagon">
+        cartwright
+       </a>
+       ). Hence the prefix and the suffix combine to indicate someone who has "wrought" words, themes, and other elements into a dramatic form - someone who crafts plays. The
+       <a href="/wiki/Homophone" title="Homophone">
+        homophone
+       </a>
+       with "write" is entirely coincidental.
+      </p>
+      <p>
+       The first written record of the term "playwright" is from 1605,
+       <sup class="reference" id="cite_ref-1">
+        <a href="#cite_note-1">
+         [1]
+        </a>
+       </sup>
+       73 years before the first written record of the term "dramatist".
+       <sup class="reference" id="cite_ref-2">
+        <a href="#cite_note-2">
+         [2]
+        </a>
+       </sup>
+       It appears to have been first used in a pejorative sense by
+       <a href="/wiki/Ben_Jonson" title="Ben Jonson">
+        Ben Jonson
+       </a>
+       in 1853
+       <sup class="reference" id="cite_ref-3">
+        <a href="#cite_note-3">
+         [3]
+        </a>
+       </sup>
+       to suggest a mere tradesman fashioning works for the theatre. Jonson described himself as a poet, not a playwright, since plays during that time were written in meter and so were regarded as the province of poets. This view was held as late as the early 19th century. The term "playwright" later again lost this negative connotation.
+      </p>
+      <h2>
+       <span class="mw-headline" id="History">
+        History
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Playwright&amp;action=edit&amp;section=2" title="Edit section: History">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <h3>
+       <span class="mw-headline" id="Early_playwrights">
+        Early playwrights
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Playwright&amp;action=edit&amp;section=3" title="Edit section: Early playwrights">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       The earliest playwright in Western literature with surviving works are the
+       <a href="/wiki/Ancient_Greek" title="Ancient Greek">
+        Ancient Greeks
+       </a>
+       . These early plays were for annual
+       <a href="/wiki/Athens" title="Athens">
+        Athenian
+       </a>
+       competitions among play writers
+       <sup class="reference" id="cite_ref-4">
+        <a href="#cite_note-4">
+         [4]
+        </a>
+       </sup>
+       held around the 5th century BC. Such notables as
+       <a href="/wiki/Aeschylus" title="Aeschylus">
+        Aeschylus
+       </a>
+       ,
+       <a href="/wiki/Sophocles" title="Sophocles">
+        Sophocles
+       </a>
+       ,
+       <a href="/wiki/Euripides" title="Euripides">
+        Euripides
+       </a>
+       , and
+       <a href="/wiki/Aristophanes" title="Aristophanes">
+        Aristophanes
+       </a>
+       established forms still relied on by their modern counterparts. For the ancient Greeks, playwriting involved
+       <i>
+        <a href="/wiki/Poiesis" title="Poiesis">
+         poïesis
+        </a>
+       </i>
+       , "the act of making". This is the source of the English word
+       <i>
+        poet
+       </i>
+       .
+      </p>
+      <h3>
+       <span id="Aristotle.27s_Poetics_techniques">
+       </span>
+       <span class="mw-headline" id="Aristotle's_Poetics_techniques">
+        Aristotle's
+        <i>
+         Poetics
+        </i>
+        techniques
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Playwright&amp;action=edit&amp;section=4" title="Edit section: Aristotle's Poetics techniques">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       In the 4th century BCE,
+       <a href="/wiki/Aristotle" title="Aristotle">
+        Aristotle
+       </a>
+       wrote his
+       <i>
+        <a href="/wiki/Poetics_(Aristotle)" title="Poetics (Aristotle)">
+         Poetics
+        </a>
+       </i>
+       , the first play-writing manual. In this famous text, Aristotle established the principle of action or
+       <i>
+        praxis
+       </i>
+       as the basis for all drama. He then included a hierarchy of elements for the drama beginning with
+       <a href="/wiki/Plot_(narrative)" title="Plot (narrative)">
+        plot
+       </a>
+       (
+       <i>
+        μύθος mythos
+       </i>
+       ), character (
+       <i>
+        ἔθος
+        <a href="/wiki/Ethos" title="Ethos">
+         ethos
+        </a>
+       </i>
+       ), thought (
+       <i>
+        <a href="/wiki/Dianoia" title="Dianoia">
+         dianoia
+        </a>
+       </i>
+       ), diction (
+       <i>
+        <a href="/wiki/Lexis_(Aristotle)" title="Lexis (Aristotle)">
+         lexis
+        </a>
+       </i>
+       ), music (
+       <i>
+        <a href="/wiki/Melody" title="Melody">
+         melodia
+        </a>
+       </i>
+       ), and spectacle (
+       <i>
+        opsis
+       </i>
+       ). The ends of drama were plot, character, and thought, the means of drama were language and music, and the manner of presentation a spectacle. Since the
+       <a href="/wiki/Mythology" title="Mythology">
+        myths
+       </a>
+       , upon which
+       <a href="/wiki/Greek_tragedy" title="Greek tragedy">
+        Greek tragedy
+       </a>
+       were based, were widely known, plot had to do with the arrangement and selection of existing material. Character was equated with choice rather than psychology, so that character was determined by action. In
+       <a href="/wiki/Tragedy" title="Tragedy">
+        tragedy
+       </a>
+       , the notion of ethical choice determined the character of the individual. Thought had more to do and "the imitation of an action that is serious", and so forth, brought with it the concept of
+       <a href="/wiki/Mimesis" title="Mimesis">
+        mimesis
+       </a>
+       (from real life). Thus, he developed his notion of
+       <a href="/wiki/Hamartia" title="Hamartia">
+        hamartia
+       </a>
+       , or tragic flaw, an error in judgment by the main character or
+       <a href="/wiki/Protagonist" title="Protagonist">
+        protagonist
+       </a>
+       . It provides the basis for the "conflict-driven" play, a term still held as the
+       <i>
+        sine qua non
+       </i>
+       of dramaturgy. The
+       <i>
+        <a href="/wiki/Poetics_(Aristotle)" title="Poetics (Aristotle)">
+         Poetics
+        </a>
+       </i>
+       , while very brief and highly condensed, is still studied today.
+      </p>
+      <p>
+       Perhaps the most Aristotelian of contemporary playwrights is
+       <a href="/wiki/David_Mamet" title="David Mamet">
+        David Mamet
+       </a>
+       , who embraces the idea of character as "agent of the action", and emphasizes causality in the structure of his plays. His recently revived
+       <i>
+        <a href="/wiki/Speed-the-Plow" title="Speed-the-Plow">
+         Speed-the-Plow
+        </a>
+       </i>
+       is quintessentially Aristotelian, in that it both observes the unities (with exception of Act I's change in place) and builds its plot through a causal stream of discoveries and reversals.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Neo-classical_theory">
+        Neo-classical theory
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Playwright&amp;action=edit&amp;section=5" title="Edit section: Neo-classical theory">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:182px;">
+        <a class="image" href="/wiki/File:Shakespeare.jpg">
+         <img alt="" class="thumbimage" data-file-height="2489" data-file-width="1943" height="231" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Shakespeare.jpg/180px-Shakespeare.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Shakespeare.jpg/270px-Shakespeare.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Shakespeare.jpg/360px-Shakespeare.jpg 2x" width="180"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Shakespeare.jpg" title="Enlarge">
+          </a>
+         </div>
+         <a href="/wiki/William_Shakespeare" title="William Shakespeare">
+          William Shakespeare
+         </a>
+        </div>
+       </div>
+      </div>
+      <p>
+       The
+       <a href="/wiki/Italian_Renaissance" title="Italian Renaissance">
+        Italian Renaissance
+       </a>
+       brought about a stricter interpretation of Aristotle, as this long-lost work came to light in the late 15th century. The
+       <a href="/wiki/Neoclassical_architecture" title="Neoclassical architecture">
+        neoclassical
+       </a>
+       ideal, which was to reach its apogee in France during the 17th century, dwelled upon the
+       <a class="mw-redirect" href="/wiki/Unities" title="Unities">
+        unities
+       </a>
+       , of action, place, and time. This meant that the playwright had to construct the play so that its "virtual" time would not exceed 24 hours, that it would be restricted to a single setting, and that there would be no subplots. Other terms, such as verisimilitude and decorum, circumscribed the subject matter significantly. For example, verisimilitude limits of the unities. Decorum fitted proper protocols for behavior and language on stage. In France, contained too many events and actions, thus, violating the 24-hour restriction of the unity of time. Neoclassicism never had as much traction in England, and
+       <a class="mw-redirect" href="/wiki/Shakespeare" title="Shakespeare">
+        Shakespeare
+       </a>
+       's plays are directly opposed to these models, while in Italy, improvised and bawdy
+       <a href="/wiki/Commedia_dell%27arte" title="Commedia dell'arte">
+        commedia dell'arte
+       </a>
+       and opera were more popular forms. In England, after the
+       <a class="mw-redirect" href="/wiki/Interregnum_(British_Isles)" title="Interregnum (British Isles)">
+        Interregnum
+       </a>
+       , and
+       <a href="/wiki/Restoration_(England)" title="Restoration (England)">
+        restoration
+       </a>
+       of the
+       <a href="/wiki/Monarchy" title="Monarchy">
+        monarchy
+       </a>
+       in 1660, there was a move toward neoclassical dramaturgy.
+      </p>
+      <p>
+       One structural unit that is still useful to playwrights today, is the "
+       <a class="mw-redirect" href="/wiki/French_scenes" title="French scenes">
+        French scene
+       </a>
+       ", which is a scene in a play where the beginning and end are marked by a change in the makeup of the group of characters onstage, rather than by the lights going up or down or the set being changed.
+       <sup class="reference" id="cite_ref-George_5-0">
+        <a href="#cite_note-George-5">
+         [5]
+        </a>
+       </sup>
+      </p>
+      <h3>
+       <span class="mw-headline" id="Well-made_play">
+        Well-made play
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Playwright&amp;action=edit&amp;section=6" title="Edit section: Well-made play">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       Popularized in the nineteenth century by the French playwrights
+       <a href="/wiki/Eug%C3%A8ne_Scribe" title="Eugène Scribe">
+        Eugene Scribe
+       </a>
+       and
+       <a href="/wiki/Victorien_Sardou" title="Victorien Sardou">
+        Victorien Sardou
+       </a>
+       , and perhaps the most schematic of all formats, the "
+       <a href="/wiki/Well-made_play" title="Well-made play">
+        well-made play
+       </a>
+       " relies on a series of coincidences (for better or worse) that determined the action. This plot driven format is often reliant on a prop device, such as a glass of water,
+       <sup class="reference" id="cite_ref-6">
+        <a href="#cite_note-6">
+         [6]
+        </a>
+       </sup>
+       or letter that reveals some secret information. In most cases, the character receiving the secret information misinterprets its contents, thus setting off a chain of events. Well-made plays are thus motivated by various plot devices which lead to "discoveries" and "reversals of action," rather than being character motivated.
+       <a href="/wiki/Henrik_Ibsen" title="Henrik Ibsen">
+        Henrik Ibsen
+       </a>
+       's
+       <i>
+        <a href="/wiki/A_Doll%27s_House" title="A Doll's House">
+         A Doll's House
+        </a>
+       </i>
+       is an example of a well-made structure (built around the discovery of Krogstad's letter) that began to integrate a more realistic approach to character. Ironically, the character Nora's leaving is as much motivated by "the letter" and disclosure of a "past secret" as it is by her own determination to strike out on her own. The well-made play infiltrated other forms of writing and is still seen in popular formats such as the mystery, or "whodunit."
+      </p>
+      <h2>
+       <span class="mw-headline" id="Play_formats">
+        Play formats
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Playwright&amp;action=edit&amp;section=7" title="Edit section: Play formats">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Full-length play: Generally, two or three acts with an act break (intermission or interval) that marks some kind of scene change or time shift. Usually these acts are divided into scenes, which are also defined by shifts in time and place. This type of structure is called episodic. Episodic plays often contain scene changes and require careful attention to transitions, so as to maintain entails a more causal relationship between units and is often defined by the unity of time, place, and/or action.
+      </p>
+      <p>
+       Short play: A more popular format recently, the short play does not have an intermission and generally runs over an hour, but less than an hour-and-a-half. One-act play: A useful form for experimental work (the
+       <a class="mw-redirect" href="/wiki/Theatre_of_the_absurd" title="Theatre of the absurd">
+        absurdists
+       </a>
+       made the form popular) with less reliance on character development and arc. Generally, these remain under an hour in length.
+      </p>
+      <p>
+       In the US the 10-minute play has been popularized over the past 20 years, and with beginning playwrights since the format requires rigor. Such a format can be processed or produced without onerous technical requirements.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Contemporary_playwrights_in_America">
+        Contemporary playwrights in America
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Playwright&amp;action=edit&amp;section=8" title="Edit section: Contemporary playwrights in America">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Contemporary playwrights in the
+       <a href="/wiki/United_States" title="United States">
+        United States
+       </a>
+       often do not reach the same level of fame or cultural importance as others did in the past. No longer the only outlet for serious drama or entertaining comedies, theatrical productions must use ticket sales as a source of income, has caused many of them to reduce the number of new works being produced. For example,
+       <a href="/wiki/Playwrights_Horizons" title="Playwrights Horizons">
+        Playwrights Horizons
+       </a>
+       produced only six plays in the 2002-03 seasons, compared with thirty-one in 1973-74.
+       <sup class="reference" id="cite_ref-7">
+        <a href="#cite_note-7">
+         [7]
+        </a>
+       </sup>
+       As revivals and large-scale production musicals become the
+       <i>
+        de rigueur
+       </i>
+       of
+       <a href="/wiki/Broadway_theatre" title="Broadway theatre">
+        Broadway
+       </a>
+       (and even
+       <a href="/wiki/Off-Broadway" title="Off-Broadway">
+        Off-Broadway
+       </a>
+       ) productions, playwrights find it difficult to earn a living in the business, let alone achieve major successes.
+      </p>
+      <h2>
+       <span class="mw-headline" id="New_play_development_in_America">
+        New play development in America
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Playwright&amp;action=edit&amp;section=9" title="Edit section: New play development in America">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       In an effort to develop new American voices in playwriting, a phenomenon known as new play development began to emerge in the early-to-mid-1980s, and continues through today. Many regional theatres have hired dramaturges and literary managers in an effort to showcase various festivals for new work, or bring in playwrights for residencies. Funding through national organizations, such as the
+       <a href="/wiki/National_Endowment_for_the_Arts" title="National Endowment for the Arts">
+        National Endowment for the Arts
+       </a>
+       and the
+       <a href="/wiki/Theatre_Communications_Group" title="Theatre Communications Group">
+        Theatre Communications Group
+       </a>
+       , encouraged the partnerships of professional theatre companies and emerging playwrights.and fast rule about this.
+      </p>
+      <p>
+       <a href="/wiki/New_Dramatists" title="New Dramatists">
+        New Dramatists
+       </a>
+       and
+       <a class="external text" href="http://www.larktheatre.org" rel="nofollow">
+        The Lark
+       </a>
+       in New York, for example, will often have a "cold" reading of a script in an informal sitdown setting. A cold reading means that the actors haven't rehearsed the work, or may be seeing it for the first time, and usually, the technical requirements are minimal. Shenandoah and the O'Neill Festival offer summer retreats for playwrights to develop their work with directors and actors in a totally "devoted" setting.
+      </p>
+      <p>
+       There has been a backlash over the past ten years with the formation of Playwriting Collectives like 13P and
+       <a href="/wiki/Clubbed_Thumb" title="Clubbed Thumb">
+        Clubbed Thumb
+       </a>
+       who have gathered members together to produce, rather than develop, new works. This has been a reaction to the "developed to death" notion in which the play never gets produced, but goes through endless readings and critiques that after a certain point in New York go through some kind of assiduous development process, and rare is the play that shows up on a producer's desk that gains any traction. On Broadway, this has happened in the past year with
+       <a href="/wiki/Martin_McDonagh" title="Martin McDonagh">
+        Martin McDonagh
+       </a>
+       's
+       <i>
+        <a href="/wiki/A_Behanding_in_Spokane" title="A Behanding in Spokane">
+         A Behanding in Spokane
+        </a>
+       </i>
+       and
+       <a href="/wiki/Mamet" title="Mamet">
+        Mamet
+       </a>
+       's
+       <i>
+        <a href="/wiki/Race_(play)" title="Race (play)">
+         Race
+        </a>
+       </i>
+       although these shows were packaged with stars (
+       <a href="/wiki/Christopher_Walken" title="Christopher Walken">
+        Christopher Walken
+       </a>
+       in the former) and with playwrights who are well established in the profession.
+      </p>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Playwright&amp;action=edit&amp;section=10" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a href="/wiki/List_of_playwrights" title="List of playwrights">
+         List of playwrights
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Play_(theatre)" title="Play (theatre)">
+         Play (theatre)
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Screenwriter" title="Screenwriter">
+         Screenwriter
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Playwright&amp;action=edit&amp;section=11" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist" style="list-style-type: decimal;">
+       <div class="mw-references-wrap">
+        <ol class="references">
+         <li id="cite_note-1">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-1">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <a class="external autonumber" href="https://www.merriam-webster.com/dictionary/playwright" rel="nofollow">
+            [1]
+           </a>
+          </span>
+         </li>
+         <li id="cite_note-2">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-2">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <a class="external free" href="https://www.merriam-webster.com/dictionary/dramatist" rel="nofollow">
+            https://www.merriam-webster.com/dictionary/dramatist
+           </a>
+          </span>
+         </li>
+         <li id="cite_note-3">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-3">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.luminarium.org/sevenlit/jonson/epigram49.htm" rel="nofollow">
+             "Jonson, Ben, ''The Works of Ben Jonson'', Boston: Phillips, Sampson and Co., 1853. page 788"
+            </a>
+            . Luminarium.org. 2003-08-10
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              2012-04-23
+             </span>
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Jonson%2C+Ben%2C+%27%26%2339%3BThe+Works+of+Ben+Jonson%27%26%2339%3B%2C+Boston%3A+Phillips%2C+Sampson+and+Co.%2C+1853.+page+788&amp;rft.pub=Luminarium.org&amp;rft.date=2003-08-10&amp;rft_id=http%3A%2F%2Fwww.luminarium.org%2Fsevenlit%2Fjonson%2Fepigram49.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APlaywright">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-4">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-4">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Fraser, Neil.
+           <i>
+            playwright History Explained
+           </i>
+           ,
+           <i>
+            The Cowood Press
+           </i>
+           , 2004, page 11
+          </span>
+         </li>
+         <li id="cite_note-George-5">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-George_5-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           George, Kathleen (1994)
+           <i>
+            Playwriting: The First Workshop
+           </i>
+           , Focal Press,
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/978-0-240-80190-2" title="Special:BookSources/978-0-240-80190-2">
+            978-0-240-80190-2
+           </a>
+           , p. 154.
+          </span>
+         </li>
+         <li id="cite_note-6">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-6">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           See
+           <a class="mw-redirect" href="/wiki/Eugene_Scribe" title="Eugene Scribe">
+            Eugene Scribe
+           </a>
+           's play
+           <i>
+            A Glass of Water
+           </i>
+           .
+          </span>
+         </li>
+         <li id="cite_note-7">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-7">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            Alexis Soloski (2003-05-20).
+            <a class="external text" href="http://www.villagevoice.com/theater/0321,soloski,44226,11.html" rel="nofollow">
+             "Alexis Soloski, "The Plays What They Wrote: The Best Scripts Not Yet Mounted on a New York Stage", ''The Village Voice'', May 21 - 27, 2003"
+            </a>
+            . Villagevoice.com
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              2012-04-23
+             </span>
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Alexis+Soloski%2C+%22The+Plays+What+They+Wrote%3A+The+Best+Scripts+Not+Yet+Mounted+on+a+New+York+Stage%22%2C+%27%26%2339%3BThe+Village+Voice%27%26%2339%3B%2C+May+21+-+27%2C+2003&amp;rft.pub=Villagevoice.com&amp;rft.date=2003-05-20&amp;rft.au=Alexis+Soloski&amp;rft_id=http%3A%2F%2Fwww.villagevoice.com%2Ftheater%2F0321%2Csoloski%2C44226%2C11.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APlaywright">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Playwright&amp;action=edit&amp;section=12" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+       <tr>
+        <td class="mbox-image">
+         <img alt="" class="noviewer" data-file-height="800" data-file-width="1000" height="32" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/40px-Wikiversity-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/60px-Wikiversity-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/80px-Wikiversity-logo.svg.png 2x" width="40"/>
+        </td>
+        <td class="mbox-text plainlist">
+         Wikiversity has learning resources about
+         <i>
+          <b>
+           <a class="extiw" href="https://en.wikiversity.org/wiki/Collaborative_play_writing" title="v:Collaborative play writing">
+            Collaborative play writing
+           </a>
+          </b>
+         </i>
+        </td>
+       </tr>
+      </table>
+      <ul>
+       <li>
+        <a class="image" href="/wiki/File:Wiktionary-logo-en-v2.svg">
+         <img alt="" class="noviewer" data-file-height="391" data-file-width="391" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/16px-Wiktionary-logo-en-v2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/24px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/32px-Wiktionary-logo-en-v2.svg.png 2x" width="16"/>
+        </a>
+        The dictionary definition of
+        <a class="extiw" href="https://en.wiktionary.org/wiki/Special:Search/playwright" title="wiktionary:Special:Search/playwright">
+         playwright
+        </a>
+        at Wiktionary
+       </li>
+       <li>
+        <a class="image" href="/wiki/File:Commons-logo.svg">
+         <img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" width="12"/>
+        </a>
+        Media related to
+        <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Playwrights" title="commons:Category:Playwrights">
+         Playwrights
+        </a>
+        at Wikimedia Commons
+       </li>
+       <li>
+        <a class="external text" href="http://www.playsubmissionshelper.com/blog" rel="nofollow">
+         Play Submissions Helper
+        </a>
+        , The Play Submissions Helper Blog
+       </li>
+      </ul>
+      <div aria-label="Navbox" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <a href="/wiki/Help:Authority_control" title="Help:Authority control">
+           Authority control
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <span class="nowrap">
+              <a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">
+               GND
+              </a>
+              :
+              <span class="uid">
+               <a class="external text" href="https://d-nb.info/gnd/7708037-3" rel="nofollow">
+                7708037-3
+               </a>
+              </span>
+             </span>
+            </li>
+            <li>
+             <span class="nowrap">
+              <a href="/wiki/National_Diet_Library" title="National Diet Library">
+               NDL
+              </a>
+              :
+              <span class="uid">
+               <a class="external text" href="https://id.ndl.go.jp/auth/ndlna/00562314" rel="nofollow">
+                00562314
+               </a>
+              </span>
+             </span>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1346
+Cached time: 20180316141539
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.156 seconds
+Real time usage: 0.207 seconds
+Preprocessor visited node count: 799/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 9502/2097152 bytes
+Template argument size: 922/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 4165/5000000 bytes
+Lua time usage: 0.044/10.000 seconds
+Lua memory usage: 2.1 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  171.773      1 -total
+ 55.91%   96.046      1 Template:Reflist
+ 33.07%   56.812      2 Template:Cite_web
+ 18.08%   31.060      2 Template:Sister-inline
+ 17.76%   30.506      1 Template:Commons_category-inline
+ 15.36%   26.382      1 Template:ISBN
+ 11.35%   19.493      1 Template:Authority_control
+  6.57%   11.290      1 Template:Catalog_lookup_link
+  5.64%    9.695      1 Template:Wikiversity
+  4.68%    8.031      1 Template:Sister_project
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:39262-0!canonical and timestamp 20180316141539 and revision id 826806158
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Playwright&amp;oldid=826806158">
+      https://en.wikipedia.org/w/index.php?title=Playwright&amp;oldid=826806158
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Dramatists_and_playwrights" title="Category:Dramatists and playwrights">
+         Dramatists and playwrights
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Media_occupations" title="Category:Media occupations">
+         Media occupations
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Theatrical_occupations" title="Category:Theatrical occupations">
+         Theatrical occupations
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">
+         Wikipedia articles with GND identifiers
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Playwright" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Playwright" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Playwright" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Playwright" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Playwright">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Playwright&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Playwright&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Playwright" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Playwright" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Playwright&amp;oldid=826806158" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Playwright&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q214917" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Playwright&amp;id=826806158" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Playwright">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Playwright&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Playwright&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Category:Playwrights" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-als">
+        <a class="interlanguage-link-target" href="https://als.wikipedia.org/wiki/Dramatiker" hreflang="als" lang="als" title="Dramatiker – Alemannisch">
+         Alemannisch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%83%D8%A7%D8%AA%D8%A8_%D9%85%D8%B3%D8%B1%D8%AD%D9%8A" hreflang="ar" lang="ar" title="كاتب مسرحي – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-an">
+        <a class="interlanguage-link-target" href="https://an.wikipedia.org/wiki/Dramaturgo" hreflang="an" lang="an" title="Dramaturgo – Aragonese">
+         Aragonés
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-az">
+        <a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/Dramaturq" hreflang="az" lang="az" title="Dramaturq – Azerbaijani">
+         Azərbaycanca
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bn">
+        <a class="interlanguage-link-target" href="https://bn.wikipedia.org/wiki/%E0%A6%A8%E0%A6%BE%E0%A6%9F%E0%A7%8D%E0%A6%AF%E0%A6%95%E0%A6%BE%E0%A6%B0" hreflang="bn" lang="bn" title="নাট্যকার – Bangla">
+         বাংলা
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh-min-nan">
+        <a class="interlanguage-link-target" href="https://zh-min-nan.wikipedia.org/wiki/Kio%CC%8Dk-chok-ka" hreflang="zh-min-nan" lang="zh-min-nan" title="Kio̍k-chok-ka – Chinese (Min Nan)">
+         Bân-lâm-gú
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be">
+        <a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%94%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D1%83%D1%80%D0%B3" hreflang="be" lang="be" title="Драматург – Belarusian">
+         Беларуская
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be-x-old">
+        <a class="interlanguage-link-target" href="https://be-x-old.wikipedia.org/wiki/%D0%94%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D1%83%D1%80%D0%B3" hreflang="be-x-old" lang="be-x-old" title="Драматург – Belarusian (Taraškievica orthography)">
+         Беларуская (тарашкевіца)‎
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bg">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%94%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D1%83%D1%80%D0%B3" hreflang="bg" lang="bg" title="Драматург – Bulgarian">
+         Български
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bs">
+        <a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Dramaturg" hreflang="bs" lang="bs" title="Dramaturg – Bosnian">
+         Bosanski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cv">
+        <a class="interlanguage-link-target" href="https://cv.wikipedia.org/wiki/%D0%94%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D1%83%D1%80%D0%B3%D0%B8" hreflang="cv" lang="cv" title="Драматурги – Chuvash">
+         Чӑвашла
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Dramatik" hreflang="cs" lang="cs" title="Dramatik – Czech">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cy">
+        <a class="interlanguage-link-target" href="https://cy.wikipedia.org/wiki/Dramodydd" hreflang="cy" lang="cy" title="Dramodydd – Welsh">
+         Cymraeg
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Dramatiker" hreflang="da" lang="da" title="Dramatiker – Danish">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Dramatiker" hreflang="de" lang="de" title="Dramatiker – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-et">
+        <a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/N%C3%A4itekirjanik" hreflang="et" lang="et" title="Näitekirjanik – Estonian">
+         Eesti
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Dramaturgo" hreflang="es" lang="es" title="Dramaturgo – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eo">
+        <a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Dramaturgo" hreflang="eo" lang="eo" title="Dramaturgo – Esperanto">
+         Esperanto
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%86%D9%85%D8%A7%DB%8C%D8%B4%E2%80%8C%D9%86%D8%A7%D9%85%D9%87%E2%80%8C%D9%86%D9%88%DB%8C%D8%B3" hreflang="fa" lang="fa" title="نمایش‌نامه‌نویس – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Dramaturge" hreflang="fr" lang="fr" title="Dramaturge – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gl">
+        <a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Dramaturgo" hreflang="gl" lang="gl" title="Dramaturgo – Galician">
+         Galego
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EA%B7%B9%EC%9E%91%EA%B0%80" hreflang="ko" lang="ko" title="극작가 – Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hi">
+        <a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%A8%E0%A4%BE%E0%A4%9F%E0%A4%95%E0%A4%95%E0%A4%BE%E0%A4%B0" hreflang="hi" lang="hi" title="नाटककार – Hindi">
+         हिन्दी
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hr">
+        <a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Dramski_pisac" hreflang="hr" lang="hr" title="Dramski pisac – Croatian">
+         Hrvatski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ia">
+        <a class="interlanguage-link-target" href="https://ia.wikipedia.org/wiki/Dramaturgo" hreflang="ia" lang="ia" title="Dramaturgo – Interlingua">
+         Interlingua
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-os">
+        <a class="interlanguage-link-target" href="https://os.wikipedia.org/wiki/%D0%94%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D1%83%D1%80%D0%B3" hreflang="os" lang="os" title="Драматург – Ossetic">
+         Ирон
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-is">
+        <a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/Leiksk%C3%A1ld" hreflang="is" lang="is" title="Leikskáld – Icelandic">
+         Íslenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Drammaturgo" hreflang="it" lang="it" title="Drammaturgo – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he">
+        <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%9E%D7%97%D7%96%D7%90%D7%99" hreflang="he" lang="he" title="מחזאי – Hebrew">
+         עברית
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ka">
+        <a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%93%E1%83%A0%E1%83%90%E1%83%9B%E1%83%90%E1%83%A2%E1%83%A3%E1%83%A0%E1%83%92%E1%83%98" hreflang="ka" lang="ka" title="დრამატურგი – Georgian">
+         ქართული
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ky">
+        <a class="interlanguage-link-target" href="https://ky.wikipedia.org/wiki/%D0%94%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D1%83%D1%80%D0%B3" hreflang="ky" lang="ky" title="Драматург – Kyrgyz">
+         Кыргызча
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lv">
+        <a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Dramaturgs" hreflang="lv" lang="lv" title="Dramaturgs – Latvian">
+         Latviešu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hu">
+        <a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Dr%C3%A1ma%C3%ADr%C3%B3" hreflang="hu" lang="hu" title="Drámaíró – Hungarian">
+         Magyar
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mr">
+        <a class="interlanguage-link-target" href="https://mr.wikipedia.org/wiki/%E0%A4%A8%E0%A4%BE%E0%A4%9F%E0%A4%95%E0%A4%95%E0%A4%BE%E0%A4%B0" hreflang="mr" lang="mr" title="नाटककार – Marathi">
+         मराठी
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-xmf">
+        <a class="interlanguage-link-target" href="https://xmf.wikipedia.org/wiki/%E1%83%93%E1%83%A0%E1%83%90%E1%83%9B%E1%83%90%E1%83%A2%E1%83%A3%E1%83%A0%E1%83%92%E1%83%98" hreflang="xmf" lang="xmf" title="დრამატურგი – Mingrelian">
+         მარგალური
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ms">
+        <a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Pengarang_lakon" hreflang="ms" lang="ms" title="Pengarang lakon – Malay">
+         Bahasa Melayu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Toneelschrijver" hreflang="nl" lang="nl" title="Toneelschrijver – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ne">
+        <a class="interlanguage-link-target" href="https://ne.wikipedia.org/wiki/%E0%A4%A8%E0%A4%BE%E0%A4%9F%E0%A4%95%E0%A4%95%E0%A4%BE%E0%A4%B0" hreflang="ne" lang="ne" title="नाटककार – Nepali">
+         नेपाली
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%8A%87%E4%BD%9C%E5%AE%B6" hreflang="ja" lang="ja" title="劇作家 – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Dramatiker" hreflang="no" lang="no" title="Dramatiker – Norwegian">
+         Norsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nn">
+        <a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Dramatikar" hreflang="nn" lang="nn" title="Dramatikar – Norwegian Nynorsk">
+         Norsk nynorsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-oc">
+        <a class="interlanguage-link-target" href="https://oc.wikipedia.org/wiki/Dramaturg" hreflang="oc" lang="oc" title="Dramaturg – Occitan">
+         Occitan
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uz">
+        <a class="interlanguage-link-target" href="https://uz.wikipedia.org/wiki/Dramaturg" hreflang="uz" lang="uz" title="Dramaturg – Uzbek">
+         Oʻzbekcha/ўзбекча
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pa">
+        <a class="interlanguage-link-target" href="https://pa.wikipedia.org/wiki/%E0%A8%A8%E0%A8%BE%E0%A8%9F%E0%A8%95%E0%A8%95%E0%A8%BE%E0%A8%B0" hreflang="pa" lang="pa" title="ਨਾਟਕਕਾਰ – Punjabi">
+         ਪੰਜਾਬੀ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ro">
+        <a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Dramaturg" hreflang="ro" lang="ro" title="Dramaturg – Romanian">
+         Română
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%94%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D1%83%D1%80%D0%B3" hreflang="ru" lang="ru" title="Драматург – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sco">
+        <a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Playwricht" hreflang="sco" lang="sco" title="Playwricht – Scots">
+         Scots
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sq">
+        <a class="interlanguage-link-target" href="https://sq.wikipedia.org/wiki/Dramaturg" hreflang="sq" lang="sq" title="Dramaturg – Albanian">
+         Shqip
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-simple">
+        <a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Playwright" hreflang="simple" lang="simple" title="Playwright – Simple English">
+         Simple English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sk">
+        <a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Dramatik" hreflang="sk" lang="sk" title="Dramatik – Slovak">
+         Slovenčina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sr">
+        <a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%94%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D1%83%D1%80%D0%B3" hreflang="sr" lang="sr" title="Драматург – Serbian">
+         Српски / srpski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sh">
+        <a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Dramski_pisac" hreflang="sh" lang="sh" title="Dramski pisac – Serbo-Croatian">
+         Srpskohrvatski / српскохрватски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/N%C3%A4ytelm%C3%A4kirjailija" hreflang="fi" lang="fi" title="Näytelmäkirjailija – Finnish">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Dramatiker" hreflang="sv" lang="sv" title="Dramatiker – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ta">
+        <a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%A8%E0%AE%BE%E0%AE%9F%E0%AE%95%E0%AE%BE%E0%AE%9A%E0%AE%BF%E0%AE%B0%E0%AE%BF%E0%AE%AF%E0%AE%B0%E0%AF%8D" hreflang="ta" lang="ta" title="நாடகாசிரியர் – Tamil">
+         தமிழ்
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tt">
+        <a class="interlanguage-link-target" href="https://tt.wikipedia.org/wiki/%D0%94%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D1%83%D1%80%D0%B3%D0%BB%D0%B0%D1%80" hreflang="tt" lang="tt" title="Драматурглар – Tatar">
+         Татарча/tatarça
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tr">
+        <a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Oyun_yazarl%C4%B1%C4%9F%C4%B1" hreflang="tr" lang="tr" title="Oyun yazarlığı – Turkish">
+         Türkçe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%94%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D1%83%D1%80%D0%B3" hreflang="uk" lang="uk" title="Драматург – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ur">
+        <a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%DA%88%D8%B1%D8%A7%D9%85%D8%A7_%D9%86%D9%88%DB%8C%D8%B3" hreflang="ur" lang="ur" title="ڈراما نویس – Urdu">
+         اردو
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vec">
+        <a class="interlanguage-link-target" href="https://vec.wikipedia.org/wiki/Dramaturgo" hreflang="vec" lang="vec" title="Dramaturgo – Venetian">
+         Vèneto
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vi">
+        <a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Nh%C3%A0_vi%E1%BA%BFt_k%E1%BB%8Bch" hreflang="vi" lang="vi" title="Nhà viết kịch – Vietnamese">
+         Tiếng Việt
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fiu-vro">
+        <a class="interlanguage-link-target" href="https://fiu-vro.wikipedia.org/wiki/N%C3%A4%C3%BCtekir%C3%A4nik" hreflang="fiu-vro" lang="fiu-vro" title="Näütekiränik – Võro">
+         Võro
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-wa">
+        <a class="interlanguage-link-target" href="https://wa.wikipedia.org/wiki/Fijheu_d%27_p%C3%AEces_di_tey%C3%A5te" hreflang="wa" lang="wa" title="Fijheu d' pîces di teyåte – Walloon">
+         Walon
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-war">
+        <a class="interlanguage-link-target" href="https://war.wikipedia.org/wiki/Dramaturgo" hreflang="war" lang="war" title="Dramaturgo – Waray">
+         Winaray
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-yi">
+        <a class="interlanguage-link-target" href="https://yi.wikipedia.org/wiki/%D7%93%D7%A8%D7%90%D7%9E%D7%90%D7%98%D7%95%D7%A8%D7%92" hreflang="yi" lang="yi" title="דראמאטורג – Yiddish">
+         ייִדיש
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-diq">
+        <a class="interlanguage-link-target" href="https://diq.wikipedia.org/wiki/Nu%C5%9Ftekar%C3%AA_kayi" hreflang="diq" lang="diq" title="Nuştekarê kayi – Zazaki">
+         Zazaki
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%89%A7%E4%BD%9C%E5%AE%B6" hreflang="zh" lang="zh" title="剧作家 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q214917#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 21 February 2018, at 02:54.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Playwright&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.156","walltime":"0.207","ppvisitednodes":{"value":799,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":9502,"limit":2097152},"templateargumentsize":{"value":922,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":4165,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  171.773      1 -total"," 55.91%   96.046      1 Template:Reflist"," 33.07%   56.812      2 Template:Cite_web"," 18.08%   31.060      2 Template:Sister-inline"," 17.76%   30.506      1 Template:Commons_category-inline"," 15.36%   26.382      1 Template:ISBN"," 11.35%   19.493      1 Template:Authority_control","  6.57%   11.290      1 Template:Catalog_lookup_link","  5.64%    9.695      1 Template:Wikiversity","  4.68%    8.031      1 Template:Sister_project"]},"scribunto":{"limitreport-timeusage":{"value":"0.044","limit":"10.000"},"limitreport-memusage":{"value":2206957,"limit":52428800}},"cachereport":{"origin":"mw1346","timestamp":"20180316141539","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":84,"wgHostname":"mw1241"});});
+  </script>
+ </body>
+</html>

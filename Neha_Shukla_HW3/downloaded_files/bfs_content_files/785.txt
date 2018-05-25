@@ -1,0 +1,2229 @@
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Sputtering - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Sputtering","wgTitle":"Sputtering","wgCurRevisionId":829684671,"wgRevisionId":829684671,"wgArticleId":28627,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Extra text: authors list","CS1 maint: Multiple names: authors list","Wikipedia articles with LCCN identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","Coatings","Materials science"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Sputtering","wgRelevantArticleId":28627,"wgRequestId":"WqvZUwpAAEIAAJVog4UAAABY","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q898444","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.25" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sputtering_system.jpg/1200px-Sputtering_system.jpg" property="og:image"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Sputtering" rel="alternate"/>
+  <link href="/w/index.php?title=Sputtering&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Sputtering&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Sputtering" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Sputtering rootpage-Sputtering skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Sputtering
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <p>
+       <b>
+        Sputtering
+       </b>
+       is a process whereby
+       <a href="/wiki/Particle" title="Particle">
+        particles
+       </a>
+       are ejected from a solid target material due to bombardment of the target by energetic
+       <a href="/wiki/Particle" title="Particle">
+        particles
+       </a>
+       ,
+       <sup class="reference" id="cite_ref-Behrisch1981_1-0">
+        <a href="#cite_note-Behrisch1981-1">
+         [1]
+        </a>
+       </sup>
+       particularly gas
+       <a href="/wiki/Ion" title="Ion">
+        ions
+       </a>
+       in a laboratory. It only happens when the kinetic energy of the incoming particles is much higher than conventional thermal energies (
+       <a href="/wiki/Inequality_(mathematics)" title="Inequality (mathematics)">
+        ≫
+       </a>
+       1
+       <a href="/wiki/Electronvolt" title="Electronvolt">
+        eV
+       </a>
+       ). This process can lead, during prolonged ion or plasma bombardment of a material, to significant erosion of materials, and can thus be harmful. On the other hand, it is commonly used for
+       <a class="mw-redirect" href="/wiki/Thin-film" title="Thin-film">
+        thin-film
+       </a>
+       deposition,
+       <a href="/wiki/Etching" title="Etching">
+        etching
+       </a>
+       and analytical techniques. Sputtering is done either using DC voltage (DC sputtering) or using AC voltage (RF sputtering). In DC sputtering, voltage is set from 3-5 kV and in RF sputtering, power supply is set at 14 MHz. Due to the application of an alternating current, the ions inside the plasma oscillate resulting in an increases in the levels of plasma.
+      </p>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:252px;">
+        <a class="image" href="/wiki/File:Sputtering_system.jpg">
+         <img alt="" class="thumbimage" data-file-height="2448" data-file-width="3264" height="188" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sputtering_system.jpg/250px-Sputtering_system.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sputtering_system.jpg/375px-Sputtering_system.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sputtering_system.jpg/500px-Sputtering_system.jpg 2x" width="250"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Sputtering_system.jpg" title="Enlarge">
+          </a>
+         </div>
+         A commercial AJA Orion sputtering system at
+         <a href="/wiki/Cornell_NanoScale_Science_and_Technology_Facility" title="Cornell NanoScale Science and Technology Facility">
+          Cornell NanoScale Science and Technology Facility
+         </a>
+        </div>
+       </div>
+      </div>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Physics_of_sputtering">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Physics of sputtering
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#Electronic_sputtering">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Electronic sputtering
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-3">
+         <a href="#Potential_sputtering">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           Potential sputtering
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-4">
+         <a href="#Etching_and_chemical_sputtering">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           Etching and chemical sputtering
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-5">
+         <a href="#Applications_and_phenomena">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           Applications and phenomena
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-6">
+           <a href="#Film_deposition">
+            <span class="tocnumber">
+             5.1
+            </span>
+            <span class="toctext">
+             Film deposition
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-7">
+           <a href="#Etching">
+            <span class="tocnumber">
+             5.2
+            </span>
+            <span class="toctext">
+             Etching
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-8">
+           <a href="#For_analysis">
+            <span class="tocnumber">
+             5.3
+            </span>
+            <span class="toctext">
+             For analysis
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-9">
+           <a href="#In_space">
+            <span class="tocnumber">
+             5.4
+            </span>
+            <span class="toctext">
+             In space
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-10">
+         <a href="#References">
+          <span class="tocnumber">
+           6
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-11">
+         <a href="#External_links">
+          <span class="tocnumber">
+           7
+          </span>
+          <span class="toctext">
+           External links
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Physics_of_sputtering">
+        Physics of sputtering
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Sputtering&amp;action=edit&amp;section=1" title="Edit section: Physics of sputtering">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Physical sputtering is driven by the momentum exchange between the ions and atoms in the target materials, due to collisions.
+       <sup class="reference" id="cite_ref-Behrisch1981_1-1">
+        <a href="#cite_note-Behrisch1981-1">
+         [1]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-Sigmund1987_2-0">
+        <a href="#cite_note-Sigmund1987-2">
+         [2]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-Behrisch2007_3-0">
+        <a href="#cite_note-Behrisch2007-3">
+         [3]
+        </a>
+       </sup>
+      </p>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Linearcollisioncascadesput.png">
+         <img alt="" class="thumbimage" data-file-height="454" data-file-width="567" height="176" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Linearcollisioncascadesput.png/220px-Linearcollisioncascadesput.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Linearcollisioncascadesput.png/330px-Linearcollisioncascadesput.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Linearcollisioncascadesput.png/440px-Linearcollisioncascadesput.png 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Linearcollisioncascadesput.png" title="Enlarge">
+          </a>
+         </div>
+         Sputtering from a linear collision cascade. The thick line illustrates the position of the surface, and the thinner lines the ballistic movement paths of the atoms from beginning until they stop in the material. The purple circle is the incoming ion. Red, blue, green and yellow circles illustrate primary, secondary, tertiary and quaternary recoils, respectively. Two of the atoms happen to move out from the sample, i.e. they are sputtered.
+        </div>
+       </div>
+      </div>
+      <p>
+       The incident ions set off
+       <a href="/wiki/Collision_cascade" title="Collision cascade">
+        collision cascades
+       </a>
+       in the target. When such cascades recoil and reach the target surface with an energy greater than the surface binding energy, an atom would be ejected, and this process is known as sputtering. If the target is thin on an atomic scale, the collision cascade can reach the back side of the target and atoms can escape the surface binding energy "in transmission". The average number of atoms ejected from the target per incident ion is called the sputter yield and depends on the ion incident angle, the energy of the ion, the masses of the ion and target atoms, and the surface
+       <a href="/wiki/Binding_energy" title="Binding energy">
+        binding energy
+       </a>
+       of atoms in the target. For a crystalline target the orientation of the crystal axes with respect to the target surface is relevant.
+      </p>
+      <p>
+       The primary particles for the sputtering process can be supplied in a number of ways: for example by a
+       <a href="/wiki/Plasma_(physics)" title="Plasma (physics)">
+        plasma
+       </a>
+       , an ion source, an accelerator or by a radioactive material emitting alpha particles.
+      </p>
+      <p>
+       A model for describing sputtering in the cascade regime for amorphous flat targets is Thompson's analytical model.
+       <sup class="reference" id="cite_ref-Thompson_4-0">
+        <a href="#cite_note-Thompson-4">
+         [4]
+        </a>
+       </sup>
+       An algorithm that simulates sputtering based on a quantum mechanical treatment including electrons stripping at high energy is implemented in the program
+       <a href="/wiki/Stopping_and_Range_of_Ions_in_Matter" title="Stopping and Range of Ions in Matter">
+        TRIM
+       </a>
+       .
+       <sup class="reference" id="cite_ref-Ziegler1984_5-0">
+        <a href="#cite_note-Ziegler1984-5">
+         [5]
+        </a>
+       </sup>
+      </p>
+      <p>
+       A different mechanism of physical sputtering is
+       <i>
+        heat spike sputtering
+       </i>
+       . This may occur when the solid is dense enough, and then the incoming ion heavy enough, that the collisions occur very close to each other. Then the binary collision approximation is no longer valid, but rather the collisional process should be understood as a many-body process. The dense collisions induce a
+       <a href="/wiki/Collision_cascade#Heat_spikes_(thermal_spikes)" title="Collision cascade">
+        heat spike
+       </a>
+       (also called thermal spike), which essentially melts the crystal locally. If the molten zone is close enough to a surface, large numbers of atoms may sputter due to flow of liquid to the surface and/or microexplosions.
+       <sup class="reference" id="cite_ref-Ghaly1994_6-0">
+        <a href="#cite_note-Ghaly1994-6">
+         [6]
+        </a>
+       </sup>
+       Heat spike sputtering is most important for heavy ions (e.g. Xe or Au or cluster ions) with energies in the keV–MeV range bombarding dense but soft metals with a low melting point (Ag, Au, Pb, etc.). The heat spike sputtering often increases nonlinearly with energy, and can for small cluster ions lead to dramatic sputtering yields per cluster of the order of 10,000.
+       <sup class="reference" id="cite_ref-Bouneau1982_7-0">
+        <a href="#cite_note-Bouneau1982-7">
+         [7]
+        </a>
+       </sup>
+       For animations of such a process see "Re: Displacement Cascade 1" in the
+       <a href="#External_links">
+        external links
+       </a>
+       section.
+      </p>
+      <p>
+       Physical sputtering has a well-defined minimum energy threshold equal to or larger than the ion energy at which the maximum energy transfer of the ion to a sample atom equals the binding energy of a surface atom. This threshold typically is somewhere in the range 10–100 eV.
+      </p>
+      <p>
+       <i>
+        Preferential sputtering
+       </i>
+       can occur at the start when a multicomponent solid target is bombarded and there is no solid state diffusion. If the energy transfer is more efficient to one of the target components, or it is less strongly bound to the solid, it will sputter more efficiently than the other. If in an AB alloy the component A is sputtered preferentially, the surface of the solid will, during prolonged bombardment, become enriched in the B component, thereby increasing the probability that B is sputtered such that the composition of the sputtered material will ultimately return to AB.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Electronic_sputtering">
+        Electronic sputtering
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Sputtering&amp;action=edit&amp;section=2" title="Edit section: Electronic sputtering">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       The term
+       <i>
+        electronic sputtering
+       </i>
+       can mean either sputtering induced by energetic electrons (for example in a transmission electron microscope), or sputtering due to very high-energy or highly charged heavy ions that lose energy to the solid, mostly by electronic
+       <a href="/wiki/Stopping_power_(particle_radiation)" title="Stopping power (particle radiation)">
+        stopping power
+       </a>
+       , where the electronic excitations cause sputtering.
+       <sup class="reference" id="cite_ref-Schenkel1997_8-0">
+        <a href="#cite_note-Schenkel1997-8">
+         [8]
+        </a>
+       </sup>
+       Electronic sputtering produces high sputtering yields from
+       <a class="mw-redirect" href="/wiki/Insulator_(electrical)" title="Insulator (electrical)">
+        insulators
+       </a>
+       , as the electronic excitations that cause sputtering are not immediately quenched, as they would be in a conductor. One example of this is Jupiter's ice-covered moon
+       <a href="/wiki/Europa_(moon)" title="Europa (moon)">
+        Europa
+       </a>
+       , where a MeV sulfur ion from Jupiter's magnetosphere can eject up to 10,000 H
+       <sub>
+        2
+       </sub>
+       O molecules.
+       <sup class="reference" id="cite_ref-9">
+        <a href="#cite_note-9">
+         [9]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Potential_sputtering">
+        Potential sputtering
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Sputtering&amp;action=edit&amp;section=3" title="Edit section: Potential sputtering">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Sputterer.JPG">
+         <img alt="" class="thumbimage" data-file-height="3000" data-file-width="4000" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Sputterer.JPG/220px-Sputterer.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Sputterer.JPG/330px-Sputterer.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Sputterer.JPG/440px-Sputterer.JPG 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Sputterer.JPG" title="Enlarge">
+          </a>
+         </div>
+         A commercial sputtering system
+        </div>
+       </div>
+      </div>
+      <p>
+       In the case of multiple charged projectile ions a particular form of electronic sputtering can take place that has been termed
+       <i>
+        potential sputtering
+       </i>
+       .
+       <sup class="reference" id="cite_ref-Neidhart1995_10-0">
+        <a href="#cite_note-Neidhart1995-10">
+         [10]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-Sporn1997_11-0">
+        <a href="#cite_note-Sporn1997-11">
+         [11]
+        </a>
+       </sup>
+       In these cases the potential energy stored in multiply charged ions (i.e., the energy necessary to produce an ion of this charge state from its neutral atom) is liberated when the ions recombine during impact on a solid surface (formation of
+       <a href="/wiki/Hollow_atoms" title="Hollow atoms">
+        hollow atoms
+       </a>
+       ). This sputtering process is characterized by a strong dependence of the observed sputtering yields on the charge state of the impinging ion and can already take place at ion impact energies well below the physical sputtering threshold. Potential sputtering has only been observed for certain target species
+       <sup class="reference" id="cite_ref-Aumayr2004_12-0">
+        <a href="#cite_note-Aumayr2004-12">
+         [12]
+        </a>
+       </sup>
+       and requires a minimum potential energy.
+       <sup class="reference" id="cite_ref-Hayderer1999_13-0">
+        <a href="#cite_note-Hayderer1999-13">
+         [13]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Etching_and_chemical_sputtering">
+        Etching and chemical sputtering
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Sputtering&amp;action=edit&amp;section=4" title="Edit section: Etching and chemical sputtering">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Removing atoms by sputtering with an inert gas is called
+       <i>
+        <a href="/wiki/Ion_milling_machine" title="Ion milling machine">
+         ion milling
+        </a>
+       </i>
+       or
+       <i>
+        ion etching
+       </i>
+       .
+      </p>
+      <p>
+       Sputtering can also play a role in
+       <a href="/wiki/Reactive-ion_etching" title="Reactive-ion etching">
+        reactive-ion etching
+       </a>
+       (RIE), a plasma process carried out with chemically active ions and radicals, for which the sputtering yield may be enhanced significantly compared to pure physical sputtering. Reactive ions are frequently used in
+       <a href="/wiki/Secondary_ion_mass_spectrometry" title="Secondary ion mass spectrometry">
+        secondary ion mass spectrometry
+       </a>
+       (SIMS) equipment to enhance the sputter rates. The mechanisms causing the sputtering enhancement are not always well understood, although the case of fluorine etching of Si has been modeled well theoretically.
+       <sup class="reference" id="cite_ref-Schoolcraft1991_14-0">
+        <a href="#cite_note-Schoolcraft1991-14">
+         [14]
+        </a>
+       </sup>
+      </p>
+      <p>
+       Sputtering observed to occur below the threshold energy of physical sputtering is also often called chemical sputtering.
+       <sup class="reference" id="cite_ref-Behrisch1981_1-2">
+        <a href="#cite_note-Behrisch1981-1">
+         [1]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-Behrisch2007_3-1">
+        <a href="#cite_note-Behrisch2007-3">
+         [3]
+        </a>
+       </sup>
+       The mechanisms behind such sputtering are not always well understood, and may be hard to distinguish from chemical
+       <a href="/wiki/Etching" title="Etching">
+        etching
+       </a>
+       . At elevated temperatures, chemical sputtering of carbon can be understood to be due to the incoming ions weakening bonds in the sample, which then desorb by thermal activation.
+       <sup class="reference" id="cite_ref-Küppers1995_15-0">
+        <a href="#cite_note-Küppers1995-15">
+         [15]
+        </a>
+       </sup>
+       The hydrogen-induced sputtering of carbon-based materials observed at low temperatures has been explained by H ions entering between C-C bonds and thus breaking them, a mechanism dubbed
+       <i>
+        swift chemical sputtering
+       </i>
+       .
+       <sup class="reference" id="cite_ref-Salonen2001_16-0">
+        <a href="#cite_note-Salonen2001-16">
+         [16]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Applications_and_phenomena">
+        Applications and phenomena
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Sputtering&amp;action=edit&amp;section=5" title="Edit section: Applications and phenomena">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <h3>
+       <span class="mw-headline" id="Film_deposition">
+        Film deposition
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Sputtering&amp;action=edit&amp;section=6" title="Edit section: Film deposition">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main article:
+       <a href="/wiki/Sputter_deposition" title="Sputter deposition">
+        Sputter deposition
+       </a>
+      </div>
+      <p>
+       <a href="/wiki/Sputter_deposition" title="Sputter deposition">
+        Sputter deposition
+       </a>
+       is a method of
+       <a class="mw-redirect" href="/wiki/Thin_film_deposition" title="Thin film deposition">
+        depositing
+       </a>
+       <a href="/wiki/Thin_film" title="Thin film">
+        thin films
+       </a>
+       by sputtering that involves eroding material from a "target" source onto a "substrate" e.g. a silicon
+       <a class="mw-redirect" href="/wiki/Wafer_(semiconductor)" title="Wafer (semiconductor)">
+        wafer
+       </a>
+       .
+       <a href="/wiki/Resputtering" title="Resputtering">
+        Resputtering
+       </a>
+       , in contrast, involves re-emission of the deposited material, e.g. SiO
+       <sub>
+        2
+       </sub>
+       during the deposition also by ion bombardment.
+      </p>
+      <p>
+       Sputtered atoms are ejected into the gas phase but are not in their
+       <a href="/wiki/Thermodynamic_equilibrium" title="Thermodynamic equilibrium">
+        thermodynamic equilibrium
+       </a>
+       state, and tend to deposit on all surfaces in the vacuum chamber. A substrate (such as a wafer) placed in the chamber will be coated with a thin film. Sputtering deposition usually uses an
+       <a href="/wiki/Argon" title="Argon">
+        argon
+       </a>
+       plasma because argon, a noble gas, will not react with the target material.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Etching">
+        Etching
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Sputtering&amp;action=edit&amp;section=7" title="Edit section: Etching">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       In the semiconductor industry sputtering is used to etch the target. Sputter etching is chosen in cases where a high degree of etching
+       <a href="/wiki/Anisotropy" title="Anisotropy">
+        anisotropy
+       </a>
+       is needed and selectivity is not a concern. One major drawback of this technique is wafer damage.
+      </p>
+      <h3>
+       <span class="mw-headline" id="For_analysis">
+        For analysis
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Sputtering&amp;action=edit&amp;section=8" title="Edit section: For analysis">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       Another application of sputtering is to etch away the target material. One such example occurs in
+       <a href="/wiki/Secondary_ion_mass_spectrometry" title="Secondary ion mass spectrometry">
+        secondary ion mass spectrometry
+       </a>
+       (SIMS), where the target sample is sputtered at a constant rate. As the target is sputtered, the concentration and identity of sputtered atoms are measured using
+       <a href="/wiki/Mass_spectrometry" title="Mass spectrometry">
+        mass spectrometry
+       </a>
+       . In this way the composition of the target material can be determined and even extremely low concentrations (20 µg/kg) of impurities detected. Furthermore, because the sputtering continually etches deeper into the sample, concentration profiles as a function of depth can be measured.
+      </p>
+      <h3>
+       <span class="mw-headline" id="In_space">
+        In space
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Sputtering&amp;action=edit&amp;section=9" title="Edit section: In space">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       Sputtering is one of the forms of space weathering, a process that changes the physical and chemical properties of airless bodies, such as asteroids and the
+       <a href="/wiki/Moon" title="Moon">
+        Moon
+       </a>
+       . On icy moons, especially
+       <a href="/wiki/Europa_(moon)" title="Europa (moon)">
+        Europa
+       </a>
+       , sputtering of photolyzed water from the surface leads to net loss of hydrogen and accumulation of oxygen-rich materials that may be important for life. Sputtering is also one of the possible ways that
+       <a href="/wiki/Mars" title="Mars">
+        Mars
+       </a>
+       has lost most of its
+       <a href="/wiki/Atmosphere" title="Atmosphere">
+        atmosphere
+       </a>
+       and that
+       <a href="/wiki/Mercury_(planet)" title="Mercury (planet)">
+        Mercury
+       </a>
+       continually replenishes its tenuous surface-bounded
+       <a href="/wiki/Exosphere" title="Exosphere">
+        exosphere
+       </a>
+       .
+      </p>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Sputtering&amp;action=edit&amp;section=10" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+       <ol class="references">
+        <li id="cite_note-Behrisch1981-1">
+         <span class="mw-cite-backlink">
+          ^
+          <a href="#cite_ref-Behrisch1981_1-0">
+           <sup>
+            <i>
+             <b>
+              a
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-Behrisch1981_1-1">
+           <sup>
+            <i>
+             <b>
+              b
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-Behrisch1981_1-2">
+           <sup>
+            <i>
+             <b>
+              c
+             </b>
+            </i>
+           </sup>
+          </a>
+         </span>
+         <span class="reference-text">
+          <cite class="citation book">
+           R. Behrisch (ed.) (1981).
+           <i>
+            Sputtering by Particle bombardment:
+           </i>
+           . Springer, Berlin.
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/978-3-540-10521-3" title="Special:BookSources/978-3-540-10521-3">
+            978-3-540-10521-3
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Sputtering+by+Particle+bombardment%3A&amp;rft.pub=Springer%2C+Berlin&amp;rft.date=1981&amp;rft.isbn=978-3-540-10521-3&amp;rft.au=R.+Behrisch+%28ed.%29&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASputtering">
+           <span style="display:none;">
+           </span>
+          </span>
+          <span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">
+           CS1 maint: Extra text: authors list (
+           <a href="/wiki/Category:CS1_maint:_Extra_text:_authors_list" title="Category:CS1 maint: Extra text: authors list">
+            link
+           </a>
+           )
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-Sigmund1987-2">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-Sigmund1987_2-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation journal">
+           P. Sigmund, Nucl. Instr. Meth. Phys. Res. B (1987). "Mechanisms and theory of physical sputtering by particle impact".
+           <i>
+            Nuclear Instruments and Methods in Physics Research Section B
+           </i>
+           .
+           <b>
+            27
+           </b>
+           : 1.
+           <a href="/wiki/Bibcode" title="Bibcode">
+            Bibcode
+           </a>
+           :
+           <a class="external text" href="http://adsabs.harvard.edu/abs/1987NIMPB..27....1S" rel="nofollow">
+            1987NIMPB..27....1S
+           </a>
+           .
+           <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+            doi
+           </a>
+           :
+           <a class="external text" href="//doi.org/10.1016%2F0168-583X%2887%2990004-8" rel="nofollow">
+            10.1016/0168-583X(87)90004-8
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nuclear+Instruments+and+Methods+in+Physics+Research+Section+B&amp;rft.atitle=Mechanisms+and+theory+of+physical+sputtering+by+particle+impact&amp;rft.volume=27&amp;rft.pages=1&amp;rft.date=1987&amp;rft_id=info%3Adoi%2F10.1016%2F0168-583X%2887%2990004-8&amp;rft_id=info%3Abibcode%2F1987NIMPB..27....1S&amp;rft.au=P.+Sigmund%2C+Nucl.+Instr.+Meth.+Phys.+Res.+B&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASputtering">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-Behrisch2007-3">
+         <span class="mw-cite-backlink">
+          ^
+          <a href="#cite_ref-Behrisch2007_3-0">
+           <sup>
+            <i>
+             <b>
+              a
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-Behrisch2007_3-1">
+           <sup>
+            <i>
+             <b>
+              b
+             </b>
+            </i>
+           </sup>
+          </a>
+         </span>
+         <span class="reference-text">
+          <cite class="citation book">
+           R. Behrisch and W. Eckstein (eds.) (2007).
+           <i>
+            Sputtering by Particle bombardment: Experiments and Computer Calculations from Threshold to Mev Energies
+           </i>
+           . Springer, Berlin.
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Sputtering+by+Particle+bombardment%3A+Experiments+and+Computer+Calculations+from+Threshold+to+Mev+Energies&amp;rft.pub=Springer%2C+Berlin&amp;rft.date=2007&amp;rft.au=R.+Behrisch+and+W.+Eckstein+%28eds.%29&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASputtering">
+           <span style="display:none;">
+           </span>
+          </span>
+          <span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">
+           CS1 maint: Extra text: authors list (
+           <a href="/wiki/Category:CS1_maint:_Extra_text:_authors_list" title="Category:CS1 maint: Extra text: authors list">
+            link
+           </a>
+           )
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-Thompson-4">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-Thompson_4-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation journal">
+           M.W. Thompson (1962). "Energy spectrum of ejected atoms during the high- energy sputtering of gold".
+           <i>
+            Phil. Mag
+           </i>
+           .
+           <b>
+            18
+           </b>
+           (152): 377.
+           <a href="/wiki/Bibcode" title="Bibcode">
+            Bibcode
+           </a>
+           :
+           <a class="external text" href="http://adsabs.harvard.edu/abs/1968PMag...18..377T" rel="nofollow">
+            1968PMag...18..377T
+           </a>
+           .
+           <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+            doi
+           </a>
+           :
+           <a class="external text" href="//doi.org/10.1080%2F14786436808227358" rel="nofollow">
+            10.1080/14786436808227358
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Phil.+Mag.&amp;rft.atitle=Energy+spectrum+of+ejected+atoms+during+the+high-+energy+sputtering+of+gold&amp;rft.volume=18&amp;rft.issue=152&amp;rft.pages=377&amp;rft.date=1962&amp;rft_id=info%3Adoi%2F10.1080%2F14786436808227358&amp;rft_id=info%3Abibcode%2F1968PMag...18..377T&amp;rft.au=M.W.+Thompson&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASputtering">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-Ziegler1984-5">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-Ziegler1984_5-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation book">
+           J. F. Ziegler, J. P, Biersack, U. Littmark (1984).
+           <i>
+            The Stopping and Range of Ions in Solids," vol. 1 of series Stopping and Ranges of Ions in Matter
+           </i>
+           . Pergamon Press, New York.
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/978-0-08-021603-4" title="Special:BookSources/978-0-08-021603-4">
+            978-0-08-021603-4
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Stopping+and+Range+of+Ions+in+Solids%2C%22+vol.+1+of+series+Stopping+and+Ranges+of+Ions+in+Matter&amp;rft.pub=Pergamon+Press%2C+New+York&amp;rft.date=1984&amp;rft.isbn=978-0-08-021603-4&amp;rft.au=J.+F.+Ziegler%2C+J.+P%2C+Biersack%2C+U.+Littmark&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASputtering">
+           <span style="display:none;">
+           </span>
+          </span>
+          <span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">
+           CS1 maint: Multiple names: authors list (
+           <a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">
+            link
+           </a>
+           )
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-Ghaly1994-6">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-Ghaly1994_6-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation journal">
+           Mai Ghaly &amp; R. S. Averback (1994). "Effect of viscous flow on ion damage near solid surfaces".
+           <i>
+            Physical Review Letters
+           </i>
+           .
+           <b>
+            72
+           </b>
+           (3): 364–367.
+           <a href="/wiki/Bibcode" title="Bibcode">
+            Bibcode
+           </a>
+           :
+           <a class="external text" href="http://adsabs.harvard.edu/abs/1994PhRvL..72..364G" rel="nofollow">
+            1994PhRvL..72..364G
+           </a>
+           .
+           <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+            doi
+           </a>
+           :
+           <a class="external text" href="//doi.org/10.1103%2FPhysRevLett.72.364" rel="nofollow">
+            10.1103/PhysRevLett.72.364
+           </a>
+           .
+           <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">
+            PMID
+           </a>
+           <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/10056412" rel="nofollow">
+            10056412
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Physical+Review+Letters&amp;rft.atitle=Effect+of+viscous+flow+on+ion+damage+near+solid+surfaces&amp;rft.volume=72&amp;rft.issue=3&amp;rft.pages=364-367&amp;rft.date=1994&amp;rft_id=info%3Apmid%2F10056412&amp;rft_id=info%3Adoi%2F10.1103%2FPhysRevLett.72.364&amp;rft_id=info%3Abibcode%2F1994PhRvL..72..364G&amp;rft.au=Mai+Ghaly&amp;rft.au=R.+S.+Averback&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASputtering">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-Bouneau1982-7">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-Bouneau1982_7-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation journal">
+           S. Bouneau; A. Brunelle; S. Della-Negra; J. Depauw; D. Jacquet; Y. L. Beyec; M. Pautrat; M. Fallavier; J. C. Poizat &amp; H. H. Andersen (2002). "Very large gold and silver sputtering yields induced by keV to MeV energy Au
+           <sub>
+            n
+           </sub>
+           clusters (n=1–13)".
+           <i>
+            Phys. Rev. B
+           </i>
+           .
+           <b>
+            65
+           </b>
+           (14): 144106.
+           <a href="/wiki/Bibcode" title="Bibcode">
+            Bibcode
+           </a>
+           :
+           <a class="external text" href="http://adsabs.harvard.edu/abs/2002PhRvB..65n4106B" rel="nofollow">
+            2002PhRvB..65n4106B
+           </a>
+           .
+           <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+            doi
+           </a>
+           :
+           <a class="external text" href="//doi.org/10.1103%2FPhysRevB.65.144106" rel="nofollow">
+            10.1103/PhysRevB.65.144106
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Phys.+Rev.+B&amp;rft.atitle=Very+large+gold+and+silver+sputtering+yields+induced+by+keV+to+MeV+energy+Au%3Csub%3En%3C%2Fsub%3E+clusters+%28n%3D1%E2%80%9313%29&amp;rft.volume=65&amp;rft.issue=14&amp;rft.pages=144106&amp;rft.date=2002&amp;rft_id=info%3Adoi%2F10.1103%2FPhysRevB.65.144106&amp;rft_id=info%3Abibcode%2F2002PhRvB..65n4106B&amp;rft.au=S.+Bouneau&amp;rft.au=A.+Brunelle&amp;rft.au=S.+Della-Negra&amp;rft.au=J.+Depauw&amp;rft.au=D.+Jacquet&amp;rft.au=Y.+L.+Beyec&amp;rft.au=M.+Pautrat&amp;rft.au=M.+Fallavier&amp;rft.au=J.+C.+Poizat&amp;rft.au=H.+H.+Andersen&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASputtering">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-Schenkel1997-8">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-Schenkel1997_8-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation journal">
+           T. Schenkel; Briere, M.; Schmidt-Böcking, H.; Bethge, K.; Schneider, D.; et al. (1997). "Electronic Sputtering of Thin Conductors by Neutralization of Slow Highly Charged Ions".
+           <i>
+            Physical Review Letters
+           </i>
+           .
+           <b>
+            78
+           </b>
+           (12): 2481.
+           <a href="/wiki/Bibcode" title="Bibcode">
+            Bibcode
+           </a>
+           :
+           <a class="external text" href="http://adsabs.harvard.edu/abs/1997PhRvL..78.2481S" rel="nofollow">
+            1997PhRvL..78.2481S
+           </a>
+           .
+           <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+            doi
+           </a>
+           :
+           <a class="external text" href="//doi.org/10.1103%2FPhysRevLett.78.2481" rel="nofollow">
+            10.1103/PhysRevLett.78.2481
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Physical+Review+Letters&amp;rft.atitle=Electronic+Sputtering+of+Thin+Conductors+by+Neutralization+of+Slow+Highly+Charged+Ions&amp;rft.volume=78&amp;rft.issue=12&amp;rft.pages=2481&amp;rft.date=1997&amp;rft_id=info%3Adoi%2F10.1103%2FPhysRevLett.78.2481&amp;rft_id=info%3Abibcode%2F1997PhRvL..78.2481S&amp;rft.au=T.+Schenkel&amp;rft.au=Briere%2C+M.&amp;rft.au=Schmidt-B%C3%B6cking%2C+H.&amp;rft.au=Bethge%2C+K.&amp;rft.au=Schneider%2C+D.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASputtering">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-9">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-9">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation book">
+           Johnson, R. E.; Carlson, R. W.; Cooper, J. F.; Paranicas, C.; Moore, M. H.; Wong, M. C. (2004). Fran Bagenal; Timothy E. Dowling; William B. McKinnon, eds.
+           <i>
+            Radiation effects on the surfaces of the Galilean satellites. In: Jupiter. The planet, satellites and magnetosphere
+           </i>
+           .
+           <b>
+            1
+           </b>
+           . Cambridge, UK: Cambridge University Press. pp. 485–512.
+           <a href="/wiki/Bibcode" title="Bibcode">
+            Bibcode
+           </a>
+           :
+           <a class="external text" href="http://adsabs.harvard.edu/abs/2004jpsm.book..485J" rel="nofollow">
+            2004jpsm.book..485J
+           </a>
+           .
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/0-521-81808-7" title="Special:BookSources/0-521-81808-7">
+            0-521-81808-7
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Radiation+effects+on+the+surfaces+of+the+Galilean+satellites.+In%3A+Jupiter.+The+planet%2C+satellites+and+magnetosphere&amp;rft.place=Cambridge%2C+UK&amp;rft.pages=485-512&amp;rft.pub=Cambridge+University+Press&amp;rft.date=2004&amp;rft_id=info%3Abibcode%2F2004jpsm.book..485J&amp;rft.isbn=0-521-81808-7&amp;rft.au=Johnson%2C+R.+E.&amp;rft.au=Carlson%2C+R.+W.&amp;rft.au=Cooper%2C+J.+F.&amp;rft.au=Paranicas%2C+C.&amp;rft.au=Moore%2C+M.+H.&amp;rft.au=Wong%2C+M.+C.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASputtering">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-Neidhart1995-10">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-Neidhart1995_10-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation journal">
+           T. Neidhart; Pichler, F.; Aumayr, F.; Winter, HP.; Schmid, M.; Varga, P.; et al. (1995). "Potential sputtering of lithium fluoride by slow multicharged ions".
+           <i>
+            Physical Review Letters
+           </i>
+           .
+           <b>
+            74
+           </b>
+           (26): 5280–5283.
+           <a href="/wiki/Bibcode" title="Bibcode">
+            Bibcode
+           </a>
+           :
+           <a class="external text" href="http://adsabs.harvard.edu/abs/1995PhRvL..74.5280N" rel="nofollow">
+            1995PhRvL..74.5280N
+           </a>
+           .
+           <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+            doi
+           </a>
+           :
+           <a class="external text" href="//doi.org/10.1103%2FPhysRevLett.74.5280" rel="nofollow">
+            10.1103/PhysRevLett.74.5280
+           </a>
+           .
+           <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">
+            PMID
+           </a>
+           <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/10058728" rel="nofollow">
+            10058728
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Physical+Review+Letters&amp;rft.atitle=Potential+sputtering+of+lithium+fluoride+by+slow+multicharged+ions&amp;rft.volume=74&amp;rft.issue=26&amp;rft.pages=5280-5283&amp;rft.date=1995&amp;rft_id=info%3Apmid%2F10058728&amp;rft_id=info%3Adoi%2F10.1103%2FPhysRevLett.74.5280&amp;rft_id=info%3Abibcode%2F1995PhRvL..74.5280N&amp;rft.au=T.+Neidhart&amp;rft.au=Pichler%2C+F.&amp;rft.au=Aumayr%2C+F.&amp;rft.au=Winter%2C+HP.&amp;rft.au=Schmid%2C+M.&amp;rft.au=Varga%2C+P.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASputtering">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-Sporn1997-11">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-Sporn1997_11-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation journal">
+           M. Sporn; Libiseller, G.; Neidhart, T.; Schmid, M.; Aumayr, F.; Winter, HP.; Varga, P.; Grether, M.; Niemann, D.; Stolterfoht, N.; et al. (1997). "Potential Sputtering of Clean SiO
+           <sub>
+            2
+           </sub>
+           by Slow Highly Charged Ions".
+           <i>
+            Physical Review Letters
+           </i>
+           .
+           <b>
+            79
+           </b>
+           (5): 945.
+           <a href="/wiki/Bibcode" title="Bibcode">
+            Bibcode
+           </a>
+           :
+           <a class="external text" href="http://adsabs.harvard.edu/abs/1997PhRvL..79..945S" rel="nofollow">
+            1997PhRvL..79..945S
+           </a>
+           .
+           <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+            doi
+           </a>
+           :
+           <a class="external text" href="//doi.org/10.1103%2FPhysRevLett.79.945" rel="nofollow">
+            10.1103/PhysRevLett.79.945
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Physical+Review+Letters&amp;rft.atitle=Potential+Sputtering+of+Clean+SiO%3Csub%3E2%3C%2Fsub%3E+by+Slow+Highly+Charged+Ions&amp;rft.volume=79&amp;rft.issue=5&amp;rft.pages=945&amp;rft.date=1997&amp;rft_id=info%3Adoi%2F10.1103%2FPhysRevLett.79.945&amp;rft_id=info%3Abibcode%2F1997PhRvL..79..945S&amp;rft.au=M.+Sporn&amp;rft.au=Libiseller%2C+G.&amp;rft.au=Neidhart%2C+T.&amp;rft.au=Schmid%2C+M.&amp;rft.au=Aumayr%2C+F.&amp;rft.au=Winter%2C+HP.&amp;rft.au=Varga%2C+P.&amp;rft.au=Grether%2C+M.&amp;rft.au=Niemann%2C+D.&amp;rft.au=Stolterfoht%2C+N.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASputtering">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-Aumayr2004-12">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-Aumayr2004_12-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation journal">
+           F. Aumayr &amp; H. P. Winter (2004). "Potential sputtering".
+           <i>
+            <a href="/wiki/Philosophical_Transactions_of_the_Royal_Society_A" title="Philosophical Transactions of the Royal Society A">
+             Philosophical Transactions of the Royal Society A
+            </a>
+           </i>
+           .
+           <b>
+            362
+           </b>
+           (1814): 77–102.
+           <a href="/wiki/Bibcode" title="Bibcode">
+            Bibcode
+           </a>
+           :
+           <a class="external text" href="http://adsabs.harvard.edu/abs/2004RSPTA.362...77A" rel="nofollow">
+            2004RSPTA.362...77A
+           </a>
+           .
+           <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+            doi
+           </a>
+           :
+           <a class="external text" href="//doi.org/10.1098%2Frsta.2003.1300" rel="nofollow">
+            10.1098/rsta.2003.1300
+           </a>
+           .
+           <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">
+            PMID
+           </a>
+           <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/15306277" rel="nofollow">
+            15306277
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Philosophical+Transactions+of+the+Royal+Society+A&amp;rft.atitle=Potential+sputtering&amp;rft.volume=362&amp;rft.issue=1814&amp;rft.pages=77-102&amp;rft.date=2004&amp;rft_id=info%3Apmid%2F15306277&amp;rft_id=info%3Adoi%2F10.1098%2Frsta.2003.1300&amp;rft_id=info%3Abibcode%2F2004RSPTA.362...77A&amp;rft.au=F.+Aumayr&amp;rft.au=H.+P.+Winter&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASputtering">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-Hayderer1999-13">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-Hayderer1999_13-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation journal">
+           G. Hayderer; Schmid, M.; Varga, P.; Winter, H; Aumayr, F.; Wirtz, L.; Lemell, C.; Burgdörfer, J.; Hägg, L.; Reinhold, C.; et al. (1999). "Threshold for Potential Sputtering of LiF".
+           <i>
+            Physical Review Letters
+           </i>
+           .
+           <b>
+            83
+           </b>
+           (19): 3948.
+           <a href="/wiki/Bibcode" title="Bibcode">
+            Bibcode
+           </a>
+           :
+           <a class="external text" href="http://adsabs.harvard.edu/abs/1999PhRvL..83.3948H" rel="nofollow">
+            1999PhRvL..83.3948H
+           </a>
+           .
+           <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+            doi
+           </a>
+           :
+           <a class="external text" href="//doi.org/10.1103%2FPhysRevLett.83.3948" rel="nofollow">
+            10.1103/PhysRevLett.83.3948
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Physical+Review+Letters&amp;rft.atitle=Threshold+for+Potential+Sputtering+of+LiF&amp;rft.volume=83&amp;rft.issue=19&amp;rft.pages=3948&amp;rft.date=1999&amp;rft_id=info%3Adoi%2F10.1103%2FPhysRevLett.83.3948&amp;rft_id=info%3Abibcode%2F1999PhRvL..83.3948H&amp;rft.au=G.+Hayderer&amp;rft.au=Schmid%2C+M.&amp;rft.au=Varga%2C+P.&amp;rft.au=Winter%2C+H&amp;rft.au=Aumayr%2C+F.&amp;rft.au=Wirtz%2C+L.&amp;rft.au=Lemell%2C+C.&amp;rft.au=Burgd%C3%B6rfer%2C+J.&amp;rft.au=H%C3%A4gg%2C+L.&amp;rft.au=Reinhold%2C+C.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASputtering">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-Schoolcraft1991-14">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-Schoolcraft1991_14-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation journal">
+           T. A. Schoolcraft and B. J. Garrison, Journal of the American Chemical Society (1991). "Initial stages of etching of the silicon Si110 2x1 surface by 3.0-eV normal incident fluorine atoms: a molecular dynamics study".
+           <i>
+            Journal of the American Chemical Society
+           </i>
+           .
+           <b>
+            113
+           </b>
+           (22): 8221.
+           <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+            doi
+           </a>
+           :
+           <a class="external text" href="//doi.org/10.1021%2Fja00022a005" rel="nofollow">
+            10.1021/ja00022a005
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+the+American+Chemical+Society&amp;rft.atitle=Initial+stages+of+etching+of+the+silicon+Si110+2x1+surface+by+3.0-eV+normal+incident+fluorine+atoms%3A+a+molecular+dynamics+study&amp;rft.volume=113&amp;rft.issue=22&amp;rft.pages=8221&amp;rft.date=1991&amp;rft_id=info%3Adoi%2F10.1021%2Fja00022a005&amp;rft.au=T.+A.+Schoolcraft+and+B.+J.+Garrison%2C+Journal+of+the+American+Chemical+Society&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASputtering">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-Küppers1995-15">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-Küppers1995_15-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation journal">
+           J. Küppers (1995). "The hydrogen surface chemistry of carbon as a plasma facing material".
+           <i>
+            Surface Science Reports
+           </i>
+           .
+           <b>
+            22
+           </b>
+           (7–8): 249.
+           <a href="/wiki/Bibcode" title="Bibcode">
+            Bibcode
+           </a>
+           :
+           <a class="external text" href="http://adsabs.harvard.edu/abs/1995SurSR..22..249K" rel="nofollow">
+            1995SurSR..22..249K
+           </a>
+           .
+           <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+            doi
+           </a>
+           :
+           <a class="external text" href="//doi.org/10.1016%2F0167-5729%2896%2980002-1" rel="nofollow">
+            10.1016/0167-5729(96)80002-1
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Surface+Science+Reports&amp;rft.atitle=The+hydrogen+surface+chemistry+of+carbon+as+a+plasma+facing+material&amp;rft.volume=22&amp;rft.issue=7%E2%80%938&amp;rft.pages=249&amp;rft.date=1995&amp;rft_id=info%3Adoi%2F10.1016%2F0167-5729%2896%2980002-1&amp;rft_id=info%3Abibcode%2F1995SurSR..22..249K&amp;rft.au=J.+K%C3%BCppers&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASputtering">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-Salonen2001-16">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-Salonen2001_16-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation journal">
+           E. Salonen; Nordlund, K.; Keinonen, J.; Wu, C.; et al. (2001). "Swift chemical sputtering of amorphous hydrogenated carbon".
+           <i>
+            Physical Review B
+           </i>
+           .
+           <b>
+            63
+           </b>
+           (19): 195415.
+           <a href="/wiki/Bibcode" title="Bibcode">
+            Bibcode
+           </a>
+           :
+           <a class="external text" href="http://adsabs.harvard.edu/abs/2001PhRvB..63s5415S" rel="nofollow">
+            2001PhRvB..63s5415S
+           </a>
+           .
+           <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+            doi
+           </a>
+           :
+           <a class="external text" href="//doi.org/10.1103%2FPhysRevB.63.195415" rel="nofollow">
+            10.1103/PhysRevB.63.195415
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Physical+Review+B&amp;rft.atitle=Swift+chemical+sputtering+of+amorphous+hydrogenated+carbon&amp;rft.volume=63&amp;rft.issue=19&amp;rft.pages=195415&amp;rft.date=2001&amp;rft_id=info%3Adoi%2F10.1103%2FPhysRevB.63.195415&amp;rft_id=info%3Abibcode%2F2001PhRvB..63s5415S&amp;rft.au=E.+Salonen&amp;rft.au=Nordlund%2C+K.&amp;rft.au=Keinonen%2C+J.&amp;rft.au=Wu%2C+C.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASputtering">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+       </ol>
+      </div>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Sputtering&amp;action=edit&amp;section=11" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+       <tr>
+        <td class="mbox-image">
+         <img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/>
+        </td>
+        <td class="mbox-text plainlist">
+         Wikimedia Commons has media related to
+         <i>
+          <b>
+           <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Sputtering" title="commons:Category:Sputtering">
+            Sputtering
+           </a>
+          </b>
+         </i>
+         .
+        </td>
+       </tr>
+      </table>
+      <ul>
+       <li>
+        <a class="external text" href="http://www.vem-co.com/thin-film-evaporation-guide" rel="nofollow">
+         Thin Film Evaporation Guide
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://www.ajaint.com/whatis.htm" rel="nofollow">
+         What is Sputtering?
+        </a>
+        - an introduction with animations
+       </li>
+       <li>
+        <a class="external text" href="http://www.heraeus-targets.com/en/technology/_sputteringbasics/sputtering.aspx" rel="nofollow">
+         Sputtering Basics - animated film of a sputtering process
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://sites.google.com/site/KalypsoSimulation" rel="nofollow">
+         Free molecular dynamics simulation program (Kalypso) capable of modeling sputtering
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://www.avs.org/education.catalog.aspx" rel="nofollow">
+         American Vacuum Society short courses
+        </a>
+        on thin film deposition
+       </li>
+       <li>
+        <a class="external text" href="http://www.advanced-energy.com/en/upload/File/Reprints/Reactive%20Sputt%20Using%20Dual-Anode%20Mag%20Syst.pdf" rel="nofollow">
+         Reactive Sputtering Using A Dual-Anode Magnetron System
+        </a>
+       </li>
+       <li>
+        <cite class="citation journal">
+         H. R. Kaufman, J. J. Cuomo and J. M. E. Harper (1982). "Technology and applications of broad-beam ion sources used in sputtering. Part I. Ion source technology".
+         <i>
+          Journal of Vacuum Science and Technology
+         </i>
+         .
+         <b>
+          21
+         </b>
+         (3): 725–736.
+         <a href="/wiki/Bibcode" title="Bibcode">
+          Bibcode
+         </a>
+         :
+         <a class="external text" href="http://adsabs.harvard.edu/abs/1982JVST...21..725K" rel="nofollow">
+          1982JVST...21..725K
+         </a>
+         .
+         <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+          doi
+         </a>
+         :
+         <a class="external text" href="//doi.org/10.1116%2F1.571819" rel="nofollow">
+          10.1116/1.571819
+         </a>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Vacuum+Science+and+Technology&amp;rft.atitle=Technology+and+applications+of+broad-beam+ion+sources+used+in+sputtering.+Part+I.+Ion+source+technology&amp;rft.volume=21&amp;rft.issue=3&amp;rft.pages=725-736&amp;rft.date=1982&amp;rft_id=info%3Adoi%2F10.1116%2F1.571819&amp;rft_id=info%3Abibcode%2F1982JVST...21..725K&amp;rft.au=H.+R.+Kaufman%2C+J.+J.+Cuomo+and+J.+M.+E.+Harper&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASputtering">
+         <span style="display:none;">
+         </span>
+        </span>
+        (The original paper on Kaufman sputter sources.)
+       </li>
+       <li>
+        <cite class="citation audio-visual">
+         <a class="external text" href="https://www.youtube.com/watch?v=vLGxAC2DxSs" rel="nofollow">
+          <i>
+           Re: Displacement Cascade 1
+          </i>
+         </a>
+         . YouTube. 2008.
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Re%3A+Displacement+Cascade+1&amp;rft.pub=YouTube&amp;rft.date=2008&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DvLGxAC2DxSs&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASputtering">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+      </ul>
+      <div aria-label="Navbox" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <a href="/wiki/Help:Authority_control" title="Help:Authority control">
+           Authority control
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <span class="nowrap">
+              <a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">
+               LCCN
+              </a>
+              :
+              <span class="uid">
+               <a class="external text" href="http://id.loc.gov/authorities/subjects/sh85127061" rel="nofollow">
+                sh85127061
+               </a>
+              </span>
+             </span>
+            </li>
+            <li>
+             <span class="nowrap">
+              <a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">
+               GND
+              </a>
+              :
+              <span class="uid">
+               <a class="external text" href="https://d-nb.info/gnd/4182614-0" rel="nofollow">
+                4182614-0
+               </a>
+              </span>
+             </span>
+            </li>
+            <li>
+             <span class="nowrap">
+              <a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">
+               BNF
+              </a>
+              :
+              <span class="uid">
+               <a class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb121281963" rel="nofollow">
+                cb121281963
+               </a>
+               <a class="external text" href="http://data.bnf.fr/ark:/12148/cb121281963" rel="nofollow">
+                (data)
+               </a>
+              </span>
+             </span>
+            </li>
+            <li>
+             <span class="nowrap">
+              <a href="/wiki/National_Diet_Library" title="National Diet Library">
+               NDL
+              </a>
+              :
+              <span class="uid">
+               <a class="external text" href="https://id.ndl.go.jp/auth/ndlna/01155699" rel="nofollow">
+                01155699
+               </a>
+              </span>
+             </span>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1249
+Cached time: 20180316141731
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.248 seconds
+Real time usage: 0.288 seconds
+Preprocessor visited node count: 1081/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 41453/2097152 bytes
+Template argument size: 294/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 23263/5000000 bytes
+Lua time usage: 0.133/10.000 seconds
+Lua memory usage: 3.03 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  241.105      1 -total
+ 63.64%  153.441      1 Template:Reflist
+ 33.35%   80.415     13 Template:Cite_journal
+ 19.49%   46.989      4 Template:Cite_book
+ 14.50%   34.964      1 Template:Commons_category
+  8.26%   19.927      1 Template:Authority_control
+  7.51%   18.113      1 Template:Main
+  4.26%   10.264      1 Template:Commons
+  3.68%    8.864      1 Template:Sister_project
+  2.82%    6.811      1 Template:Side_box
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:28627-0!canonical and timestamp 20180316141730 and revision id 829684671
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Sputtering&amp;oldid=829684671">
+      https://en.wikipedia.org/w/index.php?title=Sputtering&amp;oldid=829684671
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Coatings" title="Category:Coatings">
+         Coatings
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Materials_science" title="Category:Materials science">
+         Materials science
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:CS1_maint:_Extra_text:_authors_list" title="Category:CS1 maint: Extra text: authors list">
+         CS1 maint: Extra text: authors list
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">
+         CS1 maint: Multiple names: authors list
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">
+         Wikipedia articles with LCCN identifiers
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">
+         Wikipedia articles with GND identifiers
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">
+         Wikipedia articles with BNF identifiers
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Sputtering" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Sputtering" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Sputtering" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Sputtering" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Sputtering">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Sputtering&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Sputtering&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Sputtering" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Sputtering" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Sputtering&amp;oldid=829684671" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Sputtering&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q898444" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Sputtering&amp;id=829684671" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Sputtering">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Sputtering&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Sputtering&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Category:Sputtering" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%B1%D8%B4_%D9%85%D9%87%D8%A8%D8%B7%D9%8A" hreflang="ar" lang="ar" title="رش مهبطي – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bg">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B7%D0%BF%D1%80%D0%B0%D1%88%D0%B2%D0%B0%D0%BD%D0%B5" hreflang="bg" lang="bg" title="Разпрашване – Bulgarian">
+         Български
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Polvoritzaci%C3%B3_cat%C3%B2dica" hreflang="ca" lang="ca" title="Polvorització catòdica – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Sputtern" hreflang="de" lang="de" title="Sputtern – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Pulverizaci%C3%B3n_cat%C3%B3dica" hreflang="es" lang="es" title="Pulverización catódica – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%DA%A9%D9%86%D8%AF%D9%88%D9%BE%D8%A7%D8%B4" hreflang="fa" lang="fa" title="کندوپاش – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Pulv%C3%A9risation_cathodique" hreflang="fr" lang="fr" title="Pulvérisation cathodique – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%8A%A4%ED%8D%BC%ED%84%B0%EB%A7%81" hreflang="ko" lang="ko" title="스퍼터링 – Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hy">
+        <a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D4%BF%D5%A1%D5%A9%D5%B8%D5%A4%D5%A1%D5%B5%D5%AB%D5%B6_%D6%83%D5%B8%D5%B7%D5%AB%D5%A1%D6%81%D5%B8%D6%82%D5%B4" hreflang="hy" lang="hy" title="Կաթոդային փոշիացում – Armenian">
+         Հայերեն
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hi">
+        <a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%95%E0%A4%A3_%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%87%E0%A4%AA%E0%A4%A3" hreflang="hi" lang="hi" title="कण क्षेपण – Hindi">
+         हिन्दी
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Polverizzazione_catodica" hreflang="it" lang="it" title="Polverizzazione catodica – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Sputteren" hreflang="nl" lang="nl" title="Sputteren – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%91%E3%83%83%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0" hreflang="ja" lang="ja" title="スパッタリング – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Pulveriza%C3%A7%C3%A3o_cat%C3%B3dica" hreflang="pt" lang="pt" title="Pulverização catódica – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%98%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5_%D1%80%D0%B0%D1%81%D0%BF%D1%8B%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5" hreflang="ru" lang="ru" title="Ионное распыление – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E6%BA%85%E5%B0%84" hreflang="zh" lang="zh" title="溅射 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q898444#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 10 March 2018, at 03:55.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Sputtering&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.248","walltime":"0.288","ppvisitednodes":{"value":1081,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":41453,"limit":2097152},"templateargumentsize":{"value":294,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":23263,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  241.105      1 -total"," 63.64%  153.441      1 Template:Reflist"," 33.35%   80.415     13 Template:Cite_journal"," 19.49%   46.989      4 Template:Cite_book"," 14.50%   34.964      1 Template:Commons_category","  8.26%   19.927      1 Template:Authority_control","  7.51%   18.113      1 Template:Main","  4.26%   10.264      1 Template:Commons","  3.68%    8.864      1 Template:Sister_project","  2.82%    6.811      1 Template:Side_box"]},"scribunto":{"limitreport-timeusage":{"value":"0.133","limit":"10.000"},"limitreport-memusage":{"value":3179962,"limit":52428800}},"cachereport":{"origin":"mw1249","timestamp":"20180316141731","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":78,"wgHostname":"mw1271"});});
+  </script>
+ </body>
+</html>

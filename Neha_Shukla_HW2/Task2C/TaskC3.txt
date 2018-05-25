@@ -1,0 +1,55 @@
+Top 10 results of Inlinks count:
+
+Rank Document_Id                         Inlink Count
+1.   Solar_eclipse                        680
+2.   Eclipse                              625
+3.   Solar_eclipses_on_the_Moon           595
+4.   Moon                                 547
+5.   Transit_(astronomy)                  530
+6.   Sun                                  525
+7.   Solar_eclipse_of_August_11,_1999     523
+8.   Saros_(astronomy)                    523
+9.   Solar_eclipse_of_May_29,_1919        522
+10.  Solar_eclipse_of_August_21,_2017     522
+
+Top 10 results of Page rank:
+
+Rank Document_Id                                      PageRank Value
+1.   Virtual_International_Authority_File             0.020338218996984046
+2.   International_Standard_Book_Number               0.020096583364654873
+3.   Digital_object_identifier                        0.017563883676440063
+4.   Integrated_Authority_File                        0.01560163467132466
+5.   Wayback_Machine                                  0.01284234606624947
+6.   Biblioth%C3%A8que_nationale_de_France            0.011737036374080191
+7.   International_Standard_Name_Identifier           0.01083650461620879
+8.   Library_of_Congress_Control_Number               0.009967670164164739
+9.   National_Diet_Library                            0.00807828990200976
+10.  OCLC                                             0.007087362643491363
+
+
+Pros of using Inlink count:
+
+1. Simple and easy to update/maintain:
+Web documents are updated from time-to-time and therefore it is easier to maintain the inlink counts over re-computing the pageranks for the entire corpus. So in the scenario where pages are updated very frequently, it becomes convenient to re-rank documents
+on the basis of their inlink counts as compared to the page rank values. The documents that are more recent and fresh can get higher priority in the rankings done by Inlink count.
+
+2. Good for finding importance of documents within a given domain:
+As we can see from our result that the 1000 crawled links used for Link Analysis had seed URL as "Solar_eclipse". It makes sense to consider inlink counts rankings for a corpus which contains links related to a specific domain when search engine design requires
+addressing to a specific domain. Sorting by inlink count has effectively displayed the results related to the seed page - "Solar_eclipse" whereas PageRank considers documents from different domain and so will be of less value for this particular case.
+
+
+Cons of using Inlink count over page rank:
+
+1. Neglects the importance of Inlink pages:
+Sorting the documents using Inlinks count does not account for the quality of inlink pages that are referring to a web document. It merely counts the number of pages that are pointing to a document and ranks them irrespective of their order of importance.
+Therefore, it fails the analysis that page rank does which is very helpful in understanding the importance and the correctness of the search output.
+In the results, we can see that, when the documents were sorted as per inlink values, many of the documents that occurred in the page rank top results were missed.
+For example:
+Top result in Page Rank results "Virtual_International_Authority_File" is referred by the documents such as
+International_Standard_Book_Number, Digital_object_identifier, Library_of_Congress_Control_Number, Integrated_Authority_File,
+National_Diet_Library..(refer G1.txt). These inlinks have greater values for page rank but the document "Virtual_International_Authority_File"
+was totally missed while we ordered results using inlinks count.
+
+2.Does not consider Sink Nodes:
+One of the major issues with using Inlinks count to rank documents is that the top results documents could be sink nodes. There is obviously no account for the outlinks of the top results and therefore the quality of the search output degrades. Moreover, the ranking of a document could be easily boosted by simply referring to that document by n different
+pages. So if I add any page with name "abc" and create more than 680 new pages referring to my new page "abc", it will come above Solar_eclipse in the ranking. Whereas it is very difficult(not impossible) to do the same with PageRank results.
