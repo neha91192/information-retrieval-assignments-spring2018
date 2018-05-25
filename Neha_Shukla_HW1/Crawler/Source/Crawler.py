@@ -12,7 +12,6 @@ import re
 import time
 from urllib.parse import urlparse
 import enchant
-import sys
 import os
 
 '''
@@ -116,32 +115,41 @@ class Crawler:
     def getURLs(self, url):
         
         response = urlopen(url)
+        #Check for redirection
+   
         html = response.read()
         time.sleep(self.timeout)  # takes care of politeness policy
 
-        soup = BeautifulSoup(html, 'html.parser')
-        content = soup.find('body')
-        
+        soup = BeautifulSoup(html.decode('utf-8'), 'html.parser')
+        content = soup.find('html')
+
         pattern = re.compile(self.urlFilterRegex)
         
-        filteredLinks = content.find_all('a', attrs={'href' : pattern})  
+        filteredLinks = soup.find_all('a', attrs={'href' : pattern}) 
+
         url_list = []
         for link in filteredLinks:
             path = link['href']
             completeURL = self.urlPrefix + path
-            if(self.is_bfs and completeURL in self.bfs_visited):
+            if(self.is_bfs and self.is_visited(completeURL, self.bfs_visited)):
                 continue
-            elif(self.is_dfs and completeURL in self.dfs_visited):
+            elif(self.is_dfs and completeURL.strip() in self.dfs_visited):
                 continue
-            if(completeURL not in url_list):
+            if(not(self.is_visited(completeURL, url_list))):  
                 if(self.is_focused_crawl and not self.is_link_relevant(path)):
                     continue
                 url_list.append(completeURL)
+    
 
         if(self.is_bfs and not self.is_focused_crawl and self.file_index_count <= self.crawl_size):
-            self.downloadContent(html)
+            self.downloadContent(content.prettify())
 
-        return url_list       
+        return url_list
+    
+    def is_visited(self,link, list_to_check):
+        is_visited = link.lower() in (n.lower() for n in list_to_check)
+        return is_visited
+      
 
     '''
 
@@ -197,18 +205,20 @@ class Crawler:
 
             if(exit_flag is False):
                 for i in range(0, len(frontier)):
-                    frontier_child = self.getURLs(frontier[i])
-                    
-                    if(len(self.bfs_visited) < self.crawl_size):
-                        self.bfs_visited.append(frontier[i])
+                    if(frontier[i] not in self.bfs_visited):
+                        frontier_child = self.getURLs(frontier[i])
+                        if(len(self.bfs_visited) < self.crawl_size ):
+                            self.bfs_visited.append(frontier[i])
+                        else:
+                            return
                     else:
-                        return
-
-                bfs_children_list.append(frontier_child)
+                        continue
+                    bfs_children_list.append(frontier_child)
                 self.bfs_depth = self.bfs_depth + 1
+                print(self.bfs_depth)
                 del frontier[:]
 
-            while(len(bfs_children_list) > 0 and self.bfs_depth <= self.max_depth):
+            while(len(bfs_children_list) > 0 and self.bfs_depth < self.max_depth):
                 self.crawl_bfs(bfs_children_list.pop(0))  
             
    
@@ -231,29 +241,27 @@ class Crawler:
     7. Repeat the same step for the next keyword in the list
     '''
     def is_link_relevant(self, link):
-        tokenized_link = link.split('/')  # Splits link using '/' and stores all the word in a list
-        saved_list = []
+        tokenized_url_list = link.split('/')  # Splits link using '/' and stores all the word in a list
+        candidate_list = []
          
         for keyword in self.keyword:
             match_count = True
-            for each_word in tokenized_link:  # Compares if each word in the list matches with the keyword and saves in a list for future processing
+            for each_word in tokenized_url_list:  # Compares if each word in the list matches with the keyword and saves in a list for future processing
                 if(keyword.lower() in each_word.lower()):   
-                    saved_list.append(each_word)
+                    candidate_list.append(each_word)
                 
-            if(saved_list != []):
-                for word in saved_list:
-                    processed_word = re.sub('[^A-Za-z0-9]+', ' ', word.lower())  # Removes special character
-                if(processed_word == keyword):
-                    return True
-                else:
-                    processed_word_list = processed_word.split(' ')  # Splits the word using keyword and stores in a list
-                    if keyword in processed_word_list:
-                        processed_word_list.remove(keyword)
-                    if '' in processed_word_list:
-                        processed_word_list.remove('')  # Removes additional empty value in the list 
-                if(processed_word_list != []):
+            if(candidate_list != []):
+                for word in candidate_list:
+                    if(keyword == word):
+                        return True
+                    else:
+                        processed_word = re.sub('[^A-Za-z0-9]+', ' ', word.lower())
+                        if(keyword in processed_word):
+                            decompounded_word = processed_word.split(keyword)
+                        
+                if(decompounded_word != []):
                     enchant_checker = enchant.Dict("en_US")
-                    for each in processed_word_list:
+                    for each in decompounded_word:
                         found = False
                         if enchant_checker.check(each):
                             found = True
@@ -284,9 +292,10 @@ class Crawler:
             file = open(directory_path + '/dfs.txt', 'w+')
         
         for i in range(0, len(visited_links)):
-            file.write("%s\n" % visited_links[i])
+            print(visited_links[i])
+            #file.write(visited_links[i]+'\n')
             if(self.is_bfs and not self.is_focused_crawl):
-                file2.write(str(i + 1) + ": " + "%s\n" % visited_links[i])
+                file2.write(str(i + 1) + ": " + "%s\n" % self.fetch_doc_id(visited_links[i]))
         file.close()
     
     '''
@@ -298,60 +307,104 @@ class Crawler:
         directory_path = rel_path + '/downloaded_files/bfs_content_files'
         if not os.path.exists(directory_path):
             os.makedirs(directory_path, 0o777)
-        file = open(directory_path + '/' + str(self.file_index_count) + ".txt", "wb")
-
-        file.write(data)
+        file = open(directory_path + '/' + str(self.file_index_count) + ".txt", "w", encoding='utf-8')
+        
+        file.write(str(data))
         file.close()  
         self.file_index_count = self.file_index_count + 1
         
-
-def main(seed, keyword):
-
-        crawler = Crawler(seed, keyword)
-        crawler.setUrlPrefix()
-
-        if(crawler.keyword!=[]):
-            crawler.is_focused_crawl = True
-            print("Starting focused crawl..")
-            crawler.is_bfs = True
-            crawler.crawl_bfs(crawler.frontier)
-            print("Printing visited crawls..")
-            crawler.printData(crawler.bfs_visited)
-            crawler.is_bfs = False
-            crawler.is_focused_crawl = False
-            print("Focused crawl completed!")
-        else:
-            print("Starting BFS crawl..")
-            crawler.is_bfs = True
-            crawler.crawl_bfs(crawler.frontier)
-            print("Printing bfs visited crawls..")
-            crawler.printData(crawler.bfs_visited)
-            crawler.is_bfs = False
-            print("BFS crawl completed!")
-            
-            print("Starting DFS crawl")
-            crawler.is_dfs = True
-            crawler.frontier = [seed]
-            crawler.crawl_dfs(crawler.frontier)
-            print("Printing dfs visited crawls..")
-            crawler.printData(crawler.dfs_visited)
-            crawler.is_dfs = False
-            print("DFS crawl completed!")
- 
-if __name__ == '__main__':
-    
-    if(len(sys.argv) ==1):
-        raise Exception("Please pass the argument(s)\nTo perform Task 1 for BFS and DFS crawling, please provide seed url\nTo perform Task2 for Focused Crawling in BFS, please provide seed url and keyword\n")
-    
-    elif(len(sys.argv)>=2):
-        keyword = []
-        seed = sys.argv[1]
-        for i in range(2,len(sys.argv)):
-            keyword.append(sys.argv[i])
+    '''
+    Retrieves the Id format of the url. 
+    '''
+    def fetch_doc_id(self,url):
+        link = url
+        from_index = link.find('wiki/') + 5
+        to_index = len(link) 
+        doc_id = link[from_index:to_index]
+        return doc_id
         
-        if(len(sys.argv)==1):
-            keyword = ''
-        main(seed,keyword)
+# 
+# def main(seed, keyword):
+# 
+#         crawler = Crawler(seed, keyword)
+#         crawler.setUrlPrefix()
+# 
+#         if(crawler.keyword!=[]):
+#             crawler.is_focused_crawl = True
+#             print("Starting focused crawl..")
+#             crawler.is_bfs = True
+#             crawler.crawl_bfs(crawler.frontier)
+#             print("Printing visited crawls..")
+#             crawler.printData(crawler.bfs_visited)
+#             crawler.is_bfs = False
+#             crawler.is_focused_crawl = False
+#             print("Focused crawl completed!")
+#         else:
+#             print("Starting BFS crawl..")
+#             crawler.is_bfs = True
+#             crawler.crawl_bfs(crawler.frontier)
+#             print("Printing bfs visited crawls..")
+#             crawler.printData(crawler.bfs_visited)
+#             crawler.is_bfs = False
+#             print("BFS crawl completed!")
+#             
+#             print("Starting DFS crawl")
+#             crawler.is_dfs = True
+#             crawler.frontier = [seed]
+#             crawler.crawl_dfs(crawler.frontier)
+#             print("Printing dfs visited crawls..")
+#             crawler.printData(crawler.dfs_visited)
+#             crawler.is_dfs = False
+#             print("DFS crawl completed!")
+#         
+#  
+# if __name__ == '__main__':
+#     
+#     if(len(sys.argv) ==1):
+#         raise Exception("Please pass the argument(s)\nTo perform Task 1 for BFS and DFS crawling, please provide seed url\nTo perform Task2 for Focused Crawling in BFS, please provide seed url and keyword\n")
+#     
+#     elif(len(sys.argv)>=2):
+#         keyword = []
+#         seed = sys.argv[1]
+#         for i in range(2,len(sys.argv)):
+#             keyword.append(sys.argv[i])
+#         
+#         if(len(sys.argv)==1):
+#             keyword = ''
+#         main(seed,keyword)
+
+
+def main():
+
+  
+
+        seed = "https://en.wikipedia.org/wiki/Solar_eclipse"
+
+        crawler = Crawler(seed, '')
+
+        crawler.setUrlPrefix()        
+
+        crawler.is_bfs = True
+ 
+        crawler.crawl_bfs(crawler.frontier)
+ 
+        crawler.printData(crawler.bfs_visited)
+ 
+        crawler.is_bfs = False  
+ 
+#         crawler.is_dfs = True
+#  
+#         crawler.frontier = [seed]
+#  
+#         crawler.crawl_dfs(crawler.frontier)
+#            
+#         crawler.printData(crawler.dfs_visited)
+#  
+#         crawler.is_dfs = False
+
+if __name__ == '__main__':
+
+    main()
     
     
        
